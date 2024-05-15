@@ -49,9 +49,6 @@ def process_subdirectory(directory):
     # Calcola gli embeddings per ogni lingua
     embeddings_by_language = {}
     for language, sentences in sentences_by_language.items():
-        # Aggiungi frasi di riempimento per raggiungere il numero massimo di frasi
-        # padding_sentences = ['<PAD>'] * (max_sentences - len(sentences))
-        # padded_sentences = sentences + padding_sentences
         sentence_embeddings = get_labse_embedding(sentences) # troviamo i tensori degli embedding delle frasi
         zero_tensor = torch.zeros(sentence_embeddings[0].shape[0]) # costruiamo un tensore di 0 con dimensione uguale a quella degli embeddings
         pad_length = (max_sentences - len(sentences)) # troviamo la lunghezza di padding
