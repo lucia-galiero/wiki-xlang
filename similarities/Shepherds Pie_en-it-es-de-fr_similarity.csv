@@ -1,0 +1,763 @@
+LANGUAGE1,SENTENCE1,LANGUAGE2,SENTENCE2,COSINE SIMILARITY
+EN,"Shepherd's pie, cottage pie, or in its French version hachis Parmentier, is a savoury dish of cooked minced meat topped with mashed potato and baked, formerly also called Sanders or Saunders.",FR,"Le cottage pie, ou shepherd's pie, est un mets d'origine britannique constitué d'une tourte à la viande avec une croûte de purée de pommes de terre,,,.",0.72959936
+EN,The meat used may be either previously cooked or freshly minced.,FR,"== Historique ==
+L'usage de l'expression cottage pie en anglais remonte à 1791,,, époque où la pomme de terre est devenue un aliment accessible aux pauvres (cf.",0.5210445
+EN,The usual meats are beef or lamb.,FR,"cottage, qui désignait la demeure rurale du paysan).",0.5057729
+EN,"The two English terms have been used interchangeably since they came into use in the late 18th and early 19th centuries, although some writers insist that a shepherd's pie should contain lamb or mutton, and a cottage pie, beef.",FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",0.55554587
+EN,"== History ==
+=== Cottage pie ===
+The term was in use by 1791.",FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",0.69876426
+EN,"Parson Woodforde mentions ""Cottage-Pye"" in his diary entry for 29 August 1791 and several times thereafter.",FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",0.5873164
+EN,He records that the meat was veal but does not say what the topping was.,FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,0.5527031
+EN,"The dish was known in its present form, though not under the same name, in the early 19th century: in 1806 Maria Rundell published a recipe for ""Sanders"", consisting of the same ingredients as cottage or shepherd's pie: minced beef or mutton, with onion and gravy, topped with mashed potato and baked as individual servings.",FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",0.62317365
+EN,"Sanders or Saunders could also have a filling of sliced meat.In 20th-century and later use the term cottage pie has widely, but not exclusively, been used for a dish of chopped or minced beef with a mashed potato topping.",FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",0.71520543
+EN,The beef may be fresh or previously cooked; the latter was at one time more usual.,FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",0.7290195
+EN,Well into the 20th century the absence of refrigeration made it expedient in many domestic kitchens to store cooked meat rather than raw.,FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",0.5719056
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",0.577482
+EN,Modern recipes for cottage pie typically use fresh beef.,FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",0.7138171
+EN,"=== Shepherd's pie ===
+A recipe for shepherd's pie published in Edinburgh in 1849 in The Practice of Cookery and Pastry specifies cooked meat of any kind, sliced rather than minced, covered with mashed potato and baked.",FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",0.6104682
+EN,In the 1850s the term was also used for a Scottish dish that contained a mutton and diced potato filling inside a pastry crust.,FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",0.6114902
+EN,"Neither shepherd's pie nor cottage pie was mentioned in the original edition of Mrs Beeton's Household Management in 1861.More recently ""shepherd's pie"" has generally been used for a potato-topped dish of minced lamb.",FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",0.71820164
+EN,"According to the Oxford Companion to Food, ""In keeping with the name, the meat should be mutton or lamb; and it is usually cooked meat left over from a roast"".",FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",0.70653224
+EN,"As with beef, it was commonplace in the days before refrigeration to cook a Sunday joint to last in various guises throughout the week.",FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",0.62608093
+EN,"Dorothy Hartley quotes a traditional verse, ""Vicarage mutton"", showing not only the uses to which the joint was put, but also the interchangeability of the terms ""shepherd's"" and ""cottage"" pie:
+=== Hachis Parmentier ===
+The dish Hachis Parmentier is named after Antoine-Augustin Parmentier, who popularised the potato in French cuisine in the late 18th century.",FR,"cottage, qui désignait la demeure rurale du paysan).",0.5724274
+EN,It is documented from the late 19th century.,FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",0.49185348
+EN,It is usually made with chopped or minced lamb or beef; in either case it may be made with either fresh or left-over cooked meat.,FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",0.6969233
+EN,"(The modern English term ""hash"" derives from the French hachis, meaning food ""finely chopped"".",FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",0.5932025
+EN,)In some recipes a layer of sauté potatoes is put in the cooking dish before the meat filling and mashed potato topping are added.,FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",0.5692038
+EN,"A more elaborate version by Auguste Escoffier, named Hachis de boeuf à Parmentier, consists of baked potatoes, the contents of which are removed, mixed with freshly-cooked diced beef, returned to the potato shells and covered with sauce lyonnaise.",FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",0.5946393
+EN,"== Variations ==
+There are no universally agreed ingredients for any of the three dishes.",FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",0.5167465
+EN,"The 24 recipes cited in the table show the varieties of titles and ingredients recommended by cooks and food writers from Australia, Britain, Canada, France and the US.",FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",0.4489348
+EN,"== Similar dishes ==
+Fillings for other pies with a mashed potato topping are numerous, and include artichoke hearts and red peppers; black pudding; chicken and spinach; chorizo; curried chicken; duck; rabbit; salmon; salt cod; turkey and ham; and flaked white fish with shrimps, in a white sauce.Other pies with non-pastry toppings include:",FR,"cottage, qui désignait la demeure rurale du paysan).",0.46802163
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",0.577482
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",0.56958216
+EN,"The two English terms have been used interchangeably since they came into use in the late 18th and early 19th centuries, although some writers insist that a shepherd's pie should contain lamb or mutton, and a cottage pie, beef.",FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",0.55554587
+EN,"== History ==
+=== Cottage pie ===
+The term was in use by 1791.",FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",0.4590389
+EN,"== History ==
+=== Cottage pie ===
+The term was in use by 1791.",FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,0.59083986
+EN,"A more elaborate version by Auguste Escoffier, named Hachis de boeuf à Parmentier, consists of baked potatoes, the contents of which are removed, mixed with freshly-cooked diced beef, returned to the potato shells and covered with sauce lyonnaise.",FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,0.4916501
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",0.56958216
+EN,Modern recipes for cottage pie typically use fresh beef.,FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,0.51270133
+EN,"(The modern English term ""hash"" derives from the French hachis, meaning food ""finely chopped"".",FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",0.47573498
+EN,"Shepherd's pie, cottage pie, or in its French version hachis Parmentier, is a savoury dish of cooked minced meat topped with mashed potato and baked, formerly also called Sanders or Saunders.",FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",0.63631463
+EN,"Shepherd's pie, cottage pie, or in its French version hachis Parmentier, is a savoury dish of cooked minced meat topped with mashed potato and baked, formerly also called Sanders or Saunders.",DE,"Shepherd’s Pie ist ein traditionelles Gericht der britischen und irischen Küche, in Irland auch als Cottage Pie (pióg an aoire) bekannt.",0.6672036
+EN,The meat used may be either previously cooked or freshly minced.,DE,"== Zusammensetzung ==
+Der Shepherd’s Pie besteht grundsätzlich aus zwei Schichten; die untere besteht aus Hackfleisch, die obere aus pürierten oder sehr fein geriebenen Kartoffeln.",0.567178
+EN,The usual meats are beef or lamb.,DE,"Das Hackfleisch ist üblicherweise Lammfleisch (daher der Name „Schäferkuchen“), allerdings wird diese Speise gerne auch aus Fleischresten des Sonntagsbratens (Sunday roast) hergestellt.",0.60095096
+EN,"The two English terms have been used interchangeably since they came into use in the late 18th and early 19th centuries, although some writers insist that a shepherd's pie should contain lamb or mutton, and a cottage pie, beef.",DE,"Für die Fleischschicht wird üblicherweise das Hackfleisch zusammen mit feinen Zwiebelwürfeln in der Pfanne angebraten, anschließend lässt man es in der Brühe köcheln.",0.38045666
+EN,"== History ==
+=== Cottage pie ===
+The term was in use by 1791.",DE,"Gerne werden auch andere Zutaten dazu gegeben wie zum Beispiel Knoblauch, gehackte Karotten, Erbsen oder anderes Gemüse sowie Kräuter wie Rosmarin oder Oregano.",0.28022143
+EN,"Parson Woodforde mentions ""Cottage-Pye"" in his diary entry for 29 August 1791 and several times thereafter.",DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",0.46934587
+EN,He records that the meat was veal but does not say what the topping was.,DE,"Die obere Schicht besteht aus Kartoffelpüree, dem Butter und manchmal auch Käse beigegeben wird.",0.49529815
+EN,"The dish was known in its present form, though not under the same name, in the early 19th century: in 1806 Maria Rundell published a recipe for ""Sanders"", consisting of the same ingredients as cottage or shepherd's pie: minced beef or mutton, with onion and gravy, topped with mashed potato and baked as individual servings.",DE,Zur Dekoration kann diese Schicht auch mit der Spritztüte auf die Fleischschicht aufgetragen werden.,0.4430698
+EN,"Sanders or Saunders could also have a filling of sliced meat.In 20th-century and later use the term cottage pie has widely, but not exclusively, been used for a dish of chopped or minced beef with a mashed potato topping.",DE,Manchmal wird zuletzt obenauf noch eine dünne Käseschicht aufgestreut.,0.51435924
+EN,The beef may be fresh or previously cooked; the latter was at one time more usual.,DE,"Der „Kuchen“ wird danach im Ofen gebacken, bis er oben goldbraun und leicht knusprig wird.",0.47949958
+EN,Well into the 20th century the absence of refrigeration made it expedient in many domestic kitchens to store cooked meat rather than raw.,DE,"== Variationen ==
+Dasselbe Gericht mit Fisch anstelle des Fleischs wird „Fisherman’s Pie“ genannt oder, wenn es in einer Sahnesoße serviert wird, auch „Admiral’s Pie“.",0.4716463
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",DE,"In Australien wird häufig ein industriell vorbereiteter Hackfleischteig verwendet, mit Kartoffelpüree bedeckt wird er dort „Potato Pie“ genannt, in Neuseeland spricht man von „Potato Top Pie“.",0.42305994
+EN,Modern recipes for cottage pie typically use fresh beef.,DE,Die nordamerikanische Variante heißt „Chinese Pie“ oder „Cowboy Pie“.,0.47944468
+EN,"=== Shepherd's pie ===
+A recipe for shepherd's pie published in Edinburgh in 1849 in The Practice of Cookery and Pastry specifies cooked meat of any kind, sliced rather than minced, covered with mashed potato and baked.",DE,Hier wird allerdings zwischen Fleisch und Kartoffel noch eine Schicht aus Mais und Ketchup eingefügt.,0.48814934
+EN,In the 1850s the term was also used for a Scottish dish that contained a mutton and diced potato filling inside a pastry crust.,DE,Im französischsprachigen Kanada heißt diese Variante „Pâté chinois“ (dt.,0.5024874
+EN,"Neither shepherd's pie nor cottage pie was mentioned in the original edition of Mrs Beeton's Household Management in 1861.More recently ""shepherd's pie"" has generally been used for a potato-topped dish of minced lamb.",DE,: Chinesische Pastete).,0.53984874
+EN,"According to the Oxford Companion to Food, ""In keeping with the name, the meat should be mutton or lamb; and it is usually cooked meat left over from a roast"".",DE,Oft wird der Mais auch durch Erbsen und Karotten ersetzt.,0.4831182
+EN,"As with beef, it was commonplace in the days before refrigeration to cook a Sunday joint to last in various guises throughout the week.",DE,Im Nordosten der USA werden oft grüne Bohnen statt Mais als Zwischenschicht eingefügt.,0.50644183
+EN,"Dorothy Hartley quotes a traditional verse, ""Vicarage mutton"", showing not only the uses to which the joint was put, but also the interchangeability of the terms ""shepherd's"" and ""cottage"" pie:
+=== Hachis Parmentier ===
+The dish Hachis Parmentier is named after Antoine-Augustin Parmentier, who popularised the potato in French cuisine in the late 18th century.",DE,Die „Mittlerer-Westen“-Version wird mit einer Zwischenschicht aus Pilzsoße und grünen Bohnen zubereitet und länger im Ofen gelassen.,0.48726025
+EN,It is documented from the late 19th century.,DE,Bei der vegetarischen Variante des „Shepherd’s Pie“ wird an Stelle der Fleischschicht eine Lage aus dicken Bohnen oder anderen stark proteinhaltigen Gemüsen verwendet.,0.33790198
+EN,It is usually made with chopped or minced lamb or beef; in either case it may be made with either fresh or left-over cooked meat.,DE,„Hachis parmentier“ (dt.,0.46883687
+EN,"(The modern English term ""hash"" derives from the French hachis, meaning food ""finely chopped"".",DE,": „Hackfleisch Parmentier“, benannt nach dem Initiator und Förderer des französischen Kartoffelanbaus Antoine Parmentier) ist ein beliebtes französisches Essen, das dem Shepherd’s Pie sehr ähnlich ist.",0.53849256
+EN,)In some recipes a layer of sauté potatoes is put in the cooking dish before the meat filling and mashed potato topping are added.,DE,"Es wird üblicherweise zuhause zubereitet, in Restaurants ist es eher selten zu finden.",0.48105866
+EN,"A more elaborate version by Auguste Escoffier, named Hachis de boeuf à Parmentier, consists of baked potatoes, the contents of which are removed, mixed with freshly-cooked diced beef, returned to the potato shells and covered with sauce lyonnaise.",DE,Auch hier wird gerne Übriggebliebenes verwertet.,0.53749454
+EN,"== Variations ==
+There are no universally agreed ingredients for any of the three dishes.",DE,Die türkische Variante heißt „Hasanpaşa Köfte“ (Hasan-Pascha-Frikadellen).,0.4315667
+EN,"The 24 recipes cited in the table show the varieties of titles and ingredients recommended by cooks and food writers from Australia, Britain, Canada, France and the US.",DE,"Hier werden Frikadellen zu kleinen Schälchen geformt, mit Kartoffelpüree gefüllt und mit Tomatensauce übergossen.",0.382173
+EN,"== Similar dishes ==
+Fillings for other pies with a mashed potato topping are numerous, and include artichoke hearts and red peppers; black pudding; chicken and spinach; chorizo; curried chicken; duck; rabbit; salmon; salt cod; turkey and ham; and flaked white fish with shrimps, in a white sauce.Other pies with non-pastry toppings include:",DE,Oft werden auch Erbsen als Zwischenschicht eingefüllt.,0.5204419
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",DE,Die nordamerikanische Variante heißt „Chinese Pie“ oder „Cowboy Pie“.,0.37596726
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",DE,Auch hier wird gerne Übriggebliebenes verwertet.,0.5670649
+EN,"The two English terms have been used interchangeably since they came into use in the late 18th and early 19th centuries, although some writers insist that a shepherd's pie should contain lamb or mutton, and a cottage pie, beef.",DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",0.45221487
+EN,"== History ==
+=== Cottage pie ===
+The term was in use by 1791.",DE,"Gerne werden auch andere Zutaten dazu gegeben wie zum Beispiel Knoblauch, gehackte Karotten, Erbsen oder anderes Gemüse sowie Kräuter wie Rosmarin oder Oregano.",0.28022143
+EN,"== History ==
+=== Cottage pie ===
+The term was in use by 1791.",DE,"Gerne werden auch andere Zutaten dazu gegeben wie zum Beispiel Knoblauch, gehackte Karotten, Erbsen oder anderes Gemüse sowie Kräuter wie Rosmarin oder Oregano.",0.28022143
+EN,"A more elaborate version by Auguste Escoffier, named Hachis de boeuf à Parmentier, consists of baked potatoes, the contents of which are removed, mixed with freshly-cooked diced beef, returned to the potato shells and covered with sauce lyonnaise.",DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",0.41659284
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",0.38472536
+EN,Modern recipes for cottage pie typically use fresh beef.,DE,"Das Hackfleisch ist üblicherweise Lammfleisch (daher der Name „Schäferkuchen“), allerdings wird diese Speise gerne auch aus Fleischresten des Sonntagsbratens (Sunday roast) hergestellt.",0.51133597
+EN,"(The modern English term ""hash"" derives from the French hachis, meaning food ""finely chopped"".",DE,"Für die Fleischschicht wird üblicherweise das Hackfleisch zusammen mit feinen Zwiebelwürfeln in der Pfanne angebraten, anschließend lässt man es in der Brühe köcheln.",0.4347652
+EN,"Shepherd's pie, cottage pie, or in its French version hachis Parmentier, is a savoury dish of cooked minced meat topped with mashed potato and baked, formerly also called Sanders or Saunders.",DE,Im französischsprachigen Kanada heißt diese Variante „Pâté chinois“ (dt.,0.6348138
+EN,"Shepherd's pie, cottage pie, or in its French version hachis Parmentier, is a savoury dish of cooked minced meat topped with mashed potato and baked, formerly also called Sanders or Saunders.",IT,Il cottage pie o shepherd's pie (in italiano pasticcio del pastore) è un pasticcio di carne ricoperto da una purea di patate.,0.72132254
+EN,The meat used may be either previously cooked or freshly minced.,IT,"Sebbene nella storia i due termini siano stati usati come sinonimi, alcuni sostengono che nel ""cottage pie"" si usa il manzo, mentre nello ""shepherd's pie"" l'agnello.",0.45247743
+EN,The usual meats are beef or lamb.,IT,In Francia è popolare una variante nota come hachis Parmentier.,0.55811405
+EN,"The two English terms have been used interchangeably since they came into use in the late 18th and early 19th centuries, although some writers insist that a shepherd's pie should contain lamb or mutton, and a cottage pie, beef.",IT,"La ricetta ha molte varianti, ma gli ingredienti distintivi sono carne rossa macinata, cucinata in un sugo di carne o in un sugo con cipolle e talvolta altre verdure come piselli, sedano o carote, e ricoperta da uno strato di purea di patate prima della cottura.",0.5401082
+EN,"== History ==
+=== Cottage pie ===
+The term was in use by 1791.",IT,A volte si aggiunge del formaggio grattugiato sopra per formare un strato di formaggio sciolto.,0.4761969
+EN,"Parson Woodforde mentions ""Cottage-Pye"" in his diary entry for 29 August 1791 and several times thereafter.",IT,"== Storia ==
+=== Cottage pie ===
+Il termine era in uso già nel 1791, poiché Parson Woodforde menziona il ""Cottage-Pye"" nel suo diario in data 29 agosto 1791, e numerose volte di seguito.",0.9090984
+EN,He records that the meat was veal but does not say what the topping was.,IT,Egli riporta che la carne era di vitello ma non dice con cosa veniva preparata la copertura.,0.9031396
+EN,"The dish was known in its present form, though not under the same name, in the early 19th century: in 1806 Maria Rundell published a recipe for ""Sanders"", consisting of the same ingredients as cottage or shepherd's pie: minced beef or mutton, with onion and gravy, topped with mashed potato and baked as individual servings.",IT,"Nel XX secolo e successivamente, il termine è stato usato largamente, ma non esclusivamente, per un piatto di carne di manzo tagliata o macinata con una copertura di patate schiacciate.",0.62444395
+EN,"Sanders or Saunders could also have a filling of sliced meat.In 20th-century and later use the term cottage pie has widely, but not exclusively, been used for a dish of chopped or minced beef with a mashed potato topping.",IT,"Il manzo poteva essere sia fresco sia, e più frequentemente, cucinato precedentemente.",0.57734466
+EN,The beef may be fresh or previously cooked; the latter was at one time more usual.,IT,"Durante il XX secolo, l'impossibilità di congelare gli alimenti rese utile la conservazione di carne cotta piuttosto che cruda.",0.60785174
+EN,Well into the 20th century the absence of refrigeration made it expedient in many domestic kitchens to store cooked meat rather than raw.,IT,"Negli anni '40, il cuoco Louis Diat ricordò la sua infanzia: ""quando le casalinghe compravano la carne per la domenica, sceglievano dei pezzi tanto grandi che rimanessero gli avanzi per molti giorni"".",0.6341882
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",IT,Le ricette moderne per il cottage pie tipicamente usano manzo fresco.,0.5526589
+EN,Modern recipes for cottage pie typically use fresh beef.,IT,"=== Shepherd's pie ===
+Secondo il dizionario statunitense di Merriam-Webster, il primo utilizzo del termine shepherd's pie risale al 1854.",0.5493773
+EN,"=== Shepherd's pie ===
+A recipe for shepherd's pie published in Edinburgh in 1849 in The Practice of Cookery and Pastry specifies cooked meat of any kind, sliced rather than minced, covered with mashed potato and baked.",IT,"Nell'uso britannico negli anni 1850, il termine si riferiva a un piatto scozzese che prevedeva una pasta sfoglia ripiena di carne di montone e patate a dadini.",0.61662614
+EN,In the 1850s the term was also used for a Scottish dish that contained a mutton and diced potato filling inside a pastry crust.,IT,"Né lo shepherd's pie né il cottage pie sono stati menzionati nella prima edizione del Household Management di Isabella Beeton del 1861.Più di recente, ""shepherd's pie"" viene usato per un piatto di agnello macinato ricoperto di patate.",0.6913706
+EN,"Neither shepherd's pie nor cottage pie was mentioned in the original edition of Mrs Beeton's Household Management in 1861.More recently ""shepherd's pie"" has generally been used for a potato-topped dish of minced lamb.",IT,"Secondo l'Oxford Companion to Food,
+Come per il manzo, era di uso comune, in assenza di congelatore, cucinare un tocco di carne la domenica che durasse per l'intera settimana.",0.55612177
+EN,"According to the Oxford Companion to Food, ""In keeping with the name, the meat should be mutton or lamb; and it is usually cooked meat left over from a roast"".",IT,"Dorothy Hartley cita una vecchia poesia, ""Vicarage mutton"", che mostra non solo i diversi usi del tocco di carne avanzato, ma anche che i termini ""shepherd's"" e ""cottage"" erano intercambiabili:
+=== Hachis Parmentier ===
+Il piatto prende il nome da Antoine-Augustin Parmentier, che rese popolare la patata nella cucina francese alla fine del XVIII secolo.",0.6346808
+EN,"As with beef, it was commonplace in the days before refrigeration to cook a Sunday joint to last in various guises throughout the week.",IT,È documentato dalla fine del XIX secolo.,0.40084583
+EN,"Dorothy Hartley quotes a traditional verse, ""Vicarage mutton"", showing not only the uses to which the joint was put, but also the interchangeability of the terms ""shepherd's"" and ""cottage"" pie:
+=== Hachis Parmentier ===
+The dish Hachis Parmentier is named after Antoine-Augustin Parmentier, who popularised the potato in French cuisine in the late 18th century.",IT,"Viene solitamente preparato con manzo o agnello, tritato o a pezzi, con carne fresca o avanzata.",0.3703875
+EN,It is documented from the late 19th century.,IT,"Il termine francese ""hachis"" significa ""finemente spezzettato"".In alcune ricette, viene messo uno strato di patate sauté nel piatto prima del ripieno di carne e dello strato superiore di patate schiacciate.",0.42966145
+EN,It is usually made with chopped or minced lamb or beef; in either case it may be made with either fresh or left-over cooked meat.,IT,"Una versione più elaborata, a cura di Auguste Escoffier, chiamata ""Hachis de boeuf à Parmentier"", consiste di patate al forno, a cui viene rimosso il contenuto, mescolate con manzo macinato, e coperte con salsa lionese (a base di vino, burro, aceto bianco e cipolle).",0.60171854
+EN,"(The modern English term ""hash"" derives from the French hachis, meaning food ""finely chopped"".",IT,"== Etimologia ==
+Il termine cottage pie è in uso dal 1791, quando fu introdotta la patata come coltivazione per i più poveri (cfr.",0.55278766
+EN,)In some recipes a layer of sauté potatoes is put in the cooking dish before the meat filling and mashed potato topping are added.,IT,"""cottage"", cioè una modesta abitazione per lavoratori rurali).",0.50166094
+EN,"A more elaborate version by Auguste Escoffier, named Hachis de boeuf à Parmentier, consists of baked potatoes, the contents of which are removed, mixed with freshly-cooked diced beef, returned to the potato shells and covered with sauce lyonnaise.",IT,"Il termine shepherd's pie non è apparso fino al 1854, ed era usato come sinonimo di cottage pie, a prescindere dal tipo di carne, anche se i due termini non erano identici.",0.5128528
+EN,"== Variations ==
+There are no universally agreed ingredients for any of the three dishes.",IT,"Lo Shepherd's, infatti, era consumato dai poveri, perché preparato con carni povere ed accessibili a tutti, mentre il Cottage era la versione da ricchi, con carni pregiate marinate al vino.",0.49406302
+EN,"The 24 recipes cited in the table show the varieties of titles and ingredients recommended by cooks and food writers from Australia, Britain, Canada, France and the US.",IT,"Nel Regno Unito, il termine shepherd's pie è più usato quando la carne è ovina.",0.4536329
+EN,"== Similar dishes ==
+Fillings for other pies with a mashed potato topping are numerous, and include artichoke hearts and red peppers; black pudding; chicken and spinach; chorizo; curried chicken; duck; rabbit; salmon; salt cod; turkey and ham; and flaked white fish with shrimps, in a white sauce.Other pies with non-pastry toppings include:",IT,"== Varianti e piatti simili ==
+Altri pasticci ricoperti da patate sono:
+Il moderno pasticcio del Cumberland è una versione con manzo o agnello e uno strato di pangrattato e formaggio.",0.6863861
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",IT,"Nel Medioevo, e al giorno d'oggi in Cumbria, la crosta ha un ripieno di carne con frutta e spezie.",0.5373913
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",IT,"Nel Québec, una variante si chiama Pâté chinois.",0.5078354
+EN,"The two English terms have been used interchangeably since they came into use in the late 18th and early 19th centuries, although some writers insist that a shepherd's pie should contain lamb or mutton, and a cottage pie, beef.",IT,"Viene fatta con manzo macinato nello strato inferiore, mais in scatola nel mezzo, e purea di patate sopra.",0.44634897
+EN,"== History ==
+=== Cottage pie ===
+The term was in use by 1791.",IT,"Lo shepherdess pie è una versione vegetariana fatta senza carne, oppure una versione vegana, senza carne né latticini.",0.5139737
+EN,"== History ==
+=== Cottage pie ===
+The term was in use by 1791.",IT,"Nei Paesi Bassi, un piatto molto simile chiamato ""stufato del filosofo"" (in olandese filosoof) ha spesso in aggiunta ingredienti come fagioli, mele, prugne, o salsa di mele.",0.5336685
+EN,"A more elaborate version by Auguste Escoffier, named Hachis de boeuf à Parmentier, consists of baked potatoes, the contents of which are removed, mixed with freshly-cooked diced beef, returned to the potato shells and covered with sauce lyonnaise.",IT,"In Brasile, un piatto chiamato escondidinho si riferisce al fatto che una purea di manioca copre uno strato di carne essiccata.",0.6099599
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",IT,Il piatto spesso comprende formaggio e pollo; il merluzzo è talvolta usato al posto del manzo.,0.47672075
+EN,Modern recipes for cottage pie typically use fresh beef.,IT,Un pasticcio per il giorno di Santo Stefano è fatto con tacchino e prosciutto.,0.61309016
+EN,"(The modern English term ""hash"" derives from the French hachis, meaning food ""finely chopped"".",IT,Il fish pie fa parte della cucina inglese ed è composto di pesce e frutti di mare in una salsa con un strato di purea di patate.,0.53888905
+EN,"Shepherd's pie, cottage pie, or in its French version hachis Parmentier, is a savoury dish of cooked minced meat topped with mashed potato and baked, formerly also called Sanders or Saunders.",IT,In irlandese questo piatto è noto come pióg an aoire.,0.62094814
+EN,"Shepherd's pie, cottage pie, or in its French version hachis Parmentier, is a savoury dish of cooked minced meat topped with mashed potato and baked, formerly also called Sanders or Saunders.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.6519715
+EN,The meat used may be either previously cooked or freshly minced.,ES,"== Características ==
+Originalmente, el cottage pie se realizaba con sobras de carne de ternera asada.",0.58506334
+EN,The usual meats are beef or lamb.,ES,"Sin embargo, en la actualidad, suelen utilizarse también trozos de carne que son cocidos para la ocasión, así como carne de ternera picada.",0.6358082
+EN,"The two English terms have been used interchangeably since they came into use in the late 18th and early 19th centuries, although some writers insist that a shepherd's pie should contain lamb or mutton, and a cottage pie, beef.",ES,"Una vez obtenida la carne, se le suele agregar cebolla, ajo y algún tipo de salsa, como puede ser salsa de tomate.",0.47314918
+EN,"== History ==
+=== Cottage pie ===
+The term was in use by 1791.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.3910367
+EN,"Parson Woodforde mentions ""Cottage-Pye"" in his diary entry for 29 August 1791 and several times thereafter.",ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.54388106
+EN,He records that the meat was veal but does not say what the topping was.,ES,"Dicha denominación surge en el siglo XIX, pero en la actualidad se utiliza mayormente como un término genérico para referirse a cualquiera de los dos pasteles.",0.49652198
+EN,"The dish was known in its present form, though not under the same name, in the early 19th century: in 1806 Maria Rundell published a recipe for ""Sanders"", consisting of the same ingredients as cottage or shepherd's pie: minced beef or mutton, with onion and gravy, topped with mashed potato and baked as individual servings.",ES,"[2]​
+== Historia ==
+La primera utilización del nombre cottage pie data de 1791, tiempo en que la población más pobre del Reino Unido, que vivían en cottages (casas pequeñas) en la zona rural, empezaban a emplear la papa con frecuencia como un alimento cotidiano.",0.5630776
+EN,"Sanders or Saunders could also have a filling of sliced meat.In 20th-century and later use the term cottage pie has widely, but not exclusively, been used for a dish of chopped or minced beef with a mashed potato topping.",ES,[3]​[4]​,0.34662893
+EN,The beef may be fresh or previously cooked; the latter was at one time more usual.,ES,"== Características ==
+Originalmente, el cottage pie se realizaba con sobras de carne de ternera asada.",0.6847625
+EN,Well into the 20th century the absence of refrigeration made it expedient in many domestic kitchens to store cooked meat rather than raw.,ES,"Sin embargo, en la actualidad, suelen utilizarse también trozos de carne que son cocidos para la ocasión, así como carne de ternera picada.",0.53548205
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.46837294
+EN,Modern recipes for cottage pie typically use fresh beef.,ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.5865149
+EN,"=== Shepherd's pie ===
+A recipe for shepherd's pie published in Edinburgh in 1849 in The Practice of Cookery and Pastry specifies cooked meat of any kind, sliced rather than minced, covered with mashed potato and baked.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.6437205
+EN,In the 1850s the term was also used for a Scottish dish that contained a mutton and diced potato filling inside a pastry crust.,ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5617019
+EN,"Neither shepherd's pie nor cottage pie was mentioned in the original edition of Mrs Beeton's Household Management in 1861.More recently ""shepherd's pie"" has generally been used for a potato-topped dish of minced lamb.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.6162226
+EN,"According to the Oxford Companion to Food, ""In keeping with the name, the meat should be mutton or lamb; and it is usually cooked meat left over from a roast"".",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.5464579
+EN,"As with beef, it was commonplace in the days before refrigeration to cook a Sunday joint to last in various guises throughout the week.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.504362
+EN,"Dorothy Hartley quotes a traditional verse, ""Vicarage mutton"", showing not only the uses to which the joint was put, but also the interchangeability of the terms ""shepherd's"" and ""cottage"" pie:
+=== Hachis Parmentier ===
+The dish Hachis Parmentier is named after Antoine-Augustin Parmentier, who popularised the potato in French cuisine in the late 18th century.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5137591
+EN,It is documented from the late 19th century.,ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.33172837
+EN,It is usually made with chopped or minced lamb or beef; in either case it may be made with either fresh or left-over cooked meat.,ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.53861016
+EN,"(The modern English term ""hash"" derives from the French hachis, meaning food ""finely chopped"".",ES,"Dicha denominación surge en el siglo XIX, pero en la actualidad se utiliza mayormente como un término genérico para referirse a cualquiera de los dos pasteles.",0.55861276
+EN,)In some recipes a layer of sauté potatoes is put in the cooking dish before the meat filling and mashed potato topping are added.,ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.56137973
+EN,"A more elaborate version by Auguste Escoffier, named Hachis de boeuf à Parmentier, consists of baked potatoes, the contents of which are removed, mixed with freshly-cooked diced beef, returned to the potato shells and covered with sauce lyonnaise.",ES,"Una vez obtenida la carne, se le suele agregar cebolla, ajo y algún tipo de salsa, como puede ser salsa de tomate.",0.5177011
+EN,"== Variations ==
+There are no universally agreed ingredients for any of the three dishes.",ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.62285566
+EN,"The 24 recipes cited in the table show the varieties of titles and ingredients recommended by cooks and food writers from Australia, Britain, Canada, France and the US.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.38347954
+EN,"== Similar dishes ==
+Fillings for other pies with a mashed potato topping are numerous, and include artichoke hearts and red peppers; black pudding; chicken and spinach; chorizo; curried chicken; duck; rabbit; salmon; salt cod; turkey and ham; and flaked white fish with shrimps, in a white sauce.Other pies with non-pastry toppings include:",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.52891004
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.50995106
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",ES,"== Características ==
+Originalmente, el cottage pie se realizaba con sobras de carne de ternera asada.",0.5750102
+EN,"The two English terms have been used interchangeably since they came into use in the late 18th and early 19th centuries, although some writers insist that a shepherd's pie should contain lamb or mutton, and a cottage pie, beef.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.4511906
+EN,"== History ==
+=== Cottage pie ===
+The term was in use by 1791.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.3910367
+EN,"== History ==
+=== Cottage pie ===
+The term was in use by 1791.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.513976
+EN,"A more elaborate version by Auguste Escoffier, named Hachis de boeuf à Parmentier, consists of baked potatoes, the contents of which are removed, mixed with freshly-cooked diced beef, returned to the potato shells and covered with sauce lyonnaise.",ES,"[2]​
+== Historia ==
+La primera utilización del nombre cottage pie data de 1791, tiempo en que la población más pobre del Reino Unido, que vivían en cottages (casas pequeñas) en la zona rural, empezaban a emplear la papa con frecuencia como un alimento cotidiano.",0.46012688
+EN,"In the 1940s the chef Louis Diat recalled of his childhood days, ""when housewives bought their Sunday meat they selected pieces large enough to make into leftover dishes for several days"".",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.48913255
+EN,Modern recipes for cottage pie typically use fresh beef.,ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5031719
+EN,"(The modern English term ""hash"" derives from the French hachis, meaning food ""finely chopped"".",ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.55400515
+EN,"Shepherd's pie, cottage pie, or in its French version hachis Parmentier, is a savoury dish of cooked minced meat topped with mashed potato and baked, formerly also called Sanders or Saunders.",ES,"Una vez obtenida la carne, se le suele agregar cebolla, ajo y algún tipo de salsa, como puede ser salsa de tomate.",0.5464071
+FR,"Le cottage pie, ou shepherd's pie, est un mets d'origine britannique constitué d'une tourte à la viande avec une croûte de purée de pommes de terre,,,.",DE,"Shepherd’s Pie ist ein traditionelles Gericht der britischen und irischen Küche, in Irland auch als Cottage Pie (pióg an aoire) bekannt.",0.7668518
+FR,"== Historique ==
+L'usage de l'expression cottage pie en anglais remonte à 1791,,, époque où la pomme de terre est devenue un aliment accessible aux pauvres (cf.",DE,"== Zusammensetzung ==
+Der Shepherd’s Pie besteht grundsätzlich aus zwei Schichten; die untere besteht aus Hackfleisch, die obere aus pürierten oder sehr fein geriebenen Kartoffeln.",0.5472881
+FR,"cottage, qui désignait la demeure rurale du paysan).",DE,"Das Hackfleisch ist üblicherweise Lammfleisch (daher der Name „Schäferkuchen“), allerdings wird diese Speise gerne auch aus Fleischresten des Sonntagsbratens (Sunday roast) hergestellt.",0.47268233
+FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",DE,"Für die Fleischschicht wird üblicherweise das Hackfleisch zusammen mit feinen Zwiebelwürfeln in der Pfanne angebraten, anschließend lässt man es in der Brühe köcheln.",0.64542973
+FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",DE,"Gerne werden auch andere Zutaten dazu gegeben wie zum Beispiel Knoblauch, gehackte Karotten, Erbsen oder anderes Gemüse sowie Kräuter wie Rosmarin oder Oregano.",0.38595617
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",0.51132053
+FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,DE,"Die obere Schicht besteht aus Kartoffelpüree, dem Butter und manchmal auch Käse beigegeben wird.",0.48379833
+FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",DE,Zur Dekoration kann diese Schicht auch mit der Spritztüte auf die Fleischschicht aufgetragen werden.,0.5142604
+FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",DE,Manchmal wird zuletzt obenauf noch eine dünne Käseschicht aufgestreut.,0.52285737
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",DE,"Der „Kuchen“ wird danach im Ofen gebacken, bis er oben goldbraun und leicht knusprig wird.",0.49324128
+FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",DE,"== Variationen ==
+Dasselbe Gericht mit Fisch anstelle des Fleischs wird „Fisherman’s Pie“ genannt oder, wenn es in einer Sahnesoße serviert wird, auch „Admiral’s Pie“.",0.59285915
+FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",DE,"In Australien wird häufig ein industriell vorbereiteter Hackfleischteig verwendet, mit Kartoffelpüree bedeckt wird er dort „Potato Pie“ genannt, in Neuseeland spricht man von „Potato Top Pie“.",0.60441756
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",DE,Die nordamerikanische Variante heißt „Chinese Pie“ oder „Cowboy Pie“.,0.5469543
+FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",DE,Hier wird allerdings zwischen Fleisch und Kartoffel noch eine Schicht aus Mais und Ketchup eingefügt.,0.5253738
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",DE,Im französischsprachigen Kanada heißt diese Variante „Pâté chinois“ (dt.,0.55290514
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",DE,: Chinesische Pastete).,0.5131383
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",DE,Oft wird der Mais auch durch Erbsen und Karotten ersetzt.,0.61107564
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",DE,Im Nordosten der USA werden oft grüne Bohnen statt Mais als Zwischenschicht eingefügt.,0.59743714
+FR,"cottage, qui désignait la demeure rurale du paysan).",DE,Die „Mittlerer-Westen“-Version wird mit einer Zwischenschicht aus Pilzsoße und grünen Bohnen zubereitet und länger im Ofen gelassen.,0.556228
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",DE,Bei der vegetarischen Variante des „Shepherd’s Pie“ wird an Stelle der Fleischschicht eine Lage aus dicken Bohnen oder anderen stark proteinhaltigen Gemüsen verwendet.,0.64682364
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",DE,„Hachis parmentier“ (dt.,0.6426274
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",DE,": „Hackfleisch Parmentier“, benannt nach dem Initiator und Förderer des französischen Kartoffelanbaus Antoine Parmentier) ist ein beliebtes französisches Essen, das dem Shepherd’s Pie sehr ähnlich ist.",0.60391647
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",DE,"Es wird üblicherweise zuhause zubereitet, in Restaurants ist es eher selten zu finden.",0.535733
+FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",DE,Auch hier wird gerne Übriggebliebenes verwertet.,0.6318301
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",DE,Die türkische Variante heißt „Hasanpaşa Köfte“ (Hasan-Pascha-Frikadellen).,0.5188894
+FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",DE,"Hier werden Frikadellen zu kleinen Schälchen geformt, mit Kartoffelpüree gefüllt und mit Tomatensauce übergossen.",0.5158819
+FR,"cottage, qui désignait la demeure rurale du paysan).",DE,Oft werden auch Erbsen als Zwischenschicht eingefüllt.,0.6236956
+FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",DE,Die nordamerikanische Variante heißt „Chinese Pie“ oder „Cowboy Pie“.,0.45927155
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",DE,Auch hier wird gerne Übriggebliebenes verwertet.,0.6441926
+FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",0.50453067
+FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",DE,"Gerne werden auch andere Zutaten dazu gegeben wie zum Beispiel Knoblauch, gehackte Karotten, Erbsen oder anderes Gemüse sowie Kräuter wie Rosmarin oder Oregano.",0.49151158
+FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,DE,"Gerne werden auch andere Zutaten dazu gegeben wie zum Beispiel Knoblauch, gehackte Karotten, Erbsen oder anderes Gemüse sowie Kräuter wie Rosmarin oder Oregano.",0.35254255
+FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",0.5670507
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",0.51132053
+FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,DE,"Das Hackfleisch ist üblicherweise Lammfleisch (daher der Name „Schäferkuchen“), allerdings wird diese Speise gerne auch aus Fleischresten des Sonntagsbratens (Sunday roast) hergestellt.",0.466043
+FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",DE,"Für die Fleischschicht wird üblicherweise das Hackfleisch zusammen mit feinen Zwiebelwürfeln in der Pfanne angebraten, anschließend lässt man es in der Brühe köcheln.",0.64542973
+FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",DE,Im französischsprachigen Kanada heißt diese Variante „Pâté chinois“ (dt.,0.6055782
+FR,"Le cottage pie, ou shepherd's pie, est un mets d'origine britannique constitué d'une tourte à la viande avec une croûte de purée de pommes de terre,,,.",IT,Il cottage pie o shepherd's pie (in italiano pasticcio del pastore) è un pasticcio di carne ricoperto da una purea di patate.,0.88358766
+FR,"== Historique ==
+L'usage de l'expression cottage pie en anglais remonte à 1791,,, époque où la pomme de terre est devenue un aliment accessible aux pauvres (cf.",IT,"Sebbene nella storia i due termini siano stati usati come sinonimi, alcuni sostengono che nel ""cottage pie"" si usa il manzo, mentre nello ""shepherd's pie"" l'agnello.",0.6300471
+FR,"cottage, qui désignait la demeure rurale du paysan).",IT,In Francia è popolare una variante nota come hachis Parmentier.,0.5905726
+FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",IT,"La ricetta ha molte varianti, ma gli ingredienti distintivi sono carne rossa macinata, cucinata in un sugo di carne o in un sugo con cipolle e talvolta altre verdure come piselli, sedano o carote, e ricoperta da uno strato di purea di patate prima della cottura.",0.6507975
+FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",IT,A volte si aggiunge del formaggio grattugiato sopra per formare un strato di formaggio sciolto.,0.566764
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",IT,"== Storia ==
+=== Cottage pie ===
+Il termine era in uso già nel 1791, poiché Parson Woodforde menziona il ""Cottage-Pye"" nel suo diario in data 29 agosto 1791, e numerose volte di seguito.",0.6236216
+FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,IT,Egli riporta che la carne era di vitello ma non dice con cosa veniva preparata la copertura.,0.5977534
+FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",IT,"Nel XX secolo e successivamente, il termine è stato usato largamente, ma non esclusivamente, per un piatto di carne di manzo tagliata o macinata con una copertura di patate schiacciate.",0.5675955
+FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",IT,"Il manzo poteva essere sia fresco sia, e più frequentemente, cucinato precedentemente.",0.6467864
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",IT,"Durante il XX secolo, l'impossibilità di congelare gli alimenti rese utile la conservazione di carne cotta piuttosto che cruda.",0.6376318
+FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",IT,"Negli anni '40, il cuoco Louis Diat ricordò la sua infanzia: ""quando le casalinghe compravano la carne per la domenica, sceglievano dei pezzi tanto grandi che rimanessero gli avanzi per molti giorni"".",0.57000864
+FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",IT,Le ricette moderne per il cottage pie tipicamente usano manzo fresco.,0.66563284
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",IT,"=== Shepherd's pie ===
+Secondo il dizionario statunitense di Merriam-Webster, il primo utilizzo del termine shepherd's pie risale al 1854.",0.6334665
+FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",IT,"Nell'uso britannico negli anni 1850, il termine si riferiva a un piatto scozzese che prevedeva una pasta sfoglia ripiena di carne di montone e patate a dadini.",0.56152606
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",IT,"Né lo shepherd's pie né il cottage pie sono stati menzionati nella prima edizione del Household Management di Isabella Beeton del 1861.Più di recente, ""shepherd's pie"" viene usato per un piatto di agnello macinato ricoperto di patate.",0.73123574
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",IT,"Secondo l'Oxford Companion to Food,
+Come per il manzo, era di uso comune, in assenza di congelatore, cucinare un tocco di carne la domenica che durasse per l'intera settimana.",0.6474862
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",IT,"Dorothy Hartley cita una vecchia poesia, ""Vicarage mutton"", che mostra non solo i diversi usi del tocco di carne avanzato, ma anche che i termini ""shepherd's"" e ""cottage"" erano intercambiabili:
+=== Hachis Parmentier ===
+Il piatto prende il nome da Antoine-Augustin Parmentier, che rese popolare la patata nella cucina francese alla fine del XVIII secolo.",0.66495514
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",IT,È documentato dalla fine del XIX secolo.,0.47203243
+FR,"cottage, qui désignait la demeure rurale du paysan).",IT,"Viene solitamente preparato con manzo o agnello, tritato o a pezzi, con carne fresca o avanzata.",0.4508601
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",IT,"Il termine francese ""hachis"" significa ""finemente spezzettato"".In alcune ricette, viene messo uno strato di patate sauté nel piatto prima del ripieno di carne e dello strato superiore di patate schiacciate.",0.71233857
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",IT,"Una versione più elaborata, a cura di Auguste Escoffier, chiamata ""Hachis de boeuf à Parmentier"", consiste di patate al forno, a cui viene rimosso il contenuto, mescolate con manzo macinato, e coperte con salsa lionese (a base di vino, burro, aceto bianco e cipolle).",0.6619458
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",IT,"== Etimologia ==
+Il termine cottage pie è in uso dal 1791, quando fu introdotta la patata come coltivazione per i più poveri (cfr.",0.6657399
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",IT,"""cottage"", cioè una modesta abitazione per lavoratori rurali).",0.59835756
+FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",IT,"Il termine shepherd's pie non è apparso fino al 1854, ed era usato come sinonimo di cottage pie, a prescindere dal tipo di carne, anche se i due termini non erano identici.",0.82460344
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",IT,"Lo Shepherd's, infatti, era consumato dai poveri, perché preparato con carni povere ed accessibili a tutti, mentre il Cottage era la versione da ricchi, con carni pregiate marinate al vino.",0.69918686
+FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",IT,"Nel Regno Unito, il termine shepherd's pie è più usato quando la carne è ovina.",0.52061117
+FR,"cottage, qui désignait la demeure rurale du paysan).",IT,"== Varianti e piatti simili ==
+Altri pasticci ricoperti da patate sono:
+Il moderno pasticcio del Cumberland è una versione con manzo o agnello e uno strato di pangrattato e formaggio.",0.5482305
+FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",IT,"Nel Medioevo, e al giorno d'oggi in Cumbria, la crosta ha un ripieno di carne con frutta e spezie.",0.6928789
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",IT,"Nel Québec, una variante si chiama Pâté chinois.",0.5620697
+FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",IT,"Viene fatta con manzo macinato nello strato inferiore, mais in scatola nel mezzo, e purea di patate sopra.",0.66768986
+FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",IT,"Lo shepherdess pie è una versione vegetariana fatta senza carne, oppure una versione vegana, senza carne né latticini.",0.5581515
+FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,IT,"Nei Paesi Bassi, un piatto molto simile chiamato ""stufato del filosofo"" (in olandese filosoof) ha spesso in aggiunta ingredienti come fagioli, mele, prugne, o salsa di mele.",0.57769907
+FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,IT,"In Brasile, un piatto chiamato escondidinho si riferisce al fatto che una purea di manioca copre uno strato di carne essiccata.",0.60716724
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",IT,Il piatto spesso comprende formaggio e pollo; il merluzzo è talvolta usato al posto del manzo.,0.74470246
+FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,IT,Un pasticcio per il giorno di Santo Stefano è fatto con tacchino e prosciutto.,0.5560355
+FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",IT,Il fish pie fa parte della cucina inglese ed è composto di pesce e frutti di mare in una salsa con un strato di purea di patate.,0.6600889
+FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",IT,In irlandese questo piatto è noto come pióg an aoire.,0.52520454
+FR,"Le cottage pie, ou shepherd's pie, est un mets d'origine britannique constitué d'une tourte à la viande avec une croûte de purée de pommes de terre,,,.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.89856935
+FR,"== Historique ==
+L'usage de l'expression cottage pie en anglais remonte à 1791,,, époque où la pomme de terre est devenue un aliment accessible aux pauvres (cf.",ES,"== Características ==
+Originalmente, el cottage pie se realizaba con sobras de carne de ternera asada.",0.68979686
+FR,"cottage, qui désignait la demeure rurale du paysan).",ES,"Sin embargo, en la actualidad, suelen utilizarse también trozos de carne que son cocidos para la ocasión, así como carne de ternera picada.",0.5443913
+FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",ES,"Una vez obtenida la carne, se le suele agregar cebolla, ajo y algún tipo de salsa, como puede ser salsa de tomate.",0.63145745
+FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5481907
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.7080734
+FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,ES,"Dicha denominación surge en el siglo XIX, pero en la actualidad se utiliza mayormente como un término genérico para referirse a cualquiera de los dos pasteles.",0.57502234
+FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",ES,"[2]​
+== Historia ==
+La primera utilización del nombre cottage pie data de 1791, tiempo en que la población más pobre del Reino Unido, que vivían en cottages (casas pequeñas) en la zona rural, empezaban a emplear la papa con frecuencia como un alimento cotidiano.",0.5263793
+FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",ES,[3]​[4]​,0.46502328
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",ES,"== Características ==
+Originalmente, el cottage pie se realizaba con sobras de carne de ternera asada.",0.7251019
+FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",ES,"Sin embargo, en la actualidad, suelen utilizarse también trozos de carne que son cocidos para la ocasión, así como carne de ternera picada.",0.5891514
+FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5798273
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.64658284
+FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.6272048
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5727793
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.64658284
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.64658284
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5727793
+FR,"cottage, qui désignait la demeure rurale du paysan).",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5446806
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5727793
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.64658284
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",ES,"Dicha denominación surge en el siglo XIX, pero en la actualidad se utiliza mayormente como un término genérico para referirse a cualquiera de los dos pasteles.",0.56823397
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5727793
+FR,"L'expression shepherd's pie n'est apparue qu'en 1877, et a été depuis employée comme synonyme de cottage pie, que le principal ingrédient soit du bœuf ou du mouton,,,,,,.",ES,"Una vez obtenida la carne, se le suele agregar cebolla, ajo y algún tipo de salsa, como puede ser salsa de tomate.",0.5685851
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.7080734
+FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.51301956
+FR,"cottage, qui désignait la demeure rurale du paysan).",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5446806
+FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.5837144
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",ES,"== Características ==
+Originalmente, el cottage pie se realizaba con sobras de carne de ternera asada.",0.7251019
+FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5798273
+FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.51301956
+FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.53973913
+FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,ES,"[2]​
+== Historia ==
+La primera utilización del nombre cottage pie data de 1791, tiempo en que la población más pobre del Reino Unido, que vivían en cottages (casas pequeñas) en la zona rural, empezaban a emplear la papa con frecuencia como un alimento cotidiano.",0.5259763
+FR,"La tendance actuelle est d'appeler shepherd's pie le mets préparé avec de la viande de mouton ou d'agneau, semblant suggérer qu'à l'origine les bergers étaient concernés par les ovins et non par les bovins,.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.64658284
+FR,Il pourrait cependant s'agir d'un cas d'étymologie populaire.,ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.46922433
+FR,"Dans les anciens livres de recettes, ce plat était présenté comme le moyen d'utiliser les restes de toutes sortes de viandes rôties, la tourte étant bordée et recouverte de purée de pommes de terre,.",ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.5837144
+FR,"== Variantes ==
+Il existe différentes variantes de ce plat :
+le cumberland pie est une version recouverte d'une couche de chapelure ;
+le fish pie, variante britannique au poisson ;
+une version végétarienne peut être préparée avec du soja ou d'autres succédanés de viande (comme le  tofu ou le quorn), ou des légumineuses, comme les lentilles ou les pois chiches.Des plats similaires sont préparés dans de nombreux pays : 
+le pastel de papa en Argentine ;
+le pastelón de papa en République dominicaine, avec une couche de pommes de terre, une ou deux de viande, une autre couche de pommes de terre, le tout recouvert d'une couche de fromage ;
+le hachis parmentier en France ;
+le siniyet batata (littéralement « assiette de pommes de terre »), ou kibbet batata en Israel, Jordanie, Syrie et Liban ;
+le pâté chinois au Québec et au Nouveau-Brunswick ;
+le Kartofel'naya zapekanka (Картофельная запеканка) en Russie ;
+le bolo de batata au Brésil (littéralement « gâteau de pommes de terre ») ;
+l’empadão au Portugal, avec deux couches de purée de pomme de terre et une couche de bœuf haché au milieu.",ES,"Una vez obtenida la carne, se le suele agregar cebolla, ajo y algún tipo de salsa, como puede ser salsa de tomate.",0.5273216
+DE,"Shepherd’s Pie ist ein traditionelles Gericht der britischen und irischen Küche, in Irland auch als Cottage Pie (pióg an aoire) bekannt.",IT,Il cottage pie o shepherd's pie (in italiano pasticcio del pastore) è un pasticcio di carne ricoperto da una purea di patate.,0.6560135
+DE,"== Zusammensetzung ==
+Der Shepherd’s Pie besteht grundsätzlich aus zwei Schichten; die untere besteht aus Hackfleisch, die obere aus pürierten oder sehr fein geriebenen Kartoffeln.",IT,"Sebbene nella storia i due termini siano stati usati come sinonimi, alcuni sostengono che nel ""cottage pie"" si usa il manzo, mentre nello ""shepherd's pie"" l'agnello.",0.53465366
+DE,"Das Hackfleisch ist üblicherweise Lammfleisch (daher der Name „Schäferkuchen“), allerdings wird diese Speise gerne auch aus Fleischresten des Sonntagsbratens (Sunday roast) hergestellt.",IT,In Francia è popolare una variante nota come hachis Parmentier.,0.49447745
+DE,"Für die Fleischschicht wird üblicherweise das Hackfleisch zusammen mit feinen Zwiebelwürfeln in der Pfanne angebraten, anschließend lässt man es in der Brühe köcheln.",IT,"La ricetta ha molte varianti, ma gli ingredienti distintivi sono carne rossa macinata, cucinata in un sugo di carne o in un sugo con cipolle e talvolta altre verdure come piselli, sedano o carote, e ricoperta da uno strato di purea di patate prima della cottura.",0.60952663
+DE,"Gerne werden auch andere Zutaten dazu gegeben wie zum Beispiel Knoblauch, gehackte Karotten, Erbsen oder anderes Gemüse sowie Kräuter wie Rosmarin oder Oregano.",IT,A volte si aggiunge del formaggio grattugiato sopra per formare un strato di formaggio sciolto.,0.32799634
+DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",IT,"== Storia ==
+=== Cottage pie ===
+Il termine era in uso già nel 1791, poiché Parson Woodforde menziona il ""Cottage-Pye"" nel suo diario in data 29 agosto 1791, e numerose volte di seguito.",0.49450257
+DE,"Die obere Schicht besteht aus Kartoffelpüree, dem Butter und manchmal auch Käse beigegeben wird.",IT,Egli riporta che la carne era di vitello ma non dice con cosa veniva preparata la copertura.,0.51739264
+DE,Zur Dekoration kann diese Schicht auch mit der Spritztüte auf die Fleischschicht aufgetragen werden.,IT,"Nel XX secolo e successivamente, il termine è stato usato largamente, ma non esclusivamente, per un piatto di carne di manzo tagliata o macinata con una copertura di patate schiacciate.",0.55808544
+DE,Manchmal wird zuletzt obenauf noch eine dünne Käseschicht aufgestreut.,IT,"Il manzo poteva essere sia fresco sia, e più frequentemente, cucinato precedentemente.",0.5852258
+DE,"Der „Kuchen“ wird danach im Ofen gebacken, bis er oben goldbraun und leicht knusprig wird.",IT,"Durante il XX secolo, l'impossibilità di congelare gli alimenti rese utile la conservazione di carne cotta piuttosto che cruda.",0.41616347
+DE,"== Variationen ==
+Dasselbe Gericht mit Fisch anstelle des Fleischs wird „Fisherman’s Pie“ genannt oder, wenn es in einer Sahnesoße serviert wird, auch „Admiral’s Pie“.",IT,"Negli anni '40, il cuoco Louis Diat ricordò la sua infanzia: ""quando le casalinghe compravano la carne per la domenica, sceglievano dei pezzi tanto grandi che rimanessero gli avanzi per molti giorni"".",0.48037356
+DE,"In Australien wird häufig ein industriell vorbereiteter Hackfleischteig verwendet, mit Kartoffelpüree bedeckt wird er dort „Potato Pie“ genannt, in Neuseeland spricht man von „Potato Top Pie“.",IT,Le ricette moderne per il cottage pie tipicamente usano manzo fresco.,0.58087015
+DE,Die nordamerikanische Variante heißt „Chinese Pie“ oder „Cowboy Pie“.,IT,"=== Shepherd's pie ===
+Secondo il dizionario statunitense di Merriam-Webster, il primo utilizzo del termine shepherd's pie risale al 1854.",0.47342718
+DE,Hier wird allerdings zwischen Fleisch und Kartoffel noch eine Schicht aus Mais und Ketchup eingefügt.,IT,"Nell'uso britannico negli anni 1850, il termine si riferiva a un piatto scozzese che prevedeva una pasta sfoglia ripiena di carne di montone e patate a dadini.",0.6008842
+DE,Im französischsprachigen Kanada heißt diese Variante „Pâté chinois“ (dt.,IT,"Né lo shepherd's pie né il cottage pie sono stati menzionati nella prima edizione del Household Management di Isabella Beeton del 1861.Più di recente, ""shepherd's pie"" viene usato per un piatto di agnello macinato ricoperto di patate.",0.5647098
+DE,: Chinesische Pastete).,IT,"Secondo l'Oxford Companion to Food,
+Come per il manzo, era di uso comune, in assenza di congelatore, cucinare un tocco di carne la domenica che durasse per l'intera settimana.",0.48468342
+DE,Oft wird der Mais auch durch Erbsen und Karotten ersetzt.,IT,"Dorothy Hartley cita una vecchia poesia, ""Vicarage mutton"", che mostra non solo i diversi usi del tocco di carne avanzato, ma anche che i termini ""shepherd's"" e ""cottage"" erano intercambiabili:
+=== Hachis Parmentier ===
+Il piatto prende il nome da Antoine-Augustin Parmentier, che rese popolare la patata nella cucina francese alla fine del XVIII secolo.",0.47187403
+DE,Im Nordosten der USA werden oft grüne Bohnen statt Mais als Zwischenschicht eingefügt.,IT,È documentato dalla fine del XIX secolo.,0.39206374
+DE,Die „Mittlerer-Westen“-Version wird mit einer Zwischenschicht aus Pilzsoße und grünen Bohnen zubereitet und länger im Ofen gelassen.,IT,"Viene solitamente preparato con manzo o agnello, tritato o a pezzi, con carne fresca o avanzata.",0.5493618
+DE,Bei der vegetarischen Variante des „Shepherd’s Pie“ wird an Stelle der Fleischschicht eine Lage aus dicken Bohnen oder anderen stark proteinhaltigen Gemüsen verwendet.,IT,"Il termine francese ""hachis"" significa ""finemente spezzettato"".In alcune ricette, viene messo uno strato di patate sauté nel piatto prima del ripieno di carne e dello strato superiore di patate schiacciate.",0.6486752
+DE,„Hachis parmentier“ (dt.,IT,"Una versione più elaborata, a cura di Auguste Escoffier, chiamata ""Hachis de boeuf à Parmentier"", consiste di patate al forno, a cui viene rimosso il contenuto, mescolate con manzo macinato, e coperte con salsa lionese (a base di vino, burro, aceto bianco e cipolle).",0.5667485
+DE,": „Hackfleisch Parmentier“, benannt nach dem Initiator und Förderer des französischen Kartoffelanbaus Antoine Parmentier) ist ein beliebtes französisches Essen, das dem Shepherd’s Pie sehr ähnlich ist.",IT,"== Etimologia ==
+Il termine cottage pie è in uso dal 1791, quando fu introdotta la patata come coltivazione per i più poveri (cfr.",0.5786773
+DE,"Es wird üblicherweise zuhause zubereitet, in Restaurants ist es eher selten zu finden.",IT,"""cottage"", cioè una modesta abitazione per lavoratori rurali).",0.57957625
+DE,Auch hier wird gerne Übriggebliebenes verwertet.,IT,"Il termine shepherd's pie non è apparso fino al 1854, ed era usato come sinonimo di cottage pie, a prescindere dal tipo di carne, anche se i due termini non erano identici.",0.60585964
+DE,Die türkische Variante heißt „Hasanpaşa Köfte“ (Hasan-Pascha-Frikadellen).,IT,"Lo Shepherd's, infatti, era consumato dai poveri, perché preparato con carni povere ed accessibili a tutti, mentre il Cottage era la versione da ricchi, con carni pregiate marinate al vino.",0.44193
+DE,"Hier werden Frikadellen zu kleinen Schälchen geformt, mit Kartoffelpüree gefüllt und mit Tomatensauce übergossen.",IT,"Nel Regno Unito, il termine shepherd's pie è più usato quando la carne è ovina.",0.46418002
+DE,Oft werden auch Erbsen als Zwischenschicht eingefüllt.,IT,"== Varianti e piatti simili ==
+Altri pasticci ricoperti da patate sono:
+Il moderno pasticcio del Cumberland è una versione con manzo o agnello e uno strato di pangrattato e formaggio.",0.6042558
+DE,Die nordamerikanische Variante heißt „Chinese Pie“ oder „Cowboy Pie“.,IT,"Nel Medioevo, e al giorno d'oggi in Cumbria, la crosta ha un ripieno di carne con frutta e spezie.",0.4231338
+DE,Auch hier wird gerne Übriggebliebenes verwertet.,IT,"Nel Québec, una variante si chiama Pâté chinois.",0.56683207
+DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",IT,"Viene fatta con manzo macinato nello strato inferiore, mais in scatola nel mezzo, e purea di patate sopra.",0.4946838
+DE,"Gerne werden auch andere Zutaten dazu gegeben wie zum Beispiel Knoblauch, gehackte Karotten, Erbsen oder anderes Gemüse sowie Kräuter wie Rosmarin oder Oregano.",IT,"Lo shepherdess pie è una versione vegetariana fatta senza carne, oppure una versione vegana, senza carne né latticini.",0.40804237
+DE,"Gerne werden auch andere Zutaten dazu gegeben wie zum Beispiel Knoblauch, gehackte Karotten, Erbsen oder anderes Gemüse sowie Kräuter wie Rosmarin oder Oregano.",IT,"Nei Paesi Bassi, un piatto molto simile chiamato ""stufato del filosofo"" (in olandese filosoof) ha spesso in aggiunta ingredienti come fagioli, mele, prugne, o salsa di mele.",0.48942655
+DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",IT,"In Brasile, un piatto chiamato escondidinho si riferisce al fatto che una purea di manioca copre uno strato di carne essiccata.",0.45171225
+DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",IT,Il piatto spesso comprende formaggio e pollo; il merluzzo è talvolta usato al posto del manzo.,0.6515172
+DE,"Das Hackfleisch ist üblicherweise Lammfleisch (daher der Name „Schäferkuchen“), allerdings wird diese Speise gerne auch aus Fleischresten des Sonntagsbratens (Sunday roast) hergestellt.",IT,Un pasticcio per il giorno di Santo Stefano è fatto con tacchino e prosciutto.,0.54098374
+DE,"Für die Fleischschicht wird üblicherweise das Hackfleisch zusammen mit feinen Zwiebelwürfeln in der Pfanne angebraten, anschließend lässt man es in der Brühe köcheln.",IT,Il fish pie fa parte della cucina inglese ed è composto di pesce e frutti di mare in una salsa con un strato di purea di patate.,0.6359865
+DE,Im französischsprachigen Kanada heißt diese Variante „Pâté chinois“ (dt.,IT,In irlandese questo piatto è noto come pióg an aoire.,0.64028716
+DE,"Shepherd’s Pie ist ein traditionelles Gericht der britischen und irischen Küche, in Irland auch als Cottage Pie (pióg an aoire) bekannt.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.70947695
+DE,"== Zusammensetzung ==
+Der Shepherd’s Pie besteht grundsätzlich aus zwei Schichten; die untere besteht aus Hackfleisch, die obere aus pürierten oder sehr fein geriebenen Kartoffeln.",ES,"== Características ==
+Originalmente, el cottage pie se realizaba con sobras de carne de ternera asada.",0.70761764
+DE,"Das Hackfleisch ist üblicherweise Lammfleisch (daher der Name „Schäferkuchen“), allerdings wird diese Speise gerne auch aus Fleischresten des Sonntagsbratens (Sunday roast) hergestellt.",ES,"Sin embargo, en la actualidad, suelen utilizarse también trozos de carne que son cocidos para la ocasión, así como carne de ternera picada.",0.63951844
+DE,"Für die Fleischschicht wird üblicherweise das Hackfleisch zusammen mit feinen Zwiebelwürfeln in der Pfanne angebraten, anschließend lässt man es in der Brühe köcheln.",ES,"Una vez obtenida la carne, se le suele agregar cebolla, ajo y algún tipo de salsa, como puede ser salsa de tomate.",0.5832721
+DE,"Gerne werden auch andere Zutaten dazu gegeben wie zum Beispiel Knoblauch, gehackte Karotten, Erbsen oder anderes Gemüse sowie Kräuter wie Rosmarin oder Oregano.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.48455334
+DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.4400469
+DE,"Die obere Schicht besteht aus Kartoffelpüree, dem Butter und manchmal auch Käse beigegeben wird.",ES,"Dicha denominación surge en el siglo XIX, pero en la actualidad se utiliza mayormente como un término genérico para referirse a cualquiera de los dos pasteles.",0.39328375
+DE,Zur Dekoration kann diese Schicht auch mit der Spritztüte auf die Fleischschicht aufgetragen werden.,ES,"[2]​
+== Historia ==
+La primera utilización del nombre cottage pie data de 1791, tiempo en que la población más pobre del Reino Unido, que vivían en cottages (casas pequeñas) en la zona rural, empezaban a emplear la papa con frecuencia como un alimento cotidiano.",0.38748714
+DE,Manchmal wird zuletzt obenauf noch eine dünne Käseschicht aufgestreut.,ES,[3]​[4]​,0.38265324
+DE,"Der „Kuchen“ wird danach im Ofen gebacken, bis er oben goldbraun und leicht knusprig wird.",ES,"== Características ==
+Originalmente, el cottage pie se realizaba con sobras de carne de ternera asada.",0.47374493
+DE,"== Variationen ==
+Dasselbe Gericht mit Fisch anstelle des Fleischs wird „Fisherman’s Pie“ genannt oder, wenn es in einer Sahnesoße serviert wird, auch „Admiral’s Pie“.",ES,"Sin embargo, en la actualidad, suelen utilizarse también trozos de carne que son cocidos para la ocasión, así como carne de ternera picada.",0.5316629
+DE,"In Australien wird häufig ein industriell vorbereiteter Hackfleischteig verwendet, mit Kartoffelpüree bedeckt wird er dort „Potato Pie“ genannt, in Neuseeland spricht man von „Potato Top Pie“.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5483143
+DE,Die nordamerikanische Variante heißt „Chinese Pie“ oder „Cowboy Pie“.,ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.45454735
+DE,Hier wird allerdings zwischen Fleisch und Kartoffel noch eine Schicht aus Mais und Ketchup eingefügt.,ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.6216063
+DE,Im französischsprachigen Kanada heißt diese Variante „Pâté chinois“ (dt.,ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.50948566
+DE,: Chinesische Pastete).,ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.53106743
+DE,Oft wird der Mais auch durch Erbsen und Karotten ersetzt.,ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.48908243
+DE,Im Nordosten der USA werden oft grüne Bohnen statt Mais als Zwischenschicht eingefügt.,ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5402756
+DE,Die „Mittlerer-Westen“-Version wird mit einer Zwischenschicht aus Pilzsoße und grünen Bohnen zubereitet und länger im Ofen gelassen.,ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.57597136
+DE,Bei der vegetarischen Variante des „Shepherd’s Pie“ wird an Stelle der Fleischschicht eine Lage aus dicken Bohnen oder anderen stark proteinhaltigen Gemüsen verwendet.,ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.57944995
+DE,„Hachis parmentier“ (dt.,ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.5558406
+DE,": „Hackfleisch Parmentier“, benannt nach dem Initiator und Förderer des französischen Kartoffelanbaus Antoine Parmentier) ist ein beliebtes französisches Essen, das dem Shepherd’s Pie sehr ähnlich ist.",ES,"Dicha denominación surge en el siglo XIX, pero en la actualidad se utiliza mayormente como un término genérico para referirse a cualquiera de los dos pasteles.",0.49646106
+DE,"Es wird üblicherweise zuhause zubereitet, in Restaurants ist es eher selten zu finden.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.43490675
+DE,Auch hier wird gerne Übriggebliebenes verwertet.,ES,"Una vez obtenida la carne, se le suele agregar cebolla, ajo y algún tipo de salsa, como puede ser salsa de tomate.",0.52670825
+DE,Die türkische Variante heißt „Hasanpaşa Köfte“ (Hasan-Pascha-Frikadellen).,ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.6195759
+DE,"Hier werden Frikadellen zu kleinen Schälchen geformt, mit Kartoffelpüree gefüllt und mit Tomatensauce übergossen.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5646824
+DE,Oft werden auch Erbsen als Zwischenschicht eingefüllt.,ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.6194594
+DE,Die nordamerikanische Variante heißt „Chinese Pie“ oder „Cowboy Pie“.,ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.5455944
+DE,Auch hier wird gerne Übriggebliebenes verwertet.,ES,"== Características ==
+Originalmente, el cottage pie se realizaba con sobras de carne de ternera asada.",0.6701151
+DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.55026066
+DE,"Gerne werden auch andere Zutaten dazu gegeben wie zum Beispiel Knoblauch, gehackte Karotten, Erbsen oder anderes Gemüse sowie Kräuter wie Rosmarin oder Oregano.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.48455334
+DE,"Gerne werden auch andere Zutaten dazu gegeben wie zum Beispiel Knoblauch, gehackte Karotten, Erbsen oder anderes Gemüse sowie Kräuter wie Rosmarin oder Oregano.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.37780893
+DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",ES,"[2]​
+== Historia ==
+La primera utilización del nombre cottage pie data de 1791, tiempo en que la población más pobre del Reino Unido, que vivían en cottages (casas pequeñas) en la zona rural, empezaban a emplear la papa con frecuencia como un alimento cotidiano.",0.45329225
+DE,"Oft wird auch Tomatenmark verwendet, seltener Wein.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.43465638
+DE,"Das Hackfleisch ist üblicherweise Lammfleisch (daher der Name „Schäferkuchen“), allerdings wird diese Speise gerne auch aus Fleischresten des Sonntagsbratens (Sunday roast) hergestellt.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.4995613
+DE,"Für die Fleischschicht wird üblicherweise das Hackfleisch zusammen mit feinen Zwiebelwürfeln in der Pfanne angebraten, anschließend lässt man es in der Brühe köcheln.",ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.5502278
+DE,Im französischsprachigen Kanada heißt diese Variante „Pâté chinois“ (dt.,ES,"Una vez obtenida la carne, se le suele agregar cebolla, ajo y algún tipo de salsa, como puede ser salsa de tomate.",0.44754916
+IT,Il cottage pie o shepherd's pie (in italiano pasticcio del pastore) è un pasticcio di carne ricoperto da una purea di patate.,ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.84990466
+IT,"Sebbene nella storia i due termini siano stati usati come sinonimi, alcuni sostengono che nel ""cottage pie"" si usa il manzo, mentre nello ""shepherd's pie"" l'agnello.",ES,"== Características ==
+Originalmente, el cottage pie se realizaba con sobras de carne de ternera asada.",0.57487524
+IT,In Francia è popolare una variante nota come hachis Parmentier.,ES,"Sin embargo, en la actualidad, suelen utilizarse también trozos de carne que son cocidos para la ocasión, así como carne de ternera picada.",0.5893264
+IT,"La ricetta ha molte varianti, ma gli ingredienti distintivi sono carne rossa macinata, cucinata in un sugo di carne o in un sugo con cipolle e talvolta altre verdure come piselli, sedano o carote, e ricoperta da uno strato di purea di patate prima della cottura.",ES,"Una vez obtenida la carne, se le suele agregar cebolla, ajo y algún tipo de salsa, como puede ser salsa de tomate.",0.6256624
+IT,A volte si aggiunge del formaggio grattugiato sopra per formare un strato di formaggio sciolto.,ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.7001792
+IT,"== Storia ==
+=== Cottage pie ===
+Il termine era in uso già nel 1791, poiché Parson Woodforde menziona il ""Cottage-Pye"" nel suo diario in data 29 agosto 1791, e numerose volte di seguito.",ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.6289802
+IT,Egli riporta che la carne era di vitello ma non dice con cosa veniva preparata la copertura.,ES,"Dicha denominación surge en el siglo XIX, pero en la actualidad se utiliza mayormente como un término genérico para referirse a cualquiera de los dos pasteles.",0.49472916
+IT,"Nel XX secolo e successivamente, il termine è stato usato largamente, ma non esclusivamente, per un piatto di carne di manzo tagliata o macinata con una copertura di patate schiacciate.",ES,"[2]​
+== Historia ==
+La primera utilización del nombre cottage pie data de 1791, tiempo en que la población más pobre del Reino Unido, que vivían en cottages (casas pequeñas) en la zona rural, empezaban a emplear la papa con frecuencia como un alimento cotidiano.",0.5793322
+IT,"Il manzo poteva essere sia fresco sia, e più frequentemente, cucinato precedentemente.",ES,[3]​[4]​,0.48594892
+IT,"Durante il XX secolo, l'impossibilità di congelare gli alimenti rese utile la conservazione di carne cotta piuttosto che cruda.",ES,"== Características ==
+Originalmente, el cottage pie se realizaba con sobras de carne de ternera asada.",0.57815194
+IT,"Negli anni '40, il cuoco Louis Diat ricordò la sua infanzia: ""quando le casalinghe compravano la carne per la domenica, sceglievano dei pezzi tanto grandi che rimanessero gli avanzi per molti giorni"".",ES,"Sin embargo, en la actualidad, suelen utilizarse también trozos de carne que son cocidos para la ocasión, así como carne de ternera picada.",0.5768057
+IT,Le ricette moderne per il cottage pie tipicamente usano manzo fresco.,ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5198382
+IT,"=== Shepherd's pie ===
+Secondo il dizionario statunitense di Merriam-Webster, il primo utilizzo del termine shepherd's pie risale al 1854.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.51373434
+IT,"Nell'uso britannico negli anni 1850, il termine si riferiva a un piatto scozzese che prevedeva una pasta sfoglia ripiena di carne di montone e patate a dadini.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.71679294
+IT,"Né lo shepherd's pie né il cottage pie sono stati menzionati nella prima edizione del Household Management di Isabella Beeton del 1861.Più di recente, ""shepherd's pie"" viene usato per un piatto di agnello macinato ricoperto di patate.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5548303
+IT,"Secondo l'Oxford Companion to Food,
+Come per il manzo, era di uso comune, in assenza di congelatore, cucinare un tocco di carne la domenica che durasse per l'intera settimana.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.567093
+IT,"Dorothy Hartley cita una vecchia poesia, ""Vicarage mutton"", che mostra non solo i diversi usi del tocco di carne avanzato, ma anche che i termini ""shepherd's"" e ""cottage"" erano intercambiabili:
+=== Hachis Parmentier ===
+Il piatto prende il nome da Antoine-Augustin Parmentier, che rese popolare la patata nella cucina francese alla fine del XVIII secolo.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.5827875
+IT,È documentato dalla fine del XIX secolo.,ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.3296885
+IT,"Viene solitamente preparato con manzo o agnello, tritato o a pezzi, con carne fresca o avanzata.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5179226
+IT,"Il termine francese ""hachis"" significa ""finemente spezzettato"".In alcune ricette, viene messo uno strato di patate sauté nel piatto prima del ripieno di carne e dello strato superiore di patate schiacciate.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5834625
+IT,"Una versione più elaborata, a cura di Auguste Escoffier, chiamata ""Hachis de boeuf à Parmentier"", consiste di patate al forno, a cui viene rimosso il contenuto, mescolate con manzo macinato, e coperte con salsa lionese (a base di vino, burro, aceto bianco e cipolle).",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.6288015
+IT,"== Etimologia ==
+Il termine cottage pie è in uso dal 1791, quando fu introdotta la patata come coltivazione per i più poveri (cfr.",ES,"Dicha denominación surge en el siglo XIX, pero en la actualidad se utiliza mayormente como un término genérico para referirse a cualquiera de los dos pasteles.",0.6385764
+IT,"""cottage"", cioè una modesta abitazione per lavoratori rurali).",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.48427996
+IT,"Il termine shepherd's pie non è apparso fino al 1854, ed era usato come sinonimo di cottage pie, a prescindere dal tipo di carne, anche se i due termini non erano identici.",ES,"Una vez obtenida la carne, se le suele agregar cebolla, ajo y algún tipo de salsa, como puede ser salsa de tomate.",0.51860106
+IT,"Lo Shepherd's, infatti, era consumato dai poveri, perché preparato con carni povere ed accessibili a tutti, mentre il Cottage era la versione da ricchi, con carni pregiate marinate al vino.",ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.6354605
+IT,"Nel Regno Unito, il termine shepherd's pie è più usato quando la carne è ovina.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.54877853
+IT,"== Varianti e piatti simili ==
+Altri pasticci ricoperti da patate sono:
+Il moderno pasticcio del Cumberland è una versione con manzo o agnello e uno strato di pangrattato e formaggio.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.5854941
+IT,"Nel Medioevo, e al giorno d'oggi in Cumbria, la crosta ha un ripieno di carne con frutta e spezie.",ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.49385595
+IT,"Nel Québec, una variante si chiama Pâté chinois.",ES,"== Características ==
+Originalmente, el cottage pie se realizaba con sobras de carne de ternera asada.",0.56426215
+IT,"Viene fatta con manzo macinato nello strato inferiore, mais in scatola nel mezzo, e purea di patate sopra.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.51118267
+IT,"Lo shepherdess pie è una versione vegetariana fatta senza carne, oppure una versione vegana, senza carne né latticini.",ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.51887894
+IT,"Nei Paesi Bassi, un piatto molto simile chiamato ""stufato del filosofo"" (in olandese filosoof) ha spesso in aggiunta ingredienti come fagioli, mele, prugne, o salsa di mele.",ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.54926455
+IT,"In Brasile, un piatto chiamato escondidinho si riferisce al fatto che una purea di manioca copre uno strato di carne essiccata.",ES,"[2]​
+== Historia ==
+La primera utilización del nombre cottage pie data de 1791, tiempo en que la población más pobre del Reino Unido, que vivían en cottages (casas pequeñas) en la zona rural, empezaban a emplear la papa con frecuencia como un alimento cotidiano.",0.5343874
+IT,Il piatto spesso comprende formaggio e pollo; il merluzzo è talvolta usato al posto del manzo.,ES,Un cottage pie es un plato británico que consiste en una capa de carne de ternera picada y recubierta de puré de papas.,0.594197
+IT,Un pasticcio per il giorno di Santo Stefano è fatto con tacchino e prosciutto.,ES,"Otra parte importante de la preparación es la corteza, realizada con puré de patata, a la cual en ocasiones se le agrega queso para que se gratine y adquiera su color dorado característico.",0.53164124
+IT,Il fish pie fa parte della cucina inglese ed è composto di pesce e frutti di mare in una salsa con un strato di purea di patate.,ES,"[1]​
+=== Variantes ===
+Una variante que se hace con carne de cordero picada se denomina shepherd's pie (""empanada del pastor"").",0.5640403
+IT,In irlandese questo piatto è noto come pióg an aoire.,ES,"Una vez obtenida la carne, se le suele agregar cebolla, ajo y algún tipo de salsa, como puede ser salsa de tomate.",0.49073625
