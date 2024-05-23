@@ -1,0 +1,51 @@
+Das Rabiesvirus, wissenschaftlich Rabies lyssavirus, gemeinhin auch Tollwutvirus genannt, ist ein das Nervensystem angreifendes Virus, das in Tieren und Menschen die Tollwut auslöst. Die Folge ist eine akute lebensbedrohliche Enzephalitis (Gehirnentzündung), die normalerweise tödlich verläuft. Die Übertragung kann über den Speichel von Tieren erfolgen. Das Rabiesvirus ist ein behülltes Virus von zylindrischer Form.
+Es ist Mitglied der Gattung  Lyssavirus und gehört zur Familie der Rhabdoviridae, deren Mitglieder eine einzelsträngige RNA mit negativer Polarität als Genom besitzen. Das Genom ist vollständig sequenziert. Die genetische Information ist als Ribonukleoprotein-Komplex verpackt, in welchem die RNA eng an das virale Nukleoprotein N gebunden ist. Das RNA-Genom codiert für fünf Gene, deren Anordnung auf dem Genom stark konserviert ist. Dabei handelt es sich um die Gene für Nukleoprotein (N), Phosphoprotein (P), Matrixprotein (M), Glykoprotein (G) und die virale RNA-Polymerase (L).
+Die Transkription und Replikation finden im Zytoplasma der Wirtszelle innerhalb spezieller „Virenfabriken“ (VF, auch Viroplasmen) statt, die lichtmikroskopisch als sogenannte Negri-Körper bezeichnet werden (benannt nach Adelchi Negri). Sie haben einen Durchmesser von 2–10 µm und sind typisch für die Tollwutinfektion, so dass sie als pathognomonisches Merkmal dienen.
+
+
+== Systematik ==
+Die Lyssaviren umfassen das üblicherweise mit Tollwut assoziierte Rabiesvirus, verschiedene Fledermaus-Lyssaviren sowie das Mokola-Virus (engl. Mokola lyssavirus).  Zusammen mit dem Erreger der Vesikulärstomatitis und weiteren bilden sie die Rhabdoviridae Familie. Rhabdoviridae haben charakteristischerweise ein breites Wirtsspektrum, das von Pflanzen über Insekten bis zu Wirbeltieren reichen kann.
+
+
+== Struktur ==
+Lyssaviren haben eine helikale Symmetrie, die Virionen haben eine zylindrische Gestalt.  Dies steht im Gegensatz zu anderen Viren, die den Menschen befallen, die normalerweise eine kubische Symmetrie haben. 
+
+Das Rabiesvirus hat eine längliche Gestalt mit einer Länge von ungefähr 180 nm und einem Durchmesser von ungefähr 75 nm. Ein Ende ist abgerundet, während das andere planar ist. Die Virushülle enthält so genannte „Spikes“ (Ausstülpungen), die vom Glykoprotein G geformt werden. Diese Ausstülpungen fehlen am planaren Ende des Virions. Unterhalb der Hülle ist eine Schicht aus Matrixprotein M, welche den Kern des Virions aus helikalem Ribonukleoprotein bedeckt, das aus RNA und dem Protein N zusammengesetzt ist.
+
+
+== Genom ==
+Das Genom besteht aus unsegmentierter, linearer, einzelsträngiger RNA mit negativer Polarität. Das Genom ist vollständig sequenziert und hat eine Länge von 11.900 Nukleotiden. Die genetische Information ist als Ribonukleoproteinkomplex verpackt, in welchem die RNA eng an das virale Nukleoprotein gebunden ist. Das RNA-Genom codiert für fünf Gene, nämlich die Gene für Nukleoprotein (N), Phosphoprotein (P), Matrixprotein (M), Glykoprotein (G) und die virale RNA-Polymerase (L). Die Anordnung 3'-N-P-M-G-L-5' dieser Gene ist stark konserviert.
+
+
+== Replikation ==
+Rabiesviren heften sich über spezifische Rezeptoren (Nikotinischer Acetylcholinrezeptor, Neurales Zelladhäsionsmolekül 1) an der Zelloberfläche an  und werden durch ein sich ausbildendes Endosomvesikel durch Endozytose aufgenommen. Im Innern des Endosoms induziert der saure pH die Fusion von Endosommembran und Virushülle. Dadurch gelangt das Kapsid in das Zytosol, zerfällt und gibt das Genom frei. Sowohl die Rezeptorbindung als auch die Membranfusion werden durch das Glykoprotein G katalysiert, das eine wichtige Rolle in der Pathogenese spielt (so sind Mutanten ohne G nicht infektiös).
+Nach dem Eindringen in die Wirtszelle wird die Transkription des viralen Genomes durch die L Polymerase eingeleitet, um mehr virale Proteine herzustellen. Dabei ist P ein essentieller Cofactor für die Polymerase L. Die virale Polymerase erkennt nur Ribonukleoprotein und kann freie RNA nicht als Vorlage verwenden um mRNA herzustellen. Die Transkription ist durch cis-Elemente auf dem viralen Genom sowie durch das Protein M reguliert. Letzteres ist nicht nur essentiell für die Knospung (engl.: budding) des Virus von der Membran, sondern reguliert auch die Balance zwischen mRNA-Produktion und Replikation des viralen Genoms.
+Später produziert die Polymerase RNA mit positiver Polarität in voller Länge. Diese komplementären RNA-Stränge werden als Matrizen benutzt, um neue RNA-Genome mit negativer Polarität herzustellen. Diese werden mit Protein N in Ribonukleoprotein verpackt und können neue Viren formen.
+
+
+== Übertragung ==
+Das Virus ist im Speichel eines tollwütigen Tieres vorhanden und der Infektionsweg führt fast immer über einen Biss. Aber auch kleinste Verletzungen der Haut und Schleimhäute können das Eindringen des Virus per Schmierinfektion oder Kontaktinfektion ermöglichen. In vitro ist eine Übertragung durch Schleimhäute vorgekommen. Möglicherweise geschah eine Übertragung in dieser Form bei Menschen, die von Fledermäusen bevölkerte Höhlen erforschten. Außer bei der Organtransplantation (ein Fall mit drei Todesopfern in den USA zu Beginn des Jahres 2004 und ein Fall mit drei Todesopfern in Deutschland Anfang 2005), ist die Übertragung von Mensch zu Mensch bislang nicht beobachtet worden.
+In der Eintrittsstelle infiziert das Virus periphere Nervenzellen und wandert entlang der Nervenzellen in das Zentralnervensystem (ZNS). Der retrograde axonale Transport ist der wichtigste Schritt in der natürlichen Tollwut-Infektion. Die genauen molekularen Grundlagen dieses Transportes sind noch nicht geklärt, aber es wurde nachgewiesen, dass das Phosphoprotein P des Rabiesvirus mit dem Protein DYNLL1 (LC8) der leichten Kette von Dynein interagiert. P agiert auch als Interferonantagonist, wodurch die Immunantwort abgemildert wird.
+Vom ZNS breitet sich das Virus auch in andere Organe aus; so tritt es im Speichel von infizierten Tieren auf und kann sich dadurch weiterverbreiten. Oftmals tritt eine erhöhte Aggressivität mit verstärktem Beißverhalten auf, welches die Wahrscheinlichkeit, das Virus weiter zu verbreiten, erhöht.
+
+
+== Symptome ==
+
+Die ersten Symptome der Rabiesvirusinfektion ähneln Symptomen der Grippe, wie körperliche Schwäche, Fieber und Kopfschmerzen. Ein Kribbel- oder Juckgefühl kann an der Stelle des Bisses wahrgenommen werden. Innerhalb weniger Tage nach dem Biss treten beim Menschen Symptome von zerebraler Dysfunktion, Angstzuständen, Verwirrtheit und Unruhe auf. Weiterhin kann die Person Delirium, anormales Verhalten, Halluzinationen und Schlaflosigkeit erfahren.
+
+
+== Behandlung ==
+
+Der Impfstoff gegen das Tollwutvirus wird meistens nach einer Infektion verabreicht.
+
+
+== Hirnforschung ==
+Eine nicht pathogene Variante des Tollwutvirus wird seit kurzer Zeit als viraler Vektor genutzt, um Gehirnbereiche und deren Verbindungen zueinander zu kartieren. Dieser Forschungsbereich ermöglicht es, die Verschaltung bestimmter Bereiche (z. B. des sensorischen, motorischen Kortex mit anderen Arealen) anzufärben und daraufhin hochauflösende Karten zu erstellen. Diese moderne Form der Neuroanatomie ermöglicht es einzelnen Verbindungen über lange Strecken zu verfolgen und deren axonalen Verbindungen im Detail zu rekonstruieren.
+
+
+== Meldepflicht ==
+In Deutschland ist der direkte oder indirekte Nachweis des Rabiesvirus namentlich meldepflichtig nach § 7 des Infektionsschutzgesetzes (IfSG), soweit der Nachweis auf eine akute Infektion hinweist. Die Meldepflicht betrifft in erster Linie die Leitungen von Laboren (§ 8 IfSG). 
+In der Schweiz ist der positive und negative laboranalytische Befund zum Rabiesvirus für Laboratorien meldepflichtig und zwar nach dem Epidemiengesetz (EpG) in Verbindung mit der Epidemienverordnung und Anhang 3 der Verordnung des EDI über die Meldung von Beobachtungen übertragbarer Krankheiten des Menschen.
+
+
+== Einzelnachweise ==

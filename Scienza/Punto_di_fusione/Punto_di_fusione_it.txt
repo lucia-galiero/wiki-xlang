@@ -1,0 +1,40 @@
+Il punto di fusione si definisce come uno stato termodinamico, definito  da una certa temperatura (detta temperatura di fusione) e pressione (non necessariamente uguale alla pressione atmosferica), in corrispondenza del quale si ha il processo di fusione.
+Nella maggior parte dei casi di interesse pratico la pressione è quella atmosferica, praticamente costante, e per tale motivo il punto di fusione viene indicato con la sola temperatura. Ad esempio comunemente si dice che il ghiaccio fonde a 0 °C, anche se in teoria sarebbe necessario specificare che questo è  vero solo ad una certa e ben precisa pressione.
+Durante la fusione la sostanza assorbe una certa quantità di calore, detta calore di fusione, che usa per rompere i legami interatomici o intermolecolari che formano il reticolo cristallino e la temperatura smette di salire finché la sostanza non è completamente liquida: finita la fusione, la temperatura ricomincia a salire.
+Solamente i solidi cristallini hanno un punto di fusione ben preciso: i solidi amorfi, come il vetro, non hanno un punto di fusione ben definito, ma solo un intervallo di temperatura in cui diventano progressivamente sempre più molli fino a liquefarsi. Si parla in questo caso di punto di rammollimento.
+Inoltre molti solidi cristallini non presentano una temperatura di fusione precisa, a pressione atmosferica, perché la loro temperatura di decomposizione è inferiore a quella di fusione.
+
+
+== Determinazione sperimentale della temperatura di fusione ==
+
+Nei laboratori chimici la misura sperimentale del punto di fusione di una sostanza si esegue riscaldando in condizioni controllate un campione di tale sostanza e rilevando visivamente o automaticamente la temperatura a cui si osserva la fusione.
+Il campione viene generalmente posto in un tubo capillare, in quantità tale da riempirlo per circa 5 mm a partire dal fondo. Il capillare viene scaldato da un fluido (solitamente olio al silicone o aria) la cui temperatura sale secondo un gradiente che viene fatto diminuire a mano a mano che ci si avvicina al punto di fusione previsto (se noto). La temperatura a cui avviene la fusione può essere individuata visivamente da un operatore o rilevata automaticamente quando la sostanza fusa è trasparente; in quest'ultimo caso il campione si assume convenzionalmente fuso quando la sua trasmittanza supera la soglia del 90%.
+
+
+== Temperature di fusione ==
+Temperatura di fusione di alcune sostanze chimiche alla pressione di 1 atm (1 013 hPa).
+
+Nel 2024 è stato pubblicato un modello che permette di prevedere teoricamente il punto di fusione in modo universale, per sostanze che variano dai gas nobili ai metalli. Esso si basa su un'equazione parabolica che collega il punto di fusione alla costante di Planck e alle caratteristiche dell'elettrone.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Punto di ebollizione
+Punto di fusione congruente
+Punto triplo
+Eutettico
+Punto di rammollimento
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file sul punto di fusione
+
+
+== Collegamenti esterni ==
+
+(EN) melting point / ice point, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Temperature e calori latenti di fusione di alcune sostanze calcolati a 1 atm, su itchiavari.org.
+(EN) Absolute Melting Point of the elements, su periodictable.com.

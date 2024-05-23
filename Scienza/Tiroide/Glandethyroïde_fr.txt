@@ -1,0 +1,193 @@
+La glande thyroïde ou thyroïde est une glande endocrine régulant, chez les vertébrés, de nombreux systèmes hormonaux par la sécrétion de triiodothyronine (T3), de thyroxine (T4) et de calcitonine. Dans l'espèce humaine, elle est située à la face antérieure du cou, superficiellement.
+Ses déformations (on parle de goitre quand le volume de la thyroïde est augmenté) sont visibles sous la peau. Elle peut être le siège de diverses affections : hyperthyroïdie, hypothyroïdie, tumeur maligne ou tumeur bénigne. On peut l'étudier grâce à l'échographie et à la scintigraphie.
+
+
+== Anatomie ==
+
+
+=== Morphologie ===
+
+La thyroïde, moulée sur l'axe trachéo-laryngé, est de consistance ferme, de couleur rosée, et pèse de 25 à 30 grammes généralement mais en cas de goitre sa masse peut augmenter jusqu'à 100-150 grammes. Elle est entourée d'une capsule avasculaire (ou gaine viscérale péri-thyroïdienne) qui lui est propre et qui est différente de la loge thyroïdienne.
+La thyroïde se compose de deux lobes droit et gauche situés verticalement de part et d'autre du larynx. Une partie intermédiaire horizontale, l'isthme thyroïdien, forme un pont entre les deux lobes. Généralement, la glande thyroïde répond aux 2e et 3e anneaux trachéaux ; mais elle peut avoir une position haute : 1er et 2e anneaux trachéaux, ou une position basse : 3e et 4e anneaux trachéaux. Les deux lobes ont un sommet supérieur, ainsi qu'une grande base inférieure. On leur décrit trois faces : médiale, postérieure et antéro-latérale. Sa hauteur est d'environ 6 cm pour une longueur de 6  à   8 cm. On trouve souvent entre les deux lobes, donc au niveau de l'isthme, le lobe pyramidal de Lalouette, souvent déporté vers la gauche : c'est un reliquat du canal thyréoglosse.
+Il existe des variations morphologiques, s'expliquant par l'embryologie : en effet les deux lobes sont parfois éloignés l'un de l'autre sans qu'il n'y ait d'isthme, ou au contraire peuvent être soudés donnant une thyroïde en forme de V. Provenant d'un bourgeon de cellules endodermiques naissant près de la racine de la langue, différentes positions de la glande thyroïde peuvent cependant survenir durant l'ontogenèse : une mauvaise migration de cette ébauche conduit alors à la détection de cette glande (fonctionnelle ou non fonctionnelle) dans la région linguale, cervicale, voire endo-thoracique.
+
+
+=== Rapports ===
+
+La thyroïde présente les rapports anatomiques suivants :
+
+ventralement : muscles cervicaux superficiels ;
+latéralement : nerfs récurrents et axes vasculaires jugulo-carotidiens ;
+dorsalement : larynx au pôle supérieur et trachée cervicale au pôle inférieur.
+Les quatre parathyroïdes ont des positions variables, mais se situent généralement aux quatre pôles thyroïdiens.
+
+
+=== Vascularisation ===
+La thyroïde est un organe richement vascularisé. En effet on retrouve :
+
+deux artères principales :
+artère thyroïdienne supérieure, première branche de l'artère carotide externe ; elle se divise en 3 branches (latérale, médiale et postérieure) une fois la glande atteinte,
+artère thyroïdienne inférieure, naissant du tronc thyro-cervical, branche collatérale de l'artère subclavière. Se divise également en trois branches (latérale, médiale et postérieure) dans la thyroïde.
+Dans de très rares cas il est possible qu'une 3e artère vienne vasculariser la thyroïde dans sa portion basse appelée artère de Neubauer qui est une branche de la crosse de l'aorte.
+Les deux artères principales de la thyroïde sont anastomosées ; l'ATS droite avec l'ATS gauche et l'ATI droite, et l'ATI droite avec l'ATS droite et l'ATI gauche.
+Il existe néanmoins d'autres artères, moins volumineuses, inconstantes, naissant directement de l'arc aortique. Par exemple l'artère thyroïdea ima vascularisant la partie isthmique. Celle-ci est présente chez environ 5 à 10 pour cent des sujets et peut provoquer une hémorragie en cas de trachéotomie.
+
+Trois veines principales :
+veine thyroïdienne supérieure, résultant de la confluence de trois veines dans la glande, et formant avec les veines linguale et faciale le tronc thyro-lingo-facial qui se jette dans la veine jugulaire interne ;
+veine thyroïdienne moyenne, réunion de plusieurs branches pas très volumineuses se jetant dans la veine jugulaire interne ;
+veine thyroïdienne inférieure, formée par la confluence de trois veines dans la glande et se jetant dans le tronc veineux brachio-céphalique.
+De même que pour les artères, certaines veines accessoires vascularisant préférentiellement l'isthme vont rejoindre les troncs veineux brachio-céphaliques droit et gauche.
+
+
+=== Chez l'animal ===
+Chez nos mammifères domestiques, on parle de 2 glandes thyroïdes (droite et gauche), car contrairement à l'homme, les 2 lobes thyroïdiens ne sont pas réunis par un isthme.  
+Chez les autres vertébrés, la glande thyroïde est diffuse, formée de groupes dispersés de follicules, et situés latéralement à des distances variables de l'œsophage.
+Chez les agnathes et la plupart des téléostéens (poissons), les groupes de follicules se distribuent sur toute la partie ventrale de la tête.
+Malgré cette diversité morphologique, la structure histologique folliculaire de la thyroïde est hautement conservée chez tous les vertébrés, ce qui témoigne d'un processus original et commun de production hormonale.
+
+
+== Histologie ==
+
+L'unité morpho-fonctionnelle de la glande thyroïde est le follicule thyroïdien (ou vésicule thyroïdienne), composé d'un épithélium unistratifié de cellules folliculaires (les thyréocytes), produisant les hormones thyroïdiennes, disposées autour d'une lumière centrale contenant la colloïde : la colloïde est principalement constituée du précurseur des hormones thyroïdiennes, la thyroglobuline. Le follicule thyroïdien est un véritable piège à iode (ion iodure), élément rare à la surface de la terre, et indispensable au fonctionnement de l'organisme; l'iode sera ainsi capté et stocké dans la colloïde : la biosynthèse des hormones thyroïdiennes pourra alors  se dérouler, l'iode venant se coupler à la thyroglobuline (organification) ; la thyroglobuline iodée est ensuite réintégrée dans le follicule thyroïdien, et sécrétée dans le courant sanguin.
+Le follicule thyroïdien, en dehors d'une majorité de cellules folliculaires, contient 1 à 2 % de cellules dites parafolliculaires (ou cellules C, ou cellules claires), produisant la calcitonine : elles n'ont cependant jamais de contact avec la colloïde.
+On trouve aussi des amas de cellules (ilots de Woffler), cellules jointives pouvant se transformer en vésicule thyroïdien.
+
+
+== Embryologie ==
+La thyroïde est issue de trois ébauches :
+deux ébauches latérales issues du 4e sillon branchial interne et qui forme une partie des lobes latéraux
+et une ébauche centrale issue de l'évagination du pharynx buccal constituant ainsi le tractus thyréoglosse qui forme l'isthme ainsi  que la majeure partie des lobes latéraux. Rappelons que le tractus thyréoglosse est l'axe de migration de la thyroïde chez l'embryon.
+
+
+== Métabolisme hormonal ==
+La thyroïde sécrète :
+
+la T3 ou triiodothyronine en très faible quantité ;
+la T4 ou tétraïodothyronine, aussi appelée thyroxine ;
+la calcitonine intervenant dans le métabolisme du calcium.
+La production de ces hormones est régie par la thyréostimuline (TSH, « thyroid-stimulating hormone »), produite par l'hypophyse et nécessite un apport en iode. La plus grande production de la T3 est obtenue par la conversion de la T4 au niveau du foie, pour la plus grosse quantité et les intestins pour le reste. La thyroïde ne produit, elle, de la T3 directement que pour à peine 10 à 20 %.
+
+
+== Exploration ==
+
+
+=== Imagerie ===
+Du fait de sa position superficielle, la thyroïde est explorée en premier lieu par une échographie cervicale, qui recherchera des nodules ou un goitre. L'image ultrasonore permet d'évaluer le volume de la thyroïde ; à l'échelle du diagnostic individuel ou de population (suivi épidémiologique).
+La tomodensitométrie avec injection de produit de contraste iodé est peu utilisée, généralement dans le cadre du bilan pré-opératoire des goitres volumineux, notamment des goitres plongeants.
+La scintigraphie thyroïdienne à l'iode 123 est un examen fonctionnel. L'injection d'un traceur d'iode radioactif mettra en évidence des zones du parenchyme plus ou moins actives, et permettra la distinction entre un nodule hypersécrétant et un nodule « froid ».
+
+
+=== Biologie ===
+Un bilan thyroïdien standard comporte le dosage de la TSH et de la T3 ou de la T4. La calcitonine n'est pas systématiquement dosée.
+
+
+== Pathologie ==
+
+
+=== Pathologie endocrinienne ===
+Les dysthyroïdies peuvent avoir des origines génétiques, être liées à des carences nutritionnelles en iode, mais aussi être induites par des toxiques (plomb, ou iode radioactif par exemple — on parle alors de « thyrotoxicoses »).
+
+
+==== Hypothyroïdie ====
+
+Situation d'imprégnation insuffisante de l'organisme en hormones thyroïdiennes, le plus souvent à cause d'un mauvais fonctionnement de la glande thyroïde.
+Les symptômes de l'hypothyroïdie découlent d'un ralentissement métabolique général : fatigue, difficultés de concentration, troubles de la mémoire, frilosité, myxœdème, prise de poids malgré un appétit stable voire diminué, diminution de la pilosité avec perte de cheveux ou cheveux devenant cassants, éclaircissement des sourcils, sécheresse ou épaississement cutané, pâleur, crampes musculaires, fourmillement ou engourdissement des extrémités, inappétence, tendance à la dépression, insomnies, tendance à la constipation.
+L'examen clinique recherche une augmentation de la taille de la thyroïde qui peut être importante (goitre), un ralentissement de la fréquence cardiaque, la bradycardie, et parfois, de la tachycardie ou des symptômes ressemblant à ceux de l'hyperthyroïdie.
+Le traitement est une substitution journalière à vie en hormones thyroïdiennes, par voie orale.
+
+
+==== Hyperthyroïdie ====
+
+Symptomatologie due à un excès de production d'hormones thyroïdiennes :
+
+cardio-vasculaire : tachycardie, éréthisme cardio-vasculaire (frémissement du choc de la pointe du cœur) ;
+digestif : syndrome polyuro-polydipsique (boit et urine en grande quantité), amaigrissement, diarrhée, flatulences ;
+neuro-psy : tremblement, agitation, trouble de l'humeur (irritabilité allant à la dépression), trouble du sommeil, trouble du comportement alimentaire (mange en quantité excessive, perte de poids) ;
+généraux : hypersudation (mains souvent moites, transpiration), hyperthermie, thermophobie (température élevée et n'apprécie pas les températures élevées) ;
+musculaire et articulaire : douleur et fatigue musculaire, ostéoporose, augmentations des glandes lactogènes.
+Le tabac multiplie par dix le risque de survenance de la maladie de Basedow, la forme la plus fréquente de l'hyperthyroïdie, et augmente les risques de complications.
+
+
+==== Thyroïdites ====
+
+La thyroïdite est une inflammation de la glande thyroïde.
+Il existe plusieurs types de thyroïdites:
+
+
+===== Maladie d'Hashimoto =====
+La cause la plus fréquente d’hypothyroïdie.
+Elle consiste en une destruction de la glande thyroïde causée par des taux d’anticorps antithyroïdiens anormalement élevés dans le sang et des globules blancs. La thyroïde ne sécrète alors plus suffisamment d’hormones thyroïdiennes.
+Cette maladie nécessite donc très souvent un supplément hormonal.
+Pour confirmer le diagnostic, il faut réaliser une prise de sang qui dosera les hormones thyroïdiennes et la capacité du corps à les gérer (T4, T3, TSH), ainsi que les auto anticorps thyroïdiens (AC anti TPO, et AC anti thyroglobuline). 
+
+
+===== Thyroïdite du post-partum =====
+La thyroïdite du post-partum peut survenir dans l'année qui suit un accouchement. Dans ce cas, la glande a tendance à récupérer, et le traitement de remplacement des hormones thyroïdiennes n’a besoin d’être administré que durant quelques semaines. Une évolution vers une hypothyroïdie permanente est possible.
+
+
+===== Thyroïdite silencieuse =====
+Elle porte ce nom, car elle n’entraîne aucun signe ni symptôme d’inflammation de la thyroïde. De prime abord, le patient présente une hyperthyroïdie pouvant donner lieu aux mêmes symptômes que ceux de la maladie de Basedow-Graves, qui laisse place à une phase d’hypothyroïdie aboutissant à une guérison complète. La présence d’anticorps antithyroïdiens comparables à ceux décelés au cours de la maladie de Hashimoto est un facteur de risque de persistance de l’hypothyroïdie.
+
+
+===== Thyroïdite subaiguë dite de Quervain =====
+Il s’agit d’une forme passagère de thyroïdite provoquant une hypothyroïdie. La thyroïdite subaiguë serait causée par une infection virale, car la majorité des patients atteints ont présenté une infection de la gorge dans les semaines précédant son apparition. Cette affection se manifeste sous forme d’épidémies de faible envergure et est généralement associée à des infections virales connues.
+
+
+==== Dépression et thyroïde ====
+L'hypothyroïdie peut parfois être confondue avec un état de dépression, et l'hyperthyroïdie avec un état d'excitation. Le diagnostic thyroïdien permettra d'éliminer ces faux diagnostics.
+Cependant des travaux récents ont montré qu'une hypothyroïdie traitée uniquement avec de la thyroxine peut davantage encore se rapprocher d'un état dépressif. Plutôt que de prescrire un antidépresseur, le médecin peut parfois proposer une simple substitution d'une partie de la dose de thyroxine (T4) par de la tri-iodo-thyronine (T3) ou de flavinine (substitut générique du B52).
+
+
+=== Goitre ===
+
+Un goitre est une thyroïde globalement augmentée de volume. Il est dit toxique lorsqu'il sécrète des hormones thyroïdiennes de façon excessive, entraînant une hyperthyroïdie. Les goitres sont rarement homogènes et le plus souvent multinodulaires ; chaque lobe thyroïdien présente un nombre important de nodules bénins de volume variable.
+Les goitres peuvent être en situation cervicale normale ; ils sont dits « plongeants » lorsque le pôle inférieur d'au moins un lobe pénètre dans le médiastin à travers l'orifice supérieur du thorax. Plongeants ou non, les goitres peuvent être (rarement) compressifs, lorsque le volume trop important de la thyroïde comprime les organes de voisinage, principalement la trachée, mais aussi l'œsophage et parfois étirant les nerfs récurrents, entraînant alors une paralysie de la corde vocale homolatérale.
+
+
+=== Tumeurs de la thyroïde ===
+Les tumeurs de la thyroïde se présentent sous la forme d'un nodule thyroïdien, qui peut être bénigne (adénome de la thyroïde) ou maligne (carcinome de la thyroïde).
+
+
+==== Tumeurs bénignes ====
+Adénome vésiculaire de la thyroïde
+Adénome oncocytaire de la thyroïde
+Lipoadénome de la thyroïde
+Adénome à cellules claires de la thyroïde
+Adénome vésiculaire à cellules en bague à chaton de la thyroïde
+Adénome vésiculaire mucosécrétant de la thyroïde
+Adénome vésiculaire à noyaux bizarres de la thyroïde
+Adénome vésiculaire atypique de la thyroïde
+
+
+==== Tumeurs malignes ====
+
+Il existe deux types histologiques principaux de cancers thyroïdiens :
+
+carcinomes différenciés folliculaires ;
+carcinomes différenciés papillaires (le plus fréquent, 80 % des cas).
+
+
+== Abord chirurgical ==
+
+La thyroïde est généralement abordée par une cervicotomie médiane, qui peut être élargie latéralement en cervicotomie en U s'il existe une nécessité de curage ganglionnaire cervical. En cas de volumineux goitre plongeant, un refend cutané en Y en regard de l'extrémité crâniale du sternum sera souvent pratiqué. Au maximum, une simple manubriotomie (on parle alors de cervicomanubriotomie) ou une sternotomie médiane pourra être pratiquée.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+
+
+=== Liens externes ===
+
+
+== Bibliographie ==
+livret d'information "Cancer de la thyroïde" ; Institut Gustave Roussy.
+ARC, Monographie Volume 79 (2001) Some Thyrotropic Agents
+Fini J.B et Demeneix B (2019) Les perturbateurs thyroïdiens et leurs conséquences sur le développement cérébral. Biologie Aujourd’hui, 213(1-2), 17-26.
+Remaud S et Demeneix B (2019) Les hormones thyroïdiennes régulent le destin des cellules souches neurales. Biologie Aujourd’hui, 213(1-2), 7-16 (résumé).
+
+ Portail de l’anatomie   Portail de la physiologie

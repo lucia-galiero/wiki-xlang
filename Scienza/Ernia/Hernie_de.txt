@@ -1,0 +1,205 @@
+Eine Hernie (Aussprache: [ˈhɛʁni̯ə]; von lateinisch hernia, ‚Bruch‘, von griechisch ἔρνος érnos „Knospe, Spross“), deutsch Bruch, ist der Austritt („Durchbruch“, „Durchbrechen“) von Eingeweiden aus der Bauchhöhle (Eingeweidebruch, Bauchbruch, Bauchwandbruch, Hernia ventralis, älter auch Leibbruch) durch eine angeborene oder erworbene Lücke (genannt Bruchpforte) in den tragenden oder begrenzenden Gewebeschichten.
+Verlassen Gehirnteile ihre normale Lage, spricht man von einer Hirnhernie. Die Vorwölbung von Muskulatur durch einen Riss der bedeckenden Faszie bezeichnet man als Muskelhernie.
+
+
+== Merkmale ==
+Jeder Eingeweidebruch weist drei Merkmale auf:
+
+Bruchpforte
+Eine Voraussetzung für die Entstehung einer Hernie ist eine Schwachstelle in der Wandung der Bauchhöhle. Meist ist diese bereits in der Embryonalentwicklung angelegt. Die Schwachstelle kann aber auch später entstehen, beispielsweise durch eine Narbe nach einer Bauchoperation. Durch den stetigen intraabdominellen Druck und eine leichte Überforderung (Hustenstoß) können tragende Bauchwandschichten so weit auseinanderweichen, dass eine beutelartige Vorwölbung der restlichen Bauchwandschichten als Bruchsack resultiert.
+Bruchsack
+Seine innere Auskleidung besteht im Regelfall aus gleitendem Bauchfell (Peritoneum) mit Bruchinhalt. Seine engste, in der Bruchpforte eingeklemmte Stelle wird Bruchsackhals genannt.
+Bruchinhalt
+Aufgrund entzündlicher Reaktionen kann ein Bruch Bruchwasser enthalten, aber auch temporär leer sein. Häufig aber enthält er einen Zipfel des großen Netzes oder gar eine Dünndarmschlinge. Auch frei bewegliche Organe, wie Eierstock, Wandanteile der Harnblase oder des Dickdarms, können enthalten sein. Bei einem Zwerchfellbruch ist es häufig der Magen, der durch einen Schlitz im Zwerchfell in den Brustkorb gleitet.
+Auch Organe (Magen, Dickdarm, Blase), die nur teilweise innerhalb der mit Bauchfell ausgekleideten Bauchhöhle gelegen sind, so genannte retro- oder extraperitoneale Organe, können durch eine Bruchpforte gleiten und nehmen dann eine ihnen außen anliegende Bauchfelltasche als Bruchsack mit. Diese Hernien werden Gleitbrüche genannt.
+Mangelernährung, Kachexie (bei Tumorerkrankung) und Aszites bewirken eine Bauchdrucksteigerung und Bauchwandschwächung, beides begünstigt die Entstehung von Bauchwandbrüchen, die dann als symptomatische Hernien bezeichnet werden.
+Frische Hernien sind meist reponibel (von lat. reponere = wiederherstellen). Das bedeutet, dass durch sanften Druck von außen der Bruchinhalt wieder in die Bauchhöhle zurückgeschoben werden kann. Dieses Manöver wird Taxis genannt und kann bei unkritischer Anwendung und fehlender nachfolgender Überwachung Komplikationen verschleiern.
+
+
+== Arten von Eingeweidebrüchen ==
+Nach dem Ort ihres Auftretens werden innere und äußere Hernien unterschieden. Ist die Hernie von außen zu erkennen oder führt die Bruchpforte vom Körperinneren in Richtung Haut, spricht man von einer äußeren Hernie. Liegt die Hernie innerhalb des Rumpfes (z. B. vom Bauch in den Brustkorb gerichtet) und kann deshalb nicht ohne Hilfsmittel erkannt werden, dann handelt es sich um eine innere Hernie.
+
+
+=== Innere Hernien ===
+
+
+==== Zwerchfellhernie ====
+
+Bei der Zwerchfellhernie (lateinisch Hernia diaphragmatica) gelangen Bauchorgane in die Brusthöhle.
+
+Ihre angeborene Form (englisch Congenital diaphragmatic hernia, abgekürzt CDH) wird durch eine unvollständige Zwerchfellausbildung verursacht.
+Im Erwachsenenalter hingegen begünstigen anatomische Schwachstellen im Zwerchfell Hernienbildung:
+der schlitzförmige Durchtritt der Speiseröhre, Hiatus oesophageus genannt, als Durchtrittsort für eine Hiatushernie
+eine Herniation durch die Lücke des Zwerchfellansatzes zwischen Brustbein und Rippe (Diaphragma sternocostalis/parasternalis) wird auf der rechten Seite als Morgagni-Hernie, links als Larrey-Hernie bezeichnet
+der Durchtritt von Weichteilen durch die pars lumbocostalis, insbesondere links, wo die Leber diese Lücke nicht verdeckt (auf der Grafik nur rechts eingezeichnet), wird als Bochdalek-Hernie bezeichnet.
+
+
+==== Treitz-Hernie ====
+Bei der Treitz-Hernie sind Darmanteile im Recessus duodenalis superior, einer sehr engen Bauchfelltasche hinter dem sogenannten Treitz'schen Band (Ligamentum suspensorium duodeni), welches den Zwölffingerdarm fixiert und Darmgefäße enthält, eingeklemmt.
+
+
+==== Transmesenterische Hernie ====
+Eine Hernie durch einen angeborenen Mesenterialdefekt ist eine seltene Ursache für einen Darmverschluss. Obwohl sie als „angeboren“ bezeichnet wird, werden die meisten Patienten mit einer Mesenterialhernie erst im Erwachsenenalter mit Symptomen vorstellig.
+
+
+==== Ligamentum-latum-uteri-Hernie ====
+Hernien des Ligamentum latum uteri können einen Dünndarmverschluss verursachen und stellen 4–7 % aller inneren Hernien.
+
+
+=== Äußere Hernien ===
+
+
+==== Leistenhernie ====
+
+Die Leistenhernie oder auch Inguinalhernie (lateinisch Hernia inguinalis), genannt auch Bauchwandbruch, ist die häufigste Form der Hernie (80 %). Sie tritt über dem Leistenband an einer anatomisch vorgegebenen Stelle, dem äußeren Leistenring, in Erscheinung.
+Man unterscheidet die
+
+direkte Leistenhernie (Hernia inguinalis directa/medialis)
+Hier tritt der Bruch durch eine Schwachstelle der inneren Bauchwandschicht, der Fossa inguinalis medialis, die sich auf den äußeren Leistenring projiziert, aus. Diese Bruchform, wie auch die folgende, tritt äußerlich am äußeren Leistenring (Anulus inguinalis superficialis) aus. Da aber keine begünstigende embryonale Struktur als Leitschiene existiert, ist diese Form nur selten angeboren.
+indirekte Leistenhernie (Hernia inguinalis indirecta/lateralis)
+Sie tritt am inneren Leistenring in die Bauchwand ein, verläuft beim Mann im Samenstrang und begleitet den Samenleiter und tritt ebenso wie der vorhergenannte Bruch am äußeren Leistenring an die Körperoberfläche. Bei der Frau verläuft im Leistenkanal nur das Mutterband. Da es deutlich kleiner als der Samenstrang ist, ist die laterale Leistenhernie beim weiblichen Geschlecht selten, aber auch die mediale Form kommt bei der Frau nicht häufig vor.
+Die Leistenhernie des Kindes entwickelt sich in der Mehrzahl aus einem offen gebliebenen Processus vaginalis peritonei und entspricht damit der Definition einer so genannten „indirekten Leistenhernie“. Sie wird in der Regel bereits im Säuglingsalter diagnostiziert und tritt bei Frühgeborenen häufiger auf. Männliche Säuglinge und die rechte Seite sind häufiger betroffen. Die Leistenhernie muss nach der Diagnose kurzfristig operativ korrigiert werden. Die Gefahr der Inkarzeration (Darmeinklemmung) besteht vor allem im ersten Lebensjahr. Bei weiblichen Säuglingen können die Eierstöcke und Eileiter in den Bruch gleiten, was man als „Ovarialhernie“ bezeichnet. Wenn sich der Wurmfortsatz in der Leistenhernie findet, spricht man von einer Amyand-Hernie.
+
+
+==== Schenkelhernie ====
+Die Schenkelhernie (synonym Schenkelbruch und Cruralhernie sowie Femoralhernie, lateinisch Hernia femoralis, griechisch Merozele), erstmals erwähnt 1685 von Nicolas Lequin, kommt weit überwiegend, wie schon Garangeot im 18. Jahrhundert festgestellt hatte, bei (älteren) Frauen vor. Sie kommt nach einer Leistenbruchoperation nach Shouldice oder Bassini, der 1891 ein verbesserte Operationsmethode der Schenkelhernie entdeckt hatte, auch bei Männern vor (2–3 %).
+Der spanische Leibwundarzt Antoni de Gimbernat war der Erste, der 1793 die Ursache der Einklemmung des Schenkelbruchs in dem nach ihm benannten Teil des Cruralbogens des Musculus obliquus externus vorfand.
+Die Schenkelhernie tritt unterhalb des Leistenbandes durch die Lacuna vasorum, genauer gesagt innenseitig (medial) von der Vena femoralis durch die sog. Lacuna lymphatica, aus. Schenkelhernien sind schmerzhafter als Leistenhernien und klemmen häufig ein oder sind nicht reponibel. In ihnen ist oft nur das Omentum majus und kein Darm eingeklemmt. Aber auch mobile Eierstöcke sind als Bruchsackinhalt möglich. Bei jeder unterhalb des Leistenbandes tastbaren Schwellung sollte eine Schenkelhernie ausgeschlossen werden. Wegen der häufigeren Gefahr der Einklemmung mit Durchblutungsstörung (Inkarzeration) ist eine dringende Operation anzustreben.
+Als Differenzialdiagnose kommen wie bei der Leistenhernie unter anderem geschwollene Lymphknoten in Frage.
+
+
+==== Nabelschnurbruch ====
+Bei einer Omphalocele (Nabelschnurbruch) ist durch eine Bauchwandfehlbildung die Nabelschnur sackartig aufgebläht, und Bauchorgane treten durch den Nabel hervor.
+
+
+==== Nabelbruch ====
+Ein Nabelbruch, genannt auch Nabelhernie und Umbilikalhernie (lateinischer Oberbegriff Hernia umbilicalis et paraumbilicalis mit der Spezialform Hernia umbilicalis), tritt häufig direkt nach der Geburt im Säuglingsalter auf. Ursache ist die noch unvollständige Ausbildung der Bauchwand am Bauchnabel. Diese Säuglingsnabelbrüche haben in der Regel keine Einklemmungstendenz und bilden sich meist spontan zurück, daher werden sie nicht operativ, sondern mit Bandagierung behandelt. In seltenen Fällen, wenn z. B. durch starkes Schreien des Säuglings die Hernie nicht sofort in die Bauchhöhle zurückgleiten will, kann der Arzt Beruhigungsmittel verabreichen, damit das Kind entspannt und der Bruch zurückgleiten kann (Reposition).
+Beim Erwachsenen sind Nabelhernien relativ häufig. Oft haben die Betroffenen keine Beschwerden und haben sich auch mit dem vorgewölbten Aussehen des Nabels arrangiert. Bei Nabelbrüchen mit kleiner Bruchpforte kann eine Einklemmung von Bauchorganen auftreten und erhebliche Beschwerden verursachen. Am häufigsten wird das große Netz vorgefunden. Besonders bei kleinen Hernien ist Inkarzeration gefürchtet.
+Zur chirurgischen Versorgung von Nabelhernien existieren viele Techniken, darunter die seit dem 19. Jahrhundert weiterentwickelte Omphalektomie. Als „Radikalkur“ wurde von Pierre-Joseph Desault im 18. Jahrhundert die bereits im 1. Jahrhundert von Aulus Cornelius Celsus befürwortete Unterbindung empfohlen. Die Wahl der „richtigen“ Operationstechnik ist von der Größe der Hernie, der Aktivität des Patienten, dem allgemeinen Gesundheitszustand u. a. abhängig.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Lumbale Hernien ====
+
+Bei lumbalen, also im Lendenbereich auftretenden Hernien erfolgt der Durchtritt von Fett oder anderen abdominellen Strukturen nach hinten außen entweder oben unterhalb der 12. Rippe durch das Trigonum lumbale superius (Grynfeltt-Hernie) oder unten oberhalb des Beckenkamms durch das Trigonum lumbale inferius (Petit-Hernie).
+
+
+==== Hernia obturatoria ====
+Eine Hernia obturatoria tritt durch das Hüftbeinloch (Foramen obturatum), eine mit Bindegewebe verschlossene Durchtrittsstelle im Hüftbein, aus und der Bruchinhalt kann die im Hüftlochkanal (Canalis obturatorius) verlaufenden Gefäße sowie den Nervus obturatorius derart quetschen, dass daraus Sensibilitätsstörungen am innenseitigen Oberschenkel (Ramus cutaneus des Nervus obturatorius) resultieren können. Diese Form der Hernie ist aber sehr selten und wird, da äußerlich nicht sicht- und tastbar, oft erst durch den Darmverschluss infolge Einklemmung erkannt. Eine Diagnostik mittels Ultraschalls ist möglich, es kann so beim Pressversuch der mobile Bruchinhalt erkannt und die Diagnose gestellt werden.
+
+
+==== Epigastrische Hernien ====
+Bei der epigastrischen Hernie (lateinisch Hernia epigastrica; epi (altgriechisch) = auf, über; gaster (altgriechisch) = Magen) ertastet man in der Linea alba zwischen Xiphoid und Nabel in der Bauchwand eine schmerzhafte Schwellung, die in der Frühphase nur aus präperitonealem Fettgewebe besteht, später aber aus einem echten Bruchsack, der häufig einen Zipfel des großen Netzes enthält.
+Man spricht auch von der Epigastrozele oder Epigastriozele. Es ist eine im Epigastrium lokalisierte Hernie der Linea alba. Man unterscheidet hier die seltene Hernia infraumbilicalis unterhalb des Nabels von der häufigeren Hernia supraumbilicalis oberhalb des Nabels. Die Hernia supraumbilicalis enthält einen Netzzipfel und hat eine scharfrandige Bruchpforte; nicht selten liegt ein Gitterbruch vor. Sie gilt als irreponibel, kann also weder vom Patienten selbst noch vom Arzt (mit der Hand durch eine Reposition oder Taxis) zurückverlagert werden. Dieser Bruch wird oft durch ein präperitoneales Lipom vorgetäuscht. Andere Bezeichnungen sind Hernia paraumbilicalis, Hernia parumbilicalis, Hernia adumbilicalis, periumbilikale Hernie, Periumbilikalhernie, Parumbilikalhernie und Paraumbilikalhernie.
+Als Hernia lineae albae oder Bergmannsche Hernie wird der mittlere Bauchwandbruch durch eine meist quere rhombische Lücke in der Linea alba bezeichnet. Diese Form des Bauchwandbruchs wird eingeteilt in die Hernia epigastrica sowie in die Hernia supraumbilicalis und die Hernia infraumbilicalis.
+
+
+==== Spieghel-Hernie ====
+Bei der Spieghel-Hernie (lateinisch Hernia Spigeli oder Hernia lineae semilunaris) handelt es sich um eine Hernie, die sich im Bereich des hinteren Blattes der Rektusscheide (Linea semilunaris) in die Bauchdecke hinein erstreckt. Auch sie ist selten und wird oft verkannt.
+
+
+==== Narbenhernie ====
+Bei der Narbenhernie (lateinisch Hernia cicatrica) bildet eine allschichtige Bauchwandnarbe durch ihren Mangel an Elastizität die Bruchpforte. Solche Narben sind nahezu ausschließlich Folgen früherer Laparotomien (offener Bauchoperationen). Aufgrund von Verwachsungen sind die Präparation anspruchsvoll und der Langzeiterfolg einer Operation keineswegs sicher. Dennoch empfiehlt sich eine Operation, da sich wegen der Vergrößerung der Hernie mit der Zeit die Heilungsaussicht immer weiter verschlechtert.
+Fasziendopplungen nach Mayo oder eine Stoß-an-Stoß-Naht waren eine rezidivbehaftete Standardtherapie. Derzeit werden Kunststoffnetze zur Verstärkung eingesetzt, wobei häufig die Methoden nach der Lage des Netzes zu den tragenden Bauchwandschichten, zumeist englisch, benannt werden (Sublay-, Inlay-, Onlay-Plastik). Bereits im Jahr 1900 hatte Oskar Witzel ein Silberdrahtnetz (erst später wurden Kunststoffnetze und lyophilisierte Duralappen verwendet) als Herniennetz bei einer Bauchwandhernie erprobt.
+
+
+==== Rektusdiastase ====
+Als Rektusdiastase bezeichnet man das Auseinanderweichen der geraden Bauchmuskulatur (des Musculus rectus abdominis). Eine Operationsindikation besteht nur bei Beschwerden. Sie ist keine Hernie im klassischen Sinn.
+
+
+==== Littré-Richter-Hernie ====
+
+Die Littré-Richter-Hernie bezeichnet eine Art, bei der sich nur ein Teil der Darmwand wie eine Blase in eine sehr kleine Bruchlücke einklemmt. Da sich diese Hernie leicht wieder lösen und auch intraoperativ sehr leicht übersehen werden kann, ist während der Operation eine gründliche Sichtung aller Darmabschnitte zwingend. Aufgrund ihres nichtobstruierenden Charakters (d. h. die Passage des Dünndarms ist nie vollständig verhindert) werden die Bauchschmerzen leicht verkannt.
+
+
+==== Perinealhernie ====
+
+Eine Perinealhernie (Mittelfleischbruch) ist eine Hernie des Beckenbodens mit Ausstülpung des Perineums. Sie ist bei unkastrierten männlichen Haushunden relativ häufig.
+
+
+== Muskelhernie ==
+Bei einer Muskelhernie kommt es zur Vorwölbung von Skelettmuskelgewebe durch einen Riss in der Faszie.
+
+
+== Symptome ==
+Eine Hernie kann je nach Lokalisation durch eine Schwellung auffallen oder unbemerkt bleiben. Dabei können auch Schmerzen auftreten. Bei äußeren Hernien kann ein erhöhter intraabdomineller Druck, z. B. durch Husten oder Bauchpresse, die Hernie hervortreten lassen.
+Einige Hernien schlüpfen durch entzündliche Verwachsungen nicht mehr zurück (man nennt sie irreponibel) und verursachen wechselhafte Schmerzen.
+In der Regel bemerken die Patienten zuerst gelegentlich ziehende Schmerzen in der Leistengegend, später sehen oder bemerken sie eine Vorwölbung, manchmal aber tritt die Vorwölbung ohne Schmerzen auf. Die Schwellung verschwindet bei Fortfall der Belastung oft wieder spontan, wird aber im weiteren Verlauf häufiger auftreten und größer werden, bis sie als störend empfunden wird.
+Ursächlich tritt die Vorwölbung häufig durch Steigerung des Drucks im Bauch (intraabdomineller Druck) beim Husten und Lachen, beim Pressen, beim Sport oder beim Tragen von schweren Lasten auf. Anfällig sind besonders Personen, die ungeübt schwere Lasten tragen müssen oder Extremsport treiben (durch Überlastung), aber auch Dauerbelastungen können bei Ermüdung des stabilisierenden Körpergewebes diese Krankheit begünstigen.
+Wenn der Bruchinhalt (Zipfel vom großen Netz, Darm) in der Bruchlücke eingeklemmt wird, kommt es zu starken Dauerschmerzen am Ort der Vorwölbung mit Schmerzausstrahlung, z. B. in den Hodensack bei Leistenhernien oder in die Schamregion bei Leisten- und Schenkelhernien. Tritt neben der Schwellung eine Rötung als Ausdruck einer hochgradigen Entzündung auf, dann ist eine dringliche Operation kaum zu umgehen. Häufig wird bei Leisten- und Schenkelhernien auch eine Bewegungseinschränkung angegeben.
+Prinzipiell sollte jede abnorme Vorwölbung im Leistenbereich ärztlich untersucht werden. Neben Hernien können auch vergrößerte Lymphknoten oder Gefäßveränderungen vorliegen.
+Nur in Fällen unkomplizierter, leichter Brüche darf die Vorwölbung ausnahmslos vom Arzt zurückgeschoben werden. Dies stellt aber keine Heilung dar, und eine planbare Operation (Wochen bis Monate) ist nicht zu umgehen. Solange keine Brucheinklemmung oder andere Komplikationen auftreten, besteht kein Anlass zu einer sofortigen Operation.
+
+
+== Komplikationen ==
+Besonders bei unbehandelten Hernien fürchtet man Komplikationen, die in der älteren deutschen chirurgischen Literatur auch als Bruchzufälle bezeichnet wurden.
+Die Anstauung von Darminhalt in den ausgetretenen Darmschlingen bewirkt eine kotige Einklemmung mit Darmwandschädigung. Noch gefürchteter aber ist hierbei das Abklemmen der Blutversorgung der Darmschlingen, Inkarzeration genannt. Es ist naheliegend, dass diese Komplikationen besonders bei engen und keineswegs bei großen Bruchpforten auftreten. Diese letzten beiden Komplikationen sind hoch schmerzhaft und bedürfen einer operativen Therapie innerhalb von sechs Stunden.
+Eine weitere Komplikation ist die Mazeration der Haut über einem zumeist monströsen Bruchsack. Solche Wunden bewirken wegen der damit verbundenen Steigerung des Operationsinfektionsrisikos oft einen weiteren Aufschub der unvermeidbar notwendigen Operation.
+
+
+== Therapieoptionen ==
+
+Die Behandlung der Leistenhernie mit einem Bruchband, eine spezielle Bruch-Gymnastik oder das Einspritzen von Medikamenten sind historische Methoden. Da nur eine Operation einen bleibenden Erfolg sichert, ist sie heute die Regel. Im Akutfall kann mittels Taxis eine Reposition versucht werden, um Zeit für die operative Behandlung zu gewinnen. Für die chirurgische Versorgung stehen verschiedene Operationsverfahren zur Verfügung. Wegen der Gefahr einer lebensbedrohenden Inkarzeration (s. o.) besteht besonders bei kleinen Brüchen eine Indikation zur frühzeitigen Bruchoperation.
+Da Weichteilbrüche sich nicht zurückbilden, werden sie mit der Zeit größer. Ist beispielsweise die Diagnose eines Leistenbruchs gesichert und der Patient in einem operablen Zustand, dann ist heutzutage die Anzeige zur Operation zweifelsfrei gegeben. Abhängig von den Beschwerden kann nur noch der geeignete Zeitpunkt der Operation festgelegt werden. Nur bei Patienten in nicht operablem Zustand oder bei einer Operationsverweigerung kann ein Bruchband verordnet werden. Ein Bruchband ist ein unhandliches Hilfsmittel mit zweifelhaftem Erfolg. Es besteht aus einer gepolsterten, elastischen Metallspange, die um die Hüften angelegt wird, und aus einem kleinen ballförmigen Ledersack (Pelotte), der auf die Bruchlücke drückt. Da Leistenhernien in Vollnarkose, in Spinalanästhesie oder in Lokalanästhesie operiert werden können, ist das Bruchband heutzutage eigentlich nur noch von medizinhistorischer Bedeutung.
+
+
+== Operationsprinzipien und -verfahren ==
+
+
+=== „Offene“ Operation mittels Bauchschnitts ===
+Der Bruchsack wird zum Bruchschnitt (heute meist Herniotomie genannt) über einen Schnitt freigelegt und bis auf Ausnahmen eröffnet. Der Inhalt wird in die Bauchhöhle zurückverlagert, der Bruchsack bis zum Bruchsackhals präpariert, gekürzt und verschlossen. Danach erfolgt der Verschluss der Bruchpforte durch eine:
+
+direkte Naht: Dieser Verschluss ist oft nur bei sehr kleinen Brüchen möglich.
+Fasziendopplung: Die Ränder derber Bauchwandschichten (Faszie) werden gedoppelt (Mayo-Op. bei Hernia ventralis, Leistenbruchoperation nach Shouldice bei Hernia inguinalis), also überlappend vernäht, um eine größere Stabilität zu erreichen. Die Rezidivrate ist mit 1 % als relativ gering einzustufen.
+Stabilisierung des Bruchpfortenverschlusses durch künstliche Materialien. Bei größeren Brüchen verfestigt man die Naht durch Aufsteppen körpereigenen Gewebes (selten) oder mit Kunststoffnetzen. Es kommen sowohl nichtresorbierbare als auch resorbierbare, neuerdings sogar spezielle Hybridmaterialien zur Anwendung. Die einzelnen Methoden unterscheiden sich auch darin, in welcher Schicht der Bauchwand das Netz eingepflanzt wird. So wurde bisher bei der Leistenhernie häufig die vom amerikanischen Chirurgen Irving L. Lichtenstein entwickelte Lichtenstein-Operation angewandt, bei der ein nicht resorbierbares Kunststoffnetz nach der Bruchsackreposition auf (über) die Fascia transversalis (=onlay technique) fixiert wird. Die Rezidivrate ist nach neueren Erkenntnissen höher als erwartet, weshalb inzwischen das Netz vermehrt präperitoneal (= sublay technique) gelegt wird. Der Druck in der Bauchhöhle wird vom Netz sozusagen an der richtigen Stelle aufgenommen. Die Rezidivraten sind bei guter Operationstechnik (siehe Shouldice-Klinik) ungefähr gleich wie bei der Doppelung nach Shouldice (offene Sublay-Techniken nach Wantz [einseitig] oder Stoppa [beidseits]). Die Langzeit-Ergebnisse sind besser, Langzeitnebenwirkungen mit Abrieb und andere sind nicht vorhersehbar. Chirurgen, die mehrere Methoden beherrschen, was die Regel sein sollte, empfehlen deswegen grundsätzlich bei gutem Faszienmaterial die Fasziendoppelung, aber beim sehr großen Bruch, beim Rezidiv oder, wenn das Bindegewebe keinen sicheren Nahthalt verspricht, die Netzimplantation auf diese Weise.
+
+
+=== „Geschlossene“ Operation mittels Bauchspiegelung ===
+Dieser Zugang durch die Bauchdecke (Laparoskopische Chirurgie) hat sich auch in der Hernienchirurgie zunehmend etabliert. Prinzip ist hier grundsätzlich die Einbringung eines (Kunststoff-)Netzes in die Bauchwand in methodisch verschieden tiefen Schichten. Eine generelle Überlegenheit gegenüber der konventionellen Technik konnte bis jetzt nicht bewiesen werden, weil die Langzeitergebnisse noch ausstehen.
+
+
+== Nachsorge ==
+Die Ausheilung zu einer festen Narbe nimmt bis drei Monate in Anspruch. Zug- und Druckbelastungen, die z. B. beim Heben schwerer Gegenstände, bei heftigem Husten oder durch abrupte Bewegungen entstehen, sollten möglichst vermieden werden. Je nach Größe des Bruches sollten diese Belastungen bis zu zwei Jahren vermieden werden, um den Behandlungserfolg zu sichern. Eventuelles Übergewicht sollte möglichst abgebaut werden.
+
+
+== Geschichte ==
+Erste Beschreibungen von Eingeweidebrüchen finden sich in altägyptischen Papyri, etwa im Papyrus Ebers (um 1555 v. Chr.) Auch das altgriechische Corpus Hippocraticum (4./5. Jahrhundert) schildert Brüche am Unterleib. Bei Caelius Aurelianus (4. Jahrhundert n. Chr.) wird Praxagoras von Kos erwähnt, der im 4. Jahrhundert v. Chr. eine manuelle Behandlung eingeklemmter Hernien empfohlen haben soll. Inguinalhernien und Brucheinklemmungen sowie deren konservative und operative Behandlungsmöglichen wurden um 30 n. Chr. ausführlich von Aulus Cornelius Celsus abgehandelt.
+Als mögliche Inhalte von Nabelbrüchen (Umbilikalhernien), als deren Ursache bis ins 18. Jahrhundert ausschließlich eine Zerreissung des Bauchfells angenommen wurde, führte Aulus Cornelius Celsus Darm, Netz, Wasser und Luft auf und empfahl (bei nichteingeklemmten Nabelbrüchen) die Operation. Im 2. und 3. Jahrhundert befassten sich auch Galenos (mit den Entstehungsursachen) und der Chirurg Heliodorus (mit der operativen Behandlung) mit Hernien, im 7. Jahrhundert Paulos von Aigina, der auch ausführlich den mit Darmschlingen, Netz, Flüssigkeit, Fleischmassen, Blut oder Luft enthaltenden und operativ oder konservativ (mit adstringierenden Arzneipflastern, Salben und Verbänden) zu behandelnden Nabelbruch (exomphalos) abhandelte.
+Der arabische Chirurg Abulkasim behandelte im 10. Jahrhundert Hernien unter anderem auch mit dem Glüheisen und operierte auch Nabelbrüche. Frühe neuzeitliche Publikationen zur Hernienchirurgie, insbesondere zur Herniotomie (Bruchschnitt), stammen von Caspar Stromayr (1559) und dem erstmals die Operation beim eingeklemmten Bruch empfehlenden Pierre Franco (1561) sowie von Ambroise Paré und Girolamo Fabrizio. Die Entfernung einer durch eine eingeklemmte Hernie entstandenen brandigen Darmschlinge führte 1727 erstmals Philipp Ramdohr durch. Bis zur ersten Erwähnung der Schenkelbrüche durch Nicolas Lequin 1685 wurden diese nicht von Leistenhernien unterschieden. Seit etwa 1820 und Antonio Scarpa unterscheidet man bei den Nabelbrüchen angeborene von erworbenen Formen. Antisepsis und Asepsis waren die Voraussetzungen für weitere Erfolge und weniger Rezidive in der Hernienchirurgie ab etwa 1900.
+
+
+== Siehe auch ==
+Varikozele
+
+
+== Literatur ==
+Christian Neubert, Ludwig Faupel, Uwe Katzenmeier: Bauchwandbrüche. In: Franz Xaver Sailer, Friedrich Wilhelm Gierhake (Hrsg.): Chirurgie historisch gesehen. Anfang – Entwicklung – Differenzierung. Dustri-Verlag Dr. Karl Feistle, Deisenhofen bei München 1973, ISBN 3-87185-021-7, S. 139–152.
+A[rpad] Gyergyai: Kritische Bemerkungen zur Geschichte der Lehre von den Brüchen. In: Deutsches Archiv für Geschichte der Medicin u. medicinische Geographie. 3, 1880 (Neudruck Hildesheim 1971), S. 321–331 und 381–393.
+Alfred H. Iason (Hrsg.): Hernia. Philadelphia 1941, insbesondere S. 3–152 (Alfred H. Iason: The evolution of hernial surgery).
+Ernst Kern: Hernien. In: Karl Vossschulte, Hanns Gotthard Lasch, F. Heinrich (Hrsg.): Innere Medizin und Chirurgie. Ein integriertes Lehrbuch. Stuttgart/ New York 1979; 2. Auflage ebenda 1982, S. 588–597.
+Georg Fischer: Chirurgie vor 100 Jahren. Historische Studie. [Gewidmet der Deutschen Gesellschaft für Chirurgie]. Verlag von F. C. W. Vogel, Leipzig 1876; Neudruck mit dem Untertitel Historische Studie über das 18. Jahrhundert aus dem Jahre 1876 und mit einem Vorwort von Rolf Winau: Springer-Verlag, Berlin/ Heidelberg/ New York 1978, ISBN 3-540-08751-6, S. 509–520.
+
+
+== Weblinks ==
+
+MedlinePlus: Hernie (englisch)
+Hernia-Guide der Deutscher Verlag für Gesundheitsinformation GmbH
+
+
+== Einzelnachweise ==

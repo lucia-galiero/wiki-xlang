@@ -1,0 +1,222 @@
+Kernspaltung bezeichnet Prozesse der Kernphysik, bei denen ein Atomkern unter Energiefreisetzung in zwei oder mehr kleinere Kerne zerlegt wird. Seltener wird die Kernspaltung auch Kernfission (lateinisch fissio „Spaltung“, englisch nuclear fission) genannt. Fission darf nicht mit Kernfusion, dem Verschmelzen zweier Atomkerne, verwechselt werden. Die durch die Spaltung neu entstandenen Stoffe heißen Spaltprodukte.
+
+
+== Allgemeines zur Physik der Spaltung ==
+Spaltung wird nur bei genügend schweren Nukliden beobachtet, von Thorium-232 aufwärts. Nur bei ihnen ist die Zerlegung in leichtere Kerne leicht und mit Freisetzung von Bindungsenergie möglich. Anschaulich lässt sich die Spaltung nach dem Tröpfchenmodell durch Schwingung und Zerreißen des Kerns verstehen: Die animierte Großansicht des obigen Bildes zeigt, wie der Kern (rot) von einem Neutron (blau) getroffen wird, sich in die Länge dehnt und in der Mitte einschnürt. Die lange Reichweite der gegenseitigen elektrischen Abstoßung der Protonen überwiegt dann die anziehende Kernkraft (siehe Atomkern) mit ihrer kurzen Reichweite und treibt die beiden Enden auseinander, so dass der Kern in zwei (oder selten in drei) Bruchstücke – hoch angeregte mittelschwere Kerne – zerfällt. Durch die Änderung der Bindungsenergie nimmt die Gesamtmasse entsprechend ab (Massendefekt). Außer den Bruchstück-Kernen (Spaltfragmenten) werden meist einige einzelne Neutronen freigesetzt, typischerweise zwei oder, wie in der Animation, drei.
+Das Energiespektrum dieser Neutronen hat die Form einer Maxwell-Verteilung, ist also kontinuierlich und reicht bis etwa 15 MeV hinauf. Die in der Boltzmann-Statistik maßgebliche absolute Temperatur hat hier allerdings kaum physikalische Bedeutung, sondern wird als freier Parameter behandelt, um die Kurve an die gemessene Form des Spektrums anzupassen. Die mittlere Neutronenenergie liegt bei etwa 2 MeV. Sie hängt etwas vom gespaltenen Nuklid und im Fall der neutroneninduzierten Spaltung (s. unten) auch von der der Energie des spaltenden Neutrons ab. Wegen der Asymmetrie der Maxwell-Verteilungskurve ist die mittlere Energie verschieden von der wahrscheinlichsten Energie, dem Maximum der Kurve; diese liegt bei etwa 0,7 MeV.
+Etwa 99 % der Neutronen werden als prompte Neutronen direkt bei der Spaltung innerhalb etwa 10−14 Sekunden emittiert. Der Rest, die verzögerten Neutronen, wird Millisekunden bis Minuten später aus den Spaltfragmenten freigesetzt.
+
+
+== Spontanspaltung ==
+
+Einige Atomkernarten (Nuklide) spalten sich ohne äußere Einwirkung. Diese spontane Spaltung ist eine Art des radioaktiven Zerfalls. Sie lässt sich quantenmechanisch ähnlich dem Alpha-Zerfall durch den Tunneleffekt erklären. Auch natürlich vorkommende schwere Atomkerne wie 232Th, 235U, vor allem aber 238U sind zur Spontanspaltung in der Lage. Allerdings ist der Alphazerfall in diesen Nukliden um Größenordnungen wahrscheinlicher. Akademische Relevanz hat dieser Vorgang insofern als er – entweder direkt oder durch die entstehende Neutronenstrahlung – die Quelle des nicht-anthropogenen Technetiums sowie 239Pu auf Erden ist.
+Praktische Anwendung findet die Spontanspaltung als Quelle freier Neutronen. Hierfür wird meist das Californium-Isotop 
+  
+    
+      
+        
+          
+          
+            252
+          
+        
+        
+          C
+          f
+        
+      
+    
+    {\displaystyle ^{252}\mathrm {Cf} }
+  
+ verwendet.
+
+
+== Neutroneninduzierte Spaltung ==
+Große technische Bedeutung hat die neutroneninduzierte Spaltung, eine Kernreaktion. Dabei kommt ein freies Neutron einem Atomkern so nahe, dass es von ihm absorbiert werden kann. Der Kern gewinnt dadurch die Bindungsenergie und eventuelle kinetische Energie dieses Neutrons, befindet sich dadurch in einem angeregten Zustand und spaltet sich. Statt der Spaltung sind auch andere Abläufe möglich, beispielsweise der Neutroneneinfang. Dabei regt sich der angeregte Atomkern durch Emission eines oder mehrerer Gammaquanten ab und geht in seinen Grundzustand über.
+Die neutroneninduzierte Spaltung ist grundsätzlich – mit kleinerem oder größerem Wirkungsquerschnitt – bei allen Elementen mit Ordnungszahlen Z ab 90 (Thorium) möglich und bei vielen ihrer Isotope beobachtet worden.
+Wegen ihrer Bedeutung für die zivile Energiegewinnung und für Kernwaffen wird im Folgenden hauptsächlich die neutroneninduzierte Spaltung behandelt.
+
+
+== Spaltfragmente ==
+Die Gesamtzahl der Protonen und Neutronen bleibt bei jeder Kernspaltung erhalten. Der bei weitem häufigste Fall ist die Spaltung in nur zwei neue Kerne (Spaltfragmente); nur in wenigen Promille aller Spaltungen entsteht noch ein drittes Fragment (ternäre Spaltung) mit meist sehr kleiner Massenzahl bis maximal etwa 30.
+Bei zwei Spaltfragmenten sind viele verschiedene Nuklidpaare möglich. Meist entsteht ein leichteres (Massenzahl um 90) und ein schwereres Spaltfragment (Massenzahl um 140). Die Häufigkeitsverteilung (die Ausbeute aufgetragen als Funktion der Massenzahl des Spaltfragments) hat deshalb zwei Maxima.
+Als Beispiel seien zwei Möglichkeiten der Spaltung von Plutonium-239 nach Absorption eines Neutrons (n) genannt:
+
+Die Spaltfragmente sind mittelschwere Nuklide mit einem relativ hohen Neutronenanteil. Diesen Neutronenüberschuss haben sie vom Ursprungskern übernommen. Sie sind daher instabil und geben zunächst in einigen Fällen weitere Neutronen ab. Auch diese verzögerten Neutronen können weitere Kernspaltungen auslösen; sie sind für die Regelbarkeit von Kernreaktoren bedeutsam.
+Die danach noch immer instabilen Spaltprodukte bauen ihren Neutronenüberschuss durch aufeinander folgende Beta-minus-Zerfälle weiter ab. Da beim Betazerfall die Massenzahl des Atomkerns unverändert bleibt, bilden die Nuklide, die so aus einem gegebenen Spaltfragmentkern nacheinander entstehen, eine Isobarenkette; sie sind also Atomkerne verschiedener chemischer Elemente, aber gleichbleibender Massenzahl. Diese Umwandlungskette endet, wenn ein stabiles Nuklid entstanden ist. Die Halbwertszeiten sind am Anfang der Kette kurz, können aber für die letzten Zerfälle viele Jahre betragen. Genaue Zahlenwerte für die Häufigkeit der verschiedenen Isobarenketten, abhängig vom gespaltenen Nuklid und von der Energie des spaltenden Neutrons, finden sich in der Literatur.
+
+
+== Energiefreisetzung und Energiebilanz ==
+
+
+=== Energiefreisetzung ===
+
+Die beiden Spaltprodukte weisen zusammen einen höheren Massendefekt auf als der schwere Ausgangskern. Wegen der Äquivalenz von Masse und Energie wird diese Differenz der Massendefekte als Energie frei. In der folgenden Erklärung wird zur Vereinfachung angenommen, dass ein 235U-Kern ein Neutron aufnimmt und dann in zwei gleiche Bruchstücke der Massenzahl 118 zerfällt (bei tatsächlich ablaufenden Kernspaltungen sind die entstehenden Kerne meist verschieden schwer, und es bleiben einige einzelne Neutronen übrig). Zur Berechnung werden mittlere Werte der Bindungsenergie pro Nukleon aus der Grafik verwendet. Die Energie wird in der Einheit Megaelektronenvolt (MeV) angegeben.
+
+Vereinfachend werden zunächst rechnerisch 235 einzelne Nukleonen (92 Protonen und 143 Neutronen) sowie das eingefangene Neutron zu einem Kern zusammengesetzt. Bei diesem Vorgang würde  
+  
+    
+      
+        236
+        ⋅
+        7
+        
+          ,
+        
+        7
+         
+        
+          MeV
+        
+        =
+        1817
+         
+        
+          MeV
+        
+      
+    
+    {\displaystyle 236\cdot 7{,}7\ {\text{MeV}}=1817\ {\text{MeV}}}
+  
+ Energie freigesetzt werden. Um umgekehrt einen 235U-Kern vollständig in seine Nukleonen aufzuteilen, ist dieser Energiebetrag nötig.
+Wird ein Bruchstück zusammengesetzt, erhielte man 
+  
+    
+      
+        118
+        ⋅
+        8
+        
+          ,
+        
+        6
+         
+        
+          MeV
+        
+        =
+        1015
+         
+        
+          MeV
+        
+      
+    
+    {\displaystyle 118\cdot 8{,}6\ {\text{MeV}}=1015\ {\text{MeV}}}
+  
+.
+Bei der Spaltung eines 235U-Kerns in zwei gleich große Teile muss also die Energiedifferenz 
+  
+    
+      
+        
+          (
+          
+            2
+            ⋅
+            1015
+          
+          )
+        
+         
+        
+          MeV
+        
+        −
+        1817
+         
+        
+          MeV
+        
+        =
+        213
+         
+        
+          MeV
+        
+      
+    
+    {\displaystyle \left(2\cdot 1015\right)\ {\text{MeV}}-1817\ {\text{MeV}}=213\ {\text{MeV}}}
+  
+ frei werden.
+Der größte Teil dieser Energie wird (durch die elektrostatische Abstoßung) in kinetische Energie der Fragmente umgewandelt. Diese Bruchstücke und die frei gewordenen Neutronen fliegen  mit sehr hoher Geschwindigkeit auseinander. Im umliegenden Material werden die Bruchstücke abgebremst und erzeugen dabei „Reibungswärme“, genauer: sie übertragen ihre Bewegungsenergie in einzelnen Stößen ungeordnet nach und nach auf viele Atome des umgebenden Materials, bis sie auf die Geschwindigkeit abgebremst sind, die der Materialtemperatur entspricht.
+
+
+=== Energiebilanz ===
+Die bei der Kernspaltung freiwerdende Energie von rund 200 MeV pro Spaltung verteilt sich auf die Teilchen und Strahlungen, die bei der Kernspaltung entstehen. Die Tabelle zeigt Energiewerte eines typischen Spaltungsvorgangs. Der größte Teil dieser Energie kann in einem Kernreaktor genutzt werden; nur die Energie der entweichenden Antineutrinos und eines Teils der Gammastrahlung wird nicht in Wärme umgesetzt.
+
+
+== Spaltbarkeit ==
+
+
+=== Thermische Neutronen ===
+Durch thermische Neutronen – d. h. solche mit relativ geringer kinetischer Energie – sind meistens nur Isotope mit ungerader Neutronenzahl gut spaltbar. Nur diese Atomkerne gewinnen durch die Aufnahme eines Neutrons Paarenergie hinzu. „Gut spaltbar“ heißt dabei, dass der Wirkungsquerschnitt des Kerns für Spaltung durch ein thermisches Neutron hunderte bis tausende Barn beträgt. „Schlecht spaltbar“ bedeutet entsprechend, dass dieser Wirkungsquerschnitt nur von der Größenordnung 1 Barn oder kleiner ist.
+Beispiel:
+Americium hat als Element 95 mit seiner ungeraden Protonenzahl bei ungeraden Nukleonenzahlen eine gerade Zahl von Neutronen, während Plutonium, als 94. Element, mit seiner geraden Protonenzahl bei ungeraden Nukleonenzahlen auch ungerade Neutronenzahlen hat. Deshalb ist Americium 241Am mit thermischen Neutronen schlecht spaltbar (3,1 Barn), im Gegensatz zu Plutonium 241Pu (1010 Barn).
+
+
+=== Schnelle Neutronen ===
+Die bei der Spaltung neu freigesetzten Neutronen haben kinetische Energien im MeV-Bereich. Mit solchen schnellen Neutronen sind auch Nuklide mit gerader Neutronenzahl spaltbar; die Paarenergie wirkt sich dann auf den Wirkungsquerschnitt kaum noch aus. Allerdings erreichen die Wirkungsquerschnitte für die „schnelle Spaltung“ nicht die hohen Werte mancher „thermischen“ Spaltungen.
+Die schnelle Spaltung führt bei einigen Spaltstoffen zu einer besonders hohen Ausbeute an neuen Neutronen pro gespaltenem Kern. Dies wird in Brutreaktoren ausgenutzt.
+In der Dreistufenbombe werden durch Kernfusion von Wasserstoffisotopen sehr schnelle Neutronen mit mehr als 14 MeV erzeugt. Diese spalten in der aus abgereichertem Uran bestehenden Bombenhülle Uran-238-Kerne. Die Sprengkraft der Bombe und auch der Fallout werden dadurch stark erhöht.
+
+
+== Kritische Masse ==
+Die kleinste Masse eines spaltbaren Materials, in der eine Kettenreaktion aufrechterhalten werden kann, heißt kritische Masse. Sie hängt von der Anwesenheit und Menge einer Moderatorsubstanz und von der geometrischen Anordnung ab. Ein dünnes Blech würde fast alle Neutronen nach außen verlieren, während innerhalb eines kompakten Objekts Neutronen eher auf weitere Atomkerne treffen. Die kleinste kritische Masse wird bei kugelförmiger Anordnung erreicht. Durch Kompression des Materials kann diese noch verringert werden; eine absolute untere Grenze existiert nicht. Die Geometrieabhängigkeit der kritischen Masse wird ausgenutzt, um beim Herstellen oder Bearbeiten von Kernbrennstoffen die zur Kettenreaktion führende Kritikalität zu vermeiden. So werden etwa chemische Reaktionen in flachen Wannen durchgeführt, in denen das Material über weite Flächen verteilt ist.
+
+
+== Technische Bedeutung ==
+
+
+=== Kernreaktoren ===
+
+Wirtschaftliche Bedeutung hat die neutroneninduzierte Spaltung als Kettenreaktion in Kernreaktoren. Hauptsächlich werden die Nuklide Uran-235 und Plutonium-239 verwendet. In Planung bzw. Erprobung waren auch Kernreaktoren auf Basis von Thorium-232 und Uran-233.
+Die freigesetzte Energie der Kernspaltung liegt mit rund 200 MeV pro Atomkern um ein Vielfaches höher als bei chemischen Reaktionen (typischerweise etwa 20 eV pro Molekül). Die Energie tritt hauptsächlich als kinetische Energie der Spaltfragmente auf, zu einem kleineren Teil auch in der Strahlung aus deren radioaktiven Zerfällen. Auch die für die Regelbarkeit von Kernreaktoren entscheidend wichtigen verzögerten Neutronen werden nach der eigentlichen Spaltungsreaktion aus den Spaltfragmenten freigesetzt.
+In Reaktoren werden die Bewegungsenergie der Spaltprodukte und die Energie der entstehenden Strahlung durch Stöße mit dem Material der Umgebung in Wärme gewandelt. Nur die entstehenden Elektron-Antineutrinos, ein Teil der Gammastrahlung und ein Teil der freien Neutronen entweichen aus der Reaktionszone, dem Reaktorkern.
+
+
+=== Kernwaffen ===
+
+Die exponentiell anwachsende Kernspaltungs-Kettenreaktion einer prompt überkritischen Spaltstoffanordnung dient als Energiequelle für „normale“ Kernwaffen. Die „zerstörende Energie“ wird primär als Lichtstrahlung, Hitze und Radioaktivität sowie sekundär in Form einer Druckwelle freigesetzt.
+Bei Wasserstoffbomben dient eine Kernspaltung als Zünder für eine Kernfusion, also das Verschmelzen von leichten Atomkernen.
+
+
+== Andere induzierte Kernspaltungen ==
+Der Stoß eines energiereichen Gammaquants (im MeV-Energiebereich) kann zur Spaltung eines schweren Kerns führen (Photospaltung). Diese ist vom Kernphotoeffekt zu unterscheiden, bei dem sich nur ein Neutron, ein Proton oder ein Alphateilchen aus dem Kern löst, dieser aber nicht gespalten wird.
+Auch der Stoß eines geladenen Teilchens kann zur Kernspaltung führen, wenn er eine genügend hohe Energie auf den Kern überträgt. Beispielsweise wurden Proton- und Myon-induzierte Spaltvorgänge beobachtet.
+Auch ein Compoundkern mit sehr großem Kernspin, wie er in Schwerionen-Reaktionen entstehen kann, kann seine Anregungsenergie durch Spaltung abbauen.
+Technische Anwendungen haben diese Spaltvorgänge nicht.
+
+
+== Forschungsgeschichte ==
+
+Seit den Arbeiten von Ernest Rutherford war bekannt, dass Atomkerne durch den Beschuss mit schnellen Teilchen verändert werden können. Rutherford selbst verwandelte 1917 einen Stickstoffkern durch Beschuss mit Alphateilchen in Sauerstoff plus Proton. Solche Kernreaktionen und Kern-Umwandlungen wurden in den 1920er Jahren Atomzertrümmerung genannt. Mit Entdeckung des Neutrons im Jahre 1932 durch James Chadwick wurde klar, dass es viele Möglichkeiten der Umwandlung von Atomkernen geben musste. Unter anderem versuchte man, durch Einbringen von Neutronen in schwere Kerne neue, noch schwerere Nuklide herzustellen.
+
+Nach Vermutungen von Enrico Fermi, der in Rom bereits Spaltprodukte des Urans sah, aber falsch interpretierte, vertrat u. a. Ida Noddack-Tacke die zutreffende Annahme der Spaltung des neugebildeten Kerns. Allerdings galten diese spekulativen Vermutungen 1934 noch als unseriös, und kein Physiker überprüfte diese experimentell, auch Ida Noddack selbst nicht. Otto Hahn und seinem Assistenten Fritz Straßmann gelang dann am 17. Dezember 1938 am Berliner Kaiser-Wilhelm-Institut für Chemie der Beweis einer neutroneninduzierten Kernspaltung von Uran durch den radiochemischen Nachweis des Spaltprodukts Barium. Sie veröffentlichten ihre Entdeckung am 6. Januar 1939 in der Zeitschrift „Die Naturwissenschaften“. Lise Meitner befand sich zu diesem Zeitpunkt bereits seit einigen Monaten in Schweden, wohin sie mit Hahns Hilfe emigriert war, da sie als Jüdin aus Deutschland fliehen musste. Gemeinsam mit ihrem ebenfalls emigrierten Neffen Otto Frisch konnte sie am 10. Februar 1939 eine erste physikalische Deutung des Spaltungsprozesses in der englischen Wissenschaftszeitschrift „Nature“ veröffentlichen, da Hahn sie als erste über die radiochemischen Ergebnisse brieflich unterrichtet hatte. Otto Hahn und Fritz Straßmann gelten daher als die Entdecker der Kernspaltung, und Lise Meitner und Otto Frisch als die ersten, die eine korrekte theoretische Erklärung des Vorgangs publizierten. Von Frisch stammt auch der Ausdruck nuclear fission, also „Kernspaltung“, der dann international übernommen wurde, während Hahn ursprünglich die Bezeichnung „Uranspaltung“ verwendet hatte.
+Am 16. Januar 1939 reiste Niels Bohr in die USA, um einige Monate mit Albert Einstein physikalische Probleme zu erörtern. Kurz vor seiner Abreise aus Dänemark berichteten ihm Frisch und Meitner von ihrer Deutung der Hahn-Straßmannschen Versuchsergebnisse. Bohr teilte dies nach seiner Ankunft in den USA seinem früheren Schüler John Archibald Wheeler sowie anderen Interessierten mit. Durch sie verbreitete sich die Neuigkeit unter anderen Physikern, unter ihnen auch Enrico Fermi von der Columbia-Universität. Fermi erkannte die Möglichkeit einer kontrollierten Spaltungs-Kettenreaktion und führte mit seinem Team 1942 in Chicago das erste erfolgreiche Reaktorexperiment im Chicago Pile durch.
+
+
+== Literatur ==
+
+
+=== Fachartikel ===
+H. Halban, F. Joliot, L. Kowarski, F. Perrin: Mise en évidence d’une réaction nucléaire en chaîne au sein d’une masse uranifère. In: Journal de Physique et le Radium. Band 10, Nr. 10, 1939, S. 428–429, doi:10.1051/jphysrad:019390010010042800 (französisch). 
+O. Hahn, F. Strassmann: Über den Nachweis und das Verhalten der bei der Bestrahlung des Urans mittels Neutronen entstehenden Erdalkalimetalle. In: Die Naturwissenschaften. Band 27, Nr. 1, Januar 1939, S. 11–15, doi:10.1007/BF01488241. 
+Otto Hahn, Fritz Strassmann: Nachweis der Entstehung aktiver Bariumisotope aus Uran und Thorium durch Neutronenbestrahlung; Nachweis weiterer aktiver Bruchstücke bei der Uranspaltung. In: Die Naturwissenschaften. Band 27, Nr. 6, Februar 1939, S. 89–95, doi:10.1007/BF01488988. 
+Lise Meitner, O. R. Frisch: Disintegration of Uranium by Neutrons: a New Type of Nuclear Reaction. In: Nature. Band 143, Nr. 3615, 11. Februar 1939, S. 239–240, doi:10.1038/143239a0 (englisch). 
+Niels Bohr, John Archibald Wheeler: The Mechanism of Nuclear Fission. In: Physical Review. Band 56, Nr. 5, 1. September 1939, S. 426–450, doi:10.1103/PhysRev.56.426 (englisch). 
+Andreas Aste: Die kontrollierte Kettenreaktion. 2012, doi:10.48550/ARXIV.1202.5461. 
+
+
+=== Fachbücher ===
+Robert Vandenbosch, John R. Huizenga: Nuclear Fission. Elsevier, 1973, ISBN 0-12-710850-5, doi:10.1016/B978-0-12-710850-6.X5001-1 (englisch). 
+Horst Wohlfahrt (Hrsg.): 40 Jahre Kernspaltung. Wissenschaftliche Buchgesellschaft Darmstadt, 1979, ISBN 3-534-08206-0. 
+Das Buch ist eine Zusammenstellung von Original-Fachartikeln von 1934 bis 1952, z. B. von den Autoren Fermi, Noddack, Hahn, McMillan, usw. siehe Forschungsgeschichte oben. Die Einleitung ist von H. Wohlfahrt.
+
+
+== Weblinks ==
+
+Animation zur Kernspaltung von U-235 (LEIFIphysik)
+
+
+== Einzelnachweise ==

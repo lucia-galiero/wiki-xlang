@@ -1,0 +1,319 @@
+Un terremoto[1]​ (del latín terraemōtus, a partir de terra, 'tierra', y motus, 'movimiento'), también llamado sismo, seísmo (del francés séisme, derivado del griego σεισμός [seismós]),[2]​ temblor de tierra o movimiento telúrico, es la sacudida brusca y pasajera de la corteza terrestre. Los más comunes se producen por actividad de fallas geológicas. También pueden ocurrir por otras causas, como por ejemplo: fricción en el borde de placas tectónicas, procesos volcánicos, impactos de asteroides o de cualquier objeto celeste de gran tamaño, o incluso pueden ser producidos por el ser humano al realizar detonaciones nucleares subterráneas.
+El punto de origen de un terremoto se denomina foco o hipocentro, a partir de allí se propaga en forma de ondas sísmicas. El punto de la superficie terrestre que se encuentra más cerca del hipocentro, donde alcanzan en primer lugar las ondas sísmicas se llama epicentro. Dependiendo de su magnitud y origen, un terremoto puede causar desplazamientos de la corteza terrestre, corrimientos de tierras, maremotos (o también llamados tsunamis) o actividad volcánica. Para medir la energía que fue liberada por un terremoto se emplean diversas escalas, entre ellas, la escala de Richter que es la más conocida y utilizada por los medios de comunicación.
+
+
+== Causas ==
+
+La principal causa de los terremotos se encuentra en la liberación de energía de la corteza terrestre acumulada a consecuencia de actividad tectónica, que se origina principalmente en los bordes activos de placas tectónicas.[3]​[4]​
+Los sismos de origen volcánico se asocian al fraccionamiento de la roca debido al movimiento del magma. Estos temblores suelen ser de magnitud menor que los de origen tectónico.
+Aunque las actividades tectónicas y volcánicas son las causas principales por las que se generan los terremotos, hay otros factores que pueden originarlos:
+
+Colapso de techos de cavernas.[5]​
+Acumulación de sedimentos por desprendimientos de rocas en las laderas de las montañas.[cita requerida]
+Modificaciones del régimen fluvial.[cita requerida]
+Variaciones bruscas de la presión atmosférica por ciclones.[cita requerida]
+Estos fenómenos generan episodios de magnitud baja, que generalmente caen en el rango de microseísmos: temblores detectables solo por sismógrafos.
+
+
+=== Tipos de sismos tectónicos ===
+Los sismos de origen tectónico pueden clasificarse por el contexto en que ocurren.[6]​
+
+
+==== Interplaca ====
+Se producen cuando el esfuerzo compresivo en una zona de contacto de placas supera al acoplamiento mecánico que traba su movimiento, lo que lleva a un movimiento relativo de las mismas. También se conocen como terremotos de subducción. Se trata de sismos compresionales con mecanismos de falla inversa, cuya magnitud es proporcional al desplazamiento y al área de la zona de desplazamiento. Cuando los eventos de este tipo conllevan desplazamientos verticales del fondo oceánico, muchas veces generan maremotos. El fallamiento puede ser normal (placas divergentes), inverso (ṕlacas convergentes) o transcurrente.
+
+
+==== Intraplaca de profundidades intermedia y elevada ====
+Sismos muy parecidos a los de subducción, pero mucho menos comunes, ya que se producen en el interior de la placa y no en los límites entre placas. Las profundidades de estas fallas van desde cincuenta a cientos de kilómetros, en la zona de Benioff. Su poder destructor suele ser similar al de los de subducción.
+
+
+==== Superficiales o corticales ====
+Se deben a deformaciones producidas a baja profundidad en el interior de una placa continental como consecuencia de la convergencia de placas tectónicas.
+
+
+==== En el interior de una placa oceánica ====
+Se deben a los esfuerzos y deformaciones a los que se encuentra sometida una placa oceánica. Un caso especial es el esfuerzo de flexión que esta sufre en el punto de inicio de su subducción.
+
+
+==== Por falla transformante ====
+
+Se deben al desplazamiento lateral de una placa tectónica con respecto a una placa vecina. En muchos casos se extienden más allá de la zona de contacto propiamente tal, a causa de esfuerzos transmitidos.
+
+
+==== Efecto de la presión del fluido ====
+Durante un terremoto, se desarrollan altas temperaturas en el plano de la falla que provocan un aumento en la presión del fluido asociado con la vaporización.[7]​ Este aumento, en la fase cosísmica, puede influir considerablemente en la evolución y velocidad del deslizamiento, además, en la fase post-sísmica puede controlar el fenómeno del aftershock, ya que el aumento de la presión del fluido se propaga lentamente en la red de fractura circundante.
+
+
+=== Terremotos inducidos ===
+Se denomina sismo o terremoto inducido a los sismos o terremotos, normalmente, de magnitud muy baja (temblores), producidos como consecuencia de alguna intervención humana que altera el equilibrio de fuerzas en la corteza terrestre. Entre las principales causas de sismos inducidos se pueden mencionar: la construcción de grandes embalses, el fracturación hidráulica o los ensayos de explosiones nucleares.
+
+
+==== Embalses ====
+Los embalses, especialmente aquellos de gran capacidad, pueden alterar la actividad tectónica debido a la modificación de la carga, pero las consecuencias no son fáciles de predecir. El proyecto debe tener en cuenta la existencia de fallas o de rocas deformables en el subsuelo, a fin de evitar consecuencias que pongan en peligro la integridad de la presa.[cita requerida]
+
+
+==== Fracturación hidráulica ====
+Hay evidencia sobre los terremotos inducidos por hidrofracturación: en Oklahoma se registraba una media de un terremoto de magnitud 3 o mayor, pero desde 2008 se ha incrementado esa cifra a más de 40 seísmos de esa magnitud.[8]​
+
+
+==== Explosiones nucleares ====
+La onda de presión de las explosiones nucleares subterráneas se propaga a través del subsuelo y es capaz de desencadenar seísmos a distancia, activando fallas geológicas.[9]​[10]​
+
+
+== Localizaciones ==
+
+Los terremotos tectónicos suelen ocurrir en zonas donde la concentración de fuerzas generadas por los límites de las placas tectónicas da lugar a movimientos de reajuste en el interior y en la superficie de la Tierra. Por este motivo los seísmos de origen tectónico están íntimamente relacionados con la formación y actividad de fallas geológicas. Comúnmente acontecen al final de un ciclo sísmico: período durante el cual se acumula deformación en el interior de la Tierra que más tarde se liberará repentinamente. Dicha liberación se corresponde con el terremoto, tras el cual la deformación comienza a acumularse nuevamente.
+
+En un movimiento telúrico se distinguen:
+
+Hipocentro, zona interior profunda, donde se produce el terremoto.
+Epicentro, área de la superficie que se halla directamente en la vertical del hipocentro, donde con mayor intensidad repercuten las ondas sísmicas.
+La probabilidad de ocurrencia de seísmos de una magnitud determinada en una región concreta viene dada por una distribución de Poisson. Así la probabilidad de ocurrencia de k terremotos de magnitud M durante un período T en cierta región está dada por:
+
+  
+    
+      
+        
+          
+            Prob
+          
+        
+        (
+        k
+        ,
+        T
+        ,
+        M
+        )
+        =
+        
+          
+            1
+            
+              k
+              !
+            
+          
+        
+        
+          
+            (
+            
+              
+                T
+                
+                  
+                    T
+                    
+                      r
+                    
+                  
+                  (
+                  M
+                  )
+                
+              
+            
+            )
+          
+          
+            k
+          
+        
+        
+          e
+          
+            −
+            
+              
+                T
+                
+                  
+                    T
+                    
+                      r
+                    
+                  
+                  (
+                  M
+                  )
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mbox{Prob}}(k,T,M)={\frac {1}{k!}}\left({\frac {T}{T_{r}(M)}}\right)^{k}e^{-{\frac {T}{T_{r}(M)}}}}
+  
+
+Donde
+
+  
+    
+      
+        
+          T
+          
+            r
+          
+        
+        (
+        M
+        )
+        
+      
+    
+    {\displaystyle T_{r}(M)\,}
+  
+ es el tiempo de retorno de un terremoto de intensidad M, que coincide con el tiempo medio entre dos seísmos de intensidad M.
+
+
+== Propagación ==
+
+El movimiento sísmico se propaga mediante ondas elásticas (similares a las del sonido) a partir del hipocentro. Las ondas sísmicas son de tres tipos principales:
+
+Ondas longitudinales, primarias o P. Ondas de cuerpo que se propagan a velocidades de 8 a 13 km/s en el mismo sentido que la vibración de las partículas. Circulan por el interior de la Tierra, donde atraviesan líquidos y sólidos. Son las primeras que registran los aparatos de medición o sismógrafos. De ahí su nombre «P».[cita requerida].
+Ondas transversales, secundarias o S. Son ondas de cuerpo más lentas que las anteriores (entre 4 y 8 km/s). Se propagan perpendicularmente en el sentido de vibración de las partículas. Atraviesan únicamente sólidos. En los sismógrafos se registran en segundo lugar.
+Ondas superficiales. Son las más lentas: 3,5 km/s. Resultan de interacción de las ondas P y S a lo largo de la superficie terrestre. Son las que causan más daños. Se propagan a partir del epicentro. Son similares a las ondas (olas) que se forman sobre la superficie del mar. En los sismógrafos se registran en último lugar.
+
+
+== Escalas de magnitudes ==
+Escala magnitud de onda superficial (
+  
+    
+      
+        
+          M
+          
+            s
+          
+        
+      
+    
+    {\displaystyle M_{s}}
+  
+).
+Escala magnitud de las ondas de cuerpo (
+  
+    
+      
+        
+          M
+          
+            b
+          
+        
+      
+    
+    {\displaystyle M_{b}}
+  
+).
+Escala sismológica de Richter, también conocida como escala de magnitud local (ML), es una escala logarítmica arbitraria en la que se asigna un número para cuantificar el efecto de un terremoto.
+Escala sismológica de magnitud de momento es una escala logarítmica usada para medir y comparar seísmos. Está basada en medición de la energía total que se libera en un terremoto. En 1979 la introdujeron Thomas C. Hanks y Hiroo Kanamori, como sucesora de la escala de Richter.
+
+
+== Escalas de intensidades ==
+Escala sismológica de Mercalli, de 12 puntos, desarrollada para evaluar la intensidad de los terremotos según los efectos y daños causados a distintas estructuras. Debe su nombre al físico italiano Giuseppe Mercalli.
+Escala Medvédev-Sponheuer-Kárník, también conocida como escala MSK o MSK-64. Es una escala de intensidad macrosísmica usada para evaluar la fuerza de los movimientos de tierra basándose en los efectos destructivos en construcciones humanas y en cambio de aspecto del terreno, así como en el grado de afectación a la población. Consta de doce grados de intensidad. El más bajo es el número uno. Para evitar el uso de decimales se expresa en números romanos.
+Escala Shindo o escala cerrada de siete, conocida como escala japonesa. Más que en la intensidad del temblor, se centra en cada zona afectada, en rangos entre 0 y 7.
+
+
+== Efectos de los terremotos ==
+
+Los efectos de un movimiento telúrico pueden ser uno o varios de los que se detallan a continuación:
+
+
+=== Movimiento y ruptura del suelo ===
+Movimiento y ruptura del suelo son los efectos principales de un terremoto en la superficie terrestre, debido al roce de placas tectónicas, lo cual causa daños a edificios o estructuras rígidas que se encuentren en el área afectada por el sismo. Los daños en los edificios dependen de: a) intensidad del movimiento; b) distancia entre la estructura y el epicentro; c) condiciones geológicas y geomorfológicas que permitan mejor propagación de ondas.
+
+
+=== Corrimientos y deslizamientos de tierra ===
+
+Terremotos, tormentas, actividad volcánica, marejadas y fuego pueden propiciar inestabilidad en los bordes de cerros y de otras elevaciones del terreno, lo cual provoca corrimientos en la tierra.
+
+
+=== Incendios ===
+El fuego puede originarse si no se corta el suministro eléctrico posteriormente a daños en la red de gas de grandes ciudades. Un caso destacado de este tipo de suceso es el terremoto de 1906 en San Francisco, donde los incendios causaron más víctimas que el propio sismo
+
+
+=== Licuefacción del suelo ===
+
+La licuefacción ocurre cuando, por causa del movimiento, el agua saturada en material, como arena, temporalmente pierde su cohesión y cambia de estado sólido a líquido. Este fenómeno puede propiciar derrumbe de estructuras rígidas, como edificios y puentes.
+
+
+=== Tsunamis (maremotos) ===
+
+Los tsunamis o maremotos son enormes ondas marinas que al viajar desplazan gran cantidad de agua hacia las costas, y que, en su mayor parte, están producidos por terremotos submarinos. En el mar abierto las distancias entre las crestas de las ondas marinas son cercanas a 100 km. Los períodos varían entre cinco minutos y una hora. Según la profundidad del agua, los tsunamis pueden viajar a velocidades de 600 a 800 km/h. Pueden desplazarse grandes distancias a través del océano, de un continente a otro.
+
+
+=== Inundaciones ===
+Las inundaciones son creadas rápidamente por el desbordamiento de agua a nivel de tierra cubriendo de agua zonas que habitualmente están libres de esta. Pueden ser efectos secundarios de los terremotos debido al daño que puedan sufrir las presas. Además, pueden crear deslizamiento de tierras en los ríos, los cuales también crean colapso e inundaciones.
+
+
+=== Impactos humanos ===
+Un sismo puede causar lesiones o incluso pérdidas de vidas, daños en las carreteras y puentes, daño general de los bienes, y colapso o desestabilización de edificios. También puede ser el origen de enfermedades, falta de necesidades básicas, y primas de seguros más elevadas.
+
+
+== Recomendaciones de Protección Civil ==
+En caso de terremoto, protección civil ofrece las siguientes recomendaciones:[11]​
+
+Si está en el interior de un edificio, es importante:
+Buscar refugio a un lado (nunca debajo) de los dinteles de las puertas o también a un lado de algún mueble sólido, como mesas o escritorios, o bien junto a un pilar (columna vertical) o pared maestra muy sólida.
+Mantenerse alejado de ventanas, cristaleras, vitrinas, tabiques y objetos que puedan caer y golpearle.
+No utilizar el ascensor, ya que los efectos del terremoto podrían provocar su desplome o quedar atrapado en su interior. Colocarse al lado de la caja de concreto del ascensor sin ingresar a este.
+Utilizar linternas para el alumbrado y evitar el uso de velas, cerillas, o cualquier tipo de llama durante o inmediatamente después del temblor, que puedan provocar explosión o incendio.
+Si se encuentra en el exterior, es conveniente:
+Ir hacia un área abierta, alejada de edificios dañados. Después de un gran terremoto, siguen otros más pequeños, denominados réplicas, que pueden ser suficientemente fuertes como para causar destrozos adicionales.
+Procurar no acercarse ni penetrar en edificios dañados. El peligro mayor por caída de escombros, revestimientos, cristales, etc., está en la vertical de las fachadas.[12]​
+Si se está circulando en coche, es aconsejable detener el vehículo, prender las luces  de emergencia, salir de este y colocarse al lado, así como tener la precaución de alejarse de puentes, postes eléctricos, edificios degradados o zonas de desprendimientos.
+Posterior al terremoto:[13]​
+Si se requiere comunicar con amigos o familiares, utilizar mensajes de texto por celular, chat, correos electrónicos o internet en general. El exceso de llamadas puede congestionar las redes celulares y fijas.
+
+
+== Predicción ==
+
+
+== Los diez terremotos de mayor magnitud de la historia reciente ==
+
+
+== Terremotos más fuertes del siglo XXI ==
+
+Nota: En Chile y Japón se han producido los terremotos más fuertes de la década de 2010.
+
+
+== Véase también ==
+Historia de la sismología
+Onda sísmica
+Sismología
+Tremor (vulcanología)
+Placas tectónicas
+Luces de terremoto
+Inundación
+Martemoto
+Los 10 mayores terremotos de la Historia humana
+Lista de terremotos del siglo XXI
+Lista de los principales terremotos entre el III milenio a. C. y el siglo IX d. C.
+Lista de los principales terremotos entre el siglo X y el XIX
+Lista de los principales terremotos del siglo XX
+Lista de los principales terremotos de 2023
+Portal:Ciencias de la Tierra
+
+
+== Referencias ==
+
+
+== Otras referencias ==
+Cova, F., & Rincón, P. (2010). El terremoto y tsunami del 27-F y sus efectos en la salud mental. Terapia Psicológica, 28(2), 179-185.
+Solares, J. M. M., & de la Torre, Fernando Rodríguez. (2001). Los efectos en España del terremoto de lisboa (1 de noviembre de 1755)
+
+
+== Bibliografía ==
+M. Gascón et al. Vientos, Terremotos, Tsunamis y otras catástrofes naturales. Historia y casos latinoamericanos. Editorial Biblos. Buenos Aires, 2005. 159 pp. ISBN 950 786 498 9.
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una galería multimedia sobre seísmos.
+ Wikcionario  tiene definiciones y otra información sobre terremoto.
+ Wikinoticias tiene noticias relacionadas con Terremoto.
+ Wikiquote alberga frases célebres de o sobre Terremoto.

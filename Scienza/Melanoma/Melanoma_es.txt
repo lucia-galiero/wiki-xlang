@@ -1,0 +1,114 @@
+Melanoma es el nombre genérico de los tumores melánicos o pigmentados[1]​[2]​[3]​ (mélas (μελας gr.) "negro" + -o-ma 1 (-ομα gr.) "tumor") y el melanoma maligno es una grave variedad de cáncer de piel, causante de la mayoría de las muertes[4]​ relacionadas con el cáncer de piel. Se trata de un tumor generalmente cutáneo, pero también del intestino y el ojo (melanoma uveal) y altamente invasivo por su capacidad de generar metástasis. Actualmente el único tratamiento efectivo es la resección quirúrgica del tumor primario antes de que logre un grosor mayor de 1 mm.
+
+
+== Epidemiología ==
+Cerca de 160 000 casos nuevos de melanoma se diagnostican cada año mundialmente, y resulta más frecuente en hombres y personas de tez blanca que habitan regiones con climas soleados.[5]​ Según un informe de la Organización Mundial de la Salud, ocurren cada año cerca de 48 000 muertes relacionadas con el melanoma.[6]​ Se estima que el melanoma maligno produce un 75 % de las muertes asociadas al cáncer de piel.[7]​
+
+
+== Etiología ==
+Por lo general, el riesgo de un individuo de contraer un melanoma depende de dos tipos de factores: intrínsecos y ambientales. Los factores intrínsecos incluyen la historia familiar y el genotipo heredado; mientras que el factor ambiental o extrínseco más relevante es la exposición a la luz solar.[8]​
+Los estudios epidemiológicos sugieren que la exposición a la radiación proveniente de la luz ultravioleta (UVA[9]​ y UVB) es una de las causas principales en la aparición del melanoma. 
+El melanoma es más frecuente en la espalda de los hombres y en las piernas de las mujeres. El riesgo parece estar fuertemente influido por las condiciones socioeconómicas de la persona, no tanto por el hecho de que su ocupación se desarrolle en el interior o en el exterior de un edificio. De modo que es más común ver melanomas en profesionales y personal administrativo que en trabajadores o graduados.[10]​[11]​
+El uso de camas de bronceado con rayos ultravioleta penetrantes se ha asociado con la aparición del cáncer de piel, incluyendo el melanoma.
+
+
+== Patogenia ==
+Los melanomas suelen estar causados por daños en el ADN de las células, típicamente una dimerización de la timina que, al no ser reparado por la maquinaria intracelular, crea mutación en los genes celulares, derivados de la exposición a la luz ultravioleta del sol. La genética también desempeña un papel.[12]​[13]​ El melanoma también puede aparecer en zonas de la piel poco expuestas al sol (es decir, la boca, las plantas de los pies, las palmas de las manos y las zonas genitales).[14]​ Las personas con síndrome del nevo displásico, también conocido como melanoma atípico familiar de múltiples lunares, tienen un mayor riesgo de desarrollar melanoma.[15]​
+La secuenciación masiva del genoma de muestras de melanomas metastásicos de pacientes ha permitido detectar distintas mutaciones, no solo mutaciones puntuales (transiciones C->T principalmente), sino también reordenamientos cromosómicos (deleciones, amplificaciones, translocaciones), incluyendo el fenómeno de la cromotripsis, que provocan una alta inestabilidad genómica.[16]​ Cuando la célula se divide, estas mutaciones se propagan a nuevas generaciones de células. Si la mutación ocurre justo sobre un protooncogén (dará lugar a un oncogén) o si se produce en genes supresores tumorales, la velocidad de la mitosis o división celular en las células se vuelve descontrolada con las mutaciones, conllevando a la formación de un tumor.
+La mayoría de los estudios sobre quemaduras sugieren una relación positiva o directa entre las quemaduras a edades tempranas y el consiguiente riesgo de padecer melanoma. Los pacientes que presentan un historial de alta exposición a la luz ultravioleta, suelen tener un porcentaje de mutaciones en genes como NRAS[17]​ o BRAF[18]​ (oncogenes) superior al que poseen los pacientes con una exposición normal o baja.[16]​
+Tener más de 50 lunares indica un mayor riesgo de que pueda surgir un melanoma. Un sistema inmunitario debilitado facilita el desarrollo del cáncer debido a la menor capacidad del organismo para combatir las células cancerosas.[12]​
+
+
+=== Radiación UV ===
+La radiación UV de las camas de bronceado aumenta el riesgo de melanoma.[19]​ El Centro Internacional de Investigaciones sobre el Cáncer considera que las camas de bronceado son "cancerígenas para los seres humanos" y que las personas que empiezan a utilizar dispositivos de bronceado antes de los treinta años tienen un 75% más de probabilidades de desarrollar un melanoma.[20]​
+Las personas que trabajan en aviones también parecen tener un mayor riesgo, lo que se cree que se debe a una mayor exposición a los rayos UV.[21]​
+La luz UVB (longitudes de onda entre 315 y 280 nm) del sol es absorbida por el ADN de las células de la piel y da lugar a un tipo de daño directo del ADN llamado dímeros de pirimidina de ciclobutano. Los dímeros de timina, citosina o timina-citosina se forman por la unión de dos bases de pirimidina adyacentes en una cadena de ADN. De forma similar a la UVB, la luz UVA (longitudes de onda más largas, entre 400 y 315 nm) procedente del sol o de las camas solares también puede ser absorbida directamente por el ADN de la piel (con una eficacia entre 1/100 y 1/1000 de la de la UVB).[22]​
+La exposición a la radiación (UVA y UVB) es uno de los principales factores que contribuyen al desarrollo del melanoma.[9]​ La exposición solar extrema ocasional (que provoca "quemaduras solares") está relacionada causalmente con el melanoma.[23]​ El melanoma es más frecuente en la espalda de los hombres y en las piernas de las mujeres (zonas de exposición solar intermitente). El riesgo parece estar fuertemente influido por las condiciones socioeconómicas más que por las ocupaciones de interior frente a las de exterior; es más frecuente en trabajadores profesionales y administrativos que en trabajadores no cualificados.[24]​[25]​ Otros factores son las mutaciones o la pérdida total de genes supresores de tumores. El uso de camas solares (con rayos UVA de penetración profunda) se ha relacionado con el desarrollo de cánceres de piel, incluido el melanoma.[26]​.
+Entre los posibles elementos significativos para determinar el riesgo se incluyen la intensidad y la duración de la exposición solar, la edad a la que se produce la exposición solar y el grado de pigmentación de la piel. Las tasas de melanoma tienden a ser más elevadas en los países colonizados por emigrantes del norte de Europa que tienen una gran cantidad de luz solar directa e intensa a la que la piel de los colonos no está adaptada, sobre todo Australia. La exposición durante la infancia es un factor de riesgo más importante que la exposición en la edad adulta. Esto se observa en estudios sobre migración en Australia.[27]​
+Tener múltiples quemaduras solares graves aumenta la probabilidad de que futuras quemaduras solares se conviertan en melanoma debido al daño acumulativo.[12]​ El sol y las camas de bronceado son las principales fuentes de radiación UV que aumentan el riesgo de melanoma[28]​ y vivir cerca del ecuador aumenta la exposición a la radiación UV.[12]​
+
+
+=== Genética ===
+Una serie de mutaciones raras, que a menudo se dan en familias, aumentan en gran medida la susceptibilidad al melanoma.[29]​ Varios geness aumentan los riesgos. Algunos genes raros tienen un riesgo relativamente alto de causar melanoma; algunos genes más comunes, como un gen llamado MC1R que causa el pelo rojo, tienen un riesgo elevado relativamente menor. Se pueden utilizar pruebas genéticas para buscar las mutaciones.
+Una clase de mutaciones afecta al gen CDKN2A. Una mutación del marco de lectura alternativo en este gen conduce a la desestabilización de p53, un factor de transcripción implicado en la apoptosis y en el 50% de los cánceres humanos. Otra mutación en el mismo gen da lugar a un inhibidor no funcional de CDK4, una ciclina-dependiente quinasa que promueve la división celular. Las mutaciones que causan la enfermedad cutánea xeroderma pigmentoso (XP) también aumentan la susceptibilidad al melanoma. Dispersas por todo el genoma, estas mutaciones reducen la capacidad de una célula para reparar el ADN. Tanto las mutaciones CDKN2A como XP son altamente penetrantes (las posibilidades de que un portador exprese el fenotipo son altas).[cita requerida]
+El melanoma familiar es genéticamente heterogéneo,[13]​ y los loci del melanoma familiar aparecen en los brazos cromosómicos 1p, 9p y 12q. Se han relacionado múltiples eventos genéticos con la patogénesis (desarrollo de la enfermedad) del melanoma.[30]​ El gen múltiple supresor de tumor 1 (CDKN2A/MTS1) codifica el gen p16INK4a -una proteína inhibidora de bajo peso molecular de las proteínas cinasas dependientes de ciclinas (CDKs)- que se ha localizado en la región p21 del cromosoma 9 humano.[31]​ El FAMMM se caracteriza típicamente por tener 50 o más lunares combinados además de antecedentes familiares de melanoma.[14]​ Se transmite de forma autosómica dominante y se asocia principalmente con las mutaciones CDKN2A.[14]​ Las personas que tienen FAMMM asociado a la mutación CDKN2A tienen un riesgo 38 veces mayor de cáncer de páncreas.[32]​
+Otras mutaciones confieren menor riesgo, pero son más comunes en la población. Las personas con mutaciones en el gen MC1R tienen entre dos y cuatro veces más probabilidades de desarrollar melanoma que aquellas con dos copias de tipo salvaje (tipo típico no afectado). Las mutaciones del MC1R son muy comunes, y todas las personas pelirrojas tienen una copia mutada. La mutación del MDM2 SNP309 del gen se asocia con mayores riesgos para las mujeres más jóvenes.[33]​ Las personas rubias y pelirrojas, las personas con múltiples nevos atípicos o nevos displásicos y las personas nacidas con nevos melanocíticos congénitos gigantes tienen un riesgo mayor.[34]​
+Los antecedentes familiares de melanoma aumentan en gran medida el riesgo de una persona, ya que se han encontrado mutaciones en varios genes en familias propensas al melanoma.[35]​ Las personas con antecedentes de un melanoma tienen un mayor riesgo de desarrollar un segundo tumor primario.[36]​
+La piel clara es el resultado de tener menos melanina en la piel, lo que significa que existe menos protección frente a la radiación UV.[12]​ Unos antecedentes familiares podrían indicar una predisposición genética al melanoma.[12]​
+
+
+== Clasificación ==
+Según su localización se denominan:
+
+Melanoma cutáneo cuando el melanoma comienza en la piel.
+Melanoma uveal u ocular cuando se presenta en el ojo.
+Melanoma intestinal cuando aparece en el intestino.
+Tiene formas compuestas:
+
+Melanoma amelanótico.
+Melanoma de extensión superficial.
+
+
+== Prevención ==
+Para prevenirse del melanoma, al exponerse al sol, es preciso adoptar una serie de medidas de protección, como la utilización de gorras o sombreros que no dejen pasar los rayos solares, de cremas con factor protección solar mayor de 50, así como tomar el sol de una forma gradual y evitarlo en las horas de irradiación más intensa (entre las 12:00 y 16:00). Incluso debajo de las sombrillas el sol es dañino, ya que el efecto espejo de la arena puede inducir los rayos solares con mayor intensidad.
+El prototipo humano con mayores posibilidades de contraer dicha enfermedad es una mujer entre 40 y 45 años, de piel y ojos claros que realice exposiciones solares intensas e intermitentes desde la infancia, con quemaduras en la etapa infantil, con un número importante de nevus congénitos o atípicos, y con antecedentes familiares de melanoma.
+Algunos consejos para prevenir la aparición de melanomas son:
+
+Tomar el sol con protección adecuada.
+Utilizar el protector solar adecuado y por todo el cuerpo.
+Utilizar la dosis adecuada por el fabricante.
+Debe tenerse en cuenta a la hora de la elección del filtro tanto los rayos UVA como los UVB.
+Recurrir si fuera necesario a la fotoprotección oral que palía las carencias y defectos de la protección tópica.
+
+
+== Diagnóstico ==
+ 
+Para saber cuándo la apariencia es sospechosa existe una regla denominada A, B, C y D. Así, cuando un nevus es:
+
+Asimétrico, tiene unos
+Bordes irregulares, toma una
+Coloración muy oscura o irregular y su
+Diámetro aumenta, son indicios de melanoma, por lo que se debe acudir al médico. [37]​
+Se debe prestar especial atención, por ser marcadores de melanoma, a los nevus pigmentocelulares adquiridos que, a lo largo de la vida, modifican su morfología. También a los nevus atípicos o (urielosis) y congénitos, siendo los principales signos de alarma los nevus asimétricos, con bordes imprecisos, color cambiante y sangrado. Este cuadro puede darse conjuntamente.
+
+
+== Pronóstico ==
+Los melanomas se clasifican con fines pronósticos según sus características. Hay varios sistemas:
+
+El sistema de Breslow clasifica los melanomas según su espesor.
+Los niveles de Clark, puntúan los melanomas según la invasión de tejidos: desde el tipo I intradérmico, hasta el tipo V, que invade el tejido subcutáneo.
+Existe también una estadificación mediante la clasificación TNM.
+
+
+== Tratamiento ==
+
+
+=== Quirúrgico ===
+Una detección precoz permite la extirpación quirúrgica de la práctica totalidad de los melanomas. Actualmente se utilizan técnicas de diagnosis no cruentas tales como la dermatoscopia (también denominada epiluminiscencia) que permiten detectar cualquier alteración precoz de los nevus y su posible malignidad. Tras la cirugía solo los pacientes de alto riesgo necesitan inmunoterapia adicional. Si en un período de 3 a 5 años no se ha reproducido el melanoma, las posibilidades de recaída son mínimas.
+
+
+=== Farmacológico ===
+En 2012 se aprobó el uso del vemurafenib, comercializado como Zelboraf, para tratar un tipo de melanoma asociado a una mutación del gen BRAF, una de las formas más malignas de esta enfermedad.[38]​[39]​[40]​
+Además, y a raíz de los resultados del último estudio denominado coBRIM, en el que se ha combinado Vemurafenib con un nuevo medicamento en fase de ensayo (cobimetinib), se ha confirmado que el uso conjunto de ambas medicinas permite bloquear diferentes dianas de la célula tumoral impidiendo durante más tiempo la progresión del tumor.
+
+
+== Véase también ==
+Bronceado
+Cáncer de piel
+Genoma del melanoma
+Nevus
+Melanoma lentiginoso acral
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Melanoma en MedlinePlus
+Melanoma. Síntomas, complicaciones, factores de riesgo, diagnóstico y tratamiento
+Melanoma Molecular Map Project (en inglés)
+¿Qué es el melanoma? - Asociación Española Contra el Cáncer
+
+En Epistemoikos hay más información sobre Melanoma.
+subtipos poco comunes de Melanoma
+Intra-Abdominal Malignant Melanoma: Challenging Aspects of Epidemiology, Clinical and Paraclinical Diagnosis and Optimal Treatment—A Literature Review

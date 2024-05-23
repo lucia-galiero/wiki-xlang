@@ -1,0 +1,54 @@
+Metasomatism (from the Greek μετά metá "change" and σῶμα sôma "body") is the chemical alteration of a rock by hydrothermal and other fluids. It is traditionally defined as metamorphism which involves a change in the chemical composition, excluding volatile components. It is the replacement of one rock by another of different mineralogical and chemical composition. The minerals which compose the rocks are dissolved and new mineral formations are deposited in their place. Dissolution and deposition occur simultaneously and the rock remains solid.
+Synonyms of the word metasomatism are metasomatosis  and metasomatic process. The word metasomatose can be used as a name for specific varieties of metasomatism (for example Mg-metasomatose and Na-metasomatose).
+
+Metasomatism can occur via the action of hydrothermal fluids from an igneous or metamorphic source.   In the igneous environment, metasomatism produces skarns, greisen, and may affect hornfels in the contact metamorphic aureole adjacent to an intrusive rock mass.  In the metamorphic environment, metasomatism is driven by mass transfer from a volume of metamorphic rock at higher stress and temperature into a zone with lower stress and temperature, with metamorphic hydrothermal solutions acting as a solvent. This can be envisaged as the metamorphic rocks within the deep crust losing fluids and dissolved mineral components as hydrous minerals break down, with this fluid percolating up into the shallow levels of the crust to chemically change and alter these rocks.
+This mechanism implies that metasomatism is open system behaviour, which is different from classical metamorphism which is the in-situ mineralogical change of a rock without appreciable change in the chemistry of the rock. Because metamorphism usually requires water in order to facilitate metamorphic reactions, metamorphism nearly always occurs with metasomatism.
+Further, because metasomatism is a mass transfer process, it is not restricted to the rocks which are changed by addition of chemical elements and minerals or hydrous compounds. In all cases, to produce a metasomatic rock some other rock is also metasomatised, if only by dehydration reactions with minimal chemical change. This is best illustrated by gold ore deposits which are the product of focused concentration of fluids derived from many cubic kilometres of dehydrated crust into thin, often highly metasomatised and altered shear zones and lodes. The source region is often largely chemically unaffected compared to the highly hydrated, altered shear zones, but both must have undergone complementary metasomatism.
+
+Metasomatism is more complicated in the Earth's mantle, because the composition of peridotite at high temperatures can be changed by infiltration of carbonate and silicate melts and by carbon dioxide-rich and water-rich fluids, as discussed by Luth (2003). Metasomatism is thought to be particularly important in changing the composition of mantle peridotite below island arcs as water is driven out of ocean lithosphere during subduction. Metasomatism has also been considered critical for enriching source regions of some silica-undersaturated magmas. Carbonatite melts are often considered to have been responsible for enrichment of mantle peridotite in incompatible elements.
+Metasomatism can be similar to other endogenic processes and is separated by 4 main features. The first of these is the ion-by-ion replacement in minerals, this can happen from the precipitation of new minerals at the same time as the dissolution of existing minerals. The second feature used to identify metasomatism is that it is from the preservation of rocks in its solid state during replacement. The third distinctive feature is from isochemical metamorphism, or the addition or subtraction of major elements other than water (H2O) and carbon dioxide (CO2). The last feature is the distinct zones of metasomatism. These are formed from magmatism and metamorphism and form a characteristic pattern of a metasomatic column.
+
+
+== Types of metasomatites ==
+Metasomatic rocks can be extremely varied. Often, metasomatised rocks are pervasively but weakly altered, such that the only evidence of alteration is bleaching, change in colour or change in the crystallinity of micaceous minerals.
+In such cases, characterising alteration often requires microscope investigation of the mineral assemblage of the rocks to characterise the minerals, any additional mineral growth, changes in protolith minerals, and so on.
+In some cases, geochemical evidence can be found of metasomatic alteration processes. This is usually in the form of mobile, soluble elements such as barium, strontium, rubidium, calcium and some rare earth elements. However, to characterise the alteration properly, it is necessary to compare altered with unaltered samples.
+When the process becomes extremely advanced, typical metasomatites can include:
+
+Chlorite or mica whole-rock replacement in shear zones, resulting in rocks in which the existing mineralogy has been completely recrystallised and replaced by hydrated minerals such as chlorite, muscovite, and serpentine.
+Skarn and skarnoid rock types, typically adjacent to granite intrusions and adjacent to reactive lithologies such as limestone, marl and banded iron formation.
+Greisen deposits within granite margins and cupolas.
+Rodingite typical of ophiolites particularly their serpentinized mafic dykes, containing grossular-andradite garnet, calcic pyroxene, vesuvianite, epidote and scapolite.
+Fenite, as a variant of metasomatism associated with strongly alkaline or carbonatitic magmatism introducing a variety of feldspars, sodic pyroxenes or amphiboles and often unusual minerals (such as chevkinite or columbite) comprising ordinarily incompatible elements that do not readily become incorporated into a crystal lattice i.e. niobium, zirconium
+ Albitite, from replacement of plagioclase by albite (albitization)
+Effects of metasomatism in mantle peridotite can be either modal or cryptic. In cryptic metasomatism, mineral compositions are changed, or introduced elements are concentrated on grain boundaries and the peridotite mineralogy appears unchanged. In modal metasomatism, new minerals are formed.
+Cryptic metasomatism may be caused as rising or percolating melts interact with surrounding peridotite, and compositions of both melts and peridotite are changed. At high mantle temperatures, solid-state diffusion can also be effective in changing rock compositions over tens of centimeters adjacent to melt conduits: gradients in mineral composition adjacent to pyroxenite dikes may preserve evidence of the process.
+Modal metasomatism may result in formation of amphibole and phlogopite, and the presence of these minerals in peridotite xenoliths has been considered strong evidence of metasomatic processes in the mantle. Formation of minerals less common in peridotite, such as dolomite, calcite, ilmenite, rutile, and armalcolite, is also attributed to melt or fluid metasomatism.
+
+
+== Metasomatism Schemes ==
+There are two main schemes discussed for the manifestation of metasomatism in nature in granitic systems. Diffusion metasomatism, which was mentioned in the types of metasomatites section, and infiltration metasomatism. Infiltration takes place in cracks or fractures that promote fluid flow in areas of high permeability. Diffusion takes place when fluid is incorporated into the pores of the rock, this is determined by the porosity. Rocks altered by infiltration metasomatism will be less altered than rocks altered by diffusion because of the dispersion effects during fluid advection.
+These two methods are commonly used for transportation from one region to another. These effected regions can be either enriched or depleted in the components transported relative to the premetasomatic state. Chemical weathering strongly effects the levels and contents of the metasomatic liquid and the major element geochemistry and mineralogy of siliciclastic sediments. 
+
+
+== Alteration assemblages ==
+Investigation of altered rocks in hydrothermal ore deposits has highlighted several ubiquitous types of alteration assemblages which form distinct groups of metasomatic alteration effects, textures and mineral assemblages.
+
+Propylitic alteration is caused by iron and sulfur-bearing hydrothermal fluids, and typically results in epidote-chlorite-pyrite alteration, often with hematite and magnetite facies.
+Albite-epidote alteration is caused by silica-bearing fluids rich in sodium and calcium, and typically results in weak albite-silica-epidote.
+Potassic alteration, typical of porphyry copper and lode gold deposits, results in production of micaceous, potassic minerals such as biotite in iron-rich rocks, muscovite mica or sericite in felsic rocks, and orthoclase (adularia) alteration, often quite pervasive and producing distinct salmon-pink alteration vein selvages.
+Quartz-sericite-pyrite alteration, in which these minerals can be deposited both in veins and in a disseminated manner; sericite in particular replaces plagioclase and biotite. This is common in porphyry copper and porphyry molybdenum deposits.
+Argillic alteration, commonly present in the distal areas of porphyry deposits, is a low-temperature assemblage that converts feldspars and some other minerals into clay minerals such as kaolinite and illite. It can overprint older, higher-temperature alteration assemblages.
+Rarer types of hydrothermal fluids may include highly carbonic fluids, resulting in advanced carbonation reactions of the host rock typical of calc-silicates, and silica-hematite fluids resulting in production of jasperoids, manto ore deposits and pervasive zones of silicification, typically in dolomite strata.  Stressed minerals and country rocks of granitic plutons are replaced by porphyroblasts of orthoclase and quartz, in the Papoose Flat quartz monzonites.
+
+
+== See also ==
+Greisen – Highly altered granitic rock or pegmatite
+Hornfels – series of contact metamorphic rocks that have been baked and indurated by the heat of intrusive igneous masses.Pages displaying wikidata descriptions as a fallback
+Hydrothermal circulation – Circulation of water driven by heat exchange
+Ore genesis – How the various types of mineral deposits form within the Earth's crust
+Pneumatolysis – Obsolete geologic term for magma emitting gasses
+Skarn – Hard, coarse-grained, hydrothermally altered metamorphic rocks
+
+
+== Reference ==

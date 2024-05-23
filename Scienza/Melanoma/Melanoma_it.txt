@@ -1,0 +1,385 @@
+Il melanoma è un tumore maligno che origina dal melanocita, una cellula preposta alla sintesi della melanina. La melanina è un pigmento scuro responsabile parzialmente del colore della pelle.
+Analogamente ai nevi, il melanoma può insorgere in tutti i distretti corporei in cui sono normalmente presenti i melanociti (quindi la cute con predilezione particolare per le zone fotoesposte); inoltre può neoformarsi nello spessore di:
+
+mucose (melanoma primitivo delle mucose);
+meningi;
+uvea (melanoma uveale).
+La ragione della presenza dei melanociti in questi distretti anatomici è da ricercarsi nella loro origine embrionale: le creste neurali.
+Le più frequenti varietà cliniche o morfologie verificate istologicamente sono:
+
+Per quanto riguarda il melanoma cutaneo:
+
+è uno dei principali tumori che insorgono in giovane età (al 2017 in Italia è il terzo tumore più frequente in entrambi i sessi al di sotto dei 50 anni);
+ha una maggiore incidenza nel lato sinistro del corpo;
+nelle donne insorge più comunemente sulle gambe;
+negli uomini insorge più comunemente sul dorso.
+È stato categorizzato nella ICDO (International Classification of Diseases for Oncology, Classificazione Internazionale delle Malattie Oncologiche) con il codice morfologico 8720/3.
+È particolarmente comune tra i caucasici, soprattutto negli europei nord-occidentali che vivono in luoghi soleggiati. Vi sono tassi elevati di questa malattia in Oceania, Nord America, Europa, Sudafrica e America Latina. Questo schema geografico è correlato alla causa primaria: l'esposizione alla luce ultravioletta in combinazione con la quantità di pigmentazione della pelle nella popolazione.
+Il trattamento varia in base allo stadio in cui si trova il melanoma. Quello di elezione (il cosiddetto gold standard) prevede la rimozione del tumore primario mediante biopsia escissionale ed è applicabile soltanto agli stadi precoci della malattia. Se viene rilevato e rimosso precocemente, quando è ancora piccolo e sottile, allora la probabilità di guarigione è alta. La probabilità che ritorni (recidiva) o si diffonda dipende da quanto profondamente ha invaso gli strati della cute. Per melanomi recidivanti o che si diffondono (metastasi) i trattamenti includono la chemioterapia, la terapia modulatori dei checkpoint immunitari) e/o la radioterapia.
+I tassi di sopravvivenza a cinque anni negli Stati Uniti sono in media del 91%.
+
+
+== Epidemiologia ==
+
+
+=== Prevalenza ===
+Il melanoma costituisce soltanto il 5% delle neoplasie maligne cutanee diagnosticate in tutto il mondo. Nel 2012 il melanoma è stato diagnosticato in 232 000 persone in tutto il mondo. Il maggior numero di casi di melanoma è stato registrato in Australia e Nuova Zelanda sia al 2008 che al 2012.
+
+
+=== Incidenza ===
+Negli ultimi 20 anni l'incidenza del melanoma è aumentata più velocemente rispetto ad altre neoplasie maligne, soprattutto nell'etnia caucasica. Secondo la stima della WHO vi sono 132 000 nuovi casi di melanoma all'anno in tutto il mondo.
+L'Australia e la Nuova Zelanda hanno i più alti tassi di incidenza di melanoma nel mondo. Negli ultimi anni in Europa si è assistito a un preoccupante incremento di questa patologia che, se non diagnosticata in tempo, può causare seri problemi e portare alla morte.
+
+Si è registrata una correlazione in base a:
+l'età (incidenza massima nei soggetti dai 35 ai 65 anni; e dunque raro in adolescenza ed età infantile);
+l'etnia (17 volte più frequente nei soggetti con pelle chiara; nelle persone di pelle scura si riscontra perlopiù in seguito ad eziologia traumatica, nella pianta dei piedi);
+eziologia (fotoesposizione, eventi traumatici);
+Non è stata registrata una correlazione in base al sesso, visto che il tumore è di poco più frequente nelle donne rispetto agli uomini. In occidente negli uomini colpisce prevalentemente il tronco mentre nella donna gli arti, il collo, il cuoio capelluto e il volto.
+Nel 5% dei casi si presenta con lesioni multiple.
+
+
+==== In Italia ====
+Nel 2017 in Italia sono attesi circa 14 000 nuovi casi di melanoma della cute (3% di tutti i tumori in entrambi i sessi), di cui: 
+
+7 300 tra gli uomini;
+6 700 tra le donne
+L'incidenza mostra tassi:
+
+più elevati nel centro-nord (sia negli uomini sia nelle donne);
+più bassi nelle regioni del sud (-48% negli uomini e -45% nelle donne).
+Per quanto riguarda la popolazione target giovanile il melanoma rappresenta:
+
+il 9% dei tumori giovanili negli uomini (seconda neoplasia più frequente);
+il 7% dei tumori giovanili nelle donne (terza neoplasia più frequente).
+In sintesi: 
+
+il rischio di sviluppare un melanoma cutaneo è elevato sia negli uomini (1 su 63) sia nelle donne (1 su 81);
+Negli uomini il rischio è più basso nei giovani;
+Nelle donne il rischio si mantiene costante in tutte e tre le fasce di età.
+
+
+=== Mortalità ===
+A livello globale, nel 2012, il melanoma ha colpito 232 000 persone e ha provocato 55 000 decessi. Sebbene sia uno dei tumori della cute meno frequente è sicuramente il più aggressivo tra tutti, soprattutto se non viene diagnosticato nelle fasi iniziali. Esso provoca la maggioranza (75%) dei decessi legati ai tumori della pelle. Il melanoma cutaneo inoltre rappresenta la causa principale di morte nelle giovani donne (25-30 anni).
+
+
+==== In Italia ====
+Nel 2014 nel territorio italiano sono stati registrati 2 018 i decessi per melanoma cutaneo (1 245 uomini e 773 donne), pari all’1% dei decessi per tumore in entrambi i sessi, con una frequenza leggermente più elevata nelle fasce giovani della popolazione sia maschile (4%) che femminile (3%).
+
+
+=== Fattori di rischio ===
+Per quanto riguarda i fattori di rischio è utile fare riferimento alla tabella progettata dall'oncologo Paolo Antonio Ascierto che li suddivide in:
+
+Fattori genetici;
+Fattori fenotipici;
+Fattori ambientali.
+
+
+=== Fattori genetici: il melanoma "familiare" ===
+Quando il melanoma non rappresenta una patologia “sporadica” (in una percentuale di casi inferiore al 10%) esso può essere correlato a mutazione di oncosoppressori. In questo caso acquisisce la proprietà di essere ereditabile; (Hemminki et al, 2003) definisce questa forma di melanoma "familiare". È stato inoltre stabilito che chi ha già sofferto di questa neoplasia ha più possibilità di sviluppare un secondo melanoma primario nel futuro.
+
+
+==== Mutazioni ====
+I geni più frequentemente mutati nei melanomi sono:
+
+p16 (la cui mutazione eterozigote può essere presente nei soggetti con melanoma familiare);
+molecole di adesione (caderine e integrine);
+c-kit (oncogene);
+nelle fasi avanzate possono anche trovarsi mutazioni dell'EGFR, bFGF, IL-8, fibronectina e altri geni.
+La maggior parte di queste mutazioni è presente nel cromosoma 9, nel braccio piccolo ("petit") della regione 9p21.
+
+
+=== Fattori Fenotipici ===
+Il rischio di sviluppare melanoma è maggiore nei soggetti di pelle chiara, dal fototipo cosiddetto chiaro. Fanno sospettare una crescita neoplastica i cambiamenti di simmetria, bordi, colore, dimensione ed estensione (orizzontale e verticale) di un nevo preesistente.
+
+
+=== Fattori Ambientali ===
+
+
+==== Raggi solari e melanoma ====
+Tra i fattori di rischio il ruolo più importante è giocato sicuramente dalle radiazioni solari, da cui l'importanza della prevenzione e protezione durante l'esposizione al sole (specialmente nei soggetti più giovani e in relazione al fototipo). I raggi ultravioletti contribuiscono allo sviluppo del tumore, benché possa insorgere in qualunque distretto corporeo anche non irraggiato.
+Già verso la metà del Novecento, grazie agli studi in Australia su un campione di uomini bianchi e di colore, è stata evidenziata la correlazione fra la pelle chiara e l'esposizione ai raggi solari. Alla fine degli anni ottanta gli scienziati proposero due cause scatenanti il melanoma indotte dai raggi: la prima è la mutazione di geni specifici delle cellule cutanee, con conseguenti proliferazioni cellulari e disabilitazione del gene oncosoppressore; la seconda prevede una disabilitazione della risposta immunitaria della cute.
+Verso la fine degli anni novanta i ricercatori hanno rilevato i danni che il DNA delle cellule cutanee, dopo lunghe esposizioni alla luce solare, subisce a causa dalla componente ultravioletta B dello spettro. Mentre, di solito, le cellule inabili a riparare il proprio DNA si autodistruggono (apoptosi), una lunga esposizione al sole può alterare il gene p53 e quindi la cellula "malata" continua a vivere e prolifera senza limiti. Anche la componente UVA viene correlata comunque allo sviluppo di melanomi.
+
+
+==== Altri fattori ====
+Oltre alla eccessiva o precoce esposizione a intensa luce solare, altri fattori di rischio sono l'immunosoppressione, l'uso di lampade a UV, la presenza di molteplici precedenti lesioni cutanee. Contrariamente a quanto in alcuni contesti affermato, l'uso di contraccettivi orali non ne aumenta l'incidenza, alla luce di una vasta revisione sistematica del 2010.
+
+
+== Fisiopatologia ==
+Il melanoma, così come la maggior parte delle neoplasie a carattere maligno, va incontro ad una serie di cambiamenti nel corso del tempo. Con l'avanzare delle scoperte in biologia cellulare è stato possibile definire una serie di "caratteristiche" generali che possiede qualsiasi tumore invasivo (i cosiddetti "hallmarks" del cancro). Essi sono:
+Proliferazione delle cellule anche in assenza di mitogeni (molecole che stimolano la proliferazione cellulare);
+Proliferazione delle cellule anche in presenza di inibitori della proliferazione cellulare;
+Aggiramento dei processi cellulari che scatenano l'apoptosi (una forma di morte cellulare programmata);
+Proliferazione incontrollata;
+Promozione dell'angiogenesi;
+Messa in atto di strategie atte a favorire la migrazione del tumore;
+Messa in atto di strategie atte ad aggirare il sistema immunitario.
+Nel distretto cutaneo, può:
+
+originare de novo su cute sana;
+rappresentare la conversione maligna di un preesistente nevo melanocitico (Gandini et al, 2005; Zaal et al, 2004).
+
+
+=== Hallmarks da 1 a 4: proliferazione focale e neoplastica dei melanociti ===
+Il melanocita in un adulto umano è presente in proporzioni costanti rispetto ai cheratinociti dell'epidermide: da questa osservazione è stata formulata la definizione di unità epidermico-melanica, dove un melanocita è di solito associato a 36 cheratinociti circa. Nel 75-80% dei casi un melanoma cutaneo primario origina in aree di cute sana, a partire da un'unità epidermico-melanica e solo nel restante 25-20% dei casi a partire da un nevo pre-esistente..
+Raramente si riscontra la forma in situ del melanoma. Sono più frequenti i riscontri microinvasivi.
+Il melanoma è caratterizzato da una crescita bifasica: radiale e verticale. In entrambi i casi il melanocita continua a proliferare grazie alla perdita di inibizione da contatto.
+
+
+==== Fase di crescita radiale ====
+La crescita radiale è contraddistinta da cellule con citoplasma chiaro, atipie cellulari, mitosi non frequenti, non è interessato tutto lo spessore dell'epidermide, possono esserci gruppi di cellule neoplastiche al di sotto della membrana basale. La crescita radiale è associata ancora a buona prognosi.
+
+
+==== Fase di crescita verticale ====
+La crescita verticale è invece uno stadio più maligno del tumore, sono più evidenti e frequenti le atipie e le mitosi, le cellule hanno acquisito un forte impulso proliferativo, occupano tutto lo spessore dell'epidermide e possono raggiungere finanche il tessuto adiposo sottocutaneo. Questo evento si associa ad aumentato rischio di metastasi, vista l'intensa vascolarizzazione che si ha scendendo nel derma.
+All'immunoistochimica si riconosce la positività per la vimentina e la proteina S-100.
+Spesso può esistere una risposta infiammatoria che riduce le dimensioni del melanoma, ma non ne cambia la prognosi.
+
+
+=== Hallmarks da 5 a 7: invasività e formazione di metastasi ===
+La diffusione può avvenire per continuità, per via linfatica ed ematogena.
+
+Il tumore metastizza di frequente ai linfonodi extraregionali (59% dei casi), al polmone (36%), al fegato e al cervello (20% entrambi), all'osso (17%). Sono state descritte anche come sedi di metastasi l'esofago ed altri tratti del canale digerente, oltre che rare metastasi cardiache. Il melanoma della coroide, anche se trattato con radioterapia od enucleazione dell'occhio, ha una frequenza di metastizzazione maggiore al fegato (più frequentemente entro 5 anni, ma con casi documentati sino a 30 anni dal trattamento), con il 90% delle mestastasi, talvolta congiunte a metastasi ossee o polmonari.
+
+
+== Istopatologia ==
+
+
+=== Regola ABCDE ===
+
+Per l'individuazione di possibili melanomi, viene consigliato di utilizzare la cosiddetta Regola ABCDE che prevede di sottoporre all'attenzione del medico un presunto neo che però dovesse presentare le seguenti caratteristiche (non necessariamente tutte presenti):
+
+Asimmetria. I melanomi sono di solito asimmetrici, con metà della macchia cutanea più grande dell'altra.
+Bordi. I bordi del melanoma sono irregolari a carta geografica, al contrario di quelli dei nei.
+Colore. Spesso il melanoma è policromo ovvero presenta colori diversi come nero, bruno, rosso e rosa.
+Dimensione. Una lesione cutanea sospetta, di diametro superiore ai 7 millimetri deve essere verificata da uno specialista.
+Evoluzione. La lesione cutanea che tende a modificare la propria forma, colore e superficie è da ritenersi sospetta e da verificare.
+Nel caso del melanoma nodulare, il più aggressivo, viene modificata nella Regola ABCDEFG aggiungendo le caratteristiche:
+
+Elevazione. Si presenta rilevata rispetto al piano cutaneo.
+Firm. La consistenza, palpandola con le dita, è maggiore rispetto alla pelle circostante.
+Growing. Crescita rapida in poche settimane o pochi mesi.
+
+
+=== Varietà del melanoma ===
+In caso di riscontro di una neoformazione scura, con tonalità diverse di colore, con margini frastagliati e superficie un po' piallata bisogna sempre sospettare la presenza di melanoma e agire di conseguenza.
+Con progressione più o meno rapida, la lesione può acquistare l'aspetto di uno dei seguenti melanomi:
+
+Melanoma di tipo lentigo maligna: è poco frequente (Circa il 5-10% dei casi), insorge soprattutto nelle persone anziane, si localizza specialmente al volto dove assume l'aspetto di una macchia che va dal bruno pallido al bruno nerastro, tondo o più spesso ovale, che si espande lentamente e, senza trattamento, raggiunge la dimensione di un grosso medaglione.
+Melanoma nodulare: non rappresenta la fase di evoluzione radiale, si presenta dall'inizio con crescita verticale e spesso con metastasi alla diagnosi. Si riscontra nel 10-15% dei soggetti con melanoma, principalmente nei maschi intorno ai 50-60 anni. Può insorgere ovunque. Si presenta come un nodulo a forma di cupola, bruno o nero. Non dà sintomi. A volte non presenta la caratteristica colorazione tumorale, perciò la diagnosi è difficile.
+Melanoma a diffusione superficiale: è il più comune (60-70% dei melanomi); predilige il dorso negli uomini e le gambe nelle donne. Appare sotto forma di una chiazza brunastra difficile da distinguere rispetto al resto della cute, con colori che vanno dal rosso spento al bruno-nerastro, con margini piuttosto marcati. La lesione si estende a macchia d'olio mostrando spesso piccole aree biancastre di regressione. Dopo mesi o anni, assume aspetto più o meno nodulare, ulcerandosi. Questo indica che il tumore è passato dalla diffusione orizzontale a quella verticale.
+Melanoma acrolentigginoso: è il tipo di melanoma più raro nelle persone con la pelle bianca. Si localizza alle estremità degli arti. Può passare inosservato per anni. Si confonde con il melanoma lentigo maligna, ma con una diagnosi accurata è possibile distinguerli.
+Sovente il tumore del melanoma contiene mutazioni nel gene TERT che stimolano la produzione di proteine e aumentano l'attività della telomerasi. Il melanoma è di frequente associato anche alla mutazione di una proteina legante i telomeri chiamata TPP1, che in provetta e clinicamente stimola l'attività della telomerasi.
+
+
+== Diagnosi ==
+
+
+=== Il ruolo del dermatologo nella descrizione della lesione cutanea ===
+
+Gli elementi essenziali per eseguire la diagnosi di un melanoma sono:
+
+cambiamenti rapidi di pigmentazione e/o grandezza (sia in aumento che in diminuzione, fino alla scomparsa) di un neo preesistente
+lesione piana con limiti policiclici netti; a "carta geografica" (melanoma a diffusione superficiale)
+nodulo pigmentato a superficie convessa e limiti netti (melanoma nodulare).
+La metodica più utilizzata ed efficace nella diagnosi precoce del melanoma è la dermatoscopia e permette l'osservazione di pattern non visibili a occhio nudo. La diagnosi differenziale del melanoma in dermatoscopia è basata prevalentemente sull'analisi di caratteristiche visive ben definite della lesione, unitamente all'anamnesi del paziente ed alle caratteristiche di evoluzione. Esiste una vasta semiologia tramite la quale il dermatologo esperto è in grado di effettuare diagnosi visive molto accurate. Negli ultimi anni, oltre alla tecnica tradizionale, si sono sviluppati alcuni metodi chiamati algoritmi soggettivi, quali il Seven-Point Checklist o la regola dell'ABCD, basati su serie di interpretazioni di caratteristiche dermatoscopiche. La variabilità e la difficile standardizzazione di questi algoritmi ha rivelato, tramite risultati riportati su riviste internazionali, una bassa accuratezza diagnostica rispetto alla tecnica diagnostica tradizionale.
+
+
+=== Altri approcci classici non invasivi ===
+La dermatoscopia digitale può offrire al dermatologo un valido ausilio diagnostico basato su valutazioni oggettive arrivando in alcuni casi addirittura alla diagnosi assistita basata sull'analisi delle immagini e sistemi d'intelligenza artificiale. È dimostrato che queste tecnologie basate sulla dermoscopia computerizzata contribuiscono realmente a un incremento in termini di accuratezza diagnostica purché validati scientificamente attraverso riviste scientifiche.
+È stato recentemente messo a punto un sofisticato metodo predittivo basato sull'analisi di sequenze di immagini di lesioni pigmentate in modo da fornire quadri diagnostici dettagliati in base alla cosiddetta mappatura dei nevi. Il follow-up delle lesioni riveste così una sempre più grande importanza nella diagnosi precoce del melanoma. Il software rileva dimensioni, variazioni di colore, profondità del nevo e li confronta con un database medico per stabilire la necessità di asportazione chirurgica, e con precedenti mappature dei nei del paziente per vedere l'evoluzione nel tempo.
+
+
+=== Nuove tecniche ===
+Nell'ultimo decennio sono state sviluppate tecniche di citogenetica che risultano essere di grande aiuto nella diagnosi e nella stadiazione del melanoma.
+
+
+==== FISH (Fluorescence in situ hybridization, Ibridazione fluorescente in Situ) ====
+Per quanto riguarda lesioni cutanee melanocitiche non ambigue e controverse la tecnica FISH a quattro sonde è risultata essere sensibile e specifica. In particolare tramite la tecnica FISH è possibile analizzare anomalie cromosomiche (di numero o traslocazioni), visualizzare l'istologia del tessuto prelevato e determinare citogeneticamente la presenza di marcatori tumorali.
+
+
+==== CGH (Comparative Genomic Hybridization) ====
+Questa tecnica permette di analizzare anomalie cromosomiche (di numero, inserzioni/delezioni del genoma) sebbene i suoi risultati dipendano soprattutto dalla purezza del campione prelevato. Un'altra complicazione della tecnica CGH è data dal fatto che non tutte le cellule di melanoma possono presentare alterazioni cromosomiche. È meno sensibile della tecnica FISH.
+
+
+== Prognosi ==
+Come in qualsiasi tumore vengono a considerarsi dei fattori prognostici negativi e dei fattori prognostici positivi.
+I principali fattori prognostici negativi per il melanoma sono, ovviamente, la presenza di metastasi a distanza o linfonodali, l'ulcerazione, una forte attività mitotica, la presenza di lesioni satelliti ed elevati livelli di lattato deidrogenasi.
+La presenza di un infiltrato linfocitario antitumorale attorno alla lesione (in sigla TIL da Tumor-infiltrating lymphocytes) è invece considerata un fattore prognostico positivo (associato cioè a migliori risultati clinici). È evidente che si cerchi di evitare che il tumore raggiunga lo spazio sub-endoteliale di un vaso linfatico durante la fase di crescita radiale: da qui l'importanza dei TILs. Nel melanoma infatti i TILs contribuiscono alla distruzione delle nicchie delle cellule tumorali grazie a:
+
+Linfociti T responsabili delle microsatellitosi linfocita/melanocita e di formazioni di strutture a rosetta linfocita/melanocita;
+Cellule presentanti l'antigene.
+Linfociti B;
+Sono visibili anche dei macrofagi, che avviano il processo di fagocitosi dei melanociti per formare i melanofagi o per fagocitare detriti presenti nel microambiente del tumore, mastociti e granulociti neutrofili. La loro funzione nell'infiltrato è molto variabile e alcune ricerche considerano addirittura la presenza di questi citotipi come fattore prognostico negativo, poiché sono cellule mediatrici dell'infiammazione cronica.
+Nel 1989 alcuni studiosi pubblicarono il risultato di una ricerca riguardante le diverse modalità d'azione dei TILs nel melanoma e formularono tre "comportamenti" delle cellule immunitarie nei confronti del tumore primario:
+
+Brisk (tradotto "vivaci", ma in alcuni referti è anche presente il termine "efficaci"): i TILs sono presenti nello spessore del tumore, o lungo i suoi margini di invasione;
+Non Brisk (tradotto "non vivaci", ma in alcuni referti è presente anche il termine "non efficaci"): i TILs sono presenti focalmente al centro del tumore o parzialmente lungo i margini di NON-invasione;
+Assente: linfociti non visibili oppure linfociti visibili ma che non interagiscono con le cellule di melanoma. Esempio: linfociti presenti nel nodulo tumorale ma arrangiati in maniera perivenulare o in bande fibrose nella matrice extracellulare del tumore ma non nella cellula stessa.
+Questi studi vennero riconfermati dal Dr.Clemente e colleghi nel 1996, i quali dimostrarono il valore predittivo delle categorie utilizzate da Clark/Elder e dimostrarono:
+
+I pazienti con TILs Brisk avevano una prognosi estremamente favorevole;
+I pazienti con TILs non brisk avevano una prognosi non ottimale;
+I pazienti con TILs assenti avevano una scarsa prognosi .
+Sempre in relazione all'infiltrazione linfocitaria sono stati proposti altri due fattori prognostici, al momento non ancora riconosciuti ufficialmente.: la densità linfocitaria e la distribuzione linfocitaria.
+
+
+== Stadiazione ==
+
+
+=== Livelli di Clark ===
+Questa classificazione suddivide i melanomi in base allo strato cutaneo più profondo che riescono ad invadere:
+
+Livello I: epidermide (tumore in situ);
+Livello II: invasione del derma papillare; il melanoma non raggiunge il confine tra derma papillare e derma reticolare;
+Livello III: l'invasione si espande nel derma papillare ma non raggiunge il derma reticolare
+Livello IV: invasione del derma reticolare; risparmiati i distretti sottocutanei (come ipoderma);
+Quinto stadio: invasione dei distretti sottocutanei (es ipoderma, fasce superficiali, altri tessuti connettivali);
+
+
+=== Spessore di Breslow ===
+Indica la profondità in mm di penetrazione del tumore nella cute. È l'indice più attendibile e che correla meglio con la sopravvivenza.
+
+Melanoma inferiore ad 1mm, sopravvivenza a 7 anni del 95%
+Compreso fra 1 e 1,69mm, melanoma a rischio basso
+Compreso fra 1,70 e 3,99mm, melanoma a rischio moderato
+Superiore a 4mm, melanoma ad alto rischio
+
+
+=== Stadiazione TNM ===
+Se fatta dall'anatomo patologo si parla di pTNM, dove:
+
+T sta per (Tumor), Tumore primario/primitivo;
+N sta per Nodes, Linfonodi;
+M sta per Metastatized, Metastasi.
+
+
+=== Limiti della Stadiazione TNM in altri melanomi ===
+La stadiazione TNM ivi descritta si applica solo al melanoma cutaneo. Altri melanomi, come:
+
+melanoma congiuntivale;
+melanoma uveale;
+melanoma di mucose di testa e collo;
+melanoma di mucose di uretra, vagina, retto, ano
+non utilizzano stadiazioni TNM o utilizzano stadiazioni TNM modificate.
+Ad esempio, dal momento che i melanomi delle vie aerodigestive superiori e in generale i melanomi delle vie mucose sono molto più aggressivi rispetto ai melanomi cutanei la stadiazione TNM ha rimosso/omesso i seguenti stadi:
+
+T1 e T2;
+gli stadi I e II.
+
+
+=== La nuova stadiazione TNM (2017) ===
+La American Joint Committee on Cancer (AJCC) ha proposto una versione modificata della TNM valida a partire dal 2018. Essa è stata pubblicata nell'ottava edizione del manuale "AJCC Cancer Staging Manual".
+
+
+== Terapia ==
+Le terapie sono diversificate in base allo stadio di progressione del tumore.
+
+
+=== Terapia negli stadi precoci: biopsia escissionale e radicalizzazione ===
+Il melanoma è un tumore con prognosi negativa negli stadi avanzati: è quindi preferibile riconoscere le forme precoci ed infine procedere alla biopsia escissionale. La biopsia escissionale ha due caratteristiche: 
+
+è diagnostica;
+è terapeutica (rimuove la lesione azzerando praticamente il rischio di morte).
+
+
+==== Stadio IA: biopsia escissionale con radicalizzazione ====
+I melanomi sottili sono generalmente diagnosticati tramite una biopsia escissionale ed in seguito asportati mediante radicalizzazione. L'intervento chirurgico di asportazione viene definito radicalizzazione. Non sempre è possibile eseguire l'asportazione del melanoma: vi sono zone del corpo troppo sottili o delicate che non consentono la radicalizzazione (esempio: palpebra). L'intervento di radicalizzazione può essere svolto in anestesia locale e consiste in:
+
+Asportazione della cicatrice causata dalla precedente biopsia escissionale;
+Allargamento: asportazione di tessuto sano intorno al melanoma;
+In seguito il melanoma sarà inviato alla UOC di Anatomia Patologica per organizzare la terapia e il monitoraggio del paziente.
+
+
+=== Terapia negli stadi intermedi: scintigrafia e asportazione del linfonodo sentinella ===
+Se il melanoma primitivo (ovvero la massa tumorale originatasi esclusivamente nel sito esaminato dal professionista) è allo stadio:
+
+pT1b: spessore minore a 0.8 mm ma con presenza di lesione ulcerativa;
+2 o superiore (spessore maggiore a 0.8mm);
+si procede all'asportazione del linfonodo sentinella.
+
+
+=== Terapia adiuvante ===
+È un trattamento che si esegue dopo aver rimosso la lesione primitiva per ridurre il rischio di recidive locali. Ha come obiettivi l'aumento della sopravvivenza e dell'intervallo libero da malattia. Spesso questi pazienti vengono inseriti in trial clinici per testare nuovi trattamenti. Si rientra nella popolazione target di pazienti ad alto rischio di recidiva se si è allo stadio:
+
+IIB: spessore del melanoma consistente: ha già raggiunto le strutture connettivali;
+IIC: spessore del melanoma consistente e presenza di ulcerazione;
+III: presenza del melanoma nei linfonodi.
+
+
+==== Immunoterapia ====
+Consiste nello stimolare il sistema immunitario contro il tumore. Si divide in varie tipologie:
+
+attiva non specifica: uso delle sostanze in grado di favorire la risposta infiammatoria a livello locale. Ad esempio l'interleuchina 2, l'interferone o il Bacillo di Calmette Guerin (di norma usato come vaccino contro la tubercolosi; è un batterio molto simile ma con virulenza più attenuata)
+passiva e specifica: "addestro" il sistema immunitario a combattere contro le cellule tumorali avvalendomi di vaccini appositamente preparati.
+somministrazione di anticorpi monoclonali (usati da soli o coniugati con tossine o radioisotopi) diretti contro il tumore
+favorisco l'immunità cellulare (stimolo il TIL)
+indiretta: (somministro inibitori dei fattori di crescita e dell'angiogenesi)
+L'unico di questi trattamenti approvato dalla Food and Drug Administration è l'uso dell'interferone ad alte dosi per via sistemica negli stadi 2b e 3; che però è gravato da pesanti effetti collaterali (febbre e malessere nel 70-80% dei pazienti causati dalla risposta infiammatoria sistemica a questa citochina).
+Altri trattamenti usati sono i vaccini, ma non si hanno ancora dati certi sulle modalità di somministrazione
+La chemioterapia classica è inutile in adiuvante.
+
+
+=== Terapia del melanoma metastatico e delle recidive ===
+La terapia nei pazienti allo stadio IIIC-IV è molto eterogenea e in generale presenta due approcci:
+
+approccio loco-regionale (mirata cioè ad una regione specifica del corpo in cui la lesione è presente);
+approccio terapeutico-sistemico (mirata a tutto il corpo del paziente).
+Qualora possibile, prima di procedere ad uno dei due approcci, sarebbe consigliabile effettuare l'analisi dello stato mutazionale di B-RAF. Grazie alle nuove scoperte infatti un melanoma allo stadio avanzato può essere curato mediante immunoterapia. La AIRC, il Ministero della Salute e numerosi primari delle UOC di Anatomia Patologica hanno identificato come primo step della terapia la valutazione dello status mutazionale del melanoma: il 40-60% dei melanomi metastatici possiede una mutazione V600 del gene B-RAF.
+I pazienti positivi a questa mutazione sono in grado di beneficiare della terapia combinata di:
+
+dabrafenib/trametinib
+vemurafenib/cobimetinib.
+
+
+==== Approccio loco-regionale ====
+L'approccio loco-regionale si applica a pazienti con poche metastasi (dette anche secondarismi) e si focalizza nella rimozione chirurgica dei tessuti che contribuiscono alla malattia.
+È consigliato a pazienti che sono allo stadio IV e presentano una singola metastasi in un viscere o una oligometastasi (coinvolgimento di 1 o 2 organi). In questo caso si procede alla resezione chirurgica.
+
+
+==== Approccio terapeutico-sistemico ====
+L'approccio terapeutico- sistemico si basava in passato sulla chemioterapia (soprattutto con la somministrazione della dacarbazina, un agente alchilante). In realtà, questa scelta rappresentava al più un trattamento palliativo-sistemico. Al 2017 sono disponibili cure che impediscono al melanoma di metastatizzare ulteriormente e, in alcuni casi, di regredire. Esse si basano sull'immunoterapia e prevedono:
+
+ipilimumab (anticorpo anti CTLA4);
+nivolumab, pembrolizumab (anticorpi anti PD);
+Vemurafenib, RG7204 o PLX4032 (inibitori di BRAF);
+Trametinib o Cobimetinib (inibitori di MEK).
+
+
+== Storia ==
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Alberto Giannetti, Trattato di dermatologia Vol.4, 2ª Ed., Padova, Piccin Nuova Libraria, 2002, ISBN 88-299-1549-1.
+ F. Mazzeo, P. Forestieri, Trattato di chirurgia oncologica, 2ª Ed., Piccin Nuova Libraria, 2003, ISBN 88-299-1654-4.
+ Catherine M. Poole, DuPont Guerry, Melanoma:prevention, detection, and treatment, Yale University, Yale University Press, 2005, ISBN 0-300-10725-0.
+The Great Mime: Three Cases of Melanoma with Carcinoid-Like and Paraganglioma-Like Pattern with Emphasis on Differential Diagnosis. https://www.mdpi.com/2296-3529/8/2/19
+
+
+== Voci correlate ==
+Classificazione TNM
+HINT1
+Metastasi
+Stadio tumorale
+Tumore cutaneo
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «melanoma»
+ Wikimedia Commons contiene immagini o altri file su melanoma
+
+
+== Collegamenti esterni ==
+
+(EN) melanoma, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+Sito dedicato ai tumori della pelle del Ministero della Salute 
+ Melanoma , su cancronograzie.org.
+ Melanoma Molecular Map Project, su mmmp.org.
+Agenzia internazionale per la prevenzione della cecità-IAPB Italia onlus per il melanoma oculare.
+ Il sole buono: contributo interattivo di AIRC, su airc.it. URL consultato il 6 febbraio 2008 (archiviato dall'url originale il 10 febbraio 2008).
+ ilmelanoma.com. URL consultato il 28 giugno 2013 (archiviato dall'url originale il 20 giugno 2013).
+Associazione Italiana Malati di Melanoma A.I.Ma.Me.

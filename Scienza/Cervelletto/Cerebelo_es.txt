@@ -1,0 +1,457 @@
+El cerebelo  es una región del encéfalo cuya función principal es de integrar las vías sensitivas y las vías motoras.[1]​ Existe una gran cantidad de haces nerviosos que lo conectan con otras estructuras encefálicas y con la médula espinal. El cerebelo integra toda la información recibida para precisar y controlar las órdenes que la corteza cerebral envía al aparato locomotor a través de las vías motoras. Es el regulador del temblor fisiológico.
+Por ello, lesiones a nivel del cerebelo no suelen causar parálisis pero sí desórdenes relacionados con la ejecución de movimientos precisos, mantenimiento del equilibrio, la postura y aprendizaje motor. Los primeros estudios realizados por fisiólogos en el siglo XVIII indicaban que aquellos pacientes con daño cerebelar mostraban problemas de coordinación motora y movimiento. Durante el siglo XIX comenzaron a realizarse los primeros experimentos funcionales, causando lesiones o ablaciones cerebelares en animales. Los fisiólogos observaban que tales lesiones generaban movimientos extraños y torpes, descoordinación y debilidad muscular. Estas observaciones y estudios llevaron a la conclusión de que el cerebelo era un órgano encargado del control de la motricidad.[2]​ Sin embargo, las investigaciones modernas han mostrado que el cerebelo tiene un papel más amplio, estando así relacionado con ciertas funciones cognitivas como la atención y el procesamiento del lenguaje, la música, el aprendizaje y otros estímulos sensoriales temporales.
+Fue descrito por primera vez por Herófilo en el siglo IV a. C.[3]​[4]​
+
+
+== Características generales ==
+El cerebelo es un órgano impar y medio, situado en la fosa craneal posterior, dorsal al tronco del encéfalo e inferior al lóbulo occipital y ocular.[3]​
+
+
+== Desarrollo ==
+
+Al igual que el resto del sistema nervioso central y la piel, el cerebelo deriva de la capa ectodérmica del disco germinativo trilaminar.[5]​
+Durante las fases más tempranas del desarrollo embrionario, el tercio cefálico del tubo neural presenta tres dilataciones (vesículas encefálicas primarias) lo que nos permite dividirlo en tres segmentos distintos: prosencéfalo, mesencéfalo y rombencéfalo.[6]​ El rombencéfalo es el segmento más caudal, y cuando el embrión tiene 5 semanas se divide en dos porciones: el metencéfalo, y el mielencéfalo.[7]​ El metencéfalo es la porción más cefálica y dará lugar a la protuberancia (puente) y al cerebelo, mientras que del mielencéfalo se originará la médula oblongada (bulbo raquídeo).[8]​ El límite entre estas dos porciones está marcado por la curvatura protuberencial.[9]​
+Al igual que todas las estructuras que derivan del tubo neural, el metencéfalo está constituido por placas alares y basales separadas por el surco limitante. Las placas alares contienen núcleos sensitivos que se dividen en tres grupos: el grupo aferente somático lateral, el grupo aferente visceral especial y el grupo aferente visceral general. Las placas basales contienen núcleos motores que se dividen en tres grupos: el grupo eferente somático medial, el grupo eferente visceral especial y el grupo eferente visceral general.
+
+Las porciones dorsolaterales de las placas alares se incurvan en sentido medial para formar los labios rómbicos. En la porción caudal del mesencéfalo, los labios rómbicos están muy separados, pero en la porción cefálica se aproximan a la línea media. Al ir profundizando el pliegue protuberencial, los labios rómbicos se comprimen en dirección cefalo-caudal y forman la placa cerebelosa. A las 12 semanas del desarrollo, en la placa cerebelosa se aprecia la existencia de tres porciones: el vermis, en la línea media, y dos hemisferios, a ambos lados. Al poco tiempo, una fisura transversal separa el nódulo del resto del vermis y los flóculos del resto de los hemisferios.
+Inicialmente, la placa cerebelosa está compuesta por tres capas, que de profunda a superficial son: capa neuroepitelial, capa del manto y capa marginal. Aproximadamente a las 12 semanas del desarrollo, algunas células originadas en la capa neuroepitelial emigran hacia la zona más superficial de la capa marginal. Estas células conservan la capacidad de dividirse y empiezan a proliferar en la superficie donde acaban formando la capa granulosa externa. En el embrión de 6 meses, la capa granulosa externa comienza a diferenciarse en diversos tipos celulares que emigran hacia el interior para pasar entre las células de Purkinje y dar origen a la capa granular interna. La capa granulosa externa termina por quedarse sin células y da origen a la capa molecular. Las células en cesta y las células estrelladas provienen de células que proliferan en la sustancia blanca (capa marginal).
+Los núcleos cerebelosos profundos, como el núcleo dentado, se sitúan en su posición definitiva antes del nacimiento mientras que la corteza del cerebelo alcanza su desarrollo completo después del nacimiento.
+
+Origen y características de las células progenitoras
+Contrario a la idea anatómica clásica;  el cerebelo adulto no proviene únicamente del metencefalo. Los estudios de Hallonet y Nicole M. Le Douarin a principios de la década de los noventa mostraron que las células progenitoras del cerebelo provienen de la región caudal del mesensefalo y la rostral del metencéfalo.[10]​  Para mostrarlo, crearon diferentes quimeras de pollo (Gallus gullus) y codorniz (Corurnir  coturnir juponica), con injertos de las regiones metencefalicas y mesensefálicas de interés. Debido a que las células de codorniz presentan un núcleo en interfase con heterocromatina condensada, estas células son fácilmente diferenciables de las células de pollo luego de una tinción de Feulgen (tiñe el DNA) (Ver enlace externo). Haciendo uso de esta metodología, Hallonet y Le Douarin mostraron que las células mediorostrales del cerebelo adulto provienen del área caudal del mesencéfalo, mientras que el resto de las células progenitoras del cerebelo tienen origen en el área rostral del metencefalo. Los autores hacen énfasis en el origen estrictamente metencefálico de las células de la capa granular externa (EGL), que dará lugar a las células granulares en etapas posteriores del desarrollo. Las demás células del cerebelo (células de Purkinje, por ejemplo) provienen de las vesículas mesencefálicas y metencefálicas.
+Gao y Hatten querían mostar la potencialidad de las células progenitoras provenientes de la capa granular externa (EGL) y compararla con la potencialidad de las células progenitoras de la zona ventral (VZ). Para ello, aislaron células precursoras de estas zonas a partir de ratones E13, luego las implantaron en la capa granular externa de ratones postnatales y observaron los tipos celulares en los cuales se diferenciaban estas células.  Se observó que las células progenitoras de la capa granular externa (EGL) eran unipotentes, produciendo únicamente células granulares. En contraste las células provenientes de la zona ventral se diferenciaron en neuronas de Purkinje, interneuronas, astroglia y células granulares, lo cual evidencia las restricciones que se dan durante el desarrollo dependiendo de los contextos espaciales y temporales en los cuales se desarrollan las células.[11]​
+
+Control genético del desarrollo del cerebelo
+Una de las ventajas de la teoría evolutiva en la biología es la posibilidad de formulación de hipótesis en otros grupos de organismos a partir del conocimiento en un grupo particular. El cerebelo es ejemplo perfecto de lo anterior. Debido a la gran facilidad de obtener mutantes en organismos como Drosophila, muchos genes involucrados en la identidad de segmentos fueron identificados en la segunda mitad del siglo XX.[12]​ Debido a que estos genes eran capaces de establecer la identidad antero-posterior de los segmentos en Drosophila, varios investigadores propusieron la hipótesis que los homólogos en mamíferos podrían controlar los patrones de desarrollo. Los genes candidatos eran En (Engrailed), wingless y genes Pax. Al buscar sus homólogos en vertebrados y analizar los mutantes se encontró una ruta muy fina del control de desarrollo espacial y temporal del cerebelo en ratones.
+Las mutaciones en el gen (-/-) generan un fenotipo que prácticamente no desarrolla cerebelo. Mientras que mutaciones en el gen En-2 generan un fenotipo menos severo, con daños en la formación de las estructuras foliares de los lóbulos cerebelosos. Mutantes condicionales para En-1 activados en el día E-9 cuya expresión de En-2 es normal, presentan fenotipos casi normales. Esto sugiere que En1 determina el «Territorio» del cerebelo en etapas tempranas, mientras que En2 es requerido en estadios posteriores.[13]​[14]​ Debido al efecto regulatorio de Wnt-1 (homólogo de wingless) y genes Pax sobre Engrailed, era predecible el fenotipo de mutantes para estos genes. Mutantes homocigotos de Wnt-1 mostraron la pérdida completa del cerebelo, lo cual se correlaciona con la pérdida de expresión en el «territorio cerebeloso».[14]​
+
+Programas de desarrollo en el cerebelo
+La transición célula progenitora a neurona madura, implica una serie de cambios morfológicos y moleculares altamente regulada espacial y temporalmente. Estos cambios incluyen el arresto del ciclo mitótico, la formación de axón y dendritas, la expresión de proteínas específicas como proteínas canal, en algunos casos migraciones y finalmente el establecimiento de conectividad (sinapsis) con otras neuronas. A pesar de ser rutinas que incluyen la mayoría de estos procesos, distintos tipos celulares presentan sus programas en diferente orden. Por ejemplo, las células de Purkinje al igual que células de la corteza cerebral migran justo después de salir del ciclo celular y forman conexiones axonales en etapas posteriores del desarrollo. Por el contrario, las células precursoras de células granulares inician el crecimiento axonal al salir del ciclo celular y posteriormente inician su migración a la capa interna (IGL).[14]​ A continuación se muestran algunas características del desarrollo de las células granulares del cerebelo.
+
+Células granulares
+Los patrones de expresión génica durante el desarrollo de las células granulares, permite establecer cuatro etapas: la neurogénesis, el inicio de la diferenciación neuronal, el crecimiento axonal y migración, y, finalmente, la formación de conexiones sinápticas. En la figura 1 se muestran los marcadores específicos de cada etapa.
+
+Proliferación
+El proceso de proliferación ocurre principalmente en la capa externa del EGL (oEGL) durante las tres primeras semanas postnatales en ratón. Los primeros estudios de proliferación in vitro mostraron que estas células tienen la capacidad proliferativa en ausencia de mitógenos, sugiriendo actividad autocrina en la regulación de la proliferación celular.[15]​ Más recientemente se han mostrado algunas moléculas de señalización cuya relación con la proliferación es más clara. Wechsler y Scott de la universidad de Stanford mostraron la expresión de mensajeros de Shh en células de Purkinje a nivel somático y dendrítico, por su parte las células granulares expresaban el gen ptc (inhibidor de la ruta shh en ausencia de Shh) y los genes gli1/2 que codifican factores de transcripción corriente abajo en la cascada de señalización de Shh. Luego evaluaron el papel que juega Shh en la proliferación de las células granulares, encontrando que la presencia de este factor incrementa la proliferación de estas células 100 veces. Este efecto fue específico para células granulares (no se vieron incrementos significativos en la proliferación de células glia). Para dar validez biológica a los resultados in vitro, los investigadores inhibieron la actividad de Shh con la expresión de anticuerpos anti-Shh por parte de células de hibridoma inyectadas en los animales en el periodo postnatal inicial.[16]​[17]​ Dichos experimentos causaron una notable disminución en el grosor de la capa granular externa (EGL), al igual que disminución en el número de células. Ello permite concluir el efecto causal de la señalización de Shh en el estadio proliferativo de las células granulares. La presencia de ptc2 en las células granulares es de relevancia, puesto que las células granulares con la ruta de señalización Shh activa no entran en la etapa de diferenciación celular, incluso mutantes para ptc generan meduloblastoma en ratones y en humanos. Por lo tanto, la actividad de Shh es esencial en etapas iniciales del desarrollo (proliferación) de las células granulares pero su inhibición y regulación posterior es necesaria para continuar el curso del desarrollo normal de estas células. Un artículo reciente sobre el tema, que habla sobre Shh y ATF5 en el control de la proliferación de células granulares puede ser consultado[18]​
+
+Diferenciación
+Dando continuidad al proceso, las neuronas granulares deben terminar la proliferación celular inducida por agentes mitógenos como Shh. Sato y colaboradores mostraron el efecto antagónico de JASP1 sobre Shh a través de la modulación de la actividad de JNK. La activación de esta ruta de señalización por el factor de crecimiento fibroblástico FGF-2 produce una colocalización de JASP1 y las formas fosforiladas de JNK y ERK en la membrana celular,[19]​ que posteriormente dará lugar a la inhibición de la actividad mitógena de Shh permitiendo salir del ciclo celular. Ello es evidenciado por un decrecimiento en la población de células positivas para el factor Ki67 (proliferación) y el aumento de células positivas p27-Kip1 (represor del ciclo celular)  y BrdU.[20]​
+Otro gen implicado en la interfase diferenciación-migración es el gen weaver. Mutantes para este gen tienen proliferación de las células precursoras granulares normal (GCPs), sin embargo estas células no pueden salir del ciclo celular y terminan muriendo. Estas células pueden expresar algunos marcadores neuronales como N-CAM, L1 y MAP-2, pero la expresión de genes tardíos como TAG-1 y astrotactina es eliminada.[21]​
+
+Migración
+Las neuronas granulares inmaduras que inician la diferenciación celular, comienzan la formación de un axón con la forma característica de T (ubicado hacia lo que será la capa molecular). Este estadio del desarrollo es identificable por la presencia de TAG-1 en el axón en formación. Del otro extremo, se inician translocaciones sucesivas y discretas del núcleo; este proceso de migración desde el EGL hasta el IGL atravesando la capa de células de Purkinje (PCL) implica la interacción y contacto directo entre células gliales de Berman y las neuronas granuales. En 1988, a través de técnicas inmunológicas y de microscopía Edmonson y colaboradores descubrieron la proteína de membrana astrotactina (ASTN1), una glicoproteína de 100 kDa cuya función es estabilizar las uniones temporales entre la astroglia y las neuronas granulares. En este artículo se muestra como los mutantes weaver, mencionados en el apartado anterior no expresan esta proteína y paralelamente son incapaces de unirse a las células gliales de Bergman e iniciar la migración.[22]​
+Estudios recientes realizados por el grupo de la Dr.Hatten han demostrado la actividad no redundante de la ASTN2. Esta proteína fue descubierta a partir de análisis bioinformáticos de homología. Increíblemente (como la misma autora dice), esta proteína no es expuesta a la superficie celular como su homóloga ASTN1, y por lo tanto no puede tener una función directa en la adhesión neuron-glia. En una primera fase del estudio se mostró el control dinámico en la exocitosis endocitosis de vesículas con ASTN1, esta glicoproteína es exocitada en el área distal del proceso líder (proceso citoplasmático que define la dirección de migración) donde es requerido un punto de adhesión para aplicar las fuerzas que conducen la translocación somática. Una vez se ha dado este movimiento se requiere de ASTN1 en la nueva frontera de migración y la membrana con ASTN1 que se encuentra cerca al núcleo es endocitada para su posterior reciclaje. La ASTN2 interactúa físcamente con la ASTN1 y parece regular la cantidad de ASTN1 que es exportada a la membrana.[23]​
+
+Además de las interacciones celulares glía-neurona, las células granulares deben establecer una polaridad que dé dirección a la migración y organizar los componentes motores que ejecutan el desplazamiento. Al respecto, Solecki y colaboradores han trabajado en el control de componentes citoesqueléticos en el proceso de migración. En primer lugar se ensambla una caja de microtúbulos alrededor del núcleo, ello es coordinado por el centrosoma. Los movimientos discretos del núcleo son precedidos por el avance del centrosoma en la dirección del proceso líder, lo cual es coordinado molecularmente por el complejo Par6 (actualmente se realizan estudios sobre GTPases que interactúan con el complejo Par6, que puedan contribuir en la explicación de la polaridad en la migración).[24]​ Uno de los mecanismos moleculares encargados directamente en el movimiento es la activación motores actomiosínicos.[25]​
+
+Establecimiento de conexiones sinápticas
+Terminada la migración, las neuronas se localizan en la capa granular interna, listas para el proceso que las convertirá en neuronas funcionales: las conexiones sinápticas. Los axones con forma de T de la capa molecular dan origen a conexiones con las dendritas de las células de Purkinje, mientras que las fibras musgosas forman terminales nerviosas alrededor de los somas de las neuronas granulares (glomérulos sinápticos). Otro cambio que ocurre en la maduración de las células granulares es la expresión de la subunidad α6 del receptor GABA (Hay que recordar que la modulación electrofisiológica depende de los receptores canal activos, como el receptor GABA) y la expresión de la enzima deshidrogenasa de ácido glutámico (cataliza la descarboxilación del glutamato para sintetizar GABA).[14]​ Piper y colaboradores ha identificado un factor de transcripción que gatilla la expresión de la subunidad α6 del receptor GABA en estas células,[26]​ haciendo pensar que estos cambios en el desarrollo están controlados por cascadas divergentes (la activación de pocos factores de transcripción es responsable de un perfil de expresión genética muy distinto). En las figuras 2 y 3 se muestran cortes de cerebelo adulto, donde se puede identificar la capa granular, la capa decélulas de purkinje y la capa granular interna (IGL)después de la migración y establecimiento de conexiones sinápticas.
+
+
+== Evolución filogenética ==
+El cerebelo aparece en todos los vertebrados pero con diferente grado de desarrollo: muy reducido en peces, anfibios y aves, alcanza su máximo tamaño en los primates especialmente en el hombre.
+
+
+== Anatomía ==
+El cerebelo se encuentra pegado a la pared posterior del tronco del encéfalo y está incluido dentro de un estuche osteofibroso —la celda cerebelosa o subtentorial— formado por una pared superior y otra inferior. La pared superior está constituida por una prolongación de la duramadre denominada tienda del cerebelo y la pared inferior la forman las fosas cerebelosas del hueso occipital recubiertas por la duramadre. Normalmente, el cerebelo de un varón adulto pesa unos 150 g (gramos)[27]​ y mide 10 cm (centímetros) de ancho, 5 cm de alto y 6 cm en sentido antero-posterior. En los niños la relación entre el volumen del cerebelo y del cerebro es de 1 a 20, mientras que en adultos es de 1 a 8.
+
+
+=== Descripción externa ===
+El cerebelo está conformado por dos hemisferios eparados por un vermis,[28]​ tiene forma de cono truncado aplastado en sentido supero-inferior  en el cual se pueden diferenciar por tres caras: superior, inferior y anterior.
+
+
+==== Cara superior ====
+
+La cara superior tiene la forma de un tejido con dos vertientes laterales y está en contacto con la tienda del cerebelo. En la parte central, presenta una elevación alargada en sentido antero-posterior que recibe el nombre de vermis superior.[29]​ A ambos lados del vermis superior se extienden dos superficie inclinadas y casi planas que constituyen las caras superiores de los hemisferios cerebelosos. La cara superior está separada de la cara inferior por el borde circunferencial del cerebelo. En una vista superior, el borde circunferencial presenta dos escotaduras: una anterior en relación con el tronco del encéfalo, y otra posterior en relación con la hoz del cerebelo. El borde circunferencial del cerebelo está recorrido longitudinalmente por una fisura profunda denominada fisura prima o surco primario.
+
+
+==== Cara inferior ====
+
+La cara inferior está directamente apoyada sobre la duramadre que recubre las fosas cerebelosas. Muestra un amplio surco en la línea media denominado vallécula o cisura media que alberga la hoz del cerebelo y en cuyo fondo se encuentra el vermis inferior que es la continuación del superior. Lateralmente a la cisura media se localizan las caras inferiores de los hemisferios cerebelosos, que son convexas hacia abajo. En la parte más anterior y a ambos lados del vermis inferior, los hemisferios cerebelosos presentan una prominencia ovoidea denominada amígdala cerebelosa. Estas amígdalas guardan una estrecha relación con el bulbo raquídeo.
+
+
+==== Cara anterior ====
+La cara anterior está íntimamente relacionada con la cara posterior del tronco del encéfalo y para poder verla es necesario seccionar los tres pares de pedúnculos que la unen a ella. Presenta una depresión central que se corresponde con el techo del IV ventrículo y está delimitada por los pedúnculos de ambos lados y por los velos medulares superior e inferior. Por encima de esta depresión asoma el extremo anterior del vermis superior o língula, y por debajo se ve el extremo anterior del vermis inferior o nódulo. A ambos lados del nódulo, y por debajo de los pedúnculos cerebelosos inferiores, hay unas prominencias denominadas flóculos. El nódulo y los folículos están unidos entre sí por el pedúnculo del floculo que, en parte, corre sobre el velo medular inferior.
+
+
+=== Divisiones ===
+Hay tres maneras diferentes de dividir el cerebelo: morfológicamente, filogenéticamente y funcionalmente.
+
+
+==== Morfológica ====
+
+Clásicamente se realiza una división morfológica que es meramente descriptiva de la superficie del cerebelo, y no tiene base funcional ni ontogénica ni ninguna aplicación en la práctica clínica.
+La superficie del cerebelo se encuentra surcada por muchas fisuras transversales más o menos paralelas entre sí. Entre ellas hay dos que destacan por ser las más profundas y nos sirven para dividirlo en lóbulos.[30]​ Una es la fisura prima o primaria que recorre la cara superior y la divide aproximadamente en dos mitades iguales, y la otra es la fisura posterolateral o dorsolateral que se localiza en la cara anterior en posición caudal respecto del nódulo y los flóculos.
+Estas fisuras delimitan los tres lóbulos del cerebelo: el anterior, el posterior y el floculonodular.[30]​ Cada uno de estos lóbulos incluye una porción que forma parte del vermis y otra que forma parte de los hemisferios cerebelosos. La porción del vermis que corresponde a cada lóbulo se subdivide en segmentos a los que, generalmente, se asocia un par de lobulillos situados en los hemisferios cerebelosos. La subdivisión dentro de cada uno de los lóbulos viene determinada por la existencia otras fisuras transversales de menor profundidad.
+El lóbulo anterior se sitúa por delante de la fisura prima y abarca parte de la cara anterior y parte de la cara superior. Se subdivide en:
+
+Língula (I), que es la porción más anterior del vermis y se une al velo medular superior.
+Lobulillo central (II y III), que se sitúa justo por encima de la língula y se prolonga a ambos lados mediante las alas del lobulillo central (H II y H III). La fisura que lo separa de la língula recibe el nombre de fisura precentral.
+Culmen (IV y V), que es la porción más craneal de todo el vermis y se asocia lateralmente con la porción anterior de los lobulillos cuadrangulares (H IV y H V).[31]​ La fisura que lo separa del lobulillo central se denomina postcentral.
+
+El lóbulo posterior se sitúa entre las fisuras prima y posterolateral y abarca parte de la cara superior y parte de la cara inferior. Se subdivide en:
+
+Declive (VI), que desciende desde el culmen hacia atrás y se asocia lateralmente al lobulillo simple o porción inferoposterior del lobulillo cuadrangular (H VI).
+Folium u hoja del vermis (VII-A), que es una estrecha lámina de unión entre los lobulillos semilunares superiores (o anseriformes; H VII-A) izquierdo y derecho.
+Túber o tubérculo del vermis (VII-B), que se asocia lateralmente a los lobulillos semilunares inferiores (H VII-A) y a los lobulillos gráciles (delgados o paramedianos; H VII-B), y se sitúa justo por debajo de la fisura horizontal que lo separa del folium.
+Pirámide del vermis (VIII), que se sitúa por delante del túber y se asocia con los lobulillos digástricos (H VIII-A y B) izquierdo y derecho. La fisura que la separa del túber se llama prepiramidal y la fisura que la separa de la úvula se llama postpiramidal o secundaria.
+Úvula del vermis (IX), que se encuentra entre las dos amígdalas cerebelosas (H IX) justo por encima de la pirámide.
+
+El lóbulo floculonodular se sitúa por delante de la fisura posterolateral y como su propio nombre indica está formado por el nódulo (X) -que corresponde al vermis- y los flóculos (H X) -que corresponden a los hemisferios-, unidos por el pedúnculo del flóculo.
+El término cuerpo del cerebelo se utiliza para denominar a la totalidad del cerebelo, a excepción del lóbulo floculonodular.
+El vermis superior está constituido por la língula, el lobulillo central, el culmen, el declive y el folium. El vermis inferior está constituido por el túber, la pirámide, la úvula y el nódulo.
+Algunos autores en vez de distinguir tres lóbulos distinguen cuatro: el anterior, el medio, el posterior y el floculonodular. La diferencia radica en que dividen al lóbulo posterior en dos mediante la fisura prepiramidal, de tal forma que por encima de ella se extiende el lóbulo medio y por debajo el lóbulo posterior.
+
+
+==== Filogenética ====
+Desde el punto de vista filogenético, el cerebelo puede dividirse en tres porciones: arquicerebelo, paleocerebelo y neocerebelo. Esta división es de gran interés porque cada una de las porciones posee cierta identidad funcional y clínica.
+El arquicerebelo. Es la porción filogenéticamente más antigua y se corresponde con el lóbulo floculonodular. Surge durante el desarrollo filogenético al mismo tiempo que el aparato vestibular del oído interno. La mayoría de aferencias que recibe provienen de los núcleos vestibulares y se corresponde en gran medida con el vestíbulocerebelo. Tiene una función de equilibrio.
+El paleocerebelo. Es más moderno que el arqueocerebelo y está integrado por la pirámide, la úvula, el lobulillo central con las alas, el culmen y el lobulillo cuadrangular. La mayoría de las aferencias que recibe provienen de la médula espinal y tiene cierta correspondencia con el espinocerebelo. Tiene una función de control postural.
+El neocerebelo. Es la parte más moderna y está formado por la totalidad del lóbulo posterior a excepción de la pirámide y la úvula. La mayoría de las aferencias que recibe provienen de la corteza cerebral a través de los núcleos del puente y se identifica con el cerebrocerebelo. Tiene una función de coordinación motora (movimientos voluntarios).
+
+
+=== Representación topográfica del cuerpo ===
+Del mismo modo que la corteza somatosensitiva, la corteza motora, los ganglios basales, los núcleos rojos y la formación reticular poseen una representación topográfica de las diferentes partes del cuerpo, esto sucede también en el caso de la corteza cerebelosa. El tronco y el cuello así como las porciones proximales de las extremidades quedan situadas en la región perteneciente al vermis. En cambio, las regiones faciales y las porciones distales de las extremidades se localizan en las bandas paravermianas. Las porciones laterales de los hemisferios cerebelosos (cerebrocerebelo) al igual que el lóbulo floculonodular (vestibulocerebelo), no poseen una representación topográfica del cuerpo.
+Estas representaciones topográficas reciben aferencias desde todas las porciones respectivas del cuerpo y también desde las áreas motoras correspondientes en la corteza cerebral y en el tronco del encéfalo. A su vez, devuelven señales motoras a las mismas áreas respectivas de la corteza motora y también a las regiones topográficas oportunas del núcleo rojo y de la formación reticular en el tronco del encéfalo.
+
+
+=== Estructura interna ===
+De una forma similar al cerebro, el cerebelo puede dividirse en sustancia gris y sustancia blanca. La sustancia gris se dispone en superficie, donde forma la corteza cerebelosa, y en el interior, donde constituye los núcleos profundos. La sustancia blanca se localiza en la parte interna, envolviendo por completo a los núcleos profundos.[32]​[33]​
+
+
+==== Corteza cerebelosa ====
+La corteza cerebelosa tiene una superficie muy extensa, unos 500 cm² (centímetros cuadrados) gracias a los numerosos pliegues o circunvoluciones (folia cerebelli) predominantemente transversales que aumentan unas tres veces su área. Los abundantes surcos y fisuras le dan a la superficie un aspecto rugoso característico.
+La corteza está conformada por multitud de unidades histofuncionales conocidas como laminillas cerebelosas. En un corte sagital de una circunvolución del cerebelo visto al microscopio, se puede observar que está integrada por multitud de microcircunvoluciones. Estas microcircunvoluciones son las laminillas cerebelosas, que están constituidas por una fina lámina de sustancia blanca recubierta de sustancia gris.
+La sustancia gris periférica de la laminilla cerebelosa tiene un espesor de alrededor de 1 mm (milímetro). Posee una estructura histológica, homogénea en todas sus regiones, constituida por tres capas en las que se distinguen siete tipos fundamentales de neuronas. Al igual que el resto del sistema nervioso, la corteza cerebelosa también posee células gliales y vasos sanguíneos.
+
+
+===== Capas de la corteza =====
+
+En la corteza cerebelosa, de profundo a superficial, se puede distinguir las siguientes capas: capa de células granulares, capa media o de células de Purkinje y capa molecular o plexiforme.
+La capa granular es la capa más profunda de la corteza cerebelosa y limita en su zona interna con la sustancia blanca. Debe su nombre a que en ella predominan un tipo de pequeñas neuronas intrínsecas denominadas granos o células granulares del cerebelo. Debido a las características tintoriales de los núcleos de estas células, la capa granular presenta un aspecto linfocitoide (basófilo), aunque de cuando en cuando se pueden apreciar unos pequeños espacios acelulares eosinófilos denominados islotes protoplásmicos. Tiene una anchura variable de 500 en la convexidad a 100 μm (micrómetros) en el surco, siendo la capa de mayor espesor de la corteza cerebelosa.
+La capa de las células de Purkinje está constituida por los somas de las células de Purkinje que se disponen en una formando una lámina monocelular. A pocos aumentos presenta una mayor densidad celular en la convexidad de la laminilla que en los surcos. Algunos autores no consideran que las células de Purkinje formen una capa definida y dividen la corteza cerebelosa solo en dos capas: granular y molecular.
+La capa molecular recibe su nombre porque contiene principalmente prolongaciones celulares y pocos somas neuronales. Tiene un carácter tintorial eosinófilo (adquiere color rosáceo en los cortes teñidos con hematoxilina-eosina). Su espesor aproximado es de unos 300 a 400 μm y su superficie se halla cubierta por la piamadre.
+
+
+===== Tipos neuronales =====
+
+Las neuronas de la corteza cerebelosa se clasifican en: neuronas principales o de proyección y las intrínsecas o interneuronas. Las principales son aquellas cuyos axones salen de la corteza para alcanzar los núcleos cerebelosos profundos o los núcleos vestibulares. Las intrínsecas son las que extienden sus axones exclusivamente por la corteza. También tenemos que tener en cuenta las fibras aferentes extrínsecas que llegan a la corteza, entre las que destacan las fibras musgosas y las trepadoras.
+Las neuronas principales o células de Purkinje cuya disposición, forma y tamaño son homogéneos en toda la corteza cerebelosa. Se ha calculado que en el cerebelo humano existen unos 30 millones ( 30 × 106)  de estas neuronas. Su soma tiene un diámetro de entre 40 y 80 μm (micrómetros). De la parte superior del cuerpo neuronal parte un grueso tronco dendrítico que se ramifica profusamente en ramas de primer, segundo y tercer orden, de forma que constituyen un denso árbol dendrítico característico de estas neuronas. Este árbol dendrítico se extiende por todo el espesor de la capa molecular, con la particularidad de que se arboriza prácticamente en un solo plano, perpendicular al eje transversal de la laminilla. De esta forma en secciones parasagitales se aprecia en toda su extensión las ramificaciones de estas neuronas, mientras que en secciones transversales se observa su arborización como unas pocas y estrechas ramas verticales. Las dendritas se hallan cubiertas de espinas, de modo que se ha calculado que cada célula de Purkinje puede tener de 30 000 a 60 000 espinas. De la parte inferior del soma se origina el axón que, cerca de su origen, se mieliniza, atraviesa la capa de células granulares y, tras emitir colaterales, ingresa en la sustancia blanca. Desde aquí los axones de las células de Purkinje se dirigen hacia los núcleos cerebelosos y vestibulares donde terminan. Las recurrentes axónicas vuelven a la capa de células de Purkinje en cuyas proximidades se arborizan formando los plexos supragangliónico e infragangliónico. Ultraestructuralmente, las células de Purkinje se caracterizan porque su soma muestra abundante retículo endoplásmico rugoso y un aparato de Golgi muy desarrollado. Tanto en el soma como en las dendritas y el axón aparecen frecuentemente cisternas membranosas aplanadas pertenecientes al retículo endoplásmico liso justo por debajo de las membrana (cisternas hipolemnales). Estas cisternas hipolemnales son características de este tipo celular, aunque puede hallarse algunas de ellas en otros tipos de neuronas de gran tamaño.
+Las neuronas intrínsecas se distribuyen por las capas granular y molecular. En la capa granular se encuentran tres tipos de células: las células granulares, las grandes células estrelladas —células de Golgi y de Lugaro— y las células monodendríticas o monopolares en penacho. En la capa molecular se hallan las células estrelladas pequeñas —células estrelladas y células en cesta—.
+Las células granulares o granos del cerebelo, son las neuronas de menor tamaño de todo el sistema nervioso humano y su soma mide de 5 a 8 μm de diámetro. Se hallan densamente empaquetadas en la capa granular. Son muy numerosas, calculándose que en el cerebelo humano hay unos 50 000 millones de estas neuronas. El soma no posee apenas grumos de Nissl y está ocupado casi por completo por el núcleo, que presenta cromatina densa, lo que provoca una gran cromofilia y es responsable del aspecto linfocitoide de la célula. Los cuerpos neuronales no están recubiertos de glía y se sitúan muy próximos entre sí pero sin presentar sinapsis. Del soma parten cuatro a seis dendritas cortas, de unos 30 μm de longitud, con un trayecto algo flexuoso y sin ramificaciones, que presentan en su interior neurotúbulos y neurofilamentos. Estas dendritas terminan en varias dilataciones que recuerdan a los dedos de una mano, que confluyen en los islotes protoplásmicos y mediante las cuales establece sinapsis con las fibras musgosas. Del soma, o de una de sus dendritas, parte el axón, amielínico en todo su trayecto, que asciende por la capa molecular siguiendo un trayecto ligeramente curvo. Una vez alcanzada la superficie de la capa molecular, el axón se ramifica en T dando origen a dos fibras denominadas fibras paralelas. Estas fibras paralelas llevan un trayecto transversal, es decir paralelo al eje de la laminilla y perpendicular a la arborización dendríticas de las células de Purkinje. Las fibras paralelas llegan a medir de 2 a 3 mm (milímetros) de longitud, lo que resulta extraordinario para una neurona con un soma tan pequeño. Normalmente, los granos más profundos son los que tienen los axones más gruesos y dan origen a las fibras paralelas más profundas. Mediante las fibras paralelas, las células granulares, hacen sinapsis en passant con las espinas dendríticas de las células de Purkinje, de forma que una sola células granular puede contactar con un número variable (50 a 100) de células de Purkinje y, a su vez, cada una de estas recibe impulsos de unas 200 000 a 300 000 fibras paralelas. Esta disposición recuerda a la de los postes y los cables de un tendido eléctrico. Además las fibras paralelas hacen también sinapsis "en passant" sobre las dendritas de las células de Golgi, las células en cesta y las estrelladas. Las células granulares reciben sus aferencias de las rosetas de las fibras musgosas y de los axones de las células de Golgi. Ambos tipos de terminales hacen sinapsis sobre las varicosidades digitiformes de las células granulares formando, en conjunto, lo que se denomina glomérulo cerebeloso.
+Bajo el nombre de grandes células estrelladas se incluyen a todas aquellas neuronas, distintas de los granos y de las células monodendríticas en penacho, que se sitúan en la capa granular.
+Las células de Golgi son de un tamaño algo menor a las células de Purkinje y su número es similar al de estas últimas neuronas. Su soma tiene forma estrellada y se halla preferentemente situado en la zona superficial de la capa de células granulares. Contiene abundantes grumos de Nissl y neurofibrillas, y un retículo endoplásmico liso y un aparto de Golgi casi tan ricos como los de la célula de Purkinje; en cambio, las cisternas hipolemnales son muy escasas. Presenta un núcleo escotado, con cromatina laxa y un prominente nucléolo excéntrico. Sus dendritas, en número de cuatro o cinco, parten en dirección horizontal o descendente, se incurvan y se dicotamizan adoptando en conjunto la forma de un ramillete no muy tupido, que se proyecta hacia la capa molecular. Las espinas dendríticas no son muy abundantes. A medida que nos alejamos del soma, las dendritas van disminuyen su contenido en orgánulos y en las regiones más distales solo hay haces de neurotúbulos y algo de retículo endoplásmico liso. A diferencia de la célula de Purkinje, el campo dendrítico de la célula de Golgi se dispone en las tres dimensiones y comprende un amplio territorio abarcando un área de unas 20 células de Purkinje. De la región basal de la célula o de uno de los troncos dendríticos principales parte un axón con forma de plexo ramificado, extraordinariamente denso, situado en la capa de células granulares. El plexo axónico de las células de Golgi presenta tres tipos básicos de arborización con una correspondencia funcional perfecta. En el primer tipo, el plexo axónico cubriría un campo similar al campo dendrítico; en el segundo tipo, el axón se extendería mucho más pero sin salirse de la laminilla; en el tercer tipo, se originan dos plexos, uno en la propia laminilla y otro en la vecina. El plexo axónico acaba en numerosos grupos de terminaciones arracimados que confluyen en los islotes protoplásmicos y hacen sinapsis con las dendritas de las células granulares. Las células de Golgi reciben sus aferencias de las fibras musgosas y las fibras trepadoras y, en menor proporción, de otras neuronas como las células granulares. Un tipo característico de sinapsis son las axo-somáticas formadas por una dilatación de las fibras musgosas que se incrusta en cuerpo de una célula de Golgi, quedando casi envuelta por su citoplasma.
+Las células de Lugaro no son tan conocidas ni están tan estudiadas como otros tipos neuronales del cerebelo. Se caracterizan por tener un gran soma fusiforme localizado justo por debajo de la capa de células de Purkinje. Tienen largas dendritas opositopolares rectilíneas o en abanico, que se extienden siguiendo un plano transversal y cubriendo un campo que alberga 1 o 2 hileras completas de células de Purkinje. Su axón se bifurca en un amplio plexo arrosariado que se extiende desde la zona superior de la capa granular hasta la superficie de la capa molecular, dispuesto en un plano sagital.
+Aparte de las células de Golgi y de Lugaro, hay otros tipos de células que también son grandes células estrelladas. Se trata de elementos aberrantes y, por lo tanto, muy infrecuentes y con escaso significado funcional. Son células de Golgi, células de Purkinje y neuronas de proyección de los núcleos profundos, en una situación ectópica.
+Las células monodendríticas en penacho son un nuevo tipo celular descrito recientemente. Se encuentran en la capa granular, presentan un soma esférico y un único tronco dendrítico que termina en una corta arborización en penacho.
+Las células estrelladas pequeñas pueden ser superficiales (células estrelladas) o profundas (células en cesta).
+Las células en cesta son un tipo especial de células estrelladas pequeñas a las que Cajal denominó «pequeñas estrelladas profundas». En el cerebelo humano, hay alrededor de 90 millones de células en cesta. Se caracterizan porque su soma tiene forma triangular o estrellada con unos 10 a 20 μm de diámetro y se sitúa en la mitad interna de la capa molecular justo por encima de las células de Purkinje. Tiene una núcleo lobulado y excéntrico, y su citoplasma posee unas pocos orgánulos concentradas en el polo opuesto al núcleo. Los grumos de Nissl y las cisternas hipolemnales son escasas, y el aparato de Golgi y el retículo endoplásmico liso están poco desarrollados. Sus dendritas pueden ser descendentes aunque lo normal es que asciendan hasta el tercio superior de la capa molecular, miden entre 100 y 200 μm de longitud, y se orientan en el mismo plano, aproximadamente, que las células de Purkinje. Las dendritas son rectilíneas, casi sin ramificaciones y con espinas, aunque mucho menos abundantes y más groseras que las de las células de Purkinje. Tienen abundantes neurotúbulos, neurofilamentos y retículo endoplásmico liso incluso en sus porciones más distales, y mitocondrias, retículo endoplásmico rugoso y aparato de Golgi en los principales tronco dendríticos. El axón, que puede alcanzar 1 mm (milímetro) de longitud, tras recorrer un trayecto horizontal en el plano sagital, aumenta de calibre, emite colaterales a la capa molecular y finaliza en una serie de terminales que rodean los somas de las células de Purkinje estableciendo numerosos contactos sinápticos. Estos terminales axónicos forman una especie de cesta -por lo que estas neuronas reciben su característico nombre- confluyendo sus extremos en la base del soma de la célula de Purkinje donde forman un pincel que rodea el segmento inicial del axón. Cada axón de una célula en cesta puede dar origen a unas diez cestas perisomáticas, mientras que varias células en cesta contribuyen a formar los nidos pericelulares de una célula de Purkinje. En contraposición a las otras neuronas del cerebelo, los campos axónicos de las células en cesta presentan una notable superposición. Las aferencias de las células en cesta provienen principalmente de las fibras trepadoras y paralelas, así como de células estrelladas, de colaterales del plexo supragangliónico de las células de Purkinje y de otras células en cesta.
+Dentro de las células estrelladas se distinguen varios tipos diferentes, aunque su morfología general es esencialmente similar en todas ellas. Su soma es estrellado o poligonal y se sitúa en la parte externa de la capa molecular. Tiene un núcleo con cromatina laxa y un citoplasma con escasos orgánulos. Su axón, después de un tramo inicial de 5 a 6 μm de longitud, se ramifica cerca del soma formando un plexo que termina haciendo sinapsis sobre diferentes zonas de la célula de Purkinje y sobre otras interneuronas. Sus dendritas se originan de cinco o seis troncos principales y se ramifican en el plano transversal formando un plexo varicoso provisto de espinas que se extiende por la capa molecular recibiendo sinapsis de las fibras paralelas y trepadoras además de otras células estrelladas y de células en cesta. Además hay otras células estrelladas que son algo más grandes y presentan un aspecto muy similar al de las células en cesta llegando a participar en la formación de las cestas perisomáticas aunque sin formar parte del pincel.
+
+
+===== Fibras extrínsecas =====
+Las fibras extrínsecas son los axones mielínicos aferentes que alcanzan la corteza cerebelosa desde otras regiones del sistema nervioso central. Las más importantes son las fibras musgosas y las trepadoras.
+Las fibras musgosas son gruesas fibras mielínicas que proceden de numerosas áreas del sistema nervioso como son el ganglio y núcleos vestibulares, la médula espinal, la formación reticular y los núcleos del puente. A través de estas fibras el cerebelo recibe información procedente de, prácticamente, todo el sistema nervioso incluida la corteza cerebral. Entran principalmente por los pedúnculos cerebelosos medio y superior, y dan colaterales para los núcleos profundos, distribuyéndose a continuación por toda la corteza cerebelosa. Las fibras musgosas al llegar a la capa granular siguen un trayecto tortuoso y se dividen en varias ramas que presentan dilataciones arborizadas y varicosas parecidas al musgo y denominadas rosetas o rosáceas. Cada fibra musgosa da origen a unas 20 rosetas que se localizan tanto en el curso de la fibra como en sus terminaciones y bifurcaciones. Estas rosetas hacen sinapsis sobre las dilataciones digitiformes de las células granulares y los axones de las células de Golgi, formando los denominados glomérulos cerebelosos. Además hacen sinapsis con el soma de las células de Golgi.
+Las fibras musgosas son gruesas, con abundantes neurotúbulos, neurofilamentos y mitocondrias. Están envueltas en una gruesa vaina de mielina en cuyos nodos de Ranvier se localizan las rosetas.
+Las fibras trepadoras son los axones de las neuronas de proyección del núcleo olivar inferior desde donde penetran en el cerebelo por el pedúnculo inferior. Una única neurona del núcleo olivar inferior da origen a unas diez fibras trepadoras. Tienen menor diámetro que las musgosas. Al llegar al cerebelo, estas fibras dan colaterales para los núcleos profundos y luego se distribuyen por toda la corteza cerebelosa donde pierden la mielina. Penetran en la capa granular en línea recta y sin varicosidades dando una o dos colaterales. Alcanzar la capa de células de Purkinje donde cada fibra se superpone a varias células de Purkinje ascendiendo sobre ellas a la vez que se ramifica. Hay una fibra trepadora por cada 5 a 10 células de Purkinje que realiza unas 300 sinapsis con cada neurona. El destino de las colaterales de la capa granular son las dendritas y los somas de las células de Golgi.
+Las fibras trepadoras en su porción más distal se hacen finas y amielínicas, con algunos neurofilamentos, pocas mitocondrias y abundantes sinapsis "en passant" con las dendritas de las células de Purkinje. También presentan unos botones muy densos y repletos de vesículas redondeadas que demuestran la existencia de sinapsis entre estas fibras y las dendritas de las células estrelladas y las células en cesta.
+Además de las musgosas y las trepadoras, la corteza cerebelosa recibe otras fibras nerviosas aferentes entre las que destacan las procedentes de locus caeruleus, que son noradrenérgicas y se distribuyen por las tres capas, y las que se originan en los núcleos del rafe, que envían serotonina a la capa de células granulares y a la capa molecular.
+
+
+===== Glia =====
+En la corteza cerebelosa predominan los astrocitos protoplásmicos entre los que destaca un tipo peculiar de astrocito denominado glia de Bergmann. El soma de esta célula tiene forma irregular y se halla entre las células de Purkinje desde donde parten de dos a tres prolongaciones con gruesas excrecencias protoplásmicas que se extienden por toda la capa molecular y alcanzan la piamadre. Una vez alcanzada la piamadre se adosan a ella mediante unos ensanchamientos que forman la capa limitante de Cajal. Otro tipo especial de astrocitos son las células de Fañanás cuyos somas se sitúan en la capa molecular y sus expansiones no alcanzan la piamadre. Tanto las células de Fañanás como la glia de Bergmann no presentan ninguna pecularidad ultraestructural, expresando ambas positividad para el anticuerpo de la proteína gliofibrilar ácida (GFAP).
+En la capa granular se pueden observar astrocitos protoplasmáticos que no aíslan todas las neuronas y que parecen formar círculos alrededor de los glomérulos cerebelosos. Así mismo, existen oligodendrocitos en la capa molecular pero no en la granular.
+
+
+==== Núcleos profundos ====
+
+En el interior de la sustancia blanca podemos encontrar 4 pares de núcleos de sustancia gris, que de medial a lateral son: el núcleo del fastigio (o del techo), el globoso, el emboliforme y el dentado. El emboliforme y el globoso está muy relacionados funcionalmente y en conjunto forman el núcleo interpuesto. Los núcleos vestibulares del bulbo raquídeo también funcionan en ciertos aspectos como si fueran núcleos cerebelosos profundos debido a sus conexiones directas con la corteza del lóbulo floculonodular.
+El núcleo del fastigio es una masa gruesa con forma de cometa, ubicada casi en la línea media, justo por encima del techo del IV ventrículo del cual está separado por una delgada capa de sustancia blanca. El núcleo globoso es alargado en sentido anteroposterior y se sitúa entre el núcleo del fastigio y el emboliforme. El núcleo emboliforme tiene forma de coma, con la parte gruesa dirigida hacia delante y se sitúa junto al hilio del núcleo dentado.
+El núcleo dentado es el de mayor tamaño y se ha calculado que tiene unas 250 000 neuronas. Es de color gris amarillento y tiene forma de bolsa con pliegues abierta hacia delante y hacia la línea media. La abertura se denomina hilio del núcleo dentado y por él salen la mayor parte de las fibras que forman el pedúnculo cerebeloso superior. En el núcleo dentado se distinguen al menos dos tipos de neuronas: las grandes o de proyección y las pequeñas o interneuronas. Pero los circuitos sinápticos de este núcleo no están claramente establecidos. Tanto las neuronas de proyección como las interneuronas tienen prolongaciones no muy numerosas, largas y poco ramificadas, que les dan un aspecto general estrellado.
+El núcleo dentado, como el resto de los núcleos cerebelosos, además de recibir colaterales de fibras que desde otros centros nerviosos llegan al cerebelo, reciben los axones de las células de Purkinje. Cada uno de estos axones finaliza en un dilatado plexo terminal sobre unas 30 neuronas de los núcleos cerebelosos. Los axones de las neuronas de proyección se dirigen a través de los pedúnculos hacia centros nerviosos específicos. No hay conexiones directas de la corteza cerebelosa con el exterior, excepto por algunos axones de las células de Purkinje que alcanzan directamente los núcleos vestibulares.
+
+
+==== Sustancia blanca ====
+En un corte sagital del cerebelo, la sustancia blanca adopta una disposición arborescente por lo que a veces se la conoce como árbol de la vida del cerebelo o arbor vitae. Está formada por una masa voluminosa central, denominada cuerpo o centro medular, de la que parten prolongaciones hacia las circunvoluciones del cerebelo denominadas láminas blancas. El cuerpo medular se continúa hacia delante directamente con los pedúnculos, que también están constituidos de sustancia blanca.
+Desde el punto de vista histológico, la sustancia blanca del cerebelo está constituida por axones junto con astrocitos fibrosos y abundantes oligodendrocitos productores de la envoltura mielínica. Los axones de la sustancia blanca son tanto fibras eferentes y aferentes como fibras intrínsecas que conectan diferentes áreas corticales entre sí. Las fibras aferentes de la corteza corresponden a axones de las células de Purkinje mientras que las de los núcleos profundos corresponden a axones de las neuronas de proyección de dichos núcleos. Las aferencias corresponden a las fibras musgosas, las trepadoras y las que provienen de los sistemas noradrenérgico y serotoninérgico. Entre las fibras intrínsecas o propias se distinguen dos tipos: las fibras comisurales y las arqueadas o de asociación. Las comisurales cruzan la línea media y conectan las mitades opuestas del cerebelo mientras que las arquedas conectan circunvaluciones cerebelosas adyacentes entre sí.
+
+
+==== Sustancia gris ====
+La sustancia gris (o materia gris) corresponde a aquellas zonas del sistema nervioso central de color grisáceo integradas principalmente por somas neuronales y dendritas carentes de mielina junto con células gliales (neuroglia). En la médula espinal se aprecia en su centro y hacia los laterales, en forma de mariposa o letra H, mientras que en el cerebro ocupa la zona externa, con excepción de los internos ganglios basales que sirven como estaciones de relevo. En el cerebro se dispone en su superficie y forma la corteza cerebral, que corresponde a la organización más compleja de todo el sistema nervioso. Esta tiene unas funciones de regular, controlar y modular el funcionamiento del impulso motor.
+
+
+=== Conexiones cerebelosas ===
+
+Al cerebelo llegan aferencias de todas las vías motoras y de todas las sensitivas, incluyendo la olfatoria[34]​ y de él parten eferencias para controlar todas las vías motoras descendentes. Las eferencias no suelen hacer sinapsis directamente sobre las motoneuronas de la vía final común excepto en las de los músculos extrínsecos del globo ocular. Las eferencias normalmente actúan sobre los núcleos motores del tronco del encéfalo. El número de fibras aferentes cerebelosas es más de 40 veces superior al de fibras eferentes. Todas las conexiones del cerebelo pasan por los pedúnculos.
+A continuación se expondrán las principales conexiones que establece el cerebelo ordenadas siguiendo su división funcional. Hay que tener en cuenta que las fibras aferentes, al contrario que las eferentes, no terminan sobre la corteza cerebelosa siguiendo de manera estricta la división funcional.
+
+
+==== Aferencias del vestíbulocerebelo ====
+Mayoritariamente provienen del sistema vestibular mediante dos tractos: el vestibulocerebeloso directo o de Edinger y el vestíbulocerebeloso indirecto. También recibe algunas fibras del tracto corticopónticocerebeloso que provienen de la corteza visual del lóbulo occipital (fibras occipitopónticocerebelosas).
+El tracto vestibulocerebeloso directo o de Edinger está formado por los axones de las neuronas localizadas en el ganglio vestibular o de Scarpa, que llegan preferentemente al nódulo y algunas a la banda vermiana. No pasa por los núcleos vestibulares, no se decusa en su trayecto y entra directamente por el pedúnculo inferior. Transmite información sobre la posición de la cabeza y las aceleraciones lineales y angulares que sufre el cuerpo.
+El tracto vestibulocerebeloso indirecto está formado por los axones de las neuronas asentadas en los núcleos vestibulares superior y medial, que van a terminar en los flóculos y, en menor medida, en la banda vermiana. No se decusa en su trayecto y entra por el pedúnculo inferior. Transmite información sobre la posición de la cabeza y las aceleraciones lineales y angulares que sufre el cuerpo.
+
+
+==== Eferencias del vestíbulocerebelo ====
+Los principales tractos de fibras que parten del vestíbulocerebelo son: el cerebelovestibular, el floculooculomotor y el uncinado de Russell.
+El tracto cerebelovestibular está formado por fibras directas y cruzadas que se origina en los flóculos y que salen del cerebelo por el pedúnculo inferior para alcanzar los núcleos vestibulares medial y lateral. Regula la actividad de los tractos vestibuloespinales medial y lateral.
+El tracto floculoculomotor se origina en los flóculos, se decusa en pleno cerebelo, sale por el pedúnculo superior y asciende por el tronco del encéfalo hasta llegar al núcleo del nervio oculomotor (o motor ocular común). Controla los movimientos del globo ocular.
+El tracto uncinado de Russell se origina en los flóculos, se cruza y se dirige cranealmente hacia el pedúnculo cerebeloso superior. Pero antes de alcanzar ese pedúnculo, cambia bruscamente de dirección formando una especie de gancho y termina saliendo por el inferior. Acaba en los núcleos vestibulares. En su trayecto en el cerebelo emite colaterales que salen por el pedúnculo superior y alcanzan los núcleos de los nervios motores oculares, la formación reticular y el hipotálamo. Controla los movimientos del globo ocular y la actividad de los tractos vestíbuloespinales.
+
+
+==== Aferencias del espinocerebelo ====
+Las aferencias del espinocerebelo proceden de tres zonas del neuroeje: la médula espinal, el bulbo raquídeo y el mesencéfalo.
+A nivel de la médula espinal las aferencias llegan por medio de los tractos espinocerebelosos posterior y anterior. Estos tractos son capaces de transmitir impulsos nerviosos más rápido que cualquier otra vía del SNC alcanzando una velocidad de 120 m/s (metros por segundo). Esta rapidez es necesaria para que llegue al cerebelo la información sobre los cambios ocurridos en los grupos musculares periféricos y poder coordinarlos a tiempo.
+El tracto espinocerebeloso anterior (ventral) o de Gowers se origina en la médula, en neuronas que se asientan en la zona lateral de la base del asta posterior, entre los últimos segmentos lumbares y los sacrococcígeos. Algunas de sus fibras cruzan la comisura gris para ascender por el cordón lateral del lado contrario, donde se sitúa próximo a la superficie medular. Las pocas fibras que no se cruzan ascienden por el cordón lateral del mismo lado. Todas sus fibras atraviesan el bulbo y el puente, y llegan hasta la zona más caudal del mesencéfalo donde cambian bruscamente de dirección para entrar al cerebelo por el pedúnculo superior. Alcanza el vermis y las bandas paravermianas de ambos lados. Transmite información propioceptiva inconsciente y exterioceptiva de la extremidad inferior.
+El tracto espinocerebeloso posterior (dorsal) o de Flechsing está formado por axones de neuronas cuyo soma se localiza en la columna torácica o núcleo de Stilling-Clarke. Asciende por el cordón lateral pegado a la superficie y justo por detrás del tracto espinocerebeloso anterior. Al alcanzar el bulbo penetra en el cerebelo por el pedúnculo inferior y llega hasta el vermis y la banda paravermiana del mismo lado de su origen. Transmite información propioceptiva inconsciente y exteroceptiva procedente del tronco y la extremidad inferior.
+A nivel del bulbo raquídeo las aferencias llegan por medio de los tractos cuneocerebeloso, olivocerebeloso y reticulocerebeloso.
+El tracto cuneocerebeloso está formado por los axones de las neuronas que asientan en el núcleo cuneiforme accesorio (fibras arqueadas externas posteriores). Asciende por el bulbo raquídeo sin decusarse y mezclado con el tracto espinocerebeloso posterior. Entra por el pedúnculo cerebeloso inferior y acaba en el vermis y en la banda paravermiana del mismo lado. Transmite la sensibilidad propioceptiva inconsciente y exteroceptiva de la mitad superior del cuerpo.
+El tracto olivocerebeloso es la conexión más importante que se establece entre bulbo raquídeo y cerebelo. Está formado por axones de las neuronas del núcleo olivar inferior y de los núcleos olivares accesorios. Estos núcleos reciben información somatoestésica, visual y de la corteza cerebral además de recibir aferencias vestibulares y del propio cerebelo. Al poco de originarse, el tracto olivocerebeloso se decusa totalmente y entra en el cerebelo por el pedúnculo inferior. Termina proporcionando fibras trepadoras para toda la corteza cerebelosa. Transmite al cerebelo la información recibida por los núcleos olivares.
+El tracto reticulocerebeloso está formado por axones de neuronas localizadas en la formación reticular bulbar y póntica. Parte de las fibras se cruzan y otra parte van directas. Entra por el pedúnculo cerebeloso inferior y alcanza principalmente el espinocerebelo aunque también manda algunas fibras para el cerebrocerebelo. Transmite información compleja, tanto de la periferia como de la corteza cerebral y otras partes del sistema nervioso central.
+A nivel del mesencéfalo las aferencias llegan por medio de los tractos tectocerebeloso, trigeminocerebeloso y rubrocerebeloso.
+El tracto tectocerebeloso está formado por los axones de las neuronas de los tubérculo cuadrigéminos superiores e inferiores. Entran en el cerebelo a través del pedúnculo superior del mismo lado y terminan en la parte media del vermis. Transmite información visual y acústica proveniente de la corteza cerebral.
+El tracto trigeminocerebeloso está formado por axones de neuronas del núcleo mesencefálico del nervio trigémino que entran al cerebelo a través del pedúnculo superior sin decusarse por el camino. Terminan en el vermis y en la banda vermiana del mismo lado de su origen. Transmite información propioceptiva del macizo craneofacial.
+El tracto rubrocerebeloso está formado por axones de neuronas asentadas la porción parvocelular del núcleo rojo que se decusan en su totalidad antes de alcanzar el cerebelo por el pedúnculo superior.
+
+
+==== Eferencias del espinocerebelo ====
+Las principales referencias que parten del espinocerebelo son: el tracto interpuestorreticular, el tracto interpuestoolivar, el tracto interpuestotectal y el tracto interpuestorrúbrico.
+El tracto interpuestorreticular se origina en el núcleo interpuesto, sus fibras se decusan parcialmente y salen del cerebelo por los pedúnculos inferiores para alcanzar los núcleos de la formación reticular.
+El tracto interpuestoolivar sale por el pedúnculo cerebeloso superior, se decusa en su totalidad a nivel del mesencéfalo y desciende por el tronco del encéfalo para alcanzar el núcleo olivar inferior.
+El tracto interpuestotectal se decusa parcialmente antes de salir por el pedúnculo cerebeloso superior y ascender por el tronco del encéfalo hasta alcanzar los tubérculos cuadrigéminos superior e inferiores.
+El tracto interpuestorrúbrico es la eferencia más importante del espinocerebelo y principal vía de descarga del núcleo interpuesto. Las fibras que lo conforman salen del cerebelo por el pedúnculo superior, se decusan en su totalidad en el mesencéfalo y alcanzan el núcleo rojo contralateral. Desde el núcleo rojo parten axones hacia el núcleo ventral intermedio del tálamo que, a su vez, envía axones para la corteza cerebral motora y sensorial. Controla la actividad de las vías motoras que descienden hasta la médula espinal.
+
+
+==== Aferencias del cerebrocerebelo ====
+Todas las aferencias que recibe el cerebrocerebelo forman parte del tracto corticoponticocerebeloso. Este tracto se origina en una amplia zona de la corteza cerebral que abarca los lóbulos frontal, parietal, occipital y temporal, y antes de entrar en el cerebelo hace sinapsis en los núcleos del puente.
+La mayoría de las fibras que van desde la corteza hacia los núcleos del puente son colaterales de axones que se dirigen hacia otras zonas del encéfalo o hacia la médula espinal y cuyo cuerpo neuronal se sitúa en la capa V del cortex cerebral. Estas fibras se pueden dividir, según su origen, en: frontopónticas, parietopónticas, occipitopónticas y temporopónticas.
+Las fibras frontopónticas se originan en las cortezas motora y premotora, y pasan por el brazo anterior de la cápsula interna. En el mesencéfalo, discurren por la base de los pedúnculos cerebrales medialmente al tracto corticonuclear. Terminan en los núcleos del puente más mediales.
+Las fibras parietopónticas se originan en las áreas somatosensitivas primaria y secundaria y en áreas visuales. Pasan por el brazo posterior de la cápsula interna y luego por la base de los pedúnculos cereberales lateralmente al tracto corticoespinal. Terminan en los núcleos del puente más laterales.
+Las fibras occipitopónticas se originan en áreas secundarias relacionadas con el procesamiento de estímulos visuales del movimiento (corriente magnocelular de la vía óptica). Pasan por la porción retrolenticular de la cápsula interna y luego por la base de los pedúnculos cereberales lateralmente al tracto corticoespinal. Terminan en los núcleos del puente más laterales.
+Las fibras temporopónticas pasan por la porción sublenticular de la cápsula interna y a nivel del mesencéfalo se colocan lateralmente al tracto corticoespinal. Termina en los núcleos del puente más laterales.
+Las fibras que van desde los núcleos del puente al cerebelo (fibras pontocerebelosas) siguen un trayecto horizontal por la protuberancia, se decusan y entran por el pedúnculo medio. Terminan en la corteza de los hemisferios y en el núcleo globoso.
+
+
+==== Eferencias del cerebrocerebelo ====
+La mayoría de las eferencias del cerebrocerebelo salen por el tracto dentadotalámico. Este tracto está formado por los axones de las neuronas localizadas en el núcleo dentado, que salen del cerebelo por el pedúnculo superior. Se decusan en la porción caudal del mesencéfalo (decusación de Wernekink) y terminan en el núcleo ventral intermedio del tálamo. Desde el tálamo parten fibras tálamocorticales que alcanzan las mismas áreas de la corteza cerebral de las que partieron las aferencias corticoponticocerebelosas.
+Existe un grupo de fibras denominadas dentadorrúbricas, que partiendo del núcleo dentado salen por el pedúnculo cerebeloso superior, se decusan y alcanzan el núcleo rojo contralateral.
+
+
+==== Aferencias procedentes de los sistemas monoaminérgicos ====
+El cerebelo, al igual que otras partes del SNC, recibe fibras de los sistemas neuroquímicos moduladores. Concretamente de dos de los sistemas monoaminérgicos: el noradrenégico y el serotoninérgico.
+El sistema noradrenérgico manda el tracto caeruleocerebeloso desde el grupo A6 (que coincide con el locus caeruleus) hacia el cerebelo. Este tracto penetra por el pedúnculo superior y termina distribuido por todos los núcleos y la corteza. Sus fibras no se comportan como fibras musgosas ni como trepadoras sino como proyecciones difusas.
+El tracto serotoninérgico cerebeloso se origina en los grupos B5 y B6, entra por el pedúnculo medio y termina distribuido por todos los núcleos y la corteza. Sus fibras acaban en proyecciones difusas.
+
+
+=== Pedúnculos ===
+
+El cerebelo se fija a la cara posterior del tronco del encéfalo mediante 3 pares de pedúnculos por los que discurren todas las fibras nerviosas que entran y salen de él. Hay dos pedúnculos inferiores, dos pedúnculos medios y dos pedúnculos superiores.
+
+
+==== Pedúnculos cerebelosos inferiores ====
+Los pedúnculos cerebelosos inferiores o cuerpos restiformes conectan el cerebelo con la parte superior del bulbo raquídeo. Entre ellos se extiende el velo medular inferior. Por ellos entran las fibras del tracto espinocerebeloso dorsal, las del tracto cuneocerebeloso, las de los tractos vestibulocerebelosos, las del tracto reticulocerebeloso y las fibras trepadoras provenientes del núcleo olivar inferior y accesorios (tracto olivocerebeloso). A través de ellos salen las fibras del tracto cerebelovestibular, las del tracto uncinado de Russell y las del tracto interpuestorreticular.
+
+
+==== Pedúnculos cerebelosos medios ====
+
+Los pedúnculos cerebelos Coronal view at the level of the middle cerebellar peduncles of the floor of the fourth ventricle.os medios o pontinos conectan el cerebelo con la protuberancia o puente. Son los más grandes y están separados de los pedúnculos superiores por el surco interpeduncular. Constituyen las caras laterales de la protuberancia. Por ellos entran las fibras del tracto corticopontocerebeloso y las del tracto serotoninérgico cerebeloso. A través de ellos no salen fibras eferentes importantes.
+Las fibras de los pedúnculos medios se organizan en tres fascículos: superior, inferior y profundo.
+El fascículo superior, el más superficial, deriva de las fibras transversales superiores de la protuberancia. Se dirige dorsal y lateralmente, cruzando superficialmente a los otros dos fascículos. Se distribuye principalmente por los lobulillos de la cara inferior de los hemisferios cerebelosos y por las porciones adyacentes de la cara superior.
+El fascículo inferior está constituido por las fibras transversales inferiores de la protuberancia. Pasa profundamente al fascículo superior y se continúa hacia atrás y hacia abajo más o menos paralelo a él. Se distribuye por los lobulillos de la cara inferior en las porciones cercanas al vermis.
+El fascículo profundo incluye la mayor parte de las fibras transversas profundas de la protuberancia. En sus primeros tramos está cubierta por los fascículos inferior y superior, pero termina por cruzarse oblicuamente y aparece al lado medial del fascículo superior, de quien recibe un paquete de fibras. Sus fibras se disgregan y acaban en los lobulillos de la parte anterior del cara superior. Las fibras de este fascículo cubren a las del cuerpo restiforme.
+
+
+==== Pedúnculos cerebelosos superiores ====
+
+Los pedúnculos cerebelosos superiores conectan el cerebelo con el mesencéfalo. Entre estos dos pedúnculos se extiende el velo medular superior. Por ellos entran las fibras del tracto espinocerebeloso ventral, las del tracto tectocerebeloso, las del tracto trigeminocerebeloso, las del tracto rubrocerebeloso y las del tracto caeruleocerebeloso. A través de ellos salen las fibras del tracto floculooculomotor, las del interpuestoolivar, las del interpuestorrúbrico, las del interpuestotectal, las del tracto dentadotalámico, las dentadorrúbricas y las colaterales del uncinado de Russell.
+
+
+=== Pedúnculos cerebelosos superiores arterial ===
+
+Hay tres pares de arterias principales que irrigan el cerebelo: las arterias cerebelosas superiores (SCA), las arterias cerebelosas inferoanteriores (AICA) y las arterias cerebelosas inferoposteriores (PICA).
+
+
+==== Arteria cerebelosa superior ====
+Se origina de la arteria basilar justo por debajo del lugar donde esta se divide en sus dos ramas terminales. Se dirige lateralmente y hacia atrás contorneando el pedúnculo cerebeloso correspondiente, a la altura del surco pontomesencefálico. Pasa inmediatamente por debajo del nervio motor ocular común (III) y atraviesa la cisterna ambiens acompañando al nervio troclear (IV). Sus ramas terminales discurren por la piamadre, entre la tienda del cerebelo y la cara superior del cerebelo. Se anastomosa con las arterias cerebelosas inferiores. Irriga la corteza cerebelosa de la cara superior y los núcleos profundos, así como los pedúnculos cerebeloso superiores y medios.
+Cuando contornea el mesencéfalo, la arteria cerebelosa superior da la arteria romboidal que sigue el pedúnculo cerebeloso superior y penetra en el interior del cerebelo para irrigar a los núcleos profundos. También da varias ramas colaterales que llegan hasta la glándula pineal, el velo medular superior y la tela coroidea del III ventrículo.
+
+
+==== Arteria cerebelosa anteroinferior ====
+Se origina de la arteria basilar justo por encima del lugar donde esta se forma por la unión de las dos arterias vertebrales. Se dirige lateralmente y hacia atrás, contorneando la cara lateral del puente justo por debajo del origen aparente del nervio trigémino (V). Sigue su trayecto por el borde inferior del pedúnculo cerebeloso medio. Irriga la porción anterior de la cara inferior del cerebelo, así como los nervios facial (VII) y vestibulococlear (VIII). Sus ramas terminales se anastomosan con las de las arterias cerebelosas inferoposterior y superior.
+En algunas personas, la arteria cerebelosa inferior emite la arteria laberíntica o auditiva interna (en otras personas la arteria laberíntica se origina en la arteria basilar). Esta rama acompaña al nervio vestíbulococlear (VIII) a través del conducto auditivo interno hasta alcanzar el oído medio.
+
+
+==== Arteria cerebelosa posteroinferior ====
+Se origina de las arterias vertebrales justo por debajo del lugar donde estas se unen para formar la arteria basilar. Se dirige hacia atrás rodeando la parte superior del bulbo raquídeo y pasando entre el origen del nervio vago (X) y el nervio accesorio (XI). Sigue su trayecto sobre el pedúnculo cerebeloso inferior y cuando alcanza la cara inferior del cerebelo se divide en dos ramas terminales: una medial y otra lateral. La rama medial se continúa hacia atrás por la cisura media, entre los dos hemisferios cerebelosos. La rama lateral se distribuye por la superficie inferior de los hemisferios hasta llegar al borde circunferencial, donde se anastomosa con las arterias cerebelosas inferoanterior y superior.
+Irriga la parte posterior de la cara inferior del cerebelo, el pedúnculo cerebeloso inferior, el núcleo ambiguo, el núcleo motor del nervio vago, el núcleo espinal del nervio trigémino, el núcleo solitario, los núcleos vestibulares y los núcleos cocleares.
+Sus ramas colaterales más importantes son la rama coroidea del IV ventrículo y las ramas bulbares medial y lateral. La primera contribuye al plexo coroideo del IV ventrículo, y las otras dos irrigan el bulbo raquídeo y el pedúnculo cerebeloso inferior.
+
+
+=== Drenaje venoso ===
+Las principales venas que drenan la sangre del cerebelo son: las venas superiores del cerebelo, la vena superior del vermis, la vena precentral del cerebelo, las venas inferiores del cerebelo, la vena inferior del vermis y las venas petrosas. Todas ellas terminan por enviar la sangre a senos venosos de la duramadre.
+Las venas superiores del cerebelo recogen la sangre de la porción lateral de la cara superior de los hemisferios cerebelosos y normalmente desembocan en el seno transverso.
+La vena superior del vermis recoge la sangre del vermis superior y desemboca en el seno recto a través de la vena cerebral interna o la vena cerebral magna (vena de Galeno).
+La vena precentral del cerebelo recoge la sangre de la língula y del lobulillo central, y desemboca en la vena cerebral magna.
+Las venas inferiores del cerebelo recogen la sangre de la porción lateral de la cara inferior de los hemisferios cerebelosos y desembocan en los senos transverso, occipital y petroso superior.
+La vena inferior del vermis recoge la sangre del vermis inferior y desemboca directamente en el seno recto.
+Las venas petrosas recogen la sangre de la región del flóculo y desembocan en el seno petroso inferior o en el superior.
+
+Sistematización de las caras del cerebelo
+superior lóbulo occipital
+anterior tallo cerebral
+posterior protuberancia occipital interna bordes laterales
+inferior fosa cerebelosa
+lingula espino-talámico-dorsal vía propioseptiva inconsciente del dolor brazos y piernas
+
+
+== Circuitos neuronales ==
+En conjunto, las conexiones neuronales del cerebelo se pueden dividir en: axones aferentes, que transmiten la información de otras partes del SNC al cerebelo; circuitos cerebelosos intrínsecos —corticales y nucleares—, que integran y procesan la información; y axones eferentes, que transmiten la información procesada a otras partes del SNC.
+Los axones o fibras aferentes alcanzan la corteza cerebelosa tras dar colaterales para los núcleos cerebelosos profundos o para los núcleos vestibulares. A su vez, la información es procesada en los circuitos intrínsecos de la corteza cerebelosa, y el resultado, en forma de impulsos nerviosos, es enviado por los axones de las células de Purkinje a los núcleos profundos. En estos núcleos la información también se procesa y de ellos parten las fibras eferentes del cerebelo tanto en dirección ascendente, hacia el tálamo y corteza, como descendente, hacia la médula espinal.
+De esta forma el circuito funcional básico del cerebelo que constituido por dos arcos: uno principal o excitador, que pasa por los núcleos profundos, y otros secundario o inhibidor, que pasa por la corteza y regula al anterior. Este circuito se repite unas 30 millones de veces en todo el cerebelo y está formado por una sola célula de Purkinje y la neurona nuclear de proyección correspondiente más las interneuronas relacionadas con ellas.
+El circuito funcional básico y los elementos celulares que lo conforman son idénticos en todas las partes del cerebelo, por este motivo se considera que la información se procesa de forma similar en todo el cerebelo.
+
+
+=== Circuitos neuronales de los núcleos profundos: arco principal ===
+El arco principal está constituido por las ramas colaterales de las fibras musgosas y trepadoras, que terminan en las neuronas de los núcleos profundos. Los axones de las neuronas de proyección de los núcleos profundos salen del cerebelo a través de los pedúnculos para terminar en diferentes núcleos del tronco del encéfalo y en el tálamo.
+En los núcleos profundos se encuentran principalmente sinapsis axodendríticas y algunas axosomáticas, aunque también existen disposiciones más complejas como sinapsis en serie y tríadas. La sinapsis más frecuente es la sinapsis axodendrítica excitadora que se establece entre un terminal de las colaterales axónicas de las fibras musgosas o trepadoras —como elemento presináptico— y una dendrita de una neurona de proyección o una interneurona de los núcleos profundos —elemento postsináptico—. Las colaterales de las fibras musgosas y las fibras trepadoras usan como neurotransmisor principal el glutamato, aunque también pueden utilizar otros neurotransmisores (en espacial las fibras musgosas). Los circuitos sinápticos que se realizan entre las propias neuronas de los núcleos profundos son poco conocidos.
+Desde el punto de vista funcional, los núcleos profundos del cerebelo poseen dos tipos básicos de neurona de proyección: unas neuronas gabaérgicas (inhibidoras) y pequeñas que mandan su axón hacia el núcleo olivar inferior, y otras neuronas glutaminérgicas (excitadoras) que mandan sus axones a otros centros nerviosos.
+Las neuronas de proyección de los núcleos profundos en condiciones normales disparan permanentemente potenciales de acción a una frecuencia de más de 100 por segundo. Esta frecuencia puede modularse al alza o a la baja dependiendo de las señales excitadoras e inhibidoras que le lleguen a la neurona. Las señales excitadoras provienen principalmente de las colaterales axónicas de las fibras musgosas y trepadoras, mientras que las señales inhibidoras provienen de los axones de las células de Purkinje, que forman parte del arco secundario. El equilibrio entre estos dos efectos es ligeramente favorable a la excitación, lo que explica por qué la frecuencia de descargas de las neuronas de proyección se mantiene relativamente constante a un nivel moderado de estimulación continúa.
+
+
+=== Circuitos neuronales de la corteza cerebelosa: arco secundario ===
+El arco secundario pasa a través de la corteza cerebelosa y está constituido en torno a una pieza neural fundamental: la célula de Purkinje. En la célula de Purkinje terminan dos tipos de circuitos: los circuitos excitadores o principales, que son los que la estimulan, y los circuitos inhibidores, formados por interneuronas inhibidoras. Finalmente, los axones de las células de Purkinje se proyectan sobre las neuronas de los núcleos cerebelosos y vestibulares, ejerciendo sobre ellos una acción inhibitoria mediante sinapsis gabaérgicas. De esta forma se modula y regula el arco principal excitador.
+A todo esto hay que añadir que las terminaciones noradrenérgicas que llegan al cerebelo liberan un neurotransmisor de forma difusa que produce una hiperpolarización de las células de Purkinje.
+
+
+==== Circuitos excitadores ====
+Las células de Purkinje pueden ser estimuladas por dos vías distintas: mediante las fibras trepadoras (vía directa) o mediante las fibras musgosas (vía indirecta).
+Las fibras trepadoras, al terminar sobre el soma y el árbol dendrítico de las células de Purkinje, producen una estimulación directa y muy específica mediante sinapsis tipo I de Gray que utilizan como neurotransmisor el glutamato. Al formar múltiples contactos con cada célula de Purkinje, una sola fibra trepadora produce una acción excitadora mucho más eficaz que las fibras musgosas.
+Las fibras musgosas no actúan de forma directa sobre las células de Purkinje sino que lo hacen a través de unas interneuronas excitatorias, las células granulares. La presencia de interneuronas excitatorias es muy infrecuente en el sistema nervioso y es característica de la corteza cerebelosa. A nivel del glomérulo cerebeloso, las fibras musgosas hacen sinapsis tipo I de Gray (excitadoras) sobre las dendritas de las células granulares y los impulsos son vehiculados por las fibras paralelas hasta alcanzar las dendritas de las células de Purkinje. Las fibras paralelas presentan sinapsis que contienen vesículas esféricas con glutamato y conformación tipo I de Gray, lo que concuerda con su carácter excitador. En conjunto, las fibras musgosas actúan sobre las células de Purkinje con mucha convergencia y divergencia, estableciendo conexiones más inespecíficas que las fibras trepadoras.
+Las células de Purkinje no cumplen el principio que dice que todos los potenciales de acción producidos por una neurona son iguales porque presenta dos tipos de potenciales de acción distintos dependiendo de la vía por la cual sean estimuladas. Si se estimulan de manera directa a través de las fibras trepadoras, generan una despolarización prolongada y un potencial de acción de pico complejo con una frecuencia de descarga de 3 o 4 Hz. Al ser estimuladas por la vía indirecta a través de las fibras musgosas generan un potencial de acción breve denominado pico sencillo, con una frecuencia de descarga de 100 a 200 Hz. Para generar un pico sencillo es necesaria la suma temporal y espacial de la estimulación producida por varias fibras paralelas. Todo esto demuestra que la información aportada por los dos tipos de fibras extrínsecas que llegan al cerebelo es diferente y es procesada de manera distinta.
+
+
+==== Circuitos inhibidores ====
+Los circuitos inhibidores están constituidos por los tres tipos fundamentales de interneuronas inhibitorias: las células de Golgi, las células estrelladas y las células en cesta. Pueden actuar directamente sobre las células de Purkinje —como lo hacen las células estrelladas y las células en cesta— o indirectamente a través de las células granulares —como lo hacen las células de Golgi—. Todas estas interneuronas utilizan GABA como neurotransmisor inhibidor.
+Las células estrelladas y las células en cesta son estimuladas por las fibras paralelas de los granos, que previamente han sido estimuladas por las fibras musgosas, y son las encargadas de modular la activación de las células de Purkinje por las fibras trepadoras produciendo un fenómeno de inhibición lateral. Esta inhibición lateral hace más precisa la señal que llega a las células de Purkinje de la misma manera que otros mecanismos de inhibición lateral acentúan el contraste de las señales en otros muchos circuitos neuronales de sistema nervioso.
+Las células de Golgi reciben estímulos excitatorios de las fibras paralelas y, en menor cantidad, de las fibras trepadoras y musgosas. Actúan a nivel de los glomérulos cerebelosos haciendo sinapsis tipo II de Gray (inhibitaria) sobre las dendritas de las granos. Mediante estas sinapsis modulan la activación de las células granulares por las fibras musgosas y, por consiguiente, regulan la actividad de las células de Purkinje. De esta forma, las células de Golgi crean un circuito de retroalimentación negativa para las células granulares.
+
+
+=== Señales de salida ===
+
+
+=== Depresión a largo plazo de las células de Purkinje: aprendizaje motor ===
+
+
+== Teorías sobre la función cerebelosa ==
+
+
+=== Modelado de la función cerebelosa ===
+
+
+== Patología ==
+Clásicamente las lesiones del cerebelo se manifiestan clínicamente por:
+
+Hipotonía: Se caracteriza por una resistencia disminuida a la palpación o manipulación pasiva de los músculos; por lo general, se acompaña de reflejos osteotendinosos disminuidos y de tipo pendular, junto a un llamativo fenómeno de rebote en la prueba de Stewart-Holmes.
+Ataxia o descoordinación de los movimientos voluntarios: La alteración de la coordinación de los movimientos voluntarios da lugar a la aparición de hipermetría, asinergia, discronometría y adiadococinesia. En las pruebas cerebelosas (dedo-nariz o talón-rodilla), la velocidad y el inicio del movimiento no se encuentran afectos, pero cuando el dedo o el talón se aproximan a la nariz o la rodilla, sobrepasan su destino o corrigen la maniobra excesivamente (hipermetría). La asinergia consiste en una descomposición del movimiento en sus partes constituyentes.
+Todos estos trastornos se observan mejor cuanto más rápidamente se ejecutan las maniobras. La adiadococinesia indica una dificultad o la imposibilidad para ejecutar movimientos alternativos rápidos (prueba de las marionetas).
+
+Alteración del equilibrio y de la marcha: la alteración de la estática provoca inestabilidad en ortostatismo, por lo que el paciente debe ampliar su base de sustentación (separa los pies); al permanecer de pie y al andar su cuerpo presenta frecuentes oscilaciones. A diferencia de los trastornos vestibulares, estas alteraciones no se modifican al cerrar los ojos. La marcha es característica y semeja la de un borracho (marcha de ebrio), titubeante, con los pies separados y desviándose hacia el lado de la lesión.
+Temblor intencional: grueso y evidente al intentar un movimiento (temblor intencional o de acción).Hay que tener en cuenta que el cerebelo regula el temblor fisiológico, por tanto, su lesión provoca este tipo de temblor. Incluso, hay otros tipos de temblor relacionados directamente con el cerebelo: temblor holocraneal o de negación, temblor mixto,y temblor distónico,  etc.
+Otros: palabra escandida, explosiva, nistagmus, fatigabilidad, etc.
+
+
+=== Síndrome cerebeloso ===
+La enfermedad o lesión de la totalidad o de una gran parte del cerebelo es lo que se conoce como síndrome cerebeloso. Las lesiones selectivas del cerebelo son extremadamente raras.
+
+
+==== Síndrome cerebeloso de vermis ====
+La causa más frecuente es el meduloblastoma del vermis en los niños.
+El compromiso del lóbulo floculonodular produce signos y síntomas relacionados con el sistema vestibular. Dado que el vermis es único e influye sobre las estructuras de la línea media, la descoordinación muscular afecta a la cabeza y el tronco, y no a las extremidades. Se produce una tendencia a la caída hacia delante o hacia atrás, así como dificultad para mantener la cabeza quieta y en posición erecta.
+También puede haber dificultad para mantener el tronco erecto.
+
+
+==== Síndrome cerebeloso hemisférico ====
+La causa de este síndrome puede ser un tumor o una isquemia en un hemisferio cerebeloso. En general, los síntomas y signos son unilaterales y afectan a los músculos ipsilaterales al hemisferio cerebeloso enfermo. Están alterados los movimientos de las extremidades, especialmente de los brazos y piernas, donde la hipermetría y la descomposición del movimiento son muy evidentes
+A menudo, se produce oscilación y caída hacia el lado de la lesión. También son hallazgos frecuentes la disartria y el nistagmo.
+
+
+==== Etiología del síndrome cerebeloso ====
+
+Las etiología más frecuentes de síndromes cerebelosos son:
+
+Vasculares:
+Insuficiencia vertebro-basilar
+Infartos
+Hemorragias
+Trombosis
+Tumorales:
+Meduloblastoma (vermis del cerebelo)
+Astrocitoma quístico (hemisferios cerebelosos)
+Hemangioblastoma (hemisferios cerebelosos)
+Neurinoma del acústico (ángulo pontocerebeloso)
+Metástasis
+Paraneoplasico (cáncer de pulmón)
+Traumáticas:
+Contusión
+Laceración
+Hematomas
+Tóxicas:
+Alcohol
+Drogas
+Hidantoinatos
+Infecciosas:
+Cerebelitis virosicas
+Cerebelitis supuradas
+Absceso
+Tuberculomas
+Degenerativas:
+Enfermedad de Friedrich
+Enfermedad de Pierre-Marie
+Esclerosis múltiple
+Autoinmune:
+Ataxia por gluten
+Malformaciones:
+Arnold Chiari
+Malformación de Dandy Walker
+Malformaciones vasculares
+
+
+== Véase también ==
+Cerebro
+Encéfalo
+Sistema nervioso central
+Nervio
+Trastornos neurológicos relacionados con el gluten
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+GUYTON, A.C. & HALL, J.E. Tratado de fisiología médica Elseveir. 11.ª ed. Madrid, 2006
+OJEDA, J.L & ICARDO, J.M. Neuroanatomía humana Masson. 1.ª ed. Barcelona, 2005
+FENEIS, H. & DAUBERG, W. Nomenclatura anatómica ilustrada Masson. 4.ª ed. Barcelona, 2000
+NETTER F.H. Atlas de anatomía humana Masson. 3.ª ed. Barcelona, 2003
+KANDEL E.R, SCHWARTZ J.H, JESSELL T.M. Principios de neurociencia McGraw-Hill. 4.ª ed. Madrid, 2001
+SADLER, T.W. Embriología médica Panamericana. 9.ª ed. Buenos Aires, 2004
+BUSTAMANTE, J. "Neuroanatomía funcional y clínica" Celsus. 4.ª ed. Bogotá, 2007
+Histología humana. Universidad de Salamanaca [1]
+VI Congreso Virtual Hispanoamericano de Anatomía Patológica [2]
+Gray's Anatomy of the Human Body [3]
+
+
+== Lectura adicional ==
+
+
+== Enlaces externos ==
+LOGICORTEX: Página en español con información actualizada sobre neuropsicología clínica y cognitiva (anatomía, procesos cognitivos, patologías, descargas gratuitas, enlaces...).
+Lista de laboratorios que investigan el cerebelo en la Universidad Stanford.
+Cerebelo y coordinación
+Cerebelo y Esclerosis múltiple
+Ganglio basal y cerebelo
+"El Tesoro en el fondo del cerebro"
+Imágenes del cerebelo Archivado el 15 de abril de 2008 en Wayback Machine.
+Cortes histológicos de cerebelo de primate
+Anatomía y Fisiología del cerebelo
+Developmental Biology cinema:En este enlace encontrará información y videos relacionados al procedimiento reportado por Le Douarin (Quimeras de pollo y codorniz).
+ Wikimedia Commons alberga una categoría multimedia sobre Cerebelo.

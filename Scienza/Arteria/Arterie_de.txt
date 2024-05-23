@@ -1,0 +1,82 @@
+Eine Arterie (lateinisch Arteria, von griechisch ἀρτηρία artēría, „Luftrohr, Schlagader“) ist ein Blutgefäß, welches (mit Ausnahme der Herzkranzarterien) Blut vom Herzen weg führt. Sie wird nach den an großen Arterien spürbaren Pulsen des Herzschlags auch Schlagader oder Pulsader genannt. Durch ihren Aufbau sollen Arterien den vom Herzen erzeugten Blutdruck stabil halten können. Im Körperkreislauf transportieren sie sauerstoff­reiches Blut („arterielles Blut“). Die vom rechten Herzen zu den Lungenflügeln abgehenden Arterien des Lungenkreislaufs hingegen enthalten sauerstoffarmes Blut. In den Arterien des Menschen sind nur etwa 20 % des gesamten Blutvolumens enthalten (post mortem wegen des Druckgefälles noch ca. 2 %). Arterien verzweigen sich in immer kleinere Arterien und dann über Arteriolen in so genannte Haargefäße (Kapillaren). Blutgefäße, die das Blut aus dem Körper zum Herzen zurücktransportieren, werden im Allgemeinen Venen genannt.
+
+
+== Wortherkunft ==
+Lateinisch arteria stammt von altgriechisch αρτηρία artēría, deutsch ‚Luftrohr, Luftröhre; Luftader, Pulsader‘; von a(ë)rter, ‚woran etwas aufgehängt wird‘ (in Bezug auf die an der Luftröhre bzw. den Bronchien aufgehängte Lunge), von altgriech. aë(i)rein  ‚anbinden, aufhängen‘. Volksetymologisch wurde die Arterie bezogen auf altgriechisch ὁ ἀήρ, ἀέρος bzw. aër, ‚Luft‘, altgriechisch τηρέειν  ‚enthalten‘ in der Annahme, Arterien seien mit Luft gefüllt (Arterien galten zudem als Leitungsbahn nicht nur für Blut, sondern auch als Gefäße für den Transport des ebenso lebenswichtigen Pneumas; zum Teil wurde – bis durch Galenos zur Anerkennung gebracht wurde, dass auch Blut in den Arterien fließt – auch angenommen, die Arterien enthielten nur das Pneuma).
+Leonhard Thurneysser (zum Thurn), auch Leonhard Thurneisser und Leonhardt Thurneisser zum Thurn, unterschied 1576 bei der Blutversorgung der Nieren zwischen „Blutadern und Lufftadern.“ Noch heute werden die Venen als Blutadern bezeichnet.
+
+
+== Typen ==
+
+Je nach Funktion und Lokalisation müssen Arterien verschiedenen Ansprüchen genügen und unterscheiden sich daher auch in ihrem Aufbau:
+
+muskulärer Typ (Arteriae myotypicae): diese kleineren Arterien liegen relativ herzfern (peripher) und sind als Widerstandsgefäße u. a. durch ihre glatte Muskulatur maßgeblich an der Aufrechterhaltung des Blutdrucks beteiligt, da sie durch Verengung ihres Durchmessers den erforderlichen Blutdruck herstellen können (tun sie dies nicht, so spricht man von einer orthostatischen Dysregulation mit Schwindel- und Schwächeanfällen v. a. nach dem Aufstehen)
+Elastischer Typ (Arteriae elastotypicae): Diese großen, herznahen Gefäße wandeln physiologischerweise den pulsatilen Blutfluss, der durch den ruckartigen Herzschlag (die Systole) verursacht wird, durch ihre elastische Schwingungsfähigkeit in eine quasi-kontinuierliche Strömung um – die sogenannte Windkesselfunktion – und schützen so in der Peripherie des Kreislaufs die Organe und Gewebe vor gefährlichen Blutdruckspitzen oder -tälern. Bei der Arteriosklerose ist diese Schwingungseigenschaft stark vermindert oder total erloschen, was in dauerhaften, krankhaften Bluthochdruck bis hin zur hypertensiven Krise, transitorischen ischämischen Attacken (kurzzeitigen, durch schwachen Blutdruck bedingten Bewusstseinsverlusten), Schlaganfällen (durch Massenblutung bei zu hohem oder Mangelversorgung bei zu niedrigem Blutdruck) oder dem Reißen einer Gefäßaussackung (eines Aneurysmas) münden kann.
+Gemischter Typ: Die Übergangsform von muskulären zum elastischen Typ wird als gemischter Typ oder Arteriae mixtotypicae bezeichnet.
+Sperrarterien (Arteriae convolutae): Hier handelt es sich um Arterien, die ihr Lumen soweit verengen können, dass kein Blutstrom stattfindet. Hierfür verfügen sie über einen speziellen Wandaufbau der einen eigenen Typus begründet. In den Gefäßwänden befindet sich längs zur Fließrichtung orientierte glatte Muskulatur.
+
+
+== Wandaufbau ==
+
+Die Gefäßwände der Arterien sind dicker (muskelreicher), haben eine deutlich ausgeprägtere Schichtung und sind weniger dehnbar als die Venen.
+Grundsätzlich besteht eine arterielle Wand aus drei Schichten, deren Bestandteile alle lateinisch-anatomische Namen tragen; von der blutführenden Seite aus gesehen sind dies:
+
+Die Tunica interna (auch Intima) besteht aus einem einschichtigen Endothel, der darauf aufsetzenden Schicht aus lockerem Bindegewebe und dem Stratum subendotheliale, daran anschließend die Membrana elastica interna (besonders gut entwickelt bei den muskulären, peripheren Arterien).
+Die Tunica media (oder kurz Media) ist bei den peripheren Arterien aus mehreren, dicht anliegenden, ringförmigen und schräg gewundenen Muskelschichten aufgebaut, die auch elastische Fasern und solche aus Kollagen enthalten, bei den elastischen Arterien ähnlich aufgebaut, allerdings mit mehr Kollagen und vielen schwingungsfähigen und gefensterten Membranen. Teilweise befindet sich zwischen der Media und der Adventitia noch zusätzlich eine elastische Schicht (Membrana elastica externa, Elastika), die mittels Elastika-Färbung darstellbar ist.
+Die Tunica externa (auch als Tunica adventitia bezeichnet), welche vor allem aus elastischem und kollagenem, faserigem Bindegewebe besteht und über ihre Vasa vasorum (die Gefäße der Gefäße) und Nerven (Nervi vasorum) die Gesamtarterie ernährt und steuert.
+
+
+== Große Arterien ==
+Die größte Arterie im menschlichen Körper ist die Aorta (Hauptschlagader) mit einem Durchmesser von etwa drei Zentimetern. Weitere größere Arterien sind:
+
+Arteria axillaris (Achselarterie)
+Arteria basilaris (Schädelbasisschlagader)
+Arteria brachialis (Oberarmarterie)
+Arteria carotis communis (gemeinsame Halsschlagader)
+Arteria carotis externa (äußere Halsschlagader)
+Arteria carotis interna (innere Halsschlagader)
+Arteria facialis (Gesichtsschlagader)
+Arteria femoralis (Oberschenkelarterie)
+Arteria hepatica communis (gemeinsame Leberarterie)
+Arteria iliaca communis (gemeinsame Beckenarterie)
+Arteria iliaca externa (äußere Beckenarterie)
+Arteria iliaca interna (innere Beckenarterie)
+Arteria splenica (Milzarterie, syn. Arteria lienalis)
+Arteria maxillaris (Oberkieferschlagader)
+Arteria mesenterica inferior (untere Eingeweidearterie)
+Arteria mesenterica superior (obere Eingeweidearterie)
+Arteria ophthalmica (Augenschlagader)
+Arteria ovarica (Eierstockarterie)
+Arteria poplitea (Kniekehlenarterie)
+Arteria pulmonalis (Lungenarterie)
+Arteria radialis (Speichenarterie)
+Arteria renalis (Nierenarterie)
+Arteria subclavia (Unterschlüsselbein-Arterie)
+Arteria testicularis (Hodenarterie)
+Arteria tibialis anterior (vordere Schienbeinarterie)
+Arteria tibialis posterior (hintere Schienbeinarterie)
+Arteria ulnaris (Ellen-Arterie)
+Arteria vertebralis (Wirbelarterie)
+Truncus brachiocephalicus (gemeinsamer Hals-Kopf-Stamm)
+Truncus coeliacus (Stammgefäß für die Versorgung der oberen Bauchorgane)
+
+
+== Kleinere Arterien ==
+Kleine Arterien sind zum Beispiel
+
+Arteria epigastrica superior („obere Oberbaucharterie“)
+Arteria trigemina (primitiva) beim Embryo
+Arteria pudenda interna
+Arteria dorsalis clitoridis
+Arteria dorsalis penis (Penisrückenarterie)
+Arteria dorsalis pedis (Fußrückenarterie)
+Arteria gastroduodenalis („Magen-Zwölffingerdarm-Arterie“)
+Arteria hepatica propria (Leberarterie)
+Arteria iliolumbalis („Darmbein-Lenden-Schlagader“)
+Arteria vesicalis caudalis (hintere Blasenarterie)
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

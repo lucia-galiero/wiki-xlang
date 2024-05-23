@@ -1,0 +1,32 @@
+L'exosphère est la couche la plus externe de l'atmosphère d'un corps céleste. Cette couche s'étend théoriquement à l'infini. Il suffit donc de définir l'altitude à laquelle elle commence, appelée thermopause ou exobase. L'exosphère se définit comme la région de l'atmosphère où la densité de particules est assez faible pour que l'effet des collisions entre particules soit négligeable en comparaison de l'effet de leur cinétique.
+La densité de particules y est extrêmement faible et les atomes s'y comportent librement. Certains échappent même à l'attraction de leur corps céleste. C'est pourquoi la zone située à cette altitude est également appelée le niveau d'échappement.
+La variation de la densité des gaz entourant un corps céleste est continue. Les limites entre les différentes couches de gaz ne décrivent pas des ruptures franches et nettes dans les caractéristiques physiques du gaz entre deux altitudes mais servent plutôt à rendre compte du changement de phénomène prédominant d'une altitude à une autre. En l'occurrence, même si cette définition n'est pas parfaite, l'exosphère débute là où les particules de l'atmosphère sont pratiquement indépendantes les unes des autres et où leur distribution de vitesse suit l'équation de Liouville, et s'achève là où sa densité est indiscernable de celle du vent solaire.
+
+
+== Exosphère terrestre ==
+L'exosphère est la couche la plus haute de l'atmosphère terrestre. Elle se situe au-dessus de la thermosphère, au-delà de 600 kilomètres. Sa densité est de l'ordre de 106 particules par centimètre cube à environ 700 km d'altitude. À 5 000 km d'altitude, elle n'est plus que de l'ordre de 100 particules par centimètre cube, densité équivalente à celle du milieu interplanétaire.
+
+
+=== Intérêt pour les satellites ===
+Un des grands intérêts de l'exosphère réside dans l'exceptionnelle capacité de durée de vie des satellites placés dans ses couches les plus hautes : des centaines voire des milliers d'années, alors que les satellites évoluant à une altitude inférieure, de l'ordre de 300 kilomètres (thermosphère), subissent un freinage permanent non négligeable.
+Dès 1960, des scientifiques, tels que le Français François Barlier, se sont intéressés à la trajectographie des satellites. Leurs travaux ont alors très vite porté sur les forces de freinage dues aux frottements résultant de l'atmosphère résiduelle de la thermosphère et de la température très élevée qui y règne — jusqu'à 1 000 kelvins —, phénomène notamment dû à l'absorption du rayonnement ultraviolet émis par le soleil. Les températures sont élevées, mais la densité de matière est extrêmement faible, ce qui fait que, pour la peau humaine, l'effet de cette température est négligeable.
+
+
+== Exosphère des autres objets célestes ==
+La définition de l'exosphère s'applique également aux autres corps célestes (planètes, satellites naturels, étoiles, etc.). Il existe deux catégories d'exosphères : d'une part celle des objets célestes pourvus comme la Terre d'une atmosphère dense (par exemple Mars ou Vénus), et d'autre part celle, beaucoup plus fréquente dans notre système solaire, des objets dépourvus d'atmosphère dense comme Mercure ou la Lune. Dans ce dernier cas, la base de l'exosphère (l'exobase) se confond avec la surface de l'objet céleste et les processus qui contribuent à sa formation et à son évolution sont très différents : l'éjection de matière de la surface à l'origine de l'exosphère peut résulter de mécanismes aussi différents que l'agitation thermique de la couche superficielle du sol, le bombardement de celle-ci par les photons, la vaporisation du sol par l'impact d'une météorite ou enfin l'action des particules énergétiques (rayons cosmiques, vent solaire) sur le sol.
+
+
+== Références ==
+
+J. Lilensten et P.-L. Blelly: Du Soleil à la Terre, Aéronomie et météorologie de l'espace, Collection Grenoble Sciences, Université Joseph Fourier Grenoble I, 2000.  (ISBN 978-2-86883-467-6)
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Espace (cosmologie)
+Géocouronne
+LADEE Mission spatiale d'étude de l'exosphère de la Lune
+
+ Portail des sciences de la Terre et de l’Univers

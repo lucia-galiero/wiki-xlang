@@ -1,0 +1,375 @@
+El punto de fusión (o, raramente, el punto de licuefacción) de una sustancia es la temperatura a la que cambia de estado de sólido a líquido. En el punto de fusión, la fase sólida y líquida existen en equilibrio. El punto de fusión de una sustancia depende de la presión y generalmente se especifica a una presión estándar, como 1 atmósfera o 100 kPa.
+Cuando se considera como la temperatura del cambio inverso de líquido a sólido, se denomina punto de congelación o punto de cristalización. Debido a la capacidad de las sustancias de sobreenfriarse, el punto de congelación puede parecer fácilmente inferior a su valor real. Cuando se determina el "punto de congelación característico" de una sustancia, de hecho, la metodología real es casi siempre "el principio de observar la desaparición más que la formación de hielo, es decir, el punto de fusión".[1]​
+
+
+== Ejemplos ==
+
+Para la mayoría de las sustancias, los puntos de fusión y congelación son aproximadamente iguales. Por ejemplo, el punto de fusión y el punto de congelación del mercurio es 234,32 Kelvin (−38,8 °C; −37,9 °F).[2]​ Sin embargo, ciertas sustancias poseen diferentes temperaturas de transición sólido-líquido. Por ejemplo, el agar se derrite a 85 grados Celsius (185 °F; 358,2 K) y solidifica a partir de 31 grados Celsius (87,8 °F; 304,2 K); tal dependencia de la dirección se conoce como histéresis. El punto de fusión del hielo a 1 atmósfera de presión está muy cerca de 0 grados Celsius (32,0 °F; 273,2 K);[3]​ esto también se conoce como el punto de hielo. En presencia de sustancias nucleantes, el punto de congelación del agua no siempre es el mismo que el punto de fusión. En ausencia de nucleadores, el agua puede existir como un líquido sobreenfriado −48,3 grados Celsius (−54,9 °F; 224,9 K) antes de congelarse.
+El elemento químico con el punto de fusión más alto es el wolframio, a 3414 grados Celsius (6177,2 °F; 3687,2 K);[4]​ esta propiedad hace que el wolframio sea excelente para su uso como filamentos eléctricos en lámparas incandescentes. El carbono citado a menudo no se funde a presión ambiente, sino que se sublima a aproximadamente 3700 grados Celsius (6692,0 °F; 3973,2 K); una fase líquida solo existe por encima de presiones de 10 MPa (98,7 atm) y se estima que entre 4030-4430 grados Celsius (7286,0-8006,0 °F) (4303,2-4703,2 K) (ver diagrama de fase de carbono). El carburo de hafnio de tantalio (Ta4HfC5) es un compuesto refractario con un punto de fusión muy alto de 4215 Kelvin (3941,9 °C; 7127,3 °F).[5]​ Las simulaciones por computadora de la mecánica cuántica han predicho que la aleación HfN 0.38 C 0.51 tendrá un punto de fusión aún más alto (alrededor de 4400 K),[6]​ lo que la convertiría en la sustancia con el punto de fusión más alto a presión ambiental. Esta predicción se confirmó posteriormente mediante experimentos.[7]​ En el otro extremo de la escala, el helio no se congela en absoluto a presión normal, incluso a temperaturas arbitrariamente cercanas al cero absoluto; es necesaria una presión de más de veinte veces la presión atmosférica normal.
+
+
+== Temperatura de fusión de los elementos químicos ==
+La tabla siguiente muestra las temperaturas de fusión de los elementos en °C (a una atmósfera de presión):[9]​
+
+
+== Medidas del punto de fusión ==
+
+Existen muchas técnicas de laboratorio para la determinación de puntos de fusión. Un banco Kofler es una tira de metal con un gradiente de temperatura (rango de temperatura ambiente a 300 °C). Se puede colocar cualquier sustancia en una sección de la tira, revelando su comportamiento térmico a la temperatura en ese punto. La calorimetría diferencial de barrido proporciona información sobre el punto de fusión junto con su entalpía de fusión.
+
+Un aparato de punto de fusión básico para el análisis de sólidos cristalinos consiste en un baño de aceite con una ventana transparente (diseño más básico: un tubo de Thiele) y una lupa simple. Se colocan varios granos de un sólido en un tubo de vidrio delgado y se sumergen parcialmente en el baño de aceite. El baño de aceite se calienta (y se agita) y con la ayuda de la lupa (y una fuente de luz externa) se puede observar la fusión de los cristales individuales a una cierta temperatura. Se puede usar un bloque de metal en lugar de un baño de aceite. Algunos instrumentos modernos tienen detección óptica automática.
+La medición también se puede realizar de forma continua con un proceso operativo. Por ejemplo, las refinerías de petróleo miden el punto de congelación del diésel "en línea", lo que significa que la muestra se toma del proceso y se mide automáticamente. Esto permite mediciones más frecuentes ya que la muestra no tiene que recolectarse manualmente y llevarse a un laboratorio remoto.
+
+
+=== Técnicas para materiales refractarios ===
+Para materiales refractarios (por ejemplo, platino, wolframio, tantalio, algunos carburos y nitruros, etc.), el punto de fusión extremadamente alto (generalmente se considera que está por encima de 1800 °C) se puede determinar calentando el material en un horno de cuerpo negro y midiendo la temperatura del cuerpo negro con un pirómetro óptico. Para los materiales de mayor punto de fusión, esto puede requerir una extrapolación de varios cientos de grados. Se sabe que el resplandor espectral de un cuerpo incandescente es función de su temperatura. Un pirómetro óptico hace coincidir el resplandor de un cuerpo en estudio con el resplandor de una fuente que ha sido previamente calibrada en función de la temperatura. De esta manera, la medición de la magnitud absoluta de la intensidad de la radiación es innecesaria. Sin embargo, se deben utilizar temperaturas conocidas para determinar la calibración del pirómetro. Para temperaturas por encima del rango de calibración de la fuente, se debe emplear una técnica de extrapolación. Esta extrapolación se logra utilizando la ley de radiación de Planck. Las constantes en esta ecuación no se conocen con suficiente precisión, lo que hace que los errores en la extrapolación sean mayores a temperaturas más altas. Sin embargo, se han desarrollado técnicas estándar para realizar esta extrapolación.
+Considere el caso de usar oro como fuente (mp = 1063 °C). En esta técnica, la corriente a través del filamento del pirómetro se ajusta hasta que la intensidad de la luz del filamento coincide con la de un cuerpo negro en el punto de fusión del oro. Esto establece la temperatura de calibración primaria y se puede expresar en términos de corriente a través de la lámpara de pirómetro. Con el mismo ajuste actual, el pirómetro se ve en otro cuerpo negro a una temperatura más alta. Se inserta un medio absorbente de transmisión conocida entre el pirómetro y este cuerpo negro. A continuación, se ajusta la temperatura del cuerpo negro hasta que exista una coincidencia entre su intensidad y la del filamento del pirómetro. La verdadera temperatura más alta del cuerpo negro se determina a partir de la Ley de Planck. A continuación, se retira el medio absorbente y se ajusta la corriente a través del filamento para hacer coincidir la intensidad del filamento con la del cuerpo negro. Esto establece un segundo punto de calibración para el pirómetro. Este paso se repite para llevar la calibración a temperaturas más altas. Ahora, se conocen las temperaturas y sus correspondientes corrientes de filamento pirométrico y se puede trazar una curva de temperatura frente a la corriente. Esta curva se puede extrapolar luego a temperaturas muy altas.
+Al determinar los puntos de fusión de una sustancia refractaria mediante este método, es necesario tener condiciones de cuerpo negro o conocer la emisividad del material que se está midiendo. La contención del material de alto punto de fusión en estado líquido puede introducir dificultades experimentales. Por lo tanto, las temperaturas de fusión de algunos metales refractarios se han medido observando la radiación de una cavidad de cuerpo negro en muestras de metal sólido que eran mucho más largas que anchas. Para formar una cavidad de este tipo, se perfora un orificio perpendicular al eje largo en el centro de una varilla del material. Luego, estas varillas se calientan pasando una corriente muy grande a través de ellas, y la radiación emitida por el orificio se observa con un pirómetro óptico. El punto de fusión está indicado por el oscurecimiento del agujero cuando aparece la fase líquida, destruyendo las condiciones del cuerpo negro. Hoy en día, se emplean técnicas de calentamiento por láser sin contenedores, combinadas con pirómetros y espectropirómetros rápidos, para permitir un control preciso del tiempo durante el cual la muestra se mantiene a temperaturas extremas. Estos experimentos de duración inferior a un segundo abordan varios de los desafíos asociados con las mediciones más tradicionales del punto de fusión realizadas a temperaturas muy altas, como la vaporización de la muestra y la reacción con el recipiente.
+
+
+== Termodinámica ==
+
+Para que un sólido se derrita, se requiere calor para elevar su temperatura hasta el punto de fusión. Sin embargo, es necesario suministrar más calor para que tenga lugar la fusión: esto se denomina calor de fusión y es un ejemplo de calor latente.
+Desde un punto de vista termodinámico, en el punto de fusión el cambio en la energía libre de Gibbs (ΔG) del material es cero, pero la entalpía (H) y la entropía (S) del material aumentan (ΔH, ΔS> 0). El fenómeno de fusión ocurre cuando la energía libre de Gibbs del líquido se vuelve más baja que la del sólido para ese material. A diversas presiones, esto sucede a una temperatura específica. También se puede demostrar que:
+
+  
+    
+      
+        Δ
+        S
+        =
+        
+          
+            
+              Δ
+              H
+            
+            T
+          
+        
+      
+    
+    {\displaystyle \Delta S={\frac {\Delta H}{T}}}
+  
+
+Aquí T, ΔS y ΔH son respectivamente la temperatura en el punto de fusión, el cambio de entropía de fusión y el cambio de entalpía de fusión.
+El punto de fusión es sensible a cambios de presión extremadamente grandes, pero generalmente esta sensibilidad es órdenes de magnitud menor que la del punto de ebullición, porque la transición sólido-líquido representa solo un pequeño cambio de volumen.[10]​[11]​ Si, como se observa en la mayoría de los casos, una sustancia es más densa en estado sólido que en estado líquido, el punto de fusión aumentará al aumentar la presión. De lo contrario, se produce el comportamiento inverso. Cabe destacar que este es el caso del agua, como se ilustra gráficamente a la derecha, pero también de Si, Ge, Ga, Bi. Con cambios de presión extremadamente grandes, se observan cambios sustanciales en el punto de fusión. Por ejemplo, el punto de fusión del silicio a presión ambiente (0,1 MPa) es 1415 °C, pero a presiones superiores a 10 GPa disminuye a 1000 °C.[12]​
+Los puntos de fusión se utilizan a menudo para caracterizar compuestos orgánicos e inorgánicos y para determinar su pureza. El punto de fusión de una sustancia pura es siempre más alto y tiene un intervalo menor que el punto de fusión de una sustancia impura o, más generalmente, de mezclas. Cuanto mayor sea la cantidad de otros componentes, menor será el punto de fusión y más amplio será el intervalo del punto de fusión, a menudo denominado "intervalo pastoso". La temperatura a la que comienza la fusión de una mezcla se conoce como "solidus", mientras que la temperatura a la que se completa la fusión se llama "liquidus". Los eutécticos son tipos especiales de mezclas que se comportan como fases únicas. Se funden bruscamente a temperatura constante para formar un líquido de la misma composición. Alternativamente, al enfriar un líquido con la composición eutéctica se solidificará como cristales mixtos pequeños (de grano fino) uniformemente dispersos con la misma composición.
+A diferencia de los sólidos cristalinos, los vidrios no poseen un punto de fusión; al calentarlos, experimentan una suave transición vítrea a un líquido viscoso. Al seguir calentándose, se ablandan gradualmente, lo que puede caracterizarse por ciertos puntos de ablandamiento.
+
+
+== Depresión del punto de congelación ==
+El punto de congelación de un solvente disminuye cuando se agrega otro compuesto, lo que significa que una solución tiene un punto de congelación más bajo que un solvente puro. Este fenómeno se utiliza en aplicaciones técnicas para evitar la congelación, por ejemplo, agregando sal o etilenglicol al agua.
+
+
+== Regla de Carnelley ==
+En química orgánica, la regla de Carnelley, establecida en 1882 por Thomas Carnelley, establece que la alta simetría molecular está asociada con un alto punto de fusión.[13]​ Carnelley basó su regla en el examen de 15.000 compuestos químicos. Por ejemplo, para tres isómeros estructurales con fórmula molecular C5H12 el punto de fusión aumenta en la serie isopentano −160 °C (113 K) n-pentano −129,8 °C (143 K) y neopentano −16,4 °C (256,8 K).[14]​ Asimismo, en los xilenos y también en los diclorobencenos, el punto de fusión aumenta en el orden meta, orto y para. La piridina tiene una simetría más baja que el benceno, por lo tanto, su punto de fusión más bajo, pero el punto de fusión aumenta nuevamente con diazina y triazinas. Muchos compuestos similares a jaulas como el adamantano y el cubano con alta simetría tienen puntos de fusión relativamente altos.
+Un alto punto de fusión resulta de un alto calor de fusión, una baja entropía de fusión o una combinación de ambos. En moléculas altamente simétricas, la fase cristalina está densamente empaquetada con muchas interacciones intermoleculares eficientes que dan como resultado un mayor cambio de entalpía en la fusión.
+
+
+== Predicción del punto de fusión de sustancias (criterio de Lindemann) ==
+Frederick Lindemann realizó por primera vez en 1910 un intento de predecir el punto de fusión a granel de los materiales cristalinos.[16]​ La idea detrás de la teoría fue la observación de que la amplitud promedio de las vibraciones térmicas aumenta con el aumento de la temperatura. La fusión se inicia cuando la amplitud de la vibración se vuelve lo suficientemente grande como para que los átomos adyacentes ocupen parcialmente el mismo espacio. El criterio de Lindemann establece que se espera la fusión cuando la amplitud cuadrática media de la raíz de vibración excede un valor umbral.
+Suponiendo que todos los átomos en un cristal vibran con la misma frecuencia ν, la energía térmica promedio se puede estimar usando el teorema de equipartición como[17]​
+
+  
+    
+      
+        E
+        =
+        4
+        
+          π
+          
+            2
+          
+        
+        m
+        
+          ν
+          
+            2
+          
+        
+         
+        
+          u
+          
+            2
+          
+        
+        =
+        
+          k
+          
+            
+              B
+            
+          
+        
+        T
+      
+    
+    {\displaystyle E=4\pi ^{2}m\nu ^{2}~u^{2}=k_{\rm {B}}T}
+  
+
+donde m es la masa atómica, ν es la frecuencia, u es la amplitud de vibración promedio, kB es la constante de Boltzmann y T es la temperatura absoluta. Si el valor umbral de u2 es c2 a2 donde c es la constante de Lindemann y a es el espaciado atómico, entonces el punto de fusión se estima como
+
+  
+    
+      
+        
+          T
+          
+            
+              m
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  4
+                  
+                    π
+                    
+                      2
+                    
+                  
+                  m
+                  
+                    ν
+                    
+                      2
+                    
+                  
+                  
+                    c
+                    
+                      2
+                    
+                  
+                  
+                    a
+                    
+                      2
+                    
+                  
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  
+                    k
+                    
+                      
+                        B
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle T_{\rm {m}}={\cfrac {4\pi ^{2}m\nu ^{2}c^{2}a^{2}}{k_{\rm {B}}}}.}
+  
+
+Se pueden obtener varias otras expresiones para la temperatura de fusión estimada dependiendo de la estimación de la energía térmica promedio. Otra expresión comúnmente utilizada para el criterio de Lindemann es[18]​
+
+  
+    
+      
+        
+          T
+          
+            
+              m
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  4
+                  
+                    π
+                    
+                      2
+                    
+                  
+                  m
+                  
+                    ν
+                    
+                      2
+                    
+                  
+                  
+                    c
+                    
+                      2
+                    
+                  
+                  
+                    a
+                    
+                      2
+                    
+                  
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  2
+                  
+                    k
+                    
+                      
+                        B
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle T_{\rm {m}}={\cfrac {4\pi ^{2}m\nu ^{2}c^{2}a^{2}}{2k_{\rm {B}}}}.}
+  
+
+De la expresión de la frecuencia de Debye para ν, tenemos
+
+  
+    
+      
+        
+          T
+          
+            
+              m
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  2
+                  π
+                  m
+                  
+                    c
+                    
+                      2
+                    
+                  
+                  
+                    a
+                    
+                      2
+                    
+                  
+                  
+                    θ
+                    
+                      
+                        D
+                      
+                    
+                    
+                      2
+                    
+                  
+                  
+                    k
+                    
+                      
+                        B
+                      
+                    
+                  
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  
+                    h
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle T_{\rm {m}}={\cfrac {2\pi mc^{2}a^{2}\theta _{\rm {D}}^{2}k_{\rm {B}}}{h^{2}}}}
+  
+
+donde θD es la temperatura de Debye y h es la constante de Planck. Los valores de c oscilan entre 0,15 y 0,3 para la mayoría de los materiales.[19]​
+
+
+== Predicción del punto de fusión ==
+En febrero de 2011, Alfa Aesar publicó más de 10.000 puntos de fusión de compuestos de su catálogo como datos abiertos. Este conjunto de datos se ha utilizado para crear un modelo forestal aleatorio para la predicción del punto de fusión que ahora está disponible gratuitamente.[20]​ Los datos abiertos del punto de fusión también están disponibles en Nature Precedings.[21]​ Tetko et al. publicaron datos de alta calidad extraídos de patentes y también modelos[22]​ desarrollados con estos datos.[23]​
+
+
+== Véase también ==
+Lista de elementos por punto de fusión
+Fases de la materia
+Punto triple
+Solidus
+Fusión
+Calor
+Presión
+Esquema de fase
+
+
+== Referencias ==
+
+
+=== Notas ===
+
+
+== Enlaces externos ==
+Tablas de puntos de fusión y ebullición vol. 1 de Thomas Carnelley (Harrison, Londres, 1885-1887)
+Tablas de puntos de fusión y ebullición vol. 2 de Thomas Carnelley (Harrison, Londres, 1885-1887)
+Datos extraídos de patentes Más de 250.000 datos de punto de fusión descargables gratuitamente. También descargable en figshare

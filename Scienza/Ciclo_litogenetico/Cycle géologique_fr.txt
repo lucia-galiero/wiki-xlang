@@ -1,0 +1,32 @@
+Les roches sont le résultat d'un cycle de transformations assez compliqué, nommé cycle géologique, cycle géochimique ou cycle des roches. En effet, c'est à ce cycle que nous devons la composition de la croûte terrestre et du manteau supérieur.
+Les composantes principales de ce cycle sont indiquées sur le schéma illustré dans le diagramme ci-contre.
+
+
+== Description ==
+
+On estime que la croûte dans son ensemble se compose d'environ 94 % en volume de roches qui semblent provenir de la cristallisation d'un matériau fondu, appelé magma. Ces roches sont appelées roches magmatiques. Vu leur importance, un point d'entrée logique dans le cycle géologique se trouve en bas de la figure, où un magma se solidifie — le plus souvent par cristallisation, parfois par vitrification — pour former une roche ignée. L'étape suivante du cycle consiste dans la remontée, souvent très lente, parfois rapide, de cette roche ignée vers la surface, où elle se trouve alors exposée à différents processus géologiques qui l'érodent et qui la transportent sous forme de grains de tailles diverses vers des bassins de sédimentation (mers épicontinentales ou lacs), pour s'y retrouver finalement sous forme de sédiments. Sous l'effet de leur propre poids, ainsi que par des réactions chimiques entre grains en présence d'eau qui assurent une certaine cimentation (processus regroupés sous le vocable général de diagenèse), les sédiments se consolident et deviennent des roches compactes appelées roches sédimentaires. On estime que la croûte se compose 
+actuellement de près de 6 % de telles roches.
+À cause de la mobilité des couches externes de la Terre, autrement dit, à cause des mouvements des plaques lithosphériques, les roches sédimentaires ne restent généralement pas en place au fond d'une mer ou d'un océan très longtemps, à l'échelle géologique qui compte en dizaines et centaines de millions d'années. Parfois, des couches horizontales ou subhorizontales de roches sédimentaires émergent par eustasie et sont accrétées, c'est-à-dire englobées, à la croûte continentale, mais le plus souvent elles participent à des processus tectoniques qui les plissent ou qui les cassent, et qui les érigent en chaînes de montagnes. Ces dernières sont érodées à leur tour, et leurs débris sont transportés vers de nouveaux bassins de sédimentation. D'autres fois, au cours des temps géologiques, des processus tectoniques enfouissent les roches sédimentaires à des profondeurs appréciables sous la surface, notamment à l'intérieur de chaînes de montagnes. Ces roches sédimentaires sont alors soumises à des pressions et des températures élevées, et subissent à leur tour une transformation importante dans leur forme et leurs propriétés physiques, tout en conservant généralement la même composition chimique globale. Elles deviennent ainsi des roches métamorphiques. 
+Les divers phénomènes à la base de cette transformation sont regroupés sous le vocable de métamorphisme. On observe les roches métamorphiques sur l'emplacement d'anciennes chaînes de montagnes érodées ou pénéplanées, notamment sous forme d'ardoises et plus généralement de schistes. Leur abondance totale dans la croûte est estimée à un peu moins de 1 %. Toutefois, la plupart des roches métamorphiques ne sont jamais exposées en surface, mais retournent vers les grandes profondeurs pour devenir du magma recyclé (phénomène d'anatexie), bouclant ainsi le cycle géologique.
+Décrit de la sorte, ce cycle paraît simple même si les divers processus qui interviennent peuvent paraître fort compliqués dans leurs détails. Malheureusement, en y regardant de plus près, de nombreuses complications du cycle lui-même se présentent par le fait que diverses étapes peuvent être court-circuitées, à tel point que le cycle peut éventuellement être parcouru à certains endroits en sens contraire de celui envisagé ci-dessus. Nous avons par exemple indiqué sur le diagramme l'un de ces embranchements possibles parcourus en sens contraire : des roches ignées peuvent être réenfouies et refondre, redevenant ainsi du magma qui possède le cas échéant une composition différente du magma primitif. De même, on peut très bien envisager le passage de roches sédimentaires directement vers le stade de magma, sans passer par le stade intermédiaire de roches métamorphiques, ainsi que l'altération météorique, l'érosion et le transport de roches métamorphiques dont les grains se déposent sous forme de sédiments avant de redevenir des roches sédimentaires. Il est même possible que certaines roches ignées, en particulier les granites, proviennent en partie d'un recyclage de roches sédimentaires, même si ce débat n'est pas clos. En effet, certains auteurs font remarquer que les granites, classés pourtant parmi les roches ignées, ne peuvent pas directement provenir d'un magma à cause de leur important degré de différenciation qui indiquerait nécessairement l'intervention d'un processus de sédimentation et non pas la naissance à partir d'un matériau fondu. Néanmoins, pour l'essentiel, le parcours du cycle géologique est bien celui que nous avons indiqué plus haut.
+
+
+== Rôle de l'eau ==
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+A. Foucault & Raul Dumitras (1984). Dictionnaire de géologie (2e éd.), Masson, Paris  (ISBN 2-225-80248-3)
+
+
+=== Articles connexes ===
+Cycle biologique
+Cycle sédimentaire
+Glossaire de géologie
+
+ Portail de la géologie

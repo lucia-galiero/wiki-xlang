@@ -1,0 +1,14 @@
+Das Hypozentrum (von griechisch ὑπό hypó „unter, darunter“ und κέντρον kentron „Mittelpunkt“), auch (Erd-)Bebenherd oder seismische Quelle genannt, ist der Punkt, von dem ein Erdbeben ausgeht.
+In der Seismologie wird das Hypozentrum charakterisiert durch die Herdtiefe und die Lage des Epizentrums an der Erdoberfläche. Das Hypozentrum ist der Punkt, von dem das Erdbeben ausgeht, entspricht also dem Ursprung der Bruchfläche. Das Epizentrum ist hingegen dessen vertikale Projektion auf die Erdoberfläche.
+Die Lage des Hypozentrums lässt sich durch Untersuchung der Laufzeiten von Erdbebenwellen an über die Erde verteilten seismologischen Stationen bestimmen. Da es sich um Messungen an Wellen handelt, ist diese Messung einer Unschärfe unterworfen: Je länger die Wellenlänge, umso ungenauer die Ortsbestimmung. Da gerade schwere Erdbeben den größten Teil ihrer Energie als langperiodische Wellen abgeben, ist deren räumliche Quelle nicht genau messbar.
+Die räumliche Definition des Hypozentrums findet eine weitere Begrenzung in der Tatsache, dass Erdbeben oft nicht von Punktquellen ausgehen, wie zumeist vereinfachend angenommen wird, sondern von Bruchlinien. Das Hypozentrum wird jedoch im Nukleationspunkt der Bruchzone angenommen, also an dem Ort, wo der Scherbruch beginnt.
+
+
+== Literatur ==
+Götz Schneider: Erdbeben – Eine Einführung für Geowissenschaftler und Bauingenieure. Spektrum Akademischer Verlag, München 2004, ISBN 3-8274-1525-X.
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

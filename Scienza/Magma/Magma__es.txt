@@ -1,0 +1,89 @@
+El magma (del latín magma y este del griego μάγμα, «pasta») es una mezcla multifásica natural compuesta por una fase líquida, formada por roca fundida, otra fase sólida, mineral, y una parte gaseosa. Los gases que conforman la fracción gaseosa, conocidos como volátiles, pueden ser muy diversos, como el vapor de agua o el dióxido de carbono.[1]​
+Cuando el magma se enfría, sus componentes se cristalizan formando las rocas ígneas, que son de dos tipos: si el magma cristaliza en el interior de la tierra se forman las rocas plutónicas o intrusivas, pero si asciende hacia la superficie, la materia fundida se denomina entonces lava, y al enfriarse forma las rocas volcánicas o efusivas (intrusivas y efusivas son términos en desuso).[2]​
+
+
+== Tipos de magmas ==
+Los magmas más comunes responden a tres tipos principales: basálticos, andesíticos y graníticos.[2]​
+
+Magmas basálticos: pueden ser toleíticos, bajos en sílice (<50%) y producidos en las dorsales, o alcalinos, ricos en sodio y potasio, producidos en zonas del interior de las placas tectónicas. Son los más comunes.
+Magmas andesíticos: contenido de sílice (<60%) y minerales hidratados, como anfíboles o biotitas. Se forman en todas las zonas de subducción, ya sean de corteza continental u oceánica.
+Magmas graníticos: tienen el punto de fusión más bajo y pueden formar grandes plutones. Se originan en zonas orogénicas como los andesíticos, pero a partir de magmas basálticos o andesíticos que atraviesan y funden rocas igneas o sedimentarias metamorfizadas de la corteza que, al incorporarse al magma, alteran su composición.
+Por otra parte, según su composición mineral, el magma puede clasificarse en dos grandes grupos: máficos y félsicos. Básicamente, los magmas máficos contienen silicatos ricos en magnesio y hierro, mientras que los félsicos contienen silicatos ricos en sodio y potasio.
+
+
+== Evolución de los magmas ==
+La composición de los magmas puede variar en función de varios procesos:[2]​
+
+Diferenciación: durante el enfriamiento de un magma el orden de cristalización de los minerales depende de su punto de fusión, cristalizando primero los de punto de fusión más alto y por último los de más bajo (cristalización fraccionada). La composición del magma restante (magma residual) va variando en este proceso. En magmas basálticos este orden está definido por las denominadas series de Bowen. Si los cristales formados o el magma residual no se desplazaran, la roca resultante tendría la misma composición global que el magma inicial, pero la diferenciación se produce porque los cristales que se van formando pueden ir cayendo y acumularse en las zonas inferiores de la cámara magmática (diferenciación gravitatoria), o el magma residual puede migrar por disminución del tamaño de la cámara (filtrado por presión) o se pueden formar burbujas ricas en sodio y potasio, elementos más ligeros, que se desplazan hacia el techo de la cámara (transporte gaseoso).
+Asimilación: cuando el magma funde parte de la roca encajante y la integra en su composición, que varía proporcionalmente según la naturaleza del nuevo volumen de roca fundida incorporada.
+Mezcla: cuando se mezclan dos magmas de diferente origen y naturaleza, aunque lo normal es la mezcla de magmas de la misma procedencia: uno ya diferenciado con otro nuevo, primario y más caliente, que lo incorpora.
+
+
+== Temperaturas y puntos de fusión ==
+La temperatura a la que se empiezan a formar los fundidos ricos en sílice varía entre los 700 y los 900 °C, mientras que los pobres en sílice se empiezan a formar entre los 1200 y los 1300 °C.[3]​
+Se denomina punto de solidus a la temperatura en la que empieza a fundirse una roca y punto de liquidus a la temperatura en la que la fusión es total. Tanto la presencia de agua como una disminución de la presión pueden bajar los puntos de solidus y liquidus de una roca, facilitando la formación de magmas sin aumentar la temperatura.[2]​
+
+
+== Formación de magmas ==
+
+El 80 % del magmatismo se produce en los bordes constructivos de las placas tectónicas, bajo las dorsales oceánicas, y el resto en zonas de subducción y en regiones localizadas en el interior de las placas, por efecto de puntos calientes.[2]​
+
+Magmatismo de dorsales: la fusión bajo las dorsales puede deberse a la disminución de la presión en las rocas como consecuencia de su ascenso por los movimientos convectivos, en sólido, del manto. El ascenso a la superficie de estos magmas primarios y sin diferenciar es el origen de las inmensas masas basálticas de los fondos oceánicos.
+Magmatismo en zonas de subducción: la fusión se produce por el aumento de la temperatura por la compresión de la litosfera que subduce y fricción con las rocas del manto, a lo que se añade el agua que libera y asciende, que disminuye el punto de solidus de las rocas superiores. Se forman los magmas que darán lugar a los batolitos típicos de las zonas orogénicas.
+Magmatismo intraplaca: es debido a la acción de puntos calientes, tanto bajo corteza continental como oceánica. Las grandes fracturas litosféricas intraplaca también pueden producir magmatismo por fusión de rocas del manto, como se observa por la asociación de estas fallas con la presencia de volcanes.
+
+
+== Migración y solidificación ==
+El magma se desarrolla en el manto o en la corteza, donde las condiciones de temperatura y presión favorecen el estado fundido. Tras su formación, el magma asciende flotando hacia la superficie terrestre, debido a su menor densidad que la roca madre.[4]​ A medida que migra a través de la corteza, el magma puede acumularse y residir en cámaras magmáticas (aunque trabajos recientes sugieren que el magma puede almacenarse en zonas mush ricas en cristales transcristalinos en lugar de en cámaras magmáticas dominantemente líquidas[5]​). El magma puede permanecer en una cámara hasta que se enfría y cristaliza para formar roca intrusiva, entra en erupción como volcán o se desplaza a otra cámara magmática[cita requerida].
+
+
+=== Plutonismo ===
+Cuando el magma se enfría, empieza a formar fases minerales sólidas. Algunas de ellas se depositan en el fondo de la cámara magmática formando cúmulos que pueden constituir intrusiones máficas estratificadas. El magma que se enfría lentamente dentro de una cámara magmática suele acabar formando cuerpos de rocas plutónicas como gabro, diorita y granito, dependiendo de la composición del magma. Alternativamente, si el magma entra en erupción forma rocas volcánicas como basalto, andesita y riolita (los equivalentes extrusivos del gabro, la diorita y el granito, respectivamente).[cita requerida]
+
+
+=== Vulcanismo ===
+
+El magma que sale a la superficie durante una erupción volcánica se denomina lava. La lava se enfría y solidifica con relativa rapidez en comparación con los cuerpos magmáticos subterráneos. Este rápido enfriamiento no permite que los cristales crezcan en tamaño, y una parte del fundido no cristaliza en absoluto, convirtiéndose en vidrio. Entre las rocas compuestas principalmente de vidrio volcánico se encuentran la obsidiana, la escoria y la piedra pómez.
+Antes y durante las erupciones volcánicas, los volátiles como el CO2 y el H2O abandonan parcialmente el fundido a través de un proceso conocido como exsolución. El magma con bajo contenido en agua se vuelve cada vez más viscoso. Si se produce una exsolución masiva cuando el magma se dirige hacia arriba durante una erupción volcánica, la erupción resultante suele ser explosiva.[6]​
+
+
+== Ciclos magmáticos ==
+
+A lo largo de la historia temprana del planeta se han producido al menos tres supereventos magmáticos, los episodios de mayor formación de rocas ígneas del registro geológico. Están separados entre sí unos 800 millones de años (Ma): el más antiguo e intenso hace unos 2700 Ma, en el Neoarcaico, otro hace 1900 Ma, en el Orosírico y el tercero hace 1200 Ma, en el límite Ectásico-Esténico. En cada uno de ellos se habrían formado grandes mesetas basálticas que habrían contribuido al aumento de las masas continentales en periodos de tiempo relativamente cortos.[7]​
+Para explicar estos supereventos, algunos autores, como el tectónico Kent Condie en 1998,[8]​ han propuesto que el mecanismo habría sido producido por unas avalanchas gravitacionales gigantescas de material del manto superior y la corteza, que caerían desde el límite del manto superior con el inferior (a 670 km de profundidad) hasta el mismo límite del núcleo externo (a unos 2900 km de la superficie), atravesando todo el manto inferior (unos 2230 km de espesor). Como consecuencia se formarían numerosas perturbaciones en forma de plumas del manto que, ascendiendo hasta la corteza, darían lugar al citado magmatismo.[7]​
+El origen de estas avalanchas periódicas del manto estaría en los cambios físicos de los fragmentos de litosfera que han subducido hasta los 670-700 km de profundidad, cotas en las que encuentran resistencia a subducir más y se horizontalizan. La masa de litosfera que ha subducido, de hasta 100 km de espesor y más fría que el manto que la envuelve, puede tardar varios millones de años en alcanzar la temperatura que facilite, junto con la mayor presión de estos niveles, la densificación de los minerales que la componen (paso de peridotitas a eclogitas). Cuando la nueva situación de densidad de la masa litosférica subducida se vuelve inestable, se produciría el derrumbe en avalancha hasta el núcleo.[9]​
+Este proceso se habría repetido varias veces pero, como cada evento implica una importante pérdida de calor en el manto, cada repetición del ciclo habría sido de menor intensidad que la precedente. Se podrían explicar asimismo por este mecanismo los picos de magmatismo, de mucha menor intensidad que los anteriores, del final del Paleozoico, hace unos 300 Ma, y del Cretácico medio, hace unos 100 Ma.[7]​
+
+
+== Rocas ígneas ==
+
+El resultado del enfriamiento del magma son las rocas ígneas. Dependiendo de las circunstancias del enfriamiento, las rocas pueden tener granulado fino o grueso.[2]​
+Según el lugar de enfriamiento y cristalización, las rocas ígneas se dividen en:
+
+Rocas plutónicas o intrusivas. Son las que se han formado a partir de un enfriamiento lento del magma, en profundidad y generalmente en grandes masas. Se denominan plutones y diques a sus yacimientos. Por ejemplo, el granito, el gabro y la sienita.
+Rocas volcánicas, extrusivas o efusivas. Se forman por el enfriamiento del magma desgasificado, la lava, en la superficie terrestre. Por ejemplo, el basalto y la riolita.
+Rocas filonianas o subvolcánicas. Son aquellas que forman diques y filones. Ej: pórfido granítico o pórfido andesítico.
+Según la composición del magma original se dividen en:[10]​
+
+Graníticas o félsicas, procedentes de magmas graníticos. Ricas en sílice y feldespato potásico, normalmente de colores claros.
+Intermedias, procedentes de magmas andesíticos. De composición intermedia entre las félsicas y las máficas.
+Máficas, procedentes de magmas basálticos. Pobres en sílice y de colores oscuros.
+Ultramáficas, procedentes de magmas formados en el manto superior. Formadas por silicatos de colores oscuros.
+
+
+== El magma y el metamorfismo ==
+El magma juega un rol fundamental en otros procesos geológicos, como en el metamorfismo. El caso más claro sería en el metamorfismo de contacto, término utilizado para denominar al proceso por el cual se transforma estructural y composicionalmente una roca debido al contacto o cercanía con un cuerpo ígneo intrusivo. Algunos ejemplos de rocas producto del metamorfismo de contacto serían las corneanas o los skarn. Otro caso donde se puede observar el rol del magma en el metamorfismo sería para el caso del metamorfismo hidrotermal, la alteración estructural y composicional de una roca por la circulación de fluidos hidrotermales. Estos fluidos serían los volátiles que fueron escapando del magma a medida que este se enfriaba. De estos fluidos hidrotermales se puede destacar el vapor de agua, que se condensa y circula como líquido, portando una gran cantidad de iones disueltos, sería entonces el fluido con mayor relevancia en este proceso. La espilita es un ejemplo de una roca producto de este último tipo de metamorfismo.
+
+
+== Uso en producción de energía ==
+El Proyecto de Perforación Profunda de Islandia (en inglés Iceland Deep Drilling Project, IDDP), mientras perforaba varios pozos de 5.000 m en un intento de aprovechar el calor del lecho volcánico bajo la superficie de Islandia, dio con una bolsa de magma a 2.100 m en 2009. Dado que era la tercera vez en la historia que se alcanzaba el magma, IDDP decidió realizar una inversión en el agujero, bautizándolo como IDDP-1.[11]​
+En el agujero se construyó una caja de acero cementado con una perforación en el fondo cerca del magma. Las altas temperaturas y la presión del vapor de magma se utilizaron para generar 36 MW de energía, lo que convirtió al IDDP-1 en el primer sistema geotérmico producido por magma del mundo.[11]​
+
+
+== Véase también ==
+Cámara magmática
+Orogénesis
+Volcán
+
+
+== Referencias ==

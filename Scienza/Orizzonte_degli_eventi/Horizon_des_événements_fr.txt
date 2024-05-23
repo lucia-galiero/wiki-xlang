@@ -1,0 +1,293 @@
+L'horizon des événements est, en relativité restreinte et en relativité générale, constitué par la limite éventuelle de la région qui peut être influencée dans le futur par un observateur situé en un endroit donné à une époque donnée. 
+Dans le cas d'un trou noir, en particulier, on peut définir son horizon des événements comme une surface qui l'entoure, d'où aucun objet, ni même un rayon de lumière ne peut jamais échapper au champ gravitationnel du trou noir. Cet horizon se trouve au niveau où la vitesse de libération à l'attraction gravitationnelle du trou noir devrait être supérieure à la vitesse de la lumière. Il s'agit d'une surface géométrique définie par la physique théorique (en relativité générale), et donc sans consistance matérielle, au contraire du cas des surfaces des planètes et des étoiles, gazeuses ou solides.
+L'horizon des événements peut évoquer un autre horizon : l'horizon des particules, qui distingue dans l'univers l'ensemble des particules (parties de l'univers) qui ont été observables jusqu'à un temps antérieur à un instant donné, de celles qui ne l'ont pas été. Cette limite est directement définie par la vitesse de propagation de la lumière dans l'espace (célérité de la lumière).
+L'horizon des événements d'un trou noir n'est pas un objet physique tangible, des objets ou des particules peuvent le franchir (mais seulement dans la direction du centre du trou noir), et on estime qu'un voyageur (s'il survivait !) ne pourrait pas se rendre compte du moment où il le traverserait.
+
+
+== Propriétés ==
+Les rayons de lumière qui définissent l'horizon des événements doivent voyager parallèlement l'un à l'autre. S'ils ne voyageaient pas de cette façon, il y aurait finalement une collision entre les rayons de lumière, et ils tomberaient donc dans le trou noir. Si un rayon de lumière tombe dans le trou noir, il n'était donc pas sur l'horizon des événements. Ceci veut dire que l'aire de l'horizon des événements ne peut jamais devenir plus petite. L'aire de la surface peut rester de la même taille, ou devenir plus grande. Ceci est le cas si de la matière ou de la radiation tombe dans un trou noir.
+
+
+== Effets de l'horizon sur la lumière ==
+Près d'un trou noir, les effets de la dilatation du temps sont considérables. À cause de cet effet, la fréquence des rayons de lumière va devenir plus basse, ce qui a pour effet d'allonger les longueurs d'onde. Ce décalage vers les longueurs d'onde plus grandes, nommé redshift gravitationnel, peut être calculé avec cette formule (pour un observateur très éloigné) : 
+
+  
+    
+      
+        
+          
+            
+              λ
+              λ
+            
+          
+          
+            o
+          
+        
+        =
+        
+          
+            1
+            −
+            
+              
+                
+                  2
+                  G
+                  M
+                
+                
+                  
+                    c
+                    
+                      2
+                    
+                  
+                  r
+                
+              
+            
+          
+        
+        =
+        
+          
+            1
+            −
+            
+              
+                
+                  R
+                  
+                    S
+                  
+                
+                r
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\lambda }{\lambda }}_{o}={\sqrt {1-{\frac {2GM}{c^{2}r}}}}={\sqrt {1-{\frac {R_{S}}{r}}}}}
+  
+
+Où la variable 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  
+ est la distance au centre du trou noir, 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+ la constante gravitationnelle, 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+ la masse du trou noir et 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  
+ la vitesse de la lumière. 
+  
+    
+      
+        
+          R
+          
+            S
+          
+        
+      
+    
+    {\displaystyle R_{S}}
+  
+ est le rayon de Schwarzschild du trou noir, c'est-à-dire le rayon de l'horizon.
+L'énergie de la lumière baissant avec sa fréquence, l'onde lumineuse devient de plus en plus indétectable à mesure qu'elle s'approche de l'horizon et nulle à l'horizon. Un observateur extérieur au trou noir ne peut jamais observer le franchissement de l'horizon par la lumière.
+
+
+== Le rayon de l'horizon ==
+
+Le rayon de l'horizon d'un trou noir se mesure du centre de la singularité à l'horizon des événements. 
+Pour calculer le rayon, on peut comparer l'énergie cinétique et l'énergie gravitationnelle, à savoir :
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        
+          
+            
+              m
+              
+                c
+                
+                  2
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle E_{k}={\frac {mc^{2}}{2}}}
+  
+ et  
+  
+    
+      
+        
+          E
+          
+            p
+          
+        
+        =
+        
+          
+            
+              G
+              M
+              m
+            
+            r
+          
+        
+      
+    
+    {\displaystyle E_{p}={\frac {GMm}{r}}}
+  
+
+L'égalité 
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        
+          E
+          
+            p
+          
+        
+      
+    
+    {\displaystyle E_{k}=E_{p}}
+  
+ de ces deux énergies donne alors :
+
+  
+    
+      
+        m
+        
+          
+            
+              c
+              
+                2
+              
+            
+            2
+          
+        
+        =
+        
+          
+            
+              G
+              M
+            
+            r
+          
+        
+        m
+      
+    
+    {\displaystyle m{\frac {c^{2}}{2}}={\frac {GM}{r}}m}
+  
+
+d'où la valeur du rayon de l'horizon :
+
+  
+    
+      
+        r
+        =
+        
+          
+            
+              2
+              G
+              M
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle r={\frac {2GM}{c^{2}}}}
+  
+
+
+== Références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Horizon (physique)
+Horizon (trou noir)
+Event Horizon, le vaisseau de l'au-delà, film de 1997 dont le titre est issu du concept de l'horizon des événements.
+Intervalle d'espace-temps
+
+
+=== Bibliographie ===
+Stephen Hawking, A Brief History of Time: From the Big Bang to Black Holes, 1988.  (ISBN 0-553-05340-X)
+
+
+=== Liens externes ===
+(en) An Introduction to Black Holes
+(en) Event Horizon
+À l'intérieur d'un trou noir
+
+ Portail de la physique   Portail de la cosmologie

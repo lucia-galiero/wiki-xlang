@@ -1,0 +1,217 @@
+La dureza es la oposición que ofrecen los materiales a alteraciones físicas como la penetración, la abrasión y el rayado.
+
+
+== Escalas de uso industrial ==
+En metalurgia la dureza se mide utilizando un durómetro para el ensayo de penetración de un indentador. Dependiendo del tipo de punta empleada y del rango de cargas aplicadas, existen diferentes escalas, adecuadas para distintos rangos de dureza.
+El interés de la determinación de la dureza en los aceros estriba en la correlación existente entre la dureza y la resistencia mecánica, siendo un método de ensayo más económico y rápido que el ensayo de tracción, por lo que su uso está muy extendido.
+Hasta la aparición de la primera máquina Brinell para la determinación de la dureza, ésta se medía de forma cualitativa empleando una lima de acero templado que era el material más duro que se empleaba en los talleres.
+Las escalas de uso industrial actuales son las siguientes:[1]​
+
+Dureza Brinell: Emplea como punta una bola de acero templado o carburo de wolframio. Para materiales duros, es poco exacta pero fácil de aplicar. Poco precisa con chapas de menos de 6 mm de espesor. Estima resistencia a tracción.
+Dureza Knoop: Mide la dureza en valores de escala absolutas, y se valoran con la profundidad de señales grabadas sobre un mineral mediante un utensilio con una punta de diamante al que se le ejerce una fuerza estándar.
+Dureza Rockwell: Se utiliza como punta un cono de diamante (en algunos casos bola de acero). Es la más extendida, ya que la dureza se obtiene por medición directa y es apto para todo tipo de materiales. Se suele considerar un ensayo no destructivo por el pequeño tamaño de la huella.
+Rockwell superficial: Existe una variante del ensayo, llamada Rockwell superficial, para la caracterización de piezas muy delgadas, como cuchillas de afeitar o capas de materiales que han recibido algún tratamiento de endurecimiento superficial.
+Dureza Rosiwal: Mide en escalas absoluta de durezas, se expresa como la resistencia a la abrasión medidas en pruebas de laboratorio y tomando como base el corindón con un valor de 1000.
+Dureza Shore: Emplea un escleroscopio. Se deja caer un indentador en la superficie del material y se ve el rebote. Es adimensional, pero consta de varias escalas. A mayor rebote, mayor dureza. Aplicable para control de calidad superficial. Es un método elástico; no de penetración como los otros.
+Dureza Vickers: Emplea como penetrador un diamante con forma de pirámide cuadrangular. Para materiales blandos, los valores Vickers coinciden con los de la escala Brinell. Mejora del ensayo Brinell para efectuar ensayos de dureza con chapas de hasta 2 mm de espesor.
+Dureza Webster: Emplea máquinas manuales en la medición, siendo apto para piezas de difícil manejo como perfiles largos extruidos. El valor obtenido se suele convertir a valores Rockwell.
+
+
+== Nanoindentación ==
+La nanoindentación es un ensayo de dureza llevado a cabo a la escala de longitudes nanométricas. Se utiliza una punta pequeña para indentar el material objeto de estudio. La carga impuesta y el desplazamiento se miden de manera continua con una resolución de micronewtons y subnanómetros, respectivamente. La carga y el desplazamiento se miden simultáneamente durante el proceso de indentación y por ello también se la denomina «nanoindentación instrumentada». Las técnicas de nanoindentación son importantes para la medición de las propiedades mecánicas en aplicaciones microelectrónicas y para la deformación de estructuras a micro y nanoescala. Los nanoindentadores incorporan microscopios ópticos para la localización del área a estudiar. Sin embargo, a diferencia de los métodos de indentacion a macro y microescala, en la técnica de nanoindentación instrumentada no esposible medir directamente el área de la indentación.
+Las puntas de los nanopenetradores vienen en una variedad de formas. A una forma común se le conoce como penetrador de Berkovich, el cual es una pirámide con 3 lados.
+Oliver y Pharr inventaron un método para calcular el área proyectada de la indentación 
+  
+    
+      
+        
+          A
+          
+            c
+          
+        
+      
+    
+    {\displaystyle A_{c}}
+  
+ durante la máxima carga.[2]​ La primera etapa de una prueba de nanoindentación involucra el desarrollo de indentaciones sobre un patrón de calibración. La sílice fundida es un patrón de calibración común, debido a que tiene propiedades mecánicas homogéneas y bien caracterizadas. El propósito de efectuar indentaciones sobre el estándar de calibración es determinar el área de contacto proyectada de la punta del penetrador Ac como una función de la profundidad de la indentación. Para una punta de Berkovich perfecta,
+
+  
+    
+      
+        
+          A
+          
+            c
+          
+        
+        =
+        24.5
+        ⋅
+        
+          h
+          
+            c
+          
+          
+            2
+          
+        
+        
+      
+    
+    {\displaystyle A_{c}=24.5\cdot h_{c}^{2}\,}
+  
+
+Sin embargo, en general la punta no perfecta, se desgasta y cambia de forma con cada uso. Por tanto, debe llevarse a cabo regularmente una calibración de la punta que se utiliza. Para ello es necesario encontrar la función relaciona el área Ac de la sección transversal del penetrador a máxima carga con la distancia de la punta hc que está en contacto con el material que se está indentando. 
+La profundidad total de la indentación h es la suma de la profundidad de contacto hc y la profundidad hs en la periferia de la indentación donde el indentador no hace contacto con la superficie del material, es decir,
+
+  
+    
+      
+        h
+        =
+        
+          h
+          
+            c
+          
+        
+        +
+        
+          h
+          
+            s
+          
+        
+      
+    
+    {\displaystyle h=h_{c}+h_{s}}
+  
+
+donde,
+
+  
+    
+      
+        
+          h
+          
+            s
+          
+        
+        =
+      
+    
+    {\displaystyle h_{s}=}
+  
+ Ɛ 
+  
+    
+      
+        
+          
+            
+              P
+              
+                m
+                a
+                x
+              
+            
+            S
+          
+        
+      
+    
+    {\displaystyle {\frac {P_{max}}{S}}}
+  
+
+donde Pmax es la carga máxima y Ɛ es una constante geométrica igual a 0.75 para un penetrador de Berkovich. S es la rigidez al descargar, que se calcula en la curva de nanoindentación: 
+  
+    
+      
+        S
+        =
+        d
+        P
+        
+          /
+        
+        d
+        h
+      
+    
+    {\displaystyle S=dP/dh}
+  
+
+La dureza de un material determinada por la nanoindentación instrumentada se calcula entonces como:
+
+  
+    
+      
+        
+          H
+          
+            I
+            T
+          
+        
+        =
+        
+          
+            
+              P
+              
+                m
+                a
+                x
+              
+            
+            
+              A
+              
+                c
+              
+            
+          
+        
+      
+    
+    {\displaystyle H_{IT}={\frac {P_{max}}{A_{c}}}}
+  
+
+La dureza (determinada por la nanoindentación) se reporta con unidades de GPa y los resultados de indentaciones múltiples por lo general se promedian para incrementar la precisión.
+Este análisis permite el cálculo del módulo elástico y la dureza durante la carga máxima y es conocido como nanoindentación instrumentada; sin embargo, actualmente se emplea de modo normal una técnica experimental conocida como nanoindentación dinámica. Durante ésta, se superpone una carga oscilante pequeña sobre la carga total en la muestra. De esta manera, la muestra se descarga de manera elástica continuamente a medida que se incrementa la carga total. Esto permite mediciones continuas del módulo elástico y de la rigidez como una función de la profundidad de la indentación.
+
+
+== Escala usadas en mineralogía ==
+
+En mineralogía se utiliza la escala de Mohs, creada por el alemán Friedrich Mohs en 1820, que mide la resistencia al rayado de los materiales.
+
+A un nivel profesional, se utilizan en mineralogía, las escala de Rosiwal y de Knoop, ya que estas permiten realizar la valoración de medias con una cuantificación absoluta.
+
+
+== Equivalencia entre escalas de dureza ==
+Lista de equivalencias aproximadas para escalas de dureza de aceros no austeníticos (en el rango de la escala Rockwell C):[3]​
+
+
+== Equivalencias de dureza y resistencia ==
+Para aceros no aleados y fundiciones, existe una relación aproximada y directa entre la dureza Vickers y el límite elástico, siendo el límite elástico aproximadamente 3,3 veces la dureza Vickers.
+Rp0,2==3,3*HV
+
+
+== Véase también ==
+Durómetro
+Anexo:Dureza de los elementos químicos
+
+
+== Notas ==
+
+
+== Referencias ==
+Askeland, Ronald R. (2011). «6». Ciencia e ingeniería de materiales (6° edición). México, D. F.: Cengage Learning. pp. 223-226. 
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Dureza.

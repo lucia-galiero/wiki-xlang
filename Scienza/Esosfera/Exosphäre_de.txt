@@ -1,0 +1,22 @@
+Die Exosphäre (von griechisch ἔξω [éxo] ‚außen, außerhalb‘ und σφαῖρα [sphaĩra] ‚Kugel‘) stellt die äußerste Schicht der Atmosphäre dar. Sie markiert den fließenden Übergang zum interplanetaren Raum, ist jedoch nach Definition von NASA und Fédération Aéronautique Internationale bereits dessen Teil.
+Die Exosphäre schließt an die Thermosphäre an und beginnt damit bei der Erde (nach unterschiedlichen Quellenangaben) etwa in einer Höhe zwischen 400 km und 1000 km. Ihre äußere Grenze wird mit etwa 10 000 km angegeben. Allerdings ist die Grenze nicht genau definiert, weil die Gasdichte kontinuierlich abnimmt und theoretisch nie den Wert null erreicht. Neuere Untersuchungen sprechen von 630 000 km, was weit über die Mondbahn hinausreicht.
+
+
+== Charakteristik ==
+
+Die Exosphäre ist ein Teil der Heterosphäre, das heißt jenes Bereiches der Atmosphäre ab ca. 120 km Höhe, in dem sich die Gase entsprechend ihrer Atommassen entmischen und schichten. Ab einer Höhe von 1000 km kommt nur noch Wasserstoff als das leichteste Gas vor, dieser Bereich wird Geokorona genannt.
+Alle in der Exosphäre enthaltenen Teilchen sind weitgehend ionisiert. 
+Die Exosphäre ist die einzige Atmosphärenschicht, aus der Gasmoleküle aufgrund ihrer eigenen Geschwindigkeit das Gravitationsfeld der Erde verlassen können, da so wenige Teilchen vorhanden sind, dass ihre Bremswirkung vernachlässigt werden kann. Die Exosphäre wird deshalb auch als Dissipationssphäre bezeichnet.
+Die hohe Temperatur von über 1000 °C, die in der Exosphäre herrscht, resultiert aus der Geschwindigkeit der Teilchen (schnelle Teilchen entsprechen hohen Temperaturen). Ein gewöhnliches Thermometer würde allerdings keine so hohen Temperaturen anzeigen, da die Gasdichte in dieser Höhe viel zu gering ist, um einen messbaren Wärmetransport zu bewirken.
+
+
+== Exosphäre bei anderen Himmelskörpern ==
+Auch andere Planeten oder Monde besitzen eine Exosphäre, so zum Beispiel der Planet Merkur, aber auch der Erdmond.
+
+
+== Weblinks ==
+Untersuchung der Exosphäre des Merkur. Raumfahrer Net e.V.
+Erforschung der Exosphäre des Erdmonds durch LunarSat
+
+
+== Einzelbelege ==

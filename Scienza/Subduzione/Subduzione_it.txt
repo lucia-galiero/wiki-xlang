@@ -1,0 +1,62 @@
+La subduzione è un fenomeno geologico che ha un ruolo chiave nella teoria della tettonica delle placche. Con questo termine si intende lo scorrimento di una placca litosferica sotto un'altra placca ed il suo conseguente trascinamento in profondità nel mantello, connesso alla produzione di nuova litosfera oceanica nelle dorsali medio-oceaniche, la quale tenderebbe ad aumentare la superficie complessiva del pianeta; questo fenomeno avviene lungo i margini convergenti delle placche, dove la crosta oceanica viene quindi distrutta per subduzione (concetto di invariabilità del raggio terrestre).
+
+
+== Descrizione ==
+Si possono avere in prima approssimazione due casi, a seconda della natura delle due placche coinvolte:
+
+convergenza di una placca di litosfera oceanica ed una di litosfera continentale;
+convergenza di due placche litosferiche di tipo oceanico.
+Nel primo caso la litosfera che sprofonda è quella oceanica in quanto è la sola a possedere una densità pari se non superiore a quella del mantello sottostante, mentre la litosfera continentale è troppo leggera (potrà al massimo in alcuni casi sottoscorrere per un tratto ma senza immergersi nel mantello). 
+Nel secondo caso una placca oceanica finirà per incunearsi al di sotto dell'altra placca oceanica.
+L'inclinazione della placca in subduzione è inoltre dipendente dalla direzione in cui avviene il movimento a causa del movimento relativo tra crosta e mantello. Si possono quindi definire quattro casi:
+
+subduzione verso ovest, a causa del flusso opposto del mantello troviamo alti angoli di subduzione ed un sistema in estensione.
+subduzione verso est, assecondando i movimenti del mantello in questa subduzione troviamo bassi angoli ed un sistema in contrazione.
+subduzione verso nord, sistema neutro.
+subduzione verso sud, attualmente non si stanno verificando subduzioni verso sud.
+
+
+== Struttura di una zona di subduzione ==
+
+Nelle aree di subduzione si trovano in sequenza alcuni elementi fisici ben determinati. Partendo dall'oceano, ci sono:
+
+fosse oceaniche, in cui la litosfera oceanica viene subdotta al di sotto di altra litosfera (continentale o anche oceanica, in questo caso si ha una "subduzione infraoceanica", come quella che ha prodotto le ofioliti dell'Oman): si tratta di una depressione stretta e allungata, e profonda alcuni chilometri.
+regione di "avanarco", è la regione a crosta continentale compresa tra fosse oceaniche e arco vulcanico.
+arco vulcanico, è una catena montuosa (anche se spesso appare come un arco insulare) costruita dall'attività vulcanica e quindi collegata al fenomeno stesso della subduzione: la crosta oceanica in subduzione, raggiunte certe profondità (intorno ai 100–110 km), scatena la risalita di magma in superficie. Non è ancora ben chiara la modalità con cui si realizza questa produzione di magma, le ipotesi principali sono due: o fonde la crosta oceanica stessa, e i fusi prodotti risalgono in superficie interagendo con il materiale del mantello; oppure la crosta oceanica rilascia all'interno del mantello soprastante dell'acqua, che abbassa la temperatura di fusione del materiale mantellico che fonde generando magma. Il magma prodotto risale in superficie, creando vulcani oppure intrusioni plutoniche. Il chimismo del magma è tendenzialmente calcalcalino, cioè di composizione più o meno andesitica.
+regione di "retroarco", è la regione a crosta continentale dove, se le modalità della subduzione soddisfano certe condizioni (sostanzialmente le placche interessate dalla subduzione non devono essere troppo in compressione), si può instaurare un regime tettonico estensivo, simile cioè a quello di un rift, regime che può tranquillamente creare un bacino di retroarco, ovvero un bacino a crosta oceanica, simile in tutto ad un vero e proprio oceano, con una propria dorsale oceanica, solo di dimensioni più moderate. Un esempio di questa situazione è il bacino del Tirreno, che è il bacino di retroarco della subduzione, sotto all'arco vulcanico della Calabria, di ciò che resta dell'oceano Tetide. Se non è interessata da questa evoluzione, la regione di retroarco sviluppa un bacino sedimentario, dove si accumulano i materiali prodotti dall'erosione sull'arco vulcanico o sulle aree continentali adiacenti. Un esempio di zona di subduzione di questo tipo è dato dalla costa occidentale del Sudamerica, al largo della quale si trova una profonda fossa oceanica, mentre sulla terraferma si sviluppa una catena montuosa e di edifici vulcanici: le Ande (da cui prendono il nome i basalti andesitici).
+
+
+== Vulcanismo associato ==
+Questo magmatismo di subduzione (oltre a contribuire enormemente alla crescita della crosta continentale) è principalmente causato dalla fusione parziale del cuneo di mantello situato al di sopra del piano di subduzione (detto piano di Benioff), il quale, a causa di una preponderante immissione di acqua (allo stato gassoso) generata in gran parte dalle reazioni di disidratazione che coinvolgono i minerali idrati contenuti nella litosfera oceanica subdotta (quali anfiboli e miche), vede abbassarsi drasticamente la sua temperatura di fusione e quindi comincia a fondere parzialmente (fusione per idratazione).
+I magmi che si generano in seguito alla subduzione di litosfera oceanica sono magmi neutri nonostante i materiali fusi siano principalmente gabbri e basalti. Questo perché anche i sedimenti accumulatisi sul fondale oceanico fondono nel processo di subduzione. I sedimenti oceanici sono di tre tipi: argillosi, sabbiosi e calcarei. I calcari portati ad alta temperatura si scindono, liberando anidride carbonica, e quindi aumentando la componente gassosa del magma; mentre le argille e le sabbie essendo formate principalmente da silice e composti silicei aumentano l'acidità del magma portandolo a neutro o andesitico (fu studiato per la prima volta nella cordigliera delle Ande).
+I magmi andesitici sono inoltre estremamente ricchi di gas quali vapore acqueo e anidride carbonica, il che spiega il carattere estremamente esplosivo delle eruzioni vulcaniche in questo ambiente geodinamico.
+Esiste anche la possibilità che si formino magmi basici (se la quantità di silice non è sufficiente per portarlo alle caratteristiche di un magma neutro). In realtà i magmi acidi non si formano dal materiale subdotto, ma per anatessi della crosta continentale che viene idrata dal vapore acqueo del magma neutro sottostante, che finirà per effondere oltre al batolite granitico che il magma acido formerà.
+La distanza tra la fossa oceanica e l'arco vulcanico è inversamente proporzionale all'inclinazione del piano di subduzione, in quanto, ad alte inclinazioni, la componente orizzontale del percorso che la placca deve compiere per raggiungere le condizioni di pressione e temperatura necessarie per il conseguimento delle reazioni di disidratazione è inferiore.
+
+
+== Dinamica nel mantello ==
+La litosfera oceanica subdotta continua a scendere in profondità nel mantello fermandosi lungo il limite tra zona di transizione e mantello inferiore a circa 670 km di profondità a causa della presenza di un'importante discontinuità fisica (brusco aumento di densità del materiale del mantello, che si ritiene dovuta a delle trasformazioni mineralogiche innescate dall'aumento della pressione con la profondità).
+
+
+== Evoluzione di una zona di subduzione ==
+L'evoluzione di questo ambiente geodinamico deve essere analizzata secondo punti di vista differenti e soprattutto tenendo conto che ogni caso in natura è a sé stante, presentando spesso delle variabilità che rendono difficoltosa una catalogazione a livello globale dei fenomeni e delle strutture. 
+In linea di massima possiamo comunque affermare che una subduzione evolve dal punto di vista del chimismo e della strutturazione dell'attività magmatica: partendo da magmi in prevalenza più basici (dato che comunque occorre del tempo perché la litosfera subdotta possa idratare a sufficienza il mantello) e più alcalini (a causa del basso grado di fusione iniziale comune a gran parte dei processi magmatici) e arrivando a magmi più acidi e con alcalinità variabile.
+La modalità dei processi intrusivi rimane invariata, può invece cambiare di molto quella vulcanica, con la creazione di nuovi archi e l'abbandono di quelli vecchi i quali, a seconda dei casi, possono trovarsi più vicino o più lontano dalla fossa.
+È inoltre possibile che si abbiano due cinture vulcaniche parallele aventi spesso chimismo differente; nel caso più frequente si ha che quella più lontana emette lave aventi composizioni più alcalino-potassiche.
+
+
+== Voci correlate ==
+Melange tettonico
+Terremoto
+Forearc basin
+Underplating
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «subduzione»
+ Wikimedia Commons contiene immagini o altri file su subduzione
+
+
+== Collegamenti esterni ==
+(EN) Movimento delle placche, su pubs.usgs.gov.

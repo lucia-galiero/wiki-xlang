@@ -1,0 +1,77 @@
+En relativité générale, une singularité gravitationnelle, est une région de l'espace-temps au voisinage de laquelle certaines quantités décrivant le champ gravitationnel deviennent infinies quel que soit le système de coordonnées retenu.
+Les singularités gravitationnelles sont des singularités mises en évidence par les solutions de l'équation du champ gravitationnel d'Albert Einstein.
+Une singularité gravitationnelle est une singularité du tenseur métrique g, et non une simple singularité de coordonnées.
+D'après les théorèmes sur les singularités de Roger Penrose et Stephen Hawking, une telle singularité est un point au-delà duquel une géodésique ne peut être prolongée.
+
+
+== Propriétés ==
+
+La description de telles régions n'est pas possible dans le cadre de la relativité générale, ce qui n'empêche pas cette dernière d'être en mesure de prédire que de telles configurations peuvent se former dans l'univers. Par exemple, la formation d'un trou noir va de pair avec l'apparition d'une singularité gravitationnelle en son sein. L'Univers observable est issu d'une phase dense et chaude, le Big Bang. Cette phase dense et chaude pourrait elle aussi être issue d'une singularité gravitationnelle.
+Le comportement d'une singularité gravitationnelle ne pouvant pas être décrit à l'aide des connaissances physiques actuelles, certains chercheurs ont émis l'hypothèse (qui par certains côtés apparaît comme un vœu pieux) que les singularités gravitationnelles ne sont jamais en mesure d'affecter l'espace environnant. Ceci est possible si elles sont entourées d'un horizon des évènements, comme cela se produit dans un trou noir. L'hypothèse de la censure cosmique suppose donc que les singularités gravitationnelles (à l'exception éventuelle de celle du Big Bang) sont toujours cachées de l'extérieur par un horizon. Cette hypothèse, promue entre autres par Stephen Hawking dans le courant des années 1970, a été réfutée à l'aide de simulations numériques dans le courant des années 1990 par les travaux de Saul Teukolsky et Matthew Choptuik sur les singularités nues.[réf. nécessaire]
+En relativité générale, une singularité n'appartient pas à l'espace-temps,,,.
+
+
+== Types de singularités gravitationnelles ==
+D'un point de vue topologique, on distingue la singularité ponctuelle de la singularité annulaire.
+ Une singularité ponctuelle est une singularité ayant la topologie d'un point et qui est au centre d'un trou noir non rotatif, décrit par la métrique de Schwarzschild.
+ Une singularité annulaire (en anglais : ring singularity) est une singularité ayant la topologie d'un anneau et qui est au centre d'un trou noir en rotation, décrit par la métrique de Kerr.
+La singularité d'un trou noir de Schwarzschild est ponctuelle et de genre espace ; celle d'un trou noir de Reissner-Nordström est ponctuelle et aussi de genre espace ; celle d'un trou noir de Kerr ou d'un trou noir de Kerr-Newman est de genre espace mais annulaire.
+La topologie de la singularité d'un trou noir de la famille de Kerr-Newman est donnée par le(s) zéro(s) de la fonction :
+
+ρ2(r,θ) = ρ2 = r2 + a2 cos2(θ),
+où :
+
+r et θ sont deux coordonnées de Boyer-Lindquist, à savoir :
+r, le rayon-coordonnée ;
+θ, la colatitude ;
+a = J/Mc est le paramètre de Kerr, avec :
+J, le moment cinétique ;
+M, la masse ;
+c, la vitesse de la lumière dans le vide.
+Le paramètre de Kerr d'un trou noir en rotation — c.-à-d. dont le moment cinétique est non nul (J ≠ 0) — est non nul (a ≠ 0) de sorte que le lieu d'annulation de la fonction ρ2(r,θ) — c.-à-d. l'ensemble des points {ρ2 = 0} — est un anneau équatorial {r = 0, θ = π⁄2}.
+Mais le paramètre de Kerr d'un trou noir sans rotation — c.-à-d. dont le moment cinétique est nul (J = 0) — est nul (a = 0) ; la fonction ρ2(r,θ) se réduit alors à la fonction r2(r) et son unique point d'annulation est r = 0.
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+
+
+==== Ouvrages ====
+[Chandrasekhar 1990] (en) Subrahmanyan Chandrasekhar, « How one may explore the physical content of the general theory of relativity », dans Daniel G. Caldi et George D. Mostow (éd. et préf.), Proceedings of the Gibbs Symposium : Yale University, May 15-17, 1989, Providence, AMS et AIP, hors coll., juill. 1990, 1re éd., 1 vol., XIII-321-[1], ill., fig., tabl. et portr., 18 × 26 cm (ISBN 0-8218-0157-0, EAN 9780821801574, OCLC 468245055, BNF 37380416, SUDOC 021547297, lire en ligne), chap. 11, p. 227-252.
+[Hawking 2001] S. Hawking (trad. de l'angl. par Ch. Cler), L'Univers dans une coquille de noix [« The Universe in a nutshell »], Paris, O. Jacob, coll. « Sciences », oct. 2001, 1re éd., 1 vol., IX-211, ill., 19 × 25 cm (ISBN 978-2-7381-1035-0, EAN 9782738110350, OCLC 300466766, BNF 37691693, SUDOC 058864482, présentation en ligne, lire en ligne).
+[Penrose 2007] R. Penrose (trad. de l'angl. par C. Laroche), À la découverte des lois de l'Univers : la prodigieuse histoire des mathématiques et de la physique [« The road to reality : a complete guide to the laws of the Universe »], Paris, O. Jacob, coll. « Sciences », avr. 2007, 1re éd., 1 vol., XXII-1061, ill., 15,5 × 24 cm (ISBN 978-2-7381-1840-0, EAN 9782738118400, OCLC 209307388, BNF 41131526, SUDOC 118177311, présentation en ligne, lire en ligne).
+[Silk 2003] J. Silk (trad. de l'angl. par C. Laroche), Une brève histoire de l'Univers [« A short history of the Universe »], Paris, O. Jacob, coll. « Sciences », nov. 2003, 1re éd., 1 vol., 259, ill., 23 × 25 cm (ISBN 2-7381-1173-4, EAN 9782738111739, OCLC 56044673, BNF 39092298, SUDOC 07555870X, présentation en ligne, lire en ligne).
+[Earman 2006] (en) John Earman, « Aspects of determinism in modern physics », dans Jeremy Butterfield et John Earman (éd. et introd.) (préf. de Dov Gabbay, Paul Thagard et John Woods), Philosophy of physics, Amsterdam, Elsevier, coll. « Handbook of the philosophy of science », oct. 2006, 1re éd., 2 vol., XXIV-1434-38, ill. et fig., 16,5 × 24,1 cm (ISBN 978-0-444-51560-5, EAN 9780444515605, OCLC 237892932, BNF 40925665, SUDOC 114256977, présentation en ligne, lire en ligne), part. B, chap. 6, p. 1369-1434 (lire en ligne [PDF]).
+[Joshi 2014] (en) Pankaj S. Joshi, « Spacetime singularities », dans Abhay Ashtekar et Vesselin Petkov (éd.), Springer handbook of spacetime, Berlin et Heidelberg, Springer, coll. « Springer handbooks », juill. 2014, 1re éd., 1 vol., XXVI-887, ill. et fig., 22,9 × 27,9 cm (ISBN 978-3-642-41991-1, EAN 9783642419911, OCLC 894030364, DOI 10.1007/978-3-642-41992-8, Bibcode 2014shst.book.....A, SUDOC 181485206, présentation en ligne, lire en ligne), part. C, chap. 20, p. 409-436 (DOI 10.1007/978-3-642-41992-8_20, Bibcode 2014shst.book..409J, arXiv 1311.0449, résumé).
+[Joshi 2015] (en) Pankaj S. Joshi, The story of collapsing stars : black holes, naked singularities, and the cosmic play of quantum gravity, Oxford, OUP, janv. 2015 (réimpr. fév. 2018), 1re éd., 1 vol., XIII-225, ill. et fig., 13,8 × 21,6 cm (ISBN 978-0-19-968676-6 et 978-0-19-881887-8, EAN 9780199686766, OCLC 1031832808, BNF 44284010, DOI 10.1093/acprof:oso/9780199686766.001.0001, SUDOC 186036167, lire en ligne).
+[Lam 2007] (en) Vincent Lam, « The singular nature of spacetime », Philosophy of Science, vol. 74, no 5,‎ déc. 2007, p. 712-723 (OCLC 5556649563, DOI 10.1086/525616, JSTOR 10.1086/525616, résumé, lire en ligne [PDF]).
+[Häfner 2012] (en) Dietrich Häfner, « Some mathematical aspects of the Hawking effect for rotating black holes », dans Felix Finster, Olaf Müller, Marc Nardmann, Jürgen Tolksdorf et Eberhard Zeidler (éd. et préf.), Quantum field theory and gravity : conceptual and mathematical advances in the search for a unified framework, Bâle, Birkhäuser, fév. 2012, 1re éd., 1 vol., XIV-380, ill. et fig., 15,6 × 23,4 cm (ISBN 978-3-0348-0042-6 et 978-3-0348-0792-0, EAN 9783034800426, OCLC 835965148, DOI 10.1007/978-3-0348-0043-3, SUDOC 166503029, présentation en ligne, lire en ligne), chap. 7, p. 121-136 (OCLC 7322218361, DOI 10.1007/978-3-0348-0043-3_7).
+
+
+==== Cours ====
+[Gourgoulhon 2014] É. Gourgoulhon, Relativité générale (cours, master Astronomie, astrophysique et ingénierie spatiale, 2de an., 2013-2014), Meudon, Observatoire de Paris, Paris-VI, Paris-VII, Paris-XI et ENS, 2014, 1 vol., 341, 21 × 29,7 cm (lire en ligne).
+
+
+=== Articles connexes ===
+Trou noir
+Étoile de Planck
+Théorèmes sur les singularités
+Censure cosmique
+
+
+=== Liens externes ===
+
+[TLFI] Informations lexicographiques et étymologiques de « singualité » (sens II, C, 2, b : singularité de l'espace-temps) dans le Trésor de la langue française informatisé, sur le site du Centre national de ressources textuelles et lexicales.
+
+ Portail de l’astronomie   Portail de la physique

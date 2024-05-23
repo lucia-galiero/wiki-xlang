@@ -1,0 +1,109 @@
+La fissione nucleare è una reazione nucleare in cui il nucleo atomico di un elemento chimico pesante (ad esempio uranio-235 o plutonio-239) decade in nuclei di atomi di numero atomico inferiore, e quindi di minore massa, con emissione di una grande quantità di energia e radioattività.
+Può avvenire spontaneamente in natura oppure essere indotta artificialmente tramite opportuno bombardamento di neutroni. È la reazione nucleare comunemente utilizzata nei reattori nucleari e nel tipo più semplice di arma nucleare (bomba A), quali la bomba all'uranio (come Little Boy che colpì Hiroshima) o al plutonio (come Fat Man che colpì Nagasaki).
+
+
+== Storia ==
+La prima fissione nucleare artificiale avvenne nel 1932 ad opera di Ernest Walton e John Cockcroft, che, accelerando protoni contro un atomo di litio-7 riuscirono a dividere il suo nucleo in due particelle alfa (cioè due nuclei di elio).
+A livello teorico fu la chimica Ida Noddack nel 1934 ad ipotizzare per prima la fissione di nuclei pesanti. Il 22 ottobre 1934 la prima fissione nucleare artificiale di un atomo di uranio fu realizzata dal gruppo di fisici italiani dei Ragazzi di via Panisperna guidati da Enrico Fermi, bombardando l'elemento con neutroni lenti. Il gruppo però non si accorse di ciò che era avvenuto, ma ritenne di aver prodotto dei nuovi elementi transuranici.
+Nella notte tra il 17 e il 18 dicembre 1938, il chimico nucleare tedesco Otto Hahn e il suo giovane assistente Fritz Strassmann furono i primi a dimostrare sperimentalmente che un nucleo di uranio-235, qualora assorba un neutrone, può dividersi in due o più frammenti dando luogo alla fissione del nucleo. Due mesi dopo Otto Frisch e a sua zia Lise Meitner ne descrissero i fondamenti teorici.
+A questo punto per i chimici e fisici iniziò a prendere forma l'idea che si potesse utilizzare questo processo, costruendo dei reattori per produrre energia (il primo prototipo dei quali fu la Chicago Pile-1 messa in funzione il 2 dicembre 1942) o degli ordigni nucleari (la prima bomba atomica esplose il 16 luglio 1945 nel test Trinity).
+
+
+== Descrizione ==
+Nella fissione nucleare, quando un nucleo di materiale fissile (ovvero che fissiona con neutroni di modesta energia cinetica, detti termici) o fissionabile (ovvero che fissiona con neutroni di una certa minima energia cinetica) assorbe un neutrone, si divide producendo due o più nuclei più piccoli e un numero variabile di nuovi neutroni. Gli isotopi prodotti da tale reazione sono radioattivi in quanto posseggono un eccesso di neutroni e subiscono una catena di decadimenti beta fino ad arrivare ad una configurazione stabile. Inoltre nella fissione vengono prodotti normalmente 2 o 3 neutroni veloci liberi.
+L'energia complessivamente liberata dalla fissione di 1 nucleo di 235U è di 211 MeV, una quantità elevatissima data dalla formula
+
+  
+    
+      
+        E
+        =
+        
+          M
+          
+            
+              
+              
+                235
+              
+            
+            U
+            +
+            n
+          
+        
+        
+          c
+          
+            2
+          
+        
+        −
+        
+          M
+          
+            P
+          
+        
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E=M_{^{235}U+n}c^{2}-M_{P}c^{2}}
+  
+
+dove la prima massa è la massa del sistema formato dal nucleo di 235U e dal neutrone incidente (sistema che si assume fermo nel riferimento del laboratorio), la seconda massa è la somma delle masse dei nuclei e dei neutroni prodotti e c è la velocità della luce nel vuoto (299792,458 km/s). Perciò in questo fenomeno parte della massa/energia a riposo del sistema iniziale scompare e per la conservazione della massa/energia viene convertita in energia di altro tipo: la maggior parte (circa 170 MeV) in energia cinetica dei frammenti pesanti prodotti della reazione (nuovi atomi e neutroni). Circa 11 MeV sono trasportati via come energia cinetica dei neutrini emessi al momento della fissione, il resto è sotto forma di energia elettromagnetica (raggi gamma). L'energia effettivamente sfruttabile come energia termica è di circa 200 MeV per ogni fissione. Per raffronto in un comune processo di combustione, l'ossidazione di un atomo di carbonio fornisce un'energia di circa 4 eV, un'energia che è un cinquantamilionesimo (1/50 000 000) di quella prodotta nella reazione nucleare di fissione.
+I nuovi neutroni prodotti possono venire assorbiti dai nuclei degli atomi di uranio-235 vicini: se ciò avviene possono produrre una nuova fissione del nucleo. Se il numero di neutroni che danno luogo a nuove fissioni è maggiore di 1 si ha una reazione a catena in cui il numero di fissioni aumenta esponenzialmente; se tale numero è uguale a 1 si ha una reazione stabile ed in tal caso si parla di massa critica. La massa critica è dunque quella concentrazione e disposizione di atomi con nuclei fissili per cui la reazione a catena si autoalimenta in maniera stabile ed il numero complessivo di neutroni presente nel sistema non varia. Se si varia tale disposizione allora il numero di neutroni assorbiti può scendere, ed in tal caso la reazione si spegne, oppure aumentare, e si ha che la reazione cresce esponenzialmente ovvero non è più controllata. Per cui scrivendo:
+
+  
+    
+      
+        K
+        =
+        
+          
+            neutroni presenti in una generazione
+            neutroni della generazione precedente
+          
+        
+      
+    
+    {\displaystyle K={\frac {\text{neutroni presenti in una generazione}}{\text{neutroni della generazione precedente}}}}
+  
+
+se la disposizione è tale che si abbia K > 1 allora il numero di neutroni aumenta, se K < 1 diminuisce, mentre se K = 1 il numero di neutroni resta stabile e si parla di massa critica. La quantità K viene definita in fisica del reattore come il fattore di moltiplicazione efficace ed è fondamentale nel controllo del reattore stesso.
+La fissione nucleare è il procedimento su cui si basano i reattori nucleari a fissione e le bombe atomiche (o, meglio, nucleari). Se per i reattori nucleari il valore di K non deve superare mai il valore di 1 se non di una quantità bassissima (come quando si aumenta la potenza del reattore e allora si può arrivare a K = 1,005) per le armi nucleari il valore di K deve essere il più alto possibile e in tal caso si può arrivare a K=1,2.
+L'uranio si trova in natura come miscela di due isotopi: 238U e 235U in rapporto di 150 a 1, dunque l'uranio-235 è solo lo 0,7% del totale dell'uranio ed è il solo ad essere fissile. Il processo di arricchimento consiste nell'aumentare la percentuale in massa di uranio 235U a scapito del 238U in modo da riuscire ad avere un numero di nuclei fissili sufficiente per far funzionare il reattore, in tal caso l'arricchimento varia dal 3% al 5%, o per costruire una bomba atomica, in tal caso l'arricchimento arriva fino al 90%. In una reazione, la presenza di impurità e di atomi di 238U e, nei reattori, di apposite barre di controllo che hanno lo scopo di controllare la reazione a catena, fanno sì che solo parte dei neutroni emessi venga assorbita dai nuclei di materiale fissile.
+
+
+=== Residui della reazione ===
+Gli atomi con un numero di massa maggiore hanno una percentuale di neutroni rispetto al peso atomico più elevata rispetto a quelli con minor numero di massa, per cui un processo di fissione produce dei frammenti di fissione con un numero elevato di neutroni; tali isotopi per diventare stabili devono dunque presentare un decadimento beta più volte. L'emivita di tali elementi dipende dal tipo di nucleo prodotto e può variare da pochi millisecondi fino a decine di anni. Per questo tutte le reazioni di fissione producono isotopi radioattivi alcuni dei quali rimangono attivi molto a lungo. Inoltre le reazioni di fissione dell'235U nei reattori nucleari avvengono in presenza di un gran numero di nuclei di 238U, questi assorbono parte dei neutroni prodotti trasformandosi in 239U (reazione di fertilizzazione) il quale in tempi rapidi decade due volte beta diventando plutonio-239 il quale ha un'emivita molto più lunga (si dimezza in 24 000 anni). Per cui le reazioni di fissione producono molte sostanze radioattive estremamente nocive, ma mentre le scorie che provengono dai prodotti da fissione decadono in pochi decenni il plutonio resta radioattivo per milioni di anni.
+Il decadimento radioattivo produce energia attraverso l'emissione di raggi beta (decadimento beta) e, per questo, è importante raffreddare le barre di combustibile nucleare dopo lo spegnimento di un reattore o quando diventano non più utilizzabili per produrre energia.
+Per costruire dei reattori nucleari che non producano scorie nucleari dagli anni cinquanta del XX secolo si stanno studiando dei reattori a fusione nucleare, ma per ora tali reattori hanno un funzionamento non continuo (si riesce a tenere 'accesa' la reazione di fusione nucleare per tempi dell'ordine di grandezza della decina di secondi); la ricerca in questo campo tuttavia va avanti, pur fra mille dubbi sulla loro possibile realizzabilità e ipotesi di avere il primo reattore funzionante entro il 2058. Il reattore nucleare a fusione più promettente è quello in corso di costruzione del progetto ITER nel sito francese di Cadarache.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Energia nucleare
+Energia nucleare nel mondo
+Fusione nucleare
+Reattore nucleare a fissione
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «fissione nucleare»
+ Wikimedia Commons contiene immagini o altri file sulla fissione nucleare
+
+
+== Collegamenti esterni ==
+
+(EN) Ellis P. Steinberg, nuclear fission, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) fission, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) IUPAC Gold Book, "nuclear fission", su goldbook.iupac.org.

@@ -1,0 +1,1257 @@
+Ein Ereignishorizont ist in der allgemeinen Relativitätstheorie eine Grenzfläche in der Raumzeit, für die gilt, dass Ereignisse jenseits dieser Grenzfläche prinzipiell nicht sichtbar für Beobachter sind, die sich diesseits der Grenzfläche befinden. Mit „Ereignissen“ sind Punkte in der Raumzeit gemeint, die durch Ort und Zeit festgelegt sind. Der Ereignishorizont bildet eine Grenze für Informationen und kausale Zusammenhänge, die sich aus der Struktur der Raumzeit und den Gesetzen der Physik, insbesondere in Bezug auf die Lichtgeschwindigkeit, ergeben. Bei statischen Schwarzen Löchern ist der Ereignishorizont eine Kugeloberfläche, deren Radius Schwarzschild-Radius genannt wird.
+Für jede Masse ab der Planckmasse (2,176 · 10−8 kg) gibt es einen Schwarzschild-Radius: Wenn ein Objekt auf ein Kugelvolumen mit einem kleineren Radius als seinem Schwarzschild-Radius komprimiert wird, so wird es ein Schwarzes Loch. Masseärmere Objekte haben eine zu große Ortsunschärfe und können deshalb nicht ausreichend komprimiert werden. Zum Beispiel liegt die Ortsunschärfe eines viel masseärmeren Protons bei etwa 10−15 m, während der Ereignishorizont bei 10−54 m läge.
+Form und Größe des Ereignishorizontes hängen nur von der Masse, dem Drehimpuls und der Ladung des Schwarzen Lochs in seinem Innern ab. Im Allgemeinen hat der Ereignishorizont die Form eines Rotationsellipsoids. Bei einem nicht rotierenden, elektrisch ungeladenen Schwarzen Loch ist er kugelförmig.
+
+
+== Einführung ==
+
+Das Gravitationsfeld eines Körpers wird durch eine äußere und eine innere Lösung der Feldgleichungen beschrieben, wobei die äußere Lösung das Gravitationsfeld außerhalb des Körpers und die innere Lösung das Feld im Inneren des Körpers beschreibt. Für den Fall einer homogenen, nicht geladenen und nicht rotierenden Kugel beschreibt die Schwarzschild-Metrik das innere und äußere Gravitationsfeld.
+Bei einem Objekt, das selbst größer als der Schwarzschild-Radius ist, gibt es keinen Ereignishorizont, da der innere Teil nicht zur äußeren Schwarzschild-Lösung gehört; die innere Lösung enthält keine Singularitäten. Erst wenn ein Objekt kleiner als sein Schwarzschild-Radius wird, entsteht eine Singularität und es tritt ein Ereignishorizont in der Raumzeit auf. Im Falle von nicht rotierenden und elektrisch nicht geladenen Schwarzen Löchern ist der Ereignishorizont die Oberfläche einer Kugel um die zentrale Singularität. Der Radius dieser Kugel ist der Schwarzschild-Radius.
+Die skalare Krümmung der Raumzeit am Ereignishorizont der Schwarzschild-Metrik ist null, denn die Metrik ist eine Vakuumlösung der einsteinschen Feldgleichungen, was impliziert, dass weder die skalare Krümmung noch der Ricci-Tensor von null verschieden sein können. Ein Krümmungsmaß, das am Ereignishorizont nicht verschwindet, ist der Kretschmann-Skalar
+
+  
+    
+      
+        
+          R
+          
+            α
+            β
+            γ
+            δ
+          
+        
+        
+          R
+          
+            α
+            β
+            γ
+            δ
+          
+        
+        =
+        
+          
+            
+              12
+              
+                
+                  
+                    r
+                    
+                      
+                        S
+                      
+                    
+                  
+                
+                
+                  2
+                
+              
+            
+            
+              r
+              
+                6
+              
+            
+          
+        
+        =
+        
+          
+            
+              48
+              
+                G
+                
+                  2
+                
+              
+              
+                M
+                
+                  2
+                
+              
+            
+            
+              
+                c
+                
+                  4
+                
+              
+              
+                r
+                
+                  6
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle R^{\alpha \beta \gamma \delta }R_{\alpha \beta \gamma \delta }={\frac {12{r_{\mathrm {S} }}^{2}}{r^{6}}}={\frac {48G^{2}M^{2}}{c^{4}r^{6}}},}
+  
+
+der am Ereignishorizont den Wert 
+  
+    
+      
+        
+          12
+        
+        
+          /
+        
+        
+          
+            r
+            
+              
+                S
+              
+            
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle {12}/{r_{\mathrm {S} }^{4}}}
+  
+ annimmt, wobei 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  
+ die Lichtgeschwindigkeit, 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+ die Gravitationskonstante, 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+ die Masse und 
+  
+    
+      
+        
+          r
+          
+            
+              S
+            
+          
+        
+      
+    
+    {\displaystyle r_{\mathrm {S} }}
+  
+ der Schwarzschild-Radius des Schwarzen Loches sind.
+Im Fernfeld gilt das klassische Gravitationsgesetz weiterhin als Näherung. Diese Näherung führt jedoch zu immer größeren Abweichungen, je mehr man sich dem Ereignishorizont annähert. In unmittelbarer Nähe des Ereignishorizonts muss dann schließlich die allgemeine Relativitätstheorie benutzt werden.
+
+
+== Geschichte ==
+John Michell war der Erste, der sich mit der Frage auseinandersetzte, wie groß die Anziehungskraft eines Himmelskörpers sein muss, damit Licht nicht mehr von seiner Oberfläche entweichen kann. Unter Benutzung der Newtonschen Gravitationstheorie und der Korpuskeltheorie fand er 1783 eine Beziehung zwischen dem Radius und der Masse eines Himmelskörpers, bei dem dieser Effekt auftritt. Diesen Radius hat Karl Schwarzschild 1916 in einer allgemeinrelativistischen Rechnung wiedergefunden, daher wurde er ihm zu Ehren als Schwarzschild-Radius bezeichnet.
+
+
+== Schwarzschild-Radius ==
+Der Schwarzschild-Radius 
+  
+    
+      
+        
+          r
+          
+            
+              S
+            
+          
+        
+      
+    
+    {\displaystyle r_{\mathrm {S} }}
+  
+ eines Körpers der Masse 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+ ist gegeben durch:
+
+  
+    
+      
+        
+          r
+          
+            
+              S
+            
+          
+        
+        =
+        
+          
+            
+              2
+              G
+              M
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        =
+        M
+        ⋅
+        1,485
+        ⋅
+        
+          10
+          
+            −
+            27
+          
+        
+        
+          
+            
+              m
+            
+            
+              k
+              g
+            
+          
+        
+      
+    
+    {\displaystyle r_{\mathrm {S} }={\frac {2GM}{c^{2}}}=M\cdot 1{,}485\cdot 10^{-27}{\frac {\mathrm {m} }{\mathrm {kg} }}}
+  
+
+Häufig wird die Masse von Objekten in der Astronomie in Sonnenmassen angegeben, mit 
+  
+    
+      
+        
+          
+            M
+            
+              ⊙
+            
+          
+        
+        =
+        1,988
+        ⋅
+        
+          10
+          
+            30
+          
+        
+        
+        
+          k
+          g
+        
+        ≈
+        2
+        ⋅
+        
+          10
+          
+            30
+          
+        
+        
+        
+          k
+          g
+        
+      
+    
+    {\displaystyle \mathrm {M_{\odot }} =1{,}988\cdot 10^{30}\,\mathrm {kg} \approx 2\cdot 10^{30}\,\mathrm {kg} }
+  
+. Für den Schwarzschild-Radius 
+  
+    
+      
+        
+          r
+          
+            
+              S
+              ,
+              ⊙
+            
+          
+        
+      
+    
+    {\displaystyle r_{\mathrm {S,\odot } }}
+  
+ der Sonne ergibt sich damit:
+
+  
+    
+      
+        
+          r
+          
+            
+              S
+              ,
+              ⊙
+            
+          
+        
+        =
+        2952
+         
+        
+          m
+        
+        ≈
+        3
+         
+        
+          k
+          m
+        
+      
+    
+    {\displaystyle r_{\mathrm {S,\odot } }=2952\ \mathrm {m} \approx 3\ \mathrm {km} }
+  
+
+oder allgemein:
+
+  
+    
+      
+        
+          r
+          
+            
+              S
+            
+          
+        
+        =
+        
+          
+            M
+            
+              
+                M
+                
+                  ⊙
+                
+              
+              
+              
+            
+          
+        
+        ⋅
+        2952
+         
+        
+          m
+        
+      
+    
+    {\displaystyle r_{\mathrm {S} }={\frac {M}{\mathrm {M_{\odot }\!\!} }}\cdot 2952\ \mathrm {m} }
+  
+ .
+Für die Masse der Erde beträgt der Schwarzschild-Radius 9 mm und für den Mount Everest 1 nm.
+Das Schwarzschild-Volumen beträgt
+
+  
+    
+      
+        
+          V
+          
+            
+              S
+            
+          
+        
+        =
+        
+          
+            4
+            3
+          
+        
+        π
+        
+          r
+          
+            
+              S
+            
+          
+          
+            3
+          
+        
+        =
+        
+          
+            4
+            3
+          
+        
+        π
+        
+          
+            
+              8
+              
+                G
+                
+                  3
+                
+              
+              
+                M
+                
+                  3
+                
+              
+            
+            
+              c
+              
+                6
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle V_{\mathrm {S} }={\frac {4}{3}}\pi r_{\mathrm {S} }^{3}={\frac {4}{3}}\pi {\frac {8G^{3}M^{3}}{c^{6}}},}
+  
+
+womit sich eine kritische Dichte durch
+
+  
+    
+      
+        
+          ρ
+          
+            c
+          
+        
+        =
+        
+          
+            M
+            V
+          
+        
+        =
+        
+          
+            M
+            
+              
+                
+                  4
+                  3
+                
+              
+              π
+              
+                
+                  
+                    8
+                    
+                      G
+                      
+                        3
+                      
+                    
+                    
+                      M
+                      
+                        3
+                      
+                    
+                  
+                  
+                    c
+                    
+                      6
+                    
+                  
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              3
+              
+                c
+                
+                  6
+                
+              
+            
+            
+              32
+              π
+              
+                G
+                
+                  3
+                
+              
+              
+                M
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \rho _{c}={\frac {M}{V}}={\frac {M}{{\frac {4}{3}}\pi {\frac {8G^{3}M^{3}}{c^{6}}}}}={\frac {3c^{6}}{32\pi G^{3}M^{2}}}}
+  
+
+definieren lässt. Sobald ein Körper diese Dichte überschreitet, entsteht ein Schwarzes Loch. Man beachte, dass die kritische Dichte mit zunehmender Masse abnimmt.
+
+
+== Ereignishorizont in der Schwarzschild-Metrik ==
+Bei nichtrotierenden, ungeladenen Schwarzen Löchern gilt die Schwarzschild-Metrik, und der Ereignishorizont ist mit dem Schwarzschild-Radius identisch.
+Zu beachten ist ferner, dass der Radius des Ereignishorizonts in der allgemeinen Relativitätstheorie nicht den Abstand vom Mittelpunkt angibt, sondern über die Oberfläche von Kugeln definiert ist. Ein kugelförmiger Ereignishorizont mit Radius 
+  
+    
+      
+        
+          r
+          
+            
+              H
+            
+          
+        
+      
+    
+    {\displaystyle r_{\mathrm {H} }}
+  
+ hat dieselbe Fläche wie eine Sphäre gleichen Radius im euklidischen Raum, nämlich 
+  
+    
+      
+        A
+        =
+        4
+        π
+        
+          r
+          
+            
+              H
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle A=4\pi r_{\mathrm {H} }^{2}}
+  
+. Aufgrund der Raumzeitkrümmung sind die radialen Abstände im Gravitationsfeld vergrößert (das heißt, der Abstand zweier Kugelschalen mit – über die Kugelfläche definierten – Radialkoordinaten 
+  
+    
+      
+        
+          r
+          
+            1
+          
+        
+      
+    
+    {\displaystyle r_{1}}
+  
+ und 
+  
+    
+      
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\displaystyle r_{2}}
+  
+ ist größer als die Differenz dieser Radien).
+
+
+== Bedeutung und Eigenschaften des Ereignishorizonts eines Schwarzen Lochs ==
+
+
+=== Gravitative Rotverschiebung ===
+Die Frequenz eines Photons, das aus einem Gravitationsfeld zu einem entfernten Beobachter gelangt, wird zum roten (energiearmen) Teil des Lichtspektrums verschoben, da dem Photon die entsprechende potentielle Energie verloren geht. Die Rotverschiebung ist umso größer, je näher sich die Lichtquelle am Schwarzen Loch befindet. Am Ereignishorizont wird die Rotverschiebung unendlich groß.
+
+
+=== Einfallzeit für einen außenstehenden Beobachter ===
+Für einen außenstehenden Beobachter, der aus sicherer Entfernung zusieht, wie ein Teilchen auf ein Schwarzes Loch zufällt, hat es den Anschein, als würde es sich asymptotisch dem Ereignishorizont annähern. Das bedeutet, ein außenstehender Beobachter sieht niemals, wie es den Ereignishorizont erreicht, da aus seiner Sicht dazu unendlich viel Zeit benötigt wird. Das gilt nicht für makroskopische Objekte, die selbst die Raumzeit verformen. Insbesondere lassen sich Supernovae beobachten.
+
+
+=== Einfallzeit für einen frei fallenden Beobachter ===
+Für einen Beobachter, der sich im freien Fall auf das Schwarze Loch zubewegt, ist dies freilich anders. Dieser Beobachter erreicht den Ereignishorizont in endlicher Zeit. Der scheinbare Widerspruch zu dem vorherigen Ergebnis rührt daher, dass beide Betrachtungen in verschiedenen Bezugssystemen durchgeführt werden. Ein Objekt, das den Ereignishorizont erreicht hat, fällt (vom Objekt selbst aus betrachtet) in endlicher Zeit in die zentrale Singularität.
+
+
+=== Geometrische Eigenschaften ===
+Der Ereignishorizont eines Schwarzen Lochs stellt eine lichtartige Fläche dar. Geometrisch gesprochen handelt es sich um die Menge aller radial auslaufenden Lichtstrahlen, die dem Schwarzen Loch gerade nicht entkommen können und die gerade nicht ins Schwarze Loch fallen, d. h. die bei konstanter Radialkoordinate eingefroren zu sein scheinen. Demzufolge ist es für einen massebehafteten Körper unmöglich, am Ereignishorizont zu verweilen. Er muss den Ereignishorizont in Richtung einer kleiner werdenden Radialkoordinate verlassen.
+Der Ereignishorizont ist keine gegenständliche Grenze. Ein frei fallender Beobachter könnte daher nicht direkt feststellen, wann er den Ereignishorizont passiert.
+
+
+== Drehimpuls und elektrische Ladung ==
+
+
+=== Rotierende Schwarze Löcher ===
+Für rotierende Schwarze Löcher ergibt sich aus der Kerr-Metrik ein Ereignishorizont, der jedoch im Gegensatz zum Ereignishorizont der Schwarzschild-Metrik eher die geometrischen Eigenschaften eines Rotationsellipsoids besitzt. Die Abmessungen dieses Rotationsellipsoids hängen dabei vom Drehimpuls und von der Masse des Schwarzen Loches ab.
+Der Ereignishorizont 
+  
+    
+      
+        
+          r
+          
+            
+              H
+            
+          
+        
+      
+    
+    {\displaystyle r_{\mathrm {H} }}
+  
+ eines rotierenden Schwarzen Lochs ist in Boyer-Lindquist-Koordinaten durch
+
+  
+    
+      
+        
+          r
+          
+            
+              H
+            
+          
+        
+        :=
+        
+          
+            
+              G
+              M
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            
+              
+                (
+                
+                  
+                    
+                      G
+                      M
+                    
+                    
+                      c
+                      
+                        2
+                      
+                    
+                  
+                
+                )
+              
+              
+                
+                2
+              
+            
+            −
+            
+              a
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle r_{\mathrm {H} }:={\frac {GM}{c^{2}}}+{\sqrt {\left({\frac {GM}{c^{2}}}\right)^{\!2}-a^{2}}}}
+  
+
+gegeben mit 
+  
+    
+      
+        a
+        :=
+        
+          
+            J
+            
+              M
+              c
+            
+          
+        
+      
+    
+    {\displaystyle a:={\frac {J}{Mc}}}
+  
+ und dem Drehimpuls 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+  
+.
+Die Lösung für 
+  
+    
+      
+        
+          r
+          
+            
+              H
+            
+          
+        
+      
+    
+    {\displaystyle r_{\mathrm {H} }}
+  
+ hängt also für ein Schwarzes Loch mit gegebener Masse nur von seiner Drehung 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ ab. Dabei lassen sich zwei Spezialfälle erkennen:
+
+Für 
+  
+    
+      
+        a
+        →
+        0
+      
+    
+    {\displaystyle a\to 0}
+  
+, d. h. für ein nicht-rotierendes Schwarzes Loch, ist
+
+  
+    
+      
+        
+          r
+          
+            
+              H
+            
+          
+        
+        =
+        2
+        
+          
+            
+              G
+              M
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        =
+        
+          r
+          
+            
+              S
+            
+          
+        
+      
+    
+    {\displaystyle r_{\mathrm {H} }=2{\frac {GM}{c^{2}}}=r_{\mathrm {S} }}
+  
+
+und 
+  
+    
+      
+        
+          r
+          
+            
+              H
+            
+          
+        
+      
+    
+    {\displaystyle r_{\mathrm {H} }}
+  
+ somit identisch mit dem Radius aus der Schwarzschild-Metrik.
+Für 
+  
+    
+      
+        a
+        →
+        G
+        M
+        
+          /
+        
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a\to GM/c^{2}}
+  
+, d. h. für ein maximal-rotierendes Schwarzes Loch, ist
+
+  
+    
+      
+        
+          r
+          
+            
+              H
+            
+          
+        
+        =
+        
+          
+            
+              G
+              M
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle r_{\mathrm {H} }={\frac {GM}{c^{2}}}}
+  
+
+und wird auch Gravitationsradius 
+  
+    
+      
+        
+          r
+          
+            
+              G
+            
+          
+        
+      
+    
+    {\displaystyle r_{\mathrm {G} }}
+  
+ genannt. In kartesischen Hintergrundkoordinaten beträgt der Radius bei maximaler Rotation hingegen 
+  
+    
+      
+        
+          
+            
+              r
+              ¯
+            
+          
+        
+        =
+        
+          
+            2
+          
+        
+         
+        
+          r
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {r}}={\sqrt {2}}\ r_{\mathrm {s} }}
+  
+, während der physikalische axiale Gyrationsradius 
+  
+    
+      
+        
+          
+            
+              
+                R
+                ¯
+              
+            
+          
+          
+            ϕ
+          
+        
+        =
+        
+          U
+          
+            ϕ
+          
+        
+        
+          /
+        
+        (
+        2
+        π
+        )
+        =
+        
+          
+            
+              |
+            
+            
+              g
+              
+                ϕ
+                ϕ
+              
+            
+            
+              |
+            
+          
+        
+        =
+        
+          r
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {R}}_{\phi }=U_{\phi }/(2\pi )={\sqrt {|g_{\phi \phi }|}}=r_{\mathrm {s} }}
+  
+ beträgt. Der poloidiale Gyrationsradius
+
+  
+    
+      
+        
+          
+            
+              
+                R
+                ¯
+              
+            
+          
+          
+            θ
+          
+        
+        =
+        
+          
+            
+              |
+            
+            
+              g
+              
+                θ
+                θ
+              
+            
+            
+              |
+            
+          
+        
+        =
+        
+          
+            
+              a
+              
+                2
+              
+            
+            
+              cos
+              
+                2
+              
+            
+            ⁡
+            θ
+            +
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {R}}_{\theta }={\sqrt {|g_{\theta \theta }|}}={\sqrt {a^{2}\cos ^{2}\theta +r^{2}}}}
+  
+
+hingegen ist nicht nur von der Radialkoordinate 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  
+, sondern auch vom Polwinkel abhängig. Die Oberfläche des Ereignishorizonts bei maximaler Rotation ist damit
+
+  
+    
+      
+        
+          A
+          
+            
+              H
+            
+          
+        
+        =
+        
+          ∫
+          
+            0
+          
+          
+            π
+          
+        
+        2
+        π
+         
+        
+          
+            
+              
+                R
+                ¯
+              
+            
+          
+          
+            ϕ
+          
+        
+         
+        
+          
+            
+              
+                R
+                ¯
+              
+            
+          
+          
+            θ
+          
+        
+        
+        
+          d
+        
+        θ
+        =
+        4
+        π
+         
+        (
+        
+          r
+          
+            2
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        )
+        =
+        8
+        π
+         
+        
+          G
+          
+            2
+          
+        
+        
+          M
+          
+            2
+          
+        
+        
+          /
+        
+        
+          c
+          
+            4
+          
+        
+      
+    
+    {\displaystyle A_{\mathrm {H} }=\int _{0}^{\pi }2\pi \ {\bar {R}}_{\phi }\ {\bar {R}}_{\theta }\,\mathrm {d} \theta =4\pi \ (r^{2}+a^{2})=8\pi \ G^{2}M^{2}/c^{4}}
+  
+
+und nicht, wie man annehmen könnte, 
+  
+    
+      
+        4
+        π
+         
+        
+          r
+          
+            H
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 4\pi \ r_{\text{H}}^{2}}
+  
+.
+Der Gravitationsradius wird oft auch als Längeneinheit bei der Beschreibung der Umgebung eines Schwarzen Lochs benutzt.
+Um den Ereignishorizont des rotierenden Schwarzen Loches befindet sich zusätzlich die Ergosphäre, in der die Raumzeit selbst in zunehmendem Maße an der Rotation des Schwarzen Loches teilnimmt. Materie, Licht, Magnetfelder etc. müssen innerhalb der Ergosphäre grundsätzlich mit dem Schwarzen Loch mitrotieren. Da Ladungen in der Ergosphäre ein starkes Magnetfeld induzieren, können die beobachteten Jets und deren Synchrotronstrahlung bei aktiven Galaxienkernen damit erklärt werden.
+
+
+=== Elektrisch geladene Schwarze Löcher ===
+Elektrisch geladene, nichtrotierende Schwarze Löcher werden durch die Reissner-Nordström-Metrik beschrieben, elektrisch geladene, rotierende Schwarze Löcher durch die Kerr-Newman-Metrik.
+
+
+== Literatur ==
+Ray d’Inverno: Einführung in die Relativitätstheorie. 2. Auflage. Wiley-VCH, Berlin 2009, ISBN 978-3-527-40912-9, Kapitel 6.7, 23.13 und 23.14. 
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

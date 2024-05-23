@@ -1,0 +1,326 @@
+La tiroide (dal greco θυρεοειδής, thyreoeidès, «a forma di scudo oblungo», composto di θυρεός, thyreòs, «scudo oblungo» e -ειδής, -eidès, «simile a») è una ghiandola endocrina, nonché il più grande viscere endocrino. Possiede una forma "a H" o "a farfalla" ed è costituita da due lobi collegati da un istmo. Si trova nella parte anteriore del collo, sotto il pomo d'Adamo. È dunque un viscere superficiale, impari e mediano. Questa posizione strategica ha consentito a molteplici chirurghi di creare un ramo specializzato della chirurgia: la chirurgia della tiroide. È grazie ai primi interventi di tiroidectomia che si posseggono conoscenze a livello istopatologico delle malattie della tiroide.
+Da un punto di vista fisiologico, la tiroide presenta due unità endocrine:
+
+la prima ha organizzazione follicolare ed è costituita dai tireociti T o cellule follicolari che producono e immagazzinano gli ormoni tiroidei (T3 e T4);
+la seconda ha organizzazione cordonale ed è costituita dai tireociti C o cellule parafollicolari, che producono e immagazzinano la calcitonina.
+La tiroide secerne gli ormoni tiroidei, che principalmente accrescono il metabolismo basale dell'organismo e stimolano la sintesi proteica. Essi hanno anche molti altri effetti, compresi quelli relativi allo sviluppo. Gli ormoni tiroidei triiodotironina (T3) e tiroxina (T4) vengono creati dallo iodio e dalla tirosina. La tiroide produce anche la calcitonina ormonale, che svolge un ruolo nell'omeostasi del calcio. La secrezione ormonale dalla tiroide è regolata dall'ormone tireostimolante (TSH) secreto dalla ghiandola pituitaria anteriore, che a sua volta è regolata dall'ormone di rilascio della tireotropina (TRH) prodotto dall'ipotalamo.
+La tiroide può essere interessata da diverse malattie. L'ipertiroidismo si verifica quando la ghiandola produce una quantità eccessiva di ormoni tiroidei; la causa più comune è la malattia di Graves, una malattia autoimmune. Al contrario, l'ipotiroidismo è una condizione in cui vi è una produzione insufficiente di ormone tiroideo. In tutto il mondo, la causa più comune dell'ipotiroidismo è la carenza di iodio. Gli ormoni tiroidei sono importanti per lo sviluppo e l'ipotiroidismo secondario dovuto a carenza di iodio rimane la principale causa di invalidità intellettiva prevenibile. Nelle regioni iodio-sufficienti, la causa più comune di ipotiroidismo è la tiroidite di Hashimoto, anch'essa una malattia autoimmune. Inoltre, la ghiandola tiroidea può anche sviluppare diversi tipi di noduli e neoplasie.
+
+
+== Storia ==
+
+La presenza e le malattie della tiroide sono state notate e trattate per migliaia di anni, sebbene la ghiandola stessa sia stata descritta solo a partire dal Rinascimento. La prima menzione documentata della tiroide è in termini di "gozzo" e compare in testi cinesi risalenti al 2700 a.C. Nel 1600 a.c. vennero usate, sempre in Cina, spugne e alghe per il trattamento dei gozzi, una pratica che si è poi diffusa in molte parti del mondo. Nella medicina ayurvedica, il libro Sushruta Samhita, scritto intorno al 1400 a.C., descrive ipertiroidismo, l'ipotiroidismo e il gozzo. Nel V secolo a.C., Aristotele e Senofonte descrissero casi di malattia di Grave; una patologia che ha poi preso il suo nome oltre due millenni più tardi in seguito alle descrizioni fatte da Robert James Graves nel 1834. Ippocrate e Platone, nel IV secolo a.C., fornirono alcune delle prime descrizioni della ghiandola stessa, pensando che avesse la funzione di ghiandola salivare. Nel I secolo a.C., Plinio il Vecchio parlò di epidemie diffusesi nelle Alpi proponendo un trattamento con alghe bruciate, una pratica a cui Galeno fece riferimento nel secondo secolo.
+Alcune ricerche evidenziano un notevole interesse per i disordini tiroidei già presso la Scuola Medica Salernitana di epoca medievale (XII sec.). Nell'articolo “The Thyroidology in the medieval Medical School of Salerno”, pubblicato dalla rivista scientifica “Thyroid”, si evidenzia come già Rogerio Salernitano, il maestro chirurgo salernitano autore del "Post mundi fabricam" (1180 circa), che era considerato al tempo in tutta Europa il trattato di chirurgia per eccellenza, descrivesse alcune cure per il gozzo nel capitolo "De bocio" del trattato stesso. L'articolo evidenzia l'intuitività e l'efficacia di questi trattamenti che, sebbene basati solo su evidenze assolutamente empiriche correttamente interpretate, costituiscono ancora oggi il fondamento delle attuali terapie antigozzigene.
+Nel 1500 Leonardo da Vinci realizzò la prima illustrazione della tiroide conosciuta. Nel 1543, l'anatomista Andreas Vesalius fornì la prima descrizione anatomica. Nel 1656 la tiroide ricevette il suo nome dall'anatomista Thomas Wharton. La ghiandola venne chiamata tiroide, che significa "scudo", poiché la sua forma assomigliava agli scudi comunemente usati nell'antica Grecia. Il nome inglese della tiroide deriva dal latino medico usato da Wharton: glandula thyreoidea. Glandula significa ghiandola in latino, e il nome thyreoidea può essere fatto risalire al termine greco antico θυρεοειδής, che significa scudo/a forma di scudo.
+Il chimico francese Bernard Courtois scoprì, nel 1811, lo iodio e, nel 1896, Eugen Baumann lo documentò come un elemento fondamentale della ghiandola tiroide. Egli, facendo bollire le ghiandole tiroidee di un migliaio di pecore, chiamò il precipitato, una combinazione degli ormoni tiroidei, "iodotironina". Nel 1907, David Marine osservò che lo iodio fosse necessario per la funzione tiroidea. La stessa tiroxina fu isolata per la prima volta nel 1914 e sintetizzata nel 1927, mentre per la trirodotossina ciò avvenne nel 1952. La conversione di T4 in T3 è stata scoperta nel 1970. La scoperta del TSH avvenne, invece, tra la prima metà e la metà del XX secolo. TRH è stato scoperto dall'endocrinologo polacco Andrew Schally nel 1970, una scoperta che contribuì in parte al suo premio Nobel per la medicina ricevuto nel 1977.
+Le prime tiroidectomie documentate come trattamento del gozzo sono attribuite a Aezio di Amida, medico vissuto nel VI secolo, e a Ali ibn Abbas al-Majusi del 990 d.C. Tale intervento è rimasto comunque a lungo rischioso e senza particolari successi, almeno fino al XIX secolo quando molti chirurghi, tra cui il prussiano Theodor Billroth, lo svizzero Theodor Kocher, lo statunitense Charles Mayo, non produssero cospicue documentazioni al riguardo. Questi studi fornirono le basi per un moderno intervento chirurgico alla tiroide. Theodor Kocher vinse il premio Nobel nel 1909 "per il suo lavoro sulla fisiologia, sulla patologia e sulla chirurgia della tiroide".
+Numerosi autori del XIX secolo descrissero il cretinismo, il mixedema e la loro correlazione con la tiroide. Charles Mayo coniò il termine ipertiroidismo nel 1910, Hakaru Hashimoto documentò un caso di tiroidite nel 1912, mentre il ruolo degli autoanticorpi fu dimostrato nel 1956. La conoscenza della tiroide e delle sue condizioni si sviluppò tra la fine del XIX e il XX secolo, con molti trattamenti moderni e modalità investigative che si sono evolute durante la metà del XX secolo, compreso l'uso dello iodio radioattivo, del tiouracile e del prelievo con ago aspirato.
+
+
+== Derivazione embriologica ==
+
+La tiroide comincia il suo sviluppo il 24º giorno come un ispessimento endodermico del pavimento della faringe primitiva al limite tra il corpo e la base della lingua. In poco tempo tale cordone si canalizza formando il dotto tireoglosso e scende verso il basso, diventando solido, all'altezza dell'abbozzo laringotracheale verso la VII settimana. Al termine di questo periodo la tiroide appare già nella sua forma e posizione definitive e il dotto tireoglosso, di norma, scompare. Nella lingua rimane una piccola fossetta, il forame cieco come reminiscenza dell'apertura superiore del dotto. All'interno dell'abbozzo della tiroide migrano le cellule del corpo ultimobranchiale che provengono dalla VI tasca dell'apparato faringeo e che formano le cellule C
+L'attività tiroidea inizia intorno alla XI settimana, dalla XX settimana i livelli ormonali aumentano per stabilizzarsi a quelli dell'adulto entro la XXXV settimana.
+La morfologia della tiroide è soggetta ad ampie variazioni interindividuali che sono determinate già durante il periodo embrionale, tra la terza e la quarta settimana. La tiroide infatti deriva da due foglietti embrionali:
+
+endoderma (il cosiddetto "terzo" foglietto embrionale) che riveste il lume del "collo" dell'embrione e che darà origine a una formazione tubulare:
+il dotto tireoglosso, impari e mediano, dal quale prenderà forma l'istmo della tiroide e parte dei lobi, contenenti i tireociti T;
+creste neurali (il cosiddetto "quarto" foglietto embrionale) che si dispone nella parte più inferiore del collo dell'embrione e che darà origine a due formazioni nodulari:
+il corpo ultimobranchiale, formazione pari, dal quale si svilupperà la porzione rimanente dei lobi laterali, contenenti i tireociti C.
+A seconda di difetti nella fusione, schizocelia o apoptosi delle strutture sovraindicate potranno esserci i seguenti difetti congeniti:
+
+lobo piramidale (o di Morgagni): un ulteriore lobo proveniente dal dotto tireoglosso che non è riuscito a degenerare del tutto;
+tiroidi sovrannumerarie: piccole formazioni nodulari provenienti dal dotto tireoglosso che si sono isolate dal resto del viscere durante la discesa del cuore;
+tubercolo di Zuckerkandl, una vera e propria estensione laterale di parenchima, dovuta all'incompleta fusione tra il dotto tireoglosso e il corpo ultimobranchiale;
+
+
+=== Istogenesi ===
+I tireociti derivano dalla massa solida di origine endodermica che forma l'abbozzo tiroideo. L'invio di sepimenti da parte del mesenchima circostante suddivide l'abbozzo in cordoni cellulari che, entro la X settimana, si suddividono in piccoli gruppi cellulari. In ciascuno di questi gruppi si forma un lume intorno al quale le cellule si dispongono in un unico strato e durante la XI settimana, per via dell'iniziata attività ghiandolare, comincia a accumularsi colloide all'interno del follicolo.
+Le cellule parafollicolari sono di origine neuroectodermica derivando dalle creste neurali che, migrate nel corpo ultimobrachiale (che corrisponde alla parte ventrale allungata di ciascuna quarta tasca faringea), arrivano nella tiroide dopo la fusione di quest'ultimo con l'abbozzo tiroideo.
+Queste due popolazioni cellulari hanno una diversa origine embriologica: solo le cellule follicolari, più numerose, originano propriamente dall'abbozzo tiroideo che deriva da un'introflessione della mucosa alla base della lingua; le cellule parafollicolari migrano invece successivamente nella tiroide provenendo dai corpi ultimobranchiali, abbozzi embrionari dei quali nei mammiferi non resta traccia, e vengono considerati parte del sistema endocrino diffuso denominato APUD (Amine Precursor Uptake and Decarbossilation).
+
+
+== Anatomia ==
+
+
+=== Morfologia nell'adulto umano ===
+
+La tiroide è un organo a forma di farfalla situato nella parte anteriore del collo. È composta da due lobi, sinistro e destro, collegati da uno stretto istmo. Negli adulti pesa 25 grammi, con ogni lobo che misura circa 5 cm di lunghezza, 3 cm di larghezza e 2 cm di spessore, mentre l'istmo è di circa 1,25 cm di altezza e di larghezza. La ghiandola è solitamente più grande nelle donne e aumenta di dimensioni durante la gravidanza.
+La superficie della tiroide è liscia e possiede un colore rosso bruno, a causa della sua intensa vascolarizzazione. Al tatto la tiroide presenta una consistenza molle.
+La tiroide si trova vicino alla parte anteriore del collo, sdraiata contro e intorno alla parte anteriore della laringe e della trachea. La cartilagine tiroidea e la cartilagine cricoide si trovano appena sopra la ghiandola, sotto il pomo d'Adamo. L'istmo si estende dal secondo al terzo anello della trachea, con la parte più alta dei lobi che arriva fino alla cartilagine tiroidea e il più basso dal quarto fino al sesto anello tracheale. La ghiandola tiroidea è coperta da una sottile capsula fibrosa, che possiede uno strato interno e uno esterno. Lo strato esterno è continuo con la fascia pretracheale, che lega la ghiandola alle cartilagini cricoide e tiroide attraverso un ispessimento della fascia per formare il legamento sospensorio posteriore della tiroide, noto anche come legamento di Berry. Questo fa sì che la tiroide si muova su e giù in occasione della deglutizione. Lo strato interno si estrude nella ghiandola e forma i setti che dividono il tessuto tiroideo in lobuli microscopici. Tipicamente sono presenti quattro ghiandole paratiroidi, due su ciascun lato, tra i due strati della capsula, nella parte posteriore dei lobi tiroidei.
+
+I muscoli infraioidei si trovano di fronte alla ghiandola mentre il muscolo sternocleidomastoideo è sul lato. Dietro le ali esterne della tiroide si trovano le due arterie carotidi. La trachea, la laringe, la faringe inferiore e l'esofago si trovano tutti dietro la tiroide. In questa regione, il nervo laringeo ricorrente e l'arteria tiroidea inferiore passano accanto o nel legamento.
+La tiroide presenta una straordinaria variabilità di peso e dimensioni che dipendono dall'età, dal sesso e dall'ambiente in cui si vive. La morfologia della tiroide è fondamentale per la valutazione del suo status funzionale (nei pazienti normali questo status è definito "eutiroidismo") e si possono ottenere dati clinicamente rilevanti anche mediante tecniche non invasive. Degli esempi sono:
+
+Manovre manuali durante l'esame obiettivo del paziente (palpazione della tiroide);
+Tecniche ecografiche (ecografia della tiroide).
+La forma della ghiandola tiroide è stata spesso paragonata a una "farfalla" o alla lettera "H", con la porzione impari e mediana definita "istmo" e le porzioni pari e laterali definite "lobi". L'istmo è determinato da due incisure (una inferiore, minuscola, e l'altra superiore, che costituisce il punto dal quale si dipartono i due lobi) e in alcuni casi è assente. Generalmente l'istmo collega i terzi inferiori dei due lobi tra loro.
+In realtà, la forma della ghiandola è molto più complessa e varia a seconda della sezione che si sta osservando:
+
+In sezioni frontali (o se vista anteriormente), il suo aspetto assomiglia a una "A" rovesciata (o se vogliamo, al simbolo matematico ∀), con la porzione mediana costituente l'istmo e le porzioni laterali (convergenti verso il basso) costituenti i lobi;
+In sezioni trasversali essa ha forma "a ferro di cavallo", con i lobi diretti posteriormente e traenti rapporti con i restanti visceri del collo.
+Normalmente il volume tiroideo dell'adulto oscilla tra 6-12 mL nel sesso femminile e 8-16 mL nel sesso maschile. In condizioni normali la tiroide presenta le seguenti dimensioni: larghezza dai 6 ai 7 cm; altezza di 3 cm; spessore 0,4 - 0,6 cm nella parte mediana e 1,5 – 2 cm nelle parti laterali. Il peso varia dai 0,2 g alla nascita ai 20-30 grammi dell'adulto
+
+
+==== Lobi ====
+I lobi tiroidei assomigliano a due coni divergenti verso l'alto, ognuno con altezza fissa e spessore variabile. Alcuni autori sono soliti scomporre i lobi in una base, un apice, due facce (laterale o antero-laterale e mediale o postero-mediale) e due margini (anteriore e posteriore).
+La distanza massima tra i due margini laterali misura invece 7 cm e si apprezza nelle sezioni trasversali della tiroide.
+La distanza minima tra i due margini laterali misura 1.25 cm ed è data dall'ampiezza dell'istmo; essa si apprezza nelle sezioni frontali della tiroide.
+
+
+===== Lobo piramidale =====
+Nel margine superiore dell'istmo, nel 50% circa dei casi, può rimanere traccia della discesa della ghiandola durante lo sviluppo nel cosiddetto lobo piramidale o piramide di Morgagni. Esso può originare anche nel margine di unione di uno dei due coni (solitamente quello sinistro) con l'istmo.
+Possiede una forma geometrica e di solito è facilmente scomponibile in due unità.
+Ascende verso l'alto e può raggiungere l'osso ioide.
+
+
+=== Varianti anatomiche ===
+Vi sono diverse varianti della ghiandola tiroidea per quanto riguarda la sua forma e dimensione oltre a quelle relative alla posizione delle ghiandole paratiroidi incorporate.
+A volte esiste un terzo lobo chiamato il lobo piramidale. Quando presente, spesso questo lobo si estende sull'osso ioide dall'istmo tiroideo e può essere diviso da uno o da più lobi. La percentuale della presenza di questo lobo varia secondo i vari studi da un 18,3% a un 44,6%. È stato dimostrato che i lobi soprannumerari più spesso sorgono dal lato sinistro e solo occasionalmente sono separati. Il lobo piramidale è anche conosciuto come la piramide di Lalouette. Il lobo piramidale è un residuo del dotto tireoglosso che di solito si consuma durante la discesa della ghiandola tiroidea. Piccole ghiandole tiroidee accessorie possono infatti verificarsi ovunque lungo il dotto tireoglosso, dal forame cieco della lingua alla posizione che occupa la tiroide nell'adulto. Un piccolo corno nella parte posteriore dei lobi tiroidei, solitamente vicino al nervo laringeo ricorrente e l'arteria tiroidea inferiore, è chiamato il tubercolo di Zuckerkandl.
+Altre varianti includono la presenza di un muscolo elevatore della tiroide, che collega l'istmo al corpo dell'osso ioide, e l'esistenza della piccola arteria tiroidea.
+
+
+=== Disposizione e rapporti ===
+
+La tiroide è generalmente posizionata nell'unione tra il terzo inferiore e i due terzi superiori della regione topografica del collo.
+La tiroide è applicata e trae, quindi, rapporto con la laringe, la parte iniziale della trachea e i fasci vascolonervosi del collo di destra e sinistra (ciascuno formato da carotide comune, vena giugulare interna e nervo vago) mediante dei legamenti che costituiscono la guaina peritiroidea, di dipendenza della fascia cervicale media.
+La guaina non è il rivestimento connettivale della tiroide, ma determina uno spazio dentro il quale è presente la ghiandola con la sua capsula e lo spazio pericoloso peritiroideo, un intreccio vascolare che separa la superficie interna della guaina dall'organo e dentro il quale, posteriormente, sono accolte le quattro ghiandole paratiroidi.
+Da questa guaina nascono legamenti che tengono salda la tiroide alla cartilagine tiroide della laringe:
+
+legamento sospensore o mediano;
+legamenti laterali interni;
+legamenti laterali esterni.
+
+Talvolta l'arteria carotide comune lascia un solco nel versante posterolaterale della ghiandola.
+Si trova quindi alla base del collo, ma la sua posizione è variabile perché segue i movimenti della laringe (sale quando si solleva il mento o quando si deglutisce).
+La tiroide è ricoperta in parte dai muscoli sternocleidoioideo, sternotiroideo e omoioideo e dalla fascia cervicale media che, nella regione mediana insieme alla fascia superficiale, è l'unica formazione a separarla dalla cute vista la mancanza dei muscoli appena citati.
+Lateralmente, invece, è ricoperta dal muscolo sternocleidomastoideo e dal muscolo platisma omolaterali.
+A volte è presente il muscolo elevatore della tiroide, come una formazione fibro-muscolare tesa fra l'osso ioide e l'istmo.
+
+
+=== Vascolarizzazione ===
+Nella maggior parte dei casi la tiroide risulta servita da un sistema di quattro arterie: le arterie tiroidee superiori e inferiori (in numero di due per lato); mentre viene drenata attraverso sei vene: le vene tiroidee superiori, medie e inferiori (in numero di tre per lato).
+
+
+==== Sistema arterioso ====
+La tiroide è vascolarizzata dalle arterie tiroidee superiori (rami delle carotidi esterne) e tiroidee inferiori (rami del tronco tireocervicale delle succlavie).
+
+
+===== Arterie tiroidee superiori =====
+Le arterie tiroidee superiori destra e sinistra sono rami della carotide esterna, che raggiungono l'organo dall'alto. L'arteria tiroidea superiore si divide in rami anteriori e posteriori che alimentano la tiroide e l'arteria tiroidea inferiore si divide in rami superiori e inferiori.
+
+
+===== Arterie tiroidee inferiori =====
+Le arterie tiroidee inferiori di destra e di sinistra, invece, nascono dal tronco tireocervicale della rispettiva succlavia, e decorrono dal basso verso l'alto. L'arteria tiroidea inferiore si divide in rami superiori e inferiori.
+Di significativa importanza risulta la descrizione del punto di diramazione dei vasi terminali dell'arteria tiroidea inferiore: infatti, a questo livello, in vicinanza con i poli inferiori dei lobi laterali della tiroide, decorre il nervo ricorrente (o laringeo inferiore), ramo del nervo vago. Esso transita dal basso verso l'alto, di solito in un occhiello vascolare. Il chirurgo deve sempre prestare attenzione a questa regione, durante la legatura del vaso corrispondente.
+Le arterie tiroidee superiori e inferiori si uniscono dietro la parte esterna dei lobi tiroidei.
+In un quarto dei casi, è possibile riscontrare una piccola arteria tiroidea ima, ramo dell'arteria brachiocefalica oppure dell'arteria carotide comune, che raggiunge l'organo dal basso verso l'istmo, decorrendo sulla linea mediana sulla faccia ventrale della trachea.
+
+
+==== Sistema venoso ====
+Il drenaggio venoso avviene attraverso una fitta rete situata nello spazio pericoloso, dalla quale prendono origine le vene tiroidee superiori e medie, che drenano nelle vene giugulari interne bilateralmente, e le vene tiroidee inferiori, tributarie del tronco brachiocefalico.
+Le vene formano un ricco plesso nello spazio peritiroideo che drena per mezzo delle vene tiroidee superiori e medie alle giugulari interne e per mezzo delle inferiori ai tronchi brachiocefalici (o vene anonime).
+
+
+==== Sistema linfatico ====
+I vasi linfatici formano una rete perifollicolare che drena in quelli della capsula, tributari dei linfonodi della catena giugulare interna, dei paratracheali e dei pretracheali.
+
+
+=== Innervazione ===
+La tiroide è innervata sia dal sistema adrenergico sia da quello colinergico. Le fibre afferenti giungono a essa per mezzo dei nervi laringei superiore e inferiore (il nervo laringeo inferiore decorre in stretto contatto con l'arteria tiroidea inferiore ed è proprio da questo rapporto anatomico che deriva la possibilità di un danno chirurgico al nervo laringeo in seguito alla legatura delle arterie tiroidee) e regolano il sistema vasomotorio, modulando il flusso di sangue che giunge alla tiroide. In aggiunta all'innervazione vasomotoria vi è un sistema di fibre adrenergiche che termina in vicinanza della membrana basale della parete follicolare; le cellule tiroidee a loro volta possiedono recettori adrenergici sulla loro membrana plasmatica, a indicare che il sistema adrenergico influenza la funzionalità tiroidea sia attraverso effetti sul flusso ematico, sia attraverso effetti diretti sulle cellule follicolari.
+
+
+== Anatomia microscopica ==
+Come tutti gli organi pieni, la tiroide è provvista da una capsula connettivale che riveste un parenchima ghiandolare. La capsula invia all'interno dell'organo tralci di tessuto connettivo che suddividono l'organo in aree irregolari, i lobuli e offrono passaggio a vasi e nervi.
+Il parenchima ha una struttura follicolare, con una serie di vescicole chiuse, i follicoli tiroidei sono formati da tireociti e sostanza colloide con intercalate le cellule parafollicolari o cellule C sia nella parete dei follicoli sia esternamente a essi.
+
+
+=== Follicoli ===
+
+I follicoli tiroidei sono delle vescicole chiuse la cui parete, l'epitelio follicolare, è formata dai tireociti o cellule follicolari, le cellule principali della tiroide atte alla produzione degli ormoni tiroidei. All'interno dei follicoli è presente del materiale amorfo, la colloide.
+La forma dei follicoli dipende dallo stato funzionale della ghiandola: una tiroide in immissione in circolo di ormoni presenterà follicoli piccoli, quasi svuotati della colloide, con tireociti cilindrici (il microfollicolo); una tiroide in sintesi ormonale, invece, accumulerà molta colloide e avrà follicoli grandi con un epitelio formato da un unico strato di cellule appiattite (il macrofollicolo).
+La fase di sintesi ormonale, che vede il riempirsi dei follicoli, caratterizza i tireociti con un reticolo endoplasmatico rugoso e un apparato di Golgi estesi, processi di esocitosi apicale, vescicole PAS-positive e mitocondri numerosi.
+
+Nella fase di immissione in circolo degli ormoni, con corrispettivo svuotamento dei follicoli, assiste alla formazione di estroflessioni nel lume follicolare per l'endocitosi e conseguente aumento di fagosomi ricolmi di colloide che deve essere rimaneggiata.
+
+
+=== Cellule parafollicolari ===
+Le cellule C o parafollicolari si trovano nello stroma reticolare della tiroide. Si trovano intercalate ai tireociti nei follicoli, senza mai accedere al lume o in piccoli gruppi nello stroma presente fra i follicoli.
+Sono cellule voluminose, con un citoplasma chiaro caratterizzato dalla presenza di vescicole di secrezione con una zona centrale elettrondensa e una zona periferica (all'interno della vescicola stessa) più chiara. Queste vescicole producono calcitonina, un ormone implicato nell'inibizione del riassorbimento del calcio osseo.
+
+
+== Fisiologia ==
+
+
+=== L'importanza dello iodio e del selenio ===
+
+La tiroide funziona correttamente, garantendo un'adeguata sintesi ormonale, se può disporre di adeguate quantità di iodio, un oligoelemento essenziale, presente nell'organismo in piccole quantità e soggetto a perdite quotidiane attraverso l'urina o il sudore, che entra nella costituzione della tiroxina (T4) e della triiodotironina (T3). Per questa ragione è molto importante assumerne attraverso l'alimentazione la giusta quantità, e agevolare così il funzionamento della ghiandola tiroidea: una eventuale carenza di iodio può portare a diverse patologie (es. gozzo) ed è particolarmente rischiosa in gravidanza, determinando anche gravi conseguenze per il feto.
+Il fabbisogno giornaliero di iodio per la sintesi degli ormoni tiroidei è di circa 150 microgrammi, ai quali, in gravidanza e in allattamento vanno aggiunti 50-100 microgrammi per la crescita del bambino.
+Anche il selenio ha un ruolo chiave nella protezione e nel funzionamento della tiroide, essendo peraltro un cofattore delle deiodinasi (enzimi responsabili della conversione della T4 in T3) e delle glutatione perossidasi e delle reduttasi della tioredoxina (enzimi coinvolti nella regolazione dello stato ossido-riduttivo della cellula tiroidea e della sua protezione dal danno ossidativo). La tiroide, infatti, contiene una quantità di selenio per grammo di tessuto maggiore rispetto a ogni altro organo del corpo.
+L'ipertiroidismo è una patologia che porta a un aumento dell'azione degli ormoni tiroidei, con conseguente aumento del metabolismo e quindi temperatura corporea elevata, perdita di peso, aumento dell'appetito, tachicardia, ipertensione e un maggior sviluppo tiroideo.
+L'ipotiroidismo (anche congenito), invece, porta a un ridotto metabolismo con conseguente bassa temperatura, aumento di peso, riduzione dell'appetito, bradicardia, ipotensione, ipotonia della muscolatura scheletrica e apatia. Se la carenza di secrezione avviene durante l'infanzia, oltre al metabolismo ridotto, avviene anche uno sviluppo ritardato del sistema nervoso che causa un ritardo mentale accompagnato da bassa statura noto come cretinismo.
+L'insieme dei sintomi dovuti a iposecrezione nell'adulto, invece, viene chiamato mixedema.
+Un basso apporto di iodio nella dieta causa il gozzo colloidale, caratterizzato da un aumentato volume della ghiandola dovuto all'aumento della colloide nei follicoli.
+Si pensa che un'insufficienza di selenio possa contribuire all'innesco di una tiroidite cronica autoimmune in soggetti predisposti.
+
+
+=== Ormoni tiroidei ===
+
+La funzione primaria della tiroide è la produzione degli ormoni tiroidei contenenti iodio, triiodotironina (T3) e tiroxina (T4) e la calcitonina dell'ormone peptidico. L'ormone T3 è così chiamato perché contiene tre atomi di iodio per molecola e T4 perché ne contiene quattro per molecola. Gli ormoni tiroidei hanno una vasta gamma di effetti sul corpo umano. Questi includono:
+
+Metabolici. Gli ormoni tiroidei aumentano il metabolismo basale avendo effetti su quasi tutti i tessuti del corpo. L'appetito, l'assorbimento di sostanze e la motilità intestinale sono tutti influenzati dagli ormoni tiroidei. Sono, infatti, in grado di aumentare l'assorbimento nell'intestino, la generazione e l'assorbimento da parte delle cellule e la decomposizione del glucosio.  Stimolano la disgregazione dei grassi e aumentano il numero di acidi grassi liberi.  Nonostante l'aumento di quest'ultimi, gli ormoni tiroidei diminuiscono i livelli di colesterolo, probabilmente aumentandone il tasso di secrezione nella bile.
+Cardiovascolari. Gli ormoni aumentano la velocità e la forza del battito cardiaco. Aumentano la frequenza respiratoria, l'assunzione e il consumo di ossigeno e aumentano l'attività dei mitocondri. Questi fattori, combinati, aumentano il flusso sanguigno e la temperatura corporea.
+Sviluppo. Gli ormoni tiroidei sono importanti per il normale sviluppo.  Aumentano la crescita dei giovani, e le cellule del cervello in via di sviluppo sono l'obiettivo principale per gli ormoni tiroidei T3 e T4. Gli ormoni tiroidei svolgono un ruolo particolarmente cruciale nella maturazione del cervello durante lo sviluppo fetale.
+Gli ormoni tiroidei svolgono anche un ruolo fondamentale nel mantenimento della normale funzione sessuale, del sonno e dei modelli di pensiero. Livelli più elevati sono associati a una maggiore velocità di generazione del pensiero ma a una minore attenzione. La funzione sessuale, compresa la libido e il mantenimento di un normale ciclo mestruale, sono influenzati dagli ormoni tiroidei.
+Dopo la secrezione, solo una piccolissima percentuale di ormoni tiroidei viaggia liberamente nel sangue. La maggior parte di essi è legata alla globulina legante la tiroxina (circa il 70%), alla transtiretina (10%) e all'albumina (15%). Solo lo 0,03% di T4 e lo 0,3% di T3 che viaggiano liberamente hanno un'attività ormonale. Inoltre, fino all'85% del T3 nel sangue viene prodotto in seguito alla conversione da T4 di iodotironina deiodasi in organi attorno al corpo.
+Gli ormoni tiroidei agiscono incrociando la membrana cellulare e legandosi al recettore degli ormoni tiroidei TR-α1, TR-α2, TR-β1 e TR-β2, che si legano agli elementi di risposta ormonale e ai fattori di trascrizione per modulare la trascrizione del DNA. Oltre a queste azioni sul DNA, gli ormoni tiroidei agiscono anche all'interno della membrana cellulare o all'interno del citoplasma attraverso reazioni con enzimi, tra cui ATPasi di calcio, adenilato ciclasi e con i trasportatori di glucosio.
+Gli ormoni, una volta rilasciati entrano in circolo dove si legano a proteine plasmatiche. Di notevole importanza il legame con la globulina, a cui sono legati il 70-75% degli ormoni che garantisce loro un'emivita più lunga e quindi li trasforma in riserva se i livelli plasmatici sono troppo alti. Un abbassamento dei livelli plasmatici porta a un distacco dalla globulina garantendo una concentrazione costante nei tessuti.
+L'estrema liposolubilità permette agli ormoni tiroidei di diffondere agilmente attraverso le membrane cellulari. I recettori specifici, infatti, si trovano nel nucleo dove, dopo aver legato l'ormone, interagiscono con il DNA per regolare l'espressione di diversi geni.
+
+
+==== Produzione di ormoni ====
+Gli ormoni tiroidei vengono creati dalla tireoglobulina. Questa è una proteina all'interno dello spazio follicolare originariamente creata all'interno del reticolo endoplasmatico delle cellule follicolari e quindi trasportata nello spazio follicolare. La tireoglobulina contiene 123 unità di tirosina, che reagiscono con lo iodio nello spazio follicolare.
+Lo iodio è essenziale per la produzione degli ormoni tiroidei. Lo iodio (I0) viaggia nel sangue come ioduro (I-), che viene assorbito nelle cellule follicolari da un cotrasportatore di ioduro di sodio. Questo è un canale ionico posto sulla membrana cellulare che nella stessa azione trasporta due ioni di sodio e uno ione ioduro nella cellula. Lo ioduro viaggia quindi all'interno della cellula e fuoriesce nello spazio follicolare attraverso l'azione della pendrina, un scambiatore di ioduro-cloruro. Nello spazio follicolare, lo ioduro viene quindi ossidato a iodio (I0). Questo lo rende più reattivo, e viene attaccato alle unità tirosina attive nella tireoglobulina dall'enzima tiroide perossidasi. Questo costituisce i precursori degli ormoni tiroidei monoiodotirosina (MIT) e diiodotirosina (DIT).
+
+Quando le cellule follicolari sono stimolate dall'ormone stimolante la tiroide (TSH), queste riassorbono la tireoglobulina dallo spazio follicolare. Le tirosine iodurate vengono tagliate, formando gli ormoni tiroidei T4, T3, DIT, MIT e tracce di triiodotironina inversa. T3 e T4 vengono rilasciati nel sangue. T4 rappresenta circa l'80%-90% degli ormoni rilasciati dalla ghiandola, mentre T3 rappresenta il 10%-20%. Gli enzimi deiodinasi nei tessuti periferici fondono in maniera casuale molecole di MIT e DIT e formano così T3 e T4. Questa è una delle principali fonti di RT3 (95%) e T3 (87%) nei tessuti periferici.
+Il funzionamento dei tireociti si suddivide in due grandi fasi: la fase di sintesi e la fase di immissione in circolo. Nella prima fase gli ormoni tiroidei vengono prodotti e accumulati nel follicolo sotto forma di colloide, mentre nella seconda vengono riassorbiti, processati e immessi nel circolo sanguigno.
+Questo dà ai tireociti una doppia polarità funzionale: durante la sintesi operano dal versante basale a quello apicale, nell'altra fase il contrario.
+
+
+===== Fase di sintesi =====
+
+Durante la fase di sintesi viene prodotta la tireoglobulina, una glicoproteina sintetizzata all'interno dei tireociti stessi che viene immagazzinata insieme a una perossidasi dentro vescicole PAS-positive nel versante apicale della cellula. La molecola di tireoglobulina contiene in totale circa 5000 aminoacidi; circa il 10% della massa totale della tireoglobulina è data da carboidrati, mentre meno dell'1% è dato dallo iodio. Nel frattempo, avviene l'assunzione di ioduri dal torrente circolatorio che vengono immessi nelle vescicole dove vengono ossidati dalla perossidasi e quindi legati a residui di tirosina della tireoglobulina. In questo modo è possibile formare una molecola di monoiodiotirosina (MIT) se si lega solo un atomo di iodio e la diiodiotirosina (DIT) se ne vengono legati due. Dalle combinazioni di queste molecole possono nascere T3 (MIT + DIT) e T4 (DIT+ DIT). In questo modo si sono formati gli ormoni tiroidei su dei supporti tireoglobulinici, il tutto all'interno delle vescicole che vengono poi aperte nel versante apicale per riversare il contenuto nel lume del follicolo e accumularlo sotto forma di colloide.
+In questo modo la tiroide rappresenta l'unico caso di ghiandola endocrina che possiede la capacità di accumulare il secreto in sede extracellulare prima che esso venga riversato nel torrente circolatorio.
+
+
+===== Fase di immissione in circolo =====
+L'emissione di T3 e T4 dipende dalla stimolazione dell'ormone ipofisario TSH sui recettori (TSH-R) dei tireociti. Quando ciò avviene si innesca lo svuotamento del follicolo per l'immissione in circolo degli ormoni: i tireociti estroflettono degli pseudopodi all'interno della colloide fagocitandola all'interno di fagosomi che, una volta fusi con dei lisosomi, innescano la scissione degli ormoni tiroidei dalla tireoglobulina per la loro emissione dalla parte basale delle cellula e la loro successiva entrata nel torrente circolatorio. La produzione di TSH segue un ritmo circadiano, e presenta un picco in tarda serata, e una minor produzione nelle ore di metà mattina. La stimolazione da parte del TSH a livello dei corrispondenti recettori tiroidei (TSH-R) ha inoltre una funzione di stimolazione e proliferazione cellulare, aumentando quindi il numero di tireociti totali e, indirettamente quindi, la quantità di ormoni tiroidei potenzialmente riversabili in circolo. Nei lisosomi i residui di tireoglobulina vengono a loro volta degradati e lo iodio riciclato permettendo alla cellula di ritornare nella fase di sintesi.
+
+
+=== Regolazione ===
+La produzione di tiroxina e triiodotironina è regolata principalmente dall'ormone stimolante la tiroide (tireotropina, TSH), rilasciato dalla ghiandola pituitaria anteriore. Il rilascio di TSH a sua volta è stimolato dall'ormone di rilascio della tireotropina (TRH), secreto in modo pulsatile dall'ipotalamo. Gli ormoni tiroidei forniscono un feedback negativo ai tireotropi TSH e TRH: quando gli ormoni tiroidei sono alti, la produzione di TSH viene soppressa. Questo feedback negativo si verifica anche quando gli stessi livelli di TSH sono alti, causando la soppressione della produzione di TRH.
+Il TRH è secreto a un tasso maggiore in situazioni come l'esposizione al freddo al fine di stimolare la termogenesi. Oltre a essere soppressi dalla presenza di ormoni tiroidei, la produzione di TSH viene attenuata da dopamina, somatostatina e glucocorticoidi.
+
+
+=== Fisiologia comparata ===
+Iodio e T4 stimolano l'apoptosi delle cellule delle branchie larvali, della coda e delle pinne trasformando il girino acquatico ed erbivoro in rana adulta terrestre e carnivora che possiede migliori capacità neurologiche, visuo-spaziali, olfattive e cognitive più adatte alla caccia. Contrariamente alla metamorfosi degli anfibi, la tiroidectomia e l'ipotiroidismo nei mammiferi può essere considerato una sorta di regressione filogenetica e metabolica a una fase precedente di vita da rettile. Infatti, molti disturbi che sembrano affliggere gli esseri umani ipotiroidei hanno caratteristiche simili ai rettili, come la pelle secca, priva di peli, squamosa e fredda e anche un generale rallentamento del metabolismo, digestione, frequenza cardiaca e dei riflessi nervosi, con cerebrazione letargica, iperuricemia e ipotermia.
+La tiroxina e lo iodio stimolano la spettacolare apoptosi delle cellule larvali delle branchie, della coda e delle pinne dei girini durante la metamorfosi degli anfibi, e inoltre stimolano anche la evoluzione del loro sistema nervoso trasformando il girino acquatico e vegetariano in rana terrestre e carnivora. Infatti la rana anfibia Xenopus laevis serve come un modello ideale per lo studio del meccanismo della apoptosi. La calcitonina, prodotta dalle cellule parafollicolari o cellule C, regola il metabolismo del calcio agendo in modo antagonista al paratormone secreto dalle ghiandole paratiroidi: la calcitonina stimola la riduzione dei livelli di calcio quando questo è troppo alto; il paratormone agisce invece ripristinando normali livelli dello ione quando questi si abbassano. Nei mammiferi l'effetto della calcitonina sul metabolismo del calcio è diventato decisamente marginale, per cui se ne ipotizzano altri possibili azioni, come quella di neuromodulatore. Nei pesci l'ormone ha un'azione importante e viene prodotto in grandi quantità; da qui la possibilità di estrarlo dal corpo ultimobranchiale di salmone per utilizzarlo come farmaco nel trattamento dell'osteoporosi post-menopausale.
+
+
+== Espressione genica e proteica ==
+Circa 20.000 geni codificanti proteine vengono espressi nelle cellule umane e il 70% di questi geni sono espressi nella tiroide normale. Circa 250 di questi sono espressi in modo più specifico nella tiroide e circa 20 sono altamente specifici per la tiroide. Le proteine corrispondenti sono principalmente coinvolte nella sintesi dell'ormone tiroideo, come la tireoglobulina, il TPO e l'IYD, ed espresse nelle cellule follicolari. Altre proteine tipiche della tiroide sono le proteine correlate alla calcitonina come CALCA e CALCB, espresse nelle cellule C parafollicolari.
+
+
+== Clinica ==
+I medici specializzati nel trattamento dei disturbi della tiroide sono generalmente noti come endocrinologi. Anche i chirurghi e gli otorinolaringoiatri possono svolgere un importante compito nel trattamento chirurgico nella patologia tiroidea, mentre i medici generici e quelli di famiglia hanno il compito di occuparsi del monitoraggio e dell'identificazione dei sintomi correlati.
+La tiroide viene valutata procedendo con l'osservazione della ghiandola e del collo circostante per evidenziare eventuali rigonfiamenti. Spesso, durante l'esame, viene chiesto al paziente di deglutire per sentire meglio la ghiandola contro le dita dell'esaminatore. In una persona sana, la ghiandola non è visibile ma è palpabile come una massa molle. L'esame della ghiandola tiroidea comprende la ricerca di masse anormali e la valutazione della dimensione tiroidea complessiva. Il carattere della tiroide, i gonfiori, i noduli e la loro consistenza possono tutti essere percepiti. Se è presente un gozzo, un esaminatore può anche verificarne l'estensione toccando la parte superiore del torace. Ulteriori test possono includere l'innalzamento delle braccia (segno di Pemberton), l'ascolto della ghiandola con uno stetoscopio, l'analisi dei riflessi e la palpazione dei linfonodi nella testa e nel collo. Un esame medico della tiroide includerà anche l'osservazione della persona nel suo insieme, per cercare segni sistemici, come l'aumento o la diminuzione di peso, perdita di capelli e segni in altre parti del corpo.
+
+
+=== Esami ===
+
+Una serie di esami possono essere utilizzati per valutare la funzione della tiroide, per determinare l'eventuale presenza di malattie e per stimare il successo o il fallimento di un trattamento. In generale, gli esami del sangue mirano a misurare la funzione tiroidea o a determinare la causa della sua stessa disfunzione. I test di funzionalità comprendono una serie di esami del sangue comprendenti la misurazione degli ormoni tiroidei T3 e T4, nonché la misurazione del TSH. Questi possono rivelare ipertiroidismo (alto T3 e T4), ipotiroidismo (basso T3, T4) o ipertiroidismo subclinico (normale T3 e T4 con un TSH basso).
+I livelli di TSH sono considerati il biomarcatore più sensibile della disfunzione tiroidea. Tuttavia, non sono sempre accurati, in particolare se si ritiene che la causa dell'ipotiroidismo sia correlata all'insufficiente secrezione di TRH, nel qual caso potrebbe essere bassa o falsamente normale. In questa situazione può essere condotto un test di stimolazione del TRH, in cui viene somministrato esso stesso e, dopo 30 e 60 minuti, vengono misurati livelli di TSH.
+T3 e T4 possono essere misurati direttamente. Tuttavia, poiché i due ormoni tiroidei viaggiano legati ad altre molecole, ed è la componente "libera" che è biologicamente attiva, è possibile misurare T3 libero e livelli di T4 liberi. Il T4 è preferito, perché nell'ipotiroidismo i livelli di T3 possono risultare normali. Il rapporto tra ormoni tiroidei legati e non legati è noto come rapporto di associazione dell'ormone tiroideo (THBR). È anche possibile misurare direttamente i principali portatori di ormoni tiroidei, troglobulina e globulina legante la tiroina. [83] La tireoglobulina sarà anche misurabile in una tiroide sana e aumenterà con l'infiammazione e può anche essere utilizzata per misurare il successo della rimozione della tiroide o dell'ablazione. In caso di successo, la tireoglobulina dovrebbe essere non rilevabile. Infine, possono essere misurati gli anticorpi contro i componenti della tiroide, in particolare l'anti-TPO e l'anti-tireoglobulina. Questi possono essere presenti in individui normali ma sono altamente sensibili per le malattie autoimmuni.
+Un'ecografia della tiroide può essere utilizzata per rivelare se le strutture sono solide o piene di liquido, aiutando a distinguere tra noduli e gozzi e cisti. Può anche aiutare a distinguere tra lesioni neoplastiche maligne e benigne. Una biopsia con ago aspirato può essere eseguita per determinare con maggior precisione la natura di una lesione. Quando sono richieste ulteriori esami di imaging può essere prescritta una scintigrafia tiroidea con somministrazione di iodio-123 o tecnezio-99m. Questo esame permette di determinare con precisione la dimensione e la forma delle lesioni, rivelare se i noduli o il gozzo sono metabolicamente attivi e rivelare e monitorare i siti di malattia della tiroide o metastasi al di fuori della tiroide.
+
+
+== Patologie ==
+Le patologie della tiroide sono funzionali, causate dalla disfunzione nella produzione di ormoni e da nodi e tumori benigni o maligni. I disordini funzionali possono causare l'infiammazione così come alcune altre forme di tiroidite. Queste patologie possono causare sovrapproduzione o sottoproduzione di ormoni, allargamento della ghiandola e un collo gonfio definito "gozzo".
+
+
+=== Ipertiroidismo ===
+
+Un'eccessiva produzione di ormoni tiroidei è chiamata ipertiroidismo che, frequentemente, è il risultato della malattia di Graves, di un gozzo multinodulare tossico, di un adenoma tiroideo solitario o di un'infiammazione. Altre cause includono un eccesso di iodio indotto da farmaci, in particolare dall'amiodarone, un farmaco antiaritmico; un eccesso causato dall'assorbimento preferenziale di iodio da parte della tiroide a seguito di esecuzione di imaging biomedico con mezzo di contrasto iodato; da adenomi ipofisari che possono causare una sovrapproduzione di ormone stimolante la tiroide. L'ipertiroidismo causa spesso una varietà di sintomi aspecifici tra cui perdita di peso, aumento dell'appetito, insonnia, diminuzione della tolleranza al calore, tremore, palpitazioni, ansia e nervosismo. In alcuni casi può causare dolore toracico, diarrea, perdita di capelli e debolezza muscolare. Tali sintomi possono essere gestiti temporaneamente con farmaci, come i beta-bloccanti.
+La gestione a lungo termine dell'ipertiroidismo può includere l'assunzione di farmaci che sopprimono la funzione tiroidea, come il propiltiouracile, il carbimazolo e il metimazolo. Lo iodio radioattivo 131 può essere somministrato per distruggere il tessuto tiroideo. Questo isotopo viene selettivamente assorbito dalla tiroide, che con il tempo distrugge le cellule coinvolte nel suo assorbimento. Il trattamento di prima scelta scelto dipenderà dall'individuo e dalla località in cui viene trattato. A volte può essere eseguito un intervento chirurgico finalizzato alla rimozione della tiroide, come una tiroidectomia transorale, una procedura minimamente invasiva. La chirurgia tuttavia comporta un rischio di danni alle ghiandole paratiroidi e ai nervi che controllano le corde vocali. Se viene rimossa tutta la ghiandola tiroidea, l'ipotiroidismo si manifesterà naturalmente e saranno necessari sostituti dell'ormone tiroideo.
+
+
+=== Ipotiroidismo ===
+
+Una ghiandola tiroidea poco funzionante provoca ipotiroidismo. I sintomi tipici sono: aumento anormale di peso, stanchezza, stitichezza, forte sanguinamento mestruale, perdita di capelli, intolleranza al freddo e rallentamento della frequenza cardiaca. La causa, a livello mondiale, più comune dell'ipotiroidismo è la mancanza di iodio, e la tiroidite di Hashimoto, una malattia autoimmune, è la causa più frequente nel mondo sviluppato. Altre cause includono anomalie congenite, malattie che causano infiammazione transitoria, rimozione chirurgica o radio-ablazione della tiroide, l'assunzione di alcuni farmaci come l'amiodarone e il litio, l'amiloidosi e la sarcoidosi. Alcune forme di ipotiroidismo possono causare mixedema e casi gravi possono portare al coma da mixedema.
+L'ipotiroidismo viene trattato con la sostituzione dell'ormone tiroxina. Questo di solito viene somministrato quotidianamente come integratore orale e solitamente richiede alcune settimane perché questo trattamento si dimostri efficace. Alcune cause dell'ipotiroidismo, come la tiroidite postpartum e la tiroidite subacuta, possono essere transitorie e quindi risolversi nel tempo, mentre altre cause come la carenza di iodio possono essere corrette con un'opportuna integrazione alimentare.
+
+
+=== Noduli ===
+
+I noduli tiroidei si trovano spesso sulla ghiandola, con una prevalenza del 4%-7%. La maggior parte dei noduli non causa alcun sintomo e non è cancerogena. I casi non cancerosi includono cisti semplici, noduli colloidi e adenomi tiroidei. I noduli maligni, che si verificano solo nel circa il 5% dei noduli in generale, includono carcinomi follicolari, carcinomi papillari, carcinomi midollari e metastasi provenienti da altri siti. I noduli sono più probabili nelle donne, in coloro che sono esposti alle radiazioni ionizzanti e in quelli che sono carenti di iodio.
+Quando è presente un nodulo, solitamente vengono eseguiti test di funzionalità tiroidea per scoprire se una persona ha una quantità normale di ormoni tiroidei ("eutiroide") o un eccesso di ormoni, di solito secreti dal nodulo, che causano l'ipertiroidismo. Quando i test di funzionalità tiroidea sono normali, spesso viene effettuata una ecografia per studiare il nodulo e fornire informazioni, ad esempio se esso è pieno di liquido o è una massa solida e se l'aspetto si indicativo di un cancro benigno o maligno. Una biopsia, tramite ago aspirato, può quindi essere eseguita e il campione sottoposto a esame citologico, in cui l'aspetto delle cellule viene visualizzato per determinare se assomigliano a cellule normali o cancerose.
+Possono esserci molti noduli, una condizione nota come gozzo multinodulare e questo, a volte, può essere classificato come un gozzo multinodulare tossico.
+
+
+=== Iperplasia ===
+
+Una ghiandola tiroidea ingrossata è chiamata gozzo o struma. I gozzi sono presenti in una certa forma in circa il 5% delle persone e sono il risultato di un gran numero di cause, tra cui la carenza di iodio, una malattia autoimmune (la malattia di Graves e la tiroidite di Hashimoto), infezioni, infiammazioni e malattie come sarcoidosi e amiloidosi. A volte nessuna causa viene riconosciuta, una situazione che solitamente viene indicata come "gozzo semplice".
+Alcune forme di gozzo sono associate al dolore, mentre molte altre non causano alcun sintomo. I gozzi ingrossati possono estendersi oltre la normale posizione della ghiandola tiroidea sotto lo sterno, attorno alle vie aeree o all'esofago. Il gozzo può essere associato a ipertiroidismo o ipotiroidismo, relativamente alla causa sottostante del gozzo. Test di funzionalità tiroidea possono essere effettuati per indagare la causa e gli effetti del gozzo. La causa sottostante del gozzo può essere trattata, tuttavia molti gozzi senza sintomi associati vengono semplicemente monitorati.
+
+
+==== Lo iodio ====
+
+La carenza di iodio, più comune nelle aree interne e montuose, può predisporre al gozzo, se diffuso noto come "gozzo endemico". Le donne in gravidanza carenti di iodio possono dare alla luce bambini con deficit di ormone tiroideo. L'uso di sale iodato al fine di aggiungere iodio alla alimentazione ha eliminato il cretinismo endemico nei paesi più sviluppati, e oltre 120 paesi hanno reso obbligatoria la iodurazione del sale.
+Poiché la tiroide concentra lo iodio, concentra anche i vari isotopi radioattivi dello iodio prodotti dalla fissione nucleare. In caso di grandi rilasci accidentali di tale materiale nell'ambiente, l'assorbimento di tali isotopi da parte della tiroide può, in teoria, essere bloccato saturando il meccanismo di captazione assumendo iodio non radioattivo sotto forma di compresse di ioduro di potassio. Una conseguenza del disastro di Černobyl' fu un aumento dei tumori della tiroide nei bambini negli anni successivi all'incidente.
+Come per la maggior parte delle sostanze, o troppo o troppo poco può causare problemi. Recenti studi su alcune popolazioni stanno dimostrando che l'eccessiva assunzione di iodio potrebbe causare un aumento della prevalenza della malattia autoimmune della tiroide, con conseguente ipotiroidismo permanente.
+
+
+=== Tiroidite ===
+
+L'infiammazione della tiroide viene chiamata tiroidite. La tiroide infiammata può causare sintomi di ipertiroidismo o ipotiroidismo. Due tipi di tiroidite, che inizialmente si manifestano con ipertiroidismo talvolta seguito da un periodo di ipotiroidismo, sono la tiroidite di Hashimoto e la tiroidite postpartum. Esistono altri disturbi che causano infiammazione della tiroide, tra cui la tiroidite subacuta, la tiroidite acuta, la tiroidite silente, tiroidite di Riedel e le lesioni traumatiche, compresa la tiroidite da palpazione.
+La tiroidite di Hashimoto è una malattia autoimmune in cui la ghiandola tiroidea viene gonfiata dai linfociti B e linfociti T. Questi progressivamente distruggono la ghiandola tiroidea. In questo modo, la tiroidite di Hasimoto può verificarsi in modo insidioso e può essere notata solo quando la produzione di ormoni tiroidei diminuisce, causando sintomi di ipotiroidismo. L'Hashimoto è più frequente nelle femmine rispetto ai maschi, molto più comune dopo i 60 anni e ha fattori di rischio genetici. I soggetti con tiroidite di Hashimoto sono più esposti a incorrere nel diabete mellito di tipo 1, nell'anemia perniciosa, nella vitiligine tipica della malattia di Addison.
+La tiroidite postpartum si riscontra in alcune donne dopo il parto, in cui la ghiandola si infiamma e la condizione si presenta inizialmente con un periodo di ipertiroidismo seguito da ipotiroidismo e, di solito, un ritorno alla normale funzione. Il decorso della malattia si svolge nell'arco di diversi mesi ed è caratterizzato dalla presenza di un gozzo indolore. Nel corso delle analisi del sangue può essere riscontrata la presenza di anticorpi contro la perossidasi tiroidea. L'infiammazione di solito si risolve senza trattamento, sebbene una sostituzione dell'ormone tiroideo possa essere necessaria durante il periodo di ipotiroidismo.
+
+
+=== Neoplasie ===
+
+La neoplasia più comune che colpisce la ghiandola tiroidea è l'adenoma benigno, che di solito si presenta come una massa indolore nel collo. I tumori maligni della tiroide sono il più delle volte carcinomi, anche se il cancro può verificarsi in qualsiasi tessuto della tiroide, compreso quello delle cellule C e il linfoma. Anche i tumori di altri siti si localizzano raramente nella tiroide. Radiazioni ionizzanti che colpiscono la testa e il collo sono un fattore di rischio per il tumore della tiroide, la forma più comune di neoplasia che è più comune nelle donne rispetto agli uomini, con un rapporto di circa 2:1.
+Nella maggior parte dei casi, il tumore alla tiroide si presenta come una massa indolore nel collo. È molto raro che si presentino altri sintomi, sebbene in alcuni casi si può verificare ipertiroidismo. La maggior parte dei tumori maligni della tiroide è rappresentato dal carcinoma papillifero, seguito da quello follicolare, da quello midollare e dal lifoma tiroideo. A causa della prominenza della ghiandola tiroidea, un tumore viene spesso rilevato precocemente nel corso della malattia come nodulo che può essere sottoposto ad aspirazione con ago sottile. I test della funzionalità tiroidea aiutano poi a rivelare se il nodulo produce ormoni tiroidei in eccesso. Un test di assorbimento dello iodio radioattivo può aiutare a rivelare l'attività e la posizione del cancro e delle metastasi.
+I tumori tiroidei sono trattati rimuovendo l'intera o una porzione della ghiandola tiroidea. Lo iodio radioattivo 131 può essere somministrato per radioablare la tiroide. La tiroxina viene somministrata per sostituire gli ormoni non prodotti e per sopprimere la produzione di TSH, poiché questo ormone può stimolare la recidiva. Con l'eccezione del raro carcinoma anaplastico della tiroide che comporta una prognosi molto sfavorevole, la maggior parte dei tumori della tiroide presenta un risultato eccellente e può anche essere considerata curabile.
+
+
+=== Patologie congenite ===
+Tutte la patologie congenite riguardano difetti nello sviluppo embriologico della tiroide e si può quindi assistere al già citato ipotiroidismo congenito, a cisti o seni del dotto tireoglossoche si formano come rigonfiamenti lungo il decorso del dotto tireoglosso e formare masse mobili e indolori, che danno problemi solo in caso di infezioni e tessuto tiroideo accessorio come residuo del dotto tireoglosso.
+Un dotto tireoglosso persistente è il più comune disturbo congenito, clinicamente significativo, della ghiandola tiroidea. Un tratto sinusale persistente può rimanere come residuo vestigiale dello sviluppo tubulare della tiroide. Parti di questo possono scomparire, lasciando piccoli segmenti a formare cisti tireoglossali.
+I neonati pretermine sono a rischio di ipotiroidismo poiché le loro ghiandole tiroidee non sono sufficientemente sviluppate per soddisfare i loro bisogni postnatali. Anche i bambini nati con deficit di ormone tiroideo (ipotiroidismo congenito) possono manifestare problemi di crescita fisica e di sviluppo intellettivo, una condizione, quest'ultima, chiamata cretinismo.
+
+I bambini con ipotiroidismo congenito sono trattati in associazione con levotiroxina, che facilita la normale crescita e sviluppo. Al fine di rilevare l'ipotiroidismo nei neonati, per prevenire anomalie della crescita e dello sviluppo in età avanzata, molti paesi hanno programmi di screening alla nascita.
+Un ulteriore disturbo congenito è la disgenesia tiroidea che può avere varie presentazioni che comprendono una o più ghiandole tiroidee accessorie in posizioni anomale. Questa condizione può, tuttavia, essere asintomatica. Allo stesso modo si può assistere a tiroide ectopica per un'errata discesa nel collo. Questo porta la tiroide a non essere nel posto convenzionale ma, ad esempio, appena sotto la lingua rimanendo comunque l'unica ghiandola presente e attiva e non quindi una cisti o un tessuto accessorio.
+La carente migrazione delle cellule delle creste neurali nel sesto arco faringeo, provoca disturbi nella capacità di mantenere l'omeostasi del calcio, visto il ruolo fondamentale della calcitonina nell'antagonizzarre l'azione della vitamina D e del paratormone come principale ormone ipocalcemizzante.
+
+
+=== Malattia di Graves ===
+
+La malattia di Graves è una malattia autoimmune ed è la causa più comune di ipertiroidismo. In questa condizione, per una ragione sconosciuta, si sviluppano autoanticorpi contro il recettore dell'ormone stimolante la tiroide. Questi anticorpi attivano il recettore, portando allo sviluppo di un gozzo e dei sintomi di ipertiroidismo, come intolleranza al calore, perdita di peso, diarrea e palpitazioni. Occasionalmente, tali anticorpi bloccano ma non attivano il recettore, portando a sintomi associati all'ipotiroidismo. Inoltre, può verificarsi una graduale protrusione degli occhi, chiamata oftalmopatia di Graves, così come il gonfiore della parte anteriore degli stinchi.
+La malattia di Graves può essere diagnosticata dalla presenza di caratteristiche patomnomoniche come il coinvolgimento degli occhi e degli stinchi o l'isolamento degli autoanticorpi o dai risultati di una scansione di captazione radiomarcata. La malattia di Graves viene trattata con farmaci anti-tiroidei, come il propiltiouracile, che riducono la produzione di ormoni tiroidei; tuttavia questi presentano un alto tasso di recidive. Se non vi è coinvolgimento degli occhi, si può prendere in considerazione l'uso di isotopi radioattivi per l'ablazione della ghiandola. Può essere valutata anche la rimozione chirurgica della ghiandola con successiva sostituzione dell'ormone tiroideo, tuttavia ciò non controllerà i sintomi associati all'occhio o alla pelle.
+
+
+=== Sindrome tireo-gastrica ===
+Sindrome tireo-gastrica è definita la associazione tra malattie tiroide e malattie gastriche, che è stata descritta per la prima volta negli anni '60. Questo termine è stato coniato anche per indicare la presenza di autoanticorpi tiroidei o malattie autoimmuni della tiroide in pazienti con anemia perniciosa, uno stadio clinico tardivo della gastrite atrofica.  In questi studi, l'associazione è stata valutata anche sierologicamente.
+Nel 1993, Venturi ha proposto una indagine più completa sulla correlazione tra mucosa e cancro gastrici e la ghiandola tiroidea, riportando che la tiroide è, embriogeneticamente e filogeneticamente, derivata dall'intestino primitivo e che le cellule tiroidee, come le cellule gastroenteriche primitive, durante la evoluzione dei vertebrati, sono migrate e si sono specializzate nell'assorbimento, nello stoccaggio e nella elaborazione di composti iodati. Infatti, lo stomaco e la tiroide condividono la capacità di concentrare lo iodio e hanno tra loro molte somiglianze morfologiche e funzionali, come: la polarità cellulare e i microvilli apicali, analoghi antigeni specifici organo-specifici con malattie autoimmuni associate, inoltre secernono glicoproteine (tireoglobulina e mucina) e ormoni peptidici, possiedono la capacità di digestione e di riassorbire ed, inoltre, simile capacità di formare iodotirosine tramite la attività delle perossidasi, in cui lo ioduro (I-) agisce come donatore di elettroni in presenza di H2O2. Negli anni seguenti, molti ricercatori hanno pubblicato studi su questa sindrome.
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Giuseppe Anastasi et al., Trattato di anatomia umana, volume II, Milano, Edi.Ermes, 2007, ISBN 978-88-7051-286-1.
+(EN) Bruce Ian Bogart e Victoria Ort, Elsevier's integrated anatomy and embryology, Filadelfia, Elsevier Saunders, 2007, ISBN 978-1-4160-3165-9.
+(EN) Nicki R. Colledge, Brian R. Walker, Stuart H. Ralston (a cura di), Davidson's principles and practice of medicine, illustrato da Robert Britton, 21ª ed., Edimburgo, Churchill Livingstone/Elsevier, 2010, ISBN 978-0-7020-3085-7.
+(EN)  Monte A. Greer (a cura di), The Thyroid Gland, Comprehensive Endocrinology Revised Series, Raven Press. N.Y., 1990, ISBN 0-88167-668-3.
+(EN) John Hall, Guyton and Hall textbook of medical physiology, 12ª ed., Filadelfia, Saunders/Elsevier, 2011, ISBN 978-1-4160-4574-8.
+(EN) Dan Longo, Anthony Fauci, Dennis Kasper, Stephen Hauser, J. Jameson e Joseph Loscalzo, Harrison's Principles of Internal Medicine, 18ª ed., McGraw-Hill Professional, 11 agosto 2011, ISBN 978-0-07-174889-6.
+ Keith Moore e T. V. N. Persaud, Lo sviluppo prenatale dell'uomo, Napoli, EdiSES, 2009, ISBN 978-88-7959-348-9.
+(EN) David G. Shoback e Dolores Gardner (a cura di), Greenspan's basic & clinical endocrinology, 9ª ed., New York, McGraw-Hill Medical, 2011, ISBN 978-0-07-162243-1.
+(EN) Susan Standring, Neil R. Borley et al. (a cura di), Gray's anatomy: the anatomical basis of clinical practice, 40ª ed., Londra, Churchill Livingstone, 2008, ISBN 978-0-8089-2371-8.
+
+
+== Voci correlate ==
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «tiroide»
+ Wikimedia Commons contiene immagini o altri file su tiroide
+
+
+== Collegamenti esterni ==
+
+ tiroide, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+(EN) thyroid gland, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ AIRC Tumore alla tiroide, su airc.it.

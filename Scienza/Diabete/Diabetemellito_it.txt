@@ -1,0 +1,365 @@
+Per diabete mellito si intende un gruppo eterogeneo di endocrinopatie caratterizzate da una cronica alterata tolleranza glucidica, conseguente a un difetto assoluto o relativo di insulina. Indipendentemente dai meccanismi patogenetici sottostanti, l'aspetto comune a tutte le forme di diabete mellito è la presenza di iperglicemia a digiuno e/o post prandiale.
+Sebbene il termine diabete si riferisca nella pratica comune alla sola condizione di diabete mellito, cioè "dolce" (chiamato così dagli antichi Greci per la presenza di urine di tale sapore), esiste un'altra condizione patologica detta diabete insipido. Tali malattie sono accomunate dal solo fatto di presentare abbondanti quantità di urine, non presentando infatti cause, né altri sintomi, comuni.
+
+
+== Storia ==
+
+Il termine diabete fu coniato da Areteo di Cappadocia (81 - 133 d.C.). In greco antico il verbo diabainein significa "attraversare" (dià: attraverso; baino: vado) alludendo al fluire dell'acqua, come in un sifone, poiché il sintomo più appariscente è l'eccessiva produzione di urina. Nel Medioevo la parola fu "latinizzata" in diabètés.
+L'aggettivo mellito (dal latino mel: miele, dolce) è stato aggiunto dall'inglese Thomas Willis nel 1675 per il fatto che il sangue e le urine dei pazienti diabetici avevano un sapore dolce, caratteristica peraltro conosciuta da lungo tempo da Indiani, Greci, Cinesi ed Egiziani.
+La malattia era chiamata Shoukachi (malattia della sete) fino al XVIII secolo in Giappone.
+
+
+=== Storia antica ===
+Mentre il primo accenno scritto su un qualcosa assimilabile al diabete lo si ritrova verso il 1500 a.C. su un papiro egiziano di Ebers, fu invece Areteo di Cappadocia nel 100 d.C. circa a descrivere i particolari della patologia.
+Galeno (129-200) la descriveva come una malattia che provocava danni ai reni.
+La prima suddivisione per quanto riguarda i due tipi principali di diabete (il tipo 1 e il tipo 2) è stata eseguita da Avicenna (980-1037) intorno all'anno 1000.
+Nel Medioevo in tutta Europa i medici facevano diagnosi di diabete mellito assaggiando letteralmente le urine dei pazienti, questa pratica può essere ancora apprezzata in una grande varietà di opere d'arte del periodo gotico.
+
+
+=== Storia moderna ===
+Nel 1774, grazie a Matthew Dobson (1732-1784) si scoprì che il sapore dolce delle urine era dovuto al glucosio in esse contenuto.
+La scoperta del ruolo del pancreas nel diabete mellito è da ascriversi a Joseph von Mering (1849-1908) e a Oskar Minkowski (1858-1931), ricercatori tedeschi che nel 1889 osservarono che nel cane, a cui era stato asportato sperimentalmente il pancreas prima della morte, insorgevano i segni e i sintomi del diabete mellito.
+Nel 1910 Sir Edward Albert Sharpey-Schafer da Edimburgo (1850-1935) suggerì che le persone affette da diabete mellito in realtà fossero carenti di una particolare sostanza prodotta dal pancreas: egli la battezzò insulina poiché prodotta dalle isole di Langerhans localizzate appunto nel pancreas.
+L'insulina, grazie al lavoro dei ricercatori canadesi Frederick Grant Banting (1891-1941) e Charles Herbert Best (1899-1978), venne isolata nel 1921, portando alla deduzione che il diabete era una malattia endocrinologica dovuta alla deficienza di insulina. Banting e Best cambiarono la storia della medicina e salvarono la vita a milioni di persone scoprendo che la condizione di diabete mellito nel cane pancreatectomizzato poteva essere risolta somministrando insulina estratta dalle isole di Langerhans di un cane sano. Il primo paziente fu trattato, da loro e dal loro staff, nel 1921 e nel 1923, Frederick Banting e John Macleod ricevettero il premio Nobel per la medicina.
+La distinzione tra quelli che attualmente sono riconosciuti come diabete mellito di tipo 1 e diabete mellito di tipo 2 è stata fatta nel 1935 da Sir Harold Percival Himsworth (1905-1993) e pubblicata nel gennaio 1936.
+
+
+== Epidemiologia ==
+
+La percentuale di popolazione mondiale affetta viene stimata intorno al 5%. Circa il 90% della popolazione diabetica è affetta da diabete mellito di tipo 2. In Italia la percentuale di individui affetti da tale patologia è mediamente del 3%.
+Nel 2002 si sono contati nei soli USA più di 18 milioni di persone affette da tale patologia e si calcola che una persona ogni cinque anziani di età superiore ai 65 anni ne sia affetto.
+L'OMS stima che ci sarà un fortissimo incremento di prevalenza di diabete mellito negli USA, in Medio Oriente e nel Sud-Est asiatico, mentre in Europa l'incremento sarà più modesto. Nel 2030 si prevedono più di 360 milioni di persone malate.
+Si è rilevata una maggiore prevalenza nel sesso femminile (m:f = 1:1,25). Uno studio sui giovani di 15-29 anni affetti da diabete tipo 1 ha registrato una maggiore incidenza nei maschi rispetto alle femmine, forse dovuta a fattori quali gli ormoni sessuali o una diversa esposizione alle tossine ambientali. Questa differenza non è però stata confermata da studi successivi.
+Si calcola che nel 2005 interessò più di 180 000 persone in età inferiore ai 20 anni, mentre in età superiore ai 60 anni si calcolarono più di 12 milioni di casi. Nella sola Italia, nelle fasce di età inferiori ai 35 anni è dello 0,5%, al di sopra dei 65 supera il 10%.
+Il diabete mellito di tipo 1 esordisce in circa la metà dei casi in età inferiore ai 20 anni (proprio per questo in passato veniva chiamato "diabete giovanile") e più frequentemente nel corso della pubertà.
+
+
+== Eziologia ==
+Il diabete mellito può essere causato da una serie di fattori.
+Alcuni possono essere derivati da difetti dell'azione insulinica, come l'insulinoresistenza di tipo A, il leprecaunismo, la sindrome di Rabson-Mendenhall e le sindromi lipodistrofiche; alcune malattie del pancreas possono essere causa del diabete, come nel caso della pancreatite, della fibrosi cistica, nell'emocromatosi e nel tumore del pancreas.
+Fra i farmaci che possono causare forme diabetiche si ritrovano il Vacor utilizzato come veleno per i topi, pentamidina, acido nicotinico, glucocorticoidi, ormoni tiroidei, diazossido, β-agonisti, tiazidici, fenitoina, interferone α, inibitori delle proteasi, clozapina, β-bloccanti.
+Alcune infezioni possono comportare l'insorgere di diabete come la rosolia congenita, il citomegalovirus e il coxsackie virus.
+Fra le numerose patologie genetiche responsabili dello sviluppo del diabete si trovano la sindrome di Down, sindrome di Turner, sindrome di Klinefelter, corea di Huntington, sindrome di Laurence-Moon-Biedl, porfiria.
+L'esistenza di una predisposizione genetica è suggerita dal fatto che, nel caso di gemelli, il diabete di tipo 2 è presente in entrambi in una elevatissima percentuale, molto superiore rispetto a quanto accade per il diabete di tipo 1. Probabilmente intervengono difetti a carico di più geni (malattia poligenica) coinvolti nella produzione di insulina e nel metabolismo del glucosio; il tipo di deficit varierebbe da un paziente all'altro, dal momento che fino a oggi non è stato possibile identificare anomalie genetiche comuni a tutti i pazienti di tipo 2.
+Malattie come acromegalia, sindrome di Cushing, ipogonadismo, glucagonoma, feocromocitoma, ipertiroidismo, somatostatinoma, aldosteronoma possono essere altre cause.
+Tra i fattori di rischio si riscontrano:
+
+Obesità (BMI maggiore o uguale a 25 kg/m² per il DM2)
+Inattività fisica
+Ipertensione (pressione arteriosa sistolica (massima) maggiore o uguale a 140 mmHg e/o pressione arteriosa diastolica (minima) maggiore o uguale a 90mmHg)
+Colesterolo HDL (minore o uguale a 35 mg/dL)
+Trigliceridi (maggiori o uguali a 250 mg/dL)
+Ipogonadismo: in uomini ipogonadici l'assunzione di testosterone diminuisce l'insulinoresistenza e migliora il quadro glicemico
+Disturbi del sonno, che favoriscono l'insorgenza della forma 2.
+Anche l'età favorisce la comparsa del diabete, poiché essa si accompagna a una riduzione fisiologica del testosterone e IGF-I e quindi a una diminuita sensibilità dei tessuti periferici all'insulina.
+
+
+=== Diabete di tipo 1 ===
+
+La forma di tipo 1 ha un'eziologia che si costituisce con il passare del tempo:
+
+Predisposizione genetica, fra i vari geni responsabili quello localizzato nella regione HLA del cromosoma 6
+Stimolo immunologico
+Questa fase, nota come luna di miele, dura per alcuni mesi, dopodiché i sintomi si presentano nuovamente e permangono stabilmente dando luogo, definitivamente, allo stato di diabete. La spiegazione di questo fenomeno è da ricercarsi nell'iperproduzione compensatoria di insulina da parte delle cellule β del pancreas.
+
+
+=== Diabete di tipo 2 ===
+
+Il diabete di tipo 2 ha una eziologia multifattoriale, in quanto è causato dal concorso di più fattori, sia genetici, sia ambientali.
+Il riscontro di diabete mellito di tipo 2 è molto spesso casuale nel corso di esami di laboratorio a cui il paziente si sottopone per altri motivi, questo perché la patologia si instaura molto lentamente e occorre molto tempo prima che la sintomatologia possa divenire clinicamente manifesta; d'altro canto in molti pazienti sintomi di iperglicemia e glicosuria non compaiono mai.
+I fattori causali responsabili (eziologici) provocano la malattia attraverso il concorso di due meccanismi principali (patogenesi): l'alterazione della secrezione di insulina e la ridotta sensibilità dei tessuti bersaglio (muscolo, fegato e tessuto adiposo) alla sua azione (insulino-resistenza).
+Difetti della secrezione di insulina sono presenti non solo nei pazienti diabetici di tipo 2, ma molto spesso anche nei gemelli sani e nei parenti di primo grado; in questi ultimi è stata rilevata frequentemente anche resistenza all'insulina. Si pensa pertanto che il diabete di tipo 2 sia preceduto da una fase prediabetica, in cui la resistenza dei tessuti periferici all'azione dell'insulina sia compensata da un aumento della secrezione pancreatica di insulina (iperinsulinemia). Soltanto quando si aggravano sia i difetti di secrezione insulinica sia l'insulino-resistenza (in seguito all'invecchiamento, all'obesità, all'inattività fisica o alla gravidanza), si renderebbe manifesta prima l'iperglicemia post-prandiale e poi l'iperglicemia a digiuno.
+L'obesità viscerale (o centrale) riveste un ruolo di primo piano nello sviluppo della resistenza all'insulina. Il tessuto adiposo è, infatti, in grado di produrre una serie di sostanze (leptina, TFN-α, acidi grassi liberi, resistina, adiponectina), che concorrono allo sviluppo della insulino-resistenza. Inoltre nell'obesità, il tessuto adiposo è sede di uno stato di infiammazione cronica a bassa intensità, che rappresenta una fonte di mediatori chimici, che aggravano la resistenza all'insulina. Di conseguenza, i marker di infiammazione, come interleuchina 6 e proteina C-reattiva, sono spesso elevati in questo tipo di diabete.
+
+
+== Patogenesi ==
+
+
+=== Il metabolismo del glucosio ===
+Il glucosio rappresenta la più importante fonte di energia per le cellule del nostro organismo e proprio per questo, oltre a essere utilizzato immediatamente, viene anche immagazzinato in riserve di glicogeno. Il glucosio, dunque, dal sangue (nel quale viene disciolto dopo il processo di digestione degli alimenti) deve essere trasportato all'interno delle cellule per essere utilizzato e immagazzinato.
+L'insulina è il principale ormone che regola l'ingresso del glucosio dal sangue nelle cellule (principalmente le cellule muscolari e adipose; non nelle cellule del sistema nervoso), il deficit di secrezione insulinica o l'insensibilità alla sua azione sono proprio i due meccanismi principali attraverso cui si espleta il diabete mellito.
+La gran parte dei carboidrati nel cibo viene convertita entro un paio di ore in glucosio. L'insulina è prodotta dalle cellule β del pancreas come esatta risposta all'innalzamento dei livelli di glucosio nel sangue (per esempio dopo un pasto), le cellule β del pancreas sono infatti stimolate dagli alti valori di glicemia e inibite dai valori bassi.
+Se la disponibilità di insulina è insufficiente (deficit di insulina) o se le cellule rispondono inadeguatamente a essa (insulinoresistenza) o se l'insulina prodotta è difettosa, il glucosio non può essere efficacemente utilizzato dal nostro organismo: la conseguenza di ciò è uno stato di carenza di glucosio nei tessuti con elevati valori nel torrente sanguigno.
+Quando la glicemia a digiuno supera i 126 mg/dL si parla di diabete mellito, mentre per valori compresi tra 110 e 125 mg/dL si parla di "alterata glicemia a digiuno" (fattore di rischio per la futura comparsa di diabete mellito). Il glucosio compare nelle urine (glicosuria) per valori di glicemia maggiori di 180/200 mg/dL.
+
+
+=== Resistenza all'insulina ===
+La ridotta capacità dell'insulina di agire in maniera efficace sui tessuti bersaglio (muscoli e fegato) è la caratteristica principale del diabete mellito di tipo 2 e viene chiamata insulinoresistenza. Si tratta di una resistenza "relativa" in quanto livelli sovrafisiologici di insulinemia provocano una normalizzazione della glicemia.
+Si ritiene che questo tipo di resistenza sia dovuto a difetti post-recettoriali, per la precisione sembra coinvolto il gene IRS-1, indispensabile per la sintesi delle proteine IRS coinvolte in una serie di vie metaboliche che in ultima istanza promuovono l'ingresso del glucosio nelle cellule diminuendo così la glicemia.
+La resistenza cronica all'insulina è definita come un fabbisogno giornaliero di insulina superiore a 200 Ui per parecchi giorni in assenza di infezione o chetoacidosi.
+Le cause più comuni sono rappresentate dall'obesità e da anticorpi antinsulina di tipo IgG. La conseguenza più importante è il mancato controllo della glicemia.
+In quasi tutti i pazienti diabetici, entro i 60 giorni dall'inizio della terapia insulinica, si sviluppano anticorpi. Si pensa che il loro legame all'insulina sia la causa più importante di severa resistenza, ma la correlazione fra il titolo anticorpale e la resistenza non è sempre stretta.
+Studi recenti individuano come una precoce terapia insulinica possa scongiurare una progressione delle due forme di diabete, per questo l'assunzione di zuccheri deve essere diminuita.
+
+
+=== Alterazioni della secrezione insulinica ===
+Nel momento in cui si instaura una insulino-resistenza si ha inizialmente un aumento compensatorio di secrezione di insulina (iperinsulinemia) da parte delle cellule β pancreatiche, tuttavia la patologia ha un decorso ingravescente che porta a una vera e propria insufficienza dei meccanismi di compenso. Nella patogenesi del progressivo deficit della secrezione insulinica hanno un ruolo determinante la necrosi e l'apoptosi della cellule beta, alle quali concorrono la dislipidemia (lipotossicità) e la iperglicemia cronica (glucotossicità), attraverso meccanismi biochimici complessi, che, tra l'altro, provocano un aumento della produzione di radicali liberi (stress ossidativo), un disaccoppiamento della fosforilazione ossidativa mitocondriale e alterazioni del reticolo endoplasmatico (stress reticolare).
+
+
+=== Aumento della produzione epatica di glucosio ===
+Come si vedrà in seguito, il diabete mellito provoca un aumento di corpi chetonici in circolo, ciò metabolicamente equivale allo sviluppo di una ingannevole condizione di "digiuno cronico" (anche se il paziente si nutre normalmente): in condizioni di digiuno si assiste a un aumento della glicogenolisi (liberazione di riserve glucidiche) e gluconeogenesi (sintesi ex novo di glucosio).
+Tutto ciò provoca un ulteriore peggioramento dello stato di iperglicemia.
+
+
+=== Complicanze ===
+
+
+==== Complicanze acute metaboliche ====
+Tra le più importanti complicanze acute del diabete si possono annoverare la chetoacidosi e l'iperosmolarità iperglicemica.
+
+
+===== Chetoacidosi =====
+
+La concentrazione eccessiva di corpi chetonici nel sangue è dovuta alla carenza di insulina e al conseguente eccesso di glucagone; è tipica del diabete mellito di tipo 1 e scatenata da forti stress (infezioni, traumi, interventi chirurgici).
+In condizioni normali i trigliceridi vengono immagazzinati nelle VLDL (particolari lipoproteine con funzione di trasporto); nelle condizioni di digiuno e di eccesso di glucagone accompagnato a deficit di insulina si attiva la via di formazione dei corpi chetonici: il passaggio di questi nel sangue è alla base dell'acidosi metabolica (fino a valori di pH prossimi a 7,0) che si può sviluppare nei pazienti affetti da diabete mellito.
+Presenti: livelli molto elevati di iperglicemia (tra i 500 e i 700 mg/dL) e glicosuria con notevole disidratazione, dolori addominali, anoressia, vomito, nausea. In questa fase non va commesso un errore molto comune: pensare di trovarsi di fronte a una patologia gastroenterica e conseguentemente sospendere la somministrazione di insulina. Ciò potrebbe portare il paziente a una condizione di coma chetoacidosico potenzialmente mortale.
+Inoltre anche l'eccesso di cortisolo, o l'ormone della crescita o similare, può portare a tale complicanza.
+
+
+===== Sindrome (o stato) iperglicemica iperosmolare (o SII) =====
+Caratteristica del diabete mellito di tipo 2, si osserva per lo più in pazienti anziani, nei quali la condizione diabetica è aggravata da eventi ricorrenti (per es. infezioni o ictus cerebrale) e con un'alterata capacità di bere così da rendere impossibile il compenso della diuresi osmotica.
+Sintomi: stato confusionale fino a coma e, se non trattato, morte (che comunque sopraggiunge anche nella metà dei pazienti tempestivamente trattati). Sempre presente glicosuria abnorme (sopra i 1 000 mg/dL).
+La chetoacidosi è assente, forse perché la concentrazione di insulina nella vena porta è sufficientemente alta da prevenire la piena attivazione della chetogenesi epatica.
+I livelli sierici degli acidi grassi liberi sono generalmente più bassi che nella chetosi del diabete mellito di tipo 1.
+Nella terapia di tale forma di coma occorrono parecchi litri di soluzioni saline isotoniche, seguiti da ipotoniche e poi da soluzioni glucosate al 5%, quando la glicemia raggiunge livelli normali. Anche l'insulina è necessaria, ma a dosi più basse rispetto al coma chetoacidosico del diabete mellito di tipo 1.
+
+
+==== Complicanze a lungo termine ====
+
+Macroangiopatia diabetica: tendenza a sviluppare più precocemente e più intensamente di fenomeni di aterosclerosi, l'eccesso di glucosio nel sangue favorisce la glicazione (che, a differenza della glicosilazione, è un processo non enzimatico) delle lipoproteine a bassa densità (LDL) che è alla base dell'aterosclerosi;
+Ulcera diabetica: frequente lo sviluppo di piaghe in prossimità degli arti inferiori dovuto a sfregamenti (es. scarpe troppo strette), per questo il diabetico deve curare moltissimo la propria igiene.
+Malattia di Dupuytren
+Sindrome del tunnel carpale
+Glaucoma
+Complicanze cardiache: i pazienti diabetici possono, per via dell'elevata glicemia e insulinemia, mostrare aterosclerosi, con manifestazioni molto pericolose che vanno dall'angina pectoris, all'infarto del miocardio. Per ridurre il rischio non è sufficiente controllare i gliceridi.
+neuropatia diabetica
+infezioni
+infezioni dermatologiche
+infezioni orali
+malattia parodontale
+cataratta
+sindrome ipoglicemica
+
+
+===== Microangiopatie =====
+Sono tre le forme più famose e importanti di complicanza:
+
+nefropatia diabetica, affligge il rene. Causa sovente l'insufficienza renale, la malattia di base non si mostra fino a quando si riscontra o l'insufficienza o la sindrome nefrosica.
+retinopatia diabetica, affligge la retina. Complicanza visiva molto pericolosa, comporta negli adulti la perdita totale della vista, l'esame del fondo oculare è l'unico esame per comprendere il suo manifestarsi che può essere lento o rapido.
+neuropatia diabetica, affligge il sistema nervoso periferico in diverse forme.
+edema maculare.
+
+
+== Clinica ==
+
+
+=== Segni e sintomi ===
+
+Fra i sintomi e i segni si riscontrano:
+
+Iperglicemia
+Dispepsia
+Poliuria
+Polidipsia (secondaria alla poliuria)
+Polifagia paradossa (il paziente mangia molto ma dimagrisce), spesso il sintomo di esordio è costituito dalla chetoacidosi diabetica, presente soprattutto nella forma di tipo 1
+Perdita di peso
+Nausea
+Vomito
+Senso di fatica, irritabilità
+Astenia
+Cefalea
+Parestesie
+Ulcere cutanee
+Necrobiosis lipodica diabeticorum
+Acantosi nigricans
+Xerodermia
+Prurito
+Xantelasmi e Xantomi
+Disfunzione erettile
+Ipogonadismo
+
+
+=== Classificazione ===
+La prima classificazione prevedeva una distinzione sulla base dell'età distinguendosi diabete giovanile dal diabete dall'età matura poi nel 1977 Irvine propose una classificazione che riguardava la presenza di anticorpi antiinsulina-pancreatica rivelati o meno durante la diagnosi della malattia, ipotesi che fu presto scartata per vari problemi.
+Altra classificazione che ebbe notevole diffusione in passato fu quella per stadi, che divideva la patologia in quattro fasi:
+
+Diabete potenziale
+Diabete latente
+Diabete asintomatico
+Diabete clinico
+Nel 1979 il National Diabetes Data Group propose una classificazione ripresa in seguito dalle più grandi organizzazioni a livello mondiale (nel 1999 l'OMS e la società Europea per lo studio del diabete) con riguardo all'eziologia di stampo immunologico.
+Attualmente si divide il diabete mellito in «tipo 1» e «tipo 2».
+
+Diabete mellito di tipo 1: caratterizzato dalla distruzione delle cellule beta pancreatiche (linfociti CD4+ e CD8+ e infiltrazione dei macrofagi nelle isole pancreatiche), comportando solitamente l'associazione alla insulino deficienza. Esistono due sottoforme:
+Tipo 1A (immunomediato)
+Tipo 1B (idiopatico), senza che l'eziologia sia nota, colpisce maggiormente giovani africani e asiatici di età inferiore rispetto all'altra forma.
+Riguarda circa il 10% delle persone con diabete e in genere insorge nell'infanzia o nell'adolescenza. Nel diabete di tipo 1, il pancreas non produce insulina a causa della distruzione delle cellule β che producono questo ormone: è quindi necessario che essa venga iniettata ogni giorno e per tutta la vita. La velocità di distruzione delle β-cellule è, comunque, piuttosto variabile, per cui l'insorgenza della malattia può avvenire rapidamente in alcune persone, solitamente nei bambini e negli adolescenti, e più lentamente negli adulti (in questi rari casi si parla di una forma particolare, detta LADA: Late Autommune Diabetes in Adults).
+La causa del diabete tipo 1 è sconosciuta, ma caratteristica è la presenza nel sangue di anticorpi diretti contro antigeni presenti a livello delle cellule che producono insulina, detti ICA, GAD, IA-2, IA-2β. Questo danno, che il sistema immunitario induce nei confronti delle cellule che producono insulina, potrebbe essere legato a fattori ambientali (tra i quali, sono stati chiamati in causa fattori dietetici) oppure a fattori genetici, individuati in una generica predisposizione a reagire contro fenomeni esterni, tra cui virus e batteri. Quest'ultima ipotesi si basa su studi condotti nei gemelli monozigoti (identici) che hanno permesso di dimostrare che il rischio che entrambi sviluppino diabete di tipo 1 è del 30-40%, mentre scende al 5-10% nei fratelli non gemelli e del 2-5% nei figli. Si potrebbe, quindi, trasmettere una “predisposizione alla malattia” attraverso la trasmissione di geni che interessano la risposta immunitaria e che, in corso di una banale risposta del sistema immunitario a comuni agenti infettivi, causano una reazione anche verso le β cellule del pancreas, con la produzione di anticorpi diretti contro di esse (auto-anticorpi). Questa alterata risposta immunitaria causa una progressiva distruzione delle cellule β, per cui l'insulina non può più essere prodotta e si scatena così la malattia diabetica.
+Diabete mellito di tipo 2: la patogenesi non è immunitaria. È correlato alla presenza di geni in prossimità del sito HLA sul cromosoma 6. È detto anche non chetosico.Ha basi genetiche più salde della prima forma, sebbene la modalità di trasmissione non sia nota. Comprende quasi la totalità dei casi, il 90-95% di tutte le forme.
+Oltre alle due forme principali esistono altre forme, identificate dall'associazione americana del diabete, definite come secondarie ad altre patologie.
+
+Difetti genetici della funzione beta cellulare: Mody
+Diabete mellito gestazionale (o DMG): nel 7% (media fra i vari studi condotti, arrivando sino al 14%) delle gravidanze capita che la madre sviluppi una condizione di dibete mellito, tale evento risulta essere del tutto transitorio e facilmente trattabile tuttavia può causare dei problemi per il neonato che variano da un peso aumentato alla nascita fino alla morte del nascituro, e per la madre (rappresenta un importante fattore di rischio di sviluppare diabete mellito, dal 20 al 50% delle donne che hanno sofferto di diabete mellito gestazionale sviluppano diabete mellito di tipo 2 nel corso della vita).
+
+
+=== Diagnosi differenziale ===
+
+Per confermare un sospetto clinico di diabete mellito, è necessario che sia soddisfatto uno dei seguenti criteri varati dall'OMS:
+
+Glicemia a digiuno ≥ 126 mg/dL (o 7 mmol/L);
+Glicemia plasmatica rilevata 2 ore dopo la somministrazione orale di 75 g glucosio ≥ 200 mg/dL (o 11,1 mmol/L) (test di tolleranza al glucosio);
+Glicemia "random" ≥ 200 mg/dL (o 11,1 mmol/L) associata a sintomi di iperglicemia (tra i quali poliuria e polidipsia).
+La positività a uno dei suddetti test va confermata con l'esecuzione di almeno un altro dei due rimanenti, questo per porre con certezza pressoché assoluta diagnosi di diabete mellito.
+L'emoglobina A1 non è considerato un test diagnostico sufficiente.
+
+
+== Trattamento ==
+Le linee guida per attuare una razionale terapia in caso di diabete mellito non complicato prevedono l'adozione da parte del paziente di uno stile di vita (dieta ed esercizio fisico) adeguato e funzionale al trattamento farmacologico impostato.
+Senza voler prescindere dall'importanza di una dieta con apporto limitato di zuccheri semplici, studi recenti individuano come una precoce terapia insulinica possa scongiurare una progressione del diabete di tipo 2 in una percentuale maggiore che non gli ipoglicemizzanti orali.
+Molti studi hanno evidenziato l'importanza del cambiamento dello stile di vita nelle persone affette da diabete mellito, inoltre sembra che l'allattamento al seno riduca la possibilità di sviluppare il diabete da adulti.
+Un regime dietetico in cui i rapporti tra carboidrati, proteine, acidi grassi saturi e insaturi siano ben controllati è fondamentale affinché la terapia farmacologica riesca a controllare efficacemente la glicemia.
+
+Contrariamente a quanto avveniva in passato, non si prescrivono più regimi nutrizionali ipoglucidici, ma si ritiene che l'apporto di carboidrati debba costituire il 50-55% del totale giornaliero di calorie, l'apporto di grassi circa il 30% (cercando di ridurre i grassi saturi a meno del 10%) e l'apporto proteico intorno al 10-20% (non più di 0,8-1 g/kg/die).
+L'alcool va assunto in quantità modesta se il paziente è ben compensato; è assolutamente sconsigliato nei pazienti in sovrappeso, con livelli di glicemia non ottimali nonostante la terapia, nei pazienti con ipertrigliceridemia.
+Ultimamente si è dimostrato che le fibre, in quantità di 20-30 g/die, sono utilissime nel controllo glicemico, dei trigliceridi, del peso corporeo attraverso un aumento del senso di sazietà. Un diabetico deve quindi incrementare l'assunzione di frutta, verdura e cereali (soprattutto integrali).
+Anche alcuni composti di derivazione naturale, spesso derivati da piante officinali, hanno mostrato in alcuni studi di esercitare un effetto positivo nel controllo della glicemia, specie se concomitante ad altre sindromi metaboliche, ma per ora per nessuno di essi si sono raggiunte sufficienti evidenze da essere raccomandati nelle linee guida ufficiale per il trattamento della patologia. Tra questi vi sono l'inositolo, gli estratti di Jiaogulan, il sulforafano, la lagerstroemia speciosa.
+
+
+=== Esercizio fisico ===
+Il diabetes prevention program (DPP, letteralmente il programma di prevenzione del diabete), ha dimostrato che un modesto esercizio fisico giova soprattutto alla forma di tipo 2 nella maggioranza dei casi indicando come un esercizio fisico della durata di 30 minuti circa per 5 giorni alla settimana possano produrre effetti positivi, sia a livello di prevenzione sia per quanto riguarda il ritardarsi dei possibili effetti.  A meno che non sia controindicato per la coesistenza di altre patologie, l'esercizio riduce l'intolleranza al glucosio (migliorando la sensibilità all'insulina) e diminuisce i fattori di rischio cardiovascolari. La diminuzione del peso conseguente all'esercizio svolto è un altro incentivo visto che la riduzione del peso corporeo è un intervento basilare nella terapia del diabete di tipo 2. L'effetto positivo lo si riscontra in entrambi i sessi e a qualunque età. Contrariamente a quanto si può pensare capita che durante lo sforzo fisico la glicemia aumenti. Ciò che accade è che durante l'attività ormoni come l'adrenalina e il glucagone vengono prodotti causando perciò un aumento della glicemia. Prima e/o dopo l'attività sportiva potrebbe essere opportuno diminuire l'insulina in quanto lo sforzo fisico aiuta la funzione dell'insulina, si calcola infatti che sotto sforzo l'azione dell'insulina sia potenziata del 20/30%. Basandosi sulle indicazioni del proprio medico curante ed eventualmente sui riscontri glicemici è quindi necessario apportare i dovuti cambiamenti alla terapia insulinica tenendo conto di tali informazioni.
+
+
+=== Trattamento farmacologico ===
+
+
+==== Insulina ====
+
+Nel diabete mellito di tipo 1, nel quale esiste carenza assoluta di insulina, e nel diabete mellito di tipo 2 resistente alla terapia dietetica e agli antidiabetici orali questo ormone deve essere somministrato come terapia sostitutiva mettendo in atto un protocollo di terapia insulinica.
+Oggi si usano insuline umane ricavate per sostituzione aminoacidica dell'insulina suina o prodotte da ceppi di Escherichia coli con opportuni inserimenti genetici.
+Esistono diversi tipi di preparazioni insuliniche classificate solitamente in base alla loro durata d'azione:
+
+Esistono molti modi diversi per somministrare l'insulina.
+
+Aghi e siringa, aspirando l’insulina da flaconi da 10 ml (concentrazione: 100 U di insulina ogni 1 ml);
+Le penne per insulina, che sembrano delle penne per scrivere ma hanno invece un ago corto e sottile sulla punta, e sono preriempite con 3 ml (a seconda del tipo di insulina: 100 U, 200 U o 300 U di insulina ogni 1 ml);
+Gli iniettori a getto, che, in assenza di aghi, sfruttano la potenza dell'aria compressa non disponibili però in Italia;
+Microinfusore o "pompa" di insulina che è un dispositivo che consente l'infusione continua, 24 ore su 24, di insulina nel tessuto sottocutaneo;
+Gli inalatori di insulina, che vengono utilizzati per assumere l'insulina attraverso il respiro, non disponibili però in Italia.
+A breve saranno disponibili “penne intelligenti”, che conserveranno memoria della dose erogata, dell’ora di somministrazione e di altre informazioni inserite dal paziente (pasto assunto, attività fisica, ecc.).
+Esiste infine la possibilità di somministrare alcuni tipi di insulina ad azione rapida in vena, in ambiente ospedaliero, miscelandole con vari tipi di soluzioni
+Lo schema terapeutico più vantaggioso prevede tre iniezioni di insulina regolare da somministrare prima dei pasti. A queste è utile associare prima di cena o prima di coricarsi un'insulina ad azione intermedia per coprire il fabbisogno notturno.
+Altri protocolli prevedono un'iniezione quotidiana di un analogo dell'insulina (glargine o detemir), che copre il fabbisogno basale, e iniezioni ai pasti di insulina ad azione rapida o ultrarapida.
+Le insuline ad azione rapida permettono un più efficace controllo della glicemia postprandiale ma risultano meno efficaci nel mantenimento della glicemia nel corso dell'intera giornata. 
+La somministrazione può avvenire mediante l'uso di un microinfusore che eroga insulina ad azione ultrarapida in maniera continua e modulata per le 24 ore. All'occorrenza (cioè principalmente ai pasti ma anche per correggere eventuali iperglicemie) l'apparecchio eroga un bolo, cioè una dose unica, regolabile in base alle necessità terapeutiche contingenti, oppure anche .
+Le varie preparazioni servono a rendere più flessibile la terapia insulinica, adattandola alle differenti richieste metaboliche dei pazienti.
+
+
+==== Ipoglicemizzanti orali ====
+Sono disponibili quattro categorie di ipoglicemizzanti orali:
+
+Insulino-stimolanti
+Sulfaniluree
+Composti non-sulfanilureici: glinidi (repaglinide, nateglinide)
+Insulino-sensibilizzanti
+Biguanidi: metformina
+Tiazolidindioni: rosiglitazone, pioglitazone
+Inibitori delle a-glicosidasi intestinali
+acarbosio, miglitolo
+Farmaci agenti sull'asse delle incretine
+incretino-mimetici (exenatide) solo per via parenterale
+inibitori della dipeptidil-peptidasi IV
+
+
+=== Trattamento chirurgico ===
+
+
+==== Trapianto del pancreas ====
+Il trapianto del pancreas ha come obiettivo quello di ridurre il bisogno di insulina esogena eliminando al contempo alcune delle manifestazioni più pericolose come iperglicemia e ipoglicemia, i risultati sono soddisfacenti ma solo in determinati pazienti, per via della terapia immunosoppressiva che potrebbe risultare pericolosa.
+
+
+==== Trapianto delle isole di Langerhans ====
+Il trapianto di isole di Langerhans HLA compatibili per via portografica ha dato risultati promettenti, sebbene ancora in studio.
+Ha una minor invasività rispetto al trapianto chirurgico di pancreas, che richiede fino al 30% di reintervento. Necessita comunque di immunosoppressione.
+Le fasi sono quelle di estrazione, isolamento e purificazione delle isole di donatore cadavere e quindi trapianto mediante infusione lenta attraverso la vena porta. Le isole vanno a finire negli spazi portali tra le cellule epatiche.
+Può essere associato a trapianto renale: ricordiamo infatti che nel diabete spesso si ha insufficienza renale con complicanze uremiche. Il trapianto di isole è correlato a un miglioramento dell'uremia.
+A cinque anni vi è l'80% di sopravvivenza di isole, ma già dopo due anni è necessario instaurare terapia insulinica.
+
+
+==== Chirurgia bariatrica ====
+Una scoperta abbastanza recente che sta suscitando interesse da parte della comunità scientifica è rappresentata da un miglioramento del diabete mellito di tipo 2 dopo interventi di chirurgia bariatrica, con le seguenti percentuali:
+
+Procedure restrittive: miglioramento del diabete mellito di tipo 2 nel 40-70% dei casi (bendaggio gastrico: 48%; gastroplastiche: 72%).
+By-pass gastrico: miglioramento nell'84% dei casi.
+Diversione biliopancreatica: miglioramento nella quasi totalità dei casi.
+La chirurgia bariatrica quindi, uno strumento chirurgico di dimagrimento, può avere effetti positivi sulla cura del diabete.
+La posizione dell'American Diabetes Association è che gli interventi chirurgici per trattare l'obesità possono in alcune situazioni essere favorevoli a miglioramenti nel diabetico.Tuttavia gli studi di lunga durata rimangono limitati, poiché i pazienti diabetici sono a elevato rischio per la mortalità cardiovascolare postoperatoria.
+
+
+=== Follow-up ===
+Il controllo continuo della terapia è obbligatorio nel diabete mellito in quanto il paziente rischia di non rendersi conto dell'eventuale inadeguatezza della terapia o della dieta, essendo il diabete mellito patologia che decorre asintomatica per lungo tempo. Classicamente il follow-up lo esegue il paziente stesso attraverso il glucometro: effettuando una serie di dosaggi del proprio livello glicemico durante tutta la giornata (eventualmente anche durante la notte), verifica che i valori siano correttamente mantenuti dalla terapia in atto. A queste si può associare (soprattutto al risveglio mattutino, ma anche nel corso di tutta la giornata) il dosaggio, mediante stick reattivi, di glucosio e corpi chetonici eventualmente contenuti nelle urine.
+Il paziente deve verificare la correttezza del regime terapeutico adottato e del proprio stile di vita e il medico ha l'obbligo e il diritto di verificare l'efficacia dei presidi messi in atto; proprio per questo ai controlli quotidiani si associa un controllo periodico di tipo ambulatoristico-strumentale della emoglobina glicata e delle proteine plasmatiche glicate (riunite sotto il termine "fruttosamina"). Questi dosaggi si basano sul legame irreversibile e non enzimatico (glicazione) glucosio-emoglobina e glucosio-proteine plasmatiche che avviene proporzionalmente al livello glicemico. L'emoglobina ha una lunga emivita (circa 120 giorni) e si è visto che la sua glicazione rispecchia l'andamento glicemico delle ultime 6-8 settimane. Per quanto riguarda la fruttosamina, essa riflette l'andamento metabolico degli ultimi 10-15 giorni.
+
+
+== Prevenzione ==
+La comparsa di diabete di tipo 2 è una delle prime complicanze dell'obesità ed essere obesi significa mettere a rischio anche cuore, reni, apparato circolatorio e motorio, senza considerare il netto peggioramento della qualità della vita. Per sottolineare la crescente incidenza di questa pandemia dei nostri tempi, l'Organizzazione Mondiale della Sanità ha creato il neologismo di diabesità per intendere lo stretto legame che intercorre tra le due patologie.
+Nelle persone obese l'insulina basale è elevata e correla direttamente con il peso corporeo. Nei soggetti con familiarità per il diabete l'indice di massa corporea (IMC) è più elevato rispetto a quello dei soggetti senza familiarità. Elevati valori di IMC e di circonferenza addominale (obesità viscerale) sono associati significativamente con il diabete mellito di tipo 2 sia negli uomini, sia nelle donne.
+Negli individui insulino-resistenti sovrappeso od obesi una riduzione del peso corporeo è in grado di migliorare l'insulino-resistenza (incapacità del pancreas di produrre la quantità eccedente di insulina necessaria per il controllo della glicemia del paziente obeso).
+Rispetto alla prevenzione secondaria, le Linee Guida Europee raccomandano la perdita di peso per tutti coloro che soffrono o che sono a rischio per il diabete.
+La chirurgia bariatrica dovrebbe essere considerata in tutti i pazienti diabesici gravi, nella maggior parte dei quali favorisce il miglioramento duraturo della glicemia, come documentato da una crescente e autorevole letteratura scientifica.
+
+
+== Comorbilità ==
+La presenza di altre patologie oltre al diabete richiede stretta collaborazione tra diabetologi e gli specialisti delle singole discipline, l'interazione tra professionisti è fondamentale per raggiungere livelli di cura adeguati e ridurre il rischio di complicanze. 
+
+
+=== Cancro ===
+Il cancro e il diabete mellito sono tra i problemi di salute più diffusi degli ultimi anni e il ventunesimo secolo ha visto aumentarne prevalenza (il numero di persone ammalate in un dato momento) e incidenza (i nuovi ammalati in un periodo di tempo definito) in maniera significativa. 
+Si stima che una percentuale significativa di pazienti oncologici, compresa tra l'8% e il 18%, soffra anche di diabete mellito, una nuova diagnosi di cancro o di diabete, nel momento in cui è già presente una delle due patologie può avere un impatto rilevante sulla qualità della vita, la terapia e la sopravvivenza di una persona.
+La presenza del diabete può influenzare la scelta del trattamento antitumorale e l’iperglicemia nei pazienti oncologici è un problema frequente durante il trattamento e la palliazione del cancro. Un altro elemento da tenere in considerazione è quello del controllo del metabolismo. La gestione del diabete nei pazienti oncologici richiede un approccio globale e collaborativo. 
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Carlo M. Rotella, Edoardo Mannucci, Barbara Cresci, Il diabete mellito. Criteri diagnostici e terapia: un aggiornamento, SEE Editrice Firenze, 1999, ISBN 978-88-8465-009-2.
+ G. Restori, Il diabete mellito. Fisiopatologia, clinica e terapia., Piccin, 1991, ISBN 978-88-299-0915-5.
+ D. Andreani, G. Menzinger, G. Menzinger, Trattato di diagnostica funzionale endocrinologica, Piccin, 1984, ISBN 978-88-299-0196-8.
+ Jameson J. Larry, Harrison: Endocrinologia clinica, Casarile (Milano), McGraw-Hill, 2007, ISBN 978-88-386-3921-0.
+ Giovanni Faglia, Paolo Beck-Peccoz, Malattie del sistema endocrino e del metabolismo 4ª edizione, Milano, McGraw-Hill, 2006, ISBN 88-386-2392-9.
+ Research Laboratories Merck, The Merck Manual quinta edizione, Milano, Springer-Verlag, 2008, ISBN 978-88-470-0707-9.
+ Gremigni P, Letizia L, Il problema obesità. Manuale per tutti i professionisti della salute, Maggioli Editore, 2011, ISBN 9788838766831.
+(EN) William E. Winter, Maria Rita Signorino, Diabetes Mellitus: Pathophysiology, Etiologies, Complications, Management, and Laboratory Evaluation : Special Topics in Diagnostic Testing, Amer. Assoc. for Clinical Chemistry, 2002, ISBN 978-1-890883-62-1.
+
+
+== Voci correlate ==
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni sul diabete mellito
+ Wikimedia Commons contiene immagini o altri file sul diabete mellito
+
+
+== Collegamenti esterni ==
+
+ Mario Coppo, DIABETE, in Enciclopedia Italiana, II Appendice, Istituto dell'Enciclopedia Italiana, 1948. 
+ Gaetano Crepaldi, Michele Dalla Vestra e Paola Fioretto, Diabete, in Universo del corpo, Istituto dell'Enciclopedia Italiana, 1998-2000. 
+(EN) diabetes mellitus / diabetes, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Diabete.it: portale per pazienti della Associazione medici diabetologi, su diabete.it.
+ Associazione Italiana Diabetici, su fand.it. URL consultato il 16 settembre 2006 (archiviato dall'url originale il 2 settembre 2006).
+ Associazione Italiana per la Difesa degli Interessi dei Diabetici, su assitdiab.it.
+ Associazione Nazionale Italiana Atleti Diabetici, su aniad.org.
+ Il sito delle riviste Modus e Pediatria&Diabete, su modusonline.it.
+Agenzia internazionale per la prevenzione della cecità-IAPB Italia onlus (Conseguenze del diabete sulla vista: retinopatia diabetica)
+(EN) International Diabetes Federation, su idf.org.
+(EN) American Diabetes Association, su diabetes.org.
+(EN) Canadian Diabetes Association, su diabetes.ca. URL consultato il 16 settembre 2006 (archiviato dall'url originale il 12 gennaio 2021).
+(EN) Diabetes UK, su diabetes.org.uk.
+(EN) Operation Diabetes in the Philippines, su operationdiabetes.com. URL consultato l'8 marzo 2020 (archiviato dall'url originale il 15 giugno 2017).
+(EN) OMS: The Diabetes Programme, su who.int.
+(EN) Center for Disease Control Diabetes Section, su cdc.gov.
+(EN) MedlinePlus: Diabete, biblioteca U.S. National Library of Medicine, su nlm.nih.gov.
+(EN) Juvenile Diabetes Research Foundation, su jdrf.org.
+(EN) The Immunology of Diabetes Society, su idsoc.org. URL consultato il 16 settembre 2006 (archiviato dall'url originale il 19 gennaio 2007).
+(EN) OMS: Dieta, alimentazione e prevenzione di malattie croniche (fra cui il diabete), su who.int.

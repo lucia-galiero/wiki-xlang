@@ -1,0 +1,42 @@
+Un principio de relatividad es un principio general sobre la forma que debe tomar una teoría física. Frecuentemente los principios de relatividad establecen equivalencias entre observadores, de acuerdo con principios de simetría o invariancia entre situaciones físicamente equivalentes. De acuerdo con estos principios una determinada descripción de un fenómeno podría ser incorrecta si no respeta el principio de relatividad básico que define la teoría (así la teoría de la gravitación de Newton era incompatible con el principio de relatividad que definía la teoría de la relatividad especial, razón que llevó a Einstein a formular una nueva teoría de la gravitación como parte de la relatividad general).
+
+
+== Historia ==
+En la mecánica prerrelativista de Galileo y Newton los principios de relatividad se consideraron muchas veces de modo implícito en el desarrollo formal de la teoría. Aunque el propio Galileo llegó a hacer descripciones informales bastante explícitas del principio de relatividad que lleva su nombre. Con el advenimiento de las diversas versiones de teorías relativistas los principios de relatividad, equivalencia y covarianza se formularon explícitamente y trataron de formalizarse en la estructura de la propia teoría.
+Existen diversos principios de relatividad históricamente importantes:
+
+Principio de relatividad de Galileo
+Principio de relatividad especial de Einstein
+Principio de relatividad general de Einstein
+
+
+== Principio de relatividad de Galileo ==
+
+El principio de relatividad galileana es el reconocimiento del carácter relativo del movimiento, fue formulado de modo más o menos explícito por Galileo Galilei en 1638, que él mismo explicaba muy descriptivamente del siguiente modo:
+
+ 
+
+Este principio es importante en mecánica newtoniana y en particular permite identificar las clases de equivalencia de sistemas de referencias inerciales, si junto ese principio se consideran las leyes de Newton.
+
+
+== Principio de relatividad especial de Einstein ==
+
+El principio de relatividad especial de Einstein es el requerimiento formal de que las ecuaciones que describen un sistema físico deben ser invariantes por el grupo de Lorentz, es decir, dados dos sistemas de referencia relacionables mediante una transformación de Lorentz las ecuaciones que describen dicho sistema deben tener la misma forma. Eso implica que un observador dentro de un sistema de referencia sin comunicación o contacto visual con otro sistema de referencia no puede determinar la velocidad de desplazamiento de un sistema respecto a otro mediante ningún experimento.
+En cambio un observador que se mueve aceleradamente respecto a otro observador puede determinar el valor de la aceleración relativa respecto a ese observador. Pero en este caso el principio de relatividad especial de Einstein no es aplicable a observadores en movimiento acelerado relativo
+
+
+== Principio de relatividad general de Einstein ==
+
+El principio de relatividad especial de Einstein es el requerimiento formal de que las ecuaciones que describen un sistema físico deben ser invariantes por el grupo de Lorentz, es decir, dados dos sistemas de referencia relacionables mediante una transformación de Lorentz las ecuaciones que describen dicho sistema deben tener la misma forma. Eso implica que un observador dentro de un sistema de referencia sin comunicación o contacto visual con otro sistema de referencia no puede determinar la velocidad de desplazamiento de un sistema respecto a otro mediante ningún experimento.
+En cambio un observador que se mueve aceleradamente respecto a otro observador puede determinar el valor de la aceleración relativa respecto a ese observador. Pero en este caso el principio de relatividad especial de Einstein no es aplicable a observadores en movimiento acelerado relativo.
+
+
+== Referencias ==
+
+Drake, S. Discoveries and Opinions of Galileo, Doubleday, Nueva York, 1957.
+Drake, S. Galileo Galilei: Dialogue Concerning the Two Chief World Systems Ptolemaic and Copernican, University of California, Berkeley, 1953. [existe versión española: Diálogo sobre los dos máximos sistemas del mundo, Alianza, Madrid, 1995. Introducción, traducción y notas de Antonio Beltrán Marí. ISBN 84-934862-5-6].
+
+
+== Bibliografía ==
+Einstein, Albert (1905). «De la Electrodinámica de los Cuerpos en Movimiento (Zur Elektrodynamik Bewegter Korper).». Annalen der Physik 17: 891-921.  (Texto en español)
+Minkowski, Hermann (1908). «Espacio y Tiempo (Raum und Zeit)». Editado por David Hilbert, Leipzig por BG Teubner 2: 431-444.  (Texto en español)

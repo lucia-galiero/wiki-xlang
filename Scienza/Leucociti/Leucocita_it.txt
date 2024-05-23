@@ -1,0 +1,68 @@
+I leucociti (dal greco λευκός, leukós, «bianco» e κύτος, cýtos, «cellula»), globuli bianchi o WBC (dall'inglese white blood cells), sono cellule mature della porzione corpuscolata del sangue. Essi sono presenti nella maggior parte dei distretti tissutali del corpo e viaggiano attraverso vasi linfatici e sanguigni.Il numero di leucociti nel sangue è spesso un indicatore di malattia, e quindi la conta dei globuli bianchi è un sottogruppo importante del totale emocromocitometrico. Il normale conteggio dei globuli bianchi è in genere tra 4 × 109 / L e 1.1 × 1010 / L. Solitamente viene espresso da 4.000 a 11.000 globuli bianchi per microlitro di sangue.La funzione principale dei leucociti è quella di neutralizzare gli effetti degli agenti patogeni (microrganismi come virus, batteri, miceti, parassiti e corpi estranei penetrati nell'organismo) che oltrepassate le barriere anatomiche dell'immunità innata (costituite principalmente dalla cute e dalle mucose)  sono riconosciuti e aggrediti dai leucociti.
+
+I meccanismi di immunità innata (naturale, aspecifica) sono garantiti dai granulociti e monociti;
+I meccanismi di immunità acquisita (adattativa, specifica) sono garantiti dai linfociti.In oncologia essi rappresentano un fattore prognostico importante andando a costituire parte dei TILs (Linfociti infiltranti il tumore).
+
+
+== Origine staminale dei Leucociti ==
+Tutti i leucociti derivano da una cellula staminale multipotente (l'emocitoblasto) custodita all'interno di un tessuto linfoide e mieloide primario (il midollo osseo rosso).
+
+
+== Leucociti Maturi ==
+Il termine generico leucociti comprende citotipi assai differenti tra loro. Essi possono essere raggruppati in base alle caratteristiche morfologiche del loro nucleo e alla presenza/assenza di granuli specifici. Distinguiamo infatti:
+
+Granulociti Polimorfonucleati, caratterizzati da un nucleo dalla forma variabile; esso può essere scomposto in sotto-domini definiti "lobi". Posseggono granuli specifici della loro funzione.
+Agranulociti Mononucleati, caratterizzati da un nucleo dalla forma regolare. Non posseggono granuli specifici.
+
+
+=== Leucociti Polimorfonucleati o Granulociti ===
+granulociti neutrofili
+granulociti basofili
+granulociti eosinofili
+
+
+=== Leucociti Mononucleati o Agranulociti ===
+monociti, dai quali derivano i macrofagi tissutali;
+linfociti, ulteriormente classificabili in diverse sottopopolazioni.
+cellule natural killer, citotossiche
+
+
+== Tabella riassuntiva ==
+
+
+== Motilità dei leucociti ==
+I leucociti sono accomunati da alcune importantissime caratteristiche funzionali, tra le quali quella della motilità. Tali cellule, infatti, oltre che essere trasportate passivamente nel torrente circolatorio, sono in grado di sviluppare una locomozione attiva, utilizzando alcune proteine del citoscheletro. I leucociti, inoltre, sono estremamente deformabili: questa proprietà ne permette la fuoriuscita dai vasi sanguigni tramite un processo chiamato extravasazione leucocitaria. La fuoriuscita dei leucociti dai vasi si verifica nelle sedi dell'organismo dove è richiesta la loro azione ed è mediata da un insieme di stimoli di natura chimica (costituiti principalmente da citochine e chemochine).
+
+
+== Presenza di leucociti nel sangue ==
+
+Nel sangue periferico i leucociti sono presenti con una quantità che varia dai 4.500 ai 9.500 per mm3, a seconda del sesso, dell'età e delle condizioni di salute. Una conta leucocitaria al di sotto dei normali valori viene definita leucopenia, mentre un eccesso di leucociti di morfologia normale nel sangue periferico si definisce leucocitosi.
+La presenza di valori superiori di globuli bianchi può essere determinata da infiammazioni o infezioni: se aumentano i neutrofili l'infezione è di natura batterica, se aumentano i linfociti è tendenzialmente di origine virale, se aumentano gli eosinofili si può sospettare un'allergia o un'infestazione da parassiti.
+La leucemia non è un eccesso di globuli bianchi nel sangue, ma la presenza nel sangue periferico, anche in quantità esigue, di elementi anomali detti blasti.
+Un calo di leucociti si può trovare in quadri di infezione molto gravi, sintomatici di stati di esaurimento del sistema di difesa, di danni al midollo osseo, che è anche il tessuto in cui si formano, (ad esempio a causa di esposizione a sostanze chimiche o a radiazioni ionizzanti), in molte infezioni da virus e in alcune malattie del sistema sanguigno.
+La durata della vita dei globuli bianchi varia da poche ore per i granulociti, a mesi per i monociti, ad anni per alcuni tipi di linfociti.
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Valerio Monesi, Istologia, Piccin, 2002, ISBN 978-88-299-1639-9.
+
+
+== Voci correlate ==
+Granulocita
+Sistema immunitario
+Linfocita
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «leucocita»
+ Wikimedia Commons contiene immagini o altri file su leucocita
+
+
+== Collegamenti esterni ==
+
+(EN) white blood cell, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Leucociti.com, Il sito sui leucociti, su leucociti.com.

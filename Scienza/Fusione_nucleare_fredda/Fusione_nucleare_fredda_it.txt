@@ -1,0 +1,348 @@
+Fusione nucleare fredda (anche fusione fredda) è il nome generico attribuito a presunte reazioni di natura nucleare che si produrrebbero a pressioni e a temperature minori di quelle necessarie per ottenere la fusione nucleare, diminuendone così notevolmente le difficoltà tecniche.
+L'opinione di gran lunga prevalente all'interno della comunità scientifica è che tutte le evidenze sperimentali proposte non siano altro che l'effetto di errori di misurazione, oppure di fenomeni sostanzialmente chimici, comunque non nucleari.
+Il termine divenne molto popolare nel 1989 a seguito di alcuni esperimenti da parte di Martin Fleischmann e Stanley Pons dell'Università dello Utah a Salt Lake City (trasferitisi nel 1992 in Provenza per lavorare presso i laboratori IMRA, parte della Technova Corporation del gruppo Toyota), esperimenti che vennero ripetuti da vari laboratori senza però ottenere conferme del fenomeno in termini di riproducibilità. Ciò alimentò un forte scetticismo scientifico e talora persino l'idea di una bufala o frode scientifica da parte di pseudoscienziati, oltre alla critica di aver divulgato una "scoperta" non sufficientemente verificata. L'esistenza stessa di questi fenomeni è rimasta piuttosto controversa anche negli anni successivi. Alcuni ricercatori che svolgono ricerche in questo campo preferiscono usare più propriamente il termine trasmutazione LENR.
+Sulla possibilità di fusione a bassa energia furono pubblicati anche studi teorici, tra i quali quelli di Giuliano Preparata dell'Università di Milano. Tra i tentativi più recenti, nel maggio 2008 Yoshiaki Arata, insieme alla collega Yue-Chang Zhang, ha mostrato pubblicamente ad Osaka un reattore funzionante con pochi grammi di palladio. Anche in questo caso l'esperimento non è stato ripetuto e non ha avuto una pubblicazione scientifica.
+
+
+== Storia ==
+
+
+=== I primi lavori ===
+La particolare capacità del palladio di assorbire idrogeno fu riconosciuta alla fine del XIX secolo da Thomas Graham. Nel 1926 due radiochimici, Friedrich Adolf Paneth e K. Peters, pubblicarono un lavoro su una presunta trasformazione spontanea dell'idrogeno in elio per effetto di catalisi nucleare, quando l'idrogeno è assorbito dal palladio a temperatura ambiente. Successivamente questi autori ammisero che la quantità di elio da loro misurata era alterata da un inquinamento di elio presente in modo naturale nell'aria.
+Nel 1927 lo scienziato svedese J. Tandberg affermò di aver ottenuto una miscela di idrogeno in elio all'interno di una cella elettrolitica dotata di elettrodi in palladio. Sulla base di questo lavoro richiese nel suo paese un brevetto dal titolo: "Metodo che produce elio ed utili reazioni energetiche". Dopo la scoperta del deuterio, nel 1932, Tandberg continuò i suoi esperimenti con l'acqua pesante. A causa però della precedente scoperta di Paneth e Peters, seguita poi dalla sua ritrattazione, il brevetto di Tandberg sarebbe comunque risultato non valido.
+Il termine fusione fredda ("cold fusion") fu coniato nel 1986 da Paul Palmer, della Brigham Young University, durante una ricerca di geo-fusione (geo-fusion) sulla possibilità di esistenza di fenomeni di fusione all'interno dei nuclei planetari.
+
+
+=== L'annuncio di Fleischmann e Pons ===
+Negli anni sessanta Fleischmann annunciò che stava iniziando ad investigare sulla possibilità che alcune reazioni chimiche potessero influenzare i processi nucleari.
+Predisse che gli effetti collettivi da lui esplorati avrebbero potuto richiedere l'elettrodinamica quantistica per essere calcolati, potendo condurre a risultati più significativi rispetto agli effetti indicati dalla meccanica quantistica. Affermò inoltre che nel 1983 aveva raggiunto un'evidenza sperimentale che lo portava a credere che nella fase condensata i sistemi sviluppassero strutture coerenti piuttosto evidenti, con dimensioni dell'ordine dei 10−7 m (1/10.000 mm).
+Come conseguenza di questi studi, Fleischmann e Pons iniziarono nel 1984 i loro esperimenti sulla fusione fredda.
+
+
+=== La cella utilizzata per i primi esperimenti ===
+
+La configurazione iniziale della cella di Fleischmann e Pons utilizzava un vaso di Dewar (vaso di vetro a doppia parete al cui interno era stato fatto il vuoto) riempito di acqua pesante per svolgere l'elettrolisi, in modo che fosse minima la dispersione termica (meno del 5% durante la durata di un tipico esperimento). La cella era poi immersa in un bagno termostatato a temperatura costante in modo da eliminare gli effetti di sorgenti di calore esterne.
+I due scienziati utilizzarono una cella aperta, in modo da eliminare la pericolosa formazione di sacche di deuterio e ossigeno risultanti dalle reazioni di elettrolisi, anche se ciò avrebbe favorito qualche perdita termica e comportava quindi il ricalcolo della minore potenza prodotta dalla cella stessa a causa della perdita. Questa configurazione, a causa dell'evaporazione del liquido, rendeva necessario rabboccare di tanto in tanto il vaso con nuova acqua pesante. I due scienziati fecero poi notare che se la cella era alta e stretta, le bolle di gas prodotte dalla elettrolisi potevano mescolare l'acqua pesante contenuta e portarla ad una temperatura uniforme.
+Una particolare attenzione era poi stata riposta nell'utilizzo di un catodo di palladio e di un elettrolita di grande purezza, in modo da prevenire la possibilità di formazione di residui sulla superficie; questo specialmente per gli esperimenti più lunghi.
+La cella era corredata di un termistore per la misura della temperatura dell'elettrolita, e di un riscaldatore elettrico per la generazione degli impulsi di calore necessari a compensare le perdite di calore dovute alla evaporazione del gas. Dopo la compensazione (calibratura) era possibile ottenere con relativa facilità il valore del calore generato dalla reazione.
+Una corrente costante fu applicata alla cella per un periodo di diverse settimane, e quindi fu necessario rabboccare via via la cella con nuova acqua pesante. Per la maggior parte del tempo la potenza elettrica immessa nella cella rimase praticamente uguale a quella dispersa dalla cella stessa, evidenziando un funzionamento della cella secondo le consuete leggi dell'elettrochimica. In queste condizioni la temperatura della cella era di circa 30 °C. In certi momenti, però, e solo per alcuni esperimenti, la temperatura aumentava improvvisamente, sino a circa 50 °C, senza che fosse variata la potenza elettrica in ingresso; questo fenomeno poteva durare due o più giorni. In questi particolari momenti la potenza generata poteva essere superiore a 20 volte la potenza elettrica applicata in ingresso alla cella. In altri casi questi repentini innalzamenti di temperatura non venivano riscontrati per molto tempo e quindi la cella veniva spenta. La temperatura della cella era misurata con un termistore, mentre un altro termistore era posto direttamente sul catodo, in modo da poterne misurare la temperatura durante gli eventi di surriscaldamento.
+L'efficacia di quel metodo di rilevamento è stata spesso elemento di contestazione. L'esperimento, nel suo insieme, è stato poi criticato da Wilson, e altri esperimenti basati sull'utilizzo di celle aperte sono stati criticati da Shkedi e Jones.
+Tuttavia molti ricercatori che hanno fatto sperimentazione sulla fusione fredda hanno trovato tali critiche non convincenti e comunque non applicabili in altre tipologie di esperimenti.
+
+
+=== Comunicazione alla stampa ed inizio del dibattito ===
+La fusione fredda venne improvvisamente alla ribalta il 23 marzo 1989, quando i chimici Martin Fleischmann dell'Università di Southampton in Inghilterra e Stanley Pons dell'Università dello Utah, annunciarono alla stampa di essere riusciti a realizzarla.
+La dichiarazione fu resa alla stampa il 23 marzo 1989, in un clima internazionale assai sensibile alle proposte di metodi alternativi di produzione energetica, essendo ancora vivo il dibattito sul nucleare, acutizzato sia dal disastro di Černobyl' del 26 aprile 1986 sia dal disastro ecologico della petroliera Exxon Valdez, avvenuto qualche mese prima.
+Per cause non del tutto chiare, i due ricercatori pubblicarono la conferenza stampa prima che ne apparisse la pubblicazione su una rivista scientifica, pubblicazione che avvenne il successivo 10 aprile con un breve articolo scritto per il Journal of Electroanalytical Chemistry. L'articolo, a giudizio di molti esponenti del mondo scientifico, era stato scritto in modo affrettato, incompleto e conteneva alcuni errori sostanziali sulla misura dell'emissione di raggi gamma.
+Nella conferenza stampa Fleischmann e Pons avevano affermato di aver ricavato una considerevole quantità di energia termica da una particolare cella elettrolitica fatta di due elettrodi di cui l'anodo consisteva in un elemento di platino, mentre il catodo era realizzato da un elemento in palladio, il tutto immerso in un elettrolita a base di acqua pesante (2H2O). Inoltre i due ricercatori avevano affermato che, oltre alla notevole quantità di energia termica prodotta, la cella produceva anche un raro isotopo stabile dell'elio (3He), la cui presenza poteva essere spiegata come la cenere prodotta da una particolare reazione nucleare di fusione secondo la reazione:
+
+2H + 2H → 3He (0.82 MeV) + n (2.45 MeV)
+A conferma e prova dell'avvenuta reazione nucleare, i due chimici portavano le misure calorimetriche dell'energia rilasciata dalla reazione e le misure di irraggiamento neutronico, dovute ai neutroni ad alta energia rilasciati dalla reazione dei nuclei di deuterio.
+Il 12 aprile Stanley Pons fece una presentazione trionfale dei risultati ottenuti al congresso annuale della Società Americana di Chimica (ACS), mentre l'Università dello Utah chiedeva al Congresso degli Stati Uniti un finanziamento di 25 milioni di dollari per proseguire le ricerche. Lo stesso Pons, al congresso della ACS, aveva dichiarato che la fusione fredda avrebbe fornito energia in eccesso con un dispositivo che si poteva definire "tascabile" se confrontato con gli apparati ben più complessi necessari per la fusione nucleare "calda". Per questo motivo, Pons ricevette un invito a incontrarsi con i rappresentanti del presidente Bush all'inizio di maggio dello stesso anno.
+
+
+=== Le prime polemiche ===
+Le polemiche cominciarono a montare alla successiva conferenza della American Physical Society, il 1º maggio 1989, a Baltimora. Furono riportati i risultati di una collaborazione fra un gruppo dei Laboratori Nazionali di Brookhaven e l'Università Yale che, riproducendo il dispositivo utilizzato da Fleischmann e Pons, non ottenevano né energia in eccesso né soprattutto produzione di neutroni. Simili risultati furono poi riportati anche da ricercatori dei laboratori di Harwell, vicino a Oxford.
+In novembre, uno speciale gruppo di scienziati incaricati dal Dipartimento dell'Energia statunitense (DOE) si pronunciò in modo negativo sulla fusione fredda, mentre già alla fine del 1989 e negli anni seguenti negli Stati Uniti la fusione fredda veniva identificata come un fenomeno di pseudoscienza.
+
+Negli anni novanta negli Stati Uniti la ricerca sulla fusione fredda fu scarsa, mentre cominciavano ad emergere gruppi che se ne occupavano in Europa e Asia. Nel luglio del 1990 Fleischmann e Pons correggevano il loro articolo iniziale con un ponderoso lavoro di oltre 50 pagine, nel quale spiegavano i dettagli del loro esperimento. Cominciavano anche ad emergere i retroscena della vicenda del 1989. Nel 1991 Eugene Mallove, che era caporedattore scientifico dell'ufficio stampa del MIT, ammise che l'importante relazione scritta dal centro ricerche sui plasmi del MIT nel 1989 e che aveva avuto un'influenza non piccola nelle polemiche sulla fusione fredda, contenesse dei grafici in cui i dati erano stati modificati senza alcuna spiegazione. Secondo Mallove, questo avrebbe precluso qualsiasi tentativo di ottenere calore da dispositivi a fusione fredda al MIT, in modo da evitare possibili cali nei finanziamenti della fusione "calda".
+Una voce ancora più autorevole fu quella del premio Nobel Julian Schwinger che nel 1990 ammetteva che molte redazioni di riviste scientifiche si fossero adeguate alle pressioni negative degli ambienti accademici contro la fusione fredda.
+
+
+=== Le ricerche di Morrison ===
+Il fisico Douglas R.O. Morrison ha scritto nel 1991 un articolo di critica sulla fusione fredda, prendendo spunto dai vari esperimenti fatti nei due anni precedenti.
+Nel riassunto dell'articolo, poi, vengono fatte diverse considerazioni, tra le quali:
+
+non vi è produzione di calore di eccesso.
+È evidente che il bilancio finale è fortemente contro la presenza di prodotti di fusione.
+È stata osservata una curiosa regionalizzazione dei risultati.
+L'articolo si conclude con la seguente considerazione: La fusione fredda si spiega meglio come un esempio di "scienza patologica".
+
+
+=== Difficoltà nella riproducibilità del fenomeno ===
+Una della caratteristiche che hanno creato fin dall'inizio critiche da una parte della comunità scientifica (nonché accese polemiche), è stata la scarsa riproducibilità degli esperimenti lamentata dai ricercatori. Fin da quando Fleischmann e Pons il 13 marzo 1989 inviarono al Journal of Electroanalytical Chemistry la pubblicazione con le loro ricerche, decine di laboratori affermarono di avere fatto centinaia di tentativi di replicazione, senza una sufficiente quantità di esiti sicuramente positivi, deducendo che le condizioni alle quali il fenomeno si poteva produrre apparivano rare, particolari e quasi del tutto ignote anche agli scopritori, oppure questi si basavano su effetti non reali o spiegabili solo con particolari fenomeni di origine elettrochimica.
+Questa difficoltà nella dimostrazione oggettiva del fenomeno, unita ad una particolare situazione di grande attesa da parte del pubblico (amplificata dall'atteggiamento sensazionalistico dei media) fecero sì che alla fine si gettasse discredito sull'intero argomento.
+Per contro, vari ricercatori che operano nel campo della fusione fredda avanzarono varie spiegazioni a giustificazione di questa difficoltà: essi sostenevano che il protocollo da seguire redatto dai ricercatori Fleischmann, Martin & Pons non includeva una condizione assolutamente necessaria affinché il fenomeno stesso potesse svilupparsi, ovvero che fosse raggiunto un rapporto di caricamento estremamente elevato, da parte del deuterio, nella matrice di palladio, rapporto che doveva essere, come poi fu teoricamente dimostrato dai lavori di Giuliano Preparata, uguale o superiore a 0,95. Senza la conoscenza e successiva applicazione di questa informazione non era possibile ottenere una sufficiente costanza nei risultati da parte di chi tentò di riprodurre l'esperimento.
+
+
+=== I dubbi sulla realtà fisica del fenomeno ===
+Una consistente parte della comunità scientifica internazionale ha accolto con scetticismo e sfiducia i risultati sperimentali, risultati che spesso hanno suscitato grosse polemiche. Uno degli argomenti più citati dai detrattori sulla realtà delle caratteristiche nucleari del fenomeno della fusione fredda, è quello secondo cui in essa si produce un numero di particelle nucleari troppo basso per poter giustificare il calore prodotto. Inoltre esistono ancora moltissime controversie (principalmente di tipo teorico) sulla natura e sui meccanismi della fusione fredda.
+A posteriori, Fleischmann e Pons riconobbero alcuni errori nella misura dell'energia rilasciata dalla cella elettrolitica, e soprattutto nella misura del flusso di neutroni che sarebbero stati prodotti dalla reazione; tuttavia non smentirono mai di avere effettivamente misurato una contaminazione di elio negli elettrodi, adducendo questo fatto a prova dell'eventuale presenza di una reazione di natura nucleare. Sulla natura nucleare di quest'energia nel corso degli anni furono effettuati vari test ed esperimenti, ad esempio quello compiuto nel 2002 sotto la supervisione di Carlo Rubbia dai laboratori italiani dell'ENEA di Frascati, vicino a Roma.
+Secondo alcuni studiosi, le reazioni del mondo accademico ai molti risultati negativi ottenuti da vari laboratori nel tentativo di replicare il fenomeno, specie negli Stati Uniti, furono più simili ad un'azione di censura che non ad una legittima critica scientifica ai risultati sperimentali. Secondo altri, i meccanismi di finanziamento della ricerca scientifica hanno invece fatto sì che la ricerca della fusione fredda proseguisse nonostante l'assenza di evidenze condivise.
+A distanza di più di 10 anni dall'episodio, come ha indicato il premio Nobel Carlo Rubbia in un convegno nel 2000 in ricordo di Giuliano Preparata, si può affermare che la fusione fredda sia stata presentata nel 1989 in modo affrettato, creando eccessive aspettative: ciò fu in parte dovuto al fatto che Fleischmann e Pons erano chimici, e non avevano diretta esperienza del tipo di misure necessarie per provare che un'effettiva reazione di fusione fosse avvenuta.
+
+
+== Ipotesi teoriche ==
+La stessa possibilità teorica di reazioni di fusione nucleare fredda è controversa. Secondo i sostenitori delle teorie che permetterebbero tale fenomeno, analogamente ad ogni fenomeno di fusione nucleare, anche per ottenere la fusione nucleare fredda è necessario avvicinare i nuclei atomici di deuterio e trizio a distanze tali da vincere la reciproca forza coulombiana di repulsione dei nuclei carichi positivamente. Tuttavia, diversamente dalle reazioni di fusione termonucleare "calda", essi affermano che si può raggiungere lo stesso risultato spendendo molta meno energia, grazie allo sfruttamento di un catalizzatore, quale ad esempio il palladio. A seconda del tipo di catalisi utilizzata, si possono avere vari tipi di fusione nucleare fredda:
+
+
+=== Catalisi da muoni ===
+
+Il muone è una particella che ha la possibilità di sostituirsi all'elettrone dell'atomo. Se all'atto della sostituzione si dispone di una massa assai maggiore di quella dell'elettrone (circa 200 volte), per il principio di conservazione del momento angolare i muoni dovranno orbitare a distanze molto più prossime al nucleo, schermando quindi maggiormente la repulsione elettrica. Questo permetterà l'avvicinamento tra quei nuclei che hanno sostituito i propri elettroni con muoni, alla distanza necessaria ad innescare una reazione di fusione nucleare, con conseguente emissione di energia.
+I muoni, una volta innescata la fusione tra due nuclei, possono sopravvivere e quindi agire come catalizzatori per altre nuove reazioni. Tutti i fisici concordano ormai sulla capacità dei muoni di essere utilizzati come catalizzatori per generare reazioni di fusione nucleare, ma vi è l'oggettiva impossibilità, allo stato attuale della tecnologia, di rendere tali reazioni energeticamente convenienti.
+
+
+=== Confinamento chimico ===
+Il metodo detto del confinamento chimico si basa sulla possibilità di utilizzare la proprietà del palladio (o di altri catalizzatori) di caricare all'interno del proprio reticolo cristallino atomi di idrogeno (o dei suoi isotopi come il deuterio), formando così idruro di palladio oppure, ad esempio, deuteruro di palladio. Una condizione necessaria, ma non sufficiente, è che tale caricamento deve essere assai elevato e deve raggiungere una percentuale di H/Pd o D/Pd, detta anche di caricamento che abbia un valore di almeno il 95%. In altri termini, per ogni atomo di palladio ci deve essere quasi un atomo di idrogeno o deuterio. Una simile condizione è difficile da ottenere in tempi brevi, se non con particolari procedimenti di natura fisica e/o chimica.
+Sono stati finora proposti tre tipi di dispositivi a confinamento chimico:
+
+
+==== 1. Cella elettrolitica ====
+È un dispositivo composto da un contenitore di materiale isolante, riempito con deuterio in soluzione in un elettrolita, con al suo interno due elettrodi conduttivi metallici
+Il primo elettrodo, chiamato catodo, è generalmente di palladio o di un altro metallo capace di assorbire gli atomi di idrogeno o deuterio, ed è inoltre collegato al polo negativo di un apposito alimentatore a corrente continua. Il secondo elettrodo, chiamato anodo, è composto da un materiale resistente alla corrosione elettrolitica, come ad esempio il platino, ed è collegato al polo positivo dell'alimentatore. In questo tipo di cella Fleischmann, Pons e Hawkins sostengono di aver osservato una emissione di calore in quantità superiore a quella che ci si potrebbe aspettare in presenza di sole reazioni chimiche.
+Esempi di celle elettrolitiche:
+
+Cella di Fleischmann e Pons
+Esperimenti della SRI (USA) e Vittorio Violante (ENEA)
+
+
+==== 2. Cella al plasma elettrolitico ====
+La cella al plasma elettrolitico (o cella di T. Ohmori e T. Mizuno) è un dispositivo concettualmente simile alla Cella Elettrolitica, ma funzionante in un regime completamente differente.Il catodo è normalmente composto da una barra di tungsteno, o altro materiale metallico, capace di sopportare le elevatissime temperature prodotte da una bolla di plasma che si forma, a causa delle particolari condizioni di funzionamento, intorno all'elettrodo stesso.
+Esempi di celle al plasma elettrolitico:
+
+Cella di T. Ohmori e T. Mizuno
+
+
+==== 3. Cella a gas di deuterio o idrogeno ====
+Alcuni scienziati, ad esempio Yoshiaki Arata, Francesco Piantelli, Sergio Focardi e Francesco Celani, hanno realizzato delle celle dette asciutte, nelle quali al posto di un elettrolita liquido vi è un gas come il deuterio o l'idrogeno, mentre il catodo è in palladio o nichel; in tali catodi, con opportune tecniche, può essere accumulato un grosso quantitativo di gas.
+La quantità di gas accumulabile all'interno del reticolo cristallino del metallo può arrivare a circa un atomo di gas per ogni atomo di metallo. Un accumulo così elevato, a certe condizioni non ancora del tutto note, può innescare fenomeni di generazione anomala di calore. Il vantaggio di tali celle, rispetto a quelle elettrolitiche, risiede nella possibilità di effettuare esperimenti in condizioni controllate e, di conseguenza, facilmente riproducibili.
+Esempi di celle a gas:
+
+Cella nichel-idrogeno di Sergio Focardi e Francesco Piantelli
+Cella a nanoparticelle di palladio e gas di deuterio di Yoshiaki Arata
+
+
+== Ricerca sulla fusione fredda a confinamento chimico ==
+Negli anni che seguirono l'annuncio di Fleischmann e Pons, le ricerche sulla fusione fredda andarono via via scemando in tutto il mondo, rimanendo sempre più un argomento di nicchia, con un numero ufficiale di ricercatori attivi tra le 100 e 200 unità e pochi laboratori. In queste condizioni i progressi nell'approfondimento delle ricerche sono stati abbastanza lenti ed hanno portato a risultati non sempre chiari, anche perché, a causa di un certo disinteresse per l'argomento da parte delle principali riviste del settore, spesso non è stato possibile attivare quell'importantissimo meccanismo di verifica che è il peer review. La fusione fredda continua ad essere oggetto di ricerca in alcuni Paesi, tra cui l'Italia. Qui di seguito una sintesi dei principali esperimenti e dei risultati che ne sono stati dichiarati dai rispettivi autori.
+
+
+=== 1990: il titanio in sostituzione del palladio ===
+Il gruppo italiano guidato dal professor Francesco Scaramuzzi ha realizzato presso l'ENEA di Frascati un esperimento utilizzando il titanio al posto del palladio.L'esperimento ha evidenziato che quando il titanio assorbe del gas deuterio a bassa temperatura, si verifica un surplus di energia con conseguente emissione di neutroni.
+
+
+=== 1993: possibile presenza di trizio ===
+Le prime critiche sulla realtà del fenomeno della fusione fredda riguardavano la presunta assenza di ceneri, conseguenza prevedibile di una qualche reazione di natura nucleare; nel caso specifico, essendo il fenomeno ipotizzabile come un particolare tipo di reazione di fusione nucleare, i vari gruppi di ricerca hanno immediatamente iniziato a cercare tali ceneri nella forma di un qualche isotopo dell'elio.
+Il gruppo di ricercatori capitanati da Fritz G. Will del Department of Chemical and Fuels Engineering, Università di Salt Lake City, nello Utah, ha osservato una correlazione tra la produzione di trizio ed il caricamento di un filo di palladio con un caricamento pari o superiore all'unità.
+
+
+=== 1998-2003: Ohmori e Mizuno sull'elettrolisi al plasma ===
+
+Alla fine degli anni novanta, i ricercatori giapponesi T. Ohmori e Tadahiko Mizuno hanno annunciato la possibilità di ottenere reazioni di fusione fredda, con riproducibilità del 100%, senza utilizzare il costoso e raro palladio né l'acqua pesante (D2O), ma solo attraverso una particolare elettrolisi realizzata con elettrodi di tungsteno, sommersi in una soluzione di comune acqua (H2O) e carbonato di potassio (K2CO3) tra i quali era stata fatta passare corrente con differenza di potenziale di circa 160-300 V. A tali condizioni, quando la temperatura della soluzione supera i 70-80 °C, intorno alla parte immersa dell'elettrodo di tungsteno si ottiene la formazione di una bolla di plasma, che porta rapidamente all'ebollizione dell'elettrolita; allora, dissero i due ricercatori, si può produrre un bilancio energetico positivo, composto da una emissione termica dal 20-100% superiore all'energia elettrica spesa per sostenere la reazione, più una certa quantità di idrogeno gassoso. Quest'ultimo, secondo quanto affermato dagli stessi ricercatori, può portare il COP (coefficient of performance) complessivo del sistema ad oltre il 500%.
+Essendo il protocollo sperimentale assai semplice e alla portata di qualsiasi laboratorio di elettrochimica, immediatamente parecchi ricercatori pubblici e privati eseguirono moltissime repliche dell'esperimento, ottenendo risultati non sempre positivi; spesso vi applicarono alcune varianti, quasi tutte dichiarate dagli autori aventi esito positivo, ovvero con la formazione della bolla di plasma e la fusione dell'elettrodo di tungsteno, e un'emissione termica dal 20 al 100% superiore all'energia spesa per sostenere la reazione.
+Le misurazioni di assorbimento, necessarie per determinare l'efficienza complessiva, sono per loro natura affette da un notevole rumore elettrico dovuto alla presenza della scarica di plasma; ciò può causare serie difficoltà di rilevamento e quindi incrinare la certezza di aver determinato l'effettiva quantità di corrente assorbita dalla cella; per questo, diversi autori, hanno utilizzato contemporaneamente vari metodi di misura dell'assorbimento elettrico, in modo da verificare la reale convergenza delle misure.
+Attualmente il principale problema di questo tipo di processo è l'elevata temperatura che raggiunge l'elettrodo di tungsteno, sicuramente superiore ai 3.422 °C, che implica il raggiungimento del punto di fusione e quindi lo scioglimento dell'elettrodo nella soluzione. A queste condizioni, per una cella con un assorbimento medio di 200-500 W, vi è un consumo di qualche cm di elettrodo per ogni ora di funzionamento, il che rende il processo energeticamente non conveniente nel suo complesso.
+Un secondo problema, non meno importante, è la presunta deposizione, sia in soluzione che sull'elettrodo di tungsteno, di atomi di elementi prima non presenti nella soluzione nel metallo, ma comunque prossimi al tungsteno nella tavola periodica, inducendo quindi vari autori ad ipotizzare che sulla superficie dell'elettrodo di tungsteno possano avvenire processi di trasmutazione.
+
+
+==== Critiche sull'esecuzione delle misure ====
+La società EarthTech International Inc. (ETI) tra l'inizio del 1998 ed il dicembre 1999, ha svolto tre cicli di test con il protocollo di Ohmori e T. Mizuno, ma, nonostante la stretta collaborazione con gli autori giapponesi e l'oggettiva qualità del lavoro svolto, non è riuscita ad ottenere nessun risultato circa il problema del guadagno energetico. Questo fatto, secondo i ricercatori dell'ETI, può solo dipendere dall'oggettiva difficoltà a svolgere corrette misurazioni sui dispositivi elettrolitici che operano in particolari condizioni, come quelle riscontrate nel protocollo testato. Ad esempio, a causa del forte rumore elettrico indotto dal plasma, non è semplice valutare con sufficiente correttezza l'effettiva energia utilizzata dal dispositivo per lo svolgimento della reazione. Non solo: non è neanche facilmente constatabile se l'errore sulla determinazione dell'energia sia in sovrastima o sottostima rispetto a quella realmente impiegata. Questa difficoltà si ripercuote direttamente sulla determinazione del corretto rapporto fra l'energia spesa per la reazione e quella da essa prodotta sotto forma di calore (COP). Nonostante queste difficoltà, durante tutto il corso della sperimentazione, i ricercatori dell'ETI sono sempre stati certi della bontà dei criteri di misura da essi adottati e quindi della validità delle loro misurazioni.
+A sostenere tale certezza, i ricercatori dell'ETI hanno fatto anche notare che il COP misurato con i loro criteri lungo tutto l'arco temporale degli esperimenti era sempre rimasto prossimo al valore unitario, quindi del tutto insensibile alle profonde variazioni delle configurazioni sperimentali adottate nel tempo da essi. Anche la determinazione della presenza di elementi trasmutati sulla superficie dell'elettrodo di tungsteno è stata completamente confutata dai ricercatori dell'ETI, escludendo quindi, secondo le loro ricerche, eventuali processi di trasmutazione sulla superficie dell'elettrodo di tungsteno.
+
+
+=== 2002: il Technical Report 1862 della Marina USA ===
+Nel febbraio del 2002, un laboratorio della marina degli Stati Uniti pubblicò un lavoro nel quale veniva confermato il fenomeno della fusione fredda come concreto: in 132 pagine faceva il punto sullo stato delle ricerche sulla fusione fredda eseguite dalla U.S. Navy dal 1989 al 2002.
+Gli esperimenti svolti sono stati in particolar modo descritti nel capitolo 3 (pp. 19), dal titolo "Excess heat and helium production in palladium and palladium alloys"; in esso sono riportate le analisi calorimetriche svolte nel 1989 (con tolleranze dell'ordine del 4%) che rilevano nei vari esperimenti condotti un evidente eccesso di calore e la produzione di 4He (Elio 4) come conseguenza di presumibili effetti di natura nucleare all'interno della cella.
+Nel 1992 sono stati fatti esperimenti con leghe di palladio-boro (Pd-B) che, con sorpresa degli stessi ricercatori, hanno dato tutti esito positivo (pp. 21). Nel 1995 l'esperimento è stato poi riprodotto in Giappone con gli stessi risultati. Successivamente sono stati fatti esperimenti per verificare l'emissione di neutroni, esperimenti che hanno dato sempre esito negativo.
+
+
+=== 2004: analisi dello US Department of Energy (DoE) ===
+
+
+==== Organizzazione del peer-review ====
+Durante la conferenze internazionale sulla fusione fredda (ICCF-10), tenutasi a Boston nell'Agosto del 2003, alcuni ricercatori presentarono risultati positivi che convinsero alcuni accademici americani a proporre di riesaminare la questione da parte del Department of Energy (DoE).
+A questo punto partì un'ampia analisi della letteratura ed un ufficio del DoE (Dipartimento dell'energia degli Stati Uniti), contattò un gruppo di scienziati che operavano nel campo della fusione fredda in modo da poter riesaminare la questione dell'evidenza scientifica delle reazioni nucleari a bassa energia (LENR), ovvero la fusione fredda. Agli scienziati contattati fu chiesto di presentare il materiale che ritenevano più interessante. Sulla base di questo materiale fu redatto un lavoro riassuntivo dal titolo "New Physical Effects in Metal Deuterides". Tutto il materiale così ottenuto venne poi valutato secondo un complesso protocollo di peer review, al termine, sulla base dei 18 commenti realizzati dagli esperti del DoE è stato redatto il rapporto definitivo.
+
+
+==== Conclusioni da parte della commissione ====
+Al termine dei lavori sono stati formulati 3 elementi su cui effettuare la valutazione, tradotti in quesiti peritali ai quali i recensori hanno dato delle risposte, qui di seguito riportate:
+
+Esaminare e valutare l'evidenza sperimentale di episodi di reazioni nucleari nella materia condensata a bassa energia.
+...due terzi dei recensori non ritengono che le evidenze (descritte dai lavori presentati) siano conclusive per rendere certa la presenza di reazioni nucleari a bassa energia; un recensore trovò invece che l'evidenza era convincente, mentre gli altri non furono completamente convinti. Molti notarono che il progetto sperimentale era complessivamente povero, così come la documentazione, il sistema di controllo e vari altri problemi simili che hanno impedito la comprensione e l'interpretazione dei risultati a loro presentati.
+Determinare se comunque l'evidenza è sufficientemente conclusiva per dimostrare l'esistenza di una qualche reazione nucleare.
+...La preponderante maggioranza delle valutazioni dei recensori ha indicato che la presenza di reazioni nucleari a bassa energia non è stata dimostrata in modo conclusivo. Un recensore ha giudicato che l'evidenza è stata dimostrata, ma molti altri non hanno risposto alla domanda.
+Determinare se vi è un interesse scientifico che giustifichi la continuazione di questi studi; se sì, individuare i temi e i problemi più promettenti su cui applicarsi.
+...Nessun recensore ha raccomandato un programma finanziato con fondi federali per le reazioni a bassa energia.
+La commissione così conclude la sua relazione:
+
+...Mentre dall'ultima indagine del 1989 ad oggi vi è stato un progresso significativo nella qualità dei calorimetri, le conclusioni raggiunte oggi dai recensori risultano simili a quelle riscontrate nell'indagine del 1989.
+
+
+==== La Energy Efficiency and Renewable Energy secondo il Doe ====
+Se da un lato il parere della commissione sulla realtà del fenomeno sembra del tutto negativo, la sezione del DoE Energy Efficiency and Renewable Energy, raccomanda di proseguire gli studi per un maggior approfondimento del fenomeno stesso:
+
+Riconsiderando sia l'evidenza per la produzione di calore in eccesso che i prodotti di fusione, due terzi dei recensori del DoE non si sentono di ammettere, in modo certo, l'evidenza del fenomeno. La maggior parte dei recensori ha indicato che le evidenze riscontrate non dimostrano, in modo conclusivo, la presenza di fenomeni di fusione fredda. Nell'analisi finale, i recensori non hanno potuto trarre precise conclusioni circa l'esistenza della fusione fredda, e quindi raccomandano di individuare nuovi metodi di ricerca per risolvere le incertezze nei risultati prima riscontrati.
+
+
+=== 1994-2008: gli esperimenti di Yoshiaki Arata ===
+
+
+==== 1998: fusione fredda dalla DS Cell ====
+Nel 1998, dopo un lavoro durato diversi anni, Yoshiaki Arata e Zhang hanno confermato il riscontro di un notevole eccesso di energia, proveniente da una cella immersa in acqua pesante (deuterio) (D2O) e superiore agli 80 watt (1,8 volte maggiore dell'energia utilizzata per sostenere tale reazione) per 12 giorni. I due ricercatori hanno poi affermato che l'energia emessa durante tali esperimenti era troppo grande rispetto alla modesta massa dei materiali utilizzati dentro la cella perché il risultato potesse essere giustificato come conseguenza di un'eventuale reazione di tipo chimico.
+La cella ideata da Arata, diversamente da altre utilizzate nella fusione fredda Palladio-Deuterio, è molto particolare, in quanto opera con elevatissime pressioni.
+Successivamente, nel 2006, il ricercatore Francesco Celani dell'Istituto Nazionale di Fisica Nucleare di Frascati, ha ripetuto una parte dell'esperimento di Arata, confermando la presenza di un forte aumento di pressione all'interno di un tubo, immerso in una particolare soluzione liquida, tramite il passaggio di una corrente faradica.
+
+
+==== 2008: la cella a gas di deuterio ====
+Successivamente Arata osservò che una notevole quantità di energia utilizzata per attivare la reazione veniva dissipata dall'elettrolita sotto forma di semplice riscaldamento. Pertanto ha successivamente messo a punto una particolare cella senza elettrolita e senza alimentazione elettrica, la quale, anche se apparentemente molto differente dalle precedenti celle, in pratica non se ne discosta molto per ciò che concerne il principio base di funzionamento.
+Arata, nel maggio 2008, ha comunicato alla comunità scientifica internazionale di aver terminato di perfezionare un protocollo di produzione di energia da fusione fredda, potenzialmente capace di produrre quantità rilevanti di energia. Questo protocollo utilizza un sistema originale composto da particolari nano-particelle di palladio disperse in una matrice di zirconio. Con complesse procedure di metallurgia, viene ossidato lo zirconio, ma non il palladio, in modo che quest'ultimo sia disperso all'interno di una matrice amorfa di ossido di zirconio che, se da un lato risulta permeabile al deuterio, dall'altro impedisce alle nanoparticelle di palladio di raggrupparsi.
+L'esperimento di Arata inizia saturando l'atmosfera della cella con deuterio, il quale attraversa velocemente la matrice di zirconio e viene quindi assorbito dalle nanoparticelle di palladio, caricandole e quindi portandole alle condizioni critiche per le quali si innescano probabili fenomeni di fusione nucleare. Secondo Arata, una volta avviato il processo di fusione, il sistema così realizzato è capace di azionare un motore termico, senza alcun altro apporto di energia.
+
+
+==== 2008: dimostrazione a Osaka ====
+Il primo esperimento pubblico, cui erano presenti circa 60 persone tra scienziati e giornalisti, aveva come fine quello di dimostrare la riproducibilità del 100% dei fenomeni di produzione di calore da parte della cella a gas di deuterio in pressione, sviluppata da Arata e dal suo collaboratore Yue-Chang.
+L'evento ha avuto luogo il 22 maggio 2008, all'Università di Osaka, con una dimostrazione tutta commentata in lingua giapponese. La cella è stata caricata con 7 grammi di speciali nanoparticelle e messa in pressione con deuterio a 50 atmosfere: iniziava immediatamente a produrre energia termica, senza nessun tipo di alimentazione elettrica. L'energia termica prodotta, qualche decina di watt, era sufficiente a mettere in moto un motore termico a ciclo di Stirling. Al termine dell'esperimento i presenti hanno voluto nominare tale fenomeno Arata Phenomena.
+L'esperimento è stato eseguito con questo protocollo:
+
+In un apposito contenitore a pressione, posto all'interno di un calorimetro e collegato per mezzo di una tubazione ad uno spettrometro di massa ad altissima risoluzione, sono stati inseriti 7 grammi di nano-particelle di palladio disperse in una matrice di ossido di zirconio appositamente preparate dal laboratorio di Arata.
+Nella prima fase del test, nel recipiente è stato inserito idrogeno a 50 atmosfere, generando così un breve picco termico dovuto all'idratazione delle stesse, seguito poi da un lento raffreddamento, dimostrando così che in tale situazione non vi è né emissione di calore, né presenza di 4He.
+Il recipiente è stato poi svuotato, degasato e nuovamente riempito, ma questa volta con deuterio a 50 atmosfere. A questo punto vi è stato di nuovo il picco termico dovuto all'idratazione, ma questa volta il calore non è andato progressivamente scemando, ma è invece rimasto costante, tanto da permettere il funzionamento di un motore termico a ciclo di Stirling. Il funzionamento è proseguito per diverso tempo, in modo da poter accumulare nel sistema una sufficiente quantità di elio; successivamente è stata fatta una nuova misura del gas presente nel contenitore, e questa volta lo spettrometro di massa ha rilevato nettamente la presenza di elio mescolato con deuterio, segno evidente che il calore prodotto era dovuto ad una reazione termonucleare. Durante la reazione gli appositi rilevatori di radiazioni non hanno rilevato nessuna emissione radioattiva.
+Arata, durante la conferenza che aveva preceduto l'esperimento, aveva fatto notare che esso avrebbe dimostrato la possibilità di produzione di elevate quantità di calore attraverso una reazione di fusione fredda, ma che comunque sarebbero rimasti ancora insoluti numerosi problemi per lo sfruttamento commerciale di tale tecnologia.
+I problemi più importanti da superare sono quelli legati al mancato degasaggio dell'elio che si è formato all'interno delle nano-particelle, che con il tempo porta ad un suo costante accumulo che di fatto "avvelena" la reazione, ed alla necessità di ricercare un materiale meno costoso e più abbondante del palladio utilizzato per l'esperimento.
+Alcuni ricercatori hanno criticato la validità della dimostrazione di Arata, soprattutto in relazione al fatto che egli non ha pubblicato i risultati su nessuna rivista scientifica soggetta a peer review (revisione paritaria).
+
+
+== Studio della fusione fredda in Italia ==
+Fin dal suo annuncio, anche in Italia l'eventualità della fusione fredda è stata studiata da vari gruppi di lavoro ed industrie. Di seguito si riportano alcuni riferimenti ai lavori svolti dal 1989 ad oggi.
+
+
+=== 1989: primi esperimenti italiani svolti dal gruppo ENEA/TIB ===
+A poco più di un mese dalla pubblicazione del lavoro sulla fusione fredda di Fleischmann e Pons (fine marzo 1989) il Dipartimento FUS fece partire un programma promosso dalla direzione dell'ente che aveva come scopo quello di verificare l'ipotesi di una correlazione tra l'emissione neutronica e formazione di trizio con una corrispondente produzione di calore. Nello stesso periodo, sempre in ENEA, partì spontaneamente dalla sezione di criogenia del Laboratorio di Spettroscopia Molecolare del dipartimento TIB (Tecnologie intersettoriali di Base) un tentativo di produrre reazioni di fusione utilizzando un differente approccio da quello classico seguito da Fleischmann e Pons.
+Il nuovo approccio prevedeva di utilizzare la proprietà di alcuni metalli di assorbire gas di idrogeno/deuterio in opportune condizioni di temperatura e pressione.
+L'esperimento, concettualmente piuttosto semplice, era stato preparato con rapidità in quanto il materiale necessario (trucioli di titanio e gas di deuterio) era direttamente reperibile in laboratorio. Fu preparato un contenitore in acciaio inox che potesse resistere alle condizioni sperimentali, ovvero alla pressione di alcune decine di bar ed a una temperatura di circa 400 °C. Il contenitore d'acciaio fu allora riempito con i trucioli di titanio e gas deuterio e quindi posto in un vaso di Dewar nel quale poteva essere versato azoto liquido a 77 K (-196 °C).
+In prossimità del dispositivo fu inserito un misuratore di neutroni che nel giro di due settimane rilevò alcune emissioni neutroniche, della durata di diverse ore, che sembravano fortemente correlate alla variazione di temperatura del cilindro di acciaio contenente i trucioli di titanio e il deuterio in pressione.A questo punto il fisico italiano Francesco Scaramuzzi, dell'ENEA di Frascati, presentò una relazione da cui sarebbe risultata l'emissione di neutroni da parte di una cella deuterio-titanio sottoposta a pressioni di alcune decine di bar. Scaramuzzi fu successivamente convocato per un'audizione parlamentare.
+
+
+=== 1989-2000: gli studi teorici di Preparata ===
+Uno dei teorici sui possibili meccanismi che possono spiegare la fusione fredda è stato il Prof. Giuliano Preparata, docente di Fisica Nucleare all'Università degli Studi di Milano, il quale, subito dopo l'annuncio del 1989 (e fino al 2000, anno della sua morte), studiò il fenomeno in chiave teorica e parallelamente promosse varie attività di ricerca presso l'Università di Milano e l'ENEA.
+Nel 1989 Preparata, insieme ai fisici Emilio Del Giudice e Tullio Bressani, pubblicò sulla rivista "Nuovo Cimento" un articolo prettamente teorico, nel quale intendeva gettare le basi per una teoria predittiva della fusione fredda, basando il fenomeno su alcune estensioni della teoria dell'elettrodinamica quantistica (QED) nella materia condensata. La teoria faceva emergere la possibile esistenza di una soglia nel rapporto tra il numero di atomi di deuterio assorbiti ed il numero di atomi di palladio, il cosiddetto fattore di caricamento, che non doveva essere inferiore ad 1.
+L'immediata conseguenza della teoria è la definizione di una soglia minima al di sotto della quale il fenomeno di fusione fredda, secondo il protocollo utilizzato da Fleischmann e Pons, non può avvenire; questo potrebbe dimostrare che il fenomeno di fusione fredda, a certe condizioni, può essere visto come una conseguenza prevedibile dall'estensione di una teoria ben accettata dalla fisica quale è quella dell'elettrodinamica quantistica. Una qualsiasi replica, anche se di esito negativo, per essere presa in considerazione deve essere quindi accompagnata dal valore del caricamento che ha subito il palladio con il deuterio, ovvero il rapporto tra gli atomi di deuterio e quelli di palladio presenti sugli elettrodi. Non solo: essendo il rapporto di caricamento assai elevato, un sufficiente caricamento del palladio può richiedere tempi estremamente lunghi (settimane o addirittura mesi).
+
+
+=== 1991-2001: la querela a "La Repubblica" ===
+I ricercatori Fleischmann, Pons, Bressani, Preparata e Del Giudice denunciarono il giornalista Giovanni Maria Pace a causa di un articolo giudicato diffamatorio apparso sul quotidiano La Repubblica del 21 ottobre 1991.Il giudizio in prima istanza del tribunale di Roma, dopo aver qualificato la fusione fredda come un'ipotesi che attende conferme, fu di assoluzione e condannò pertanto tutti e 5 i ricercatori in solido al pagamento delle spese processuali.
+Nel 2001 ovverosia dopo quasi 10 anni dalla comparsa dell'articolo e su ricorso promosso dai cinque ricercatori, la Corte d'Appello di Roma ribaltò la sentenza di primo grado e quindi condannò La Repubblica nelle figure del suo editore, del direttore del quotidiano e del giornalista Giovanni Maria Pace a un risarcimento monetario nei confronti dei due ricercatori M. Fleischmann, S. Pons. La motivazione, antitetica a quella di primo grado, si fondò sulla constatazione che la precedente sentenza ignorava ... le informazioni pubblicate, non solo in atti scientifici, ma anche dalla stampa e segnatamente dal quotidiano "La Repubblica" sul positivo andamento della ricerca nel settore "de quo", affermando anzi il contrario. La sentenza passò in giudicato senza che le parti presentassero ulteriore appello.
+
+
+=== 2001-2002: rapporto tecnico ENEA RT2002/41 (Rapporto 41) ===
+Nel 1999 il Premio Nobel Carlo Rubbia, allora presidente dell'ENEA, essendo a conoscenza di una serie di lavori sulla fusione fredda svolti nei precedenti anni presso lo stesso ente ed essendo anche a conoscenza delle varie critiche pervenute dal mondo scientifico che mettono in dubbio la realtà stessa del fenomeno, decise di commissionare una ricerca organica ad un gruppo di ricercatori dell'ENEA di Frascati, fra i quali Emilio Del Giudice, Antonella De Ninno e Antonio Frattolillo.
+
+Per questa ricerca furono stanziati quasi 600.000 euro e concessi 36 mesi di tempo per portare a termine il lavoro. L'esperimento è stato concepito, in modo da accertare se vi fosse una correlazione diretta tra la produzione di 4He (Elio 4) e gli eventuali eccessi di calore osservati durante il funzionamento delle celle a fusione fredda, e se la quantità di 4He potesse giustificare l'energia prodotta sempre da tali eccessi. Se tale correlazione fosse stata evidente, questa avrebbe dato un sostanziale contributo all'interpretazione dell'origine nucleare di tali eccessi e, parallelamente, avrebbe fornito una chiave di interpretazione più chiara di tale fenomeno.
+Nell'aprile del 2002, dopo circa tre anni di ricerca, il gruppo di lavoro diretto da Antonella De Ninno terminò il proprio lavoro pubblicando il Rapporto Tecnico ENEA RT2002/41/FUS.
+A proposito di questo rapporto è utile analizzare il metodo di determinazione della quantità di 4He (elio 4) utilizzato dal gruppo della De Ninno:.
+Proc. of 9th International Conference on Cold Fusion, ICCF9 Bejing (China), 19-24 May, 2002, noto come Rapporto 41 Archiviato il 26 luglio 2012 in Internet Archive., che conferma la correlazione tra la produzione 4He e l'eccesso di calore.
+Per gli autori del rapporto, come di prassi al termine di un'indagine scientifica che ha dato presumibili esiti positivi, risulta evidente l'importanza di una sua rapida pubblicazione attraverso le riviste scientifiche di settore, in modo da permettere ad altri gruppi di ricerca di confutare o confermare i risultati da essi pubblicati. Il rapporto non è stato pubblicato sulle principali riviste di settore, come ad esempio Science. Successivamente il gruppo di Antonella De Ninno ha richiesto un ulteriore finanziamento per portare avanti il lavoro, ma da parte di ENEA non c'è stata risposta; successivamente le dimissioni di Carlo Rubbia dalla presidenza di ENEA hanno messo la parola fine all'iniziativa.
+
+
+==== Il documentario di Rainews24 ====
+In riferimento a quegli avvenimenti, il 19 ottobre 2006 Rainews24 a cura del giornalista Angelo Saso, ha mandato in onda un'inchiesta sul documento ENEA chiamato Rapporto 41. L'inchiesta inizia con la lettura della lettera che l'elettrochimico Martin Fleischmann il 10 aprile 2002 inviò a Rubbia:
+
+Caro professor Rubbia, sono molto lieto che il programma di ricerca intrapreso da Giuliano Preparata abbia conseguito il suo scopo ... I risultati ottenuti dai ricercatori italiani sono veramente impressionanti, e non esagero.
+L'inchiesta analizza in particolar modo le difficoltà incontrate dai ricercatori nell'ottenere la pubblicazione su riviste con alto livello di visibilità scientifica.
+
+
+=== 2007: ENEA e SRI dichiarano una riproducibilità dal 65% al 75% ===
+Vittorio Violante dell'ENEA di Frascati, insieme a suoi collaboratori e ad alcuni istituti di ricerca internazionali, pubblica un lavoro dal titolo "Joint Scientific Advances in Condensed Matter Nuclear Science", che riporta i risultati di un esperimento svoltosi all'interno di più laboratori tra il 2006 ed il 2007 al fine di dimostrare l'affidabilità di un particolare metodo di caricamento del palladio, studiato dallo stesso Violante. Nella pubblicazione si dichiara che questo metodo permette di avere un eccesso di produzione di calore piuttosto elevato, con una riproducibilità media del 70% (65% per gli esperimenti svolti presso l'ENEA di Frascati e 75% presso l'SRI a Menlo Park, USA.).
+Il lavoro è pubblicato all'interno dell'8º International Workshop on Anomalies in Hydrogen / Deuterium Loaded Metals svoltosi a Catania dal 13 al 18 ottobre del 2007.
+
+
+=== 2008: INFN, annuncio di Celani ===
+In occasione dell'ICCF-14 Il ricercatore del INFN Francesco Celani comunica di aver ottenuto emissioni anomale di calore da una particolare cella in gas di deuterio con il catodo realizzato per mezzo di un sottile (50 µm) filo di palladio lungo 60 cm, a sua volta ricoperto di un sottile strato (2-5 µm) di nanoparticelle in palladio ed altri elementi.
+
+
+=== 1994-2011: la fusione fredda Nichel-Idrogeno (Ni-H) ===
+
+Nel 1989 il biofisico Francesco Piantelli, dell'Università degli Studi di Siena, mentre stava effettuando studi su campioni di materiale organico, si accorse della presenza di un'anomala produzione di calore. Comunicò il fenomeno da lui osservato a Sergio Focardi, fisico dell'Università di Bologna, e i due decisero di creare un gruppo di lavoro cui si aggiunse Roberto Habel, membro dell'INFN presso l'Università di Cagliari, al fine di approfondire la causa di quell'anomalia termica.
+Dopo circa tre anni, gli studi approdarono a significativi risultati permettendo la costruzione di un reattore Nichel-Idrogeno sufficientemente efficiente. Passarono altri due anni di sperimentazioni e finalmente il 20 febbraio 1994, in una conferenza stampa presso l'aula magna dell'Università di Siena, venne annunciata la messa a punto di un differente processo di produzione di energia per mezzo di Reazioni Nucleari a Bassa Energia (LENR), profondamente differente da quello fatto da Fleischmann e Pons.
+Il loro processo si basava sull'uso di una barra di nichel, mantenuta per mezzo di una resistenza elettrica ad una temperatura di circa 200-400 °C e caricata con idrogeno attraverso un particolare processo.
+Quando la reazione è innescata, ovvero quando la barretta di nichel cede più energia di quanta sia necessaria per il riscaldamento della stessa, vi può essere anche una debole e discontinua emissione di radiazione gamma che potrebbe testimoniare una possibile origine nucleare di tale fenomeno.
+In base alle dichiarazioni dagli autori, attualmente gli esperimenti sono indirizzati ad un miglioramento dell'efficienza complessiva del sistema, al fine di realizzare un generatore di energia termica ed elettrica completamente autonomo.
+
+
+==== 1996: tentativo di replica esperimento di Piantelli-Focardi presso il CERN ====
+Nel 1996 un gruppo del CERN di Ginevra diretto da Antonino Zichichi ha tentato una replica dell'esperimento di Piantelli-Focardi; l'attività di studio è durata quasi un anno, ma alla fine non ha dato un risultato favorevole all'ipotesi di una spiegazione di natura nucleare del fenomeno.
+
+
+==== 1999: tentativo di replica esperimento di Piantelli-Focardi a Pavia ====
+Piantelli e Focardi hanno più volte dichiarato che la cella è stata costruita e positivamente testata presso i rispettivi laboratori, sia all'Università degli Studi di Siena sia all'Università di Bologna. Comunque fino ad ora non vi sono stati altri riscontri sperimentali positivi da parte di gruppi indipendenti di ricercatori. Ad esempio, un tentativo di verifica indipendente è stato svolto, verso la fine degli anni novanta, dal ricercatore Luigi Nosenzo (Università di Pavia) in collaborazione con Luigi Cattaneo (CNR), presso l'Università di Pavia.
+I frutti di questo lavoro, nel loro complesso, sono stati negativi, in quanto non hanno raggiunto l'obiettivo di riprodurre il fenomeno.
+
+
+== Conferenze internazionali ==
+
+
+=== ICCF (International Conference on Cold Fusion) ===
+Dal 1989 ad oggi, col titolo di "ICCF" (International Conference on Cold Fusion), si è tenuta una serie di conferenze internazionali nelle quali non si è parlato soltanto di fusione fredda in senso stretto, ma anche di nuove energie. Elenco delle conferenze svolte:
+
+ICCF-1  Salt Lake City, marzo 1990
+ICCF-2  Como, Villa Olmo, giugno-luglio 1991
+ICCF-3  Nagoya, ottobre 1992
+ICCF-4  Hawaii, dicembre 1993
+ICCF-5  Monte Carlo, aprile 1995
+ICCF-6  Sapporo, ottobre 1996
+ICCF-7  Vancouver, aprile 1998
+ICCF-8  Lerici, maggio 2000
+ICCF-9  Pechino, maggio 2002
+ICCF-10  Cambridge (USA), agosto 2003
+ICCF-11  Marsiglia, ottobre-novembre 2004
+ICCF-12  Yokohama, novembre 2005
+ICCF-13  Mosca, giugno 2007
+ICCF-14  Washington ICCF-14 Washington, 10-15 agosto 2008.
+ICCF-15  Roma, 5-9 ottobre 2009.
+ICCF-16  Chennai, India, 6-11 febbraio 2011
+ICCF-17  Daejeon, Corea del Sud, 12-17 agosto 2012
+ICCF-18  Columbia (USA), 21-27 luglio 2013
+ICCF-19  Padova, 13-17 aprile 2015
+ICCF-20  Sendai, 2-7 Ottobre 2016
+ICCF-21  Fort Collins, 3-8 giugno 2018
+ICCF-22  Assisi, 8-13 Settembre 2019
+
+
+== Note ==
+
+
+=== Esplicative ===
+
+
+=== Bibliografiche ===
+
+
+== Bibliografia ==
+ S.Martellucci, Fusione fredda. Storia della ricerca in Italia, I edizione, Roma, Edizioni ENEA, 2008, ISBN 88-8286-162-7.
+ S.B.Krivit, N.Winocur, Rapporto sulla Fusione fredda (trad.it.) (PDF), su New Energy Times. URL consultato il 20 maggio 2018.
+Roberto Germano. Fusione fredda. Moderna storia d'inquisizione e d'alchimia. Napoli, Bibliopolis (collana "Edizioni di filosofia e scienze"), 2000. ISBN 88-7088-397-3.
+Guido Milano. Elementi di energetica nucleare. Genova, Università di Genova, 2008. pp. 264–270.
+(EN) E. Del Giudice; A. De Ninno; A. Frattolillo; M. Porcu; A. Rizzo. Production of excess enthalpy in the electrolysis of D2O on Pd cathodes Archiviato il 26 febbraio 2005 in Internet Archive.. Roma, ENEA – Centro Ricerche Frascati, 2001.
+(EN)  Antonella De Ninno; Antonio Frattolillo; Antonietta Rizzo. Experimental Evidence Of 4He Production in Cold Fusion Experiment. Roma, ENEA - Centro Ricerche Frascati, 2002.
+(EN)  Edmund Storms. A student's guide to cold fusion. LENR-CANR.org, 2003.
+(EN)  Edmund Storms. Science of Low Energy Nuclear Reaction. A Comprehensive Compilation of Evidence and Explanations. Singapore, World Scientific, 2007. ISBN 978-981-270-620-1.
+(EN)  Jean Paul Biberian. Experiments and Methods in Cold Fusion, Journal Of Condensed Matter Nuclear Science, 2007.
+(EN)  Brian D. Josephson. Pathological Disbelief - Lecture at the Nobel Laureates. Atti del congresso di Lindau 30 giugno 2004, pp. 26–29.
+Renzo Boscoli; Roberto Monti. Eppur si fonde. Dalla fine della relatività alla fusione nucleare fredda, Primo Carnera Editore, Roma, 1989.
+
+
+== Voci correlate ==
+Catalizzatore di energia
+Fusione catalizzata da muoni
+Fusione nucleare
+Giuliano Preparata
+Sergio Focardi
+Stella di ferro
+Trasmutazione LENR
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su fusione nucleare fredda
+
+
+== Collegamenti esterni ==
+ Calorimetry of the Pd-D2O System; from simplicity via complications to simplicity - Martin Fleischmann e Stanley Pons Physics Letters A, 176, (1993) (PDF), su newenergytimes.com. URL consultato il 4 ottobre 2010 (archiviato dall'url originale il 27 novembre 2010).
+ Spiegazione della fusione nucleare fredda, su fisicaonweb.it.
+ Analisi sulla fusione nucleare fredda e altre fonti di energia correlate, su overunity.it. URL consultato il 22 novembre 2006 (archiviato dall'url originale il 12 gennaio 2007).
+ Sito amatoriale sulla fusione nucleare fredda e altre fonti di energia, su progettomeg.it. URL consultato il 12 marzo 2005 (archiviato dall'url originale il 5 marzo 2005).
+Rapporto 41 - Inchiesta di Rai News 24 sulla situazione della ricerca sulla fusione nucleare fredda
+(EN) Cold Fusion Times - Giornale on-line che analizza gli aspetti scientifici del caricamento dei fluidi isotopici nei materiali
+(EN) Bollettino di informazione on-line della rivista bimensile su carta stampata Infinite Energy, su infinite-energy.com.
+(EN) New Energy Times Web site and e-zine - Rivista Web del New Energy Institute
+(EN) ISCMNS - The International Society for Condensed Matter Nuclear Science, su iscmns.org. URL consultato il 6 maggio 2008 (archiviato dall'url originale il 14 maggio 2008).
+ Territorioscuola - Reazioni Nucleari nella Materia Condensata, su territorioscuola.com.

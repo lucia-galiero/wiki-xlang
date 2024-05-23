@@ -1,0 +1,46 @@
+In geologia la diagenesi   è un qualsiasi cambiamento chimico-fisico subito da un sedimento dopo la sua deposizione iniziale, durante e dopo la sua trasformazione in roccia coerente, ad esclusione dell'alterazione superficiale (erosione), I cambiamenti diagenetici avvengono a temperature (fino a circa 200 °C) e pressioni (2-3 bar) relativamente basse e possono avere come conseguenza variazioni della mineralogia e/o della struttura originale della roccia.
+La diagenesi rientra a pieno titolo nei processi sedimentari, per quanto potrebbe essere considerata il grado più basso del metamorfismo, nel quale sfocerebbe se la combinazione di pressione e temperatura fosse più elevata.
+I processi diagenetici precoci avvengono al momento della sedimentazione fino a un modesto seppellimento; in questa fase può essere molto intensa l'azione dei batteri. 
+I processi diagenetici cosiddetti tardivi hanno luogo invece dopo un seppellimento più profondo dovuto ad esempio a subsidenza. La durata complessiva di questi processi può essere anche di milioni di anni.
+Si riconoscono diversi fasi nel corso della diagenesi:
+
+compattazione, che è dovuta al peso dei sedimenti sovrastanti (pressione litostatica); essa provoca la fuoriuscita delle acque interstiziali e quindi l'avvicinamento dei singoli clasti; di conseguenza la porosità e la permeabilità tendono a diminuire durante la diagenesi.
+ricristallizzazione, che coinvolge alcuni minerali instabili presenti nel sedimento; questo processo produce una cementazione dei clasti coinvolti ed è causato proprio dalla pressione tra clasto e clasto.
+dissoluzione e sostituzione, che interessano alcuni minerali che possono disciogliersi e/o essere rimpiazzati da altri; questo è un processo importante nella trasformazione di alcune rocce come la trasformazione della calcite in dolomite (dolomitizzazione).
+precipitazione di nuovi minerali dalle acque percolanti tra gli interstizi del sedimento; se la precipitazione è elevata, arrivando a riempire gran parte dello spazio dei pori entro la roccia, si ottiene la cementazione del sedimento stesso che da incoerente diviene infine coerente.
+Lo studio della diagenesi nelle rocce è usato per capire la storia tettonica a cui sono state sottoposte e la natura e il tipo di fluidi che le hanno attraversate; da un punto di vista economico, permette di valutare la probabilità di trovare minerali sfruttabili e idrocarburi.
+
+
+== Il ruolo della diagenesi nella generazione degli idrocarburi ==
+Quando dei resti di animali o piante vengono sotterrati durante la sedimentazione, le molecole dei costituenti organici (lipidi, proteine, carboidrati e lignina-humica) si separano per l'aumento della temperatura e della pressione. Questa trasformazione avviene nelle prime centinaia di metri di seppellimento e ha come risultato la creazione di due prodotti primari: cherogeni e bitumi.
+È generalmente accettato che gli idrocarburi sono formati dall'alterazione termica di questi cherogeni (la teoria biogenica). In questo modo, date certe condizioni (che dipendono in gran parte dalla temperatura), i cherogeni si separeranno per formare idrocarburi attraverso un processo chimico chiamato piroscissione o catagenesi.
+
+
+== Bibliografia ==
+Giancarlo Negretti, Fondamenti di Petrografia McGraw-Hill, 2003 674 pp.
+Folk Robert L. , The Petrology of Sedimentary Rocks, University of Texas Libraries
+Tucker M.E., Sedimentary Petrology: An Introduction to the Origin of Sedimentary Rocks, 3rd Edition, 272 pages, May 2001, Wiley-Blackwell
+John D. Winter, An Introduction to igneous and metamorphic petrology, 697 pages. Prentice Hall Ed.
+Accordi B., Lupia Palmieri E., Parotto M., Il globo terrestre e la sua evoluzione, Zanichelli
+Bosellini A., Le scienze della Terra, Bovolenta
+
+
+== Voci correlate ==
+Autigenesi
+Fossile
+Geologia
+Idrocarburi
+Litificazione
+Oceanografia
+Sedimento
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «diagenesi»
+ Wikimedia Commons contiene immagini o altri file sulla diagenesi
+
+
+== Collegamenti esterni ==
+
+(EN) diagenesis, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

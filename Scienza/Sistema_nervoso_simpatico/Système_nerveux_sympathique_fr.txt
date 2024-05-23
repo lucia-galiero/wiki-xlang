@@ -1,0 +1,66 @@
+Le système nerveux sympathique ou système nerveux orthosympathique ou adrénergique, est une des trois parties du système nerveux autonome. Les deux autres parties sont le système nerveux entérique et le système nerveux parasympathique, ce dernier déclenchant (la plupart du temps) des réponses antagonistes au système nerveux sympathique. 
+Il est responsable du contrôle d'un grand nombre d'activités automatiques de l'organisme, telles que le rythme cardiaque ou la contraction des muscles lisses.
+
+
+== Généralités ==
+Le système nerveux sympathique ou orthosympathique intervient dans des situations d'alerte où, par exemple, il faut combattre ou fuir (fight-or-flight) ou, plutôt, combattre, fuir ou se figer (flight, fight or freeze). Il régule la vie organique et végétative en ayant une action sur les viscères par le biais de l'adrénaline et de la noradrénaline.
+Le sympathique agit pour préparer l'organisme à faire face à un défi de nature physique ou psychologique. Cette suractivité entraîne une élévation de la fréquence cardiaque, une vasoconstriction des viscères et une vasodilatation des muscles sous contrôle volontaire du système nerveux central.
+
+
+== Fonctionnement ==
+Le système nerveux sympathique fonctionne sur un modèle à deux neurones : un neurone pré-ganglionnaire (dont le corps cellulaire est localisé dans la moelle épinière dorsale ou lombaire) fait synapse sur un neurone post-ganglionnaire (dont le corps cellulaire est localisé dans un ganglion) qui lui-même innerve le tissu cible. 
+Les ganglions sympathiques sont organisés en deux paires de chaînes. De chaque côté de la colonne vertébrale se trouvent une chaîne pré-aortique (ou pré-vertébrale) et une chaîne para-aortique (ou para-vertébrale). Les prolongements des neurones pré-ganglionnaires sont donc courts car ils innervent les ganglions localisés à proximité dans la chaîne sympathique. En revanche, les prolongements des neurones post-ganglionnaires sont très longs, pour se terminer au niveau des organes.
+Le neuromédiateur des neurones pré-ganglionnaires (ceux situés dans la moelle épinière) est l'acétylcholine, tandis que celui des neurones post-ganglionnaires (ceux situés dans les chaînes de ganglions) est en général la noradrénaline mais on trouve dans certains cas l'acétylcholine.
+Il innerve la glande médullo-surrénale et exerce ses effets sur les cellules et organes cibles, essentiellement via les neurotransmetteurs appelés catécholamines (principalement la noradrénaline et, dans une moindre mesure, l'adrénaline). Pourtant, le système sympathique ne se superpose pas tout à fait au système adrénergique, son action passant parfois (quelques vaisseaux, glandes sudoripares) par une sécrétion d'acétylcholine.
+
+
+== Fonctions ==
+Les fonctions du système nerveux sympathique permettent, d'une façon simplifiée, de préparer le corps humain à l'action, de faire face à une situation de stress (« fight or flight », réponse combat-fuite). Ainsi l'activation du système sympathique peut provoquer :
+
+une tachycardie (augmentation de la fréquence cardiaque) ;
+une augmentation de la pression artérielle ;
+un ralentissement du péristaltisme (mouvements intestinaux) ;
+une vasoconstriction périphérique ;
+une stimulation des glandes sudoripares, entraînant une augmentation de la sudation ;
+une stimulation de la libération de glucose par le foie ;
+une augmentation de la sécrétion d'adrénaline et de noradrénaline par les glandes surrénales ;
+une relaxation de la vessie (dilatation) ;
+une bronchodilatation (augmentation du diamètre des bronches) ;
+une mydriase (dilatation des pupilles) ;
+une stimulation de l'orgasme.
+
+
+== Anatomie ==
+Les nerfs du système nerveux autonome sympathique prennent le relais dans des ganglions nerveux situés dans une localisation proche de la moelle épinière. Le neurone efférent (celui qui prend le relais) sera, lui, responsable d'une sécrétion adrénergique ou noradrénergique (voir catécholamines). Les glandes médullosurrénales sont considérées comme un ganglion nerveux sympathique.
+
+
+== Récepteurs ==
+
+Il existe plusieurs types et sous-types de récepteurs sensibles à l'adrénaline et à la noradrénaline :
+
+α-1 : présent sur les fibres musculaires lisses des vaisseaux, entraînant leur contraction (vasoconstriction) ;
+α-2 : de localisation pré-synaptique (effet inhibiteur sur la synapse) ;
+β-1 : présent sur le cœur dont il renforce l'activité (battements plus rapides et plus forts) ;
+β-2 : présent localement sur certains tissus et permet une vasodilatation des artères ou une dilatation des bronches ;
+β-3 : présents sur les adipocytes, stimule la thermogénèse.
+Le récepteur bêta, situé dans la membrane plasmique des cellules sensibles, est constitué d'une chaîne protéique transmembranaire repliée sept fois en épingle à cheveux. Son extrémité C terminale est intracellulaire alors que l'extrémité N terminale fait surface à l'extérieur de la membrane.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Anatomie
+Bêta-bloquant
+Alpha-stimulant
+Récepteur adrénergique
+
+
+=== Liens externes ===
+
+Ressources relatives à la santé : Medical Subject Headings FMA TA98 TA2 Uberon 
+
+ Portail des neurosciences

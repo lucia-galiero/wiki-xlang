@@ -1,0 +1,119 @@
+Die Toxoplasmose ist eine häufig auftretende Infektionskrankheit, die primär Katzen befällt. Der Erreger ist der protozooische Parasit und einzige Vertreter seiner Gattung Toxoplasma gondii, für den alle Arten von Katzen als Hauptwirte dienen. Nur selten ruft die Erkrankung bei Katzen klinische Erscheinungen wie Durchfall hervor. Lediglich bei der Erstinfektion scheiden Katzen große Mengen von Eiern (Oozysten) des Erregers aus, anschließend entwickeln sie eine zumeist lebenslange Immunität.
+Als fakultativer Zwischenwirt für den Erreger dienen alle anderen Säugetiere, der Mensch wird dabei als Fehlwirt betrachtet. Auch beim Menschen können Krankheitserscheinungen auftreten, die Toxoplasmose ist also eine Zoonose. Zwischenwirte können sich entweder durch Aufnahme der versporten Oozysten von Katzen (z. B. bei der Gartenarbeit durch kontaminiertes Erdreich) oder über Entwicklungsstadien des Erregers in anderen Zwischenwirten (der Mensch vor allem über rohes Schweine- und Schaffleisch) anstecken. Auch die Infektion der Zwischenwirte ist zumeist ohne klinische Erscheinungen. Problematisch ist vor allem die Erstinfektion von Schwangeren, da der Erreger auf das Ungeborene übergehen und schwere Fruchtschäden verursachen kann, sowie die Infektion von Individuen mit einem gestörten Immunsystem.
+Erstmals als Krankheit erkannt wurde die Toxoplasmose 1939. Die Übertragbarkeit des 1908 von Charles Nicolle und Louis Manceaux beim Nagetier Gundi entdeckten Krankheitserregers von Katzen auf Menschen wurde Mitte der 1960er Jahre von William M. Hutchison aufgeklärt, der dafür 1970 mit Jørgen C. Siim den Robert-Koch-Preis erhielt.
+Die Toxoplasmose bei Haustieren unterliegt in Deutschland der Meldepflicht nach dem Tiergesundheitsgesetz.
+
+
+== Infektionszyklus ==
+
+Der Infektionszyklus bei T. gondii kann auf drei Wegen erfolgen:
+
+Endwirt-Endwirt-Zyklus
+Endwirt-Zwischenwirt-Zyklus
+Zwischenwirt-Zwischenwirt-Zyklus
+
+
+=== Endwirt-Endwirt-Zyklus ===
+Beim Endwirt-Endwirt-Zyklus erfolgt die Weitergabe des Erregers ohne zwischengeschaltete Zwischenwirte. Infizierte Katzen scheiden Oozysten über den Kot aus, diese versporen sich in der Umwelt. Nimmt nun eine andere Katze diese sporulierten Oozysten über den Nahrungsweg auf, so werden die darin befindlichen Sporozoiten bei der Verdauung im Darm frei. Diese durchwandern die Darmwand und gelangen über das Blut oder die Lymphe in andere Organe und Gewebe. Hier kommt es zu einer ungeschlechtlichen Vermehrung mit Bildung der sogenannten Trophozoiten innerhalb von Höhlen (Vakuolen) innerhalb der Körperzellen. Der infizierte Organismus reagiert mit einer Antikörperbildung und es kommt zu einer Zystenbildung. In diesen Zysten erfolgt eine weitere, wenn auch deutlich langsamere ungeschlechtliche Vermehrung. Das Entwicklungsstadium des Erregers bezeichnet man nun als Sporozoit oder Bradyzoit. Ungefähr am 18. Tag nach der Infektion wandert ein Teil dieser Bradyzoiten zurück in den Darm. Hier kommt es zu einer weiteren massiven Vermehrung durch Endopolygenie (Schizogonie) und durch Gametogonie. Durch letztere entstehen die Oozysten, die wieder über den Kot ausgeschieden werden. Die Präpatenz – also die Zeit von der Infektion bis zur Ausscheidung der ersten Oozysten – beträgt bei diesem Infektionszyklus etwa 18 bis 40 Tage.
+Die Oozystenausscheidung erfolgt bei der Katze im Regelfall nur bei einer Erstinfektion. Anschließend entwickelt sich eine Immunität, die selbst bei einer erneuten Infektion nicht mehr zu einem vollständigen Entwicklungszyklus führt. Erstinfizierte Katzen, zumeist Jungtiere, können bis zu einer Million Oozysten pro Gramm Kot ausscheiden. Die Sporulation erfolgt in der Außenwelt innerhalb weniger Tage. Die sporulierten Oozysten sind sehr widerstandsfähig gegenüber äußeren Einflüssen und können in feuchtem Erdreich bis zu zwei Jahre infektiös bleiben.
+
+
+=== Endwirt-Zwischenwirt-Zyklus ===
+Beim Endwirt-Zwischenwirt-Zyklus sind ein oder mehrere Zwischenwirte beteiligt. Katzen stecken sich dabei zumeist durch das Fressen von Fleisch des Zwischenwirts an, welches Tachy- oder Bradyzoiten enthält. Werden Tachyzoiten – die intrazellulären Entwicklungsstadien vor der Zystenbildung – aufgenommen, verläuft die Entwicklung in der Katze wie beim Endwirt-Endwirt-Zyklus mit einer Präpatenz von 4 bis 8 Tagen. Nimmt die Katze Bradyzoiten auf, so entfällt die Entwicklungsphase außerhalb des Darms und im Darmepithel finden sofort die Schizo- und Gametogonie mit Bildung der Oozysten statt. Die Präpatenzzeit beträgt dann nur 3 bis 6 Tage.
+Die Infektion des Zwischenwirts erfolgt bei diesem Zyklus über die Aufnahme von mit sporulierten Oozysten von Katzen verschmutzter Nahrung oder Wasser. Dabei werden im Darm die Sporozoiten freigesetzt. Diese durchbohren die Darmwand und siedeln sich in verschiedenen Organen an, vor allem dem Zentralnervensystem, den Augen und weiblichen Geschlechtsorganen. Hier entstehen durch ungeschlechtliche Vermehrung (Endodyogenie) Tachyzoiten und nach etwa 10 Tagen Zysten, vor allem in der Muskulatur, dem Herz und im Gehirn. In den Zysten, die bis zu 300 µm groß werden, finden sich dann Tausende von Bradyzoiten.
+
+
+=== Zwischenwirt-Zwischenwirt-Zyklus ===
+Der Zwischenwirt-Zwischenwirt-Zyklus läuft ohne Beteiligung von Katzen ab. Allerdings können Katzen selbst auch als Zwischenwirt dienen, was aber für die Epidemiologie ohne Bedeutung ist. Die Infektion des Zwischenwirts erfolgt dabei auf zwei Wegen:
+
+die Aufnahme von Bradyzoiten anderer Zwischenwirte sowie
+die Übertragung von der Mutter auf das ungeborene Kind über den Mutterkuchen (diaplazentar).
+Der Zwischenwirt-Zwischenwirt-Zyklus spielt bei der Verbreitung der Toxoplasmose des Menschen und des Erregers überhaupt eine mindestens genauso große Rolle wie die Ansteckung über Sporozysten von einer Katze. Die Aufnahme der Bradyzoiten erfolgt vorwiegend über den Verzehr von Muskulatur infizierter Zwischenwirte, beim Menschen vor allem rohes Schweine- und Schaffleisch. Die Bradyzoiten sind sehr widerstandsfähig, sie bleiben bei Kühlschranktemperatur bis zu 3 Wochen infektiös. Lediglich Einfrieren (< −20 °C) oder Temperaturen über 70 °C töten sie ab. Temperaturen von 50 °C überstehen sie etwa 20 Minuten.
+
+
+== Toxoplasmose bei Katzen ==
+Katzen machen im Regelfall nur einmal im Leben eine Toxoplasmose durch, anschließend entwickeln sie eine belastbare Immunität, die durch ständigen erneuten Erregerkontakt immer wieder aufgefrischt wird (Prämunität). Diese Katzen scheiden nie wieder Oozysten aus. Inwieweit es zum Ausbruch der Erkrankung kommt, hängt vor allem von der Art der Infektion ab. Bei der Infektion mit Oozysten (Endwirt-Endwirt-Zyklus) erkranken nur etwa 16 % der Tiere, bei der Infektion mit Bradyzoiten (Endwirt-Zwischenwirt-Zyklus) dagegen bis zu 97 %.
+Auch bei der Erstinfektion verläuft die Erkrankung bei älteren Katzen im Regelfall subklinisch, also ohne deutliche Krankheitserscheinungen. Während der Darmphase des Erregers können allenfalls leichter Durchfall, kurzzeitig Fieber und Lymphknotenschwellungen auftreten. Während der Phase der Parasitenentwicklung außerhalb des Darms (Tachyzoitenphase) können je nach befallenem Organ Husten, Atembeschwerden, Durchfall, Gelbsucht sowie Entzündungen der mittleren Augenhaut (Uveitis, Iritis), der Herzmuskulatur (Myokarditis), der Skelettmuskulatur (Myositis) oder des Gehirns (Enzephalitis) auftreten. Bei Katzenwelpen kann es zu plötzlichen Todesfällen kommen.
+Eine chronische Toxoplasmose kommt nur bei Katzen mit Störungen des Immunsystems vor. Sie zeigt sich in zentralnervösen Symptomen wie Gangstörungen oder Schüttelkrampfen, Magen-Darm-Problemen wie Erbrechen, Durchfall und Abmagerung oder als Entzündung der mittleren und inneren Augenhaut (Chorioretinitis).
+Die Diagnose kann während der Ausscheidungsphase durch eine Untersuchung des Kots auf Oozysten mittels Flotationsverfahren gestellt werden. Darüber hinaus können serologisch Antikörper im Blut mittels IFAT nachgewiesen werden. Dabei ist zu beachten, dass der Antikörpernachweis nur auf einen Kontakt mit T. gondii hinweist, für eine Erstinfektion sprechen nur ansteigende Titer in einer zweiten Blutprobe nach etwa zwei Wochen.
+Zur Behandlung werden Sulfonamid-Trimethoprim-Kombinationen oder Clindamycin eingesetzt, bei einer Uveitis auch Glucocorticoide. Die Oozystenausscheidung lässt sich mit Antiparasitika wie Toltrazuril drastisch vermindern.
+
+
+== Verbreitung und Möglichkeiten zur Unterbrechung der Infektionszyklen ==
+In Deutschland haben je nach Untersuchung 45 bis 75 % der Hauskatzen Antikörper gegen Toxoplasma gondii. Diese Zahl zeigt jedoch nur, dass die Katzen einmal in ihrem Leben eine Infektion erlebten und damit Oozysten ausschieden. Letzteres geschieht jedoch im Allgemeinen nur bei der Erstinfektion für eine Dauer von bis zu 21 Tagen in Abhängigkeit vom Immunstatus. Nur etwa 1 bis 2 % der Katzen sind Ausscheider von Toxoplasmen-Oozysten, vor allem erstinfizierte Jungtiere. Für die Infektion der Katzen im Endwirt-Zwischenwirt-Zyklus sind vor allem Nagetiere von Bedeutung, von denen in Deutschland etwa 0,1 bis 0,4 % Bradyzoiten tragen.
+Um die Infektion von Zwischenwirten zu verhindern, muss der Eintrag von Oozysten in die Umwelt möglichst gering gehalten werden. Katzen sollten keinen Zugang zu Schweine- oder Schafställen erhalten (das Fleisch dieser Tiere ist die häufigste Infektionsquelle für den Menschen). Katzenkot sollte stets unschädlich beseitigt werden, zumindest für Wohnungskatzen lässt sich dies realisieren. Ausläufe in größeren Katzenhaltungen sollten regelmäßig mit Dampfstrahlern gereinigt werden, nahezu alle handelsüblichen Desinfektionsmittel sind gegen die Oozysten wirkungslos.
+Die wichtigste prophylaktische Maßnahme für Katzen ist die Verfütterung von ausschließlich erhitztem oder längere Zeit durchgefrorenem Fleisch zur Unterbrechung des Endwirt-Zwischenwirt-Zyklus oder die ausschließliche Verwendung von Fertigfutter, was insbesondere bei reinen Wohnungskatzen die Infektionsgefahr äußerst gering werden lässt. Bei Freigängern ist durch die Aufnahme von Nagetieren aber kein wirksamer Infektionsschutz möglich.
+
+
+== Toxoplasmose des Menschen ==
+
+Die Grundzüge der Toxoplasmose beim Menschen gelten prinzipiell für alle Säugetiere, die als Zwischenwirt für Toxoplasma gondii in Frage kommen.
+Die Serokonversion, also die Veränderung von fehlenden Antikörpern gegen Toxoplasma zu positivem Antikörpernachweis, ist eine gute Methode, um die Infektionshäufigkeit einer Bevölkerung festzustellen. In Europa variiert die Quote der Serokonversion von 7 % (Norwegen) bis 50 % (Deutschland). In Deutschland infizieren sich die meisten Menschen durch den Verzehr von mangelhaft erhitztem Schweinefleisch (Rohwurst, Mett). Vegetarier erkranken seltener an Toxoplasmose. Die Infektionen erfolgen in allen Lebensaltern. In Deutschland sind 20 % im Alter von 18–29 Jahre seropositiv und 77 % der 70–79-Jährigen.
+Die Inkubationszeit beim Menschen beträgt ein bis drei Wochen, die Infektion verläuft bei gesundem Immunsystem für etwa 90 % der Betroffenen beschwerdefrei und symptomlos. Bei schubweise verlaufender Erkrankung kann sich die Ausbreitung über Wochen und Jahre hinziehen. Hierbei bleiben die Erreger im Organismus in Zysten eingeschlossen. Sie platzen zu beliebiger Zeit und gelangen so in das Blutgefäßsystem und Lymphgefäße. Bei einer überstandenen Erkrankung ist eine Immunität anzunehmen.
+Eine Therapie mit Antibiotika ist für Menschen bei pränataler Toxoplasmose des Neugeborenen, okulärer Toxoplasmose und aktiver Toxoplasma-Infektion immunsupprimierter Patienten angezeigt.
+
+
+=== Allgemeine Krankheitsanzeichen ===
+Die Infektion ist bei gesunden Personen mit intaktem Immunsystem zumeist symptomlos. Selten treten Beschwerden wie leichtes Fieber, Lymphknotenschwellungen im Halsbereich, Müdigkeit sowie Kopf- und Gliederschmerzen auf. Der Verlauf der Krankheit ist in der Regel günstig und der Infizierte muss nicht behandelt werden. Bei einer Infektion werden Antikörper gebildet, die eine spätere erneute Ansteckung verhindern.
+
+
+=== Verhaltensänderungen/Persönlichkeitsveränderungen ===
+Bei Nagetieren wurden durch Toxoplasma verursachte Verhaltensänderungen nachgewiesen. So verlieren infizierte Tiere ihre Scheu gegenüber dem Geruch von Katzen, schützen sich also nicht mehr davor, gefressen zu werden, was dem Lebenszyklus von Toxoplasma förderlich ist. Eine Studie konnte allerdings eine Verhaltensänderung bei Nagetieren nicht bestätigen. Andererseits wurden analoge Verhaltensänderungen auch bei infizierten Schimpansen (im Blick auf Leoparden) beobachtet und eine Veröffentlichung von 2021 berichtet, dass infizierte junge Tüpfelhyänen vermehrt Löwen zum Opfer fallen aufgrund der verminderten Scheu. Neuere Studien weisen auch auf mögliche Zusammenhänge zwischen der Infektion und Schizophrenie beim Menschen hin. Einige Studien lassen vermuten, dass auch beim Menschen Verhaltensänderungen auftreten. Infizierte Männer waren introvertierter, misstrauischer und risikobereiter sowie eher dazu neigend, Regeln zu missachten und die Meinung anderer zu ignorieren. Frauen mit latenter Toxoplasmose waren dagegen offener, vertrauensseliger, mehr um ihr Image besorgt und regelbefolgender als die nicht infizierte Kontrollgruppe. Eine Studie in der Slowakei und Tschechien beobachtete einen Zusammenhang zwischen Toxoplasmose und sexuellen Neigungen.
+Die bei Patienten mit klinisch manifester Schizophrenie häufig beobachtete Abnahme an Hirnmasse in der Großhirnrinde tritt offenbar fast ausschließlich im Falle einer gleichzeitigen (latenten) Toxoplasmose auf, und die Daten lassen vermuten, dass sie bei entsprechender genetischer Prädisposition zum Ausbruch der Krankheit führen kann. Auch suizidale Handlungen sollen bei Personen mit latenter Toxoplasmose signifikant häufiger auftreten als in der Normalbevölkerung. Eine Studie mit knapp 500 Teilnehmern fand einen statistischen Zusammenhang der T.-gondii-Exposition mit  Angststörungen, nicht jedoch mit Depression oder Posttraumatischer Belastungsstörung.
+Die Berichte zu erhöhten Anteilen seropositiver Patienten bei verschiedenen neurologischen und psychiatrischen Erkrankungen bedeuten allerdings nicht zwingend eine kausale Beziehung zwischen der Toxoplasma-gondii-Infektion und der Erkrankung. Dies wird schon daraus ersichtlich, dass alle Erkrankungen auch bei Menschen auftreten, die seronegativ sind. Die Fähigkeit des Erregers, in die Dopamin-Signalwege des Wirts einzugreifen, ist aber ein Indiz dafür, dass T. gondii ein mitwirkender Faktor bei diesen Erkrankungen sein könnte.
+
+
+=== Komplikationen ===
+Das Immunsystem von Embryonen und Föten im Mutterleib und bei Neugeborenen nach der Geburt ist noch nicht ausgebildet. Fötus und Säugling sind auf mütterliche Antikörper durch den Mutterkuchen und Muttermilch angewiesen. Bei Föten und Babys und auch bei Menschen mit geschwächtem Immunsystem (z. B. AIDS-Patienten) können sich in allen Organen, am häufigsten im Gehirn, Entzündungsherde bilden und zu zusätzlichen Symptomen wie Wesensveränderungen, Lähmungserscheinungen und Krampfanfällen führen. Zusätzliche Manifestationen durch Toxoplasmose können Lungenentzündung und die Hirnhautentzündung sein. Daher ist meist eine medikamentöse Behandlung notwendig.
+
+
+=== Infektion während der Schwangerschaft ===
+Bei Frauen, die einmal eine Toxoplasmose-Infektion hatten, bilden sich Antikörper im Blut. Daher sind sie normalerweise gegen eine Ansteckung immun und es besteht auch kaum eine Gefahr für den Fötus. Zwar können diese Frauen eine sekundäre Toxoplasmose-Infektion bekommen, aber auch hier besteht kaum Gefahr für den Fötus. Mütter mit hohem Antikörpertiter gebären mehr Jungen als Mädchen. Ein Bluttest kann feststellen, ob Antikörper gegen Toxoplasmen im Blut vorhanden sind.
+Eine erstmalige Erkrankung der Mutter im ersten oder zweiten Drittel (Trimenon) einer Schwangerschaft kann zu erheblichen Schädigungen des ungeborenen Kindes führen. Die Wahrscheinlichkeit der kindlichen Infektion beträgt
+
+im 1. Trimenon 15 %,
+im 2. Trimenon 45 %,
+im 3. Trimenon 65 bis 70 %.
+Im ersten Trimenon entwickeln 70 % der infizierten Kinder eine konnatale Toxoplasmose, die meist zur Fehlgeburt führt. Im zweiten und dritten Trimenon entwickeln 30 bzw. 10 % eine konnatale Toxoplasmose, die in 75 bzw. 90 % in eine latente Toxoplasmose übergeht und zu erheblichen Beeinträchtigungen beim Kind führt (s. u.). Die infizierten Kinder können epileptische Anfälle, kognitive Einschränkungen, Schäden an der Leber, Lunge, Gehirn, Augen, Herzmuskel und Hirnhaut aufweisen. Ein Viertel der vor der Geburt infizierten Kinder durch Toxoplasma gondii haben geistige Behinderungen, Spastiken, Epilepsie, Hydrocephalus und Verkalkungen der Hirngefäße. Die typische Trias, bestehend aus Wasserkopf, intrazerebraler Verkalkung und Chorioretinitis, wird jedoch nur bei 2 % der Betroffenen ausgeprägt.
+In den meisten Fällen verläuft eine pränatale Toxoplasmose leicht oder bleibt unauffällig. Allerdings können bei Neugeborenen häufiger Fieber, tonisch-klonische Krampfanfälle oder Neugeborenengelbsucht auftreten. Bei etwa 80 % der infizierten Kinder, die bei der Geburt keine offensichtlichen Symptome zeigen, können sich nach bis zu 20 Jahren durch die konnatale Toxoplasmose Strabismus, Retinochorioiditis, Taubheit, psychomotorische Retardierung oder Epilepsie entwickeln.
+
+
+=== Therapie ===
+Die antibiotische Therapie besteht in der Gabe von Pyrimethamin, auch in Kombination mit Sulfadiazin und Folinsäure. Auch Clindamycin und Atovaquon gehören zu den einsetzbaren antimikrobiellen Arzneimitteln.
+
+
+=== Therapie in der Schwangerschaft ===
+Eine nachgewiesene Infektion in der Schwangerschaft sollte behandelt werden. Je früher die Behandlung begonnen wird, umso geringer ist die Wahrscheinlichkeit einer Schädigung des Kindes (Senkung der Schäden bis zu 60 %).
+
+Bis zur 16. Schwangerschaftswoche: Gabe von Spiramycin
+Ab der 16. Schwangerschaftswoche wird bis zur Entbindung eine Kombination aus Sulfadiazin, Pyrimethamin und Folinsäure in Zyklen von jeweils vier Wochen Dauer mit darauf folgendem vierwöchigen freien Intervall gegeben.
+
+
+=== Toxoplasmose bei Immunsuppression und Neugeborenen ===
+
+Die Toxoplasmose führt bei Immunsupprimierten (z. B. Neugeborenen, AIDS-Patienten oder Patienten nach allogener Stammzelltransplantation) zu Erkrankungsbildern, die bei Menschen mit intaktem Immunsystem nicht vorkommen. Besonders schwerwiegend ist die zerebrale Toxoplasmose, die sich in Form von großen raumfordernden Prozessen mit entsprechenden neurologischen Ausfällen äußern kann. Manchmal kann die Diagnosestellung schwierig sein, insbesondere die differenzialdiagnostische Abgrenzung zu ZNS-Lymphomen, die bei Immunsupprimierten ebenfalls um ein Vielfaches häufiger auftreten. Die Diagnose kann durch Nachweis der DNS des Erregers im Liquor mittels Polymerase-Kettenreaktion (PCR) oder direkte Hirnbiopsie gesichert werden. Nicht selten muss aber auf Verdacht hin behandelt werden. Medikamente der ersten Wahl sind die Kombination Pyrimethamin+Sulfadiazin (+Folinsäure zur Milderung von Nebenwirkungen des Sulfonamids), oder bei Sulfonamid-Unverträglichkeit die Kombination Clindamycin+Pyrimethamin (+ Folinsäure). Pyrimethamin ist auch in Kombination mit Makroliden wie Azithromycin oder Clarithromycin wirksam. Diese Kombinationen werden aber in den Behandlungsleitlinien nicht empfohlen. Die Therapiedauer beträgt mindestens 4 Wochen.
+Entscheidender Risikofaktor für das Auftreten einer Toxoplasmose ist die T-Helferzellzahl im Blut. Liegt die Helferzellzahl unter 200/µl, sollte eine medikamentöse Prophylaxe, z. B. mit 960 mg Cotrimoxazol 3 × wöchentlich betrieben werden („Primärprophylaxe“). Ist schon einmal eine Toxoplasmose aufgetreten, muss ebenfalls eine Prophylaxe zur Vermeidung des Wiederauftretens betrieben werden („Sekundärprophylaxe“).
+
+
+== Siehe auch ==
+Parasiten des Menschen
+Neosporose
+
+
+== Literatur ==
+Regine Ribbeck, Steffen Rehbein: Helminthosen. In: Marian C. Horzinek u. a. (Hrsg.): Krankheiten der Katze. 4. Auflage. Enke-Verlag, Stuttgart 2005, ISBN 3-8304-1049-2, S. 207–226.
+Marianne Abele-Horn: Antimikrobielle Therapie. Entscheidungshilfen zur Behandlung und Prophylaxe von Infektionskrankheiten. Unter Mitarbeit von Werner Heinz, Hartwig Klinker, Johann Schurz und August Stich. 2., überarbeitete und erweiterte Auflage. Peter Wiehl, Marburg 2009, ISBN 978-3-927219-14-4, S. 234–237 und 294.
+
+
+== Weblinks ==
+
+Verbrauchertipps: Schutz vor Toxoplasmose (PDF; 559 kB) – Merkblatt des Bundesinstituts für Risikobewertung (BfR)
+Toxoplasmose – Informationen des Robert Koch-Instituts
+Toxoplasmose in der Schwangerschaft. Deutsches Ärzteblatt
+Interview mit Prof. Robert Sapolsky (Stanford University) zum Thema Toxoplasmose und ihre Auswirkung auf das menschliche Verhalten (Video; 24:27 min; englisch)
+Toxoplasmose als opportunistische Infektion bei HIV/AIDS auf hivbuch.de
+Zusatzdiagnostik in der Schwangerschaft: Toxoplasmose-Screening (PDF; 245 kB)
+Toxoplasmosis – Recent advances. 2012
+
+
+== Einzelnachweise ==

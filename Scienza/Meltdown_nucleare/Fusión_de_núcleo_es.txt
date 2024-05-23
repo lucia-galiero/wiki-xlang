@@ -1,0 +1,81 @@
+La fusión de núcleo es el término con el que se designa a un tipo de accidente grave en un reactor nuclear, en el que, al calentarse, el combustible cambia de estado sólido a líquido, lo cual puede producir la imposibilidad de ser refrigerado. No debe confundirse con el término fusión nuclear, cuyo significado hace referencia a la unión de átomos. 
+La fusión de núcleo ocurre cuando los sistemas de seguridad de una central nuclear fallan y provocan que la reacción nuclear deje de ser controlada, conllevando que la temperatura dentro del núcleo de la central aumente vertiginosamente y pueda provocar la fusión de los materiales radiactivos, usualmente uranio o plutonio. La fusión de núcleo es el accidente más temido, debido a que puede provocar el colapso de la estructura del reactor, y con ello expulsar gran cantidad de materiales radiactivos al medio ambiente si hay algún tipo de explosión o si se filtran al subsuelo. Evidentemente, una fusión de núcleo implica, casi con total seguridad, la destrucción del reactor y la imposibilidad de su reparación.
+
+
+== Causas ==
+Para que se produzca la fusión de núcleo ha de producirse una cadena de fallos. Estos pueden ser una pérdida de control de la presión, una pérdida de refrigerante, un aumento inadvertido de la potencia de generación, un incendio, o bien la combinación de algunos de estos fallos.
+
+En los accidentes debidos a pérdida de control de la presión del líquido refrigerante este cae por debajo de los niveles operacionales, a veces sin que los operadores tengan indicios de ello. Si se usa un gas inerte como refrigerante, se reduce la eficiencia en la transferencia del calor, mientras que si se utiliza agua a presión se genera una burbuja de vapor que rodea el combustible. En este último caso, debido al calentamiento del vapor la presión necesaria para enfriar dicha burbuja puede exceder los valores especificados para el diseño, con lo que el enfriamiento tardaría mucho más en producirse. Además, la burbuja de vapor podría producir una explosión por el exceso de presión, como ocurrió en el Accidente de Fukushima.
+Si se produce una pérdida de refrigerante es muy probable que se experimenten pérdidas de control de presión, o síntomas similares. La pérdida del refrigerante ocasionaría un desequilibrio en la transferencia de calor del núcleo al refrigerante, o bien la formación de una burbuja que acumule dicho calor.
+Cuando se produce un aumento de la potencia por encima de los niveles tolerables se aumenta, de forma consecuente, la reactividad, pudiendo llegar a sobrepasar los parámetros de diseño del reactor. La reacción en cadena aumenta exponencialmente, provocando, con ello, un aumento súbito del calor generado como ocurrió en el Accidente de Chernóbil.
+En ocasiones el problema se debe a incendios, bien dentro del núcleo, bien en instalaciones relacionadas. Un incendio dentro del núcleo contribuye a aumentar el calor del material radiactivo y, con ello, a favorecer su fundición. Esto es posible en algunos reactores que son moderados por hidrógeno o grafito: si se manipula sin cuidado el refrigerante puede sobrepasarse su tolerancia a la temperatura y originarse un incendio. Si el incendio se produce en otras instalaciones (por ejemplo, en los sistemas de cableado), es posible que se pierda el control de la reacción, debido a la inutilización de los dispositivos electrónicos.
+Para que se produzca la fusión de núcleo no es estrictamente necesario que el reactor esté funcionando y en su estado óptimo de criticidad. En caso de un accidente, la presencia de fuego y el calor residual pueden prolongar la citada fusión.
+
+
+== Consecuencias ==
+Cuando el núcleo se ha derretido, el combustible fundido es capaz de destruir la estructura de la vasija del reactor. Incluso, dependiendo de las características de la construcción del edificio de contención, si es que la central dispone de uno, podría ocurrir que el material radiactivo llegase a penetrar en el subsuelo. Si el material en estado fundido entra en contacto con el agua se produce una explosión de vapor, agravando enormemente la situación. Además, todo material que entre en contacto con el núcleo en estado fluido se derretirá o incendiará.
+En los peores casos puede producirse una explosión con motivo de la acumulación de gases o del contacto con agua. La violencia de la explosión podría expulsar materiales radiactivos al medio ambiente, sobre todo si no existe un edificio de contención que aisle al reactor de la atmósfera. Dos ejemplos totalmente antagonistas son los de la central nuclear de Three Mile Island (Estados Unidos) y la central nuclear de Chernóbil (Ucrania, entonces parte de la  Unión Soviética). La primera sufrió una fusión parcial de núcleo, que derivó en una explosión. En el segundo caso la fusión fue completa, y también provocó una explosión. La diferencia radica en que la central estadounidense dispone de edificio de contención y la ucraniana no. La primera no registró daños personales, mientras que en la segunda hubo que evacuar a 600 000 personas de sus hogares, siendo la cifra oficial de 31 muertos y la extraoficial de varias decenas de miles.
+A pesar de las investigaciones realizadas y de la experiencia a raíz de algunos accidentes, aún no se sabe con exactitud el poder de penetración en los materiales del combustible derretido. Un ejemplo de ello es que, en virtud del diseño de las centrales de Three Mile Island y Chernóbil, ninguna de las dos debía haber concluido con su vasija intacta. Es más, la central estadounidense estuvo mucho más tiempo en estado de fusión que la ucraniana, y sin embargo los daños fueron menores. 
+Cuando se produce una fusión de núcleo es necesario esperar un tiempo prudencial hasta que se haya estabilizado el entorno de trabajo. Generalmente, los niveles de radiactividad serán altos durante miles de años, pero es de esperar que los elementos más dañinos en primera instancia para el cuerpo humano, como el yodo, decaigan tras unas semanas.
+Hay tres factores que determinan el grado de probabilidad y peligrosidad de una fusión de núcleo. Conocer y controlar estos parámetros puede ser vital para que un equipo de operadores y técnicos de una central nuclear sean capaces o no de detener a tiempo una fusión:
+
+El tiempo necesario para que el refrigerante pierda su eficacia o resulte dañado.
+El tiempo necesario para que el combustible empiece a derretirse.
+El tiempo necesario para que el material fundido atraviese las protecciones.
+Estos tiempos son fundamentales para evitar un accidente de proporciones catastróficas. Cuanto mayor sea el tiempo, más posibilidades hay de que sea indetenible una reacción conducente a una fusión de núcleo y, por tanto, la probabilidad de que ésta se produzca será menor.
+
+
+== Medidas de seguridad ==
+El diseño del reactor está orientado a su operación con la mayor seguridad posible, tanto en el caso de una operación segura como en el supuesto de que se desarrollen escenarios no deseados, ya sea por accidente, fatiga de material, imprudencia o sabotajes. La estructura del reactor suele estar contenida dentro del edificio de contención. Este diseño, de hecho, es obligatorio en las centrales nucleares de nuevo diseño. En el caso de una fusión de núcleo, todo el material debería quedarse dentro de dicho edificio, con lo que los daños provocados serían estrictamente económicos. 
+
+
+=== Seguridad Activa ===
+Los mecanismos de seguridad activa estarán encaminados a minimizar la posibilidad de que se provoque una fusión de núcleo. Entre estas medidas se pueden destacar las siguientes:
+
+Uso de sistemas de refrigeración efectivos, seguros y redundantes. La redundancia es vital, puesto que implica que si un sistema de refrigeración falla, los demás sigan funcionando y eviten el sobrecalentamiento del núcleo.
+Sistemas de control redundantes. La redundancia en el control es necesaria para los casos en que un incendio u otra contingencia inutiliza los sistemas tradicionales de control.
+Sistemas de seguridad no desconectables. El diseño de los sistemas de seguridad debe estar encaminado a que sea imposible operar el reactor sin uno solo de los sistemas automáticos de control.
+
+
+=== Seguridad Pasiva ===
+
+Cuando la fusión de núcleo es inevitable, los sistemas de seguridad activa no tienen más posibilidad de ayudar a los operadores. En estos casos han de actuar los sistemas de seguridad pasiva, que tratan de minimizar las consecuencias de la fusión:
+
+Presencia de un edificio de contención que evite la liberación de material radiactivo a la atmósfera.
+Diseño de la vasija de modo que resista el calor de la fusión de núcleo. En cualquier caso, si se produce la fusión del combustible y la vasija, ésta debe ser controlada, es decir, debe producirse de un modo que sea conocido por los ingenieros, técnicos y operadores, a fin de minimizar los imprevistos.
+
+
+== Efectos ==
+Los efectos que provoquen una fusión de núcleo estarán muy relacionados con los parámetros de seguridad pasiva introducidos en el diseño del reactor, 
+Las dificultades que entraña la operación en atmósferas altamente radiactivas y la relativamente escasa cantidad de fusiones de núcleo que ha registrado la industria nuclear hacen difícil definir unos efectos claros de una fusión de núcleo, más allá de los económicos, lo que dificulta la toma de decisiones, más allá de lo puramente teórico y lo poco que se ha podido experimentar. Quizá uno de los efectos más conocidos sea la fusión del combustible y del material de la vasija hasta que se alcanzan las aguas subterráneas. Este fenómeno se conoce como el Síndrome de China. 
+Algo que se descarta absolutamente es que una fusión de núcleo pueda generar una explosión nuclear como las provocadas por el armamento atómico; no obstante, como ya se indicó antes, un eventual contacto del material fluido con una reserva de agua provocaría una explosión de vapor que diseminaría el material radiactivo por una amplia extensión de terreno, emulando una bomba sucia. Esto se debe a que la fusión se desarrolla a temperaturas cercanas o superiores a los 1500 grados centígrados; a esta temperatura el agua pasa inmediatamente a estado gaseoso provocando una gran presión sobre la vasija del reactor que puede llevar a explosiones. 
+Por otro lado, algunos materiales presentes en los reactores, como el circonio o el grafito (presente en los reactores refrigerados por dióxido de carbono y en los RBMK soviéticos) pueden catalizar la producción de hidrógeno a partir de agua y aire, resultando en la explosión.
+
+
+== Sucesos ==
+La fusión de núcleo más conocida y de más graves consecuencias ocurrió en la central nuclear de Chernóbil, el 26 de abril de 1986, en Ucrania (que, cuatro años antes, ya había padecido una fusión parcial de núcleo en su reactor número 1). En 2011, la Central Nuclear de Fukushima sufrió una triple fusión del núcleo en todos sus reactores operativos, con una importante emisión de contaminación radiactiva. En 1979, se produjo otra de similares características pero con muchos menos daños, en Three Mile Island, Pensilvania, Estados Unidos. Otras centrales en las que se han registrado fusiones parciales de núcleo son:
+
+NRX, Ontario, Canadá, en 1952.
+EBR-I, Idaho, Estados Unidos, en 1955.
+Windscale (ahora Sellafield), Inglaterra, en 1957.
+Laboratorio de Santa Susana, Simi Hills, California, Estados Unidos, en 1959.
+SL-1, Idaho, Estados Unidos, en 1961.
+Estación Nuclear Enrico Fermi, Escocia, en 1967.
+Chapelcross, Dumfries and Galloway, Escocia, en 1967.
+Planta A1, Jaslovské Bohunice, Checoslovaquia, en 1977.
+Planta de Okuma, Fukushima, Japón, en 2011.
+Además, algunos submarinos nucleares han experimentado la fusión del núcleo de su reactor.[1]​
+
+
+== Véase también ==
+Three Mile Island
+Accidente de Chernóbil
+Síndrome de China
+Central nuclear
+Energía nuclear
+Accidente nuclear
+Contaminación radiactiva
+Comportamiento del combustible nuclear durante un accidente del reactor
+
+
+== Referencias ==

@@ -1,0 +1,78 @@
+Une caldeira ou caldera est une vaste dépression circulaire ou elliptique, généralement d'ordre kilométrique, souvent à fond plat, située au cœur de certains grands édifices volcaniques et résultant d'une éruption qui vide la chambre magmatique sous-jacente.
+En exogéologie, les caldeiras sont généralement identifiées comme paterae, telles que Sappho Patera sur Vénus, Apollinaris Patera sur Mars, Loki Patera sur le satellite Io de Jupiter, ou encore Leviathan Patera sur le satellite Triton de Neptune.
+
+
+== Étymologie ==
+« Caldeira » provient du portugais caldeirão qui provient lui-même du latin caldaria et qui signifie en français « chaudron ».
+Caldera est un terme espagnol qui signifie « chaudière ».
+En français, les deux graphies, « caldeira » et « caldera », sont admises.
+
+
+== Caractéristiques ==
+
+Il s'agit d'un terme géomorphologique ou géologique concernant une forme de relief ressemblant au cratère volcanique.
+Cette dépression en forme de chaudron est limitée par une falaise verticale circulaire ou elliptique. La falaise (ou « faille en anneau »), qui confère à la caldeira sa structure, peut atteindre plusieurs centaines de mètres de hauteur. La taille des caldeiras peut varier de quelques kilomètres de diamètre, comme celle du volcan Pinatubo dans les Philippines (2,5 km de diamètre) à une centaine de kilomètres de diamètre, comme celle du lac Toba sur l’île de Sumatra (80 × 30 km) (Lipman, 2000) ou encore celle d'Olympus Mons, le plus grand volcan martien (80 × 60 km).
+Une caldeira n’a pas la même morphologie qu'un cratère, ni la même cause. Le cratère est une dépression en forme d’entonnoir, de taille réduite, et résultant de l’action combinée et simultanée de l’éjection du magma à partir d’une cheminée volcanique et de la retombée de ce même magma tout autour de ce point central.
+De nombreuses caldeiras se remplissent d'eau en captant des rivières ou en recueillant l'eau de pluie et forment ainsi des lacs comme celui de Crater Lake (États-Unis) ou de l'Askja (Islande). D'autres sont partiellement ouvertes sur la mer et forment des baies ou des golfes comme à Santorin (Grèce), à Rabaul (Papouasie-Nouvelle-Guinée), à Krakatoa (Indonésie), aux Champs Phlégréens (Italie), etc.
+Certaines permettent le peuplement humain, comme le Chã das Caldeiras (île de Fogo au Cap-Vert) et les trois cirques du massif du Piton des Neiges, sur l'île de La Réunion.
+
+
+== Histoire ==
+Parmi les grandes caldeiras préhistoriques et historiques on peut citer :
+
+la caldeira de Yellowstone en Amérique du Nord (env. 640 000 ans), dont sont sortis de l'ordre de 1 000 km3 d'éjectas ;
+la caldeira du lac Toba sur l'île de Sumatra (env. 74 000 ans), qui a expulsé 2 000 km3 d'ignimbrite et 800 km3 de cendres ;
+la caldeira des champs Phlégréens dans le golfe de Pouzzoles (env. 36 000 puis 14 000 ans), avec l'expulsion de 80-150 puis 10–30 km3 de tufs ;
+la caldeira de Santorin dans les Cyclades (v. 1600 av. J.-C.), qui en a anéanti les habitants et a rejeté 40 à 60 km3 de magma sous forme de nuées ardentes ;
+la caldeira du Samalas sur l'île de Lombok (1215), dont l'éruption est considérée comme la plus violente des 10 000 dernières années ;
+la caldeira du Tambora sur l'île de Sumbawa (1815), dont l'éruption fit environ 92 000 victimes directes et plus de 200 000 indirectement en raison des famines qui s'ensuivirent ;
+la caldeira du Pinatubo sur l'île de Luçon (1991), dont les éjectas sont estimés à plus de 10 km3.
+
+
+== Formation ==
+
+
+=== Vidange de la chambre magmatique ===
+
+Le modèle classique de formation d’une caldeira, dit modèle du piston (piston model), la relie à une éruption volcanique. La chambre magmatique, située à une profondeur de quelques kilomètres, peut se vider partiellement ou en totalité à l’occasion d'une grande éruption. Une majeure partie du volcan, qui constitue le toit rigide de la chambre magmatique, s’effondre alors dans celle-ci, formant une vaste dépression à fond plat. L’effondrement se produit après la formation de la faille en anneau. Selon le modèle du piston, le toit de la chambre s’effondre le long de cette faille circulaire, en un disque plus ou moins cohérent. L'une des caractéristiques de ce modèle est que l'effondrement est rapide, se produisant en seulement quelques heures. Il s'agit d'un événement cataclysmique de grande ampleur.
+Le modèle est conforté par de minutieuses études de terrain, comme pour le Kilauea à Hawaii ou les volcans explosifs. De nombreuses expériences analogiques en donnent aussi une validation mécanique. L'effondrement peut se produire après plusieurs éruptions au lieu d'une seule éruption très puissante. C'est notamment le cas des caldeiras des Galápagos qui sont considérées comme résultant d'une série d'éruptions espacées dans le temps mais sans que la chambre magmatique soit rechargée entre-temps, ce qui a finalement conduit à l'effondrement du toit.
+Une des conséquences de ce modèle est que la taille de la caldeira est directement fonction de la chambre magmatique qui s’est vidée, et en reflète ainsi la taille. Pour les très grandes caldeiras, ceci implique à la fois des chambres magmatiques gigantesques et des volumes de produits volcaniques émis lors de l'éruption tout à fait considérables. Par exemple, on estime que la formation de la caldeira du Toba, il y a 75 000 ans, s’est accompagnée de l’émission de produits volcaniques d’un volume de l’ordre de 1 500 km3, ce qui fait de cette éruption l’une des plus importantes jamais advenue sur la Terre.
+Des variantes du modèle d’effondrement en piston cohérent ont été proposées, mais toutes sont fondées sur la vidange de la chambre magmatique sous-jacente et l’effondrement de la partie supérieure du volcan dans celle-ci.
+
+
+=== Altération hydrothermale ===
+
+Les très grandes caldeiras plurikilométriques des volcans boucliers (volcanisme effusif lié à un panache mantellique) sont difficiles à expliquer par le modèle classique de vidange d’une chambre magmatique sous-jacente. En effet, les prospections géophysiques ne montrent pas de chambre de cette taille sous ce type de volcans, qui sont en éruption quasi permanente et n’ont que des chambres de dimensions relativement modestes, comme le piton de la Fournaise à l’ile de La Réunion).
+Des études récentes ont montré que le cœur des édifices volcaniques était profondément altéré par les circulations de fluides hydrothermaux et qu’au cours du temps, il se transformait lentement en argile et en sulfate (type gypse). Cette transformation amène un changement du comportement mécanique de l’édifice volcanique et la constitution de zones de faiblesse. Des études ont montré que cette altération était responsable d’effondrement et de glissement de flancs assez spectaculaires.
+Olivier Merle et ses collègues du laboratoire Magmas et Volcans de Clermont-Ferrand ont récemment montré expérimentalement que le fluage sous son propre poids d’un cœur de volcan très altéré et profondément argilisé conduisait en surface à la formation d'une structure caldérique, morphologiquement en tout point semblable à la caldeira du modèle standard (voir ci-dessus). Cependant, contrairement au modèle standard de vidange d'une chambre magmatique, la formation d'une caldeira de ce type n'est plus un phénomène cataclysmique mais un phénomène lent. On estime qu'il faut plusieurs milliers, voire plusieurs centaines de milliers d'années, pour altérer le cœur d'un grand édifice volcanique. La formation de la caldeira proprement dite, qui commence quand le cœur argilisé est capable de fluer sous son propre poids, peut prendre quant à elle plusieurs centaines d'années.
+L'une des différences majeures de ce modèle par rapport au précédent est que la taille de la caldeira est cette fois-ci fonction de la taille du système hydrothermal et non plus de la chambre magmatique, ce qui résout le problème de taille de caldeira du modèle précédent pour les volcans boucliers. D'autre part, la formation d'une caldeira n'est plus nécessairement liée à une éruption.
+Ce modèle a été appliqué à la formation de la caldeira de l’Enclos au piton de la Fournaise et à la caldeira de l’île de Nuku Hiva en Polynésie française.
+
+
+== Alertes ==
+La formation d'une caldeira étant un événement rare et dévastateur, peu de ces événements ont été observés, et encore moins l'objet de mesures. À ce jour, seuls ceux du piton de la Fournaise en 2007 et du Kīlauea en 2018 ont fourni des enregistrements scientifiques permettant à l'avenir, sinon de prédire à moyen terme ce genre d'événement, du moins de donner l'alerte quelques heures avant son déclenchement visible : cycles de variation de l'inclinaison du sol (accompagnant le stick-and-slip de la chute du piston dans la chambre) et paquets d'ondes de très basse fréquence (durant environ 20 secondes en 2007),.
+
+
+== Notes et références ==
+
+
+== Annexes ==
+
+
+=== Bibliographie ===
+Pascal Richet, Guide des volcans de France. Eds. du BRGM et Belin, coll. Guides savants, 2003, 427 p.
+Pierre Nehlig, Pierre Boivin, Alain de Goër, Jean Mergoil, Gaëlle Prouteau, Gérard Sustrac et Denis Thiéblemont, Les volcans du Massif central. Ed. BRGM, 2003, 41 p.
+Jacques-Marie Bardintzeff, Volcanologie. Ed. Dunod, 1988, 284 p.
+
+
+=== Articles connexes ===
+
+Cratère volcanique
+Maar
+Volcan
+Patera (exogéologie)
+
+
+=== Liens externes ===
+
+ Portail du volcanisme

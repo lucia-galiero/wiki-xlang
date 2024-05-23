@@ -1,0 +1,185 @@
+La glándula tiroides (del griego θυρεοειδής (thyreoeidēs: thyreos (escudo) y -eidos (forma): «forma de escudo») es una glándula endocrina, situada en el cuello nuez de Adán, bajo el cartílago tiroides apoyada sobre la tráquea. Pesa entre 12 a 20 gramos en el adulto, y está constituida por tres lóbulos: dos en forma a cada lado, unidos por un istmo (forma de mariposa) y un tercero, el piramidal [o de Lalouette], que se extiende desde la porción superior del istmo, paramedial izquierdo (la mayor parte de las veces) hacia craneal (arriba). Este último es el remanente embrionario de la migración de la glándula.
+Las glándulas tiroideas regulan el metabolismo del cuerpo y regulan la sensibilidad del cuerpo a otras hormonas.
+La tiroides tiene una cápsula fibrosa (fascia cervical media) que la envuelve y da soporte, penetrando en ella, dando aspecto lobuloso a su parénquima. Además la aponeurosis cervical profunda se divide en dos capas cubriendo a la tiroides en sentido anterior y posterior dándole un aspecto de pseudocápsula, que es el plano de disección usado por los cirujanos durante la tiroidectomía.
+
+
+== Historia ==
+La glándula recibe su nombre de la palabra griega thyreoeides o escudo, debido a su forma bilobulada. La tiroides fue identificada por el anatomista Thomas Wharton en 1656 y descrita en su texto Adenographia. La tiroxina fue identificada en el siglo XIX. Los italianos de la época del renacimiento ya habían documentado la tiroides. Leonardo da Vinci incluyó la tiroides en algunos de sus dibujos con la forma de dos glándulas separadas una a cada lado de la laringe.[1]​ En 1776 Albrecht von Haller describió la tiroides como una glándula sin conducto. Se le atribuía a la tiroides varias funciones imaginativas, incluyendo la lubricación de la laringe, un reservorio de sangre para el cerebro y un órgano estético para mejorar la belleza del cuello femenino.[1]​
+La cirugía de la tiroides era un procedimiento peligroso con extremadamente elevadas tasas de mortalidad. El primer relato de una operación de tiroides fue en 1170 por Roger Frugardi. Para la mitad del siglo XIX, aparecieron avances en anestesia, antisepsia y en el control de la hemostasis, lo que le permitió a los cirujanos operar en la tiroides con tasas de mortalidad reducidas. Los cirujanos de tiroides más conocidos de la época fueron Emil Theodor Kocher (1841-1917) y C. A. Theodor Billroth (1829-1894).
+
+
+== Fisiología ==
+
+La tiroides participa en la producción de hormonas, especialmente tiroxina (T4) y triyodotironina (T3). También puede producir (T3) inversa. Estas hormonas regulan el metabolismo basal y afectan el crecimiento y grado de funcionalidad de otros sistemas del organismo. El yodo es un componente esencial tanto para T3 como para T4. Las glándulas paratiroides ubicadas en la cara posterior de la tiroides sintetizan la hormona paratohormona que juega un papel importante en la homeostasis del calcio. La tiroides es controlada por el hipotálamo y la glándula pituitaria (o hipófisis).
+La unidad básica de la tiroides es el folículo, que está constituido por células cuboidales que producen y rodean el coloide, cuyo componente fundamental es la tiroglobulina, la molécula precursora de las hormonas. La síntesis hormonal está regulada enzimáticamente y precisa de un oligoelemento esencial, el yodo, que se obtiene en la dieta en forma de yoduro. El yodo se almacena en el coloide y se une con fragmentos de tiroglobulina para formar T3 o T4. Cuando la concentración de yodo es superior a la ingesta requerida se inhibe la formación tanto T4 como de T3, un fenómeno llamado el Efecto de Wolff–Chaikoff. La liberación de hormonas está dada por la concentración de T4 en sangre; cuando es baja en sangre se libera TSH, que promueve la endocitosis del coloide, su digestión por enzimas lisosómicas y la liberación de T4 y T3 a la circulación. Las hormonas circulan por la sangre unidas a proteínas, de la cual la más importante es la globulina transportadora de tiroxina.
+Las hormonas tiroideas tienen efectos sobre casi todos los tejidos del organismo. Aumentan la termogénesis y el consumo de oxígeno, y son necesarias para la síntesis de muchas proteínas; de ahí que sean esenciales en los periodos de crecimiento y para la organogénesis del sistema nervioso central. También influyen sobre el metabolismo de los hidratos de carbono y de los lípidos. La T4 se convierte en T3 en los tejidos periféricos. La T4 constituye el 93 % de las hormonas metabólicamente activas, y la T3 el 7 %.
+
+
+=== Regulación mediante TRH y TSH ===
+La hormona estimulante de la tiroides (TSH) secretada por la hipófisis, actúa sobre todos los procesos que controlan la síntesis y liberación de la hormona tiroidea, también actúa aumentando la celularidad y vascularización de la glándula.
+La secreción de TSH hipofisaria está regulada por la retroalimentación negativa que ejercen las hormonas tiroideas sobre la hipófisis.  La TSH de la hipófisis está bajo el influjo directo del factor liberador estimulante del hipotálamo llamado hormona liberadora de tirotropina (TRH).
+
+
+=== Tiroxina T4 ===
+La hormona más importante que produce la tiroides se llama tiroxina y contiene yodo. Ésta tiene dos efectos en el cuerpo:
+
+Control de la producción de energía en el cuerpo: la tiroxina es necesaria para mantener la tasa metabólica basal a un nivel normal.
+Durante los años de crecimiento: mientras la hormona del crecimiento estimula el aumento de tamaño, la tiroxina hace que los tejidos vayan tomando la forma apropiada a medida que van creciendo. Es decir, la tiroxina hace que los tejidos se desarrollen en las formas y proporciones adecuadas.
+
+
+== Exploración funcional de la glándula tiroides ==
+Cuantificación del metabolismo basal: las hormonas tiroideas (HT) regulan el metabolismo basal; por ello, la cuantificación de este fue la primera técnica que se utilizó para valorar la función tiroidea. Hoy existen otras pruebas debido que el metabolismo basal puede estar modificado por muchas otras causas no tiroideas.
+Cuantificación de captación de yodo radiactivo: es algo inespecífica, y por lo tanto poco usada. La captación está aumentada en algunos tipos de hipertiroidismo (enfermedad de Graves Basedow, adenoma tirotoxico, etc.) y en aquellas circunstancias en las que se eleva la TSH en presencia de un tejido tiroideo funcionante (deficiencia de yodo, deficiencia de las enzimas para la síntesis de HT). La captación está disminuida en el hipotiroidismo, en las personas que reciben grandes cantidades de yodo y tiroiditis, antes de administrar yodo radioactivo se debe descartar un embarazo. Con el yodo radioactivo se puede obtener una imagen de las zonas de la tiroides (gammagrafía tiroidea). Este método nos revela la anatomía funcional de la tiroides.
+Ecografía tiroidea: aquí podemos medir el tamaño, identificación de nódulos, definir sus características; es de importancia en niños para poder diferenciar la patología de tiroides de un quiste tirogloso.
+Punción-aspiración: se puede practicar una citología de la lesión existente.
+Medición de T4 libre y TSH: una T4 libre alta indica tirotoxicosis y baja hipotiroidismo. La TSH esta baja en pacientes hipertiroideos y altas en el hipotiroidismo. Si se encuentra una T4 normal y una TSH suprimida, es necesario medir la T3 libre para descartar una tirotoxicosis.
+Medición de anticuerpos antitiroglobulina y antiperoxidasa: permite valorar los fenómenos autoinmunitarios de la tiroides (como en la enfermedad de Graves Basedow o en la tiroiditis de Hashimoto).
+Excreción urinaria de yodo (yoduria): es un indicador fiable de la ingestión de yodo.
+
+
+== Anatomía ==
+
+La tiroides tiene la forma de una mariposa, de color gris rosada y está compuesta por dos lóbulos que asemejan las alas de una mariposa, un lóbulo derecho y un lóbulo izquierdo conectados por el istmo. La mayor parte de las veces el lóbulo piramidal sale del lado izquierdo del istmo, algunas veces  del centro y pocas del lado derecho. 
+La glándula está situada en la parte frontal del cuello a la altura de las vértebras C5 y T1, junto al cartílago tiroides, yace sobre la tráquea que rodea hasta alcanzar posteriormente al esófago y está cubierta por la musculatura pretiroidea, el músculo platisma (antiguamente llamado músculo cutáneo) del cuello, el tejido subcutáneo y la piel. Durante el proceso de la deglución, la glándula tiroides se mueve, perdiendo su relación con las vértebras.
+Se adhiere, por su cara posterior,  al cartílago cricoídes mediante el ligamento medio de Gruber. 
+La tiroides está recubierta por una vaina aponeurótica, denominada cápsula de la glándula tiroides que ayuda a mantener la glándula en su posición. La porción más externa de la cápsula de la tiroides se continúa con  la aponeurosis cervical media, que separa la celda subcutánea anterior de los músculos rectos tiroideos y hacia atrás con la vaina carotídea. La glándula tiroides es recubierta en su cara anterior por los músculos infrahioideos y lateralmente por el músculo esternocleidomastoideo. Por su cara posterior, la glándula está fijada a los cartílagos tiroides y traqueal y el músculo cricofaríngeo por medio de un engrosamiento de la aponeurosis que forma el ligamento suspensorio de Berry.[2]​[3]​
+
+
+=== Irrigación e inervación ===
+La glándula tiroides es irrigada por cuatro arterias:
+
+Dos arterias tiroidea superior. Es la primera ramificación de la arteria carótida externa, e irriga principalmente la parte superior cara de la glándula.
+Dos arterias tiroidea inferior. Es la rama principal del tronco tirocervical, que se deriva de la arteria subclavia.
+Ambas forman una anastomosis dentro de la glándula para una circulación entre la arteria subclavia y la carótida externa. 
+El flujo sanguíneo de la glándula es muy alto en relación con su tamaño (4 a 6 ml/min/g).
+En el 10 % de las personas existe una tercera arteria denominada Arteria Tiroidea Ima,[4]​ media o de Neubauer, proveniente del cayado aórtico o del tronco braquiocefálico.
+
+Hay tres venas principales que drenan la tiroides. Las venas tiroideas superiores, medias e inferiores que desembocan en la venas yugulares internas, formando un rico plexo alrededor de la glándula. Las superiores y medias drenan en la vena yugular interna, y las inferiores drenan al tronco braquiocefálico.
+Los linfáticos forman alrededor de la glándula un plexo paratiroideo. Los troncos que parten de él se dividen en linfáticos descendentes, que terminan en ganglios situados delante de la tráquea y encima del timo y en linfáticos ascendentes, los medios terminan en uno o dos ganglios prelaríngeos y los laterales en los ganglios laterales del cuello.
+Tres tipos de nódulos:
+
+Prelaringeos: drenan en los nódulos linfáticos superiores.
+Pretraquiales y paratraqueales: drenan en los nódulos cervicales profundos inferiores.
+La inervación es de dos tipos:
+
+Simpática. Proviene del simpático cervical. tiene tres grupos de nervios: superiores, medios e inferiores.
+Parasimpática. Es testimonial, no tiene ninguna función (conocida al menos). Proviene de los nervios laríngeo superior y laríngeo recurrente, ambos procedentes del nervio vago.
+La inervación regula el sistema vasomotor, y a través de éste, la irrigación de la glándula.
+
+
+== Histología ==
+
+La unidad estructural y funcional de la glándula tiroides es el folículo tiroideo, una estructura esferoidal de entre 0.02 y 1 milímetro (mm) de diámetro que en su interior está relleno de un coloide, que se tiñe de un color rosáceo homogéneo en la tinción H&E.
+El folículo tiroideo está revestido por un epitelio simple cúbico de células foliculares o principales, que son las productoras de triyodotironina y tiroxina, y por células parafoliculares (o células C), productoras de calcitonina, que se sitúan entre las foliculares y la membrana basal.
+Cada folículo se encuentra rodeado por una extensa red de capilares, así como por vasos linfáticos y nervios.[5]​[6]​
+Las células foliculares están unidas entre sí mediante desmosomas y la membrana celular apical (la que contacta con el coloide) presenta microvellosidades.
+El citoplasma es levemente eosinófilo. El núcleo es esferoidal, muestra cromatina homogénea, con uno o más nucleolos. El retículo endoplásmico rugoso es abundante. El aparato de Golgi es evidente. Las mitocondrias son numerosas.[7]​
+
+
+== Embriogénesis ==
+La glándula tiroides se desarrolla en el embrión entre la semana 3 y 5 del embarazo y aparece como una proliferación de epitelio proveniente del endodermo sobre el piso faríngeo en la base de la lengua.[1]​ Este divertículo se vuelve bilobular y desciende después de la cuarta semana de gestación adherido a la faringe por medio del conducto tirogloso. En el transcurso de las semanas subsiguientes, continúa migrando hasta la base del cuello, siempre conectado a la lengua por el conducto tirogloso, hasta la séptima semana cuando llega a su ubicación anatómica entre el tercer y sexto anillo traqueal. Los folículos de la tiroides comienzan a desarrollarse a partir de células epiteliales y logran captar yodo y producir coloide aproximadamente a la semana 11 y producen tiroxina aproximadamente en la 18.ª semana.
+
+
+=== Trastornos del desarrollo ===
+Las anomalías más frecuentes del desarrollo embrionario de la glándula tiroides incluyen:
+
+Atireosis: ausencia de tiroides en el nacimiento por fallar la producción el esbozo tiroideo embrionario, la causa más frecuente de hipotiroidismo congénito (1 en cada 3000 nacidos vivos).
+Tiroides ectópica: cuando la glándula no está ubicada en su sitio anatómico por fallas en el descenso del divertículo tiroideo.
+Remanentes del conducto tirogloso: ocurre cuando en el conducto tirogloso permanecen remanentes embrionarias de la tiroides.
+Quiste tirogloso: masa benigna en la cara anterior del cuello.
+
+
+== Hipertiroidismo ==
+
+El hipertiroidismo, es consecuencia de una hiperplasia (bocio tóxico) de la glándula a causa de una secreción excesiva de TSH (acrónimo inglés de “hormona estimulante de la tiroides”), o bien a la estimulación de la tiroides por TSI (inmunoglobulina tiroestimulante), que son anticuerpos que se unen a los mismos receptores que lo haría la TSH, por lo que la glándula sufre una estimulación muy intensa que causa el hipertiroidismo.
+La tirotoxicosis (intoxicación por hormonas tiroideas) es el síndrome debido a una excesiva acción de las HT sobre el organismo. El exceso de HT circulantes puede deberse a una hiperfunción del tiroides, a una destrucción del tiroides con una producción ectópica de hormonas tiroideas o a una ingestión exógena excesiva de HT.
+
+
+== Hipersecreción ==
+La hipersecreción, origina el bocio exoftálmico, que produce un aumento considerable del tamaño de las glándulas a expensas del tejido noble que produce la hormona, lo que se traduce en una tumoración en la parte anterior del cuello, que es a lo que se denomina “bocio”. Una hipersecreción, también produce exoftalmia, que le da al individuo aspecto de ojos saltones.
+De igual modo, por un exceso en esta hormona, se produce un aumento en el catabolismo, delgadez y problemas cardíacos entre otros.
+
+
+== Hiposecreción ==
+La hiposecreción, si el individuo es adulto, se le produce un mixedema, que es un cúmulo de líquidos en tejido subcutáneo, que hincha la piel como consecuencia de un cúmulo de agua en ella. Otros problemas pueden ser la reducción del metabolismo, obesidad, ojos hundidos, depresión nerviosa, descenso de la actividad cardíaca…
+Se acompaña en ocasiones la hiposecreción por un aumento de tamaño en la glándula, pero a expensas del tejido intersticial, que se denomina “bocio típico”.
+En los jóvenes, una carencia, produce cretinismo, caracterizado por la detención del crecimiento, deficiencia mental, imposibilidad del desarrollo sexual, piel rugosa, mixedema u obesidad.
+
+
+== Hipotiroidismo ==
+La causa más frecuente en la actualidad es la presencia de anticuerpos antitiroídeos, los que atacan a la tiroides y llevan a la disminución de la producción de hormonas tiroídeas. En épocas anteriores la causa más frecuente de hipotiroidismo era la deficiencia de yodo, esto desapareció con la yodación de la sal. El hipotiroidismo producido por la presencia de anticuerpos antitiroídeos se denomina enfermedad de Hashimoto.
+El hipotiroidismo también se llama mixedema (edema mucinoso), ya que se produce un acúmulo generalizado de mucopolisacáridos en los tejidos subcutáneos, que provoca un edema especial que no deja fóvea (no debe confundirse con el mixedema pretibial de la enfermedad de Graves-Basedow).
+
+
+=== Cuadro clínico ===
+Los síntomas del hipotiroidismo se originan por la acción insuficiente de las HT sobre el organismo: fatigabilidad fácil, cansancio, retención de líquido, lentitud mental, aumento de peso. En casos avanzados se puede detectar edema generalizado, voz ronca, caída de cabello, especialmente de la zona externa de las cejas. También el hipotiroidismo se puede asociar a estados depresivos. En ciertos casos puede determinar deterioro de la función de otros órganos como el corazón, riñones, hígado, etc.
+
+
+=== Tratamiento ===
+El diagnóstico se realiza a través de la evaluación clínica, idealmente efectuada por un endocrinólogo y la medición de Hormona Tiroestimulante (TSH), T3 y T4, también es recomendable la determinación de anticuerpos antitiroideos. El tratamiento es la reposición de hormona tiroidea o levotiroxina, vía oral. El paciente debe controlarse periódicamente para determinar la necesidad de cambio de la dosificación.
+
+
+=== Fisiopatología ===
+La falta de HT produce enlentecimiento general del metabolismo, una disminución de la generación de calor y descenso en la síntesis proteica, pero con una disminución mayor del catabolismo que de la síntesis de determinadas sustancias que tienden a acumularse (lípidos plasmáticos, mucopolisacáridos cutáneos).
+
+
+=== Hipotiroidismo primario ===
+Se debe a una alteración primaria de la tiroides, que es incapaz de sintetizar HT. El descenso de la T4 circulante induce una elevación de la TSH plasmática. Es la forma más frecuente de hipotiroidismo y puede ser congénito o adquirido.
+El hipotiroidismo congénito tiene como causas las anomalías de la embriogénesis del tiroides, anomalía en los genes de las proteínas implicadas en las síntesis de HT y el tratamiento con yodo o con antitiroideos durante el embarazo.
+El hipotiroidismo adquirido tiene como causas la atrofia autoinmunitaria del tiroides (más frecuente), ausencia del tiroides por tratamiento con yodo radiactivo o cirugía, las tiroiditis, el hipotiroidismo por la deficiencia de yodo, el hipotiroidismo inducido por yodo en pacientes con tiroiditis y el producido por fármacos.
+
+
+=== Otras formas de hipotiroidismo ===
+El hipotiroidismo secundario se debe a cualquier lesión hipofisiaria que impida la secreción de TSH. La TSH es indetectable. En general da un hipotiroidismo menos marcado que el anterior ya que puede conservarse una cierta secreción tiroidea autónoma, independiente de TSH.
+Hipotiroidismo terciario, se debe a cualquier lesión hipotalámica que impida la secreción de TRH, aquí se puede detectar TSH en el plasma pero al no estar glucosada es biológicamente inactiva.
+Hipotiroidismo por resistencia familiar a la acción de las hormonas tiroideas, debido a la mutación en el gen que codifica los receptores tiroideos.
+
+
+=== Hipotiroidismo en el adulto ===
+Aparece mixedema (sobre todo periorbital), macroglosia (agrandamiento de la lengua), voz ronca, sordera, derrames articulares, pericárdico, pleural o peritoneal, síndrome del túnel carpiano. La disminución en la termogénesis provoca intolerancia al frío, de manera que los pacientes prefieren ambientes calurosos, en casos extremos se produce hipotermia, la piel se vuelve pálida, fría y seca. A veces adopta un color amarillento debido al acúmulo de carotenoides de los alimentos que no se metabolizan. El pelo se vuelve frágil, seco, deslucido y tiende a caerse. Disminuye la acción destoxificante del hígado por lo tanto son muy sensibles a medicamentos.
+La función nerviosa se ve gravemente dañada por la falta de HT, se produce un trastorno de la conciencia que puede ir desde la somnolencia hasta el estupor o el coma (coma mixedematoso). Otras veces trastornos mentales como la pérdida de la memoria y capacidades intelectuales. Puede haber apnea debido a la poca sensibilidad del centro respiratorio.
+
+
+=== Hipotiroidismo en el niño ===
+La falta de HT tiene efectos muy graves en los fetos y en los recién nacidos, el hipotiroidismo grave de la infancia se denomina cretinismo. Los niños con agenesia tiroides, pero cuya madre es normal, presentan al nacer un desarrollo cerebral normal, aunque tienen retraso en la maduración esquelética. Tras el nacimiento los niños ya no dependen de las HT de la madre y esto va a producir un retraso mental grave, somnolencia, estreñimiento, llanto ronco y piel seca, el cierre de las fontanelas se retrasa y la osificación de los huesos es irregular.
+
+
+== Bocio ==
+
+Cuando la tiroides aumenta de tamaño hablamos de bocio o estruma. La aparición de un proceso inflamatorio sobre un bocio preexistente se denomina estrumitis. La tiroides puede llegar a pesar más de 1 kg.
+
+
+=== Etiopatogenia ===
+Estimulación excesiva por la TSH, que origina en principio un bocio difuso, si bien una estimulación crónicamente mantenida puede seleccionar diversos clones celulares con más capacidad de crecimiento lo que lleva a un bocio multinodular. El bocio endémico es debido a la deficiencia de yodo en la dieta y afecta a más de 200 millones de personas en el mundo.
+Estimulación por inmunoglobulinas que se unen al receptor tiroideo de la TSH y remedan sus efectos. Existen inmunoglobulinas que solo estimulan el crecimiento del tiroides, sin modificar su función, mientras que otras estimulan el crecimiento y la función, provocando hipertiroidismo.
+Crecimiento autónomo de las células foliculares. Puede manifestarse como una hiperplasia policlonal, que evoluciona a la multinodularidad. También puede aparecer un nódulo único monoclonal, benigno o maligno.
+El tiroides puede aumentar por causas inflamatorias (tiroiditis), infiltrantes (amiloidosis), tumorales (metástasis), o porque aparecen otras lesiones ocupantes de espacio (hemorragias, quistes, etc.).
+
+
+=== Fisiopatología ===
+Según la causa que lo produzca el bocio puede se normofuncionante, hipofuncionante o hiperfuncionante. El tiroides al crecer provoca trastornos en la vía respiratoria (apnea del sueño, disnea, ronquera), digestiva (disfagia) o nerviosa (parálisis recurrente).
+
+
+== Causas de problemas de la tiroides ==
+
+En los lugares del mundo donde escasea el yodo —esencial para la producción de tiroxina— en la dieta, la glándula tiroides puede agrandarse resultando en los cuellos hinchados del bocio endémico.
+La tiroxina es crítica para la regulación del metabolismo y el crecimiento, en todo el reino animal. Por ejemplo, en los anfibios, la administración de agentes bloqueadores de la tiroides, tales como propiltioracil, evita que los renacuajos se conviertan en ranas; por el contrario, la administración de tiroxina inicia la metamorfosis.
+En los seres humanos, los niños que nacen con deficiencia de hormonas tiroideas no crecen bien y el desarrollo del cerebro puede verse seriamente lesionado en una torpeza cerebral conocida como cretinismo. A los niños recién nacidos se les hace pruebas de rutina en muchos países para determinar la deficiencia de las hormonas tiroideas; esto se realiza analizando una pequeña gota de sangre, tomada en ocasiones del cordón umbilical, la cual puede también utilizarse para probar la fenilcetonuria y otras enfermedades metabólicas de etiología genética. Los niños con deficiencia de hormonas tiroideas pueden ser tratados fácilmente con suplementos de tiroxina sintética, la cual les permite un desarrollo y crecimiento normal.
+Debido a que la tiroides toma selectivamente concentraciones extremas de lo que es un elemento relativamente escaso, es muy sensible a los efectos de varios isótopos radiactivos del yodo, producidos por la fisión nuclear. En caso de que se liberen accidentalmente al medio ambiente grandes cantidades de tal material, podría bloquearse, en teoría, que la tiroides tome el yodo radiactivo ingiriendo yodo no radiactivo en forma de tabletas yodadas.
+Aunque los investigadores biólogos crean compuestos para tales píldoras, las medidas preventivas en la mayor parte del mundo no prevén el almacenamiento de las tabletas antes de un accidente, ni prevén una adecuada distribución después —una de las consecuencias del desastre de Chernobyl fue el incremento de cáncer en la tiroides en los años subsecuentes al accidente—.[8]​
+La sal yodada es una forma económica y fácil de agregar yodo a la dieta y evitar problemas de tiroides relacionados con la falta de yodo (hipotiroidismo).
+El frío extremo puede ocasionar graves problemas de tiroides.
+Los síntomas hacen confundir mucho a la persona, que puede asociar muchos de ellos con
+problemas de índole cardíaco, etc.
+
+
+== Regeneración ==
+La glándula tiroides se regenera rápidamente después de la ablación quirúrgica parcial si se suprime el yodo de la dieta, pero no se regenera si se administra tiroides desecada. El autotrasplante tiene ordinariamente éxito, particularmente si el animal sufre de deficiencia tiroidea. Se han mantenido vivos durante varios meses los cultivos puros de epitelio embrionario de la tiroides de pollo.
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Ross, Michael H.; Pawlina, Wojciech (2016). Histología: texto y atlas: correlación con biología celular y molecular (7.ª edición). L'Hospitalet de Llobregat: Wolters Kluwer. ISBN 978-84-16004-96-6. 
+Young, Barbara; O’Dowd, Geraldine; Woodford, Phillip (2014). Wheater: histología funcional: texto y atlas en color (6.ª edición). Barcelona: Elsevier. ISBN 978-84-9022-688-9.

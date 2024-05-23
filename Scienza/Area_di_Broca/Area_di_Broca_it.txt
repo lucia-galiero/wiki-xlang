@@ -1,0 +1,48 @@
+L'area di Broca (o area del linguaggio articolato) è una parte dell'emisfero cerebrale dominante, solitamente il sinistro, localizzata nel piede della terza circonvoluzione frontale, la cui funzione è coinvolta nell'elaborazione del linguaggio. Tale area può anche essere descritta come l'unione dell'area 44 e 45 di Brodmann ed è connessa all'area di Wernicke da un percorso neurale detto fascicolo arcuato. Prende il nome dal medico e anatomista francese Paul Broca, il primo a descriverla nel 1861 dopo aver condotto l'autopsia di un paziente afasico, monsieur Leborgne, anche detto paziente Tan, perché tan tan erano le uniche parole che egli riusciva a pronunciare. Il primo che si accorse che questa regione fosse implicata nella facoltà del linguaggio fu il medico italiano Bartolomeo Panizza (1785-1867).
+
+
+== Descrizione ==
+L'area di Broca è costituita da tre zone principali, con diversi ruoli nella comprensione e nella produzione del linguaggio:
+
+pars orbitalis (anteriore): localizzata vicino alle orbite.
+pars triangularis (intermedia): sembra essere associata all'interpretazione di varie modalità di stimoli e alla programmazione dei condotti verbali.
+pars opercularis (posteriore): è associata a un unico tipo di stimolo e presiede al coordinamento degli organi coinvolti nella riproduzione della parola; essa è fisicamente prossima ad aree del cervello dedicate al controllo dei movimenti.
+
+
+== Patologie ==
+Un danno funzionale in quest'area (dovuto a ictus o altro) può provocare la cosiddetta afasia di Broca, classificata tra le afasie non fluenti.
+I pazienti colpiti da afasia non fluente possono essere incapaci di formulare frasi con una struttura grammaticale complessa.
+Alcune forme di afasia legate a danni nell'area di Broca possono colpire solo determinate aree del linguaggio, come i verbi o i sostantivi.
+Nel caso di pazienti con vario grado di sordità, può essere inibita la capacità di produrre quei segni corrispondenti al messaggio che essi vogliono comunicare, pur essendo in grado di muovere mani, dita e braccia come prima.
+
+
+== Storia ==
+Nel 1861 Paul Broca riportò uno studio post mortem di un paziente afasico che era senza parole a parte una sola parola senza senso: il paziente aveva il nome di Tan. Broca dimostrò che un'area del lobo frontale sinistro era danneggiata. Poiché Tan non era in grado di produrre il discorso ma poteva ancora capirlo, Broca sostenne che quest'area poteva essere specializzata per la produzione del discorso e che le abilità linguistiche potevano essere localizzate in quest'area corticale. Broca fece uno studio simile su un altro paziente, Lelong, poche settimane dopo. Lelong, come Tan, poteva capire il discorso ma poteva ripetere solo le stesse 5 parole. Dopo aver esaminato il suo cervello, Broca notò che Lelong aveva una lesione in circa la stessa area del suo paziente Tan. Notò anche che negli oltre 25 pazienti che esaminò con afasia, tutti avevano lesioni al lobo frontale sinistro, ma non c'erano danni all'emisfero destro del cervello. Da questo concluse che la funzione del linguaggio era probabilmente localizzata nel giro frontale inferiore dell'emisfero sinistro del cervello, un'area ora conosciuta come area di Broca.
+Karl Wernicke successivamente riferì di pazienti con danni più indietro nel lobo temporale che potevano parlare ma non erano in grado di capire ciò che veniva detto loro, fornendo la prova di due centri del linguaggio potenzialmente interconnessi. Queste descrizioni cliniche furono integrate da Lichtheim in una teoria dell'organizzazione del linguaggio. 
+Successivamente, questi modelli furono usati e sviluppati da Joseph Jules Dejerine sulla lettura, Hugo Liepmann sulla teoria dell'azione, da Heinrich Lissauer sul riconoscimento degli oggetti, Max Lewandowsky & E.Stadelmann sul calcolo nel 1908-
+
+
+== Note ==
+
+
+== Bibliografia ==
+(EN)  Goodglass, H. & Geschwind, N., Language disorders. In E. Carterette and M.P. Friedman (eds.) Handbook of Perception: Language and Speech. Vol II, New York, Academic Press, 1976
+Cacciari Cristina, Psicologia del linguaggio, Bologna, il Mulino, 2011
+
+
+== Voci correlate ==
+Afasia
+Area di Wernicke
+Corteccia cerebrale
+Neuropsicologia
+Neurolinguistica
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su area di Broca
+
+
+== Collegamenti esterni ==
+
+(EN) Broca area, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

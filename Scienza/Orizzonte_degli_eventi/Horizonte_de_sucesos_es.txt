@@ -1,0 +1,749 @@
+En relatividad general, el horizonte de sucesos —u horizonte de eventos en su calco del inglés— se refiere a una hipersuperficie frontera del espacio-tiempo, tal que los acontecimientos ocurridos a un lado de ella no pueden afectar a un observador situado al otro lado.[1]​ Obsérvese que esta relación no tiene por qué ser simétrica o biyectiva, es decir, si A y B son las dos regiones del espacio tiempo en que el horizonte de sucesos divide el espacio, A puede no ser afectada por los eventos dentro de B, pero los eventos de B generalmente sí son afectados por los eventos en A. Por dar un ejemplo concreto, la luz emitida desde dentro del horizonte de sucesos jamás podría alcanzar a un observador situado fuera, pero un observador dentro podría observar los acontecimientos del exterior.[2]​ Existen diversos tipos de horizontes de sucesos, y estos pueden aparecer en diversas circunstancias. Una de ellas particularmente importante sucede en presencia de agujeros negros, aunque este no es el único tipo de horizonte de sucesos posible, existiendo además horizontes de Cauchy, horizontes de Killing, horizontes de partícula u horizontes cosmológicos.
+En 1784, John Michell propuso que la gravedad puede ser lo suficientemente fuerte en las proximidades de objetos compactos masivos como para que ni siquiera la luz pueda escapar. En aquella época dominaban la  teoría newtoniana de la gravitación y la llamada teoría corpuscular de la luz. En estas teorías, si la velocidad de escape de la influencia gravitatoria de un objeto masivo supera la velocidad de la luz, entonces la luz que se origina en su interior o a partir de él puede escapar temporalmente, pero regresará. En 1958, David Finkelstein utilizó la relatividad general para introducir una definición más estricta de un agujero negro horizonte de sucesos local como un límite más allá del cual los acontecimientos de cualquier índole no pueden afectar a un observador externo, lo que condujo a las paradojas de la información y del cortafuegos, fomentando la reexaminación del concepto de horizontes de sucesos locales y de la noción de agujeros negros. Posteriormente se desarrollaron varias teorías, algunas con y otras sin horizontes de sucesos. Uno de los principales desarrolladores de teorías para describir los agujeros negros, Stephen Hawking, sugirió que se utilizara un horizonte aparente en lugar de un horizonte de sucesos, diciendo: «El colapso gravitatorio produce horizontes aparentes pero no horizontes de sucesos». Finalmente concluyó que «la ausencia de horizontes de sucesos significa que no hay agujeros negros -en el sentido de regímenes de los que la luz no puede escapar al infinito.»[3]​[4]​
+Cualquier objeto que se acerque al horizonte desde el lado del observador parece ir más despacio, sin llegar a cruzar el horizonte.[5]​ Debido al corrimiento al rojo gravitacional, su imagen se enrojece con el tiempo a medida que el objeto se aleja del observador.[6]​
+En un universo en expansión, la velocidad de expansión alcanza -e incluso supera- la velocidad de la luz, impidiendo que las señales viajen a algunas regiones. Un horizonte de sucesos cósmico es un verdadero horizonte de sucesos porque afecta a todo tipo de señales, incluidas las ondas gravitacionales, que viajan a la velocidad de la luz.
+Otros tipos de horizonte más específicos son el absoluto y el horizonte aparente que se encuentran alrededor de un agujero negro. Otros tipos distintos incluyen:
+
+El Cauchy y el horizonte de Killing.
+La esfera fotónicas y la ergosferas de la  solución de Kerr.
+Partículas y horizonte cosmológicos relevantes para la cosmología.
+horizonte aislado y horizonte dinámico, que son importantes en la investigación actual de agujeros negros.
+
+
+== Horizonte de sucesos cosmológico ==
+En cosmología, el horizonte de sucesos del universo observable es la mayor distancia comóvil desde la que la luz emitida ahora puede alcanzar al observador en el futuro. Esto difiere del concepto de horizonte de partículas, que representa la mayor distancia comoving desde la que la luz emitida en el pasado podría alcanzar al observador en un momento dado. Para los hechos que ocurren más allá de esa distancia, la luz no ha tenido tiempo suficiente para llegar a nuestro lugar, incluso si fue emitida en el momento en que comenzó el universo. La evolución del horizonte de partículas con el tiempo depende de la naturaleza de la expansión del universo. Si la expansión tiene ciertas características, algunas partes del universo nunca serán observables, por mucho que el observador espere a que llegue la luz de esas regiones. El límite más allá del cual los sucesos no pueden observarse nunca es un horizonte de sucesos, y representa la extensión máxima del horizonte de partículas.
+El criterio para determinar si existe un horizonte de partículas para el universo es el siguiente. Definir una distancia comóvil dp como
+
+  
+    
+      
+        
+          d
+          
+            p
+          
+        
+        =
+        
+          ∫
+          
+            0
+          
+          
+            
+              t
+              
+                0
+              
+            
+          
+        
+        
+          
+            c
+            
+              a
+              (
+              t
+              )
+            
+          
+        
+        
+        d
+        t
+        .
+      
+    
+    {\displaystyle d_{p}=\int _{0}^{t_{0}}{\frac {c}{a(t)}}\,dt.}
+  
+
+En esta ecuación, a es el factor de escala, c es la velocidad de la luz, y t0 es la edad del Universo. Si dp → ∞ (es decir, puntos arbitrariamente tan alejados como se pueda observar), entonces no existe horizonte de sucesos. Si dp ≠ ∞, existe un horizonte.
+Ejemplos de modelos cosmológicos sin horizonte de sucesos son los universos dominados por materia o por radiación. Un ejemplo de modelo cosmológico con horizonte de sucesos es un universo dominado por la constante cosmológica (un Espacio-tiempo de De Sitter).
+Un cálculo de las velocidades de los horizontes cosmológicos de sucesos y de partículas se dio en un artículo sobre el modelo cosmológico FLRW, aproximando el Universo como compuesto de constituyentes que no interactúan, siendo cada uno un fluido perfecto.[7]​[8]​
+
+
+=== Horizonte aparente de una partícula acelerada ===
+
+Si una partícula se mueve a velocidad constante en un universo sin campos gravitatorios, cualquier suceso que acontezca en ese universo será observable por la partícula, porque los conos de luz de esos sucesos se cruzan con la línea del mundo de la partícula. Por otro lado, si la partícula está acelerando, en algunas situaciones los conos de luz de algunos sucesos nunca se cruzan con la línea del mundo de la partícula. Bajo estas condiciones, un horizonte aparente está presente en el marco de referencia (aceleración) de la partícula, lo que representa un límite más allá del cual los eventos son inobservables.
+Por ejemplo, esto ocurre con una partícula uniformemente acelerada. En la figura de la derecha se muestra un diagrama espaciotemporal de esta situación. A medida que la partícula acelera, se aproxima, pero nunca alcanza, la velocidad de la luz con respecto a su sistema de referencia original. En el diagrama espaciotiempo, su trayectoria es una hipérbola, que se aproxima asintóticamente a una recta de 45 grados (la trayectoria de un rayo de luz). Un suceso cuyo borde del cono de luz es esta asíntota o está más lejos que esta asíntota nunca puede ser observado por la partícula que acelera. En el sistema de referencia de la partícula, hay un límite detrás de ella del que no puede escapar ninguna señal (un horizonte aparente). La distancia a esta frontera viene dada por 
+  
+    
+      
+        
+          c
+          
+            2
+          
+        
+        
+          /
+        
+        a
+      
+    
+    {\displaystyle c^{2}/a}
+  
+, donde a es la constante de aceleración propia de la partícula.
+Aunque en el mundo real pueden darse aproximaciones de este tipo (en aceleradores de partículas, por ejemplo), nunca se da un verdadero horizonte de sucesos, ya que para ello es necesario acelerar la partícula indefinidamente (lo que requiere cantidades arbitrariamente grandes de energía y un aparato arbitrariamente grande).
+
+
+== Horizonte de sucesos de un agujero negro rotativo ==
+El horizonte de sucesos es una superficie imaginaria de forma esférica que rodea a un agujero negro, en la cual la velocidad de escape necesaria para alejarse del mismo coincide con la velocidad de la luz. Por ello, ninguna cosa dentro de él, incluyendo los fotones, puede escapar debido a la atracción de un campo gravitatorio extremadamente intenso.
+Las partículas del exterior que «caen» dentro de esta región nunca vuelven a salir, ya que para hacerlo necesitarían una velocidad de escape superior a la de la luz y, hasta el momento, la teoría indica que nada puede superarla.[9]​
+Por tanto, no existe modo de observar el interior del horizonte de sucesos, ni de transmitir información hacia el exterior. Esta es la razón por la cual los agujeros negros no tienen características externas visibles de ningún tipo, que permitan determinar su estructura interior o su contenido, siendo imposible establecer en qué estado se encuentra la materia desde que rebasa el horizonte de sucesos hasta que colapsa en el centro del agujero negro.
+Si cayéramos en un agujero negro, en el momento de atravesar el horizonte de sucesos no notaríamos ningún cambio, ya que no se trata de una superficie material, sino de una frontera imaginaria, alejada de la zona central donde se concentra la masa. La característica peculiar de esta frontera es que representa el punto de no retorno, a partir del cual no puede existir otro suceso más que caer hacia el interior, dando así origen al nombre de esta superficie.
+Al incluir efectos cuánticos en el horizonte de sucesos, se hace posible la emisión de radiación por parte del agujero negro debido a las fluctuaciones del vacío que dan origen a la denominada: «radiación de Hawking».
+
+
+== Horizonte de un observador acelerado ==
+Otro tipo de horizonte diferente es el que ve un observador uniformemente acelerado. Para caracterizar este tipo de horizonte necesitamos introducir las coordenadas de Rindler para el espacio-tiempo de Minkowski. Partiendo de las coordenadas cartesianas la métrica de dicho espacio-tiempo:
+
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+        =
+        −
+        d
+        
+          T
+          
+            2
+          
+        
+        +
+        d
+        
+          X
+          
+            2
+          
+        
+        +
+        d
+        
+          Y
+          
+            2
+          
+        
+        +
+        d
+        
+          Z
+          
+            2
+          
+        
+        ,
+        
+        
+        −
+        ∞
+        <
+        T
+        ,
+        X
+        ,
+        Y
+        ,
+        Z
+        <
+        ∞
+      
+    
+    {\displaystyle ds^{2}=-dT^{2}+dX^{2}+dY^{2}+dZ^{2},\;\;-\infty <T,X,Y,Z<\infty }
+  
+
+Consideremos ahora la región conocida como «cuña de Rindler», dada por el conjunto de puntos que verifican:
+
+  
+    
+      
+        
+          
+            
+              R
+            
+          
+          
+            R
+            i
+            n
+            d
+          
+        
+        =
+        {
+        (
+        T
+        ,
+        X
+        ,
+        Y
+        ,
+        Z
+        )
+        ∈
+        
+          
+            R
+          
+          
+            4
+          
+        
+        
+          |
+        
+        0
+        <
+        X
+        <
+        ∞
+        ,
+        
+        −
+        X
+        <
+        T
+        <
+        X
+        }
+      
+    
+    {\displaystyle {\mathcal {R}}_{Rind}=\{(T,X,Y,Z)\in \mathbb {R} ^{4}|0<X<\infty ,\;-X<T<X\}}
+  
+
+Y definamos sobre ella un cambio de coordenadas dado por:
+
+  
+    
+      
+        t
+        =
+        arctanh
+        ⁡
+        (
+        T
+        
+          /
+        
+        X
+        )
+        ,
+        
+        x
+        =
+        
+          
+            
+              X
+              
+                2
+              
+            
+            −
+            
+              T
+              
+                2
+              
+            
+          
+        
+        ,
+        
+        y
+        =
+        Y
+        ,
+        
+        z
+        =
+        Z
+      
+    
+    {\displaystyle t=\operatorname {arctanh} (T/X),\;x={\sqrt {X^{2}-T^{2}}},\;y=Y,\;z=Z}
+  
+
+Cuya transformación inversa viene dada por:
+
+  
+    
+      
+        T
+        =
+        x
+        
+        sinh
+        ⁡
+        (
+        t
+        )
+        ,
+        
+        X
+        =
+        x
+        
+        cosh
+        ⁡
+        (
+        t
+        )
+        ,
+        
+        Y
+        =
+        y
+        ,
+        
+        Z
+        =
+        z
+      
+    
+    {\displaystyle T=x\,\sinh(t),\;X=x\,\cosh(t),\;Y=y,\;Z=z}
+  
+
+Usando estas coordenadas la cuña de Rindler del espacio de Minkowski tiene una métrica expresada en las nuevas coordenadas dada por la expresión:
+
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+        =
+        −
+        
+          x
+          
+            2
+          
+        
+        d
+        
+          t
+          
+            2
+          
+        
+        +
+        d
+        
+          x
+          
+            2
+          
+        
+        +
+        d
+        
+          y
+          
+            2
+          
+        
+        +
+        d
+        
+          z
+          
+            2
+          
+        
+        ,
+        
+        0
+        <
+        x
+        <
+        ∞
+        ,
+        −
+        ∞
+        <
+        t
+        ,
+        y
+        ,
+        z
+        <
+        ∞
+      
+    
+    {\displaystyle ds^{2}=-x^{2}dt^{2}+dx^{2}+dy^{2}+dz^{2},\;0<x<\infty ,-\infty <t,y,z<\infty }
+  
+
+Esta métrica tiene una singularidad aparente en 
+  
+    
+      
+        x
+        =
+        0
+      
+    
+    {\displaystyle x=0}
+  
+, donde el tensor expresado en las coordenas de Rindler tiene un determinante que se anula. Esto sucede porque en 
+  
+    
+      
+        x
+        →
+        0
+      
+    
+    {\displaystyle x\rightarrow 0}
+  
+ la aceleración asociada al observador se hace infinita. En estas coordenadas el horizonte de Rindler es precisamente la frontera de la cuña de Rindler. Es interesante que puede demostrarse que este horizonte es análogo en muchos aspectos al horizonte de sucesos de un agujero negro.
+
+
+== Horizonte en el universo observable ==
+El límite del universo observable es una hipersuperficie que constituye la barrera de lo que puede ser observado en cada instante de tiempo, más allá existirían partículas cuya luz todavía no ha tenido tiempo de alcanzarnos, debido a que la edad del universo es finita (ver Big Bang). Todo acaecimiento actual o pasado situado tras el horizonte de sucesos, no forma parte del universo observable actual (aunque puede ser visible en el futuro cuando las señales luminosas procedentes de ellos alcancen nuestra posición futura).
+La forma en que este horizonte del universo observable cambia según la naturaleza de la expansión del universo. Si la expansión tiene ciertas características, que no serán nunca observables, por ejemplo, sin importar cuanto tiempo transcurra (eso pasa en cierto tipo de expansión acelerada, por ejemplo). La frontera pasada de los eventos que nunca podrán ser observados es propiamente un horizonte de sucesos denominado «horizonte de sucesos de partícula».
+El criterio para determinar si el horizonte de sucesos del universo es diferente del vacío es el siguiente, defínase una distancia comóvil 
+  
+    
+      
+        
+          d
+          
+            E
+          
+        
+      
+    
+    {\displaystyle d_{E}}
+  
+ mediante la expresión:
+
+  
+    
+      
+        
+          d
+          
+            E
+          
+        
+        =
+        
+          ∫
+          
+            
+              t
+              
+                0
+              
+            
+          
+          
+            ∞
+          
+        
+        
+          
+            c
+            
+              a
+              (
+              t
+              )
+            
+          
+        
+        d
+        t
+         
+        .
+      
+    
+    {\displaystyle d_{E}=\int _{t_{0}}^{\infty }{\frac {c}{a(t)}}dt\ .}
+  
+
+En esta ecuación, a(t) es el factor de escala, c es la velocidad de la luz y t0 es la edad actual del universo. Si 
+  
+    
+      
+        
+          d
+          
+            E
+          
+        
+        →
+        ∞
+      
+    
+    {\displaystyle d_{E}\rightarrow \infty }
+  
+, es decir, los puntos arbitrariamente lejanos pueden ser observados, entonces el horizonte de sucesos es vacío. Si 
+  
+    
+      
+        
+          d
+          
+            E
+          
+        
+        ≠
+        ∞
+      
+    
+    {\displaystyle d_{E}\neq \infty }
+  
+ entonces existirá un horizonte de sucesos.
+Ejemplos de modelos cosmológicos sin horizonte de sucesos son los modelos de universos dominados por materia o por radiación. Un ejemplo de modelo cosmológico con horizonte de sucesos es un universo dominado por la constante cosmológica, como por ejemplo un Universo de De Sitter.
+
+
+== Topología ==
+El estudio de la causalidad en relatividad general se lleva a cabo siguiendo un enfoque topológico, así un horizonte de sucesos futuro o pasado puede caracterizarse como el conjunto de puntos de la clausura topológica del dominio de dependencia de una hipersuperficie lumínica situada en el «infinito» que no pertenecen al pasado o futuro cronológico de dicho dominio. Conviene aclarar que cuando se dice que una hipersuperficie está ubicada en el «infinito» se quiere decir que está situada sobre los puntos del diagrama conforme de Penrose que representa el espacio-tiempo, en signos los horizontes de eventos pasado 
+  
+    
+      
+        
+          H
+          
+            −
+          
+        
+        (
+        
+          
+            
+              S
+            
+          
+          
+            L
+          
+        
+        )
+      
+    
+    {\displaystyle H^{-}({\mathcal {S}}_{L})}
+  
+ y futuro 
+  
+    
+      
+        
+          H
+          
+            +
+          
+        
+        (
+        
+          
+            
+              S
+            
+          
+          
+            L
+          
+        
+        )
+      
+    
+    {\displaystyle H^{+}({\mathcal {S}}_{L})}
+  
+ de una hipersuperficie lumínica 
+  
+    
+      
+        
+          
+            
+              S
+            
+          
+          
+            L
+          
+        
+      
+    
+    {\displaystyle {\mathcal {S}}_{L}}
+  
+vienen dados por:
+
+  
+    
+      
+        
+          H
+          
+            −
+          
+        
+        (
+        
+          
+            
+              S
+            
+          
+          
+            L
+          
+        
+        )
+        =
+        
+          
+            
+              
+                D
+                
+                  −
+                
+              
+              (
+              
+                
+                  
+                    S
+                  
+                
+                
+                  L
+                
+              
+              )
+            
+            ¯
+          
+        
+        −
+        
+          I
+          
+            +
+          
+        
+        (
+        
+          D
+          
+            −
+          
+        
+        (
+        
+          
+            
+              S
+            
+          
+          
+            L
+          
+        
+        )
+        )
+        
+        
+          H
+          
+            +
+          
+        
+        (
+        
+          
+            
+              S
+            
+          
+          
+            L
+          
+        
+        )
+        =
+        
+          
+            
+              
+                D
+                
+                  +
+                
+              
+              (
+              
+                
+                  
+                    S
+                  
+                
+                
+                  L
+                
+              
+              )
+            
+            ¯
+          
+        
+        −
+        
+          I
+          
+            −
+          
+        
+        (
+        
+          D
+          
+            +
+          
+        
+        (
+        
+          
+            
+              S
+            
+          
+          
+            L
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle H^{-}({\mathcal {S}}_{L})={\overline {D^{-}({\mathcal {S}}_{L})}}-I^{+}(D^{-}({\mathcal {S}}_{L}))\qquad H^{+}({\mathcal {S}}_{L})={\overline {D^{+}({\mathcal {S}}_{L})}}-I^{-}(D^{+}({\mathcal {S}}_{L}))}
+  
+
+Donde la definición de los signos que aparecen es la misma usada en glosario de relatividad.
+
+
+== Véase también ==
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Schwarzschild, Karl (13 de enero de 1916). «Sobre el Campo Gravitacional de un Punto de Masa según la Teoría Einsteniana». Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften: 189-196.  (Texto en español)

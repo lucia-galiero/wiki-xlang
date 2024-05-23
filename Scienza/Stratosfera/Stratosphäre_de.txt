@@ -1,0 +1,31 @@
+Die Stratosphäre (von lateinisch strātum, „Decke“ und altgriechisch σφαῖρα sphaîra, „Kugel“, Aussprache ʃtrato oder strato) ist die zweite Schicht der Erdatmosphäre. Sie beginnt über der ersten Schicht, der Troposphäre, und endet unter der dritten Schicht, der Mesosphäre. 
+Der Grenzbereich zwischen Stratosphäre und Troposphäre wird als Tropopause bezeichnet. Diese liegt in einer Höhe zwischen ungefähr 8 Kilometern an den geografischen Polen und circa 18 km am Äquator. Der Grenzbereich zwischen der Stratosphäre und der Mesosphäre wird Stratopause genannt, die in etwa 50 km Höhe liegt. 
+Die Stratosphäre ist auch ein Teil der Homosphäre.
+
+
+== Charakteristik ==
+
+In der Troposphäre ist die Luftzirkulation mit ihren adiabatischen Eigenschaften bestimmend für den Temperaturverlauf. In den Schichten darüber tritt die Bedeutung der Konvektion zurück und das Strahlungsgleichgewicht ist bestimmend.
+In der Stratosphäre nimmt die Temperatur im Mittel mit steigender Höhe zu. Dieser inverse (im Vergleich zur Troposphäre) Temperaturverlauf wird hauptsächlich durch das in der Stratosphäre befindliche Ozon verursacht, das UV-Strahlung aus dem Sonnenlicht absorbiert und dabei elektromagnetische Strahlung in Wärme umwandelt. Am stärksten ist die Aufheizung im Bereich der Ozonschicht, dort steigt die Temperatur von ca. −60 °C bis auf knapp unter 0 °C an. Dieser Bereich ist die Stratosphäre im engeren Sinne, darüber fällt die Temperatur mit der Höhe wieder ab. Aber nie wieder wird ein adiabatischer Temperaturabfall erreicht.
+Durch die niedrige Temperatur an der Tropopause kondensiert atmosphärischer Wasserdampf dort fast vollständig. Aus diesem Grund ist die stratosphärische Luft darüber sehr trocken. Wetter­phänomene lassen sich daher in der Stratosphäre kaum beobachten. Polare Stratosphärenwolken als Ausnahme bilden sich dagegen nur unter den extrem kalten Bedingungen der Polarnacht. Leuchtende Nachtwolken sogar noch über der Stratosphäre in der Mesosphäre sind eine weitere Ausnahme.
+
+
+== Erforschung ==
+Das Vorhandensein einer Temperaturinversion und damit der Stratosphäre wurde – ebenso wie die Tropopause – im Jahr 1902 von dem französischen Meteorologen Léon-Philippe Teisserenc de Bort und dem Deutschen Richard Aßmann veröffentlicht. 1931 stieg Auguste Piccard als erster Mensch mit einem Ballon in einer Kapsel mit Druckkabine auf etwa 15.800 Meter. Der bemannte russische Stratosphärenballon CCCP-1 (UdSSR-1) stieg 1934 auf über 19.000 Meter.
+Sie ist auch mit Forschungsflugzeugen wie der Mjassischtschew M-55 „Geophysika“ oder der „ER-2“-Spezialausführung der Lockheed U-2 untersucht worden. Im Juli 2010 begann das in Oberpfaffenhofen stationierte HALO, eine Entwicklung auf Basis der Gulfstream G550, wissenschaftliche Flüge.
+2010 wurde auch das Cranfield Astrobiological Stratospheric Sampling Experiment (CASS-E) gestartet, das mit einer Ballonsonde Proben aus der Stratosphäre sammelt, die dann nach möglicherweise existierenden extraterrestrischen Mikroorganismen untersucht werden.
+
+
+== Stratosphäre im weiteren Sinne ==
+Entsprechend der Strahlungstransportgleichung ist die äußere Schicht jeder Gashülle (Sonne, Venus, Erde, Mars) eine Stratosphäre im weiteren Sinne, die in weitere Stockwerke unterteilt werden kann. Diesen Stockwerkaufbau von Atmosphären erkannte 1906 schon Karl Schwarzschild.
+
+
+== Literatur ==
+David DeVorkin: Race to the Stratosphere. Manned Scientific Ballooning in America. Springer, Berlin 1989, ISBN 3-540-96953-5.
+Karin Labitzke: Die Stratosphäre. Springer, Berlin 1998, ISBN 3-540-65000-8.
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

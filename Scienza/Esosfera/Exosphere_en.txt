@@ -1,0 +1,227 @@
+The exosphere (Ancient Greek: ἔξω éxō "outside, external, beyond", Ancient Greek: σφαῖρα sphaĩra "sphere") is a thin, atmosphere-like volume surrounding a planet or natural satellite where molecules are gravitationally bound to that body, but where the density is so low that the molecules are essentially collision-less. In the case of bodies with substantial atmospheres, such as Earth's atmosphere, the exosphere is the uppermost layer, where the atmosphere thins out and merges with outer space. It is located directly above the thermosphere. Very little is known about it due to a lack of research. Mercury, the Moon, Ceres, Europa, and Ganymede have surface boundary exospheres, which are exospheres without a denser atmosphere underneath. The Earth's exosphere is mostly hydrogen and helium, with some heavier atoms and molecules near the base.
+
+
+== Surface boundary exosphere ==
+Mercury, Ceres and several large natural satellites, such as the Moon, Europa, and Ganymede, have exospheres without a denser atmosphere underneath, referred to as a surface boundary exosphere.  Here, molecules are ejected on elliptic trajectories until they collide with the surface. Smaller bodies such as asteroids, in which the molecules emitted from the surface escape to space, are not considered to have exospheres. 
+
+
+== Earth's exosphere ==
+
+The most common molecules within Earth's exosphere are those of the lightest atmospheric gases. Hydrogen is present throughout the exosphere, with some helium, carbon dioxide, and atomic oxygen near its base. Because it can be hard to define the boundary between the exosphere and outer space, the exosphere may be considered a part of the interplanetary medium or outer space.
+Earth's exosphere produces Earth's geocorona.
+
+
+=== Lower boundary ===
+
+The lower boundary of the exosphere is called the thermopause or exobase. It is also called the critical altitude, as this is the altitude where barometric conditions no longer apply. Atmospheric temperature becomes nearly a constant above this altitude. On Earth, the altitude of the exobase ranges from about 500 to 1,000 kilometres (310 to 620 mi) depending on solar activity.
+The exobase can be defined in one of two ways:
+If we define the exobase as the height at which upward-traveling molecules experience one collision on average, then at this position the mean free path of a molecule is equal to one pressure scale height. This is shown in the following. Consider a volume of air, with horizontal area 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ and height equal to the mean free path 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  
+, at pressure 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ and temperature 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+. For an ideal gas, the number of molecules contained in it is:
+
+  
+    
+      
+        N
+        =
+        
+          
+            
+              p
+              A
+              l
+            
+            
+              
+                k
+                
+                  B
+                
+              
+              T
+            
+          
+        
+      
+    
+    {\displaystyle N={\frac {pAl}{k_{B}T}}}
+  
+
+where 
+  
+    
+      
+        
+          k
+          
+            B
+          
+        
+      
+    
+    {\displaystyle k_{B}}
+  
+ is the Boltzmann constant. From the requirement that each molecule traveling upward undergoes on average one collision, the pressure is:
+
+  
+    
+      
+        p
+        =
+        
+          
+            
+              
+                m
+                
+                  A
+                
+              
+              N
+              g
+            
+            A
+          
+        
+      
+    
+    {\displaystyle p={\frac {m_{A}Ng}{A}}}
+  
+
+where 
+  
+    
+      
+        
+          m
+          
+            A
+          
+        
+      
+    
+    {\displaystyle m_{A}}
+  
+ is the mean molecular mass of the gas. Solving these two equations gives:
+
+  
+    
+      
+        l
+        =
+        
+          
+            
+              
+                k
+                
+                  B
+                
+              
+              T
+            
+            
+              
+                m
+                
+                  A
+                
+              
+              g
+            
+          
+        
+      
+    
+    {\displaystyle l={\frac {k_{B}T}{m_{A}g}}}
+  
+
+which is the equation for the pressure scale height. As the pressure scale height is almost equal to the density scale height of the primary constituent, and because the Knudsen number is the ratio of mean free path and typical density fluctuation scale, this means that the exobase lies in the region where 
+  
+    
+      
+        
+          K
+          n
+        
+        (
+        
+          h
+          
+            E
+            B
+          
+        
+        )
+        ≃
+        1
+      
+    
+    {\displaystyle \mathrm {Kn} (h_{EB})\simeq 1}
+  
+.
+The fluctuation in the height of the exobase is important because this provides atmospheric drag on satellites, eventually causing them to fall from orbit if no action is taken to maintain the orbit.
+
+
+=== Upper boundary ===
+
+In principle, the exosphere covers distances where particles are still gravitationally bound to Earth, i.e. particles still have ballistic orbits that will take them back towards Earth. The upper boundary of the exosphere can be defined as the distance at which the influence of solar radiation pressure on atomic hydrogen exceeds that of Earth's gravitational pull. This happens at half the distance to the Moon or somewhere in the neighborhood of 200,000 kilometres (120,000 mi). The exosphere, observable from space as the geocorona, is seen to extend to at least 100,000 kilometres (62,000 mi) from Earth's surface.
+Other scientists consider the exosphere to end at around 10,000 kilometres (6,200 mi).
+
+
+== Exosphere of other celestial bodies ==
+If the atmosphere of a celestial body is very tenuous, like the atmosphere of the Moon or that of Mercury, the whole atmosphere is considered exosphere.
+
+
+=== The Exosphere of Mercury ===
+Many hypotheses exist about the formation of the surface boundary exosphere of Mercury, which has been noted to include elements such as sodium (Na), potassium (K), and calcium (Ca). Each material has been suggested as a result of processes such as impacts, solar wind, and degassing from the terrestrial body that cause the atoms or molecules to form the planet’s exosphere.
+Meteoroids have been reported to commonly impact the surface of Mercury at speeds ranging up to 80 km/s, which are capable of causing vaporization of both the meteor and surface regolith upon contact. These expulsions can result in clouds of mixed materials due to the force of the impact, which are capable of transporting gaseous materials and compounds to Mercury’s exosphere. During the impact, the former elements of the colliding bodies are mostly devolved into atoms rather than molecules that can then be reformed during a cooling, quenching process. Such materials have been observed as Na, NaOH, and O2. However, it is theorized that, though different forms of sodium have been released into the Mercury exosphere via meteor impact, it is a small driver for the concentration of both sodium and potassium atoms overall. Calcium is more likely to be a result of impacts, though its transport is thought to be completed through photolysis of its former oxides or hydroxides rather than atoms released during the moment of impact such as sodium, potassium, and iron (Fe).  
+Another possible method of the exosphere formation of Mercury is due to its unique magnetosphere and solar wind relationship. The magnetosphere of this celestial body is hypothesized to be an incomplete shield from the weathering of solar wind. If accurate, there are openings in the magnetosphere in which solar wind is able to surpass the magnetosphere, reach the body of Mercury, and sputter the components of the surface that become possible sources of material in the exosphere. The weathering is capable of eroding the elements, such as sodium, and transporting them to the atmosphere. However, this occurrence is not constant, and it is unable to account for all atoms or molecules of the exosphere.
+
+
+== See also ==
+Aeronomy
+Extraterrestrial atmospheres
+Extraterrestrial skies
+List of natural satellites
+
+
+== References ==
+
+
+== Further reading ==
+Prölss, Gerd W. (2012) [2004]. Physics of the Earth's Space Environment: An Introduction. Translated by Michael Keith Bird. Springer. ISBN 978364297123-5. OCLC 942901197.

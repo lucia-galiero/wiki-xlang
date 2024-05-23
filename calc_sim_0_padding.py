@@ -9,7 +9,7 @@ from tqdm.auto import tqdm
 
 # Scarica il modello BERT LaBSE
 tokenizer_labse = BertTokenizer.from_pretrained("sentence-transformers/LaBSE")
-model = BertModel.from_pretrained("sentence-transformers/LaBSE")
+model = BertModel.from_pretrained("sentence-transformers/LaBSE", device_map = 'cuda')
 
 # Funzione per dividere i testi in frasi utilizzando il tokenizer di NLTK
 def split_into_sentences(text):
@@ -17,6 +17,7 @@ def split_into_sentences(text):
 
 def get_labse_embedding(sentences):
     tokens = tokenizer_labse(sentences, return_tensors='pt', padding=True, truncation=True)
+    tokens = {k: tokens[k].to('cuda') for k in tokens.keys()}
     with torch.no_grad():
         outputs = model(**tokens)
     return outputs.last_hidden_state.mean(dim=1).squeeze()
@@ -54,7 +55,7 @@ def process_subdirectory(directory):
         pad_length = (max_sentences - len(sentences)) # troviamo la lunghezza di padding
         pad_list = [zero_tensor] * pad_length # costruiamo la lista non-tensor di tensori
         if pad_list:
-            pad_tensor = torch.vstack(pad_list) # se la lista ha elementi creiamo il tensore (vstack non funziona con liste vuote)
+            pad_tensor = torch.vstack(pad_list).to('cuda') # se la lista ha elementi creiamo il tensore (vstack non funziona con liste vuote)
             embeddings_by_language[language] = torch.vstack([sentence_embeddings, pad_tensor]) # facciamo lo stack verticale (vstack appunto) degli embeddings e dei 0-tensors
         else:
             embeddings_by_language[language] = sentence_embeddings # se la lista è vuota mettiamo solo gli embedding nel dizionario 'embeddings_by_language'
@@ -67,7 +68,7 @@ def process_subdirectory(directory):
         lang1 = languages[i]
         for j in range(i + 1, len(languages)):
             lang2 = languages[j]
-            similarity = calculate_cosine_similarity(embeddings_by_language[lang1], embeddings_by_language[lang2])
+            similarity = calculate_cosine_similarity(embeddings_by_language[lang1].cpu(), embeddings_by_language[lang2].cpu())
             for k in range(similarity.shape[0]):
                 for l in range(similarity.shape[1]):
                     if k < len(sentences_by_language[lang1]) and l < len(sentences_by_language[lang2]):

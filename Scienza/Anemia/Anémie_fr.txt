@@ -1,0 +1,146 @@
+L'anémie, du grec ἀναιμία / anaimía (formé du privatif ἀν / an- et du mot grec ancien αἱμός / haimós, « sang »), est une anomalie de l'hémogramme caractérisée par une diminution du taux d'hémoglobine sous sa valeur normale. Ce manque entraîne un mauvais transport par le sang du dioxygène et cause notamment une pâleur de la peau et des muqueuses.
+Elle est diagnostiquée par la numération de la formule sanguine, examen effectué sur une prise de sang. Elle peut avoir pour cause une destruction des hématies (hémolyse) ou une perte de sang (hémorragie), on parle alors d'anémie périphérique ou régénérative. Mais elle peut aussi être due à une diminution de la production d'hémoglobine, on parle alors d'anémie centrale ou non régénérative.
+Toute baisse associée des thrombocytes ou des leucocytes, réalise alors un tableau de bicytopénie ou de pancytopénie.
+
+
+== Signes et symptômes ==
+
+Les signes et symptômes communs à toutes les anémies sont :
+
+la pâleur cutanée (qui n'est pas toujours évidente et à laquelle le patient et sa famille s'habituent si l'anémie s'installe très progressivement). La pâleur des muqueuses et tout particulièrement des conjonctives est plus évidente. L'observation de l'intérieur de la paupière inférieure est utilisée pour dépister une anémie. Chez les animaux couverts de plumes, de poils ou d'écailles, l'anémie n'est visible que sur les muqueuses apparentes ;
+une coloration bleutée des sclérotiques peut être mise en évidence dans les anémies par carence martiale,,, ;
+la tachycardie qui permet, au début, de maintenir une oxygénation correcte des tissus lorsque l'hémoglobine est basse en augmentant le débit cardiaque. Elle survient d'abord à l'effort (montée des escaliers) puis elle devient permanente au repos ;
+la dyspnée à type de polypnée a le même rôle ;
+les signes neurosensoriels témoignent d'une anémie plus marquée induisant un déficit d'oxygénation de l'encéphale. Ces signes sont des céphalées volontiers pulsatiles ; des acouphènes ou bourdonnements d'oreilles ; des phosphènes ou « mouches volantes » ou « papillons » devant les yeux ; des faux vertiges en particulier lors du passage à la station debout voire des lipothymies ;
+l'asthénie ou fatigue est plus tardive même si elle est fréquemment signalée, car la cause la plus fréquente des anémies est une carence profonde en fer. Or le fer intervient également au niveau de la myoglobine qui est la protéine de base des muscles avec alors une fatigabilité à la marche. Le fer intervient également au niveau de certains cytochromes d'où cette asthénie fréquente et précoce dans les anémies dites ferriprives par carence en fer ;
+des troubles du cycle menstruel chez la femme (durée du cycle irrégulier ou d'une durée anormale, dysménorrhée, syndrome prémenstruel) ;
+lorsque l'anémie est très profonde ou d’installation rapide, un coma réalisant un tableau de choc hémorragique, pouvant entraîner la mort.
+L'anémie peut également aggraver des états cardiovasculaires préexistants : décompensation d'une insuffisance cardiaque ou d'une artérite des membres inférieurs. Enfin, si l'anémie est profonde et brutale, elle peut induire un tableau de type angine de poitrine pouvant conduire le patient en réanimation cardiaque. Ce tableau mime une crise d'angor voire un infarctus mais dans ce cas les artères coronaires sont radiologiquement normales. Une anémie peut bien sûr également décompenser une insuffisance coronarienne préexistante.
+À l'auscultation cardiaque, on peut retrouver un souffle fonctionnel (c'est-à-dire sans anomalie cardiaque sous-jacente). En effet, la baisse du nombre de globules rouges dans le sang entraîne une baisse de la viscosité du sang. Le flux normalement laminaire dans le cœur devient turbulent et crée donc un souffle cardiaque réversible après correction de l'anémie.
+La tolérance de l'anémie, dont découle l'indication de transfusions sanguines dépend de plusieurs facteurs : son niveau, le degré de diminution du taux de l'hémoglobine, la vitesse de baisse de ce dernier (une anémie chronique est beaucoup mieux tolérée qu'une anémie aiguë), la présence d'autres maladies, en particulier cardio-vasculaire (limitation de la tolérance). Ainsi un taux d'hémoglobine peut parfois descendre jusqu'à 3 g/dl, le risque de mortalité se majorant toutefois en deçà de 7 g/dl.
+
+
+== Causes et mécanismes ==
+Les anémies sont classées en plusieurs familles selon le mécanisme de l'anémie :
+
+
+=== Anémie centrale arégénérative ===
+Il existe un défaut de production de l'hémoglobine, le taux de réticulocytes est diminué. On distingue 3 groupes selon la taille des hématies.
+
+
+==== Anémie microcytaire ====
+La taille des hématies (volume globulaire moyen) est inférieure à la norme. Les principales causes sont le manque de fer (dite carence martiale ou anémie ferriprive) ; une Inflammation chronique, un syndrome thalassémique et le saturnisme (le plomb empêche la fixation de l'oxygène sur l'hémoglobine).
+
+
+==== Anémie normocytaire ====
+La taille des hématies (volume globulaire moyen) est normale. Les principales causes sont une inflammation chronique ; une insuffisance rénale chronique ; une maladie hépatique; une maladie thyroïdienne ; une érythroblastopénie ; un cancer hématologique (leucémie, myélome…) ; un effet secondaire d'une irradiation.
+
+
+==== Anémie macrocytaire ====
+La taille des hématies (Volume globulaire moyen) est supérieure à la norme. Les principales causes sont l'hypothyroïdie ; une insuffisance rénale ; une cirrhose ; l'alcoolisme chronique ; des médicaments toxiques ; une carence en vitamine b12 ou en folate (anémie mégaloblastique) et un syndrome myélodysplasique.
+
+
+=== Anémie périphérique régénérative ===
+La production est normale voire augmentée. Le taux de réticulocytes est élevé. Les principales causes sont une régénération médullaire (post-chimiothérapie) ; une anémie aigüe ; toute cause d'hémolyse : anémie hémolytique immunologique, mécanique, toxique, congénitale.
+Il peut s'agir de causes extra-corpusculaires immunologiques telles que la maladie hémolytique du nouveau-né ou d'une cause auto-immune telle qu'une immuno-allergie (médicaments). Les causes extra-corpusculaires immunologiques peuvent être également d'ordre mécanique (valves cardiaques) ou toxique.
+Les causes corpusculaires, lorsque le globule est détruit à cause de sa fragilité et qui peuvent être liées à l'hémoglobine sont la drépanocytose (anémie falciforme) Hémoglobine S anormale et la thalassémie, un défaut de synthèse de l'hémoglobine. Celles qui peuvent être liées à la membrane incluent la maladie de Minkowski-Chauffard.
+
+
+=== Rôle de la vasopressine ===
+L'arginine-vasopressine (AVP), produite par les neurones hypothalamiques contient l'hormone vasopressine dite « antidiurétique » car connue pour  contrôler la rétention d'eau et l'équilibre hydrique du corps. Mais on lui a récemment découvert d’autres fonctions, dont la stimulation de la maturation des globules rouges : chez les victimes du diabète insipide central (très souvent anémiques), tout comme chez le rat-modèle de laboratoire génétiquement privé de vasopressine, on a montré que cette hormone agit de concert avec l'érythropoïétine mais plus rapidement. On savait que l'érythropoïétine stimule la production de globules rouges synthétisés à partir de progéniteurs précoces (ce qui prend un certain temps). On sait maintenant qu'en outre la vasopressine favorise et accélère la maturation des globules rouges. Ceci contribue à  reconstituer plus rapidement le stock de sang après une hémorragie, sans empêcher des globules stimulés par l'érythropoïétine de continuer à mûrir normalement). 
+Trois récepteurs de l'AVP sont exprimés dans des cellules souches et progénitrices hématopoïétiques humaines et murines : l'AVPR1B semble être le plus important dans la régulation de l'érythropoïèse.
+
+
+=== Autre ===
+Une dérégulation de l'hepcidine peut être en cause.
+
+
+== Épidémiologie ==
+L'anémie touche 46 % des gens en Afrique, 57 % des gens en Asie du Sud, 45 % des gens en Méditerranée orientale, 38 % des gens dans le Pacifique occidental. Dans le monde, 30 % des femmes âgées entre 15 et 49 ans sont anémiques.
+
+
+== Exploration d'une anémie ==
+Il est important de mentionner que le nombre de globules rouges et le taux d'hémoglobine sont naturellement plus bas chez la femme et l'enfant que chez l'homme (à cause de son imprégnation androgénique).
+Le nombre d'hématies est normalement de 4,5  à   5,5×106 par millimètre cube chez l'homme adulte et de 3,9  à   5,0×106 par millimètre cube chez la femme adulte et l'enfant.
+Chez la femme enceinte, il y a une hémodilution physiologique de l'hémoglobine, réduisant alors le taux minimal. 
+Chez le nouveau-né, le taux est d'abord plus élevé que chez l'adulte puis diminue rapidement.
+
+
+=== Bilan biologique ===
+
+Pour diagnostiquer l'anémie, seule la NFS (Numération et Formule globulaire Sanguine) est nécessaire. Un dosage des réticulocytes est à faire si l'anémie est normo- ou macrocytaire (le compte des réticulocytes permettra alors de déterminer si l'anémie est régénérative, c'est-à-dire s'il y a naissance accrue de nouveaux GR pour s'adapter, avec alors un processus de fabrication des GR fonctionnant bien mais avec une perte accrue expliquant l'anémie) ou arégénérative (il n'y a pas de fabrication de nouveaux GR ou du moins, pas d'adaptation de la production — qui devrait augmenter — à la perte).
+Pour déterminer l'étiologie de l'anémie, selon le contexte et la cause suspectée, on pourra réaliser différentes analyses :
+
+bilan martial : fer sérique, ferritine, capacité totale de fixation de la transferrine, saturation de la transferrine ;
+vitamine B12 sérique ;
+folates sériques ± intra-érythrocytaire ;
+CRP ;
+profil protéique inflammatoire ;
+TSH ultra-sensible, T4 ;
+bilirubine totale et conjuguée ;
+lactate déshydrogénase (LDH) ;
+haptoglobine ;
+frottis sanguin au doigt ;
+recherche d'agglutinines irrégulières par test de Coombs direct ± Coombs sensibilisé ;
+hémocultures ;
+sérologies parasitaires ;
+frottis sanguin et goutte épaisse à la recherche de paludisme ;
+électrophorèse de l'hémoglobine ;
+ponction médullaire ± biopsie médullaire avec coloration de Perls ;
+test de résistance des hématies à l'hémolyse au saccharose, ou en milieu acide ;
+dosage de la G6PD et de la pyruvate kinase ;
+étude de la durée de vie des hématies marquées au technétium 99m ;
+test de Schilling ;
+plombémie, car l'anémie peut être induite par le saturnisme ;
+exploration de l'hémostase : TP, TCA, Temps de saignement, Facteurs de coagulation ;
+créatinine, urée, acide urique.
+
+
+== Cas particuliers ==
+Anémie par aplasie :  c'est un type rare aux causes inconnues. Elle se caractérise par l'absence ou la diminution des érythroblastes (précurseurs des globules rouges) dans la moelle osseuse. Elle peut être due également à une leucémie.
+Anémie drépanocytaire : les globules ont une forme étirée réduisant leur capacité de transport d'oxygène. C'est une mutation des molécules d'hémoglobine.
+Anémie ferriprive : l'origine est un manque de fer fixateur de l'oxygène.
+Anémie par hémoglobinurie paroxystique nocturne.
+
+
+== Traitement ==
+Le principe du traitement d'une anémie est celui du traitement de son étiologie. Dans certaines situations d'urgence où l'anémie est symptomatique, voire profonde, une transfusion sanguine est réalisée.
+
+
+=== L'EPO ===
+L'EPO ou érythropoïétine augmente la production d'hématie par la moelle osseuse. Elle est utilisée essentiellement lors de l'anémie des insuffisances rénales chroniques, mais aussi en cas de chirurgie majeure (colonne, genoux, hanches) permettant de réduire les besoins de transfusion (ex. : prothèse du genou).
+
+
+=== La transfusion sanguine ===
+
+On utilise les concentrés globulaires issus des dons du sang. Ils sont perfusés à l'anémique en respectant la compatibilité des groupes et phénotypes sanguins et du rhésus. L'indication est discutée suivant la tolérance de l'anémie, le niveau de cette dernière, son caractère potentiellement évolutif ou non, la présence ou non d'une maladie cardio-vasculaire. La tendance est d'être de plus en plus restrictive dans les indications, une attitude plus libérale ne comportant aucun avantage démontrée en termes de mortalité ou de morbidité. En pratique, La transfusion est quasi systématique en deçà de 6 g/dl. Au-delà, elle doit être discutée au cas par cas.
+En dehors d'une hémorragie aiguë qui ne demande qu'un bilan minimum, l'absence d'arguments étiologiques cliniques fait demander avant la transfusion, pour ne pas fausser les recherches effectuées ultérieurement :
+
+numération, formule, plaquettes avec numération des réticulocytes ;
+groupage ABO RH K et une recherche d'agglutinines irrégulières (RAI) ;
+fer sérique avec coefficient de saturation de la sidérophylline ;
+dosage des folates et de la vitamine B12 ;
+bilirubines totale et libre ;
+test de Coombs direct.
+
+
+=== Autres traitements ===
+Oxygénothérapie nasale en attente de transfusion sanguine en cas de signes d'hypoxie.
+Remplissage vasculaire en cas d'hypovolémie.
+Administration de fer en perfusion intraveineuse ou en comprimés oraux si l'anémie est provoquée par une carence en fer.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+Hématologie
+Anémie aplasique
+Anémie sidéroblastique liée à l'X avec ataxie
+Métabolisme du fer
+Saturnisme
+
+
+=== Liens externes ===
+Dr. Arnold Little FACP, FACR - Anémie (anglais)
+ Portail de la médecine   Portail de l’hématologie

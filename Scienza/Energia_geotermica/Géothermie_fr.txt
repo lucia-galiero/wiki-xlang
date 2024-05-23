@@ -1,0 +1,241 @@
+La géothermie, du grec géo (« la Terre ») et thermos (« la chaleur »), est à la fois la science qui étudie les phénomènes thermiques internes du globe terrestre, et la technique qui vise à les exploiter. Par extension, la « géothermie » désigne aussi parfois l'énergie géothermique issue de l'énergie de la Terre, qui est convertie en chaleur.
+Pour capter l'énergie géothermique, on fait circuler un fluide dans les profondeurs de la terre. Ce fluide peut être celui d'une nappe d'eau chaude captive naturelle, ou de l'eau injectée sous pression pour fracturer une roche chaude et imperméable. Dans les deux cas, le fluide se réchauffe et remonte chargé d'énergie thermique. Celle-ci est utilisée directement ou convertie partiellement en électricité.
+L'énergie géothermique est localement exploitée pour chauffer ou disposer d'eau chaude depuis des millénaires, par exemple en Chine, dans la Rome antique et dans le bassin méditerranéen.
+
+
+== Histoire ==
+
+Les sources d'eau chaude sont utilisées pour le bain au moins depuis le Paléolithique. Le plus ancien spa connu est un bassin en pierre sur le mont Li dans le Shaanxi en Chine, construit sous la dynastie Qin au IIIe siècle av. J.-C., à l'endroit même où le palais Huaqing Chi (en) est construit par la suite. Au premier siècle de notre ère, les Romains conquièrent Aquae Sulis, aujourd'hui Bath, dans le Somerset, en Angleterre, et utilisent les sources chaudes qui s'y trouvent pour alimenter leurs thermes et chauffages par le sol. Les droits d'entrée de ces bains représentent probablement la première utilisation commerciale de l'énergie géothermique. Le plus ancien système de chauffage urbain géothermique du monde, situé à Chaudes-Aigues, en France, fonctionne depuis le XVe siècle. La première exploitation industrielle commence en 1827 avec l'utilisation de la vapeur du geyser pour extraire l'acide borique de volcans de boue à Larderello, en Italie.
+En 1892, le premier réseau de chaleur en Amérique à Boise, dans l'Idaho, est alimenté directement par l'énergie géothermique, et est copié à Klamath Falls, dans l'Oregon, en 1900. Le premier bâtiment connu au monde à utiliser l'énergie géothermique comme source de chaleur principale est l'hôtel Hot Lake (en), dans le comté d'Union (Oregon), dont la construction s'est achevée en 1907. Un puits géothermique profond est utilisé pour chauffer des serres à Boise en 1926, et des geysers sont utilisés pour chauffer des serres en Islande et en Toscane à peu près à la même période. Charlie Lieb met au point le premier échangeur de chaleur en fond de puits en 1930 pour chauffer sa maison.
+
+Au XXe siècle, la demande en électricité conduit à envisager l'énergie géothermique comme source de production. Piero Ginori Conti (en) teste le premier générateur d'énergie géothermique le 4 juillet 1904 à Larderello. Il réussit à allumer quatre ampoules. Plus tard, en 1911, la première centrale géothermique commerciale du monde est construite à cet endroit. C'est le seul producteur industriel d'électricité géothermique au monde jusqu'à ce que la Nouvelle-Zélande construise une centrale en 1958.
+En 1912, Heinrich Zoelly brevète l'idée d'utiliser la pompe à chaleur, inventée par Lord Kelvin en 1852, pour tirer la chaleur du sol. Ce n'est cependant qu'à la fin des années 1940 que la pompe à chaleur géothermique est mise en œuvre avec succès ; il s'agit probablement du système d'échange direct de 2,2 kW, fabriqué par Robert C. Webber, mais les sources ne s'accordent pas sur la date exacte de son invention. J. Donald Kroeker conçoit la première pompe à chaleur géothermique commerciale pour chauffer le Commonwealth Building à Portland (Oregon) et en fait la démonstration en 1946,. Le professeur Carl Nielsen de l'université d'État de l'Ohio construit la première version résidentielle en boucle ouverte dans sa maison en 1948. La géothermie devient populaire en Suède à la suite de la crise pétrolière de 1973, et son acceptation dans le monde entier s'est lentement accrue depuis lors. Le développement, en 1979, des tuyaux en polybutène-1 a considérablement augmenté la viabilité économique de la pompe à chaleur.
+La centrale électrique à cycle combiné est démontrée pour la première fois en 1967 en URSS. Cette technologie permet de produire de l'électricité à partir de ressources à température beaucoup plus basse qu'auparavant. En 2006, une centrale à cycle binaire est mise en service à Chena Hot Springs, en Alaska, produisant de l'électricité à partir d'une température de fluide record de 57 °C.
+
+
+== Types ==
+On distingue habituellement trois types de géothermie :
+
+la géothermie peu profonde (moins de 150 m) à basse température ;
+la géothermie profonde (jusqu'à 2 000 m) pour la production de chaleur ;
+la géothermie profonde à haute température (plus de 150 °C), selon plusieurs approches développées et explorées depuis les années 1970 :
+géothermie des roches chaudes sèches (Hot Dry Rock ou HDR pour les anglophones), basée sur la fracturation hydraulique et la création d'un « échangeur thermique profond » qu'il faut périodiquement décolmater,
+géothermie des roches naturellement fracturées ou Hot Fractured Rock (HFR),
+géothermie stimulée EGS (Enhanced Geothermal System), imaginée aux États-Unis en 1970 et mise en œuvre à Soultz-sous-Forêts en France dans le cadre d'un projet-pilote européen et franco-allemand Géothermie Soultz ;
+la géothermie très profonde à très haute température.
+Ces trois types ont en commun de prélever la chaleur contenue dans le sol, issue de la pression, et, dans certains cas, d'une plus ou moins grande proximité du magma.
+
+
+== Principes ==
+Le manteau terrestre étant chaud, la croûte terrestre laisse filtrer un peu de cette chaleur, cependant la plus grande partie de la puissance géothermique obtenue en surface (87 %) est produite par la radioactivité des roches qui constituent la croûte terrestre (désintégration naturelle de l'uranium, du thorium et du potassium),.
+La croûte terrestre, épaisse en moyenne de 30 km, présente un gradient de température avec la profondeur, appelé gradient géothermique. Ainsi, plus on creuse et plus la température augmente, en moyenne de 3 °C par 100 m de profondeur.
+La géothermie vise à étudier et exploiter ce phénomène d'augmentation de la température en fonction de la profondeur (même si le flux de puissance obtenu diminue avec la profondeur, puisque l'essentiel de ce flux provient de la radioactivité des roches de la croûte terrestre).
+
+
+=== Une énergie abondante de faible intensité ===
+Cette source d'énergie est considérée comme inépuisable (dans certaines limites), car elle dépend :
+
+pour la géothermie profonde, des sources de chaleur internes de la Terre, dont la durée de vie se chiffre en milliards d'années ;
+pour la géothermie de surface, des apports solaires.
+Elle est en général diffuse et rarement concentrée, avec un flux moyen de 0,1 MW/km2 (0,1 W/m2) et un niveau de température faible. La puissance exploitable économiquement est donc en règle générale réduite. Il arrive cependant qu'elle soit plus concentrée à proximité des failles tectoniques entre plaques terrestres, en particulier des formations volcaniques ou encore dans des formations géologiques favorables, comme dans le Bassin parisien. C'est pourquoi il faut distinguer plusieurs types d'utilisation de la géothermie suivant ses caractéristiques locales :
+
+la géothermie de surface à basse température : jusqu'à 30 °C ;
+la géothermie profonde : 30 à 90 °C, jusqu'à 2 000 m de profondeur ;
+la géothermie très profonde à haute et très haute température, jusqu'à 10 000 m ;
+la géothermie volcanique de type geyser.
+Son exploitation durable implique un débit d'extraction d'énergie limité au flux de chaleur alimentant la ressource, à défaut de l'épuiser pour une certaine période. Même si certains sites géothermiques peuvent atteindre jusqu'à 0,2 W/m2, le rythme d'exploitation de la géothermie peut être supérieur au rythme de renouvellement naturel de la chaleur, ce qui peut entraîner un épuisement de la ressource à terme.
+Son caractère « inépuisable » dépend donc des conditions d'utilisation : en moyenne à la surface de la Terre, de l'ordre de 60 mW pour chaque mètre carré (0,06 W/m2) de terrain exploité, à comparer à la densité de puissance solaire moyenne reçue par la Terre, environ 6 000 fois plus importante (340 W/m2).
+Le renouvellement de la chaleur prélevée trop vite (plus que les très faibles 60 mW/m2 du flux thermique des profondeurs terrestres) se fait en général par diffusivité thermique (sauf circulation d'eaux naturelles) à partir du pourtour non refroidi, ce qui dépend de la dimension L du volume prélevé ou refroidi, avec un temps de retour de la chaleur ou de la température, croissant comme le carré de cette dimension L, donnant pour 6 à 10 m un an environ, pour 12 à 20 m quatre ans, pour 24 à 40 m seize ans, de fait, égal grossièrement au temps passé à le prélever trop vite.
+Aussi, cela ne peut fonctionner que si des eaux chaudes circulent facilement ou fortement, dans des zones volcaniques, en espérant que leur source aquifère est assez grande pour ne jamais s'épuiser.
+Une solution est de recharger les puits avec de la chaleur solaire venant de capteurs solaires en surface. La géothermie solaire sert alors à stocker cette chaleur solaire du jour pour la nuit, de l'été pour l'hiver, rendant l'énergie solaire utilisable 24 h sur 24 et 365 j/an, sans interruption. Cela a été utilisé pour le chauffage intersaison, de l'été pour l'hiver, comme à la Communauté solaire de Drake Landing.
+
+
+== Types d'exploitation ==
+
+
+=== Géothermie peu profonde à basse température ===
+Il s'agit principalement d'extraire la chaleur contenue dans la croûte terrestre afin de l'utiliser avec une pompe à chaleur pour les besoins en chauffage en refroidissant la terre. Les transferts thermiques peuvent aussi dans certains cas être inversés pour les besoins d'une climatisation. On l'utilise pour chauffer le sol d'une maison à basse température, pour les radiateurs et par le sol mais par échauffement d'eau.
+Les procédés d'extraction de l'énergie diffèrent suivant les solutions retenues par les constructeurs. La méthode utilisée pour assurer les transferts thermiques influe beaucoup sur le rendement de l'ensemble. Comme véhicule thermique de la pompe à chaleur on utilise de l'eau ou de l'eau avec un glycol ou directement le fluide frigorigène. La géothermie peu profonde et basse température utilisera donc de plus en plus la chaleur de la terre dans le sol venant du soleil en surface.
+De 4,50 à 10 m de profondeur, la température du sol est constante tout au long de l'année, valant en moyenne 12 °C. Cette valeur en France dépend du très faible flux géothermique et surtout de la température moyenne annuelle moyennée par diffusivité, la chaleur atmosphérique prenant un an pour descendre à 4,5 ou 10 m de profondeur. Pour une profondeur dix fois plus grande — 45 à 100 m —, elle prend 100 fois plus longtemps, soit cent ans, le flux géothermique vrai[Quoi ?] des profondeurs augmentant la température d'environ 3 °C à 100 m, qui forme le gradient géothermique.
+De fait, cette chaleur qualifiée de géothermie peu profonde, est une chaleur d'origine solaire, avec le soleil qui chauffe l'atmosphère, chaleur stockée sur plus d'un an à plus de 4,5 m de profondeur. Dans les régions arctiques froides avec le sol gelé en profondeur, cette géothermie n'existe pas.
+La profondeur du forage est fonction du type de géothermie : en détente directe (utilisation d'un fluide frigorigène dans les sondes géothermiques avec pompe à chaleur), elle sera en moyenne de 30 m, pour les sondes à eau glycolée entre 80 et 120 m selon les installations.
+Dans le cas de la géothermie d'eau (aquathermie ou hydrothermie), plusieurs schémas d’installation existent :
+
+forage unique : un ou plusieurs forages de pompage sans forage de réinjection ;
+forage en doublet : un ou plusieurs forages de pompage et un ou plusieurs forages de réinjection ;
+doublet non réversible : chaque forage fonctionne toujours en pompage ou en injection,
+doublet réversible : chaque forage fonctionne alternativement en pompage et en injection.
+En général, le principe du « doublet géothermique » est retenu pour augmenter la rentabilité et la durée de vie de l'exploitation thermique de la nappe phréatique. Le principe est de faire (ou réutiliser) deux forages : le premier pour puiser l'eau, le second pour la réinjecter dans la nappe. Les forages peuvent être éloignés l'un de l'autre (un à chaque extrémité de la nappe pour induire un mouvement de circulation d'eau dans la nappe, mais ce n'est pas pratique d'un point de vue de l'entretien) ou rapprochés (en surface) de quelques mètres mais avec des forages obliques (toujours dans le but d'éloigner les points de ponction et de réinjection de l'eau).
+
+
+=== Technologies de géothermie de surface ===
+Il existe quatre types de captages :
+
+le captage horizontal au sol (faible profondeur et grande surface) ;
+le captage vertical au sol (petite surface et grande profondeur, 100 m maximum) ;
+le captage vertical sur nappe phréatique (suivant la profondeur de la nappe)
+les corbeilles géothermiques.
+Le captage horizontal au sol est constitué d'un réseau de plusieurs tubes en parallèle, dans lesquels circule un fluide caloporteur. Ces tubes sont enterrés à environ 20 cm sous le point de gelée des sols de la région (c'est-à-dire à une profondeur d'au moins 80 cm en France hexagonale), sous une pelouse non arborée.
+Le captage vertical est constitué de plusieurs sondes verticales créant des boucles verticales. Les sondes sont profondes de 10 à 200 mètres. Le système demande moins de boucles et de longueurs de tubes que le captage horizontal, mais le forage nécessaire à sa mise en œuvre est plus coûteux que le décaissement du capteur horizontal. Son avantage est qu'il ne dénature pas le sol et permet la plantation d'arbres dans le reste de la propriété.
+Le captage vertical sur nappe phréatique, également appelé aquathermie ou thalassothermie en cas de captage sur eau de mer, est constitué de deux forages d’eau. L'un est utilisé pour la production de chaleur et l’autre pour rejeter l’eau dans la nappe phréatique.
+Les corbeilles géothermiques sont moins répandues. Ce système est constitué d'un échangeur en tube spiralé, à moins de cinq mètres de profondeur.
+
+
+=== Exemples de thalassothermie ===
+
+Monaco utilise l'équivalent de 4,8 mégawatts de thermies prélevées dans l'eau du « Port Hercule » (Quai Antoine 1er) pour chauffer 40 000 m2, au travers de trois échangeurs thermiques à plaques d’une capacité unitaire d’échange de 1 600 kW ;
+La Seyne-sur-Mer (France, 1983) peut depuis 2009 alimenter 54 000 m2 de bâtiments tertiaires et de logements construits sur les anciens chantiers navals avec 4 800 kW tirés de la mer au travers des PAC réversibles « eau-eau » à haut-rendement ;
+Cherbourg-en-Cotentin a construit une chaufferie collective qui utilise, depuis l'été 2013, la chaleur de l'eau du « Bassin du Commerce »  pour chauffer plus de 1 300 logements, évitant ainsi 1 730 t/an d'émissions de CO2 dans le Quartier de la Divette, au travers de deux pompes à chaleur de 1,092 MW chacune. Ceci couvrira 84 % des besoins de chauffage du quartier, les chaudières à gaz déjà présentes complètent le système pour les 16 % nécessaires en période froide (ce qui équivaut aux émissions de 850 voitures), avec 30 % de coûts en moins pour les habitants ;
+la zone d'aménagement Euroméditerranée (Marseille) inclut deux unités thalassothermiques :
+le réseau Massileo par Optimal Solutions (filiale de Dalkia, du Groupe EDF) situé sur Euromed 2. Inauguré le 13 octobre 2017, ce réseau d’énergies renouvelables intelligent permet d’alimenter bureaux, commerces et logements en chauffage, climatisation et eau chaude sanitaire à partir de 75 % d’énergies renouvelables grâce à la thalassothermie. Le réseau est composé d’une boucle d’eau douce tempérée qui relie la station de récupération d'énergie sur eau de mer, située sur le port de Marseille aux pompes à chaleur installées au sous-sol des bâtiments. L’eau de mer est prélevée à 4 m de profondeur dans le port de Marseille. Des échangeurs transfèrent l'énergie de l’eau de mer à une boucle d’eau douce tempérée avant de la restituer dans son milieu naturel sans risques pour la faune ou la flore. La boucle d’eau douce est connectée à une centrale de production où des pompes à chaleur convertissent l’énergie marine en température adéquate pour le chauffage, l’eau chaude sanitaire et la climatisation. Pour plus d’efficacité énergétique, les bâtiments échangent leur énergie. Ce réseau permet une réduction des émissions de CO2 de 80 % par rapport à une solution issue des énergies fossiles. Depuis 2017, Massileo dessert l’écoquartier Smartseille par Eiffage Immobilier (58 000 m2, consommant 5 MW). Avec une capacité de production de chaud et de froid de 21 MW, le réseau a vocation à alimenter jusqu’à 500 000 m2 de bâtiments,
+le réseau Thassalia par Engie Cofely est situé sur Euromed 1. La centrale, installée sur le Grand Port Maritime de Marseille et inaugurée en octobre 2016 est la première en France et en Europe à utiliser l’énergie thermique marine. Elle alimente en chaud et en froid l’ensemble des bâtiments qui lui sont raccordés grâce à un réseau de 3 km, soit à terme 500 000 m2 situés dans l’écoquartier Euroméditerranée. Résultat : 70 % d’émissions de gaz à effet de serre en moins ;
+La Grande-Motte attribue en janvier 2020 à Dalkia le contrat de concession de son futur réseau de thalassothermie destiné à fournir l'équivalent de 3 100 logements en chaleur et en froid ; tous les immeubles publics (centre culturel, palais des congrès, mairie) seront d'abord concernés, ainsi que le casino, puis les copropriétés ; l'équipement sera alimenté à 66 % par l'eau de la mer Méditerranée. Un autre projet est en préparation à Sète ;
+à Saint-Pierre (La Réunion), la climatisation de l'hôpital Alfred-Isautier sera en grande partie alimentée avec de l'eau de mer puisée en profondeur, réduisant de 30 % sa consommation électrique.
+
+
+=== Géothermie profonde à haute température ===
+Via des forages plus profonds, elle accède à des eaux plus chaudes, avec l'inconvénient de possibles problèmes de corrosion ou d'entartrage plus fréquents et/ou plus graves (car les eaux profondes et chaudes sont souvent beaucoup plus minéralisées). La profondeur à atteindre varie selon la température désirée et selon la ressource (gradient thermique local qui change beaucoup d'un site à l'autre).
+La méthode de transfert thermique est plus simple (échangeur de chaleur à contre-courant), sans le fluide caloporteur nécessaire aux basses températures.
+
+
+=== Géothermie très profonde à très haute température ===
+
+Plus on creuse profond dans la croûte terrestre, plus la température augmente. Ce gradient thermique dépend beaucoup de la région du globe considérée. Il peut varier de 3 °C par 100 m (régions sédimentaires) jusqu'à 1 000 °C par 100 m (régions volcaniques, zones de rift comme en Islande ou en Nouvelle-Zélande). En moyenne en France, l'augmentation de température atteint 2 à 3 °C tous les 100 m.
+On distingue classiquement trois types de géothermie selon le niveau de température disponible à l'exploitation :
+
+la géothermie à haute énergie, qui exploite des sources hydrothermales très chaudes, ou des forages très profonds où de l'eau est injectée sous pression dans la roche. Elle est surtout utilisée pour produire de l'électricité. Elle est parfois subdivisée en deux sous-catégories :
+la géothermie à haute énergie (aux températures supérieures à 150 °C), qui permet la production d'électricité grâce à la vapeur qui jaillit avec assez de pression pour alimenter une turbine,
+la géothermie moyenne-énergie (aux températures comprises entre 100 et 150 °C), par laquelle la production d'électricité nécessite une technologie utilisant un fluide intermédiaire ;
+la géothermie de basse énergie : géothermie des nappes profondes (entre quelques centaines et plusieurs milliers de mètres) aux températures situées entre 30 et 100 °C. Principale utilisation : les réseaux de chauffage urbain ;
+la géothermie de très basse énergie : géothermie des faibles profondeurs aux niveaux de température compris entre 10 et 30 °C. Principales utilisations : le chauffage et la climatisation individuelle par dispositifs thermodynamiques généralement fonctionnant à l'électricité, d'où le terme « électro-thermodynamique », appelés plus communément « pompes à chaleurs aérothermiques » (puisant dans l'air extérieur) et « pompe à chaleur géothermique ».
+
+
+== Avantages et difficultés de la géothermie de profondeur (haute et basse énergie) ==
+
+
+=== Avantages ===
+La géothermie est une énergie renouvelable, dans le sens où la chaleur contenue dans le globe terrestre est sans commune mesure avec les besoins énergétiques de la civilisation humaine. La gestion raisonnée de l'exploitation d'une ressource géothermique permet de maintenir localement le potentiel géothermique.
+Par rapport à d'autres énergies renouvelables, la géothermie de profondeur (haute et basse énergie) a l'avantage de ne pas dépendre des conditions atmosphériques (soleil, pluie, vent). C'est donc une source d'énergie quasi continue car elle est interrompue uniquement par des opérations de maintenance sur la centrale géothermique ou le réseau de distribution de l'énergie. Les gisements géothermiques ont une durée de vie de plusieurs dizaines d'années (30 à 80 ans en moyenne).
+L'exploitation d'une ressource géothermique ne produit que très peu de gaz à effet de serre.
+
+
+=== Inconvénients ===
+L'EGS (Enhanced Geothermal System), testé et exploité en Europe à Soultz-sous-Forêts consiste à forer à grande profondeur dans des réservoirs géothermiques naturels sur lesquels on agit par stimulation. Ces systèmes EGS (qualifiés de « systèmes géothermiques stimulés » en français) sont caractérisés initialement par la présence de saumure naturelle remontée à partir des fractures du granite, qu'il faut nettoyer.
+Dans ce cas, trois problèmes principaux se posent :
+
+après forage, afin d'augmenter ou entretenir les performances hydrauliques des puits (perméabilité), des injections forcées d'eaux ou stimulations hydrauliques étaient autrefois faites uniquement par fracturation hydraulique (technique controversée pour ses risques environnementaux) doivent être faites pour créer et surtout, périodiquement, pour rouvrir ces fractures préexistantes qui tendent à se refermer ou à se colmater. Ces stimulations physiques induisent toujours une activité micro-sismique, parfois assez importante pour être ressentie par les populations locales (exemples : à Soultz, le plus fort séisme induit s'est produit en juin 2003, d'une magnitude de 2,9 sur l'échelle de Richter ; à Reichstett-Vendenheim, ces séismes ont mené à l'arrêt définitif du site). Des études géotechniques cherchent à mieux comprendre les phénomènes physiques à l'origine de cette sismicité induite. Pour minimiser l'activité micro-sismique induite, la technique de la stimulation chimique (souvent associée à la fracturation hydraulique par l'industrie pétrolière et gazière) a été testée avec succès, notamment à Soultz. Des acides et produits chimiques dissolvent certains minéraux naturellement présents dans les fractures (ex. : calcite), ce qui accroît la performance hydraulique des puits. Cette variante dite « stimulation hydrochimique » s'est effectivement accompagnée d'une moindre activité micro-sismique (faible à très modérée), mais elle produit une eau plus chargée en certains composés indésirables (métaux, radionucléides, sels minéraux). Le site de Soultz doit gérer une saumure naturelle caractérisée par environ 100 g/L de sels contenant de tels produits indésirables. Cette eau géothermale (150 L/s à 165 °C) est ensuite réinjectée à 70 °C sous haute pression dans le sous-sol via des puits de réinjection ;
+le fluide circulant dans la roche chaude et fracturée est toujours salé, corrosif et chargé de particules éventuellement abrasives, radioactives ou susceptibles de participer à l'encroûtement par précipitation de sels minéraux (entartrage) ou qui peut par exemple perturber ou bloquer la fermeture de vannes. La précipitation est limitée en surface par le maintien d'une forte pression dans les tuyauteries (20 bars), qui rend l'installation plus dangereuse en cas de fuite ;
+la chaleur est source de dilatation thermique ou éventuellement en cas de problèmes de chocs thermiques, qui peuvent endommager certaines parties vulnérables des installations.
+
+
+== Applications possibles ==
+
+Dès 1973, B. Lindal a synthétisé dans un tableau les applications possibles de la géothermie.
+
+
+== Géothermie à haute énergie ==
+
+La géothermie à haute énergie ou « géothermie profonde », appelée plus rarement géothermie haute température, ou géothermie haute enthalpie, est une source d'énergie contenue dans des réservoirs localisés généralement à plus de 1 500 mètres de profondeur et dont la température est supérieure à 150 °C. Grâce aux températures élevées, il est possible de produire de l'électricité grâce à des turbines à vapeur pour un réseau ou en système d'alimentation autonome et de faire de la cogénération d'électricité et de chaleur en récupérant des condensats de la vapeur.
+Plus la croûte terrestre est forée profondément, plus la température augmente. Ce gradient thermique dépend beaucoup de la région du globe considérée. Les zones où les températures sont beaucoup plus fortes, appelées anomalies de température, peuvent atteindre plusieurs centaines de degrés pour de faibles profondeurs. Ces anomalies sont observées le plus souvent dans les régions volcaniques. En géothermie, elles sont désignées comme des gisements de haute enthalpie, et utilisées pour fournir de l'énergie, la température élevée du gisement (entre 80 et 300 °C) permettant la production d'électricité.
+L'exploitation de la chaleur provenant de la géothermie à haute énergie est ancienne. Les bains dans des sources chaudes étaient déjà pratiqués dans l'Antiquité dans de nombreuses régions du monde. C'est au début du XXe siècle qu'une centrale géothermique de production d'électricité a été pour la première fois réalisée à Larderello (Italie). La géothermie haute température connaît actuellement un renouveau important[réf. souhaitée], notamment parce que la protection contre la corrosion et les techniques de forage se sont fortement améliorées.
+De nouvelles applications technologiques sont envisageables pour récupérer la chaleur de la Terre. La cogénération permet déjà de combiner la production de chaleur et d'électricité sur une même unité, et augmente ainsi le rendement de l'installation. Un projet européen de géothermie profonde à Soultz-sous-Forêts vise à produire de l’électricité grâce au potentiel énergétique des roches chaudes fissurées (en anglais : Hot Dry Rock).
+
+
+=== Méthodes d'exploration avant forage ===
+Gravimétrie : les mesures gravimétriques permettent d’identifier des corps lourds, liés à des stockages magmatiques à « faible profondeur ». Ces stockages peuvent constituer des sources potentielles de chaleur qui sont nécessaires au développement d’un réservoir géothermique.
+Magnétotellurie : elle permet de déterminer la structure géoélectrique des zones prospectées entre terrains conducteurs et isolants, en particulier les couches imperméables susceptibles de constituer un système géothermique convectif (couvercle d'eau chaude).
+Polarisation spontanée : la polarisation spontanée (PS) détecte les circulations de fluides sous la surface.
+Analyse chimique des eaux et des gaz : la présence d'anomalies en He, CO2, H2S, CH4 et radon permet de mettre en évidence d'éventuelles contaminations par des gaz d'origine magmatique.
+
+
+=== Installations dans le monde ===
+
+L'électricité produite à partir de la géothermie est disponible dans plus de vingt pays dans le monde : la Chine, l'Islande, les États-Unis, l'Italie, la France, l'Allemagne, la Nouvelle-Zélande, le Mexique, le Salvador, le Nicaragua, le Costa Rica, la Russie, l'Indonésie, le Japon et le Kenya. Les trois premiers producteurs sont les États-Unis, les Philippines et l'Indonésie. Ce dernier pays possède le plus grand potentiel (27 GW, soit 40 % des réserves mondiales).
+L'une des sources géothermiques les plus importantes est The Geysers, située aux États-Unis, à environ 145 km au nord de San Francisco. La Calpine Corporation y a démarré la production en 1960 et dispose d'une puissance nominale de l'ordre de 725 MWe, pour une production effective moyenne de 648 MWe en 2017, soit une production annuelle nette de 5 673 GWh. Il s'agit d'un ensemble de treize centrales électriques qui utilisent la vapeur de 322 puits et réinjecte par 54 puits l'eau utilisée afin de recharger le gisement. Au sud de la Californie, près de Niland et Calipatria, une quinzaine de centrales électriques produisent environ 570 MWe.
+La géothermie est la source d'énergie principale de l'Islande, mais ce sont les Philippines qui en sont le plus gros consommateur, 28 % de l'électricité générée y étant produite par la géothermie. Il existe trois centrales électriques importantes qui fournissent environ 17 % (2004) de la production d'électricité du pays. De plus, la chaleur géothermique fournit le chauffage et l'eau chaude d'environ 87 % des habitants de l'île.
+La géothermie est particulièrement rentable dans la zone du rift en Afrique. Trois centrales ont récemment été construites au Kenya, respectivement de 45 MW, 65 MW et 48 MW. La planification prévoit d'augmenter la production de 576 MW en 2017, couvrant 25 % des besoins du Kenya, et réduisant ainsi la dépendance du pays aux importations de pétrole.
+En Allemagne, après cinq ans de forage, une centrale de 3,4 MW, utilisant la géothermie, fonctionne à Unterhaching près de Munich depuis 2009, et produit en cogénération de la chaleur et de l'électricité. Le forage a atteint 3 350 m de profondeur, et 150 L d'eau jaillissent par seconde à une température de 122 °C.
+
+
+== Géothermie basse énergie ==
+On parle de « géothermie basse énergie » lorsque le forage permet d'atteindre une température de l'eau entre 30 et 100 °C dans des gisements situés entre 1 500 et 2 500 m de profondeur. Cette technologie est utilisée principalement pour le chauffage urbain collectif par réseau de chaleur, et certaines applications industrielles.
+L'usage direct de la chaleur géothermique (bains thermaux, chauffage de piscines, chauffage de locaux, procédés agricoles et industriels), parfois en cogénération, est estimé à 117 TWh (421 PJ) en 2019. La capacité installée est estimée à 30 GWth, en progression de 2,2 GWth en 2019 (+8 %). La principale utilisation est celle des bains et piscines (44 %), en progression de 9 % par an ; ensuite vient le chauffage de locaux (39 %), en progression de 13 % par an, puis le chauffage de serres (8,5 %), les applications industrielles (3,9 %), l'aquaculture (3,2 %), le séchage dans l'agriculture (0,8 %) et la fonte de neige (0,6 %). Les principaux pays pratiquant ces usages sont la Chine (47 %), qui connaît une progression de plus de 20 % par an sur les cinq dernières années, suivie par la Turquie, l'Islande et le Japon.
+Une centrale géothermique fonctionnant sur le principe du doublet a été mise en service en 1994 à Riehen en Suisse, pour le chauffage des immeubles locaux. Depuis décembre 2000, une partie de la chaleur produite est exportée en Allemagne et approvisionne ainsi un quartier de la ville voisine de Lörrach.
+La production de chaleur au moyen d’une pompe à chaleur sur nappe, repose sur le prélèvement et le transfert de l'énergie contenue dans l’eau souterraine vers les locaux à chauffer. Par ailleurs, une pompe à chaleur peut assurer simultanément et/ou successivement des besoins en chauffage et/ou climatisation/rafraîchissement. Cette catégorie est tout de même, d'un point de vue technicien et d'investissement financier, plus de la famille des géothermies de très basse énergie.
+
+
+== Géothermie très basse énergie ==
+La géothermie « très basse énergie » développe une puissance thermique (de) ne dépassant pas 500 kW, avec des calories captées à faibles profondeurs (à moins de 200 m) et des températures généralement comprises entre 10 et 30 °C, c'est-à-dire des calories ne provenant pas ou peu des profondeurs terrestres, mais plutôt du soleil et du ruissellement de l'eau de pluie, le sol du terrain jouant le rôle de source chaude du fait de son inertie et de sa mauvaise conductivité thermique.
+Cette technologie est appliquée à :
+
+la climatisation passive avec par exemple le système du puits provençal, le puits canadien, etc. ;
+le chauffage et la climatisation avec la pompe à chaleur géothermique.
+Ces systèmes permettent de faire, par rapport à l'usage unique d'une énergie primaire, des économies d'énergie sur le chauffage et la production d'eau chaude. Néanmoins, ils nécessitent une source d'énergie extérieure, le plus souvent l'électricité, qui doit rester disponible.
+La géothermie avec pompe à chaleur consiste à puiser la chaleur présente dans le sol à travers des capteurs verticaux ou horizontaux, selon la configuration du terrain. Une pompe à chaleur a un fonctionnement comparable à celui d'un réfrigérateur : il assure le chauffage d'un local à partir d'une source de chaleur externe, dont la température est, en général, inférieure à celle du local à chauffer.
+
+
+=== Réglementation ===
+Dans la plupart des pays, elle est cadrée par le règlement d'urbanisme, le code Minier et/ou le code de l'environnement (quand il existe) et tend à évoluer dans le cadre de la Transition énergétique.
+
+
+=== Fonctionnement ===
+
+Tout se joue grâce au changement d'état, quand un fluide passe de l'état liquide à l'état gazeux, et inversement.
+Un long tuyau de polyéthylène ou de cuivre gainé de polyéthylène est par exemple enterré dans le sol (jardin…).
+Dans le cas des systèmes à détente directe (DXV), on fait circuler à l'intérieur, un fluide qui de l'état liquide se réchauffe un peu au contact de la terre. Comme ce fluide a la propriété de se mettre à bouillir à très basse température, il passe alors de l'état liquide à l'état gazeux. Cette vapeur est comprimée par un compresseur situé dans la maison. Le simple fait de la comprimer a pour effet d'augmenter sa température. Elle est alors conduite à un condenseur qui la refait passer à l'état liquide. Lors de ce changement d'état, il se dégage à nouveau de la chaleur, qui est transmise à l’eau de chauffage (radiateur, plancher chauffant…).
+Le fluide continue son cycle, et après s'être détendu et refroidi, repart en circuit fermé rechercher de la chaleur dans la terre du jardin.
+Il existe trois sortes de systèmes : le système eau glycolée / eau ; le système sol/eau (le fluide frigorigène se détend directement dans les capteurs enfouis dans le sol) ; le système sol/sol (similaire au sol/eau en ce qui concerne le capteur, mais avec condensation du fluide frigorigène dans le plancher).
+
+
+=== Fluides caloporteurs ===
+Le fonctionnement des machines thermodynamiques, ici la pompe à chaleur, est fondé sur la capacité des fluides frigorigènes à se vaporiser et se condenser à température ambiante. Le fluide frigorigène le plus utilisé pour la géothermie est le fluide R-134a. Ses propriétés essentielles sont :
+
+sa température d'ébullition à pression atmosphérique est de −26 °C ; ce qui lui permet donc de s'évaporer plus vite à basse température, donc meilleur passage de la chaleur ;
+sa chaleur latente d'évaporation importante. À −26 °C (sa température d'ébullition) à pression atmosphérique, sa chaleur latente est de 216 kJ/kg. Libère beaucoup d'énergie ;
+son faible volume massique de la vapeur en mètre cube qui lui permet d'utiliser un petit compresseur.
+D'autres fluides sont couramment utilisés, tels que le R407C ou le R410A. Les solutions d'avenir concerneront probablement les fluides naturels, tels que le propane (R290) ou le CO2 (R744). Le grand désavantage de ce dernier étant les pressions de fonctionnement (entre 80 et 100 bars).
+Pour les systèmes indirects que sont les PAC eau glycolée/eau, le monoéthylène glycol possède une viscosité moindre à basse température (et donc une moindre consommation de la pompe de circulation chargée de faire circuler l'eau glycolée dans les collecteurs) mais représente un danger pour la pollution des sols. Le monopropylène glycol à une viscosité plus grande, il est coûteux mais il est considéré comme étant de qualité alimentaire et comme étant biodégradable à 98 %. Pour ces installations, un contrôle de la densité du glycol est nécessaire tous les 3 ans, et la purge du circuit tous les cinq ans.
+Du point de vue du budget d'investissement, les pompes à chaleur, installées à plus de 90 % dans du neuf (sources : Ademe, Sofath) n'entrent pas en concurrence avec le chauffage électrique par effet Joule (résistance électrique), mais plutôt avec tous les autres véritables moyens écologiques (solaire actif, bois énergie, et avant tout avec les architectures climatiques et bioclimatique).
+La pompe à chaleur gagnerait probablement à muter vers un fonctionnement à partir de moteur thermique[réf. nécessaire], pouvant utiliser des combustibles issus de la biomasse (biogaz par exemple), et ce évidemment pour des raisons d'économie d'échelle, dans des grands ensembles, permettant ainsi de localiser la production proche des lieux d'utilisation et d'augmenter les potentiels de production d'énergies renouvelables locale tout en évitant d'amplifier les problèmes actuels en amont du compteur électrique.
+
+
+== Séisme et géothermie ==
+Dans les régions à risque sismique, la géothermie peut être affectée par certains séismes (dégradation d'installation, modification de circulation de la chaleur…).
+Inversement, chaque opération de stimulation des réservoirs EGS par fracturation hydraulique peut provoquer des séquences plus ou moins longues de dizaines à milliers de microséismes (au moins plusieurs dizaines de séismes de magnitude supérieure ou égale à 2 pour chaque stimulation) ; c'est la « micro-sismicité induite ». C'est l'injection d'eau sous pression qui déclenche des micro-séismes de magnitude pouvant, assez rarement aller jusqu'à un maximum de 2,9 (comme à Soultz-sous-Forêts),.
+Pour minimiser les « nuisances sismiques », les « stimulations chimiques », empruntées au secteur pétrolier et gazier ont été mises en œuvre dans certains forages géothermiques profonds.
+Ces microséismes sont étudiés par les géologues, les pétroliers et les promoteurs de la géothermie profonde qui utilisent aussi la stimulation et l'entretien des fractures (soit par l'injection d'eau sous pression, soit avec adjonction de produits chimiques). La fréquence, l'intensité et d'autres caractéristiques des microséismes peuvent être enregistrées par des réseaux de capteurs en surface (réseaux dits « EOST ») et en profondeur (réseau profond dits « GEIE »). L'injection de produits chimiques sous pression, mélangés à de l'eau (acides, agents fluidifiants…), génère une moindre activité sismique que la stimulation hydraulique seule, mais modifie d'autres paramètres de l'environnement profond, voire du forage. Recourir à un fluide contenant certains agents chimiques qui vont dissoudre les minéraux hydrothermaux (calcite)[Quoi ?].
+Selon le BRGM, « tous les sites de ce type (géothermie profonde) dans le monde ont dû faire face à l’occurrence de microséismes pouvant être ressentis par les populations, avec des conséquences parfois néfastes. Le phénomène de sismicité induite, bien que connu, n’est pas encore complètement compris physiquement par les scientifiques ». Grâce aux études en cours et aux données accumulées par les capteurs, les spécialistes espèrent pouvoir « trouver des voies pour réduire l’impact micro-sismique des projets géothermiques et ainsi gagner une meilleure acceptation de ces projets par les populations ».
+L'activité micro-sismique est produite dès la montée en pression du fluide de fracturation. Elle varie fortement selon les changements de conditions hydrauliques. Elle s'atténue à l'arrêt des injections, mais se prolonge encore quelques jours après la stimulation par fracturation (« activité rémanente »). Ces « micro-séismes » sont souvent de très basse énergie, et donc non perceptibles en surface par l'Homme (ils sont peut-être ressentis par des animaux plus sensibles, invertébrés y compris). En effet, l'énergie de ces ondes sismiques s'affaiblit d'autant plus que le forage est profond ou éloigné. Leur magnitude varie de -2 (seuil de détection) à 1,8 (seuil de perceptibilité par l'Homme en surface). À proximité de failles importantes, certains séismes de plus forte magnitude (> 1,8) sont néanmoins occasionnellement ressentis en surface. En condition d'exploitation de géothermie profonde, l'activité sismique induite est normalement trop faible pour pouvoir être ressentie par l'être humain en surface.
+En Suisse, les projets de géothermie profonde sont suspendus à la suite de deux séismes ayant causé des dégâts (3,4 à Bâle en 2006, 3,6 à Saint-Gall en 2013). En 2016, une étude est menée par le Centre suisse de compétence en recherche énergétique – approvisionnement en électricité (SCCER-SoE) pour éviter les séismes.
+En Corée du Sud, la ville de Pohang a subi un séisme qui a été classé comme étant le deuxième tremblement de terre le plus intense et destructeur jamais enregistré en Corée du Sud. Il a fait 135 blessés, et son coût a été estimé à 300 milliards de wons, soit 290 millions de dollars américains.
+
+
+== Géothermie et politiques publiques ==
+En Islande ou aux Philippines, la géothermie est largement exploitée. Son importance dans le cadre de la sortie des combustibles fossiles a été particulièrement mise en lumière dans le rapport Equinox Blueprint: Energy 2030 du Waterloo Global Science Initiative (en).
+
+
+== Formation ==
+La réussite d'un forage profond, puis sa bonne exploitation nécessitent des compétences spécifiques.
+En France, une filière universitaire Géothermie profonde (triple cursus) a été annoncée en 2014 par l'université de Strasbourg en région (Alsace) où la géothermie profonde a été expérimentée pour la première fois en France à Soutz-sous-Forêts et où un potentiel important existe (nappe d'eau d'une température dépassant 100 °C dès 1 000 m de profondeur). Dès la rentrée universitaire 2014-2015, l'École et observatoire des sciences de la Terre (EOST) de Strasbourg produira les enseignements académiques de géologie et d'ingénierie géophysique pour trois cursus (diplôme universitaire, c'est-à-dire hors cadre LMD — licence, master, doctorat). Dans le cadre du programme Investissements d'avenir de 2011, l’EOST était déjà porteur du projet « G-EAU-THERMIE PROFONDE », un Labex (Laboratoire d'excellence) visant à améliorer la connaissance des réservoirs géothermiques profonds et à développer des techniques permettant l’exploitation de cette source d’énergie renouvelable.
+Cette formation, soutenue par le conseil régional d'Alsace, est dotée de 2,1 M€ sur huit ans, principalement fournis par Électricité de Strasbourg, un fournisseur d'énergie régional pionnier dans le secteur de la géothermie profonde. Il s'agit selon l'université de répondre à une demande émanant à la fois du secteur public et scientifique (CNRS notamment) et du secteur économique.
+
+
+== Notes et références ==
+
+
+== Annexes ==
+
+
+=== Articles connexes ===
+
+
+=== Liens externes ===
+« Géothermie, chaud dessous », La Science, CQFD, France Culture, 21 février 2024.
+(en) Association Internationale de Géothermie, sur geothermal-energy.org
+
+
+==== Bases de données et dictionnaires ====
+
+Ressource relative à la santé : Medical Subject Headings  
+
+ Portail des énergies renouvelables   Portail du froid et de la climatisation   Portail de la géologie

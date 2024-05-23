@@ -1,0 +1,53 @@
+In nuclear engineering, fissile material is material that can undergo nuclear fission when struck by a neutron of low energy. A self-sustaining thermal chain reaction can only be achieved with fissile material. The predominant neutron energy in a system may be typified by either slow neutrons (i.e., a thermal system) or fast neutrons. Fissile material can be used to fuel thermal-neutron reactors, fast-neutron reactors and nuclear explosives.
+
+
+== Fissile vs fissionable ==
+According to the Ronen Fissile rule, for a heavy element with 90 ≤ Z ≤ 100, its isotopes with 2 × Z − N = 43 ± 2, with few exceptions, are fissile (where N = number of neutrons and Z = number of protons).
+
+The term fissile is distinct from fissionable. A nuclide capable of undergoing nuclear fission (even with a low probability) after capturing a neutron of high or low energy is referred to as fissionable. A fissionable nuclide that can be induced to fission with low-energy thermal neutrons with a high probability is referred to as fissile.  Fissionable materials include those (such as uranium-238) for which fission can be induced only by high-energy neutrons. As a result, fissile materials (such as uranium-235) are a subset of fissionable materials.
+Uranium-235 fissions with low-energy thermal neutrons because the binding energy resulting from the absorption of a neutron is greater than the critical energy required for fission; therefore uranium-235 is fissile. By contrast, the binding energy released by uranium-238 absorbing a thermal neutron is less than the critical energy, so the neutron must possess additional energy for fission to be possible. Consequently, uranium-238 is fissionable but not fissile.
+An alternative definition defines fissile nuclides as those nuclides that can be made to undergo nuclear fission (i.e., are fissionable) and also produce neutrons from such fission that can sustain a nuclear chain reaction in the correct setting.  Under this definition, the only nuclides that are fissionable but not fissile are those nuclides that can be made to undergo nuclear fission but produce insufficient neutrons, in either energy or number, to sustain a nuclear chain reaction.  As such, while all fissile isotopes are fissionable, not all fissionable isotopes are fissile.  In the arms control context, particularly in proposals for a Fissile Material Cutoff Treaty, the term fissile is often used to describe materials that can be used in the fission primary of a nuclear weapon.  These are materials that sustain an explosive fast neutron nuclear fission chain reaction.
+Under all definitions above, uranium-238 (238U) is fissionable, but not fissile. Neutrons produced by fission of 238U have lower energies than the original neutron (they behave as in an inelastic scattering), usually below 1 MeV (i.e., a speed of about 14,000 km/s), the fission threshold to cause subsequent fission of 238U, so fission of 238U does not sustain a nuclear chain reaction.
+Fast fission of 238U in the secondary stage of a thermonuclear weapon, due to the production of high-energy neutrons from nuclear fusion, contributes greatly to the yield and to fallout of such weapons. Fast fission of 238U tampers has also been evident in pure fission weapons. The fast fission of 238U also makes a significant contribution to the power output of some fast-neutron reactors.
+
+
+== Fissile nuclides ==
+
+In general, most actinide isotopes with an odd neutron number are fissile. Most nuclear fuels have an odd atomic mass number (A = Z + N = the total number of nucleons), and an even atomic number Z. This implies an odd number of neutrons. Isotopes with an odd number of neutrons gain an extra 1 to 2 MeV of energy from absorbing an extra neutron, from the pairing effect which favors even numbers of both neutrons and protons. This energy is enough to supply the needed extra energy for fission by slower neutrons, which is important for making fissionable isotopes also fissile.
+More generally, nuclides with an even number of protons and an even number of neutrons, and located near a well-known curve in nuclear physics of atomic number vs. atomic mass number are more stable than others; hence, they are less likely to undergo fission. They are more likely to "ignore" the neutron and let it go on its way, or else to absorb the neutron but without gaining enough energy from the process to deform the nucleus enough for it to fission. These "even-even" isotopes are also less likely to undergo spontaneous fission, and they also have relatively much longer partial half-lives for alpha or beta decay. Examples of these isotopes are uranium-238 and thorium-232. On the other hand, other than the lightest nuclides, nuclides with an odd number of protons and an odd number of neutrons  (odd Z, odd N) are usually short-lived (a notable exception is neptunium-236 with a half-life of 154,000 years) because they readily decay by beta-particle emission to their isobars with an even number of protons and an even number of neutrons (even Z, even N) becoming much more stable.  The physical basis for this phenomenon also comes from the pairing effect in nuclear binding energy, but this time from both proton–proton and neutron–neutron pairing. The relatively short half-life of such odd-odd heavy isotopes means that they are not available in quantity and are highly radioactive.
+
+
+== Nuclear fuel ==
+
+To be a useful fuel for nuclear fission chain reactions, the material must:
+
+Be in the region of the binding energy curve where a fission chain reaction is possible (i.e., above radium)
+Have a high probability of fission on neutron capture
+Release more than one neutron on average per neutron capture. (Enough of them on each fission, to compensate for non-fissions and absorptions in non-fuel material)
+Have a reasonably long half-life
+Be available in suitable quantities
+
+Fissile nuclides in nuclear fuels include:
+
+Uranium-233, bred from thorium-232 by neutron capture with intermediate decays steps omitted.
+Uranium-235, which occurs in natural uranium and enriched uranium
+Plutonium-239, bred from uranium-238 by neutron capture with intermediate decays steps omitted.
+Plutonium-241, bred from plutonium-240 directly by neutron capture.
+Fissile nuclides do not have a 100% chance of undergoing fission on absorption of a neutron. The chance is dependent on the nuclide as well as neutron energy. For low and medium-energy neutrons, the neutron capture cross sections for fission (σF), the cross section for neutron capture with emission of a gamma ray (σγ), and the percentage of non-fissions are in the table at right.
+Fertile nuclides in nuclear fuels include:
+
+Thorium-232, which breeds uranium-233 by neutron capture with intermediate decays steps omitted.
+Uranium-238, which breeds plutonium-239 by neutron capture with intermediate decays steps omitted.
+Plutonium-240, bred from plutonium-239 directly by neutron capture.
+
+
+== See also ==
+Fertile material
+Fission product
+Special nuclear material
+
+
+== Notes ==
+
+
+== References ==

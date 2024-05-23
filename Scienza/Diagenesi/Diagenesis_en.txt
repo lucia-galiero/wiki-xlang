@@ -1,0 +1,44 @@
+Diagenesis () is the process that describes physical and chemical changes in sediments first caused by water-rock interactions, microbial activity, and compaction after their deposition. Increased pressure and temperature only start to play a role as sediments become buried much deeper in the Earth's crust. In the early stages, the transformation of poorly consolidated sediments into sedimentary rock (lithification) is simply accompanied by a reduction in porosity and water expulsion (clay sediments), while their main mineralogical assemblages remain unaltered. As the rock is carried deeper by further deposition above, its organic content is progressively transformed into kerogens and bitumens. 
+The process of diagenesis excludes surface alteration (weathering) and deep metamorphism. There is no sharp boundary between diagenesis and metamorphism, but the latter occurs at higher temperatures and pressures. Hydrothermal solutions, meteoric groundwater, rock porosity, permeability, dissolution/precipitation reactions, and time are all influential factors.
+After deposition, sediments are compacted as they are buried beneath successive layers of sediment and cemented by minerals that precipitate from solution. Grains of sediment, rock fragments and fossils can be replaced by other minerals (e.g. calcite, siderite, pyrite or marcasite) during diagenesis. Porosity usually decreases during diagenesis, except in rare cases such as dissolution of minerals and dolomitization.
+The study of diagenesis in rocks is used to understand the geologic history they have undergone and the nature and type of fluids that have circulated through them. From a commercial standpoint, such studies aid in assessing the likelihood of finding various economically viable mineral and hydrocarbon deposits.
+The process of diagenesis is also important in the decomposition of bone tissue.
+
+
+== Role in anthropology and paleontology ==
+
+The term diagenesis, literally meaning "across generation", is extensively used in geology. However, this term has filtered into the field of anthropology, archaeology and paleontology to describe the changes and alterations that take place on skeletal (biological) material. Specifically, diagenesis "is the cumulative physical, chemical, and biological environment; these processes will modify an organic object's original chemical and/or structural properties and will govern its ultimate fate, in terms of preservation or destruction". In order to assess the potential impact of diagenesis on archaeological or fossil bones, many factors need to be assessed, beginning with elemental and mineralogical composition of bone and enveloping soil, as well as the local burial environment (geology, climatology, groundwater).
+The composite nature of bone, comprising one-third organic (mainly protein collagen) and two thirds mineral (calcium phosphate mostly in the form of hydroxyapatite) renders its diagenesis more complex. Alteration occurs at all scales from molecular loss and substitution, through crystallite reorganization, porosity, and microstructural changes, and in many cases, to the disintegration of the complete unit. Three general pathways of the diagenesis of bone have been identified:
+
+Chemical deterioration of the organic phase.
+Chemical deterioration of the mineral phase.
+(Micro) biological attack of the composite.
+They are as follows:
+
+The dissolution of collagen depends on time, temperature, and environmental pH. At high temperatures, the rate of collagen loss will be accelerated, and extreme pH can cause collagen swelling and accelerated hydrolysis. Due to the increase in porosity of bones through collagen loss, the bone becomes susceptible to hydrolytic infiltration where the hydroxyapatite, with its affinity for amino acids, permits charged species of endogenous and exogenous origin to take up residence.
+The hydrolytic activity plays a key role in the mineral phase transformations that expose the collagen to accelerated chemical- and bio-degradation. Chemical changes affect crystallinity. Mechanisms of chemical change, such as the uptake of F− or CO2−3 may cause recrystallization where hydroxyapatite is dissolved and re-precipitated allowing for the incorporation or substitution of exogenous material.
+Once an individual has been interred, microbial attack, the most common mechanism of bone deterioration, occurs rapidly. During this phase, most bone collagen is lost and porosity is increased. The dissolution of the mineral phase caused by low pH permits access to the collagen by extracellular microbial enzymes thus microbial attack.
+
+
+== Role in hydrocarbon generation ==
+When animal or plant matter is buried during sedimentation, the constituent organic molecules (lipids, proteins, carbohydrates and lignin-humic compounds) break down due to the increase in temperature and pressure. This transformation occurs in the first few hundred meters of burial and results in the creation of two primary products: kerogens and bitumens.
+It is generally accepted that hydrocarbons are formed by the thermal alteration of these kerogens (the biogenic theory). In this way, given certain conditions (which are largely temperature-dependent) kerogens will break down to form hydrocarbons through a chemical process known as cracking, or catagenesis.
+A kinetic model based on experimental data can capture most of the essential transformation in diagenesis, and a mathematical model in a compacting porous medium to model the dissolution-precipitation mechanism. These models have been intensively studied and applied in real geological applications.
+Diagenesis has been divided, based on hydrocarbon and coal genesis into: eodiagenesis (early), mesodiagenesis (middle) and telodiagenesis (late). During the early or eodiagenesis stage shales lose pore water, little to no hydrocarbons are formed and coal varies between lignite and sub-bituminous. During mesodiagenesis, dehydration of clay minerals occurs, the main development of oil genesis occurs and high to low volatile bituminous coals are formed. During telodiagenesis, organic matter undergoes cracking and dry gas is produced; semi-anthracite coals develop.
+Early diagenesis in newly formed aquatic sediments is mediated by microorganisms using different electron acceptors as part of their metabolism. Organic matter is mineralized, liberating gaseous carbon dioxide (CO2) in the porewater, which, depending on the conditions, can diffuse into the water column. The various processes of mineralization in this phase are nitrification and denitrification, manganese oxide reduction, iron hydroxide reduction, sulfate reduction, and fermentation.
+
+
+== Role in bone decomposition ==
+Diagenesis alters the proportions of organic collagen and inorganic components (hydroxyapatite, calcium, magnesium) of bone exposed to environmental conditions, especially moisture. This is accomplished by the exchange of natural bone constituents, deposition in voids or defects, adsorption onto the bone surface and leaching from the bone.
+
+
+== See also ==
+Chalcedony – Microcrystalline varieties of silica
+Chert – Hard, fine-grained sedimentary rock composed of cryptocrystalline silica
+Flint – Cryptocrystalline form of the mineral quartz
+Concretion – Compact mass formed by precipitation of mineral cement between particles
+Fossil – Preserved remains or traces of organisms from a past geological age
+Petrogenesis – Processes that form rock
+
+
+== References ==

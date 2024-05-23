@@ -1,0 +1,71 @@
+Als Magmakammer (auch als Magmaherd bezeichnet) werden in den Geowissenschaften Bereiche in der Lithosphäre bezeichnet, die mit flüssigem Magma gefüllt sind und deren Temperatur meist deutlich höher ist als die ihrer Umgebung. Diese entstehen, wenn in tiefer gelegenen Schichten gebildetes Magma, welches leichter als das Grundgestein ist, in Form von Magmablasen oder entlang von Schwächezonen aufsteigt und dort seinen Aufstieg unterbricht. Insgesamt ist das Wissen um die Magmaförderwege aber weiterhin lückenhaft.
+Allerdings herrscht seit den 1990er Jahren nicht mehr so sehr die Vorstellung von großen mit halbflüssigem Gestein gefüllten Höhlungen vor, sondern man geht eher von zonierten Magmareservoiren aus. Die Bezeichnungen sind in der Sekundärliteratur auch nicht eindeutig, bisweilen wird mit Magmareservoir eine Ansammlung von Magma bezeichnet, die an der Grenze zwischen Mantel und Kruste (Moho) liegt, und damit tiefer als die eigentliche postulierte Magmakammer. Die Magmen sollen dabei etwa unter Islands Zentralvulkanen scheibenförmige Ansammlungen am Dach der Reservoire von bis zu 100 km Länge und etwa 5–10 km Breite bilden.
+
+
+== Charakteristika von Magmakammern ==
+
+Magmakammern stellen regionale Anomalien im Aufbau des Erdinneren dar, sind aber gleichzeitig die Quelle zahlreicher Gesteinsbildungen. Sie können sich durch tektonische Aktivitäten und Vulkanismus bemerkbar machen. Wenn überhaupt, sind sie vor allem mit Mitteln der Geophysik nachweisbar, zum Beispiel mit Methoden der Seismologie – so werden die Wellen von Erdbeben beim Durchgang von Flüssigkeitsreservoiren gedämpft – oder durch die gravimetrische Messung von Schwereanomalien.
+Die Temperatur des Magmas in diesen Kammern liegt zwischen 1500 °C und 900 °C, zum Teil auch darunter.
+
+
+== Fraktionierte Kristallisation ==
+Schon früh können sich bei der fraktionierten Kristallisation in glutflüssigen Gesteinsschmelzen bestimmte Minerale mit sehr hohen Schmelzpunkten ausscheiden, wie z. B. Chromit. Wenn diese Minerale spezifisch schwerer als die Restschmelze sind, sinken sie auf den Boden der Magmakammer, wo sie sich anreichern und so Lagerstätten bilden können, z. B. orthomagmatische Lagerstätten, man spricht hier auch von einem Bodensatz, einem Kumulat.
+
+
+== Aufstieg von Magmen ==
+
+
+=== Intrusionsbildung ===
+
+Von diesen Kammern aus – die zwischen einigen Kilometern und Dutzenden Kilometern tief liegen – kann das Magma entlang von Klüften und Schwächezonen oder durch sogenannte Gänge empordringen, und bei der langsamen Erstarrung plutonisches Gestein mit verschieden großen Kristallen bilden. Man spricht im Zusammenhang mit diesem in Gängen erstarrten Magma auch von Intrusionen oder – in Bezug auf große Ansammlungen wie erstarrten Magmareservoiren oder -kammern von Plutonen.
+Das eigentliche Muster einer solchen Magmakammer war und ist die Skaergaard-Intrusion. Die zonierte Intrusion befindet sich in Ostgrönland, welches einst über dem Island-Hotspot lag. Man kann die verschiedenen Kristallisationsphasen in drei deutlich voneinander unterschiedenen Bereichen nachvollziehen. Da die Intrusion sich etwas gedreht hat, kann man heutzutage v. a. gut den Boden der Magmakammer mit dem dort durch fraktionierte Kristallisation gebildeten Gestein studieren.
+
+
+=== Vulkanausbruch ===
+Dringt die Gesteinsschmelze aus den Magmakammern bis an die Erdoberfläche, weil der Druck in der Magmakammer größer ist als die Festigkeit des darüber liegenden Gesteins, kommt es zu Erscheinungen des Vulkanismus, d. h. zu Vulkanausbrüchen verschiedener Form.
+Durch das Einbrechen einer oberflächennahen Magmakammer entstandene Kraterformen werden Caldera genannt.
+
+
+== Zonierung von Magmareservoiren ==
+
+Bezugnehmend auf die Rheologie, d. h. den Flüssigkeitsgrad der jeweiligen Mineralien, kann man die Magmakammern in unterschiedliche Bereiche einteilen in Abhängigkeit von Temperatur, Kristallgehalt und Viskosität. Hier wirkt die Fraktionierte Kristallisation. Zunächst ging man hier von einem Absinken schwerer Metalle aus. Dies ist allerdings durch neuere Forschung eingeschränkt worden, so dass man unter bestimmten Bedingungen auch Konvektionsströme im Magma annimmt. Es betrifft höher differenzierte Magmen, bei denen vor allem an den Seitenwänden des Reservoirs hochdifferenzierte Schmelze, d. h. Schmelze mit höherem Kristallgehalt, wegen ihrer geringeren Dichte nach oben steigt.
+Vor allem Fallout-Ablagerungen, die eine deutliche Schichtung – oft schon erkennbar an unterschiedlicher Färbung des Gesteins – zeigen, belegen auch Schichtungen im Magmareservoir. Wobei die höher differenzierten Produkte wie Rhyolithe und Phonolithe unten, und die weniger entwickelten, wie etwa Basalte oben zu liegen kommen – eine Umdrehung der Anordnung im Reservoir, weil die zuoberst liegenden i. d. R. zuerst ausgestoßen wurden. Beispiele sind etwa Ignimbrite vom Mount Mazama (Crater Lake) oder vom Laacher See-Vulkan.
+
+
+== Weitere Beispiele ==
+
+
+=== Mittelozeanische Rücken ===
+
+Tausende Magmareservoire werden an Mittelozeanischen Rücken vermutet – vor allem der Fund von Gabbro aus der Tiefe belegt dies –, jedoch gestaltet sich ihre Erforschung schwierig. Ende der 1990er Jahre hat man unter anderem durch Forschungen an einem Ozeanrücken vor Südamerika einige Details herausgefunden.
+Hier geht man an Orten mit hoher Spreizungsrate (an der Nazcaplatte 15 cm pro Jahr) von einer länglichen Schmelzzone entlang des Rückens aus, auf der eine Kristallbreizone aufliegt, darüber eine Zone mit kleinen Magmataschen. Die Eruptionen werden durch die Plattenbewegungen initiiert und produzieren Fe-reiche, niedrig viskose Laven und Tephren.
+Bei Bereichen mit mittlerer Spreizungsrate setzt man kleine, isolierte Schmelzlinsen etwa an der Spitze divergenter Riftzonen voraus, wo sich verstärkt Differenziation entwickelt.
+Wenn die Spreizungsraten gering und der Magmanachschub niedrig ist, entstehen vermutlich keine Magmareservoire.
+Island erweist sich hier als Sonderfall, da hier die Spreizungsrate eher niedrig ist (ca. 18 mm im Jahr), andererseits aber – vermutlich wegen eines unter der Insel vorhandenen Hot Spots – eine hohe Magmaproduktionsrate und Eruptionsrate vorliegen. Seismische Messungen weisen hier auf oberflächennahe Magmaansammlungen hin, die sich in ca. 10–15 km Tiefe unter den isländischen Vulkanzonen befinden. Magmareservoirs wurden unter den Zentralvulkanen in noch größerer Nähe zur Oberfläche nachgewiesen, etwa unter der Krafla in ca. 3–7 km Tiefe. Während der Heimaey-Eruptionsserie in den 1970ern wurden etwa Magmabewegungen unter dem Eldfell-Vulkan in 15–25 km Tiefe nachgewiesen.
+Aufgrund des Kristallisationsgrades ausgeworfener Gesteine gibt es vermutlich wirklich Verweilzonen für die Magmen unter den Zentralvulkanen Islands. Hier werden zunächst einzelne Gänge gebildet, später Gangschwärme oder Sill. Danach ist mit einer Verdichtung dieser Gangschwärme und Intrusionen zu rechnen, bis schließlich in 3–8 km Tiefe eine Magmakammer entsteht. Linsenförmige derartige Magmakammern sind vermutlich unter Krafla, Grímsvötn und Hekla vorhanden. Ihr Volumen dürfte sich bei 10–100 km3 liegen. Während Rift-Episoden oder dem Eindringen frischen Basaltmagmas aus dem Mantel kann sich das Magma aus dieser Tiefe sehr schnell auf die Oberfläche zu bewegen und ausbrechen.
+
+
+=== Hawaii ===
+
+Die hawaiischen Vulkane sind vergleichsweise gut untersucht worden.
+Unter dem Kilauea etwa erkennt man eine säulenartige Magmastruktur, die sich etwa 2 bis 6 km unter dem Gipfelbereich befindet, mit elliptischem Querschnitt und einem geschätzten Volumen von 5–10 km3. Das Zufuhrsystem setzt sich vermutlich aus vielen Verästelungen und Sills zusammen, die insgesamt für die sehr konstante Förderrate von 3 m3/s der Jahre vor 2000 sorgten. Die Untersuchung älterer Magmen, die nach längeren Eruptionspausen ausgestoßen wurden, belegte hier ebenfalls größere Differentiation.
+In der Asthenosphäre steigt das Magma unter dem Kilauea vermutlich in Form von Diapiren auf. Dabei scheint das Magma aus Alkalibasalt direkt aus dem Mantel zur Oberfläche zu gelangen, während dasjenige aus Tholeiitbasalt verschiedene Phasen durchmacht. Zunächst bilden sich in 60–80 km Tiefe Schalen aus angeschmolzenem Mantelmaterial um Olivin- und Pyroxenkristalle herum. Diese bilden nach einiger Zeit kleine Magmataschen, wobei gleichzeitig das Volumen zu- und die Dichte abnimmt. Diese Vorgänge drücken das Magma nach oben. Jedoch gerät dies vorübergehend an der Grenze von Asthenosphäre und Lithosphäre ins Stocken, ein Vorgang, den man Underplating nennt.
+Anschließend steigt das wegen Dichteverlust weiter schmelzende Magma durch Ritzen und Gänge nach oben, wobei sich die letzteren u. a. aufgrund des Gewichts des aufruhenden Vulkangebäudes gebildet haben. Allerdings handelt es sich nicht um einen kontinuierlichen Vorgang, sondern er geschieht vielmehr in Schüben, wobei sich benutzte Spalten wieder schließen, während sich neue öffnen, was die kontinuierliche Erdbebentätigkeit unter vielen Calderen erklären würde. Beim Aufstieg nimmt die Dichte weiter ab, und erst wenn diese gleich oder höher ist als die des umgebenden Gesteins, kann sich eine größere Tasche in Form einer Magmakammer bilden. Deren Dach befindet sich ca. in 3 km Tiefe vom Gipfelbereich des Kilauea, der Boden etwa in 6–8 km Tiefe bei einer Breite von 3 km. Außerdem befindet sich vermutlich Olivin in höheren Lagen, was einen schnellen Aufstieg des Magmas gewährleisten würde. Sobald die Magmakammer gefüllt ist, was man an der Aufwölbung, die mit sogenannten Tiltmetern gemessen wird, erkennt, bilden sich vertikale und/oder horizontale Gänge und oft folgt eine Gipfel- oder Flankeneruption, wobei aber auch hier ein Großteil des Magmas als Intrusionen erstarrt.
+
+
+== Siehe auch ==
+Hochtemperaturgebiet
+Magmatische Differentiation
+Magmenmischung
+
+
+== Literatur ==
+Gerd Simper: Vulkanismus verstehen und erleben. Feuerland Verlag, Stuttgart 2005, ISBN 3-00-015117-6.
+
+
+== Weblinks ==
+Gareth Fabbro: Beneath the volcano: The Magma Chamber. Science 2.0, 5. November 2011. (Blogeintrag des Geologen, englisch)
+Gareth Fabbro: Magma Chambers Part II: Magma Mushes. Science 2.0, 20. November 2011. (englisch)
+
+
+== Einzelnachweise ==

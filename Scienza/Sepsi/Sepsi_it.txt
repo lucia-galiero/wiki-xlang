@@ -1,0 +1,80 @@
+La sepsi (o setticemia) è una disfunzione d'organo potenzialmente letale, causata da una risposta disregolata dell'organismo a un'infezione.
+Le complesse interazioni tra il microrganismo infettante, il sistema immunitario dell'ospite, le risposte infiammatorie e la coagulazione influenzano l'esito nella sepsi. 
+Malgrado sia meno conosciuta di altre malattie ha un tasso di mortalità cinque volte superiore all'ictus e dieci volte all'infarto. Per aumentarne la consapevolezza nella popolazione è stata istituita la giornata mondiale della sepsi il 13 settembre 2013.
+La diagnosi tempestiva è fondamentale per la gestione della sepsi, come l'inizio di una corretta terapia precoce è fondamentale per ridurre la mortalità da sepsi grave. Uno dei problemi da affrontare per una gestione adeguata del paziente settico è il ritardo nell'assegnazione del trattamento corretto che fa seguito alla diagnosi.
+In passato la malattia era anche chiamata setticemia (dal greco antico  σηπτικός?,  sēptikós) ed era considerata una condizione di iper-infiammazione e coagulabilità, con conseguente danno cellulare e squilibri della circolazione. Al giorno d'oggi il termine setticemia indica invece lo specifico caso in cui la sepsi è accompagnata da batteriemia (sepsi batteriemica) invece che da altri tipi di infezione, anche se a volte viene utilizzato impropriamente come sinonimo di sepsi.
+
+
+== Storia ed epidemiologia ==
+Il termine sepsi, etimologicamente, deriva dal greco antico σήψις?, sēpsis ("putrefazione").
+La prima definizione di sepsi da parte della Society of Critical Care Medicine e dell'American College of Chest Physicians è del 1992; i criteri clinici di SIRS, sepsi, sepsi grave e shock settico erano molto simili. La sepsi era precedentemente definita come compresenza di infezione e SIRS; successivamente questa definizione è stata abbandonata, in quanto la SIRS non è sempre presente in alcuni casi gravi di infezione con disfunzione d'organo, ed è invece presente in molti pazienti con infezione ricoverati in ospedale.
+Nel 2016 una collaborazione tra SCCM e European Society of Intensive Care Medicine, in un grande progetto di collaborazione internazionale per far conoscere la sepsi e per migliorare l'outcome del paziente settico, denominata "Surviving Sepsis Campaign", ha aggiornato le definizioni elaborandole nel "Sepsis-3": la SIRS non rientra più tra i criteri diagnostici, ed il vecchio concetto di "sepsi grave" è quello attuale di sepsi.
+La sepsi si instaura prevalentemente in pazienti critici, immunocompromessi e anziani. Negli Stati Uniti i nuovi casi di sepsi a fine anni Novanta erano stimati sui 750 000 ogni anno, con un'incidenza che si prevedeva destinata ad aumentare dell'1,5% all'anno per l'invecchiamento della popolazione.
+Sempre negli USA riguarda il 1-2% di tutti i ricoveri e fino al 25% dei letti disponibili nelle Unità di Terapia Intensiva (ICU), rappresentando la decima più comune causa di morte, secondo i dati del 2000 dei Centers for Disease Control and Prevention. 
+A causa della sua natura particolarmente aggressiva e multifattoriale, la sepsi conduce rapidamente a morte e costituisce la principale causa di decesso nelle terapie intensive non coronariche di tutto il mondo, con tassi di letalità che vanno dal 20% per la sepsi al 40% per la sepsi grave, ad oltre il 60% per lo shock settico: cumulativamente, nel mondo muoiono per sepsi circa 1.400 persone al giorno.
+
+
+== Patogenesi ==
+L'attivazione immunitaria che causa la sepsi è una risposta infiammatoria sistemica che causa una generalizzata attivazione delle vie dell'infiammazione e della coagulazione del sangue. Tale situazione può progredire fino allo shock settico e, anche a seguito di trattamento ottimale, può portare alla sindrome da insufficienza multiorgano (MODS) ed eventualmente alla morte.
+Condizioni e complicazioni correlate sono:
+
+Coagulazione intravascolare disseminata (CID): grave stato patologico caratterizzato da anormale attivazione del meccanismo di coagulazione del sangue, che porta alla presenza disseminata di trombi ed emorragie; oltre ad esserne la causa può anche essere causata da una sepsi.
+Necrosi tubulare acuta: porta ad insufficienza renale acuta; può derivare dall'ipoperfusione dei reni in caso di sepsi (cioè: non arriva sangue a sufficienza ai reni, e così questi smettono di funzionare).
+Sindrome da insufficienza multiorgano (MODS): può essere causata anche dalla sepsi.
+Meningite: infezione del tessuto che ricopre il Sistema Nervoso Centrale, ossia l'encefalo ed il midollo spinale; può essere una causa od una complicazione della sepsi.
+Endocardite: infezione della superficie interna del cuore, a contatto con il sangue; come altri quadri patologici può essere una causa od una complicazione della sepsi.
+Piemia: è un tipo di sepsi che porta alla formazione di ascessi disseminati, solitamente causata da Stafilococchi.
+Chetoacidosi nei pazienti affetti da Diabete mellito, soggetti allo sviluppo di iperglicemia in caso di sepsi. La chetoacidosi aggrava l'ipotensione, aumentando perciò il rischio di uno shock settico.
+Sofferenza ischemica miocardica, dovuta all’ipoperfusione del cuore, che può portare a grave insufficienza cardiaca. Si può verificare in tutti i casi di sepsi e shock settico ma è più grave nei pazienti anziani cardiopatici.
+Entro dodici ore dal sospetto di sepsi è essenziale confermare o escludere qualsiasi fonte di infezione che richiederebbe un controllo, come infezioni del tessuto molle necrotizzante, peritonite, colangite, infarto intestinale.
+
+
+== Clinica ==
+
+
+=== Il SOFA score ===
+La disfunzione d'organo alla base della sepsi è definita come un incremento acuto di almeno 2 punti del SOFA score (Sepsis-related Organ Failure Assesment), che comporta un aumento del 10% del rischio di mortalità.
+La valutazione completa del SOFA score può richiedere molto tempo, per cui è stato elaborato un nuovo punteggio che permette di identificare più rapidamente i pazienti con sospetta sepsi al di fuori dei reparti di terapia intensiva, il quick SOFA o qSOFA: un paziente che presenti almeno due parametri tra ipotensione (PA sistolica ≤ 100 mmHg), stato neurologico alterato e tachipnea è meritevole di essere valutato al SOFA score per valutarne la potenziale sepsi.
+
+
+=== Segni e sintomi ===
+Oltre ai sintomi correlati all'infezione, la sepsi è frequentemente associata sia con febbre o ipotermia, respirazione rapida, elevata frequenza cardiaca, confusione ed edema. 
+I primi segni sono elevata frequenza cardiaca, diminuzione della minzione e della glicemia, mentre i segni di sepsi diagnosticata sono confusione, acidosi metabolica, bassa pressione sanguigna, diminuzione della resistenza vascolare sistemica, gittata cardiaca più alta e disfunzioni della coagulazione del sangue (lividi o sanguinamento).
+
+
+=== Esami di laboratorio e strumentali ===
+Entro le prime tre ore dal sospetto di sepsi, gli esami diagnostici dovrebbero includere la misurazione del lattato sierico e l'esame delle colture appropriate prima di iniziare un trattamento antimicrobico, purché questo non venga ritardato per più di 45 minuti. 
+Per identificare l'agente patogeno, almeno due emocolture (aerobi ed anaerobi) devono essere ottenute, con almeno una presa per via percutanea e una attraverso un catetere vascolare (ad esempio un catetere intravenoso). Se si sospettano altre fonti, possono essere ottenute altre culture, come l'urina, fluido cerebrospinale, da ferite o da secrezioni respiratorie.
+
+
+=== Diagnosi differenziale ===
+La diagnosi differenziale di sepsi è ampia e comprende le condizioni che possono causare i segni sistemici di SIRS: astinenza da alcol, embolia polmonare, tireotossicosi, anafilassi, insufficienza surrenalica, e shock neurogeno.
+
+
+== Trattamento ==
+Se nel giro di sei ore vi è ipotensione persistente, nonostante la somministrazione iniziale di fluidi a 30 ml/kg, o se il lattato iniziale è ≥ 4 mmol/L (36 mg/dL), dovrebbero essere misurate la pressione venosa centrale e la saturazione di ossigeno venoso. 
+La terapia della sepsi si basa su antibiotici a largo spettro, drenaggio chirurgico di raccolte infette, somministrazione di liquidi e supporto adeguato della disfunzione d'organo. Il supporto può consistere nella dialisi nell'insufficienza renale, nella ventilazione meccanica nell'insufficienza respiratoria, nell'infusione di liquidi, emoderivati e farmaci vasopressori nell'insufficienza circolatoria. Inoltre, soprattutto se si protrae nel tempo tale stato, è importante assicurare un'adeguata nutrizione, eventualmente parenterale.
+La Early Goal Directed Therapy (EGDT, terapia precoce diretta al raggiungimento dell'obiettivo) è un approccio sistematico alla rianimazione validato nel trattamento della sepsi grave e dello shock settico che dev'essere intrapreso già nel Pronto Soccorso. Il razionale consiste nell'uso di un approccio a tappe, facendo raggiungere al paziente degli obiettivi fisiologici intermedi, per ottimizzare così il precarico, il postcarico e la contrattilità cardiaci, ottimizzando dunque l'arrivo di ossigeno ai tessuti. Con l'applicazione di questo protocollo, nello studio originale la mortalità veniva ridotta dal 46,5% nel gruppo di controllo al 30,5% nel gruppo trattato. Le linee guida della Surviving Sepsis Campaign raccomandano la EGDT per la rianimazione iniziale del paziente settico con un'evidenza di livello B (singolo RCT, randomized controlled trial, studio controllato randomizzato).
+La maggioranza delle terapie che miravano direttamente al processo infiammatorio hanno fallito nel migliorare l'esito. Solo la proteina C attivata (drotrecogin alfa attivato) ha dimostrato di diminuire la letalità da circa il 31% a circa il 25% nella sepsi grave. Essa ha proprietà antinfiammatorie, anticoagulanti e fibrinolitiche ed ha dimostrato di migliorare il microcircolo che è alterato nella sepsi.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Shock settico
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «sepsi»
+ Wikimedia Commons contiene immagini o altri file su sepsi
+
+
+== Collegamenti esterni ==
+
+(EN) septicemia, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) Kara Rogers, sepsis, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) Surviving Sepsis Campaign, su survivingsepsis.org.
+(EN) International Sepsis Forum, su sepsisforum.org.
+(EN) Sepsis.com. URL consultato il 20 giugno 2019 (archiviato dall'url originale il 19 aprile 2009).

@@ -1,0 +1,109 @@
+L'idrogeologia (dal greco idro- "acqua", e geo-logos "studio della Terra") è una parte dell'idrologia che si occupa della distribuzione e dei movimenti delle acque sotterranee, direttamente relazionate con delle acque meteoriche all'interno dei suoli e delle rocce della crosta terrestre (generalmente nella falda idrica sotterranea, comunemente chiamata falda acquifera). Il termine geoidrologia è spesso usato come sinonimo. L'idrogeologo si occupa proprio di studiare, analizzare, valutare e monitorare suolo e sottosuolo in ambiente idrico e idrogeologico.
+
+
+== Descrizione ==
+L'idrogeologia (come gran parte delle scienze della Terra) è una materia interdisciplinare; può essere difficile render conto in maniera completa delle interazioni chimiche, fisiche, biologiche e perfino legali, che si hanno tra terreno, acqua, natura e uomo. Anche se i concetti base dell'idrogeologia sono molto intuitivi (ad esempio, "l'acqua scorre verso il basso"), lo studio delle interazioni può essere abbastanza complesso. Prendere in considerazione le reciproche azioni e reazioni tra aspetti differenti di un sistema a più componenti, spesso richiede conoscenze in diversi campi di studio, sia a livello teorico che sperimentale. Questo è quello detto, quello che segue è un'introduzione ai metodi e alla nomenclatura dell'idrologia sotto le superfici sature o più semplicemente idrogeologia.
+
+
+=== Relazione con altri campi ===
+L'idrogeologia, come scritto qui sopra, è una branca delle scienze della Terra che si occupa dello studio dello scorrere delle acque attraverso gli acquiferi e attraverso rocce permeabili (tipicamente fino a 450 m o 1,500 piedi sotto la superficie).
+Lo scorrere delle acque nei terreni poco profondi (fino a 3 m o 10 piedi) è pertinente al campo della pedologia, dell'agricoltura, e dell'idrologia oltre all'idrogeologia in senso stretto. 
+Lo scorrere dei fluidi in generale (acqua, idrocarburi, fluidi geotermici, ecc.) nelle formazioni più profonde è studiato anche da geologi, geofisici, geologi petroliferi e [ingegneria ambientale|ingegneri ambientali]. 
+L'acqua sotterranea è un fluido reale, quindi dotato di viscosità e densità variabili con la temperatura e il tenore di sostanze in soluzione e sospensione, e molte delle leggi empiriche per le acque sotterranee sono derivate dalla meccanica dei fluidi.
+Le relazioni matematiche usate per descrivere il movimento delle acque attraverso mezzi porosi sono la diffusione e l'equazione di Laplace, che hanno applicazioni in vari campi. Flussi di acque sotterranee costanti (Equazione di Laplace) sono stati simulati usando analogie elettriche, elastiche e di conduzione di calore. 
+Flussi transitori di acque sotterranee sono analoghi alla propagazione di calore in un solido, quindi alcune soluzioni a problemi di idrogeologia sono state adattate dalle teoria di termodinamica.
+Tradizionalmente, lo studio delle acque sotterranee è stato effettuato separatamente rispetto alle acque superficiali, alla climatologia, e persino dagli aspetti chimici e microbiologici dell'idrogeologia (i processi erano separati). 
+Con lo svilupparsi del campo dell'idrogeologia, le forti interazioni tra acque sotterranee, acque superficiali, chimica delle acque,gradi di saturazione dei suoli e naturalmente con il clima stanno diventando più chiare.
+
+
+== Definizioni e proprietà dei materiali ==
+Voce principale: Acquifero
+
+Allo scopo di spiegare i termini di acquiferi e di acquitardi e acquicludi, qui di seguito vengono introdotti alcuni concetti di base. Gli acquiferi sono i corpi geologici (costituiti da terreni a permeabilità intergranulare come ghiaie e sabbie, o da rocce pervase da sistemi di vuoti intercomunicanti) che contengono acqua libera di muoversi per gravità, e vengono generalmente classificati come confinati o liberi, e come saturi o insaturi. La tipologia di acquifero influenza le proprietà e le modalità del flusso di acqua nel mezzo (e.g., il rilascio di acqua da un acquifero confinato dipende dal coefficiente di immagazzinamento, collegato a sua volta alla porosità efficace (o rendimento specifico) in acquiferi liberi). La determinazione delle caratteristiche idrogeologiche degli acquiferi avviene attraverso l'esecuzione di test idrogeologici, come le prove di portata o i tracciamenti.
+Gli aquitardi sono corpi geologici di permeabilità bassa (orientativamente compresa fra un centesimo e un decimillesimo di mm/s. Sono quindi detti quindi semipermeabili , mentre gli aquicludi , che hanno permeabilità inferiore ,sono considerati impermeabili.
+
+
+=== Carico idraulico ===
+Voce principale: Carico idraulico
+Il gradiente di carico idraulico (h) è la forza motrice che spinge l'acqua a muoversi da un punto all'altro dello spazio.
+L'equazione di Bernoulli dimostra che sotto determinate ipotesi (flusso incomprimibile, non viscoso in stato stazionario), lungo una linea di flusso la sommatoria dei termini di pressione, velocità ed altezza geodetica si mantiene costante.
+Questa sommatoria è identificabile con il carico idraulico.
+Normalmente, nel moto di filtrazione, l'energia cinetica del fluido è di qualche ordine di grandezza inferiore ai termini di pressione ed altezza geodetica e pertanto può essere trascurata.
+Il carico idraulico risulta così normalmente composto dai termini di pressione (psi) ed altezza geodetica (z). Il gradiente del carico idraulico è definito come la variazione di carico idraulico per unità di lunghezza e, secondo la Legge di Darcy,ed è proporzionale alla portata che attraversa una sezione unitaria dell'acquifero normale al gradiente.
+Il carico idraulico è una proprietà del fluido direttamente misurabile che può assumere un qualunque valore (a causa del valore arbitrario del termine geodetico z); psi può essere misurata attraverso un trasduttore di pressione; questo valore può essere negativo, come nel caso dei terreni insaturi (potenziale di suzione), ma è solitamente positivo per mezzi porosi saturi, mentre z può essere misurata relativamente ad un'origine nota (solitamente la bocca del pozzo). Solitamente, in pozzi che captano acquiferi liberi, il livello di acqua nel pozzo è utilizzato come una misura del carico idraulico, assumendo la pressione uguale a quella atmosferica. 
+Le misure della variazione del carico idraulico nel tempo in un pozzo possono essere eseguite attraverso un idrografo, ad esempio nel caso di una prova di pompaggio dove interessano le modalità di abbassamento della superficie piezometrica.
+
+
+=== Porosità ===
+
+Voce principale: Porosità.
+La porosità (n) dell'acquifero può essere valutata nel corso delle prove di campo o su campioni di laboratorio secondo le necessità. Ovviamente nel primo caso il valore ottenuto rappresenta quello da utilizzare nei calcoli che coinvolgono estese aree (es. bilanci idrici), nel secondo per prove di laboratorio. Si tratta di una frazione tra 0 e 1 che indica la percentuale del volume del terreno considerato che viene occupata dai vuoti, ad esempio, una porosità del 20% corrisponde, se il terreno ha un volume di un metro cubo, a 200 litri . Negli acquiferi una parte dell'acqua è libera di muoversi per gravità defluendo secondo il gradiente ad esempio verso le captazioni ,e viene definita porosità efficace. Quella percentuale che invece viene trattenuta dal terreno, ne indica la capacità di ritenzione.
+La porosità non influenza direttamente la distribuzione del carico idraulico in un acquifero, bensì agisce sulla velocità dei fluidi nel sottosuolo con una relazione di proporzionalità inversa; assume pertanto un significato molto importante nello studio della migrazione di inquinanti in falda.
+
+
+=== Contenuto d'acqua ===
+Voce principale: Contenuto d'acqua
+Il contenuto in acqua (θ) è un'altra proprietà direttamente misurabile; è la percentuale del volume di terreno sul totale che è riempita con acqua liquida. Anche questa è una frazione tra 0 e 1, ed è naturalmente minore o uguale alla porosità totale.
+Il contenuto d'acqua è particolarmente importante nella zona insatura, laddove la conducibilità idraulica è una funzione nonlineare del contenuto d'acqua; questo rende notevolmente più complicata la ricerca di soluzioni analitiche all'equazione di flusso.
+
+
+=== Conducibilità idraulica ===
+Voce principale: Conducibilità idraulica.
+La conducibilità idraulica (K) e la trasmissività (T) sono caratteristiche proprie dei sistemi acquiferi non misurabili direttamente. T rappresenta l'integrale di K sullo spessore saturo (b) dell'acquifero (T=Kb dove K è costante sullo spessore). Questi parametri sono fondamentali per analizzare la capacità dell'acquifero di lasciarsi attraversare dall'acqua. La Conducibilità idraulica K ha le dimensioni di una velocità (m/s) e spesso viene indicata con il termine di permeabilità, sebbene non vada confusa con la permeabilità intrinseca, dipendente unicamente dalla dimensione e dalla disposizione dei pori del terreno.
+La conducibilità idraulica dipende infatti anche dalla viscosità e dalla densità del fluido nel sottosuolo; nella maggior parte dei casi dell'idrogeologia classica, i valori di K riportati sono riferiti all'acqua a temperatura ambiente.
+La permeabilità intrinseca assume invece importanza nello studio di fluidi particolarmente densi ed è pertanto molto utilizzata nel settore petrolifero.
+
+
+== Bibliografia ==
+
+
+=== Idrogeologia generale ===
+Castany, G., 1982. Idrogeologia. Principi e metodi Ed. 2003 Dario Flaccovio Editore.
+ Pietro Celico, Elementi di idrogeologia, Liguori editore, 2004, ISBN 978-88-207-1875-6.
+Domenico, P.A. & Schwartz, W., 1998. Physical and Chemical Hydrogeology Second Edition, Wiley. — Good book for consultants, it has many real-world examples and covers additional topics (e.g. heat flow, multi-phase and unsaturated flow). ISBN 0-471-59762-7
+Driscoll, Fletcher, 1986. Groundwater and Wells, US Filter / Johnson Screens. — Practical book illustrating the actual process of drilling, developing and utilizing water wells, but it is a trade book, so some of the material is slanted towards the products made by Johnson Well Screen. ISBN 0-9616456-0-1
+Freeze, R.A. & Cherry, J.A., 1979. Groundwater, Prentice-Hall. — A classic text; like an older version of Domenico and Schwartz. ISBN 0-13-365312-9
+Porges, Robert E. & Hammer, Matthew J., 2001. The Compendium of Hydrogeology, National Ground Water Association, ISBN 1-56034-100-9. Written by practicing hydrogeologists, this inclusive handbook provides a concise, easy-to-use reference for hydrologic terms, equations, pertinent physical parameters, and acronyms
+Todd, David Kieth, 1980. Groundwater Hydrology Second Edition, John Wiley & Sons. — Case studies and real-world problems with examples. ISBN 0-471-87616-X
+
+
+=== Modellazione numerica delle acque sotterranee ===
+Anderson, Mary P. & Woessner, William W., 1992 Applied Groundwater Modeling, Academic Press. — An introduction to groundwater modeling, a little bit old, but the methods are still very applicable. ISBN 0-12-059485-4
+Zheng, C., and Bennett, G.D., 2002, Applied Contaminant Transport Modeling Second Edition, John Wiley & Sons — A very good, modern treatment of groundwater flow and transport modeling, by the author of MT3D. ISBN 0-471-38477-1
+Anderson, Woessner, 2002. Applied groundwater modelling, Academic Press Inc.
+Bear J., 1979. Hydraulics of Groundwater McGraw-Hill Series in water resources and environmental engineering, McGraw Hill, 569 pp
+Bear J., Verruijt A., 1987. Modelling Groundwater flow and Pollution, D.Reidel Publishing Company, 414 pp.
+Pinder G., 2002, Groundwater modelling using GIS, John Wiley & Sons Inc
+Wang H., Anderson M., 1982.Introduction to groundwater modelling: Finite Differences and Finite Elements methods, Academic Press Inc.
+Romanazzi A., 2018, Modellazione idrogeologica. Guida agli strumenti teorici e pratici per la modellazione degli acquiferi, Flaccovio Dario
+
+
+=== Modellazione analitica delle acque sotterranee ===
+Haitjema, Henk M., 1995. Analytic Element Modeling of Groundwater Flow, Academic Press. — An introduction to analytic solution methods, especially the Analytic element method (AEM). ISBN 0-12-316550-4
+Harr, Milton E., 1962. Groundwater and seepage, Dover. — a more civil engineering view on groundwater; includes a great deal on flownets. ISBN 0-486-66881-9
+Lee, Tien-Chang, 1999. Applied Mathematics in Hydrogeology, CRC Press. — Great explanation of mathematical methods used in deriving solutions to hydrogeology problems (solute transport, finite element and inverse problems too). ISBN 1-56670-375-1
+Liggett, James A. & Liu, Phillip.L-F., 1983. The Boundary Integral Equation Method for Porous Media Flow, George Allen and Unwin, London. — Book on BIEM (sometimes called BEM) with examples, it makes a good introduction to the method. ISBN 0-04-620011-8
+
+
+== Voci correlate ==
+Cuneo salino
+Tracciante (idrogeologia)
+Coefficiente di immagazzinamento
+Amoozemeter
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «idrogeologia»
+ Wikimedia Commons contiene immagini o altri file su idrogeologia
+
+
+== Collegamenti esterni ==
+ Standard EPA per l'acqua potabile, su epa.gov.
+Home Page dello US Geological Survey sulle risorse d'acqua — un buon posto per trovare dati liberi (sia per le acque di superficie che per le falde freatiche) ed un ottimo archivio di software libero per la risoluzione dei più comuni problemi legati all'idrologia e all'idrogeologia; in particolare, è possibile scaricare le più recenti versioni di un famoso codice di calcolo per l'impostazione e la risoluzione di modelli numerici delle acque di falda alle differenze finite MODFLOW.
+Sito di Idrogeologia - Ottimo sito dedicato interamente all'idrogeologia dove è possibile trovare/cercare lavoro, scaricare dispense e software, avere riferimenti bibliografici vari.
+Corso di Idrogeologia Dott. Fileccia Archiviato il 15 maggio 2008 in Internet Archive. - Sito universitario dove è possibile scaricare interessanti slides ed esercitazioni di Idrogeologia
+Gruppo di Idrogeologia Università di Roma Archiviato il 20 ottobre 2013 in Internet Archive. - Sito universitario con un elenco di pagine personali di docenti che contengono numerose lezioni di Idrogeologia Applicata scaricabili in pdf
+Indice TWRI dello US Geological Survery — una serie di manuali che coprono procedure comuni in idrogeologia. Disponibili liberamente in formato PDF.
+International Ground Water Modeling Center (IGWMC) Archiviato il 9 dicembre 2008 in Internet Archive. — un deposito educativo di software per la modellazione delle falde freatiche, che offre supporto per molti di questi software, alcuni dei quali sono gratuiti.
+Simmons Geologic Resources and Paleontology

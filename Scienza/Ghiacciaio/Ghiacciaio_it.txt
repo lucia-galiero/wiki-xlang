@@ -1,0 +1,170 @@
+Un ghiacciaio, in glaciologia, è una massa di ghiaccio, appartenente alle formazioni nevose perenni, formatasi in seguito all'accumulo dalla neve in avvallamenti del territorio e alla sua graduale trasformazione in ghiaccio per l'azione del gelo e la compattazione progressiva degli strati nevosi; tale massa tipicamente scorre verso il basso per gravità. I ghiacciai sono situati in contesti ad elevata latitudine o altitudine, nei quali l'apporto annuale di neve supera l'ablazione dovuta alla fusione. 
+Si pensa che 20 000 anni fa i ghiacciai ricoprissero circa il 30% delle terre emerse e sotto questo punto di vista i ghiacciai attuali possono essere visti come il residuo delle precedenti ere glaciali; come conseguenza, attualmente più del 10% delle terre emerse è occupato da sedimenti di origine glaciale. I ghiacciai attualmente occupano circa il 10% della superficie delle terre emerse (e appena il 3% della superficie terrestre), costituendo di gran lunga il più grande serbatoio d'acqua dolce sulla Terra, con le più grandi distese di ghiaccio rappresentate dalle calotte glaciali di Groenlandia e Antartide seguite dai ghiacci continentali.
+
+
+== Descrizione ==
+
+
+=== Morfologia ===
+
+La parte superiore di un ghiacciaio è il bacino collettore, separato dalla linea di equilibrio dall'area di ablazione, dove avviene la riduzione della massa glaciale per fusione o evaporazione. Normalmente l'area di ablazione assume una forma allungata, detta lingua glaciale. La parte più bassa della lingua glaciale prende il nome di fronte del ghiacciaio ed è spesso sorgente, con le sue acque fuse, di torrenti di montagna e/o laghi montani d'altura (lago proglaciale). Le caratteristiche geomorfologiche dei ghiacciai sono dovute essenzialmente al loro scorrimento verso valle: la forza di gravità causa la spinta verso il basso e l'attrito delle rocce vi si oppone, generando così crepacci, seracchi e morene.
+
+
+=== Tipi di ghiacciai ===
+
+Si possono distinguere due tipi di ghiacciai:
+
+calotte glaciali continentali o regionali (definite anche con il termine norvegese inlandsis);
+ghiacciai montani o locali.
+I ghiacciai montani, a loro volta, si possono sommariamente distinguere in:
+
+alpini: formati da un solo bacino collettore (zona di accumulo) e da una sola lingua glaciale;
+pirenaici: di forma circolare o semicircolare, senza una lingua glaciale evidente;
+scandinavi: formati da un solo bacino collettore, dal quale defluiscono più lingue glaciali, sui versanti opposti del rilievo su cui sono posti;
+himalayani: formati da due o più bacini collettori, che danno luogo a lingue glaciali distinte, le quali confluiscono in una sola lingua, generalmente di notevole estensione;
+andini: simili a quelli pirenaici ed a calotta, ma di estensione e spessori maggiori;
+alaskani: derivano dalla confluenza di più lingue glaciali, che percorrono valli più o meno parallele e che si saldano fra loro allo sbocco vallivo, sino a formare un unico grande corpo glaciale;
+patagonici: scendono spesso fino al livello del mare/oceano;
+equatoriali: presenti su alcune cime delle Ande equatoriali, in Africa sui monti Kilimangiaro, Kenya e Ruwenzory e in Indonesia sul Puncak Jaya;
+polari, si estendono a latitudini polari lungo le isole polari, la Groenlandia e la calotta polare antartica.
+
+
+=== Moto ===
+
+I ghiacciai tendono dunque a muoversi verso valle: mentre il nucleo del ghiacciaio scorre verso altitudini inferiori, ogni punto del ghiacciaio può spostarsi in misura e direzione diverse. Il moto complessivo è dovuto alla forza di gravità e la velocità di scorrimento in ogni parte del ghiacciaio è condizionata da fattori molteplici. Il ghiaccio, in generale, si comporta come un solido fragile se il suo spessore non raggiunge i 50 metri, altrimenti è assimilabile ad un fluido ad elevata viscosità, specie su pendenze sensibili. La pressione sul ghiaccio è responsabile del flusso plastico in misura maggiore rispetto alla profondità. Il ghiaccio è costituito da strati di molecole sovrapposti, con legami relativamente deboli tra di essi. Quando la forza peso esercitata dallo strato superiore controbilancia la forza di legame tra uno strato e l'altro, quest'ultimo si muove più velocemente dello strato inferiore.
+Un altro tipo di movimento, tipico dei ghiacciai temperati, è lo slittamento basale: in questo processo, l'intero ghiacciaio si sposta sul terreno su cui poggia, lubrificato dall'acqua di disgelo. Dal momento che la pressione cresce verso la base del ghiacciaio, il punto di fusione dell'acqua si abbassa e il ghiaccio si fonde. Anche l'attrito tra il ghiaccio e la roccia e il calore geotermico proveniente dall'interno della Terra contribuiscono alla fusione del ghiaccio. Il flusso di calore geotermico aumenta al crescere dello spessore del ghiacciaio. Il moto verso il basso e l'azione di attrito del ghiaccio sul substrato roccioso sottostante sono causa di erosione (esarazione), che tende a scavare la roccia in valli tipiche, a forma di U circhi glaciali e a formare detriti morenici e massi erratici ai bordi e nel fondo del ghiacciaio stesso.
+
+
+==== Legge di Somigliana ====
+
+Per calcolare la velocità superficiale di un ghiacciaio può essere utilizzata la legge di Somigliana introdotta dal fisico italiano Carlo Somigliana (Como, 1860 - Casanova Lanza, 1955). La velocità, infatti, dipende in modo diretto dallo spessore del ghiacciaio considerato, dalla presenza di acqua tra il ghiaccio e il letto roccioso, oltre che dall'inclinazione, dalla morfologia e dall'asperità del fondo.
+Partendo da questa legge, si è giunti a una nuova formula, che contempla anche lo sforzo di taglio basale, cioè la componente dello sforzo parallela alla superficie del letto roccioso. Inoltre la velocità dipende anche dalla densità del ghiaccio, dal suo spessore e dall'accelerazione di gravità:
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              ρ
+              g
+              sin
+              ⁡
+              α
+              
+                L
+                
+                  2
+                
+              
+              
+                M
+                
+                  2
+                
+              
+            
+            
+              2
+              μ
+              (
+              
+                L
+                
+                  2
+                
+              
+              +
+              
+                M
+                
+                  2
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle v={\frac {\rho g\sin \alpha L^{2}M^{2}}{2\mu (L^{2}+M^{2})}}}
+  
+
+dove ρ rappresenta la densità del ghiaccio, μ il coefficiente di viscosità del ghiacciaio, α l'angolo di inclinazione del fondo roccioso, mentre L e M sono, rispettivamente, il semiasse orizzontale e il semiasse verticale della semiellisse che forma la sezione trasversa del ghiacciaio (semilarghezza e spessore).
+Questa legge può essere inoltre impiegata per calcolare lo spessore del ghiacciaio conoscendone la velocità di spostamento o la pendenza della parete rocciosa sottostante. La misura dello spessore viene oggi misurata in modo diretto, attraverso perforazioni (con costi elevati), oppure indirettamente attraverso sondaggi geofisici che utilizzano la propagazione di onde elettromagnetiche (prospezione geofisica).
+
+
+== Dinamica nel tempo ==
+
+
+=== Formazione ===
+
+Perché si cominci a formare un ghiacciaio, è necessario che la quantità di neve che cade e che si accumula nell'arco di un anno, superi la quantità di quella che viene persa per fusione o sublimazione cioè vi sia un effettivo accumulo perenne nell'intero anno. Questo avviene nelle zone polari e di alta montagna, dove la temperatura rimane bassa tutto l'anno e le precipitazioni nevose sono abbondanti. La neve si accumula nel tempo al di sopra di una quota detta Limite delle nevi permanenti; a quote più basse generalmente tutta la neve fonde nel corso dell'anno.
+Il limite delle nevi perenni dipende sia dalla temperatura che dall'intensità delle precipitazioni nevose. All'equatore è di circa 4.500 m, mentre verso i poli si abbassa fino al livello del mare; sulle Alpi esso varia tra i 3.100 m della Valle d'Aosta, dove le precipitazioni sono più scarse, e i 2.500 m del Friuli, dove invece sono più abbondanti.
+
+
+==== Dalla neve al ghiaccio ====
+Al di sopra del limite delle nevi perenni, i fiocchi di neve, soffici e leggerissimi a causa dell'inclusione di grandi quantità di aria (densità 0,18937246 g/cm³), col tempo si accumulano e si compattano sotto l'azione combinata del proprio peso e del processo di metamorfismo dei cristalli di ghiaccio, che porta ad espellere l'aria contenuta negli interstizi ed a formare aggregati via via più densi: prima la neve granulare (0,3 g/cm³) e poi, dopo una estate, il Firn (0,5 g/cm³). La completa trasformazione in ghiaccio (0,9 g/cm³) è un processo ancora più lento, che può richiedere anche più di 100 anni e avviene per compattazione della neve sotto accumuli, il cui spessore è di decine di metri. Nei ghiacciai delle zone temperate il processo è accelerato dall'eventuale fusione della neve durante il giorno e dalla successiva trasformazione durante la notte, per congelamento, direttamente in ghiaccio dell'acqua formatasi. Occorrono, comunque, in media cinque anni perché si formi ghiaccio sotto un accumulo di neve spesso una ventina di metri.
+
+
+=== Fusione dei ghiacciai ===
+
+Negli ultimi decenni, con lo sviluppo degli studi sul riscaldamento globale, è stato sollevato il problema del rischio di estinzione dei ghiacciai della Terra: l'aumento della temperatura globale può, infatti, aumentare sensibilmente la quota delle nevi perenni e anche determinare una fusione più rapida del manto nevoso. Ad essere più a rischio sono i piccoli ghiacciai, soprattutto nelle Alpi o nelle catene montuose moderatamente elevate e poste a medie e basse latitudini, dal momento che essi hanno un equilibrio decisamente più fragile rispetto a quelli himalayani o del Polo Sud. Un arretramento dei ghiacciai a tali latitudini, unito anche ad una diminuzione del loro spessore, è stato più volte rilevato (vedi ritiro dei ghiacciai dal 1850 dalla fine della piccola era glaciale). 
+Proprio per questa loro sensibilità, i ghiacciai sono spesso considerati dai climatologi come i termometri della temperatura media globale. In particolare, i ghiacciai delle medie latitudini si dimostrano particolarmente sensibili alle ondate di calore durante la stagione estiva, pur in un eventuale contesto di media termica nella norma sul lungo periodo: il ghiaccio fuso, infatti, non ridiviene neve se il successivo ripristino delle medie termiche, attraverso la compensazione, avviene con un periodo freddo ma secco, ovvero senza precipitazioni nevose. Per ridurre il processo di fusione sono stati effettuati, con esito favorevole, degli esperimenti di copertura di alcuni ghiacciai alpini con teli bianchi, attraverso opere di geoingegneria.
+
+
+== Sfruttamento turistico ==
+Alle medie latitudini alcuni ghiacciai, dalle caratteristiche geomorfologiche opportune, sono utilizzati a scopo turistico per la pratica dello sci estivo. In Europa, Ghiacciaio della Lauze a Les Deux Alpes e ghiacciaio della Grande Motte a Tignes in Francia, Plateau Rosà sopra Zermatt e Breuil Cervinia, ghiacciaio del Vorab sopra Laax e Glarona Sud e ghiacciaio di Fee sopra Saas-Fee in Svizzera, ghiacciaio del Siedel in alta Val Formazza, ghiacciaio del Livrio sopra il Passo dello Stelvio, ghiacciaio Presena sopra il Passo del Tonale, in Italia (un tempo anche il ghiacciaio del Sommeiller sopra Bardonecchia, il ghiacciaio di Indren sopra Alagna Valsesia, il ghiacciaio del Monte Moro sopra Macugnaga e il ghiacciaio della Marmolada sopra Malga Ciapela), ghiacciai di Sölden in Austria.
+Tale utilizzo si è, di fatto, ridotto ad un ristretto numero di ghiacciai, proprio a causa della fusione di questi in concomitanza con i mutamenti climatici in atto.
+
+
+== Galleria d'immagini ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Note ==
+
+
+== Bibliografia ==
+(EN) Bennett M.R. e Glasser N.F., Glacial Geology – Ice sheets and landforms. Second Edition, Chichester (UK), Wiley-Blackwell, 2009.
+(EN) Nichols G., Sedimentology and stratigraphy - 2nd ed., Oxford, UK, Wiley-Blackwell, 2009,  pp. 102-113.
+ Ricci Lucchi F., Sedimentologia. Parte 1 - Materiali e tessiture dei sedimenti, Bologna, CLUEB, 1980,  pp. 25-36; pp. 125-144.
+
+
+== Voci correlate ==
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni sul ghiacciaio
+ Wikizionario contiene il lemma di dizionario «ghiacciaio»
+ Wikimedia Commons contiene immagini o altri file sul ghiacciaio
+
+
+== Collegamenti esterni ==
+
+ ghiacciaio, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+(IT, DE, FR) Ghiacciaio, su hls-dhs-dss.ch, Dizionario storico della Svizzera. 
+(EN) Mark F. Meier, glacier, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN, IT) Comitato Glaciologico Italiano (CGI), su glaciologia.it (archiviato dall'url originale il 10 marzo 2012).
+ Servizio Glaciologico Lombardo (SGL), su sgl.cluster.it. URL consultato il 20 luglio 2012 (archiviato dall'url originale il 22 gennaio 2009).
+(EN) Glacial structures - photo atlas, su danbbs.dk.
+ DiscoveryAlps, portale delle Alpi, sezione dedicata a meteo e ghiacciai delle Alpi, su discoveryalps.it. URL consultato il 9 novembre 2006 (archiviato dall'url originale il 6 febbraio 2007).

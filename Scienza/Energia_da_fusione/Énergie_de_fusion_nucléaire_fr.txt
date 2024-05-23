@@ -1,0 +1,617 @@
+L'énergie de fusion nucléaire est une forme de production d'électricité du futur qui utilise la chaleur produite par des réactions de fusion nucléaire. Dans un processus de fusion, deux noyaux atomiques légers se combinent pour former un noyau plus lourd, tout en libérant de l'énergie. De telles réactions se produisent en permanence au sein des étoiles. Les dispositifs conçus pour exploiter cette énergie sont connus sous le nom de réacteurs à fusion nucléaire. La recherche sur les réacteurs à fusion a commencé dans les années 1940, mais à ce jour, en 2023, un seul type de conception, une machine à fusion par confinement inertiel au National Ignition Facility (NIF) aux USA, a en tout et pour tout produit un facteur de gain d'énergie de fusion supérieur à 1, c'est-à-dire que les réactions de fusion ont produit une quantité d'énergie supérieure à celle qu'il a fallu fournir au combustible pour maintenir les conditions nécessaires à la réalisation de ces réactions,,.
+Les processus de fusion nécessitent du carburant et un environnement confiné avec une température, une pression et un temps de confinement suffisants pour créer un plasma au sein duquel les réactions de fusion peuvent se produire. L'ensemble de ces conditions est connu sous le nom de critère de Lawson. Au centre des étoiles, le combustible le plus courant est l'hydrogène, et la gravité qui règne fournit une pression et des temps de confinement extrêmement longs, permettant d'atteindre les conditions nécessaires. Les réacteurs à fusion proposés utilisent généralement des isotopes lourds de l'hydrogène, tels que le deutérium et le tritium (et surtout un mélange des deux), parce qu'ils réagissent plus facilement que le protium (l'isotope de l'hydrogène le plus courant) et permettent d'atteindre les exigences du critère de Lawson avec des conditions moins extrêmes, plus faciles à reproduire que celles présentes au centre des étoiles. La plupart des conceptions de réacteurs visent à chauffer leur carburant à environ 100 millions de degrés, ce qui représente un défi majeur.
+En tant que source d'énergie, la fusion nucléaire devrait présenter de nombreux avantages par rapport à la fission. Parmi ceux-ci, on peut noter : une radioactivité réduite durant le fonctionnement, peu de déchets nucléaires de haute activité, un approvisionnement abondant en combustible et une sécurité accrue. Cependant, la nécessité de combiner une température et une pression élevées pendant une durée importante s'est avérée une difficulté majeure pour concevoir des dispositifs pratiques et économiques. Un deuxième problème qui affecte les réacteurs est la gestion des neutrons qui sont libérés au cours des réactions de fusion. Au fil du temps, ils dégradent de nombreux matériaux couramment utilisés pour fabriquer la chambre de fusion.
+Les chercheurs en fusion ont étudié diverses conceptions de confinement. Au début, l'accent était mis sur trois systèmes principaux : le pincement (ou z-pinch), le stellarator et le miroir magnétique. Les conceptions phares actuelles sont le confinement magnétique et le confinement inertiel par laser. Les deux conceptions font l'objet de recherches à très grande échelle, avec notamment les tokamaks des projets ITER en France et SPARC aux États-Unis, ainsi que le laser du NIF également aux États-Unis. Les chercheurs étudient également d'autres conceptions qui peuvent offrir des approches moins onéreuses. Parmi ces alternatives, on note un intérêt croissant pour la fusion à cible magnétisée (en anglais : magnetized target fusion ou MTF) et le confinement inertiel électrostatique, ainsi que de nouvelles variantes du stellarator.
+
+
+== Concepts de base ==
+
+
+=== Mécanisme ===
+Une réaction de fusion se produit lorsque deux ou plusieurs noyaux atomiques se rapprochent suffisamment pendant une durée suffisamment longue pour que la force nucléaire qui attire les nucléons surpasse la force électrostatique qui repousse les protons. Si les conditions sont remplies, les noyaux fusionnent pour former un noyau plus lourd. Pour les noyaux plus lourds que le fer 56, la réaction est endothermique, et elle nécessite un apport d'énergie. Les noyaux plus gros que le fer 56 ont beaucoup plus de protons, ce qui entraîne une plus grande force répulsive. Pour les noyaux plus légers que le fer 56, la réaction est exothermique (elle libère de l'énergie). Étant donné que l'hydrogène a un seul proton dans son noyau, c'est lui qui nécessite le moins d'efforts pour atteindre la fusion et il fournit la production d'énergie la plus élevée. De plus, puisqu'il ne possède qu'un seul électron, l'hydrogène est le combustible le plus facile à ioniser complètement.
+L'interaction électrostatique répulsive entre les noyaux agit sur des distances plus grandes que la force nucléaire attractive. Cette dernière a une portée d'environ un femtomètre (approximativement le diamètre des protons et des neutrons). Les atomes du combustible doivent recevoir suffisamment d'énergie cinétique pour surmonter la répulsion électrostatique et ainsi se rapprocher suffisamment les uns des autres pour permettre d'initier la fusion. La « barrière coulombienne » est la quantité d'énergie cinétique nécessaire pour rapprocher suffisamment les atomes dans le combustible. Pour produire cette énergie, les atomes peuvent être soit chauffés à des températures extrêmement élevées, soit accélérés dans un accélérateur de particules.
+Les atomes perdent leurs électrons lorsqu'ils sont chauffés au-delà de leur énergie d'ionisation. Les noyaux nus qui en résultent sont des ions. Le résultat de cette ionisation est un plasma, qui est un nuage chauffé d'ions et d'électrons libres qui étaient auparavant liés au sein des atomes. Les plasmas étant composés de charges séparées, ils sont conducteurs d'électricité et peuvent être contrôlés par des champs magnétiques. Ces derniers sont donc utilisés par plusieurs dispositifs de fusion pour confiner les particules chaudes.
+
+
+=== Section efficace ===
+
+La section efficace d'une réaction, notée σ, est une mesure de la probabilité qu'une réaction se produise. Elle dépend de la vitesse relative entre les deux noyaux. Dans le cas de la fusion, des vitesses relatives plus élevées augmentent généralement la probabilité, mais elle recommence à diminuer aux énergies très élevées.
+Dans un plasma, la vitesse des particules peut être caractérisée à l'aide d'une distribution de probabilité. Si le plasma est thermalisé, la distribution est une distribution de Maxwell-Boltzmann. Dans ce cas, il est pratique d'utiliser la section efficace moyenne des particules sur l'ensemble de la distribution des vitesses 
+  
+    
+      
+        ⟨
+        σ
+        
+          v
+          
+            A,B
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \langle \sigma v_{\text{A,B}}\rangle }
+  
+. On calcule alors la puissance volumétrique de fusion entre deux espèces de noyaux A et B par :
+
+  
+    
+      
+        
+          P
+          
+            fusion
+          
+        
+        =
+        
+          n
+          
+            A
+          
+        
+        
+          n
+          
+            B
+          
+        
+        ⟨
+        σ
+        
+          v
+          
+            A,B
+          
+        
+        ⟩
+        
+          E
+          
+            fusion
+          
+        
+      
+    
+    {\displaystyle P_{\text{fusion}}=n_{\text{A}}n_{\text{B}}\langle \sigma v_{\text{A,B}}\rangle E_{\text{fusion}}}
+  
+
+où :
+
+  
+    
+      
+        
+          P
+          
+            fusion
+          
+        
+      
+    
+    {\displaystyle P_{\text{fusion}}}
+  
+ est l'énergie produite par la fusion, par unité de temps et par unité de volume.
+
+  
+    
+      
+        
+          n
+          
+            A
+          
+        
+      
+    
+    {\displaystyle n_{\text{A}}}
+  
+ et 
+  
+    
+      
+        
+          n
+          
+            B
+          
+        
+      
+    
+    {\displaystyle n_{\text{B}}}
+  
+ sont les densités numériques respectives des deux espèces A et B des particules dans le volume.
+
+  
+    
+      
+        ⟨
+        σ
+        
+          v
+          
+            A,B
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \langle \sigma v_{\text{A,B}}\rangle }
+  
+ est la section efficace de cette réaction, moyennée sur toutes les vitesses 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ des deux espèces.
+
+  
+    
+      
+        
+          E
+          
+            fusion
+          
+        
+      
+    
+    {\displaystyle E_{\text{fusion}}}
+  
+ est l'énergie libérée par une réaction de fusion.
+
+
+=== Critère de Lawson ===
+Le critère de Lawson montre comment la production d'énergie varie avec la température, la densité et la vitesse de collision dans un carburant donné. Cette équation était au cœur de l'analyse faite par John Lawson sur la fusion fonctionnant avec un plasma chaud. Lawson supposait le bilan énergétique suivant :
+
+  
+    
+      
+        
+          P
+          
+            nette
+          
+        
+        =
+        
+          η
+          
+            capture
+          
+        
+        
+          (
+          
+            
+              P
+              
+                fusion
+              
+            
+            −
+            
+              P
+              
+                conduction
+              
+            
+            −
+            
+              P
+              
+                rayonnement
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle P_{\text{nette}}=\eta _{\text{capture}}\left(P_{\text{fusion}}-P_{\text{conduction}}-P_{\text{rayonnement}}\right)}
+  
+
+où :
+
+  
+    
+      
+        
+          P
+          
+            nette
+          
+        
+      
+    
+    {\displaystyle P_{\text{nette}}}
+  
+ est la puissance nette provenant de la fusion.
+
+  
+    
+      
+        
+          η
+          
+            capture
+          
+        
+      
+    
+    {\displaystyle \eta _{\text{capture}}}
+  
+ est l'efficacité avec laquelle la puissance de fusion est capturée.
+
+  
+    
+      
+        
+          P
+          
+            fusion
+          
+        
+      
+    
+    {\displaystyle P_{\text{fusion}}}
+  
+ est le taux d'énergie générée par les réactions de fusion, tel que défini ci-dessus.
+
+  
+    
+      
+        
+          P
+          
+            conduction
+          
+        
+      
+    
+    {\displaystyle P_{\text{conduction}}}
+  
+ représente les pertes par conduction lorsque des particules énergétiques quittent le plasma.
+
+  
+    
+      
+        
+          P
+          
+            rayonnement
+          
+        
+      
+    
+    {\displaystyle P_{\text{rayonnement}}}
+  
+ représente les pertes par rayonnement du plasma chaud.
+Un nuage de plasma perd de l'énergie par conduction et par rayonnement. La conduction se produit lorsque des ions, des électrons ou des particules neutres impactent d'autres substances, généralement une surface de l'appareil, et transfèrent une partie de leur énergie cinétique aux autres atomes. Le rayonnement est l'énergie qui quitte le plasma sous forme électromagnétique. Il augmente avec la température. Les technologies d'énergie de fusion doivent surmonter ces pertes pour maintenir la température du plasma.
+
+
+=== Triple produit : densité, température, temps ===
+
+Le critère de Lawson stipule qu'une machine contenant un plasma thermalisé et quasi neutre doit générer suffisamment d'énergie pour compenser ses propres pertes. La quantité d'énergie produite dans un volume de plasma donné est fonction de la température (et donc du taux de réaction par particule), de la densité de particules dans ce volume, et enfin du temps de confinement (la durée pendant laquelle l'énergie reste à l'intérieur du volume,. C'est ce qu'on appelle le « triple produit » : la densité du plasma, sa température et le temps de confinement.
+Dans le cas du confinement par champ magnétique, la densité reste faible. Par exemple, dans le dispositif ITER, la densité de combustible est d'environ 1.0 × 1019 m−3, soit de l'ordre du millionième de la densité de l'air à la pression atmosphérique. Cela signifie que la température et/ou le temps de confinement doit augmenter. Des températures pertinentes pour la fusion ont été atteintes en utilisant une variété de méthodes de chauffage qui ont été développées depuis le début des années 1970. Dans les machines modernes, le problème majeur restant à surmonter est celui du temps de confinement. Un plasma placé dans des champs magnétiques intenses est sujet à un certain nombre d'instabilités inhérentes, qui doivent être supprimées si l'on désire atteindre des durées utiles. Une façon d'y parvenir consiste simplement à agrandir le volume du réacteur, ce qui réduit le taux de fuite des particules qui diffusent au sein du plasma. C'est pourquoi ITER est aussi imposant.
+En revanche, les systèmes utilisant le confinement inertiel se rapprochent des valeurs utiles du triple produit via une densité beaucoup plus élevée, mais ont des temps de confinement plus courts. Dans le projet du NIF, la capsule initiale d'hydrogène congelé a une densité inférieure à celle de l'eau, et elle augmente jusqu'à environ 100 fois la densité du plomb. Dans ces conditions, le taux de fusion est tellement élevé que le combustible fusionne seulement pendant les quelques microsecondes avant que la chaleur générée par les réactions ne fasse exploser le combustible. Bien que le NIF soit également un dispositif énorme, sa taille est due à la conception du « pilote » qui contrôle le laser, et non pas au processus de fusion.
+
+
+=== Capture de l'énergie ===
+Plusieurs approches ont été proposées pour capturer l'énergie produite par la fusion. La plus simple est celle qui consiste à chauffer un fluide. La réaction deutérium-tritium (DT) couramment utilisée libère une grande partie de son énergie sous forme de neutrons rapides. Électriquement neutres, les neutrons ne sont pas affectés par le processus de confinement. Dans la plupart des conceptions, ils sont capturés par une épaisse « couverture » de lithium, que l'on appelle la couverture tritigène, qui entoure le réacteur. Lorsqu'elle est frappée par des neutrons de haute énergie, la couverture se réchauffe. Elle est ensuite refroidie avec un fluide qui est alors mis en contact avec de l'eau qui se transforme en vapeur. La vapeur entraîne une turbine qui produit de l'électricité.
+Une autre conception propose d'utiliser les neutrons pour régénérer du combustible de fission dans une couverture contenant des déchets nucléaires, un concept connu sous le nom d'hybride fusion fission. Dans ces systèmes, la puissance de sortie est améliorée par les événements de fission se produisant dans la couverture. La puissance est capturée à l'aide de systèmes identiques à ceux des réacteurs à fission conventionnels.
+Les conceptions utilisant d'autres combustibles, notamment la réaction de fusion aneutronique proton-bore, libèrent beaucoup plus d'énergie sous forme de particules chargées. Dans ce cas, des systèmes de capture d'énergie basés sur le mouvement de ces particules sont possibles. En particulier, une technique de conversion directe d'énergie a été développée au Lawrence Livermore National Laboratory (LLNL) aux États-Unis dans les années 1980. Elle permet de maintenir une tension électrique directement à l'aide des produits des réactions de fusion, avec une efficacité de capture de l'énergie de 48 %.
+
+
+== Comportement du plasma ==
+Un plasma est un gaz ionisé qui conduit l'électricité. Il est modélisé à l'aide de la magnétohydrodynamique, qui est une combinaison des équations de Navier – Stokes, régissant les fluides, et des équations de Maxwell, régissant le comportement des champs magnétiques et électriques. La fusion nucléaire exploite plusieurs propriétés des plasmas, notamment :
+
+Un plasma auto-organisé permet le passage de champs électriques et magnétiques. Les mouvements des ions et des électrons au sein du plasma engendrent des champs qui peuvent à leur tour aider au confinement.
+Un plasma diamagnétique peut engendrer son propre champ magnétique interne. Celui-ci peut repousser un champ magnétique appliqué depuis l'extérieur, le rendant diamagnétique.
+Les miroirs magnétiques peuvent réfléchir le plasma lorsqu'il passe d'un champ de faible densité à un champ d'intensité plus élevée.
+
+
+== Méthodes ==
+
+
+=== Confinement magnétique ===
+Tokamak : C'est l'approche la plus avancée et la mieux financée. Cette méthode maintient un plasma chaud en forme de tore confiné magnétiquement, avec un courant électrique interne. Une fois terminé, ITER deviendra le plus grand tokamak du monde. En septembre 2018, il était estimé qu'il existait de par le monde 226 tokamaks expérimentaux, soit en projets, soit opérationnels (50), soit déclassés.
+Tokamak sphérique : Il est également appelé tore sphérique. C'est une variante du tokamak de forme sphérique, plus compacte.
+Stellarator : Il est composé d'anneaux torsadés de plasma chaud. Le stellarator tente de créer un chemin naturel de plasma torsadé, en utilisant des aimants externes. Le Stellarator a été développé initialement par Lyman Spitzer en 1950 et il a évolué en quatre modèles : le Torsatron, l'Heliotron, l'Heliac et l'Helias. Un exemple est celui du projet Wendelstein 7-X, un dispositif allemand. C'est le plus grand stellarator du monde.
+Anneaux internes : Les stellarators créent un plasma torsadé à l'aide d'aimants externes, tandis que les tokamaks le font à l'aide d'un courant induit dans le plasma. Plusieurs classes de conceptions produisent cette torsion en utilisant des conducteurs à l'intérieur du plasma. Dès les premiers calculs, il a été démontré que les collisions entre le plasma et les supports des conducteurs absorberaient l'énergie plus rapidement que les réactions de fusion ne pourraient la réapprovisionner. Les variantes modernes, y compris l'expérience du dipôle en lévitation (en anglais : Levitated Dipole Experiment, ou LDX), utilisent un tore supraconducteur solide qui est en lévitation magnétique à l'intérieur de la chambre du réacteur.
+Miroir magnétique : Il a été développé par Richard F. Post et les équipes du LLNL dans les années 1960. Les miroirs magnétiques utilisent une intensité de champ magnétique qui varie le long des lignes de champ. L'effet de miroir résulte de la tendance qu'ont les particules chargées à rebondir sur les régions où le champ est plus fort. Différentes variantes comprenaient le Miroir tandem, la bouteille magnétique et la cuspide biconique. Une série de machines à miroir a été construite par le gouvernement américain dans les années 1970 et 1980, principalement au LLNL. Cependant, des calculs dans les années 1970 ont estimé qu'il était peu probable que ces machines ne parviennent a fournir des dispositifs commerciaux pratiques.
+Tore bosselé : Dans ce dispositif, un certain nombre de miroirs magnétiques sont disposés bout à bout dans un anneau toroïdal. Tous les ions du carburant qui s'échappent d'un miroir sont confinés par le miroir voisin, ce qui permet d'augmenter arbitrairement la pression du plasma sans augmenter les pertes. Une installation expérimentale, l'ELMO Bumpy Torus ou EBT, a été construite et testée au laboratoire national d'Oak Ridge (an anglais : Oak Ridge National Laboratory, ou ORNL) dans les années 1970.
+Configuration à champ inversé : Ce dispositif piège un plasma toroïdal dans une structure quasi-stable auto-organisée, où le mouvement des particules crée un champ magnétique interne, inverse par rapport au champ externe, et qui auto-confine le plasma.
+Spheromak : Il est de conception semblable à celle de la configuration à champ inversé. La structure de plasma semi-stable est réalisée en utilisant le champ magnétique auto-engendré du plasma. Un spheromak possède à la fois un champ toroïdal et un champ poloïdal, alors que la configuration à champ inversé n'a pas de champ toroïdal.
+Dynomak : C'est un spheromak qui est formé et maintenu à l'aide d'une injection de flux magnétique continu,,.
+Pincement à champ inversé : Dans ce cas, le plasma se déplace à l'intérieur d'un anneau et il a un champ magnétique interne. En partant du centre de l'anneau et en se déplaçant vers l'extérieur, le champ magnétique change de sens.
+
+
+=== Confinement inertiel ===
+
+Pilotage indirect : Les lasers chauffent une structure connue sous le nom de Hohlraum qui devient si chaude qu'elle commence à émettre des rayons X. Ces rayons X chauffent une capsule placée en son centre et contenant le combustible, la faisant s'effondrer vers l'intérieur, ce qui comprime le combustible. Le plus grand système utilisant cette méthode se trouve au NIF, suivi de près par le Laser Mégajoule.
+Pilotage direct : Les lasers chauffent directement la capsule contenant le combustible, faisant imploser cette dernière. Des expériences notables de pilotage direct ont été menées au Laboratory for Laser Energetics (LLE) et aux installations GEKKO XII au Japon. Ces implosions nécessitent des capsules de combustible avec une forme proche de la perfection afin de générer une onde de choc symétrique vers l'intérieur, condition permettant de produire un plasma à densité élevée.
+Ignition rapide : Cette méthode utilise deux explosions laser. La première comprime le combustible de fusion, tandis que la seconde l'enflamme. Cette technique n'est plus utilisée pour la production d'énergie.
+Fusion magnéto-inertielle : Elle associe une impulsion laser avec un pincement magnétique. La communauté du confinement par pincement l'appelle fusion inertielle par revêtement magnétisé tandis que la communauté du confinement inertiel l'appelle fusion magnéto-inertielle.
+Faisceaux d'ions : Des faisceaux d'ions remplacent les faisceaux laser pour chauffer le combustible. La principale différence est que le faisceau a une quantité de mouvement due à une masse, contrairement aux lasers. Il semble peu probable que les faisceaux d'ions puissent être suffisamment focalisés dans l'espace et dans le temps.
+Machine Z : Elle envoie un courant électrique à travers des fils de tungstène très fins, ce qui les chauffe suffisamment pour générer des rayons X. Comme pour l'approche à pilote indirect, ces rayons X compriment ensuite une capsule contenant le combustible.
+
+
+=== Pincements magnétiques ou électriques ===
+Pincement axial (ou striction axiale, ou encore de l'anglais Z-pinch) : Un courant se déplace le long de la direction axiale (généralement associé à (O, z)) du plasma, et engendre un champ magnétique qui comprime le plasma. Les pincements ont été la première méthode de fusion contrôlée artificielle,. Le pincement axial a des instabilités inhérentes qui limitent sa compression et son échauffement à des valeurs trop faibles pour une fusion pratique. La plus grande machine, le dispositif ZETA au Royaume-Uni, a été la dernière grande expérience de ce type. Les problèmes du pincement axial ont conduit à la conception du tokamak. Le focalisateur de plasma dense est une variante qui pourrait s'avérer meilleure.
+Pincement thêta : Un courant tourne autour de l'extérieur d'une colonne de plasma, dans la direction thêta, perpendiculaire à l'axe de la colonne. Ceci induit un champ magnétique aligné avec l'axe, plutôt qu'autour de celui-ci. Le premier dispositif à pincement thêta, Scylla, a été le premier à démontrer la faisabilité de la fusion de manière concluante, mais des travaux ultérieurs ont démontré que la technique avait des limites inhérentes qui la rendaient inintéressant pour la production d'énergie.
+Pincement axial stabilisé à flux cisaillé : Des recherches à l'Université de Washington, sous la direction d'Uri Shumlak, ont étudié l'utilisation de la stabilisation par flux cisaillé pour lisser les instabilités des réacteurs à pincement axial. Il s'agissait d'accélérer un gaz neutre le long de l'axe du pincement. Les réacteurs expérimentaux les plus importants s'appelaient FuZE et Zap Flow Z-Pinch. En 2017, l'investisseur technologique et entrepreneur britannique Benj Conway, avec les physiciens Brian Nelson et Uri Shumlak, ont cofondé Zap Energy pour tenter de commercialiser la technologie de production d'électricité,,.
+Pincement vis : Cette méthode combine un pincement thêta et axial pour une meilleure stabilisation.
+
+
+=== Confinement électrostatique inertiel ===
+Fusor : Un champ électrique chauffe les ions jusqu'aux conditions de fusion. La machine utilise généralement deux cages sphériques concentriques, une cathode à l'intérieur de l'anode, enfermées dans une enceinte à l'intérieur de laquelle règne un vide. Le champ électrique accélère les ions (ce qui augmente leur température) vers le centre, où ils peuvent fusionner. Ces machines ne sont pas considérées comme une approche viable pour obtenir une puissance nette en raison de leurs pertes par conduction et par rayonnement élevées. Ils sont assez simples à construire, de sorte que des amateurs ont réussi à fusionner des atomes.
+Polywell : Ce dispositif tente de combiner le confinement magnétique avec des champs électrostatiques, pour éviter les pertes par conduction générées par la cage.
+
+
+=== Autres conceptions ===
+Fusion à cible magnétisée : Elle confine le plasma chaud à l'aide d'un champ magnétique et le comprime par inertie. Les exemples incluent la machine FRX-L du LANL, celle de General Fusion (compression de piston avec revêtement en métal liquide), ou de HyperJet Fusion (compression à jet de plasma avec revêtement en plasma),.
+Fusion incontrôlée : La fusion est initiée en utilisant des explosions de fission incontrôlées pour stimuler la fusion. Les premières propositions d'énergie de fusion incluaient l'utilisation de bombes pour déclencher les réactions. Voir le Projet PACER.
+Fusion par faisceau : Un faisceau de particules de haute énergie bombarde un autre faisceau ou une cible fixe peut initier la fusion. Ceci a été utilisé dans les années 1970 et 1980 pour étudier les sections efficaces des réactions de fusion. Cependant, les systèmes de faisceaux ne peuvent pas être utilisés pour produire de l'énergie car le maintien d'un faisceau cohérent nécessite plus d'énergie que la fusion ne peut en produire.
+Fusion catalysée par muons : Dans cette approche les électrons des molécules diatomiques des isotopes de l'hydrogène sont remplacés par des muons - des particules plus massives avec la même charge électrique. Leur plus grande masse comprime suffisamment les noyaux pour que l'interaction forte puisse provoquer une fusion. En 2007, la production de muons nécessitait plus d'énergie que celle pouvant être obtenue à partir de la fusion catalysée par muons.
+
+
+== Outils communs aux différentes conceptions ==
+De nombreuses approches, équipements et mécanismes communs sont utilisés dans différents projets pour résoudre les problèmes du chauffage du plasma, de la mesure et de la production de l'électricité.
+
+
+=== Réseaux de neurones ===
+Un système, nommée « deep reinforcement learning » en anglais, combinant la technique d’apprentissage automatique (« Deep Learning ») avec une technique appelée l'apprentissage par renforcement, a été utilisé pour contrôler un réacteur à base de tokamak. L'intelligence artificielle (IA) a pu manipuler les bobines magnétiques pour gérer le plasma. Le système a pu s'ajuster en permanence pour maintenir un comportement approprié (plus complexe que les systèmes par étapes). En 2014, Google a commencé à travailler avec la société de fusion californienne TAE Technologies pour contrôler le Joint European Torus (JET) afin de prédire le comportement du plasma. DeepMind a également développé un schéma de contrôle avec le Tokamak à configuration variable (TCV) de Lausanne en Suisse.
+
+
+=== Chauffage ===
+Chauffage électrostatique : Un champ électrique peut accélérer des ions ou des électrons chargés, ce qui augmente leur température.
+Injection de faisceau neutre : De l'hydrogène est ionisé et accéléré par un champ électrique pour former un faisceau de protons chargé qui est ensuite projeté en direction du plasma, à travers une source d'hydrogène gazeux neutre. Les collisions entre les protons du faisceau et l'hydrogène gazeux accélère ce dernier vers le plasma. Ce faisceau d'hydrogène neutre n'est pas affecté par le champ magnétique utilisé pour le confinement et peut donc atteindre le plasma. Une fois à l'intérieur du plasma, le faisceau neutre transmet de l'énergie au plasma par des collisions qui l'ionisent, ce qui lui permet d'être à son tour confiné par le champ magnétique. Le plasma est ainsi chauffé et réapprovisionné en une seule opération. Le reste du faisceau chargé est dévié par des champs magnétiques vers des décharges de faisceau où il est refroidi.
+Chauffage par radiofréquence : Une onde radio fait osciller le plasma (à la manière d'un four à micro-ondes). Ceci est également connu sous le nom de chauffage par résonance cyclotron électronique, qui utilise par exemple des gyrotrons, ou chauffage diélectrique.
+Reconnexion magnétique : Lorsque le plasma devient dense, ses propriétés électromagnétiques peuvent changer, ce qui peut conduire à de la reconnexion magnétique. La reconnexion facilite la fusion car elle déverse instantanément de l'énergie dans le plasma, le chauffant rapidement. Jusqu'à 45 % de l'énergie du champ magnétique peut être transféré pour chauffer les ions,.
+Oscillations magnétiques : des courants électriques variables peuvent être fournis à des bobines magnétiques qui chauffent le plasma confiné dans une paroi magnétique.
+Annihilation d'antiprotons : Des antiprotons injectés dans une masse de combustible de fusion peuvent induire des réactions thermonucléaires. Cette possibilité, en tant que méthode de propulsion des engins spatiaux, est connue sous le nom de propulsion par impulsions nucléaires catalysée par antimatière. Elle a été étudiée à l'Université d'État de Pennsylvanie dans le cadre du projet AIMStar.
+
+
+=== Mesure ===
+Les outils de diagnostic d'un réacteur scientifique à fusion sont extrêmement complexes et variés. Ceux qui seront requis pour un réacteur à fusion produisant de l'énergie seront moins compliqués que ceux d'un réacteur de recherche scientifique, car au moment de la commercialisation, de nombreux diagnostics de rétroaction en temps réel et de contrôle auront été perfectionnés. Cependant, l'environnement de fonctionnement d'un réacteur à fusion commercial sera plus éprouvant pour les systèmes de diagnostic que dans le cas d'un réacteur scientifique, car les opérations en continue peuvent impliquer des températures de plasma plus élevées et des niveaux d'irradiation neutronique plus importants. Dans de nombreuses approches qui sont proposées, la commercialisation nécessitera en plus la capacité de mesurer et de séparer les gaz de dérivation, par exemple l'hélium et les impuretés, ainsi que de surveiller la génération du combustible, en particulier l'état de la couverture tritigène générant le tritium. Voici quelques techniques de base :
+
+Boucle de flux : Une boucle de fil conducteur est insérée dans le champ magnétique. Lorsque le champ traverse la boucle, un courant est créé. L'intensité du courant permet de calculer le flux magnétique total à travers cette boucle. Ceci a été utilisé sur le 'National Compact Stellarator Experiment' (NCSX), le polywell, et les machines de type LDX. Une sonde de Langmuir, objet métallique placé dans un plasma, peut également être employée. Un potentiel lui est appliqué, ce qui lui donne une tension par rapport au plasma environnant. Le métal recueille des particules chargées, produisant un courant. Lorsque la tension change, le courant change. Cela permet de tracer la courbe caractéristique du plasma. La courbe caractéristique peut alors être utilisée pour déterminer la densité, le potentiel et la température du plasma local.
+Diffusion Thomson : Les « diffusions de lumière » par un plasma peuvent être utilisées pour reconstruire le comportement du plasma, y compris sa densité et sa température. La diffusion Thomson est fréquemment utilisée dans les dispositifs à confinement inertiel, les Tokamaks, et les fusors. Dans les systèmes  à confinement inertiel, envoyer un deuxième faisceau sur une feuille d'or adjacente à la cible produit des rayons X qui traversent le plasma. Dans les tokamaks, ceci peut se faire en utilisant des miroirs et des détecteurs qui réfléchissent la lumière.
+Détecteurs de neutrons : Plusieurs types de détecteurs de neutrons peuvent enregistrer la vitesse à laquelle les neutrons sont produits,.
+Détecteurs de rayons X : Des rayons visibles, IR, UV et X sont émis chaque fois qu'une particule change de vitesse. Si la cause du changement de vitesse est un champ magnétique, le rayonnement est appelé rayonnement cyclotron à basse vitesse et rayonnement synchrotron à haute vitesse. Si la cause est la déviation par une autre particule chargée, on parle de rayonnement de freinage ou bremsstrahlung.
+
+
+=== Production d'énergie ===
+Les parois du réacteur absorbent les neutrons, ce qui augmente leur température. L'énergie peut alors être extraite de la paroi de différentes manières :
+
+La chaleur peut être transférée depuis la paroi du réacteur vers un fluide qui se transforme en vapeur, cette dernière mettant en rotation des turbines qui entraînent des générateurs électriques.
+Couvertures à neutrons : Les neutrons peuvent régénérer un combustible de fission usé. Du tritium peut être généré à l'aide d'une couverture tritigène liquide ou d'un lit de galets en céramique contenant du lithium et refroidi à l'hélium.
+Conversion directe : L'énergie cinétique d'une particule peut être convertie en tension. Ceci avait été suggéré pour la première fois par Richard F. Post en conjonction avec des miroirs magnétiques, à la fin des années 1960. La conversion direct a également été proposé pour les configurations à champ inversé, ainsi que pour les focalisateurs de plasma dense. Le processus convertit une grande partie de l'énergie contenue dans le mouvement aléatoire des produits de fusion en mouvement orienté. Les particules sont ensuite collectées sur des électrodes portées à différents potentiels électriques élevés. Cette méthode a démontré une efficacité expérimentale de 48 %.
+Les tubes à ondes progressives font passer des atomes d'hélium chargés et sortant tout juste de la réaction de fusion dans un tube entouré d'une bobine de fil. Cette charge qui passe à haute tension fait circuler un courant électrique à travers le fil.
+
+
+=== Confinement ===
+
+Le confinement fait référence à l'ensemble des conditions nécessaires pour maintenir un plasma dense et chaud suffisamment longtemps pour que des réactions de fusion puissent s'y produire. Les principes généraux sont les suivants :
+
+Équilibre : Les forces agissant sur le plasma doivent être équilibrées. Une exception est pour le confinement inertiel, où la fusion doit se produire plus rapidement que le temps de dispersion.
+Stabilité : La configuration du plasma doit être conçue de manière que les perturbations n'entraînent pas la dispersion du plasma.
+Transport, ou conduction : La perte de matière doit être suffisamment lente. Le plasma contient de l'énergie, de sorte qu'une perte rapide de matière perturbe la fusion. La matière peut être perdue par transport vers différentes régions ou par conduction à travers un solide ou un liquide.
+Pour produire une fusion auto-entretenue, une partie de l'énergie libérée par les réactions de fusion doit être capturée et réutilisée pour chauffer le plasma, ce qui permet de maintenir les conditions nécessaires à de nouvelles réactions.
+
+
+==== Confinement magnétique ====
+
+
+===== Miroir magnétique =====
+L'effet miroir magnétique fonctionne de la façon suivante : si une particule suit une ligne de champ et pénètre une région où l'intensité du champ est plus élevée, elle peut rebondir et être réfléchie. Plusieurs appareils appliquent cet effet. Les plus célèbres étaient les machines à miroir magnétique, une série d'appareils construits au LLNL entre les années 1960 et les années 1980. D'autres exemples incluent les bouteilles magnétiques et la cuspide biconique. Parce que les machines à miroir magnétique étaient linéaires, elles présentaient certains avantages par rapport aux conceptions en forme d'anneau : les miroirs étaient plus faciles à construire et à entretenir et la capture de l'énergie par conversion directe était plus facile à mettre en œuvre. Mais un confinement de faible qualité a conduit à abandonner cette approche, sauf dans le cas du polywell.
+
+
+===== Boucles magnétiques =====
+Les boucles magnétiques replient les lignes de champ sur elles-mêmes, soit en cercles, soit plus communément le long de surfaces toroïdales imbriquées. Les systèmes les plus avancés sont le tokamak, le stellarator et le pincement à champ inversé. Les machines toroïdales compactes, et plus particulièrement la configuration à champ inversé et le spheromak, tentent de combiner les avantages des surfaces magnétiques toroïdales avec ceux des machines simplement connexes (non toroïdale). Ceci se traduit par une zone de confinement mécaniquement plus simple et plus petite.
+
+
+==== Confinement inertiel ====
+
+Le confinement inertiel est l'utilisation d'une implosion rapide pour chauffer et confiner le plasma. Une enveloppe (communément appelée une « coquille ») entourant le carburant est comprimée à l'aide d'un tir de laser direct (pilotage direct), d'un tir secondaire de rayons X (pilotage indirect) ou par des faisceaux lourds. Le carburant doit être comprimé à environ 30 fois la densité solide. Le pilotage direct peut en principe être efficace, mais un manque d'uniformité n'a pas permis à cette technique de percer. Le pilotage indirect utilise des faisceaux pour chauffer la coquille, cette dernière émet alors ses propres rayons X qui font ensuite imploser la capsule. Les faisceaux sont généralement des faisceaux laser, mais des faisceaux d'ions et d'électrons ont également été étudiés.
+
+
+===== Confinement électrostatique =====
+Les dispositifs à fusion par confinement électrostatique utilisent des champs électrostatiques pour confiner le plasma. Le plus connu est le fusor. Cet appareil comporte deux cages concentriques : une cathode à l'intérieur d'une anode. Les ions positifs sont accélérés par le champ électrique vers la cathode négative, ce qui augmente leur température. S'ils ne sont pas arrêtés par la cathode, ils se concentrent au centre du dispositif et peuvent entrer en collision et fusionner. Cependant, les ions frappent généralement la cathode, créant des pertes importantes par conduction. Les taux de fusion dans les fusors sont faibles en raison d'effets physiques concurrents, tels que la perte d'énergie sous forme de rayonnement lumineux. Des solutions ont été proposées pour éviter les problèmes liés à l'absorption par la cathode, en générant le champ à l'aide d'un nuage non neutre. Ceux-ci incluent un dispositif à plasma oscillant, une grille à blindage magnétique, un piège à ions, le polywell, et le réacteur F1 à pilotage de cathode.
+
+
+== Combustibles ==
+Les combustibles envisagés pour extraire l'énergie de fusion sont tous des éléments légers, comme les isotopes de l'hydrogène : le protium, le deutérium et le tritium. La réaction entre le deutérium et l'hélium-3 est envisageable car elle produit une énergie élevée, mais l'hélium-3 est un isotope si rare sur Terre qu'il devrait être extrait de manière extraterrestre ou produit par d'autres réactions nucléaires. En fin de compte, les chercheurs espèrent pouvoir utiliser la réaction entre le protium et le bore 11, car elle ne produit pas directement de neutrons, bien que des réactions secondaires le font.
+
+
+=== Deutérium-tritium (DT) ===
+
+La réaction nucléaire la plus simple, produisant une énergie élevée de 17,6 MeV, est la fusion du deutérium et du tritium (DT) :
+
+Cette réaction est couramment utilisée en recherche, ainsi que dans certaines applications industrielles et militaires, généralement pour fournir des sources de neutrons. Le deutérium est un isotope naturel de l'hydrogène et il est abondamment disponible (chaque mètre cube d'eau en contient 33 grammes). La grande différence entre les masses des isotopes de l'hydrogène facilite leur séparation, ce qui n'est pas le cas pour le procédé d'enrichissement de l'uranium. Le tritium est un isotope naturel de l'hydrogène, mais comme il a une demi-vie de seulement 12,32 années, il se désintègre rapidement et est très peu répandu dans la nature. Il est difficile à stocker, à produire et il coûte cher. Par conséquent, le cycle du combustible deutérium-tritium nécessite la génération de tritium à partir de lithium en utilisant l'une des réactions suivantes :
+
+Chaque réaction de fusion DT produit un neutron, et elle fournit le rendement énergétique le plus élevé. La réaction du neutron avec 6Li est exothermique, procurant un petit gain d'énergie au réacteur. La réaction avec 7Li est endothermique, mais elle ne consomme pas le neutron. Des réactions créant des neutrons sont nécessaires pour remplacer les neutrons perdus au cours d'absorptions par les autres éléments. Les principaux matériaux candidats à la création de neutrons sont le béryllium et le plomb, mais la réaction avec 7Li aide à maintenir la population de neutrons à un niveau élevé. Le lithium naturel est principalement du 7Li, qui a une faible section efficace pour produire du tritium par rapport à celle du 6Li, de sorte que la plupart des conceptions de réacteurs utilisent des couvertures tritigène enrichies en 6Li.
+Certains inconvénients sont couramment attribués à la génération d'énergie par fusion DT :
+
+Les neutrons produits entraînent une activation neutronique des matériaux du réacteur.
+80 % de l'énergie résultante est emportée par les neutrons, ce qui limite le recours à la conversion directe d'énergie.
+La réaction DT nécessite le radio-isotope tritium. Le tritium peut fuir des réacteurs, et certaines estimations suggèrent que cela représenterait un rejet substantiel de radioactivité dans l'environnement.
+Le flux de neutrons dans un réacteur à fusion DT commercial est environ 100 fois supérieur à celui des réacteurs à fission, ce qui pose des problèmes pour le choix des matériaux. Après une série de tests DT au JET, l'enceinte à vide était suffisamment radioactive qu'il a été nécessaire de la manipuler à distance pendant une année complète après les tests.
+Dans le contexte de production d'électricité, les neutrons qui réagissent avec la couverture tritigène (composée soit de galets en céramique contenant le lithium, soit de lithium liquide) génèrent du tritium. L'énergie des neutrons est alors absorbée par la couverture tritigène, et est ensuite transférée pour alimenter la production électrique. La couverture tritigène protège les parties extérieures du réacteur contre le flux neutronique. Les conceptions les plus récentes, celle du tokamak avancé en particulier, utilisent du lithium à l'intérieur du cœur du réacteur comme partie inhérente du concept. Le plasma interagit directement avec le lithium, évitant un problème appelé « recyclage ». L'avantage de cette conception a été démontré au cours de l'expérience du tokamak au lithium.
+
+
+=== Deutérium-deutérium (DD) ===
+
+La fusion de deux noyaux de deutérium est la deuxième réaction de fusion la plus simple. Il existe en réalité deux modes de fusion différents qui se produisent avec des probabilités presque identiques :
+
+Cette réaction est également utilisée couramment pour la recherche. L'énergie optimale pour initier la réaction est de 15 keV, légèrement supérieur à celle de la réaction DT. Le premier des deux modes de la réaction DD produit du tritium, de sorte qu'un réacteur de ce type n'est pas exempt de tritium, bien qu'il ne soit pas nécessaire d'en avoir. À moins que les tritons ne soient rapidement éliminés, la majeure partie du tritium produit est brûlée dans le réacteur, ce qui permet de ne pas avoir à le manipuler, mais avec l'inconvénient de produire des neutrons de plus haute énergie par réaction DT (le neutron du deuxième mode de réaction a une énergie de 2,45 MeV (0,393 pJ), alors que le neutron de la réaction DT a une énergie de 14,1 MeV (2,26 pJ)). On retrouve ainsi les problèmes de plus grande production d'isotopes radioactifs et des dommages causés aux matériaux. Lorsque les tritons sont éliminés rapidement tout en laissant 3He s'accumuler, le cycle de combustible est appelé « fusion DD catalysée par l'hélium »,. Le tritium éliminé se désintègre en 3He avec une demi-vie de 12,5 ans. En recyclant 3He dans le réacteur, le réacteur de fusion ne nécessite pas de matériaux résistants aux neutrons rapides.
+En supposant que le tritium soit entièrement brûlé dans le plasma, 38,3 % de l'énergie de fusion serait emportés par les neutrons (que l'on peut comparer aux 80 % dans la cas de la réaction DT). Les neutrons représentent un risque non négligeable pour les matériaux. L'avantage principal du cycle DD repose donc uniquement sur le fait qu'il ne nécessite pas de génération de tritium. L'inconvénient majeur par rapport au cycle DT est que le temps de confinement de l'énergie (à une pression donnée) doit être 30 fois plus long et la puissance produite (à une pression et un volume donnés) 68 fois moindre.
+En supposant qu'il soit possible d'éliminer complètement le tritium et de le recycler en 3He, seuls 5,6 % de l'énergie de fusion serait emportés par les neutrons. La fusion DD catalysée par l'hélium nécessite une durée de confinement d'énergie 10 fois plus longue que la fusion DT et une température du plasma double.
+
+
+=== Deutérium-hélium 3 ===
+Une approche de deuxième génération de la production d'énergie de fusion contrôlée consiste à combiner l'hélium 3 (3He) et le deutérium (2H) :
+
+Cette réaction produit de l'hélium 4 (4He) et un proton de haute énergie. Comme pour le cycle du combustible de fusion aneutronique p-11B, la majeure partie de l'énergie de réaction est libérée sous forme de particules chargées, ce qui réduit l'activation des parois du réacteur par les neutrons et permet potentiellement une récupération d'énergie plus efficace (via plusieurs voies possibles). Dans la pratique, des réactions secondaires de type DD se produisent également et un nombre important de neutrons sont libérés, laissant p-11B comme le cycle de choix pour la fusion aneutronique.
+
+
+=== Proton, bore 11 ===
+Les problèmes de science des matériaux et les préoccupations de non-prolifération sont grandement atténués par la fusion aneutronique. Théoriquement, le combustible aneutronique le plus réactif est 3He, mais l'obtention de quantités raisonnables de 3He implique une extraction extraterrestre à grande échelle sur la Lune ou dans l'atmosphère d'Uranus ou de Saturne. Par conséquent, les candidats les plus prometteurs pour une telle fusion sont le protium (c'est-à-dire un proton ) facilement disponible et le bore. Lorsqu'ils fusionnent entre eux, aucun neutron n'est libéré, et il se produit trois particules alpha (noyaux d'hélium 4) dont l'énergie totale est de 8,7 MeV et peut être directement convertie en énergie électrique :
+
+Des réactions secondaires sont susceptibles de produire quelques neutrons, mais ils ne transportent qu'environ 0,1 % de l'énergie totale, ce qui signifie que la diffusion des neutrons ne peut pas être utilisée pour le transfert d'énergie et que l'activation des matériaux est plusieurs milliers de fois plus faible. La température optimale de cette réaction est de 123 keV, ce qui est presque dix fois plus que celle des réactions entre des noyaux d'hydrogène. Le confinement énergétique doit être 500 fois meilleur que celui requis pour la réaction DT. De plus, la densité de puissance est 2500 fois plus faible que pour le DT, bien qu'elle soit encore considérablement plus élevée, par unité de masse de combustible, que celle des réacteurs à fission.
+Parce que les propriétés de confinement des tokamaks et des dispositifs à confinement inertiel par laser sont marginales, la plupart des propositions de fusion aneutronique sont basées sur des conceptions de confinement radicalement différentes, telles que le Polywell et le focalisateur de plasma dense. En 2013, une équipe de recherche dirigée par Christine Labaune à l'École Polytechnique de Palaiseau, a signalé un nouveau record de taux de réaction pour la fusion proton-bore, avec environ 80 millions de réactions de fusion lors d'un tir laser de 1,5 nanoseconde, 100 fois plus que celui rapporté dans les expériences précédentes,.
+
+
+== Choix des matériaux ==
+La stabilité structurelle des matériaux des réacteurs est un problème critique,. Certains matériaux qui peuvent supporter des températures élevées et qui résistent au bombardement par les neutrons sont considérés comme la clé du succès d'un réacteur à fusion,. Les principaux problèmes sont les conditions extrêmes générées par le plasma, la dégradation des surfaces des parois par les neutrons et la question connexe de l'interface entre les parois et le plasma,. La réduction de la perméabilité à l'hydrogène est également un problème cruciale pour permettre son recyclage et particulièrement pour contrôler l'inventaire du tritium. Les matériaux ayant la solubilité et la diffusivité les plus faibles pour l'hydrogène constituent les meilleurs candidats pour des barrières stables. Il existe quelques métaux purs, dont le tungstène et le béryllium. Des composés tels que les carbures, les oxydes denses et les nitrures ont également été étudiés. La recherche a mis en évidence que les techniques de revêtement pour produire des barrières parfaitement adhérentes sont d'une importance tout aussi équivalente. Les techniques les plus attrayantes sont celles dans lesquelles une couche additionnelle est formée uniquement par oxydation. Certaines méthodes alternatives utilisent des environnements gazeux spécifiques avec des champs magnétiques et des champs électriques intenses. L'évaluation des performances de la barrière représente un défi supplémentaire. La perméation par un gaz des membranes d'enduits classiques continue d'être la méthode la plus fiable pour déterminer l'efficacité de la barrière à la perméation de l'hydrogène. En 2021, en réponse au nombre croissant de conceptions de réacteurs ayant pour objectif une production d'énergie d'ici à 2040, l'Autorité de l'énergie atomique du Royaume-Uni a publié sa feuille de route sur les matériaux de fusion 2021-2040, axée sur cinq domaines prioritaires, et en mettant l'accent sur la famille des tokamaks :
+
+Des matériaux nouveaux permettant de minimiser l'activation neutronique dans les structures de la centrale ;
+Des composés pouvant être utilisés dans la centrale pour optimiser la génération de tritium afin de maintenir le processus de fusion ;
+Des aimants et des isolants résistants à l'irradiation par les produits de fusion, en particulier dans des conditions cryogéniques ;
+Des matériaux de structure capables de conserver leur résistance sous bombardement neutronique à des températures de fonctionnement élevées (plus de 550 degrés Celsius) ;
+Une assurance technique pour les matériaux de fusion. Ceci en fournissant des données sur les échantillons irradiés ainsi que des modèles de prédictions, de sorte que les concepteurs, les exploitants et les régulateurs des centrales aient la certitude que les matériaux conviennent à une utilisation future des centrales électriques commerciales.
+
+
+=== Matériaux supraconducteurs ===
+
+Dans un plasma complètement immergé dans un champ magnétique (un plasma magnétisé), le taux de fusion augmente proportionnellement á l'intensité du champ magnétique à la puissance 4. Pour cette raison, de nombreuses entreprises de fusion qui s'appuient sur des champs magnétiques pour contrôler leur plasma tentent de développer des matériaux supraconducteurs à haute température. En 2021, SuperOx, une société russe et japonaise, a développé un nouveau procédé de fabrication pour produire des câbles supraconducteurs en YBCO pour les réacteurs à fusion. Il a été démontré que ces nouveaux câbles pouvaient faire circuler entre 700 et 2000 ampères par millimètre carré de section. L'entreprise a pu produire 300 kilomètres de câbles en neuf mois.
+
+
+=== Considérations relatives au confinement ===
+Même à des échelles de production plus petites, le dispositif de confinement est bombardé en permanence par de la matière et de l'énergie. Les conceptions pour le confinement du plasma doivent ainsi prendre en compte :
+
+Un cycle de chauffage et de refroidissement pouvant représenter jusqu'à 10 MW/m2 de charge thermique.
+Un rayonnement neutronique qui, avec le temps, conduit à l'activation des matériaux et à leur fragilisation.
+Des ions de haute énergie quittant le plasma à des dizaines, voire des centaines d'électronvolts.
+Des particules alpha quittant le plasma à des millions d'électronvolts.
+Des électrons quittant le plasma à haute énergie.
+Du rayonnement électromagnétique (IR, visible, UV, rayons X).
+Selon l'approche utilisée, ces effets peuvent être supérieurs ou inférieurs à ce qu'ils sont dans les réacteurs à fission. Le rayonnement neutronique peut être jusqu'à 100 fois celui d'un réacteur à eau pressurisée typique. De même, d'autres considérations telles que la conductivité électrique, la perméabilité magnétique et la résistance mécanique sont importantes. Les matériaux ne doivent pas non plus devenir des déchets radioactifs à durée de vie longue.
+
+
+=== Conditions de l'interface entre les parois et le plasma ===
+Pour pouvoir envisager une utilisation sur le long terme, chaque atome de la paroi devrait pouvoir être bombardé par un neutron et déplacé environ 100 fois avant que le matériau ne soit remplacé. Les neutrons de haute énergie produisent de l'hydrogène et de l'hélium via des réactions nucléaires, ce qui a tendance à former des bulles aux joints de grains et provoque des gonflements, des cloques et une fragilisation du matériau.
+
+
+=== Sélection des matériaux ===
+Les matériaux à faible numéro atomique Z, tels que le graphite ou le béryllium sont généralement préférés aux matériaux à Z élevés, généralement du tungstène avec le molybdène en deuxième choix. Des métaux liquides (lithium, gallium, étain) ont également été proposés, par exemple par des injections de 1 à 5 mm d'épaisseur circulant à 10 m/s sur des substrats solides.
+Le graphite présente un taux d'érosion brut dû à la pulvérisation physique et chimique pouvant se chiffrer à plusieurs mètres par an, nécessitant une redéposition du matériau pulvérisé. Le site de redéposition ne correspond généralement pas exactement au site de pulvérisation, ce qui produit une érosion nette qui peut s'avérer rédhibitoire. Un problème encore plus important est que du tritium se redépose en même temps que le graphite. L'accumulation du tritium dans la paroi et les poussières peut se chiffrer à plusieurs kilogrammes, représentant un gaspillage de ressources et un risque radiologique en cas d'accident. Le graphite est souvent choisi comme matériau pour les expériences de courte durée, mais il semble peu probable qu'il devienne le principal matériau faisant directement face au plasma dans un réacteur commercial.
+Le taux de pulvérisation du tungstène est de plusieurs ordres de grandeur inférieur à celui du carbone, et le tritium est beaucoup moins présent dans le tungstène redéposé. Cependant, les impuretés du plasma liées au tungstène sont beaucoup plus dommageables que celles du carbone, et l'auto-pulvérisation peut s'avérer élevée, ce qui nécessite que le plasma en contact avec le tungstène ne soit pas trop chaud (quelques dizaines d'eV plutôt que des centaines d'eV). Le tungstène a également des problèmes liés aux courants de Foucault et il peut fondre lors d'événements anormaux. Il représente également certains problèmes radiologiques.
+
+
+== Sécurité et environnement ==
+
+
+=== Risque d'accidents ===
+Les possibilités d'accident et l'impact sur l'environnement sont des critères importants pour l'acceptation sociale de la fusion nucléaire, ce qui est également connue sous le nom de responsabilité sociale. Les réacteurs à fusion ne sont pas sujets au risque de fusion catastrophique du cœur comme c'est le cas pour les réacteurs à fission. Ils nécessitent des paramètres de température, de pression et de champ magnétique précis et contrôlés pour produire de l'énergie nette, et tout écart ou perte de contrôle étoufferait rapidement la réaction. Les réacteurs à fusion fonctionnent avec des quantités de combustible représentant seulement quelques secondes, voire quelques microsecondes de fonctionnement à tout instant. Sans ravitaillement permanent, les réactions s'éteignent immédiatement.
+Les mêmes contraintes empêchent les réactions de pouvoir s'emballer. Bien que l'on s'attende à ce que le plasma ait un volume de 1000 m3 ou plus, il ne contient généralement que quelques grammes de carburant. En comparaison, un réacteur à fission est généralement approvisionné avec suffisamment de combustible pour des mois, voire des années de fonctionnement, et il n'est pas nécessaire de réapprovisionner le combustible pour poursuivre la réaction. Cette grande réserve de carburant est ce qui est à l'origine du risque d'une fusion du cœur.
+Dans le cas du confinement magnétique, des champs d'intensité importante sont maintenus par des bobines qui subissent des contraintes mécaniques compensées par la structure du réacteur. La défaillance de cette structure pourrait relâcher la tension et permettre à l'aimant d'« exploser ». La gravité de cet événement serait similaire à celle d'autres accidents industriels ou à une explosion d'un appareil IRM, et pourrait être efficacement contenue dans une enceinte de confinement similaire à celles utilisés dans les réacteurs à fission.
+Dans le cas du confinement inertiel piloté par laser, la taille plus importante de la chambre de réaction réduit la contrainte sur les matériaux. Bien qu'une défaillance de la chambre de réaction soit toujours possible, l'arrêt de l'alimentation en carburant empêcherait toute défaillance catastrophique.
+La plupart des conceptions de réacteurs reposent sur de l'hydrogène liquide comme fluide de refroidissement et pour convertir les neutrons parasites en tritium, ce dernier étant ensuite réinjecté dans le réacteur pour réapprovisionner le combustible. L'hydrogène est inflammable et il est possible que l'hydrogène stocké sur place puisse s'enflammer. Dans ce cas, le tritium contenu dans l'hydrogène pourrait s'échapper dans l'atmosphère, posant un risque d'irradiation. Les calculs suggèrent que dans une centrale typique, environ 1 kilogramme de tritium et d'autres gaz radioactifs pourrait être présents. Cette quantité est suffisamment faible pour qu'elle se dilue dans des limites légalement acceptables lorsqu'elle atteint la clôture du périmètre de la centrale.
+La probabilité de petits accidents industriels, y compris le rejet local de radioactivité et les blessures du personnel, est considérée mineure par rapport à celle des réacteurs à fission. Ces accidents incluraient des rejets accidentels de lithium ou de tritium ainsi que des erreurs de manipulation des composants radioactifs du réacteur.
+
+
+=== Perte de supraconductivité ===
+Une fin anormale du fonctionnement de l'aimant peut se produire si une partie de la bobine supraconductrice quitte l'état supraconducteur (redevient normale). Cela peut se produire parce que le champ à l'intérieur de l'aimant devient trop intense, ou que le taux de variation de l'intensité du champ devient trop important, provoquant des courants de Foucault et un échauffement par effet Joule dans la structure en cuivre, ou encore une combinaison des deux.
+Plus rarement un défaut sur un aimant peut provoquer une perte de supraconductivité locale. Lorsque cela se produit, cet endroit particulier est soumis à un échauffement rapide par effet Joule. Les régions tout autour voient leur température augmenter, ce qui les fait également revenir à l'état normal, conduisant á produire encore plus d'échauffement par effet Joule, et une réaction en chaîne se met en place. L'ensemble de l'aimant perd son état supraconducteur en quelques secondes, selon la taille de la bobine. Cela s'accompagne d'un bruit très fort lorsque l'énergie du champ magnétique est convertie en chaleur et que le fluide cryogénique se vaporise. La diminution brutale du courant peut entraîner des pointes de tension inductives de plusieurs kilovolts et des arcs électriques. Les dommages permanents de l'aimant sont rares, mais des composants peuvent être endommagés par un échauffement localisé, des tensions élevées ou des forces mécaniques importantes.
+Dans la pratique, les aimants ont des dispositifs de sécurité pour arrêter ou limiter le courant lorsqu'une perte de supraconductivité est détectée. Lorsqu'un gros aimant subit une perte de supraconductivité, la vapeur inerte produite par le fluide cryogénique qui s'évapore peut refouler l'air respirable, ce qui présente un risque d'asphyxie important pour les opérateurs.
+Une grande partie des aimants supraconducteurs du Grand collisionneur de hadrons (en anglais : Large Hadron Collider ou LHC) du CERN ont subi des pertes de supraconductivité de façon inattendue au cours des opérations de démarrage en 2008, ce qui a détruit plusieurs aimants. Afin d'éviter que cela ne se reproduise, les aimants supraconducteurs du LHC sont maintenant équipés d'éléments chauffants à rampe rapide qui s'activent lorsqu'une telle perte de supraconductivité est détectée. Les aimants dipolaires courbant le faisceau sont connectés en série. Chaque circuit d'alimentation comprend 154 aimants individuels, et si une perte de supraconductivité se produit, toute l'énergie stockée combinée de ces aimants doit être évacuée en une seule fois. Cette énergie est transférée dans de gros blocs de métal qui s'échauffent jusqu'à plusieurs centaines de degrés Celsius (en raison du chauffage résistif) en quelques secondes. La perte de supraconductivité d'un aimant est un événement assez courant lors du fonctionnement d'un accélérateur de particules.
+
+
+=== Effluents ===
+Le produit naturel de la réaction de fusion est une petite quantité d'hélium, inoffensif pour l'environnement. Le tritium est dangereux et il est difficile à contenir complètement. En fonctionnement normal, une petite quantité de tritium est continuellement libéré.
+Bien que le tritium soit volatil et biologiquement actif, le risque pour la santé d'un rejet dans la nature est bien inférieur à celui de la plupart des autres contaminants radioactifs, en raison de la période radioactive courte du tritium (12,32 ans), de sa très faible énergie de désintégration (~14,95 keV), et parce qu'il ne se bioaccumule pas (il ressort du corps sous forme d'eau avec une période biologique de 7 à 14 jours). Le projet ITER intègre des dispositifs pour contenir totalement le tritium produit.
+
+
+=== Déchets radioactifs ===
+Les réacteurs à fusion créent beaucoup moins de matières radioactives que les réacteurs à fission. De plus, le matériau qu'ils produisent sont moins dommageables sur le plan biologique et leur radioactivité se dissipe dans un laps de temps qui est bien inférieur aux capacités d'ingénierie existantes pour un stockage sûr des déchets à long terme. D'un autre côté, sauf dans le cas de la fusion aneutronique,, le flux de neutrons rend les matériaux de structure radioactifs. La quantité de matières radioactives après l'arrêt d'un réacteur peut être comparable à celle d'un réacteur à fission, avec des différences importantes. Les radioisotopes produits par la fusion et l'activation neutronique ont tendance à avoir des périodes radioactives inférieures à celles des produits de fission, de sorte que le danger s'atténue plus rapidement avec le temps. Alors que les réacteurs à fission produisent des déchets qui restent radioactifs pendant des milliers d'années, les matières les plus radioactives produites dans un réacteur à fusion (autres que le tritium) se trouvent dans le cœur du réacteur et la plupart restent radioactives pendant environ 50 ans. Les autres déchets de plus faible activité restent radioactifs pendant environ 150 ans. La période radioactive courte des déchets de fusion élimine le défi lié au stockage à long terme. Au bout de 500 ans, les matériaux auront la même radiotoxicité que la cendre produite par la combustion du charbon. Néanmoins, leur classification en tant que déchets d'activité moyenne plutôt que de déchets d'activité faible peut compliquer les discussions relatives à la sûreté,.
+Le choix des matériaux est moins contraignant que dans le cas de la fission conventionnelle, pour laquelle de nombreux matériaux sont recherchés pour leurs sections efficaces neutroniques adaptées. Les réacteurs à fusion peuvent être conçus en utilisant des matériaux ayant une faible activation neutronique, de sorte qu'ils ne deviennent pas facilement radioactifs. Le vanadium, par exemple, devient beaucoup moins radioactif que l'acier inoxydable lorsqu'il est bombardé par des neutrons. Les matériaux en fibre de carbone ont également une faible activation, ils sont solides et légers, et sont prometteurs pour les réacteurs à confinement inertiel par laser, pour lesquels un champ magnétique n'est pas nécessaire.
+
+
+=== Prolifération nucléaire ===
+La technologie utilisée pour générer de l'énergie de fusion pourrait être adaptée pour produire des matériaux à des fins militaires. Une énorme quantité de tritium pourrait être produite dans une centrale à fusion ; le tritium est utilisé pour amorcer des bombes à hydrogène ainsi que dans les armes à fission dopées modernes, mais il peut aussi être produit par d'autres moyens. Les neutrons énergétiques produits par certaines conceptions de réacteurs à fusion pourraient être utilisés pour produire du plutonium ou de l'uranium de qualité militaire pour la fabrication d'une bombe atomique (par exemple en transmutant 238U en 239Pu, ou 232Th en 233U).
+Une étude de 2011 a évalué trois scénarios possibles :
+
+Des installations de fusion à petite échelle : en raison d'une consommation d'énergie beaucoup plus élevée, d'une dissipation de chaleur importante et d'une conception plus reconnaissable par rapport aux centrifugeuses d'enrichissement à gaz, ce choix serait beaucoup plus facile à détecter et donc peu plausible.
+Des installations commerciales : le potentiel de production est important. Mais aucune substance fertile ou fissile nécessaire à la production de matériaux utilisables pour les armes nucléaires n'est utilisée dans un système de fusion civile. À part s'ils étaient confinés dans une enceinte qui absorberait tous les rayonnements gamma qu'ils produiraient, ces matériaux seraient facilement détectés. La modification de conception sous-jacente pourrait être détectée par une vérification régulière des informations de conception. Dans le cas de l'utilisation de couvertures solides régénératrices de combustible, ce qui est techniquement plus facile à réaliser, il est effectivement possible de produire du plutonium en quantité suffisante pour fabriquer chaque année plusieurs armes nucléaires. Il serait donc nécessaire d'inspecter les composants entrants dans la centrale pour détecter la présence de matière fertile.
+Donner la priorité aux matériaux de qualité militaire : le moyen le plus rapide pour produire des matériaux utilisables pour fabriquer les armes est de modifier une centrale électrique à fusion civile. Aucun matériau compatible avec les armes n'est requis lors d'une utilisation civile. Même sans les aléas liés à la mise en œuvre d'une action secrète, une telle modification prendrait environ deux mois pour démarrer la production et au moins une semaine supplémentaire pour générer la quantité de matériau nécessaire. Ce délai est considéré comme suffisant pour permettre de détecter une utilisation militaire et de réagir par des moyens diplomatiques ou militaires. Pour arrêter la production, une simple destruction militaire des parties de l'installation modifiées, en laissant de côté le réacteur lui-même, serait suffisante.
+Une autre étude a conclu que « ... les grands réacteurs à fusion - même s'ils ne sont pas conçus initialement pour la régénération de matières fissiles - pourraient facilement produire plusieurs centaines de kilogrammes de plutonium de qualité militaire avec des exigences très faibles en termes de matières premières. » Il a été souligné que la mise en œuvre d'une technologie qui permettrait d'implémenter une prévention intrinsèque de la prolifération pourrait n'être possible qu'à un stade précoce de la recherche et du développement. Les outils théoriques et informatiques nécessaires à la conception d'une bombe à hydrogène sont étroitement liés à ceux nécessaires à la fusion par confinement inertiel, mais ils ont très peu de choses en commun avec la fusion par confinement magnétique.
+
+
+=== Réserves de combustible ===
+L'énergie de fusion propose généralement l'utilisation du deutérium comme combustible et de nombreuses conceptions actuelles utilisent également du lithium, pour produire du tritium. En supposant que l'énergie de fusion remplace la production mondiale de 1995 (environ 100 EJ/an = 1 × 1020 J/an) et que cela n'augmente pas dans le futur, ce qui est peu probable, alors les réserves de lithium connues aujourd'hui dureraient 3000 ans. Le lithium de l'eau de mer durerait 60 millions d'années, et un processus de fusion plus compliqué utilisant uniquement du deutérium aurait du carburant pour 150 milliards d'années. À titre de comparaison, 150 milliards d'années est près de 30 fois la durée de vie restante du Soleil, et plus de 10 fois l'âge estimé de l'univers.
+
+
+== Point de vue économique ==
+L'Union européenne a dépensé près de 10 milliards d'euros au cours des années 1990. Le projet ITER représente à lui seul un investissement de plus de 20 milliards de dollars, et peut-être des dizaines de milliards de plus, y compris les contributions en nature,. Dans le cadre du sixième programme-cadre pour la recherche et le développement technologique de l'Union européenne, la recherche sur la fusion nucléaire a reçu 750 millions d'euros (en plus du financement d'ITER), contre 810 millions d'euros pour la recherche sur les énergies renouvelables, ce qui place l'énergie de fusion bien avant celle de toute autre technologie concurrente. Depuis 2010, le département de l'énergie des États-Unis a alloué chaque année entre 367 et 671 millions de dollars, avec un pic en 2020. Les plans pour le budget de l'exercice 2021 sont de réduire l'investissement à 425 millions de dollars. Environ un quart de ce budget est consacré au soutien d'ITER.
+La taille des investissements, ainsi que les délais nécessaires pour l'obtention des résultats, signifient que la recherche sur la fusion a été presque exclusivement financée par des fonds publics. Cependant, ces dernières années, la promesse de pouvoir commercialiser une source d'énergie à faible émission de carbone qui changerait la donne en matière de réchauffement climatique a attiré une multitude d'entreprises et d'investisseurs. Plus de deux douzaines de start-up ont engrangé plus d'un milliard de dollars entre 2000 et 2020, la plupart à partir de 2015. De plus, trois milliards de dollars de financement et d'engagements supplémentaires, sanctionnés par l'achèvement d'étapes importantes, ont été obtenus rien qu'en 2021,, avec des investisseurs tels que Jeff Bezos, Peter Thiel et Bill Gates, des investisseurs institutionnels, dont Legal & General, ainsi que des sociétés énergétiques, comme Equinor, Eni, Chevron, et le groupe chinois ENN,,. En 2021, Commonwealth Fusion Systems (CFS) a obtenu 1,8 milliard de dollars pour financer la mise à l'échelle commerciale de leur technologie, et Helion Energy a obtenu un demi-milliard de dollars avec 1,7 milliard de dollars supplémentaires sous réserve du respect des étapes importantes de la réalisation.
+Les scénarios développés au cours des années 2000 et au début des années 2010 discutaient des effets de la commercialisation de l'énergie de fusion sur l'avenir de la civilisation humaine. En se basant sur la fission nucléaire, ceux-ci voyaient le projet ITER, et plus tard DEMO, comme apportant la mise en service des premiers réacteurs commerciaux vers 2050 et une expansion rapide après le milieu du siècle. Certains scénarios mettaient l'accent sur des « institutions scientifiques de fusion nucléaire » comme étant une étape au-delà d'ITER,. Cependant, les obstacles économiques à l'énergie de fusion à base de tokamak restent immenses, nécessitant des investissements pour financer les prototypes de réacteurs et le développement de nouvelles chaînes d'approvisionnement. Les conceptions de tokamak semblent demander une quantité importante de main-d'œuvre, alors que le risque pour les commercialisations des solutions alternatives, comme la fusion par confinement inertiel, est élevé en raison du manque de ressources gouvernementales.
+Les scénarios développés depuis 2010 notent de nombreux progrès en informatique et en science des matériaux, permettant d'envisager des projets multiphases de centrales à fusion « pilotes » à l'échelle nationale ou en partageant les coûts, en suivant diverses voies technologiques,,,,,. Un exemple est le tokamak sphérique britannique (Spherical Tokamak for Energy Production, ou STEP), projeté à l'horizon 2030-2040,,. En particulier, en juin 2021, General Fusion a annoncé qu'il accepterait l'offre du gouvernement britannique d'héberger la première centrale de démonstration de fusion en partenariat public-privé au monde, au centre scientifique de Culham. La centrale sera construite entre 2022 et 2025 et sera destinée à ouvrir la voie aux usines pilotes commerciales à la fin des années 2025. La centrale sera un modèle réduit à l'échelle 70 % et elle devrait atteindre un plasma stable de 150 millions de degrés. Aux États-Unis, des centrales pilotes de partenariat public-privé à coûts partagés semblent probables. La technologie des réacteurs compacts basée sur de telles centrales de démonstration peut permettre une commercialisation via une approche de parc nucléaire à partir des années 2030 s'il est possible de localiser des marchés.
+L'adoption massive des énergies renouvelables non nucléaires a transformé le paysage énergétique. Ces énergies renouvelables devraient fournir 74 % de l'énergie mondiale d'ici 2050. De plus, la baisse du prix des énergies renouvelables remet en question la compétitivité économique de l'énergie de fusion.
+
+Certains économistes suggèrent que l'énergie de fusion ne pourra probablement pas rivaliser avec les coûts des autres énergies renouvelables. Les centrales à fusion devraient faire face à d'importants coûts de démarrage et d'investissement. De plus, leur exploitation et leur maintenance sont susceptibles d'être coûteuses. Alors que les coûts du projet chinois CFETR ne sont pas bien connus, le concept de fusion européen DEMO a été projeté pour présenter un coût actualisé de l'énergie (en anglais : Levelized Cost of Energy, ou LCOE), c'est-à-dire le prix complet d'une énergie sur la durée de vie de l’équipement qui la produit, de 121 dollars par MWh.
+De plus, les économistes estiment que le coût de l'énergie de fusion augmente de 16,5 dollars par MWh pour chaque augmentation de 1 milliard de dollars sur le coût de la technologie de fusion. Ce coût actualisé de l'énergie est en grande partie dû aux coûts de construction.
+En revanche, les estimations du coût actualisé des énergies renouvelables sont nettement inférieures. Par exemple, le coût actualisé de l'énergie solaire en 2019 était estimé entre 40 et 46 dollars par MWh, l'éolien terrestre était estimé entre 29 et 56 dollars par MWh et l'éolien marin à environ 92 dollars par MWh.
+Cependant, l'énergie de fusion peut jouer un rôle pour combler les lacunes laissées par les énergies renouvelables,, selon la manière dont les priorités de l'administration en matière d'énergie et de justice environnementale influencent le marché. Dans les années 2020, des études socio-économiques sur la fusion, commençant à prendre en compte ces facteurs, ont émergé. En 2022, EUROFusion a lancé ses études socio-économiques et ses volets de recherche et développement prospectifs pour étudier comment ces facteurs pourraient affecter les voies et les calendriers de commercialisation. De même, en avril 2023, le Japon a annoncé une stratégie nationale d'industrialisation de la fusion. Ainsi, l'énergie de fusion peut fonctionner en tandem avec d'autres sources d'énergie renouvelables plutôt que de devenir la principale source d'énergie. Dans certaines applications, l'énergie de fusion pourrait fournir la source de base, en particulier si l'on intègre le stockage thermique et la cogénération et si l'on tient compte du potentiel de modernisation des centrales à charbon,.
+
+
+== Réglementation ==
+En parallèle au développement des centrales à fusion pilotes, les problèmes juridiques et réglementaires doivent être résolus. En septembre 2020, l'Académie nationale des sciences des États-Unis a consulté des sociétés de fusion privées pour envisager une centrale pilote nationale. Le mois suivant, le Département de l'énergie des États-Unis, la Commission de réglementation nucléaire (NRC) et la Fusion Industry Association ont coorganisé un forum public pour lancer le processus. En novembre 2020, l'Agence internationale de l'énergie atomique (AIEA) a commencé à travailler avec divers pays pour créer des normes de sécurité telles que la réglementation des doses et la manipulation des déchets radioactifs. En janvier et en mars 2021, la NRC a organisé deux réunions publiques sur les cadres réglementaires,. Une approche de partage des coûts entre le public et le privé a été approuvée dans une loi sur les crédits consolidés HR133 du 27 décembre 2021. Elle a autorisé 325 millions de dollars sur cinq ans pour un programme de partenariat visant à construire des installations de démonstration de fusion, avec une contrepartie du même montant en provenance de l'industrie privée. Par la suite, le Regulatory Horizons Council au Royaume-Uni a publié un rapport appelant à un cadre réglementaire sur la fusion d'ici le début de 2022 afin de positionner le Royaume-Uni en tant que leader mondial de la commercialisation de l'énergie de fusion. Cet appel a été entendu par le gouvernement britannique qui a publié en octobre 2021 son livre vert sur la fusion et sa stratégie sur la fusion, pour réglementer et commercialiser, respectivement, la fusion,,. Puis, en avril 2023, dans une décision susceptible d'influencer d'autres régulateurs nucléaires, la NRC a annoncé par un vote unanime que l'énergie de fusion serait réglementée non pas comme la fission, mais sous le même régime réglementaire que les accélérateurs de particules.
+
+
+== Géopolitique ==
+Compte tenu du potentiel de la fusion pour transformer l'industrie énergétique mondiale et pour atténuer le changement climatique, la science de la fusion a traditionnellement été considérée comme faisant partie intégrante de la diplomatie scientifique de consolidation de la paix,. Cependant, les développements technologiques et l'implication du secteur privé ont soulevé des inquiétudes concernant la propriété intellectuelle, l'administration réglementaire, le leadership mondial, l'équité et la militarisation potentielle,. Ceux-ci remettent en question le rôle de consolidation de la paix du projet ITER et ont conduit à des demandes pour la création d'une commission mondiale,. Il semble peu probable que l'énergie de fusion contribue de manière significative à la résolution du changement climatique d'ici 2050 sans des avancées substantielles et l'émergence d'une mentalité de course à l'espace,. Toutefois, une contribution semble plus probable d'ici 2100, l'ampleur dépendant du type et en particulier du coût des approches technologiques,.
+Les développements depuis la fin 2020 ont conduit à parler d'une nouvelle « course à l'espace » avec de multiples participants, opposant les États-Unis à la Chine et les centrales à fusion pilotes de type STEP au Royaume-Uni,. Le 24 septembre 2020, la Chambre des représentants des États-Unis a approuvé un programme de recherche et de commercialisation. La section de recherche sur l'énergie de fusion a intégré un programme de partenariat public-privé à coûts partagés, basé sur l'achèvement d'étapes importantes, et inspiré du programme COTS de la NASA, ce qui a lancé l'industrie spatiale commerciale. En février 2021, les Academies nationales des États-Unis ont publié Bringing Fusion to the US Grid, recommandant une centrale à coûts partagés axée sur le demande du marché pour 2035-2040,,. Le lancement du caucus congressionnel sur la fusion nucléaire a suivi.
+En décembre 2020, un groupe d'experts indépendants a examiné les travaux de conception et de R&D du consortium EUROfusion sur le projet DEMO. EUROfusion a confirmé qu'il poursuivait sa feuille de route vers l'énergie de fusion, ayant commencé la conception de DEMO en partenariat avec la communauté européenne sur la fusion nucléaire. Ceci confirmait qu'une machine européenne était entrée dans la course.
+
+
+== Avantages ==
+L'énergie de fusion promet de fournir plus d'énergie, à poids de carburant identique, que n'importe quelle autre source d'énergie consommatrice de carburant connue actuellement. Le carburant (principalement le deutérium) existe en abondance dans l'océan : dans l'eau de mer, environ 1 atome d'hydrogène sur 6500 est du deutérium. Bien que cela ne représente qu'environ 0,015 %, l'eau de mer est abondante et facile d'accès, ce qui implique que la fusion pourrait répondre aux besoins énergétiques mondiaux pendant des millions d'années,.
+Les centrales à fusion de première génération devraient utiliser le cycle du combustible deutérium-tritium, plus simple, ce qui nécessitera l'utilisation de lithium pour la génération du tritium. On ne sait pas pendant combien de temps les approvisionnements mondiaux en lithium permettront de répondre à ce besoin, en tenant compte du besoin pour les batteries rechargeables et pour la métallurgie. On s'attend à ce que les centrales de deuxième génération utilisent la réaction deutérium-deutérium, plus redoutable. La réaction deutérium-hélium 3 est également intéressante, mais l'hélium 3 est pratiquement inexistant sur Terre. On pense qu'il en existe de grandes quantités dans le sol de la lune et qu'il est également abondant dans l'atmosphère des planètes géantes gazeuses.
+L'énergie de fusion pourrait être utilisée pour la propulsion dans l'espace lointain aux confins du système solaire, et pour l'exploration spatiale interstellaire, où l'énergie solaire n'est pas disponible, y compris via des moteurs hybrides antimatière-fusion,.
+
+
+== Histoire ==
+
+
+== Records ==
+Les records de fusion continuent de s'améliorer :
+
+
+== Articles connexes ==
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+
+== Bibliographie ==
+Daniel Clery, A Piece of the Sun: The Quest for Fusion Energy, The Overlook Press, 2014 (ISBN 978-1468310412, lire en ligne)
+Stewart Cockburn et David Ellyard, Oliphant, the life and times of Sir Mark Oliphant, Axiom Books, 1981 (ISBN 978-0959416404)
+Stephen O. Dean, Search for the Ultimate Energy Source: A History of the U.S. Fusion Energy Program, Springer Science & Business Media, 2013 (ISBN 978-1461460374, lire en ligne)
+Hagelstein, McKubre, Nagel et Chubb, « New Physical Effects in Metal Deuterides », 11Th Condensed Matter Nuclear Science, Washington, US Department of Energy, vol. 11,‎ 2004, p. 23–59 (ISBN 978-9812566409, DOI 10.1142/9789812774354_0003, Bibcode 2006cmns...11...23H, CiteSeerx 10.1.1.233.5518, lire en ligne [archive du 6 janvier 2007]) (manuscript)
+Alex Hutchinson, « The Year in Science: Physics », Discover Magazine (Online),‎ 8 janvier 2006 (ISSN 0274-7529, lire en ligne, consulté le 20 juin 2008)
+Nuttall, William J., Konishi, Satoshi, Takeda, Shutaro, and Webbe-Wood, David (2020). Commercialising Fusion Energy: How Small Businesses are Transforming Big Science. IOP Publishing.  (ISBN 978-0750327176).
+Andrés de Bustos Molina, Kinetic Simulations of Ion Transport in Fusion Devices, Springer International Publishing, 2013 (ISBN 978-3319004211, lire en ligne)
+Kanetada Nagamine, Introductory Muon Science, Cambridge University Press, 2003 (ISBN 978-0521038201), « Muon Catalyzed Fusion »
+Susanne Pfalzner, An Introduction to Inertial Confinement Fusion, US, Taylor & Francis, 2006 (ISBN 978-0750307017)
+
+
+== Liens externes ==
+Système d'information sur les appareils de Fusion
+Base d'énergie de fusion
+Association de l'industrie de la fusion
+Nouvelles de Princeton Satellite Systems
+Programme américain de science de l'énergie de fusion
+ Portail de la physique   Portail du nucléaire

@@ -1,0 +1,54 @@
+Der Sympathikus (Sympathicus) oder das sympathische Nervensystem ist neben dem Parasympathikus und dem enterischen Nervensystem (Darmnervensystem) ein Teil des vegetativen Nervensystems (auch autonomes Nervensystem genannt). Die meisten Organe werden von den ersten beiden Systemen gesteuert, die als Gegenspieler einander ergänzend wirken und dadurch eine äußerst feine unwillkürliche Regulation der Organtätigkeit ermöglichen. Der Sympathikus hat im Rahmen dieser Gesamtsteuerung meist eine ergotrope Wirkung (im Gegensatz zur trophotropen Wirkung des Parasympathikus), das heißt, er erhöht die nach außen gerichtete Aktionsfähigkeit bei tatsächlicher oder gefühlter Belastung („Fight-or-flight“).
+
+
+== Anatomie ==
+Die Zellkörper der so genannten ersten Neurone des peripheren Sympathikus (sympathische Wurzelzellen) sind im Brust- und Lendenmark lokalisiert (thorako-lumbales System). Übergeordnete Zentren des Sympathikus sind Hypothalamus, Hirnstamm und Formatio reticularis, die Impulse auf die sympathischen Wurzelzellen im Rückenmark senden.
+Diese Wurzelzellen liegen im Seitenhorn des Rückenmarks und bilden den Nucleus intermediolateralis. Sie senden ihre Fasern zu Nervenzellansammlungen neben der Wirbelsäule, den Paravertebralganglien, die untereinander verbunden sind und in ihrer Gesamtheit den sympathischen Grenzstrang (Truncus sympathicus) darstellen. Dieser reicht auch in den Bereich der Halswirbelsäule (dort Halssympathikus genannt) und des Kreuzbeins. Beim Menschen gibt es drei Halsganglien: das obere (Ganglion cervicale superius), das mittlere (Ganglion cervicale medium), welches inkonstant ist, und das untere Halsganglion (Ganglion cervicale inferius). In den paravertebralen Ganglien werden dann die meisten Fasern des Sympathikus auf ein zweites Neuron umgeschaltet. Der Neurotransmitter ist dabei (wie beim Parasympathikus) das Acetylcholin. Das zweite (postganglionäre) Neuron überträgt seine Impulse auf das Zielorgan mittels Noradrenalin, welches in den Perikaryen der postganglionären Neurone synthetisiert wird. Ausnahmen sind die Übertragung der Impulse an Schweißdrüsen und Nebennierenmark. Diese erfolgt ebenfalls durch Acetylcholin.
+Einige Axone verlassen den Grenzstrang ohne Umschaltung und ziehen zu den prävertebralen Ganglien im Bereich der Aorta (Ganglion coeliacum, Ganglion mesentericum superius, Ganglion mesentericum inferius) oder zu Ganglien in der Wand der zu versorgenden Organe (intramurale Ganglien).
+
+
+== Wortherkunft ==
+Der Begriff wurde von dem dänischen (aber in Paris tätigen) Anatomen Jacob Winslow (Winsløw, 1669–1760) erstmals im Zusammenhang mit Nerventätigkeit verwendet und in seinem Lehrbuch Exposition anatomique de la structure du corps humain verwendet. Er leitet sich von den altgriechischen Wörtern συμπαθεῖν sympatheín „mitleiden“ und συμπάθεια sympátheia „Mitempfindung“ ab und wurde in dieser Weise auch bereits von dem altgriechischen Arzt Hippokrates (um 460–370 v. Chr.) gebraucht. Der altgriechische Arzt Galenos (um 129–216 n. Chr.) ging von einer Art Mitfühlen zwischen verschiedenen Körperteilen aus. Siehe auch den medizingeschichtlichen Begriff der Sympathie.
+
+
+== Paraganglien ==
+Das größte sympathische Paraganglion ist das Nebennierenmark. Hier ist das zweite Neuron eine neuroendokrine Zelle, die ihren Transmitter an das Blut abgibt, also als Hormon freisetzt. Über den Blutkreislauf bindet es dann an die adrenergen Rezeptoren der Zellen der Effektororgane, z. B. Herz.
+
+
+== Funktionelle Aspekte ==
+Zielgewebe des Sympathikus sind vor allem die glatte Muskulatur der Blutgefäße und Drüsen. Wie die übrigen Anteile des vegetativen Nervensystems steuert der Sympathikus lebenswichtige Vorgänge. Diese Regulation erfolgt weitgehend ohne bewusste Wahrnehmung und kann kaum willentlich beeinflusst werden.
+Der Sympathikus bewirkt insgesamt eine Leistungssteigerung des Organismus (Ergotropie). Er versetzt den Körper in hohe Leistungsbereitschaft, bereitet ihn auf Angriff oder Flucht oder andere außergewöhnliche Anstrengungen vor (→ Stressreaktion).
+Er steigert:
+
+Herztätigkeit
+Blutdruck
+Durchblutung und Tonus der Herz- und Skelettmuskulatur
+Glykolyse (Bereitstellung von Energie durch Abbau von Kohlenhydraten)
+Stoffwechsel.
+Er hemmt dafür andere, für die unmittelbare Aktivität nicht unbedingt erforderliche Vorgänge, wie z. B. die Darmtätigkeit. In der Haut, Darm und insbesondere den Nieren verringert er die Durchblutung, indem er dort die Gefäße verengt.
+Außerdem hat er Einfluss auf die:
+
+Lungenfunktion (Erweiterung der Bronchien)
+Blasenfunktion (bewirkt die Kontinenz)
+Geschlechtsorgane (bewirkt u. a. die Ejakulation beim Mann und den Orgasmus bei der Frau)
+inneren Augenmuskeln (Pupillenerweiterung, Mydriasis)
+Sekretion der Drüsen (Steigerung der Schweißdrüsensekretion und Adrenalinausschüttung im Nebennierenmark, Minderung der Speichel- und Bauchspeicheldrüsensekretion).
+
+
+== Ältere Literatur ==
+Günter Clauser: Vegetative Störungen und klinische Psychotherapie. In: Ludwig Heilmeyer (Hrsg.): Lehrbuch der Inneren Medizin. Springer-Verlag, Berlin/Göttingen/Heidelberg 1955; 2. Auflage ebenda 1961, S. 1218–1297, hier S. 1218–1229 (Die Organisation des vegetativen Nervensystems).
+René Leriche, René Fontaine: Chirurgie du sympathique. In: Rev. neurol. Band 1, 1929, S. 1046 ff.
+
+
+== Siehe auch ==
+Ganglioneurom
+Geschichte der Katecholaminforschung
+Horner-Syndrom
+Nervus petrosus profundus
+Sympathektomie (Denervierung)
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

@@ -1,0 +1,249 @@
+Le point de fusion (ou la température de fusion) d'un corps pur ou d'un eutectique est, à une pression donnée, la température à laquelle les états liquide et solide de cette substance peuvent coexister à l'équilibre. Si l'on chauffe la substance (initialement solide), elle fond à cette température et la température ne peut pas augmenter tant que tout le solide n'a pas disparu. Réciproquement, si l'on refroidit la substance (initialement liquide), elle se solidifie à cette même température, qu'on peut donc aussi appeler point de solidification (ou température de solidification). Pour certaines substances dont l'eau, la solidification est souvent dénommée congélation : le point de congélation de l'eau à 1 atm est 0,002 519 ± 0,000 002 °C.
+Les substances autres que les corps purs et les eutectiques n'ont pas de point de fusion car leur fusion (ou leur solidification) se produit sur une plage de températures. Il y a donc une température de début de fusion (appelée température du solidus ou simplement solidus) et une température de fin de fusion (température du liquidus ou simplement liquidus).
+
+
+== Théorie ==
+
+La plupart des substances se liquéfient et se solidifient approximativement à la même température. Par exemple, pour le mercure, le point de fusion et de congélation sont 234,32 K (−38,82 °C). Cependant, plusieurs substances ont la caractéristique de pouvoir être en surfusion et peuvent donc geler à une température inférieure à leur point de congélation théorique. L'eau en est un exemple car la pression de surface des molécules d'eau pure est difficile à éliminer et on peut retrouver des gouttelettes d'eau jusqu'à −42 °C dans les nuages si elles ne contiennent pas un noyau de congélation.
+
+
+=== Thermodynamique ===
+Lorsqu'un corps pur solide est chauffé, la température augmente jusqu'à atteindre le point de fusion. A ce point, la température reste constante tant que le corps n'est pas entièrement passé sous phase liquide. La différence d'énergie pour entrainer la fusion complète de ce corps pur n'est donc pas seulement due a celle qu'on doit ajouter pour atteindre la température critique, mais il faut également y ajouter la chaleur latente (
+  
+    
+      
+        
+          L
+          
+            f
+          
+        
+      
+    
+    {\displaystyle L_{f}}
+  
+) pour passer de l'état solide à l'état liquide.
+Du point de vue de la thermodynamique, l’enthalpie (
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+  
+) et l’entropie (
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+) du matériau augmentent donc (
+  
+    
+      
+        Δ
+        H
+        ,
+        Δ
+        S
+        >
+        0
+      
+    
+    {\displaystyle \Delta H,\Delta S>0}
+  
+) à 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+ la température de fusion de telle façon qu’on peut les exprimer lors du changement d’un corps de masse m ainsi :
+
+  
+    
+      
+        Δ
+        H
+        =
+        m
+        
+          L
+          
+            f
+          
+        
+      
+    
+    {\displaystyle \Delta H=mL_{f}}
+  
+ et 
+  
+    
+      
+        Δ
+        S
+        =
+        
+          
+            
+              m
+              
+                L
+                
+                  f
+                
+              
+            
+            T
+          
+        
+      
+    
+    {\displaystyle \Delta S={\frac {mL_{f}}{T}}}
+  
+ ce qui donne 
+  
+    
+      
+        Δ
+        S
+        =
+        
+          
+            
+              Δ
+              H
+            
+            T
+          
+        
+      
+    
+    {\displaystyle \Delta S={\frac {\Delta H}{T}}}
+  
+
+avec :
+
+  
+    
+      
+        
+          L
+          
+            f
+          
+        
+      
+    
+    {\displaystyle L_{f}}
+  
+ Chaleur latente massique exprimée en J/kg ;
+
+  
+    
+      
+        Δ
+        H
+      
+    
+    {\displaystyle \Delta H}
+  
+ Variation d'enthalpie en J ;
+
+  
+    
+      
+        Δ
+        S
+      
+    
+    {\displaystyle \Delta S}
+  
+ Variation d'entropie en J/K ;
+
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ masse en kg ;
+
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+ Température en K.
+
+
+=== Caractéristiques ===
+Contrairement à la température de vaporisation (point d'ébullition), la température de fusion est assez indépendante des changements de pression, car les volumes molaires de la phase solide et de la phase liquide sont assez proches,.
+Généralement, lorsque l'on reste dans la même famille de composés chimiques, le point de fusion augmente avec la masse molaire.
+L'élément du tableau périodique ayant la plus haute température de fusion est le tungstène, 3 410 °C, ce qui en a fait un excellent choix pour les lampes à incandescence par exemple. Toutefois, le carbone (graphite) reste solide jusqu'à 3 825 °C (point de sublimation). Le carbure de tantale-hafnium Ta4HfC5 est un des matériaux réfractaires qui ont le point de fusion le plus élevé : 4 215 °C.
+À l'autre bout du spectre, l’hélium ne se congèle qu'à une température proche du zéro absolu et sous une pression de 20 atmosphères.
+Le point de fusion est donc un moyen de vérifier la pureté d'une substance : toute impureté fera varier le point de fusion de la substance testée.
+
+
+=== Cas particuliers ===
+La transition entre solide et liquide se produit cependant sur une certaine plage de température pour certaines substances. Par exemple, l’agar-agar fond à 85 °C mais se solidifie entre 31 °C et 40 °C par un processus d’hystérésis. D'autre part, les substances amorphes, comme le verre ou certains polymères, n'ont en général pas de point de fusion, car elles ne subissent pas de fusion proprement dite mais une transition vitreuse.
+Il existe également d’autres exceptions :
+
+deux formes polymorphes ont souvent deux points de fusion différents ;
+certaines substances n'ont pas de point de fusion observable. Ceci peut être dû à plusieurs phénomènes :
+la sublimation, c'est-à-dire le passage direct à l'état gazeux (par exemple l'iode ou le carbone),
+une décomposition à l'état solide (exemple des sels de diazonium).
+Le cas des polymères semi-cristallins réticulés est intermédiaire :
+
+comme la réticulation empêche le glissement à grande échelle des chaînes les unes par rapport aux autres, il nʼy a pas de « vraie » fusion dans le sens de la formation dʼun liquide ; formellement, le « bloc de polymères » n'est qu'une seule et unique molécule, et la stabilité thermique est donc limitée par la décomposition ;
+par contre, les autres manifestations de la fusion des cristallites restent observables dans les polymères semi-cristallins réticulés (chaleur latente, changement de masse volumique et de microstructure) : un tel polymère possède donc malgré tout un « point de fusion » analogue à sa variante non réticulée, même si cette température et le taux de cristallinité peuvent être influencés par la réticulation ;
+au-delà de ce « point de fusion » (fusion des cristallites), au lieu du liquide, on a un gel, (dû aux ponts) conservant la forme macroscopique, ce qui est avantageux en termes de stabilité pour les applications utilisant cette « fusion », comme les fusibles réarmables PTC.
+
+
+== Appareils de mesure ==
+
+Il existe différents appareils de mesure de point de fusion reposant tous sur la restitution d'un gradient de température. Ils peuvent être constitués soit d'une plaque métallique chauffante telle le Banc Kofler ou le bloc Maquenne, soit d'un bain d'huile tel le tube de Thiele.
+Dans le travail pratique de laboratoire on utilise des appareils de mesure de point de fusion automatique. Ils sont faciles à manier, fonctionnent plus vite, fournissent des résultats reproductibles et sont plus précis.
+
+
+== Point de fusion des corps simples sous pression atmosphérique ==
+Le tableau ci-dessous donne la température de fusion, en degrés Celsius (°C), des éléments chimiques (corps simples) dans leur état standard.
+
+On remarque notamment que, à pression ambiante :
+
+onze éléments (peut-être douze), gazeux à la température ambiante, ont un point de fusion nettement inférieur, de −71 °C (Rn) à −272 °C (He) : les gaz nobles (He, Ne, Ar, Kr, Xe et Rn, plus peut-être Og) ; les halogènes F et Cl ; le chalcogène O ; le pnictogène N ; l'hydrogène (H) ;
+sept éléments, liquides ou solides à température ambiante, ont un point de fusion proche de cette température ambiante : l'halogène Br (−7 °C) ; les métaux Hg (−39 °C), Fr (27 °C), Cs (29 °C), Ga (30 °C) et Rb (39 °C) ; le pnictogène P (44 °C) ;
+tous les autres éléments, solides à température ambiante, ont un point de fusion nettement supérieur : de 64 °C (K) à 3 500 °C (C).
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Fusion (physique)
+Propriété colligative
+Température de fusion d'un polymère
+Température homologue
+Thermostabilité
+DSC
+Point de ramollissement bille et anneau
+Liste des éléments chimiques par température de fusion
+Équation de Simon
+
+ Portail de la chimie   Portail de la physique   Portail des sciences des matériaux

@@ -1,0 +1,492 @@
+Erdwärme ist die im zugänglichen Teil der Erdkruste gespeicherte Wärme (thermische Energie), sie kann aus dem Erdinneren stammen oder (beispielsweise in Frostböden) durch Niederschläge oder Schmelzwässer eingebracht worden sein und zählt zu den regenerativen Energien, die durch Erdwärmeübertrager entzogen und genutzt werden kann. Erdwärme kann sowohl zum Heizen, zum Kühlen (siehe dazu Eis-Speicher-Wärmepumpe), zur Erzeugung von elektrischem Strom oder in der kombinierten Kraft-Wärme-Kopplung genutzt werden. In einem Erdpufferspeicher „zwischengelagerte“ Wärme wird nicht zur Erdwärme gezählt.
+Geothermie bezeichnet sowohl die geowissenschaftliche Untersuchung der thermischen Situation als auch die ingenieurtechnische Nutzung der Erdwärme.
+Geothermie ist eine Kerntechnologie der Wärmewende, sie hat das Potential, ganze Großstädte mit erneuerbarer Wärme zu versorgen (siehe hierzu die Wärmestrategie der Stadt München).
+
+
+== Geschichte ==
+Heiße Quellen waren den Menschen schon in prähistorischer Zeit bekannt und wurden immer wieder zu verschiedenen Zwecken genutzt. Schon bei Plinius dem älteren findet sich die Verbindung zwischen Vulkanismus und heißen Quellen. In der frühen Neuzeit wurde in Chaudes-Aigues mittels der dort verfügbaren warmen Quellen ein Fernwärme-Netz aufgebaut, welches noch heute im Betrieb ist. Die geothermische Tiefenstufe fiel Bergleuten mit Erreichen zunehmender Teufen im Untertagebau auf. Als im 19. Jahrhundert geologische Erkenntnisse ein erhebliches Alter der Erde immer wahrscheinlicher erscheinen ließen, wurde die Frage nach der Herkunft der – scheinbar unerschöpflichen – Erdwärme und der Energie der Sonne immer akuter. Erst die Entdeckung der Radioaktivität konnte schließlich eine Antwort liefern. Anfang des 20. Jahrhunderts begann man im US-Bundesstaat Oregon das Hot Lake Hotel geothermal zu beheizen. 1904 wurde in Larderello erstmals elektrische Energie mittels Geothermie erzeugt.
+
+
+== Geothermische Energie ==
+
+
+=== Ursprung ===
+
+Die bei ihrer Entstehung glutflüssige Erde ist innerhalb weniger Millionen Jahre erstarrt. Seit über vier Milliarden Jahren ist der radiale Temperaturverlauf im Erdmantel nur wenig steiler als die Adiabate. Dieser Temperaturgradient ist mit etwa 1 K/km viel zu klein, als dass Wärmeleitung einen wesentlichen Beitrag zum Wärmetransport leisten könnte. Vielmehr treibt der über die Adiabate hinausgehende Betrag des Temperaturgradienten die Mantelkonvektion an. Die im Vergleich zum Erdalter sehr rasche Konvektion – die ozeanische Kruste wurde und wird selten älter als 100 Millionen Jahre – wäre ohne aktive Wärmequellen im Erdinneren bald zum Erliegen gekommen. Das heißt, dass thermische Energie, die noch aus der Zeit der Entstehung der Erde stammt, am heutigen Wärmestrom kaum beteiligt ist.
+Der zeitliche Temperaturverlauf war zunächst von der Kinetik des radioaktiven Zerfalls dominiert. Kurzlebige Nuklide sorgten für ein Maximum der Manteltemperatur im mittleren Archaikum. Seit früher Zeit trägt auch Kristallisationsenthalpie von der Grenze des langsam wachsenden, festen inneren Erdkerns und gravitative Bindungsenergie aus der damit verbundenen Schrumpfung des ganzen Kerns zur Mantelkonvektion bei.
+
+Heute stammt immer noch der größere Teil der Wärmeleistung aus dem radioaktiven Zerfall der langlebigeren Nuklide im Mantel, 235U und 238U, 232Th und 40K. Der Beitrag jedes Nuklids wird berechnet aus der Zerfallsenergie und der Zerfallsrate; diese wiederum aus der Halbwertszeit und der Konzentration. Konzentrationen im Mantel sind der Messung nicht zugänglich, sondern werden aus Modellen der Gesteinsbildung geschätzt. Es ergibt sich eine Leistung aus radioaktivem Zerfall von etwa 20 bis 30 Terawatt oder 40 bis 50 kW/km². Der gesamte Erdwärmestrom aus radioaktiven Zerfallsprozessen beträgt etwa 900 EJ pro Jahr. Dies entspricht wiederum einer Leistung von etwa 27,5 Terawatt für die gesamte Erde. Seit kurzem werden Zerfallsraten mittels Neutrinodetektoren auch direkt gemessen, in Übereinstimmung mit dem bekannten Ergebnis, allerdings noch sehr ungenau, ±40 %. Angesichts der Langlebigkeit von Uran-238 und Thorium-232 ist auch auf geologischen Zeitskalen nicht mit einem „Versiegen“ dieser Quelle der Erdwärme zu rechnen.
+
+
+=== Wärmestrom aus dem Erdinneren ===
+Der vertikale Wärmetransport durch Mantelkonvektion endet unter der Erdkruste. Von dort wird Wärme zunächst zum größten Teil durch Wärmeleitung transportiert, was einen viel höheren Temperaturgradienten als im Mantel erfordert, in kontinentaler Kruste oft in der Größenordnung von 30 K/km, siehe geothermische Tiefenstufe. Zusammen mit der Wärmeleitfähigkeit ergibt sich die lokale Wärmestromdichte. Diese beträgt im Durchschnitt etwa 65 mW/m² im Bereich der Kontinente und 101 mW/m² im Bereich der Ozeane, global gemittelt 87 mW/m², was in einer global integrierten Wärmeleistung von etwa 44 Terawatt resultiert.
+Das ist nur etwa das Doppelte des Weltenergiebedarfs, was bedeutet, dass Erdwärmenutzung im großen Stil immer auf eine lokale Abkühlung des Gesteins hinausläuft. Aufgrund der Wärmekapazität des Gesteines und der damit verbundenen Menge der gespeicherten Wärme kann aber bei ausreichend großem Volumen die Abkühlung innerhalb der Nutzungsdauer gering bleiben und die Erdwärmenutzung somit nachhaltig sein. Der Weltenergiebedarf ist verglichen mit der in der Kruste gespeicherten Wärme klein. Diese lokale Abkühlung ihrerseits bewirkt dann eine Vergrößerung des Zuflussbereichs. Bei vorhandenen Aquiferen kann das effektiv genutzte Volumen von vornherein größer sein, da hier neben den Temperaturgradienten auch die Druckgradienten eine Rolle spielen. Diese finden sich beispielsweise in Grabenbrüchen (in Deutschland der Oberrheingraben) oder in tiefen Sedimentbecken. Solche Gebiete sind zunächst Gebieten vorzuziehen, in denen ein dichtes Gestein für die Konvektion erst erschlossen werden muss. Im Umfeld von Salzdiapiren kann durch deren hohe Wärmeleitfähigkeit Wärme aus einem großen Volumen zufließen.
+Im oberflächennahen Grundwasser und in den oberflächennahen Gesteinsschichten wächst mit geringer werdenden Tiefen der Anteil an der Erdwärme, der letztlich aus der Sonneneinstrahlung stammt.
+
+
+== Einteilung der Geothermiequellen ==
+
+
+=== Tiefe Geothermie ===
+Tiefe Geothermie ist die Nutzung von Lagerstätten, die in größeren Tiefen als 400 m unter Geländeoberkante erschlossen werden.
+Wärme ist umso wertvoller, je höher das Temperaturniveau ist, auf dem sie zur Verfügung steht. Es wird unterschieden zwischen Hochenthalpie- (hohe Temperaturen) und Niederenthalpielagerstätten (geringere Temperaturen). Als Grenze wird meist eine Temperatur von 400 °C angegeben.
+
+
+==== Hochenthalpie-Lagerstätten ====
+
+Die weltweite Stromerzeugung aus Geothermie wird durch die Nutzung von Hochenthalpie-Lagerstätten, die Wärme bei hoher Temperatur liefern, dominiert. Dies sind geologische Wärmeanomalien, die oft mit aktivem Magmatismus einhergehen; dort sind mehrere hundert Grad heiße Fluide (Wasser/Dampf) in einer Tiefe von wenigen hundert Metern anzutreffen. Ihr Vorkommen korreliert stark mit aktiven oder ehemals aktiven Vulkanregionen. Es gibt aber auch Hochenthalpiefelder, die einen rein plutonitischen oder strukturgeologischen Hintergrund haben.
+Abhängig von den Druck- und Temperaturbedingungen können Hochenthalpie-Lagerstätten mehr dampf- oder mehr wasserdominiert sein. Früher wurde der Dampf nach der Nutzung in die Luft entlassen, was zu erheblichem Schwefelverbindungsgeruch führen konnte (Italien, Larderello). Heute werden die abgekühlten Fluide in die Lagerstätte reinjiziert (zurückgepumpt). So werden negative Umwelteinwirkungen vermieden und gleichzeitig die Produktivität durch Aufrechterhalten eines höheren Druckniveaus in der Lagerstätte verbessert.
+Das heiße Fluid kann zur Bereitstellung von Industriedampf und zur Speisung von Nah- und Fernwärmenetzen genutzt werden. Besonders interessant ist die Erzeugung von Strom aus dem heißen Dampf. Hierfür wird das im Untergrund erhitzte Wasser genutzt, um eine Dampfturbine anzutreiben. Der geschlossene Kreislauf im Zirkulationssystem steht so unter Druck, dass ein Sieden des eingepressten Wassers verhindert wird und der Dampf erst an der Turbine entsteht (Flash-Verdampfung).
+
+
+==== Niederenthalpie-Lagerstätten ====
+In nichtvulkanischen Gebieten können die Temperaturen im Untergrund sehr unterschiedlich sein. In der Regel sind jedoch tiefe Bohrungen notwendig; für die Stromerzeugung sind Temperaturen über 80 °C erforderlich. Für eine in Deutschland wirtschaftlich sinnvolle Nutzung müssen die Temperaturen des Fluids über 100 °C liegen.
+Verfahren der Tiefen Geothermie
+Generell werden im Bereich der tiefen Geothermie vier Arten der Wärmeentnahme aus dem Untergrund unterschieden; welches der in Frage kommenden Verfahren zum Einsatz kommt, ist von den jeweiligen geologischen Voraussetzungen, von der benötigten Energiemenge sowie dem geforderten Temperaturniveau der Wärmenutzung abhängig. Die tiefe Geothermie wird öfter zur Wärmegewinnung genutzt, denn da kann bereits bei geringeren Vorlauftemperaturen die Wirtschaftlichkeit erreicht werden. Derzeit (2010) werden in Deutschland fast ausschließlich hydrothermale Systeme geplant. HDR-Verfahren befinden sich in den Pilotprojekten in Bad Urach (D), in Soultz-sous-Forêts im Elsass (F) und in Basel (CH) in der Erprobung. In Südost-Australien Cooperbecken ist seit 2001 ein kommerzielles Projekt im Gange (Firma Geodynamics Limited).
+
+
+===== Hydrothermale Systeme =====
+Liegen entsprechende Temperaturen in einem Aquifer vor, so kann aus diesem Wasser gefördert, abgekühlt und reinjiziert werden: Im Untergrund vorhandene Thermalwässer werden an einer Stelle gefördert und an einer anderen Stelle in den gleichen natürlichen Grundwasserleiter injiziert. Zur Förderung reicht dabei ein Druckausgleich, das Thermalwasser an sich zirkuliert nicht im Untergrund. Hydrothermale Energie ist je nach vorliegender Temperatur zur Wärme- oder Stromgewinnung nutzbar. Die für hydrothermale Geothermie in Deutschland brauchbaren geologischen Horizonte können im Geothermischen Informationssystem ersehen werden.
+
+
+===== Petrothermale Systeme =====
+
+werden oft auch als HDR-Systeme (Hot-Dry-Rock) bezeichnet: Ist das Gestein, in dem die hohen Temperaturen angetroffen wurden, wenig permeabel, so dass aus ihm kein Wasser gefördert werden kann, so kann dort ein künstlich eingebrachtes Wärmeträgermedium (Wasser oder auch CO2) zwischen zwei tiefen Brunnen in einem künstlich erzeugten Risssystem zirkuliert werden: zunächst wird Wasser mit (mindestens einer) Injektions- bzw. Verpressbohrung in das Kluftsystem eingepresst unter einem Druck, welcher so weit über dem petrostatischen Druck liegen muss, dass die minimale Hauptspannung in der jeweiligen Teufenlage überschritten wird, in das Gestein gepresst (hydraulische Stimulation oder Fracking); hierdurch werden Fließwege aufgebrochen oder vorhandene aufgeweitet und damit die Durchlässigkeit des Gesteins erhöht. Dieses Vorgehen ist notwendig, da sonst die Wärmeübertragungsfläche und die Durchgängigkeit zu gering wären. Anschließend bildet dieses System aus natürlichen und künstlichen Rissen einen unterirdischen, geothermischen Wärmeübertrager. Durch die zweite, die Produktions- oder Förderbohrung, wird das Trägermedium wieder an die Oberfläche gefördert.
+Tatsächlich ist die Annahme, bei diesen Temperaturen und Tiefen trockene Gesteinsformationen vorzufinden, nicht korrekt. Aus diesem Grund existieren auch verschiedene andere Bezeichnungen für dieses Verfahren: u. a. Hot-Wet-Rock (HWR), Hot-Fractured-Rock (HFR) oder Enhanced Geothermal System (EGS). Als neutrale Bezeichnung wird der Begriff petrothermale Systeme verwendet.
+
+
+===== Tiefe Erdwärmesonden =====
+
+Eine tiefe Erdwärmesonde ist ein geschlossenes System zur Erdwärmegewinnung, bei dem im Vergleich zu „offenen“ Systemen vergleichsweise wenig Energie extrahiert wird. Die Sonden bestehen aus einer einzigen Bohrung mit teilweise deutlich mehr als 1000 m Tiefe, in der ein Fluid zirkuliert, das in der Regel in einem koaxialen Rohr eingeschlossen ist. Im Ringraum der Bohrung fließt das kalte Wärmeträgerfluid nach unten, wird in der Tiefe erwärmt und steigt anschließend in der dünneren eingehängten Steigleitung wieder auf. Bei derartige Erdwärmesonden besteht kein Kontakt zum Grundwasser, damit fallen die Nachteile offener Systeme weg und sie sind damit an jedem Standort möglich. Ihre Entzugsleistung hängt neben technischen Parametern von den Gebirgstemperaturen und den Leitfähigkeiten des Gesteins ab. Sie wird jedoch nur einige hundert kW betragen und somit wesentlich kleiner sein als die eines vergleichbaren offenen Systems. Dies liegt daran, dass die Wärmeübertragungsfläche deutlich kleiner ist, da sie nur der Mantelfläche der Bohrung entspricht.
+Tiefe Erdwärmesonden wurden beispielsweise 2005 in Aachen (SuperC der RWTH Aachen) und Arnsberg (Freizeitbad Nass) gebaut. Ende 2009 wurde in der Schweiz die Forschungsanlage Tiefen-EWS Oftringen realisiert. Es handelt sich hierbei um eine 706 m tiefe konventionelle Doppel-U-Sonde, welche 2009/2010 im Sinne einer Direktheizung (also ohne den Einsatz mit einer Wärmepumpe) getestet wurde.
+Alternativ zur Zirkulation von Wasser (mit eventuellen Zusätzen) in der Erdwärmesonde sind auch Sonden mit Direktverdampfern (Wärmerohre oder englisch Heatpipes) vorgeschlagen worden. Als Wärmeträgerfluid kann dabei entweder eine Flüssigkeit mit einem entsprechend niedrigen Siedepunkt verwendet werden, oder ein Gemisch beispielsweise aus Wasser und Ammoniak. Eine derartige Sonde kann auch unter Druck betrieben werden, was einen Betrieb beispielsweise mit Kohlendioxid möglich macht. Heatpipes können eine höhere Entzugsleistung erreichen als konventionelle Sonden, da sie auf ihrer gesamten Länge die Verdampfungstemperatur des Arbeitsmittels haben können.
+Bei tiefen Erdwärmestichsonden bis 3000 m ist eine Isolierung bis zu einer Tiefe von etwa 1000 m sinnvoll, um Verluste an Wärmeenergie beim Aufsteigen des Fluids durch kältere Gesteinsschichten zu verringern. Damit ist eine höhere Energieausbeute möglich oder es kann bei einer geringeren Bohrtiefe die gleiche Leistung mit wesentlich niedrigeren Kosten erzielt werden. Eine dauerhafte Möglichkeit zur Isolierung, die auch relativ einfach hergestellt werden kann, ist das mit Luftpolstern arbeitende Isolierkappensystem.
+
+
+===== Closed Loop Verfahren =====
+Beim Closed Loop Verfahren (engl. Loop steht für Schleife) handelt es sich genau wie bei tiefen Erdwärmesonden um ein geschlossenes System, mit dem Unterschied, dass zwei voneinander getrennte vertikale Bohrungen in relativ geringem Abstand zueinander abgeteuft werden. Beide Bohrungen werden horizontal abgelenkt und am Ende der Bohrung zu einer Schleife verbunden. Zur Erhöhung der Wärmeaufnahmefähigkeit können mehrere horizontale Schleifen angelegt werden. Das Verfahren, das im Geothermieprojekt Geretsried erstmals kommerziell realisiert werden soll, ist unter der Bezeichnung Eavor-Loop patentiert. Der erste Bauabschnitt soll bis 2024 fertiggestellt werden.
+
+
+=== Oberflächennahe Geothermie ===
+Oberflächennahe Geothermie bezeichnet die Nutzung der Erdwärme bis ca. 400 m Tiefe.
+Aus geologischer Sicht ist jedes Grundstück für eine Erdwärmenutzung geeignet. Jedoch müssen wirtschaftliche, technische und rechtliche Aspekte beachtet werden.
+Der erforderliche Erdwärmeübertrager muss für jedes Gebäude passend dimensioniert werden. Er hängt von dem benötigten Bedarf an Wärmemenge, Wärmeleitfähigkeit und Grundwasserführung des Untergrundes ab.
+Die Kosten einer Anlage richten sich nach der erforderlichen Größe der Anlage (beispielsweise Erdsondenmeter). Diese errechnen sich aus dem Energiebedarf des Hauses und den geologischen Untergrundverhältnissen.
+Eine Erdwärmenutzung muss der Wasserbehörde angezeigt werden. Bei grundstücksübergreifender Erdwärmenutzung und bei Bohrtiefen von über 100 m (je nach Bundesland) muss das Berg- und Lagerstättenrecht beachtet werden.
+Die Nutzung der Erdwärme erfolgt mittels Erdwärmekollektoren, Erdwärmesonden, Energiepfählen (im Boden verbaute armierte Betonstützen mit Kunststoffrohren für Wärmetausch) oder Wärmebrunnenanlagen (gespeicherte Sonnenwärme im Erdreich).
+Der Erdwärmetransport erfolgt über Rohrleitungssysteme mit einer zirkulierenden Flüssigkeit, welches in der Regel mit einer Wärmepumpe verbunden ist. Das beschriebene System kann auch kostengünstig (ohne Wärmepumpe) zur Kühlung genutzt werden.
+
+
+=== Geothermie aus Tunneln ===
+Zur Gewinnung thermischer Energie aus Tunnelbauwerken wird auch austretendes Tunnelwasser genutzt, welches ansonsten aus Umweltschutzgründen in Abkühlbecken zwischengespeichert werden müsste, bevor es in örtliche Gewässer abgeleitet werden darf. Die erste solche bekannte Anlage wurde 1979 in der Schweiz beim Südportal des Gotthard-Straßentunnels in Betrieb genommen. Sie versorgt den Autobahnwerkhof von Airolo mit Wärme und Kälte. Weitere Anlagen sind zwischenzeitlich dazugekommen, welche vor allem Warmwasser aus Bahntunneln nutzen. Das Tunnelwasser des neuen Lötschberg-Bahntunnels wird für eine Störzucht und für ein Tropenhaus verwendet.
+In Österreich wurde ein Verfahren entwickelt, um die Wärme aus Tunneln mittels eines Transportmediums zu nutzen, welches in eingemauerten Kollektoren zirkuliert. Für konventionell vorgetriebene Tunnel wurde das Prinzip unter dem Namen TunnelThermie bekannt. Durch die großen, erdberührten Flächen stellt diese relativ junge Technologie ein hohes Nutzungspotenzial besonders in innerstädtischen Tunnelbauwerken dar.
+In Deutschland wurde ein Verfahren entwickelt, um Geothermie auch in maschinell vorgetriebenen Tunneln zu nutzen. Dazu sind Kollektoren in Betonfertigteile (sog. Tübbinge), die die Schale eines Tunnels bilden, eingebaut (Energietübbing genannt). Da innerstädtische Tunnel in schwierigen geologischen Verhältnissen häufig im Schildvortrieb aufgefahren werden, bietet der Energietübbing die Möglichkeit, auch entlang dieser Strecken das geothermische Potenzial des Erdreichs zu nutzen.
+
+
+=== Geothermie aus Bergbauanlagen ===
+Bergwerke und ausgeförderte Erdgaslagerstätten, die wegen der Erschöpfung der Vorräte stillgelegt werden, sind denkbare Projekte für Tiefengeothermie. Dies gilt eingeschränkt auch für tiefe Tunnelbauwerke. Die dortigen Formationswasser sind je nach Tiefe der Lagerstätte 60 bis 120 °C heiß, die Bohrungen oder Schächte sind oft noch vorhanden und könnten nachgenutzt werden, um die warmen Lagerstättenwässer einer geothermischen Nutzung zuzuführen.
+Derartige Anlagen zur Gewinnung der geothermischen Energie müssen so in die Einrichtungen zur Verwahrung des Bergwerks integriert werden, dass die öffentlich rechtlich normierten Verwahrungsziele, das stillgelegte Bergwerk (§ 55 Absatz 2 Bundesberggesetz und § 69 Abs. 2 Bundesberggesetz) gefahrenfrei zu halten, auch mit den zusätzlichen Einrichtungen erfüllt werden.
+In Heerlen, Czeladź, Zagorje ob Savi, Burgas, Nowoschachtinsk in Russland und Hunosa bei Oviedo befinden sich Pilotanlagen.
+
+
+=== Saisonale Wärmespeicher ===
+Geothermie steht immer, also unabhängig von der Tages- und Jahreszeit und auch unabhängig vom Wetter zur Verfügung. Optimal wird eine Anlage, in der das oberflächennahe Temperaturniveau genutzt werden soll, dann arbeiten, wenn sie auch zeithomogen genutzt wird. Dies ist zum Beispiel dann der Fall, wenn im Winter mit Hilfe einer Wärmepumpe das oberflächennahe Temperaturniveau von ca. 10 °C zum Heizen genutzt wird und sich dabei entsprechend absenkt und im Sommer dann dieses Reservoir zur direkten Kühlung benutzt wird. Beim Kühlen im Sommer ergibt sich dabei eine Erwärmung des oberflächennahen Reservoirs und damit dessen teilweise oder vollständige Regeneration. Im Idealfall sind beide Energiemengen gleich. Der Energieverbrauch des Systems besteht dann im Wesentlichen aus der Antriebsleistung für die Wärme- bzw. Umwälzpumpe.
+Verstärkt wird diese Funktion, wenn Geothermie mit anderen Anlagen beispielsweise Solarthermie kombiniert wird. Solarthermie stellt Wärme vorwiegend im Sommer zur Verfügung, wenn sie weniger gebraucht wird. Durch Kombination mit Geothermie lässt sich diese Energie im Sommer in den unterirdischen Wärmespeicher einspeisen und im Winter wieder abrufen. Die Verluste sind standortabhängig, aber in der Regel gering.
+Saisonalspeicher können sowohl oberflächennah, als auch tief ausgeführt werden. Sogenannte Hochtemperatur-Speicher (> 50 °C) sind allerdings nur in größerer Tiefe oder mit entsprechender Dämmung denkbar. Beispielsweise verfügt das Reichstagsgebäude über einen derartigen Speicher.
+
+
+== Nutzung von Erdwärme ==
+Die Geothermie ist global gesehen eine langfristig nutzbare Energiequelle. Mit den Vorräten, die in den oberen drei Kilometern der Erdkruste gespeichert sind, könnte im Prinzip rechnerisch und theoretisch der derzeitige weltweite Energiebedarf für über 100.000 Jahre gedeckt werden. Allerdings ist nur ein kleiner Teil dieser Energie technisch nutzbar und die Auswirkungen auf die Erdkruste bei umfangreichem Wärmeabbau sind noch unklar.
+Bei der Nutzung der Geothermie unterscheidet man zwischen direkter Nutzung, also der Nutzung der Wärme selbst, und indirekter Nutzung, der Nutzung nach Umwandlung in Strom in einem Geothermiekraftwerk. Mit Einschränkungen sind zur Optimierung der Wirkungsgrade auch hier Kraft-Wärme-Kopplungen (KWK) möglich. Vor allem in dünn besiedelten Gegenden bzw. an weit von Siedlungen mit Wärmebedarf entfernten Kraftwerksstandorten lassen sich nur schwer KWK-Prozesse realisieren. Nicht an jedem Kraftwerksstandort werden sich Abnehmer für die Wärme finden lassen.
+
+
+=== Direkte Nutzung ===
+
+Frühe balneologische Anwendungen finden sich in den Bädern des Römischen Reiches, im mittleren Königreich der Chinesen und bei den Osmanen.
+In Chaudes-Aigues im Zentrum Frankreichs existiert das erste historische geothermische Fernwärmenetz, dessen Anfänge bis ins 14. Jahrhundert zurückreichen.
+Heute existieren vielfältige Nutzungen für Wärmeenergie in Industrie, Handwerk und in Wohngebäuden.
+
+
+=== Heizen und Kühlen mit Erdwärme ===
+Für die meisten Anwendungen werden nur relativ niedrige Temperaturen benötigt. Aus tiefer Geothermie können häufig die benötigten Temperaturen direkt zur Verfügung gestellt werden. Reicht dies nicht, so kann die Temperatur durch Wärmepumpen angehoben werden, so wie dies meist bei der oberflächennahen Geothermie geschieht.
+In Verbindung mit Wärmepumpen wird Erdwärme in der Regel zum Heizen und Kühlen von Gebäuden sowie zur Warmwasserbereitung eingesetzt. Dies kann direkt über in einzelnen Gebäuden installierte Wärmepumpenheizungen erfolgen oder indirekt über Kalte Nahwärmesysteme, bei denen die geothermische Quelle das Kaltwärmenetz speist, das wiederum die einzelnen Gebäude versorgt.
+Eine weitere Nutzungsmöglichkeit ist die natürliche Kühlung, bei der Wasser mit der Temperatur des flachen Untergrundes, also der Jahresmitteltemperatur des Standortes, direkt zur Gebäudekühlung verwendet wird (ohne den Einsatz einer Wärmepumpe). Diese natürliche Kühlung hat das Potential, weltweit Millionen von elektrisch betriebenen Klimageräten zu ersetzen. Sie wird jedoch derzeit nur wenig angewendet. Im November 2017 ist in Bremen das Rechenzentrum ColocationIX-Data-Center in Betrieb gegangen, das während der Sommermonate die Kühlung über die Erdwärme bezieht.
+Ebenfalls eine direkte Anwendung ist das Eisfreihalten von Brücken, Straßen oder Flughäfen. Auch hier wird keine Wärmepumpe benötigt, denn der Speicher wird durch Abführung und Einspeicherung der Wärme mit einer Umwälzpumpe von der heißen Fahrbahn im Sommer regeneriert. Dazu zählt auch das frostfreie Verlegen von Wasserleitungen. Die im Boden enthaltene Wärme lässt den Boden in Mitteleuropa im Winter nur bis in eine geringe Tiefe einfrieren.
+Für die Wärmenutzung aus tiefer Geothermie eignen sich niedrigthermale Tiefengewässer mit Temperaturen zwischen 40 und 150 °C, wie sie vor allem im süddeutschen Molassebecken, im Oberrheingraben und in Teilen der norddeutschen Tiefebene vorkommen. Das Thermalwasser wird gewöhnlich aus 1000 bis 4500 Metern Tiefe über eine Förderbohrung an die Oberfläche gebracht, gibt den wesentlichen Teil seiner Wärmeenergie per Wärmeübertrager an einen zweiten, den „sekundären“ Heiznetzkreislauf ab. Ausgekühlt wird es anschließend über eine zweite Bohrung wieder mit einer Pumpe in den Untergrund verpresst, und zwar in die Schicht, aus der es entnommen wurde.
+
+
+=== Stromerzeugung ===
+
+Die Stromerzeugung funktioniert nach dem Prinzip der Wärmekraftmaschinen und ist durch die Temperaturdifferenz begrenzt. Deswegen haben geothermische Kraftwerke verglichen mit Verbrennungskraftwerken einen niedrigen Carnot-Faktor, die Geothermie ist aber an einigen Orten als Energiequelle nahezu unerschöpflich verfügbar.
+Zur Stromerzeugung wurde die Geothermie zum ersten Mal in Larderello in der Toskana eingesetzt. 1913 wurde dort von Graf Piero Ginori Conti ein Kraftwerk erbaut, in dem wasserdampfbetriebene Turbinen 220 kW elektrische Leistung erzeugten. Heute sind dort ca. 750 MW elektrische Leistung installiert. Unter der Toskana befindet sich Magma relativ dicht unter der Oberfläche. Dieses heiße Magma erhöht hier die Temperatur des Erdreiches so weit, dass eine wirtschaftliche Nutzung der Erdwärme möglich ist.
+Bei der hydrothermalen Stromerzeugung sind Wassertemperaturen von mindestens 80 °C notwendig. Hydrothermale Heiß- und Trockendampfvorkommen mit Temperaturen über 150 °C können direkt zum Antrieb einer Turbine genutzt werden, diese kommen in Deutschland jedoch nicht vor.
+
+Lange Zeit wurde Thermalwasser daher ausschließlich zur Wärmeversorgung im Gebäudebereich genutzt. Neu entwickelte Organic-Rankine-Cycle-Anlagen (ORC) ermöglichen eine Nutzung von Temperaturen ab 80 °C zur Stromerzeugung. Diese arbeiten mit einem organischen Medium (beispielsweise Pentan), das bei relativ geringen Temperaturen verdampft. Dieser organische Dampf treibt über eine Turbine den Stromgenerator an. Die für den Kreisprozess eingesetzten Fluide sind teilweise entzündlich oder giftig. Vorschriften zum Umgang mit diesen Stoffen müssen eingehalten werden. Eine Alternative zum ORC-Verfahren ist das Kalina-Verfahren. Hier werden Zweistoffgemische, so zum Beispiel aus Ammoniak und Wasser, als Arbeitsmittel verwendet.
+Für Anlagen in einem kleineren Leistungsbereich (< 200 kW) sind auch motorische Antriebe wie Stirlingmotoren denkbar.
+Stromgewinnung aus Tiefengeothermie ist grundlastfähig und steuerbar, in existierenden Anlagen werden oft mehr als 8000 Betriebsstunden pro Jahr erreicht.
+
+
+==== Stromerzeugung über Hochenthalpielagerstätten ====
+Die Stromerzeugung aus Geothermie findet traditionell in Ländern statt, die über Hochenthalpielagerstätten verfügen, in denen Temperaturen von mehreren hundert Grad Celsius in vergleichsweise geringen Tiefen (< 2000 m) angetroffen werden. Die Lagerstätten können dabei, je nach Druck und Temperatur, wasser- oder dampfdominiert sein. Bei modernen Förderungstechniken werden die ausgekühlten Fluide reinjiziert, so dass praktisch keine negativen Umweltauswirkungen, wie Schwefelverbindungsgeruch, mehr auftreten.
+
+
+==== Stromerzeugung über Niederenthalpielagerstätten ====
+In Niederenthalpielagerstätten, wie sie in Deutschland meist angetroffen werden, ist wegen der geringen Temperaturspreizung zwischen Vor- und Rücklauf der maximal mögliche energetische Wirkungsgrad systembedingt niedriger als in Hochenthalpielagerstätten.
+Durch optimale Wahl des Arbeitsmittels (beispielsweise Kalinaprozess mit Ammoniak) versucht man den Abstand zwischen Vor- und Rücklauftemperatur effizienter zu nutzen. Dabei ist aber zu beachten, dass die Sicherheitsanforderungen für den Umgang mit Ammoniak anders sein können als bei der Nutzung verschiedener organischer Arbeitsmittel.
+Der Eigenstromverbrauch, insbesondere zur Speisung der Umwälzpumpen im Thermalwasserkreislauf, in solchen Anlagen kann bis zu 25 Prozent der erzeugten Strommenge betragen.
+
+
+== Geothermie weltweit ==
+Geothermie ist eine bedeutende erneuerbare Energie. Einen besonderen Beitrag zu ihrer Nutzung leisten hierbei die Länder, die über Hochenthalpielagerstätten verfügen. Dort kann der Anteil der Geothermie an der Gesamtenergieversorgung des Landes erheblich sein, zum Beispiel Geothermale Energie in Island.
+
+
+=== Direkte Nutzung ===
+
+Im Jahr 2005 waren zur direkten Nutzung von Geothermie weltweit Anlagen mit einer Leistung von 27.842 MW installiert. Diese können Energie in der Größenordnung von 261.418 TJ/a (72.616 GWh/a) liefern, das entspricht einer mittleren Leistungsabgabe von 8,29 GW oder 0,061 % des Primärenergieverbrauchs der Welt. Bei einer Weltbevölkerung 2005 von 6,465 Mrd. Menschen entfallen daraus rechnerisch 1,28 Watt auf jeden Menschen (der durchschnittlich aber insgesamt 2.100 Watt Primärenergie verbraucht). Der Nutzungsgrad der installierten Leistung beträgt also etwa 30 % (diese Kennzahl ist wichtig für die überschlägige Kalkulation der Wirtschaftlichkeit von geplanten Anlagen, sie wird allerdings weitgehend durch die Verbraucherstruktur und weniger durch die Erzeuger, also die Wärmequelle bestimmt).
+Länder mit Energieumsätzen größer als 5000 TJ/a zeigt die Tabelle.
+Besonders hervorzuheben sind Schweden und Island. Schweden ist geologisch eher benachteiligt, hat aber durch eine konsequente Politik und Öffentlichkeitsarbeit diesen hohen Anteil bei der Nutzung erneuerbarer Energien vorwiegend zum Heizen (Wärmepumpenheizung) erreicht.
+Auch in Island hat die Nutzung dieser Energie einen beträchtlichen Anteil an der Energieversorgung des Landes (ca. 53 %), vgl. Geothermale Energie in Island. Es ist inzwischen weltweit Vorreiter auf diesem Gebiet.
+Das 1981 in Betrieb genommene und laufend erweiterte geothermische Kraftwerk Olkaria (121 MW, Potential 2 GW) im afrikanischen Rift Valley deckt mittlerweile 14 % des landesweiten Strombedarfs von Kenia. Die Erfolge dabei führten zu Geothermie-Projekten in Eritrea, Uganda, Tansania oder Äthiopien, die ebenfalls entlang des Ostafrikanischen Grabenbruchs liegen.
+Im Nahen Osten wird in den Vereinigten Arabischen Emiraten das erste Geothermie-Projekt realisiert. Es soll zur Versorgung der Ökostadt Masdar mit Energie zur Kühlzwecken dienen. Zunächst wurden zwei Probebohrungen in Tiefen von 2800 m und 4500 m gestartet.
+
+
+=== Stromerzeugung ===
+Stromerzeugung aus Geothermie konzentriert sich traditionell auf Länder, die über oberflächennahe Hochenthalpie-Lagerstätten verfügen (meist Vulkan- oder Hot-Spot-Gebiete). In Ländern, die dies – wie zum Beispiel Deutschland – nicht haben, muss der Strom mit einem vergleichsweise niedrigen Temperaturniveau (Niederenthalpielagerstätte mit etwa 100–150 °C) erzeugt werden, oder es ist entsprechend tiefer zu bohren.
+Die zum Ende des ersten Quartals 2010 installierte Leistung betrug 10.715 MW. Bis Ende 2021 stieg die installierte Leistung auf 15.644 MW.
+Rechte Tabelle – Länder mit einem bedeutsamen Anteil der Geothermie an der Gesamtversorgung (Stand 2005):
+
+Niederenthalpie-Lagerstätten werden weltweit lange Zeit wenig genutzt. Zukünftig könnten sie an Bedeutung gewinnen, da diese Nutzung weiter verbreitet möglich ist und nicht spezielle geothermische Bedingungen mit überdurchschnittlich hohen geothermischen Gradienten voraussetzt. Im November 2003 wurde das erste derartige Kraftwerk Deutschlands, das Geothermiekraftwerk Neustadt-Glewe, mit 0,23 Megawatt Leistung in Betrieb genommen. Im Jahr 2007 folgte mit der 3-Megawatt-Anlage des Geothermiekraftwerkes Landau die erste industrielle Installation.
+In Australien wird in Cooperbecken das erste rein wirtschaftliche Geothermiekraftwerk auf der Basis Hot Fractured Rock (HFR) erstellt. Bisher sind zwei Bohrungen auf über 4000 m Tiefe gebohrt und ein künstliches Risssystem erzeugt. Die Temperaturen sind mit 270 Grad höher als erwartet und auch die künstlich erzeugte Wasserwegsamkeit zwischen den Bohrungen ist besser als geplant.
+Bezogen auf die Pro-Kopf-Nutzung der Erdwärme ist Island heute Spitzenreiter mit 664 MW (2011) installierter Gesamtleistung (Geothermale Energie in Island). Die USA führen dagegen bei den Absolutwerten mit einer installierten Gesamtleistung von 3093 MW (2010) vor den Philippinen mit 1904 MW (2010) und Indonesien mit 1197 MW (2010).
+
+
+=== Situation in Deutschland ===
+
+Geothermische Energie ist nach dem deutschen Bergrecht (Bundesberggesetz, BBergG, § 3 Abs. 3 Satz 2 Nr. 2b) ein bergfreier Rohstoff (bergfreier Bodenschatz). Sie gilt somit zunächst als herrenlos, wobei die jeweiligen Antragsteller ein Recht für Aufsuchung und Nutzung durch Verleihung seitens des Staates erlangen (wenn sie nicht städtebaulich genutzt wird, weil dann der Gewinnungsbegriff im § 4 Abs. 2 Bundesberggesetz nicht einschlägig ist). Dies bedeutet, dass das Eigentum an einem Grundstück sich nicht auf die Erdwärme erstreckt. Für die Aufsuchung der Erdwärme bedarf es also einer Erlaubnis nach § 7 BBergG und für die Gewinnung einer Bewilligung nach § 8 BBergG. Die meisten Anlagen oberflächennaher Geothermie können jedoch bislang nach dem § 4 BBergG ohne ein solches Verfahren erstellt werden, wenn die Nutzung auf dem eigenen Grundstück erfolgt, die genaue Abgrenzung richtet sich nach dem jeweiligen Landesrecht. Auf jeden Fall sind Anlagen, die in das Grundwasser reichen, nach dem Wasserrecht erlaubnispflichtig. Für Bohrungen, die länger als 100 Meter sind, ist außerdem ein bergrechtlicher Betriebsplan nötig. Die Stadt Freiburg im Breisgau hat allerdings unter anderem infolge der in Staufen nach einer Probebohrung aufgetretenen Geländehebungen sowie der in Basel durch eine solche ausgelösten Erdbeben ihre Auflagen für oberflächennahe Geothermie-Projekte auch für Bohrungen unter 100 m verschärft.
+Die geothermische Stromerzeugung steckt in Deutschland noch in den Anfängen. Unter anderem beschäftigt sich (Stand: 2009) das Deutsche GeoForschungsZentrum in Potsdam intensiv mit diesem Thema. Der Niedersächsische Forschungsverbund „Geothermie und Hochleistungsbohrtechnik – gebo“ verfolgte von 2009 bis 2014 die Zielsetzung, neue Konzepte zur geothermischen Energiegewinnung in tiefen geologischen Schichten zu entwickeln. Zudem fördert das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit (BMU) zahlreiche Forschungsprojekte zur Effizienzsteigerung der tiefen Geothermie. In Bad Urach (Schwäbische Alb) konnte ein langjährig betriebenes und weit fortgeschrittenes HDR-Forschungsprojekt aus finanziellen Gründen nicht vollendet werden. Die Bohrungen sollen stattdessen nun aus dem Muschelkalk Thermalwasser zum Beheizen von Gebäuden genutzt werden.
+Elf Kraftwerke (in Süd-Bayern: Sauerlach, Taufkirchen, Laufzorn, Kirchstockach und Dürrnhaar bei München, Holzkirchen, Traunreut, Simbach-Braunau; im Oberrheingraben: Bruchsal, Landau in der Pfalz und Insheim) erzeugen derzeit in Deutschland Strom aus Tiefengeothermie (Stand Dezember 2019).
+Einige weitere Projekte sind im Bau oder nahezu fertiggestellt, so dass in den nächsten Jahren mit einem Anstieg beim Anteil der geothermisch erzeugten Strommenge zu rechnen ist.
+Sehr weit verbreitet ist hingegen die direkte energetische Nutzung von hydrothermaler Geothermie beim Betrieb von Wärmenetzen. Eine Übersicht über die in Deutschland vorhandenen Anlagen hydrogeothermaler Nutzung ist in dem Verzeichnis Geothermischer Standorte zu finden. Vom Bundesverband Geothermie gibt es eine Übersichtskarte.
+In Deutschland ist die direkte Nutzung oberflächennaher Geothermie (Wärmepumpenheizung) schon weit verbreitet, 2010 wurden 51.000 neue Anlagen installiert. Insgesamt waren 2009 etwa 330.000 Anlagen installiert. Erstmals flächig erforscht werden soll der Einsatz von oberflächennaher Geothermie im Erdwärmepark in Neuweiler im Nordschwarzwald; einem Baugebiet, in dem ausschließlich Erdwärme zu Zwecken der Gebäudeheizung und -kühlung verwendet wird. Hier soll im Rahmen eines Modellprojekts auch das Heizen bzw. Kühlen der vorhandenen Straßen erstmals umgesetzt werden. Oberflächennahe Geothermie wird auch in Bayern u. a. in der Umgebung von Ansbach untersucht, wo es auch einen Ausbildungsschwerpunkt an der dortigen Fachhochschule gibt.
+Für Deutschland ergab sich laut der Zahlen des BMU für das Jahr 2004 das folgende Bild: Der Energieerzeugung im Jahr 2004 aus der Geothermie von 5609 TJ/a (entsprechend einer mittleren Leistungsabgabe von 0,178 GW im Jahr 2004) stand ein Primärenergieverbrauch in Deutschland im selben Jahr von 14.438.000 TJ/a (entsprechend einer mittleren Leistung von 458 GW) gegenüber. Es wurden also im Jahr 2004 0,04 % des Primärenergieverbrauchs in Deutschland durch Geothermie gedeckt. Die Branche rechnete für 2005 mit einem Umsatz von etwa 170 Millionen Euro und mit Investitionen von 110 Millionen Euro. Etwa 10.000 Menschen arbeiteten bereits direkt oder indirekt für die geothermische Energieversorgung (Quelle, siehe Literatur/Statistik, 2.).
+
+
+==== Direkte Nutzung ====
+Im Bereich der tiefen Geothermie gibt es in Deutschland zurzeit (Stand: 2005) 30 Installationen mit Leistungen über 2 MW. Diese leisten zusammen 105 MW (Quelle, siehe Literatur/Statistik, 4.). Die meisten dieser Einrichtungen stehen im
+
+Norddeutschen Becken,
+Süddeutschen Molasse­becken oder in der
+Oberrheinischen Tiefebene/Oberrheingraben.
+Der norddeutsche Raum verfügt geologisch bedingt über ein großes Potential geothermisch nutzbarer Energie in thermalwasserführenden Porenspeichern des Mesozoikums in einer Tiefe von 1000 bis 2500 m mit Temperaturen zwischen 50 °C und 100 °C. Die Geothermische Heizzentrale (GHZ) in Neubrandenburg war bereits in der DDR eines der Pilotprojekte zur Nutzung der Geothermie.
+Das Molassebecken in Süddeutschland (Alpenvorland) bietet günstige Voraussetzungen für eine tiefengeothermische Nutzung. Zahlreiche balneologische Erschließungen in Baden-Württemberg (Oberschwaben) und Bayern (Bäderdreieck) bestehen bereits seit einigen Jahrzehnten. Darüber hinaus existierten in Südbayern im Jahr 2019 rund zwanzig groß-energetische Nutzungen (geothermisch betriebene Fernwärmenetze in Simbach-Braunau, Straubing, Erding, Unterschleißheim, Pullach, München-Riem, Unterhaching, Unterföhring, Aschheim-Feldkirchen-Kirchheim, Ismaning, München-Freiham, Waldkraiburg, Poing, Garching, Grünwald, Traunreut, Sauerlach, Taufkirchen, Kirchweidach, Holzkirchen) und zahlreiche weitere sind in Planung oder im Bau (beispielsweise München-Sendling,). Das Thermalwasser stammt aus einer Kalksteinschicht (Poren-, Kluft- und Karstgrundwasser) des Oberjura (Malm) an der Basis des nordalpinen Molassetrogs. Diese Gesteine treten entlang der Donau an der Erdoberfläche in Erscheinung und tauchen in Richtung Süden am Alpenrand auf bis über 5000 m unter die Erdoberfläche ab. Dort sind auch Temperaturen höher als 140 °C zu erwarten.
+Der Oberrheingraben bietet deutschlandweit besonders gute geologisch-geothermische Voraussetzungen (u. a. hohe Temperatur, Wärmefluss, Struktur im Untergrund). Allerdings sind die Thermalwässer im Oberrheingraben reich an gelösten Inhaltsstoffen, was hohe Anforderungen an die Anlagentechnik stellt. An verschiedenen Standorten sind Projekte in Betrieb, in Planung und im Bau. Für viele Regionen sind bereits Konzessionen erteilt worden.
+Untersucht wird zudem beispielsweise in Nordrhein-Westfalen, ob Grubenwasser thermisch genutzt werden kann.
+Baden-Württemberg hat genau wie Nordrhein-Westfalen ein Förderprogramm für Erdwärmesonden-Anlagen für kleine Wohngebäude aufgelegt, mit einer Förderung der Bohrmeter, siehe Weblinks.
+Zusätzlich gibt es in Deutschland mehr als 50.000 oberflächennahe Geothermieanlagen, bei denen Wärmepumpen zum Anheben der Temperatur eingesetzt werden. Diese haben zusammen eine Leistung von mehr als 500 MW. Im Vergleich zu Schweden, Schweiz oder Österreich ein eher geringer Marktanteil. Im Jahr 2000 betrug er in Deutschland 2 bis 3 %, in Schweden 95 %, und in der Schweiz 36 % (Siehe auch Wärmepumpenheizung).
+
+
+==== Stromerzeugung ====
+Das erste geothermische Kraftwerk in Deutschland ist 2004 in Mecklenburg-Vorpommern als Erweiterung des bereits 1994 errichteten geothermischen Heizwerks in Betrieb genommen worden. Die elektrische Leistung des Geothermiekraftwerks Neustadt-Glewe betrug bis zu 230 kW. Aus einer Tiefe von 2250 Metern wurde etwa 97 °C heißes Wasser gefördert und zur Strom- und Wärmeversorgung genutzt. Im Jahr 2004 betrug die erzeugte Strommenge 424.000 Kilowattstunden (Quelle: AGEE-Stat/BMU); die Stromerzeugung dieses geothermischen Pionier-Kraftwerks wurde 2010 allerdings wieder eingestellt. Seither wurden in Deutschland 11 weitere geothermische Kraftwerke errichtet, weitere sind derzeit im Bau, die meisten davon am Oberrhein und im oberbayerischen Molassebecken. Die Bergämter haben dort zahlreiche Aufsuchungsgenehmigungen zur gewerblichen Nutzung von Erdwärme vergeben (bis 2007 über 100).
+Die für die Stromerzeugung erforderlichen Wärmereservoirs mit hohen Temperaturen sind in Deutschland, Österreich und der Schweiz nur in großer Tiefe vorhanden. Die für den Betrieb erforderlichen Temperaturen zu erschließen, ist mit einem hohen finanziellen Aufwand verbunden. Geologische und bohrtechnische Erschließungsrisiken müssen dabei im Verhältnis zum finanziellen Aufwand abgewogen werden. Forschungsarbeiten zur Nutzung tief liegender bzw. weitgehend wasserundurchlässiger Gesteine laufen und versprechen die Möglichkeiten zur Stromerzeugung weiter zu erhöhen. Eine Studie des Deutschen Bundestages gibt das Potential der Stromproduktion mit 1021 Joule an.
+
+
+==== Staatliche Fördermaßnahmen ====
+
+
+===== Erneuerbare-Energien-Gesetz (EEG) =====
+Durch die Novellierung des EEG (Erneuerbare-Energien-Gesetz) zum 1. Januar 2012 wird die geothermische Stromerzeugung pro eingespeister Kilowattstunde deutlich höher gefördert als zuvor. Es erfolgt eine Integration von KWK- und Frühstarter-Bonus in die Grundvergütung, so dass diese von 16 auf 23 ct/kWh steigt. Die Grundvergütung beträgt jetzt mit einer zusätzlichen Erhöhung von 2 ct/kWh 25 ct/kWh. Dazu kommt ein Technologie-Bonus für petro-thermale Projekte von 5 ct/kWh. Diese Höhe der Vergütungen gilt für alle bis einschließlich 2017 in Betrieb gehenden Anlagen. Ab dem Jahr 2018 sinken die jeweils für neue Anlagen (entsprechend den Zeitpunkten der Inbetriebnahmen) geltenden Vergütungssätze jährlich um 5 % (Degression). Bisher sollte diese Absenkung bereits ab 2010 jährlich 1 % betragen. Weiterhin bleiben die Vergütungen einer Anlage über den Vergütungszeitraum (20 bis knapp 21 Jahre) konstant. Die Einspeisevergütung wird für die Brutto-Stromproduktion der Anlage in Anspruch genommen. Dies entspricht einer EEG-einheitlichen Regelung und gilt für alle Formen erneuerbarer Stromerzeugung. Der Eigenenergiebedarf beträgt bei deutschen Geothermiekraftwerken ca. 30 % der Bruttostromproduktion (größter Verbraucher sind die Förderpumpen).
+
+
+===== Marktanreizprogramm des BMU =====
+Anlagen der tiefen Geothermie werden aus dem MAP (Marktanreizprogramm des Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit) durch zinsverbilligte Darlehen mit Tilgungszuschüssen gefördert.
+Förderbar sind:
+
+Die Errichtung der Tiefengeothermieanlage („Anlagenförderung“)
+Die Realisierung der Förder- und Injektionsbohrung („Bohrkostenförderung“) sowie unvorhergesehene Mehrkosten gegenüber der Bohrplanung („Mehraufwendungen“)
+Die Reduzierung des Fündigkeitsrisikos durch Haftungsfreistellungen für bis zu 80 % der Bohrkosten („Kreditprogramm Fündigkeitsrisiko“)
+Die Errichtung von Wärmenetzen („Wärmenetze“)
+Die KfW kann daraus Darlehen pro Projekt in einer Höhe von bis zu 80 % der Bohrkosten vergeben. Diese Darlehen werden im Fall der Nichtfündigkeit haftungsfrei gestellt, d. h. sie müssen vom Kreditnehmer ab diesem Zeitpunkt nicht weiter zurückgezahlt werden.
+Das „KfW Sonderprogramm“ für allgemeine Projektfinanzierungen, wie u. a. Geothermieprojekte, refinanziert Banken mittels KfW-Krediten bis zu einem Kreditbetrag von i. d. R. 200 Mio. Euro pro Projekt.
+Aufgrund der mit der Bohrung verbundenen hohen Investitionskosten und Fündigkeitsrisiken, soweit diese über die o. g. Haftungsfreistellung hinausgehen, besteht bei Tiefengeothermieprojekten ein relativ hohes Anfangshemmnis. Dies erschwert die Finanzierung. Die relativ lange Projektentwicklungszeit und die damit verbundene Dauer des Eigenkapitaleinsatzes verteuert die Finanzierung.
+
+
+=== Situation in Ungarn ===
+In Ungarn bestehen mehrere Anlagen. In Győr besteht seit 2015 eine Anlage, die das Audiwerk mit jährlich rund 80 GWh Wärme versorgt. Die Fördertemperatur beträgt etwa 105 °C.
+
+
+=== Situation in Österreich ===
+In Österreich bestehen mehrere Anlagen. In Ried im Innkreis besteht ein Fernwärmenetz, welches die gesamte Innenstadt versorgt. Der gesamte jährliche Wärmeabsatz liegt bei rd. 40 GWh.
+
+
+== Ökonomische Aspekte ==
+Die geringe Nutzung der überall vorhandenen und vom Energieangebot her kostenlosen Geothermie liegt darin begründet, dass sowohl der Wärmestrom mit ≈ 0,06 Watt/m² als auch die Temperaturzunahme mit der Tiefe mit ≈ 3 K/100 m in den zugänglichen Teilen der Erdkruste, von besonderen Standorten abgesehen, so gering sind, dass eine Nutzung zu Zeiten niedriger Energiepreise nicht wirtschaftlich war. Durch den Ausstieg aus der Kernenergie, das Bewusstwerden des CO2-Problems und die absehbare Verknappung der fossilen Energieträger setzte eine stärkere geologische Erkundung und technische Weiterentwicklung der Geothermie ein.
+Da die eigentliche Energie der Geothermie kostenlos ist, wird die Wirtschaftlichkeit einer Geothermienutzung vor allem durch die Investitionskosten (Zinsen) und Unterhaltskosten der Anlagen bestimmt.
+Unter den gegenwärtigen politischen Rahmenbedingungen (Erneuerbare-Energien-Gesetz) ist eine Wirtschaftlichkeit bei größeren Geothermieanlagen auch in Deutschland in vielen Gebieten, wie zum Beispiel in Oberbayern, Oberrheingraben und Norddeutsches Becken, erreichbar.
+Grundsätzlich sind größere Geothermieanlagen (über 0,5 MW und mit einer Tiefe von mehr als 500 m) immer mit gewissen Fündigkeitsrisiken behaftet, da die tieferen Erdschichten eben nur punktuell und oft in geringem Ausmaß erkundet sind. Dabei lassen sich die anzutreffenden Temperaturen meist recht gut prognostizieren. Die bei hydrothermalen Anlagen aber besonders relevanten Schüttmengen sind jedoch häufig nicht gut vorhersehbar. Neuerdings werden allerdings Risikoversicherungen dazu angeboten. Zur Minimierung des Fündigkeitsrisikos wurde das Geothermische Informationssystem (gefördert vom BMU) erstellt.
+Die oberflächennahe Erdwärmenutzung für die Heizung von Gebäuden mittels einer Wärmepumpe ist bereits in vielen Fällen konkurrenzfähig. Wärmepumpenheizungen bestehen in der Regel aus einer oder mehreren Erdwärmesonde(n) und einer Wärmepumpe bzw. mehreren parallel geschaltet. 2004 wurden in Deutschland etwa 9.500 neue Anlagen errichtet, 2006 waren es schon 28.000, der Bestand übersteigt 130.000. In der Schweiz waren es 2004 rund 4.000 neue Anlagen mit Erdwärmenutzung. Der Marktanteil in Deutschland ist im Gegensatz zu Ländern wie Schweden, der Schweiz oder Österreich jedoch noch gering.
+Bei den Betriebskosten spielt die Beständigkeit der Anlagen gegen Verschleiß (beispielsweise bewegte Teile einer Wärmepumpe oder eines Stirlingmotors) eine Rolle. Bei offenen Systemen kann Korrosion durch aggressive Bestandteile im wärmetransportierenden Wasser entstehen (alle Teile in der Erde und die Wärmeübertrager). Diese früher bedeutenden Probleme sind heute jedoch technisch weitestgehend gelöst.
+
+
+== Ökologische Aspekte ==
+
+
+=== Energiepotential ===
+Die Geothermie wird zu den regenerativen Energiequellen gezählt, da ihr Potenzial als sehr groß und nach menschlichem Ermessen unerschöpflich gilt. Der kumulierte Energieaufwand (KEA, auch: graue Energie) von Geothermie liegt in dem Bereich von 
+  
+    
+      
+        0
+        
+          ,
+        
+        12
+        
+        
+          k
+          W
+          
+            h
+            
+              P
+              E
+            
+          
+          
+            /
+          
+          k
+          W
+          
+            h
+            
+              t
+              h
+            
+          
+        
+      
+    
+    {\displaystyle 0{,}12\,\mathrm {kWh_{PE}/kWh_{th}} }
+  
+. Theoretisch würde allein die in den oberen drei Kilometern der Erdkruste gespeicherte Energie ausreichen, um die Welt für etwa 100.000 Jahre mit Energie zu versorgen. Allerdings ist nur ein sehr kleiner Teil dieser Energie technisch nutzbar. Im Arbeitsbericht 84 des Büros für Technikfolgenabschätzung beim Deutschen Bundestag wurde 2003 ein jährliches technisches Angebotspotenzial aus geothermischer „Stromerzeugung von ca. 300 TWh/a für Deutschland ermittelt, was etwa der Hälfte der gegenwärtigen Bruttostromerzeugung entspricht“. Die Berechnungen in der Studie ermitteln einen nachhaltigen Nutzungszeitraum von eintausend Jahren für diese Form von zu 50 Prozent geothermischer Gesamtstromerzeugung. Entscheidenden Einfluss bei der Realisierung einer nachhaltigen Nutzung hat das Wärmeträgerfluid (Wasser oder Dampf). Wird die Wärme über das Fluid im großen Maßstab dem Untergrund entzogen, so wird, in Abhängigkeit von den geologischen Rahmenbedingungen, regional mehr Wärme entzogen, als durch den natürlichen Wärmestrom zunächst „nachfließen“ kann. So gesehen wird die Wärme zunächst „abgebaut“. Nach Beendigung der Nutzung werden sich jedoch die natürlichen Temperaturverhältnisse nach einer gewissen Zeit wieder einstellen. Das Entnahmeszenario der Studie berücksichtigt die Wärmeströme in der Potenzialberechnung. Geothermie ist wie Biomasse oder Wasserkraft bei der Stromerzeugung und nicht wärmegesteuerten Kraftwerken grundlastfähig.
+
+
+=== Regeneration des Wärmereservoirs ===
+Da bei Geothermiekraftwerken in Regionen mit geringem oder durchschnittlichem Wärmestrom mehr Wärmeenergie aus der Erdkruste entnommen wird, als natürlich nachströmen kann, wird die in der Erdkruste gespeicherte Energie abgebaut. Die Nutzungsdauer eines Kraftwerks bzw. Standortes ist also je nach Rate der entnommenen Energie begrenzt. Allerdings regeneriert sich das Wärmereservoir durch den natürlichen Wärmestrom nach einiger Zeit. Die Regeneration eines Wärmereservoirs im Bereich der Kaltwasserinjektion richtet sich sehr stark nach den geologischen Rahmenbedingungen. Wichtig ist dabei, ob die Wärme ausschließlich über Wärmeleitung von unten nachgeführt wird oder zusätzlich Wärme über den Transport von warmem Wasser konvektiv nachgeführt wird.
+
+
+==== Regeneration in klüftigem System ====
+Wärmetransport durch Konvektion ist immer effektiver, da das Problem der Begrenzung des Wärmetransports durch den Widerstand des Gebirgskörpers gegen die Wärmeleitung umgangen wird. Deswegen sollte ein Investor für Geothermieprojekte nach Möglichkeit geologische Regionen suchen, in denen durch Klüfte warmes oder heißes Tiefenwasser nachströmt (offene Kluftsysteme):
+
+Karstgebiete (beispielsweise bayerisches Molassebecken) oder
+Zonen mit offenen Kluftsystemen (beispielsweise der Oberrheingraben)
+sind daher für Geothermieprojekte bevorzugte Regionen in Deutschland.
+In einer Modellrechnung über den Wärmetransport wurde in diesem Zusammenhang exemplarisch für einen Standort im bayerischen Molassebecken das Folgende festgestellt: Für ein hydrothermales System im Malmkarst mit 50 l/s Reinjektionsrate und 55 °C Reinjektionstemperatur wurde die folgende Zeitdauer für die vollständige Wärmeregeneration unmittelbar um die Injektionsbohrung nach Abschluss des Dublettenbetriebs bei rein konduktivem Wärmetransport berechnet: Nach 2.000 Jahren wird eine Temperatur von 97 °C und etwa 8.000 Jahre nach Betriebsende die Ausgangstemperatur von 99,3 °C wieder erreicht: „Die Modellierung der Wärmeregeneration nach Abschluss eines 50 Jahre währenden Betriebszeitraumes unter den gegebenen Randbedingungen verdeutlicht, dass frühestens nach 2000 Jahren mit einer weitgehenden thermischen Regeneration des Reservoirs im Malm zu rechnen ist“. Die Modellrechnung verdeutlicht aber auch das hohe Potenzial des Reservoirs: „Im vorliegenden Szenario kann zusammengefasst gesagt werden, dass im Betriebszeitraum von 50 Jahren erwartungsgemäß nur von einer geringen thermischen Beeinflussung des Nutzhorizontes auszugehen ist, da die erschlossene Malm-Mächtigkeit mehrere 100 Meter beträgt und somit ein ausreichend großes Wärmereservoir zur Wiedererwärmung des injizierten Wassers zur Verfügung steht. Exemplarisch zeigt … die radiale Kaltwasserausbreitung im Injektionshorizont zu diesem Zeitpunkt mit einem Radius von ca. 800 m.“
+
+
+==== Wärmetransport in dichtem Gestein ====
+In dichtem Gestein kann die nachhaltige Entnahme ausschließlich aus dem Wärmestrom abgedeckt werden, der durch die Wärmeleitung geliefert wird. Der Wärmestrom hängt dann vom Wärmeleitkoeffizienten ab. Die Entnahme ist dann so zu gestalten, dass während der geplanten Betriebsdauer die Rücklauftemperatur nicht unter den Mindestwert absinkt, der durch das Nutzungskonzept bestimmt wird.
+
+
+=== Emissionen ===
+Durch Geothermie werden im Untergrund Schwefelverbindungen im Wasser ausgewaschen und gelöst. Wasser kann mit steigender Temperatur weniger vom Klimagas Kohlendioxid (CO2) halten. Diese in der Natur vorhandenen Gase CO2 und H2S werden durch Geothermie in die Atmosphäre freigesetzt, sofern sie nicht technisch aufgefangen und abgeschieden werden wie mit der Aminwäsche, die bei der Rauchgasentschwefelung oder im Direct air capture eingesetzt wird. Allerdings kann das kalte Wasser die heiß emittierten Gase erneut aufnehmen. Diese Gelegenheit wurde als kostengünstiges CCS seit 2007 am Hellisheiði-Kraftwerk genutzt und in Form der CarbFix-Projekte zunächst experimentell gestartet, zumal Basalt oft an für Geothermie nutzbaren Orten vorhanden ist.
+
+
+=== Freisetzung von Radionukliden ===
+Ein großer Teil der Erdwärme entstammt radioaktiven Zerfallsprozessen. Bei der Tiefen-Geothermie werden dabei im Wasser gelöste, natürliche Radionuklide mit an die Erdoberfläche befördert, wo sie ggf. in der Geothermieanlage Rückstände hinterlassen können. Dies tritt vor allem dort auf, wo sehr salzhaltiges Tiefenwasser gefördert wird, was abhängig von den regionalen geologischen Gegebenheiten ist. Bei der oberflächennahen Geothermie, wie sie z. B. als Wärmequelle für Wärmepumpenheizungen benutzt wird, bilden sich hingegen keine Rückstände mit erhöhtem Radionuklidgehalt. Auch überall dort, wo Erdwärmesonden eingesetzt werden, können keine Radionuklide gefördert werden, da diese einen geschlossenen Kreislauf besitzen und somit nicht in der Lage sind, Stoffe aus dem Untergrund aufzunehmen. Da sich das Thermalwasser bei geothermischen Heizzentralen üblicherweise in einem geschlossenen Kreislauf befindet, kommt es im Normalbetrieb nicht zur Freisetzung von problematischen Stoffen in die Biosphäre, sofern keine zusätzliche balneologische Nutzung in Heilbädern erfolgt. Jedoch müssen die in Filtern abgefangenen Stoffe sowie ggf. entstehende radioaktiv belasteten Ausfällungen entsprechend entsorgt werden.
+
+
+== Risiken ==
+
+
+=== Risiken eines Geothermieprojekts für die Sicherheit ===
+Die oberflächennahe Geothermie kann bei der Einhaltung des Standes der Technik und einer ausreichend intensiven Überwachung und Wartung so errichtet und betrieben werden, dass in der Regel keine erheblichen Risiken von solchen Anlagen ausgehen. Durch die stark angestiegene Verbreitung dieser Nutzungsform steigt jedoch auch entsprechend das Risiko von technischem Versagen wegen Übernutzung der Potenziale (im Anstrom steht eine nicht bekannte Anlage oder wird eine Anlage errichtet, die den Grundwasserstrom vorkühlt) oder von Fehlplanungen. Gleiches gilt für Mängel in der Bauausführung.
+Die Nutzung tiefer Geothermie muss sehr sorgfältig geplant und durchgeführt werden, um die damit verbundenen Risiken im für eine Genehmigung zulässigen Bereich zu halten. Die Tiefbohrtätigkeiten werden daher von zahlreichen Behörden intensiv überwacht und setzen ein umfangreiches Genehmigungsverfahren voraus. So wird das gegebene Risiko als planbar herstellbar bezeichnet, wenn beispielsweise folgende Aspekte beachtet werden:
+
+
+==== Risiken seismischer Ereignisse ====
+Kleinere, kaum spürbare Erderschütterungen (Induzierte Seismizität) sind bei Projekten der tiefen Geothermie in der Stimulationsphase (Hochdruckstimulation) möglich. Im späteren Verlauf, soweit nur der Dampf entzogen wird und nicht reinjiziert wird, ist es durch Kontraktion des Speichergesteins zu Landabsenkungen gekommen (beispielsweise in Neuseeland, Island, Italien). Diese Probleme führten bereits zur Einstellung von Geothermieprojekten (beispielsweise Geysers-HDR-Project der AltaRock Energy Inc. Kalifornien 2009 und Kleinhüningen bei Basel 2009).
+Die Gesteine des Cooperbeckens in Australien gelten für wirtschaftliche Bohrtiefen und unabhängig von vulkanischer Aktivität als vergleichsweise heiß. Als das Reservoir angebohrt wurde, kam es zu einem kleinen Erdbeben mit einer Magnitude auf der Richterskala von 3,7. Ein Tiefengeothermie-Projekt in Südkorea wird für ein Folgebeben der Stärke 5,5 verantwortlich gemacht.
+Die Wahrscheinlichkeit für das Auftreten seismischer Ereignisse und deren Intensität richtet sich stark nach den geologischen Gegebenheiten (beispielsweise wie permeabel die wasserführende Gesteinsschicht ist) sowie nach der Art des Nutzungsverfahrens (beispielsweise mit welchem Druck das Wasser in das Gestein injiziert wird oder mit welchem Druck stimuliert wird).
+Generell ist eine verlässliche Bewertung der Risiken durch tiefe Geothermie in Deutschland, speziell im tektonisch aktiven Oberrheingraben, nur begrenzt möglich, da dort bislang nur wenige langfristige Erfahrungswerte vorliegen; die Seismizitäten von Basel und Landau verdeutlichen, dass eine sorgfältige Planung und Ausführung für die Aufrechterhaltung der Sicherheit in einem Geothermieprojekt wichtig ist: Ob stärkere Schadensbeben durch Geothermie ausgelöst werden können, ist derzeit (Stand: 2015) umstritten, war aber die Grundlage für die Einstellung des Vorhabens in Basel. So führen stärkere Wahrnehmung, erhöhte Sensibilität sowie genauere Prüfungen zu Verzögerungen bei der Nutzung.
+
+
+===== Kleinhüningen bei Basel (2006) =====
+Beim Bau des geplanten Geothermieprojektes Deep Heat Mining Basel in Kleinhüningen im Großraum Basel/Schweiz gab es von Dezember 2006 bis März 2007 fünf leichte Erschütterungen mit abnehmender Magnitude (von 3,4 bis 2,9). Dadurch entstanden leichte Gebäudeschäden, verletzt wurde niemand. Eine nachträgliche Risikoanalyse stellte fest, dass der Standort ungeeignet ist. Das Vorhaben wurde abgebrochen.
+
+
+===== Landau in der Pfalz (2009) =====
+Beim Geothermiekraftwerk Landau in Landau in der Pfalz hat es 2009 zwei leichte Erderschütterungen mit einer Stärke von ca. 2,5 auf der Richterskala gegeben, die jedoch nicht ursächlich mit dem Kraftwerk zusammenhängen sollen, wie ein Gerichtsgutachten 2014 feststelle.
+Landau war ein zentraler Forschungsort der BMU-Projekte MAGS und MAGS2 (2010 bis 2016) zur Erforschung induzierter Seismiziät. Im Rahmen dieses Projektes wurden weitere Messstationen mit vorwiegend Forschungsaufgaben eingerichtet. Mit der Inbetriebnahme des Geothermiekraftwerkes Insheim 2012 werden diese beiden Kraftwerke gemeinsam überwacht.
+Das Kraftwerk Landau wurde 2014 nach Wiederauftreten neuer Schäden stillgelegt. Grund war eine Leckage einer Rohrverkupplung, welche nach erfolgreicher Reparatur sowie Installation einer Doppelverrohrung in Zukunft technisch auszuschließen ist.
+Die Leckage führte zu einer Hebung um mehrere Zentimeter rund um das Kraftwerk. Nach dem angeordneten Stopp des GeoKW und dem Abteufen einer Überwachungsbohrung inkl. seither aktiv laufendem Pumpbetrieb zur Bergung des Thermalwassers ist das Kraftwerk wieder in Betrieb.
+
+
+===== Potzham/Unterhaching bei München (2009) =====
+Am 2. Februar 2009 wurden bei Potzham nahe München zwei Erdstöße der Stärke 1,7 und 2,2 auf der Richterskala gemessen. Potzham liegt in unmittelbarer Nähe des 2008 fertig gestellten Geothermiekraftwerks Unterhaching. Die gemessenen Erdstöße ereigneten sich circa ein Jahr nach Inbetriebnahme dieses Kraftwerks. Aufgrund der großen Herdtiefe ist ein unmittelbarer Zusammenhang zum Geothermieprojekt Unterhaching jedoch fraglich. Weitere Mikrobeben wurden gem. Geophysikalischem Observatorium der Uni München in Fürstenfeldbruck dort nach der Installation weiterer Seismometer zwar beobachtet, sie lagen jedoch alle unter der Fühlbarkeitsgrenze. Auch die größten Ereignisse in Potzham lagen unterhalb der Fühlbarkeitsgrenze gemäß der Einteilung der Richterskala. Auch sie wurden daher mit hoher Wahrscheinlichkeit nicht verspürt, sondern nur von Geräten aufgezeichnet.
+
+
+===== St. Gallen (2013) =====
+Beim Geothermieprojekt St. Gallen waren im Juli 2013 nach bereits realisierter erster Bohrung und einem unerwartet hohen Zustrom von Erdgas in die Bohrung nach sicherheitstechnisch notwendigen Interventionsmassnahmen im Bohrloch mit mehreren Erdstößen bis zu einer Magnitude von 3,5 (einzig spürbarer Erdstoss) die geplanten Testarbeiten für mehrere Wochen unterbrochen wurden. Das Projekt wurde im September 2013 mit grosser öffentlicher und politischer Unterstützung mit erhöhten Sicherheitsstandards in Bezug auf die Anwesenheit von Erdgas wieder aufgenommen. Im Oktober 2013 wurden Fördertests für Gas und Wasser durchgeführt. Im November 2013 wurde aufgrund erster Indikationen der Resultate die Bohrung „St.Gallen GT-1“ temporär verschlossen und konserviert. Eine zweite geplante Bohrung wurde nicht realisiert und das Bohrgerät abgebaut. Nach Abschluss der Auswertungen aller Daten im Mai 2014 wurde das Projekt offiziell eingestellt mit der Begründung einer deutlich zu geringen Wasserproduktivität (Wirtschaftlichkeit mit realisierbaren Förderraten nicht darstellbar), für geothermale Nutzung störendem Erdgasvorkommen und anhaltender Gefahr von induzierter Seismizität. Die Stadt St. Gallen als Projekteignerin sucht seitdem nach einer alternativen Nutzung für das ca. 4,2 km tiefe Bohrloch und ist offen für externe Vorschläge dahingehend.
+
+
+===== Poing bei München (2016, 2017) =====
+Am 7. Dezember 2016 um 6:28 Uhr gab es ein deutlich spürbares Erdbeben in Poing, Bayern. Die Magnitude betrug 2,1, und die MSK-Intensität wurde mit 3,5 angegeben. Am 20. Dezember 2016 ereignete sich gegen 4:30 Uhr in Poing ein weiteres Beben der Magnitude 2,1. Aus Sicht von einigen Forschern kommt als Ursache die Geothermieanlage in Poing in Betracht. Seismische Messungen haben sogar sechs Erdbeben bei Poing in den beiden Monaten November bis Mitte Dezember 2016 aufgezeichnet, wovon allerdings vier unterhalb der Fühlbarkeitsgrenze lagen. Seit den 1990er Jahren können Erdbeben in ganz Deutschland ab einer Magnitude von 2 zuverlässig registriert und zugeordnet werden. Bis zu den Ereignissen durch die Geothermie wurden nur wenige, kaum spürbare Beben im Großraum München registriert. Seit dem 14. Dezember 2016 ist in Poing im Bereich der Geothermie eine weitere seismologische Station in Betrieb. Sie dient der Erfassung der Schwingungsimmissionen (Schwinggeschwindigkeiten), denn nur diese können zur Beurteilung einer möglichen Schadenswirkung herangezogen werden. Hier ist der Anhaltswert nach DIN 4150-3 5mm/s. Bei Schwinggeschwindigkeiten unterhalb dieses Wertes sind auch kleine (kosmetische) Schäden an Gebäuden ausgeschlossen.
+Am 9. September 2017 wurde gegen 18:20 Uhr ein erneutes Erdbeben in Poing von vielen Menschen gespürt. Laut dem Deutschen Geoforschungszentrum in Potsdam hatte das Beben eine Magnitude von 2,4 nach Richter und wurde in einer Tiefe von zwei Kilometern ausgelöst. Der Bayerische Erdbebendienst gibt die Magnitude mit 2,1 nach Richter, und die Tiefe mit 3 km an. Die gemessene Schwinggeschwindigkeit betrug 1,6 mm/s, was Schäden an Gebäuden ausschließt. Die Tiefe, in der in Poing Geothermie betrieben wird, beträgt ebenfalls 3 km. Dabei werden etwa 100 Liter pro Sekunde aus der Förderbohrung am westlichen Ortsausgang entnommen und nach Nutzung und Abkühlung in die Reinjektionsbohrung an der Plieninger Gemeindegrenze zurück geleitet.
+Obwohl ein Erdbeben mit Magnituden 2–3 eigentlich generell nur sehr schwach gespürt wird, beschreiben die Menschen in Poing einen lauten Knall bzw. Donner, verbunden mit einer Erschütterung, die sich anfühlt, als würde sich der komplette Boden wie durch eine Welle anheben. Andere beschrieben ein Gefühl, als sei in der Nachbarschaft etwas explodiert. Der Grund für den Knall und das deutliche Spüren des Bebens dürfte in der vergleichsweise geringen Herdtiefe des Bebens (nur ca. 2–3 km) liegen. Grundsätzlich werden seismische Ereignisse, die mit einem Knall verbunden sind, als beängstigender empfunden als gleichstarke Ereignisse ohne Knall. Auf mögliche Gebäudeschäden hingegen hat der Knall keinen Einfluss. Zwei Tage nach dem Erdbeben hat die Bayernwerk AG die Geothermieanlage vorübergehend für ein paar Wochen abgeschaltet. Dies geschah auf Drängen des Poinger Bürgermeisters und ohne Schuldeingeständnis des Betreibers. Man will die Ergebnisse eines bereits im vergangenen Jahr beauftragten Gutachtens des Leibniz Instituts für Angewandte Geophysik (LIAG) abwarten, bevor über das weitere Vorgehen entscheiden werde. Das Poinger Erdbeben hatte zur Folge, dass 2018 im nahe gelegenen Puchheim ein Bürgerentscheid mit deutlicher Mehrheit dort den Bau einer Geothermie-Anlage ablehnte. Laut einem Gutachten können die in Poing verspürten Beben nicht für die reklamierten Gebäudeschäden verantwortlich gemacht werden.
+
+
+==== Schäden an Gebäuden und Infrastruktur ====
+Da bei der oberflächennahen Geothermie, wenn die Wärmeenergie dem Untergrund durch geschlossene Erdsonden entnommen wird, dem Untergrund kein Wasser entzogen wird (wie bei einem Brunnen) und auch kein Wasser eingeleitet wird, ist bei ordnungsgemäßer Ausführung nicht mit Senkungen oder Hebungen der Erdoberfläche zu rechnen, somit auch nicht mit Gebäudeschäden. Wenn dennoch gelegentlich derartige Probleme auftraten, so ist dies durchweg auf eine unsachgemäße Durchführung der Flachbohrungen zurückzuführen. Hier haben dann die Flachbohrungen der Geothermie dieselben Risiken wie Flachbohrungen für andere Zwecke wie Baugrunderkundung, Geotechnik oder Gründung von Bauwerken.
+Im Jahr 2012 existierten in Deutschland nahezu 300.000 Installationen oberflächennaher Nutzung von Geothermie. Jährlich kommen etwa 40.000 neue dazu. In einigen Fällen sind Probleme aufgetreten, die jedoch vor allem einen Bedarf an verbesserter Qualitätskontrolle und Qualitätssicherung aufgezeigt haben.
+Als herausragend ist in diesem Zusammenhang der massive Schadensfall von Staufen zu nennen. Dieser und weitere Problemfälle sind nachfolgend aufgeführt; die Stadt Freiburg hat in der Folge ihre Auflagen zur Nutzung oberflächennaher Geothermie verschärft, sie sind jetzt genehmigungspflichtig. Im Jahr 2008 hatte es dort in zwei Fällen Probleme mit Sondenbohrungen gegeben: In einem Fall war ein Abwasserkanal beschädigt worden, in einem anderen Fall sprudelte aus einer versiegten Quelle dreckiges Wasser heraus.
+
+
+===== Böblingen =====
+In Böblingen zeigen sich seit 2009 in nun 80 Häusern immer größer werdende Risse. Ein Zusammenhang mit den Erdwärmesondenbohrungen ist noch nicht nachgewiesen, jedoch liegt ein Verdacht gegen ältere Sondenbohrungen durch Anhydrit-Quellen im Gipskeuper vor.
+
+
+===== Kamen-Wasserkurl =====
+In Kamen haben sich nach Erdwärmebohrungen zur Erschließung oberflächennaher Geothermie im Juli 2009 mehrere Tage lang die Häuser gesetzt. „Die Ursache, warum in Kamen-Wasserkurl 48 Kubikmeter Boden plötzlich in einem Loch verschwanden, ist geklärt: Erdwärmebohrungen vergrößerten bereits vorhandene Risse im Felsgestein. Die Schuldfrage kann indes nur in einem langwierigen Rechtsverfahren geklärt werden.“
+
+
+===== Leonberg-Eltingen =====
+Im Jahr 2011 führten Probebohrungen in 80 Metern Tiefe im Leonberger Stadtteil Eltingen zu Rissen an ungefähr 25 Häusern. Auch hier hatte abfließendes Grundwasser zu Senkungen geführt. Im Jahr 2012 wurden die Bohrungen mit Zement abgedichtet.
+
+
+===== Rottenburg-Wurmlingen =====
+Im Jahr 2002 waren im Kapellenweg in Rottenburger Stadtteil Wurmlingen Bohrungen durchgeführt worden. 2011 musste der Weg für den Durchgangsverkehr gesperrt werden, da sich darin große Löcher befanden. Zudem wurden mehrere Gebäude beschädigt. Die Ursache liegt auch hier in der Gipskeuperschicht begründet, die durch Grund- oder Regenwasser langsam ausgewaschen wird und damit ein Absenken des Bodens bewirkt.
+
+
+===== Rudersberg-Zumhof =====
+In Zumhof, einem Dorf der Gemeinde Rudersberg im Rems-Murr-Kreis, wurden in den Jahren 2007 und 2009 Bohrungen für 20 Erdwärmesonden niedergebracht. Bei einer zusätzlichen Bohrung, die nicht mit Zement abgedichtet war, brach das Bohrgestänge ab. Im Oktober 2012 betrug die Hebungsgeschwindigkeit infolge des Gipskeuperquellens dort 7 Millimeter pro Monat. Die schadhaften Bohrungen werden seit März 2013 zur Sanierung überbohrt und sollen anschließend mit Ton verschlossen werden, nachdem man das Bohrgestänge geborgen hat. Zudem soll Grundwasser abgepumpt werden. Das Bohrunternehmen schloss einen Vertrag mit dem zuständigen Landratsamt, damit dessen Versicherung die Reparatur bezahlen kann. Die Geschädigten müssen indes direkt gegen das Unternehmen klagen.
+
+
+===== Schorndorf =====
+In Schorndorf im Rems-Murr-Kreis sank nach Geothermiebohrungen in 115 Metern Tiefe im Jahr 2008 der Grundwasserspiegel ab, da die Bohrungen ein Abfließen in tiefere Gesteinsschichten bewirkt haben. Das dadurch fehlende Volumen führte zu einer Senkung der Erdoberfläche, die die Keplerschule sowie ein knappes Dutzend Privathäuser beschädigte.
+
+
+===== Staufen im Breisgau =====
+
+In Staufen traten im Jahr 2008 nach dem Abteufen mehrerer Erdwärmesonden (mit je ca. 140 m Tiefe), zur Beheizung unter anderem des Rathauses, erhebliche kleinräumige Hebungen von bis zu 20 cm im bebauten Stadtgebiet auf, die zu großen Zerrungen und Stauchungen bzw. Schiefstellungen an Gebäuden führten. Über 200 Häuser wurden dabei erheblich beschädigt. Die Ursache ist eine Reaktion von Wasser mit Anhydrit (wasserfreier, dehydrierter Gips). Durch die Umwandlung von Anhydrit zu Gips nimmt das Gestein Kristallwasser auf, wodurch es an Volumen zunimmt. Geschieht dies großflächig, so wird die Ausdehnung ggf. zur Tagesoberfläche übertragen und führt dort zu punktuellen Hebungen, wodurch die Tagesoberfläche deformiert wird. Dadurch entstehen Risse an den betroffenen Häusern. Das Problem des Aufquellens von Anhydrit bei der Umwandlung zu Gips ist aus dem Tunnelbau und dem Tiefbau bekannt und hängt von den regionalen geologischen Bedingungen ab (beispielsweise im sog. Gipskeuper Südwestdeutschlands).
+Schadensursache sind auch ungenügende geologische Recherchen (Kosteneinsparung) und zu große Bohrneigung durch „preiswerte Bohrungen“ (Kosteneinsparungen). Hier wurde an falscher Stelle gespart.
+Die Umwandlung von Anhydrit zu Gips ist auch ein natürlicher Prozess, immer wenn ein Anhydrit-haltiges Gestein innerhalb der Verwitterungszone mit Oberflächenwasser, Niederschlagswasser bzw. Grundwasser in Kontakt kommt (Hydratationsverwitterung). Ab einer bestimmten Tiefe in der Erdkruste sind die Druck- und Temperaturverhältnisse so hoch, dass eine Kristallumwandlung trotz Wasserkontakt nicht mehr eintritt.
+Mitte 2013 wurde das erste Haus abgerissen. 270 Häuser wurden beschädigt. Der Schaden wird mit 50 Mio. € bewertet. Bis Mitte 2013 wurden 7,5 Mio. € für den Schadensausgleich verwendet, an dem sich auch das Land Baden-Württemberg und der kommunale Finanzausgleich beteiligt haben.
+
+
+==== Allgemeine Risiken ====
+Bei der Förderung von Thermalfluiden (Wasser/Gas) stellen ggf. die Inhaltsstoffe des geförderten Lagerstättenwassers eine Umweltgefahr dar, falls das Fluid nicht gereinigt oder überprüft wird. Die Reinjektion der Thermalfluide erfolgt in Deutschland jedoch bei allen Geothermieanlagen, so dass dies nur ein theoretisches Risiko ist.
+Im Bereich der oberflächennahen Geothermie besteht das Risiko, bei Nutzung eines tieferen Grundwasserleiters den trennenden Grundwassernichtleiter derart zu durchstoßen, dass ein die Grundwasserstockwerke verbindendes Fenster entsteht, mit der möglichen Folge nicht erwünschter Druckausgleiche und Mischungen. Bei einer ordnungsgemäßen Ausführung der Erdwärmesonde wird dies allerdings zuverlässig verhindert. Es wurden nach entsprechenden Schadensfällen ausführliche Richtlinien zur Qualitätssicherung eingerichtet, um diesem Risiko zu begegnen.
+Ein weiteres potenzielles Risiko bei einer Geothermiebohrung ist das Anbohren von Artesern. Dabei kann es durch Austritt von Grundwasser zu einer kleinräumigen Überschwemmung kommen. Allenfalls können Wassersysteme so tiefgreifend verändert werden, dass z. B. umliegende Quellen versiegen. Als 2009 in Mumpf (Kanton Aargau, Schweiz) ein Thermalwasser-Arteser angebohrt wurde, konnte das Loch anschließend mit einem Zapfen geschlossen werden. Daraufhin hat der Kanton Aargau Erdwärmesonden-Bohrungen auf dem Kantonsgebiet entlang des Rheins praktisch flächendeckend verboten.
+Auch gespannte (unter Überdruck stehende) Gase können unvermutet von einer Tiefbohrung angetroffen werden und in die Bohrspülung eintreten. Denkbar sind Erdgas, Kohlendioxid oder auch Stickstoff. Solche Gaseintritte sind meistens nicht wirtschaftlich verwertbar. Gaseintritten ist bohrtechnisch durch entsprechende Maßnahmen zu begegnen, wie sie für Tiefbohrungen vorgeschrieben sind. Der Fall St. Gallen hat die Wirksamkeit dieser Maßnahmen bestätigt.
+
+
+==== Regeln der Technik zur Minimierung der Risiken ====
+Zur Beherrschung des Problems Induzierte Seismizität hat der GtV-Bundesverband Geothermie mit Hilfe einer internationalen Forschergruppe ein Positionspapier erarbeitet, das als Hauptteil umfangreiche Handlungsanweisungen zur Beherrschung der Seismizität bei Geothermieprojekten vorschlägt.
+Im Zusammenhang mit Gebäudeschäden in der Stadt Staufen ist eine Diskussion um Risiken der oberflächennahen Geothermie entbrannt. Untersuchungen dazu, ob das Aufquellen von Anhydrit die Ursache sein könnte, wurden inzwischen beauftragt. Das Landesamt für Geologie, Rohstoffe und Bergbau in Freiburg hat als Konsequenz empfohlen, bei Gips- oder Anhydritvorkommen im Untergrund auf Erdwärmebohrungen zu verzichten. Da ganz geringe Mengen an Gips/Anhydrit bei etwa zwei Drittel der Fläche des Landes vorkommen können, deren genaue Verbreitung aber weitgehend unbekannt ist, wurde diese Vorgehensweise von der Geothermie-Industrie als überzogen kritisiert.
+
+
+==== Rechtliche Vorgaben Baden-Württemberg ====
+Nach zumindest in zeitlichem Zusammenhang mit Erdwärmenutzungs-Sondierungen aufgetretenen Erdabsenkungen in Leonberg und Renningen (beide im baden-württembergischen Landkreis Böblingen) reduzierte das Landes-Umweltministerium die maximale Bohrtiefe für die oberflächennahe Geothermie: die Bohrungen dürfen nur mehr bis zur obersten Grundwasser führenden Schicht niedergebracht werden.
+Im März 2015 stellte das Landesamt für Geologie, Rohstoffe und Bergbau das Informationssystem Oberflächennahe Geothermie für Baden-Württemberg (ISONG) online zur Verfügung, es soll einer besseren Risikoabschätzung und Gefahrenminimierung im Zusammenhang mit der Erkundung und Nutzung der Geothermie dienen sowie „erste Informationen zur Planung von Erdwärmesonden bis max. 400 m Tiefe“ liefern.
+
+Hinweise, wie eine sichere Geothermiebohrung hergestellt werden kann, findet man im Leitfaden zur Nutzung von Erdwärme mit Erdwärmesonden des Umweltministeriums Baden-Württemberg.
+
+
+=== Risiken für die Wirtschaftlichkeit eines Geothermieprojekts ===
+
+
+==== Politische Risiken ====
+Politische Risiken bestehen grundsätzlich darin, dass die politisch vorgegebenen Rahmenbedingungen während der Projektlaufzeit geändert werden. Das derzeit (2017) größte politische Risiko ist das neue Gesetz zur Standortsicherung von Anlagen zur Entsorgung radioaktiver Abfälle (StandAG). Dieses Gesetz geht in einer ersten Phase, deren Dauer unbestimmt ist, von einer 'weißen Landkarte' aus, das heißt, alle Standorte sind für ein nukleares Endlager reserviert und dürfen nicht anderweitig, also auch nicht geothermisch, genutzt werden. Dies ist ein De-facto-Verbot für Geothermie mit Bohrtiefen größer 200 m. Genehmigungen können nur in einem langwierigen Verfahren mit noch nicht arbeitsfähigen Behörden erworben werden.
+
+
+==== Wirtschaftlichkeitsrisiken eines oberflächennahen Projekts ====
+Bei der oberflächennahen Geothermie besteht das größte Risiko in einer Übernutzung der Geothermiepotentiale. Wenn benachbarte Geothermieanlagen sich gegenseitig beeinflussen, kann die Vorlauftemperatur der im Abstrom des Grundwassers gelegenen Anlage so weit abgesenkt werden, dass die Wärmepumpe nur noch mit einer sehr ungünstigen Leistungszahl betrieben werden kann. Dann heizt der Nutzer im Grunde genommen mit Strom und nicht mit Erdwärme. Das Tückische daran ist, dass die Fläche im Anstrom des Grundwassers, in der eine Errichtung einer weiteren Anlage zu einer zusätzlichen erheblichen Absenkung der Temperatur des Grundwassers für die betroffene Anlage führt, sehr groß sein kann und es für den Betreiber schwierig ist, die Ursache hierfür zu erkennen. Er wird das wahrscheinlich nur merken, wenn er den außentemperaturbereinigten Stromverbrauch ins Verhältnis zur genutzten Wärmemenge setzt, um so die Leistungszahl beobachten zu können. Das erfordert aber die Kenntnis der mittleren wirksamen Außentemperatur und der im Haus abgegebenen Wärmemenge und bedarf eines großen Messaufwandes.
+
+
+==== Wirtschaftlichkeitsrisiken eines tiefen Projekts ====
+Bei der tiefen Geothermie sind vor allem das Fündigkeitsrisiko und das Umsetzungsrisiko zu beachten.
+Die Risiken können beim Eintreten des Schadensfalls zu einer Unwirtschaftlichkeit des Vorhabens führen. Um das Scheitern von Geothermieprojekten zu verhindern, bietet die öffentliche Hand für Kommunen Bürgschaften an (beispielsweise durch die KfW), die wirksam werden, wenn zum Beispiel in einer Bohrung einer bestimmten kalkulierten Tiefe kein heißes Tiefenwasser nach einer Tiefenwasser-Schüttung in ausreichender Menge gefördert werden kann. Auch einige große Versicherungen bieten solche Versicherungsprodukte an.
+
+
+===== Fündigkeitsrisiko =====
+Das Fündigkeitsrisiko ist das Risiko bei der Erschließung eines geothermischen Reservoirs, Thermalwasser aufgrund fehlkalkulierter Prognosen über die benötigte Tiefe der Bohrung nicht in ausreichender Quantität oder Qualität fördern zu können.
+Ab einer gewissen Tiefe wird das geothermische Potenzial immer erschlossen, jedoch steigen mit zunehmender Tiefe die Bohrkosten überproportional und es wird mehr und spezielleres Know-how nötig. Sind die verfügbaren Mittel und damit die Bohrtiefe (etwa auf wenige Kilometer) eng begrenzt, muss unter Umständen das ganze Bohrprojekt wenige hundert Meter vor einem nutzbaren Wärmereservoir für eine Tiefenwasser-Schüttung abgebrochen werden.
+Die Quantität definiert sich dabei aus Temperatur und Förderrate.
+Die Qualität beschreibt die Zusammensetzung des Wassers, die sich beispielsweise durch Salinität oder Gasanteile ungünstig auf die Wirtschaftlichkeit auswirken kann, jedoch weitgehend betriebstechnisch beherrschbar ist. Um das Fündigkeitsrisiko für den Investor abzufedern, werden mittlerweile Fündigkeitsversicherungen auf dem Versicherungsmarkt angeboten.
+
+
+===== Umsetzungsrisiko =====
+Beim Projekt SuperC an der RWTH Aachen gab es erhebliche Probleme bei der technischen Installation unter Tage, die aber zwischenzeitlich behoben sind.
+Das Projekt bei der Bundesanstalt für Geowissenschaften und Rohstoffe wurde unterbrochen, da eine geologisch überraschende Situation zur Verstopfung des Bohrlochs mit ausgefälltem Steinsalz führte.
+
+
+===== Betriebsrisiko =====
+Während des Betriebes können Prozesse zu Einwirkungen auf das Projekt führen, die den Wärmeertrag so mindern, dass unplanmäßige Wartungsarbeiten erforderlich werden (beispielsweise Auflösungen von Kristallbildungen durch Säuerung). Da dann meistens teure Bohrausrüstungen angemietet und Fachleute bezahlt werden müssen, kann das zur Unwirtschaftlichkeit des Gesamtvorhabens führen.
+
+
+==== Konkurrierende Nutzung ====
+Konkurrierende Nutzung zur Tiefengeothermie können Projekte der Kohlenwasserstoffförderung oder -speicherung darstellen. Vor allem der starke Ausbau von Untertage-Gasspeichern steht in einigen Regionen Deutschlands (Molasse, norddeutsche Ebene, Rheintalgraben) in direkter Konkurrenz zu tiefengeothermischen Projekten. Aktuell in der Diskussion ist auch die Nutzungskonkurrenz durch die Absicht großer Kohlekraftwerksbetreiber und der Industrie, verflüssigtes CO2 in den Untergrund zu Verpressen (CCS-Technologie). Die RWE Dea AG hat dazu bereits die Hälfte des Landes Schleswig-Holstein bergrechtlich reserviert. Sollte es zu einer Untersuchungsgenehmigung kommen, so wäre dieser Bereich für die Aufsuchung und Nutzung von Erdwärme ausgeschlossen.
+
+
+== Richtlinien ==
+
+DIN 8901 (2002): Kälteanlagen und Wärmepumpen – Schutz von Erdreich, Grund- und Oberflächenwasser – Sicherheitstechnische und umweltrelevante Anforderungen und Prüfung
+VDI Richtlinien
+VDI-Richtlinie 4640, Blatt 1–4, Thermische Nutzung des Untergrundes
+VDI 4640-1 (2010): Thermische Nutzung des Untergrundes – Grundlagen, Genehmigungen, Umwelt
+VDI 4640-2 (2016, Gründruck): Thermische Nutzung des Untergrundes – Erdgekoppelte Wärmepumpenanlagen
+Bund/Länder-Arbeitsgemeinschaft Wasser
+Empfehlungen der LAWA für wasserwirtschaftliche Anforderungen an Erdwärmesonden und -kollektoren, 12. Oktober 2018
+Lokale Richtlinien
+Anlagenbezogener Gewässerschutz 11: Aus der Praxis für die Praxis - Anforderungen an Erdwärmepumpen außerhalb von Schutzgebieten, Niedersächsisches Landesamt für Ökologie, Abt. 3 „Wasserwirtschaft, Gewässerschutz“, 2. Auflage 2003
+
+
+== Siehe auch ==
+Meereswärmekraftwerk
+
+
+== Literatur ==
+Statistikquellen
+
+R. Bertini: World geothermal generation 2001–2005. World Geothermal Congress, Antalya 2005 (PDF, online).
+Imagekampagne: Unendlich viel Energie.
+J. Lund u. a.: World wide direct use of geothermal energy 2005. World Geothermal Congress, Antalya 2005 (PDF, online).
+R. Schellschmidt u. a.: Geothermal energy use in Germany. World Geothermal Congress, Antalya 2005 (PDF, online).
+V. Steffansson: World geothermal assessment. World Geothermal Congress, Antalya 2005 (PDF, online).
+J. Lund: Ground Heat – worldwide utilization of geothermal energy. Renewable Energy World, 2005.
+ Allgemeines
+
+C. Clauser: Geothermal Energy. In: K. Heinloth (Hrsg.): Landolt-Börnstein, Physikalisch-chemische Tabellen. Group VIII: Advanced Materials and Technologies. Bd 3. Energy Technologies, Subvol. C. Renewable Energies. Springer, Heidelberg/Berlin 2006, 480–595, ISBN 3-540-42962-X.
+Burkhard Sanner: Erdwärme zum Heizen und Kühlen. Potentiale, Möglichkeiten und Techniken der Oberflächennahe Geothermie. Kleines Handbuch der Geothermie. Bd 1. Red. B. Sanner, W., Bußmann. Geothermische Vereinigung, Geeste 2001 (3. überarb. Aufl.), ISBN 3-932570-21-9.
+W.J. Eugster, L. Laloui (Hrsg.): Geothermische Response Tests. Verlag der Geothermischen Vereinigung, Geeste 2002, ISBN 3-932570-43-X.
+Geothermische Vereinigung, GeoForschungsZentrum Potsdam (Hrsg.): Start in eine neue Energiezukunft. Tagungsband 1. Fachkongress Geothermischer Strom Neustadt-Glewe 12.–13. November 2003. Geothermische Vereinigung, Geeste 2003, ISBN 3-932570-49-9.
+Ernst Huenges: Energie aus der Tiefe: Geothermische Stromerzeugung. in:  Physik in unserer Zeit. Wiley-VCH, Weinheim 35.2004,6, S. 282–286, ISSN 0031-9252.
+F. Rummel, O. Kappelmeyer (Hrsg.): Erdwärme, Energieträger der Zukunft? Fakten – Forschung – Zukunft/Geothermal Energy, Future Energy Source? Facts-Research-Futur. Unter Mitarbeit von J. Jesse, R. Jung, Fl. Rummel & R. Schulz. C. F. Müller, Karlsruhe 1993, ISBN 3-7880-7493-0.
+Stober, Ingrid; Bucher, Kurt: Geothermie. Springer-Verlag, Berlin/Heidelberg 2012, ISBN 978-3-642-24330-1.
+Michael Tholen, Simone Walker-Hertkorn: Arbeitshilfen Geothermie Grundlagen für oberflächennahe Erdwärmesondenbohrungen. Wirtschafts- und Verlagsgesellschaft Gas und Wasser mbH, Bonn 2007, ISBN 978-3-89554-167-4.
+Zeitschrift Geowissenschaften, Hefte 7+8 (1997, Sonderhefte mit dem Thema Geothermie).
+Zeitschrift Sonderheft bbr Oberflächennahe Geothermie. Wirtschafts- und Verlagsgesellschaft Gas und Wasser mbH, Bonn 2008.
+M. Augustin, W. Freeden et al.: „Mathematische Methoden in der Geothermie“, Mathematische Semesterberichte 59/1, S. 1–28, Springer Verlag 2012.
+Hausmann/Pohl: CleanTech Studienreihe | Band 6 Geothermie, Bonn 2012, ISBN 978-3-942292-16-0.
+Bußmann, W.: Geothermie – Energie aus dem Innern der Erde. Fraunhofer IRB Verlag, Stuttgart 2012, ISBN 978-3-8167-8321-3.
+Bauer, Mathias; Freeden, Willi; Jacobi, Hans; Neu, Thomas: Handbuch der Tiefen Geothermie. Springer-Verlag, Berlin/Heidelberg 2014, ISBN 978-3-642-54511-5.
+Rummel, Fritz (1984) Nutzung der Erdwärme. Geowissenschaften in unserer Zeit; 2, 3; 73–81; doi:10.2312/geowissenschaften.1984.2.73.
+
+
+== Weblinks ==
+
+Literatur von und über Geothermie im Katalog der Deutschen Nationalbibliothek
+David Globig: Tiefe Geothermie - Energie der Zukunft? In: Podcast Radiowissen. Bayern 2; abgerufen am 26. Dezember 2022 
+buch-der-synergie.de: Geschichte der Geothermie
+Bundesministerium für Wirtschaft und Klimaschutz (Deutschland), erneuerbare-energien.de: Geothermie
+Tiefe Geothermie in Deutschland – Nutzungsmöglichkeiten in Deutschland (PDF; 3,7 MB)
+Bayerisches Landesamt für Umwelt, UmweltWissen, lfu.bayern.de: Erdwärme (PDF; 1,8 MB)
+Spektrum.de 26. März 2019: Wir lassen es unkontrollierbar beben
+Herbert Paschen, Dagmar Oertel, Reinhard Grünwald: Möglichkeiten geothermischer Stromerzeugung in Deutschland. Sachstandsbericht. Arbeitsbericht Nr. 84. Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag (TAB), Februar 2003; abgerufen am 26. Dezember 2022. 
+tiefegeothermie.de: Informationsportal tiefe Geothermie
+Umweltforschungszentrum Leipzig-Halle, 2015, ufz.de: Interaktive online-Karte mit allen Tiefengeothermieanlagen und lokalen Protestgruppen in Deutschland
+Richard Niederbrucker, Edith Haslinger: Erdwärme voraus! Die Erde als Energiequelle. (PDF) Magistrat der Stadt Wien, November 2016; abgerufen am 26. Dezember 2022. 
+
+
+== Einzelnachweise ==

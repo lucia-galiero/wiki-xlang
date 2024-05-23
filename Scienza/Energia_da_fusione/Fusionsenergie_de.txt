@@ -1,0 +1,115 @@
+Fusionsenergie ist die großtechnische Nutzung der thermonuklearen Kernfusion zur Stromerzeugung. Die Aussicht auf eine praktisch unerschöpfliche Energiequelle ohne das Risiko katastrophaler Störfälle und ohne die Notwendigkeit der Endlagerung langlebiger radioaktiver Abfälle motiviert seit den 1960er Jahren internationale Forschungsaktivitäten.
+Das zurzeit aufwendigste Projekt ist der internationale Forschungsreaktor ITER, ein Tokamak, der seit 2007 in Südfrankreich im Bau ist. Die Inbetriebnahme dieser Anlage, zunächst ohne Tritium, soll 2025 beginnen, erste Deuterium-Tritium Experimente sind für 2035 geplant. Bis 2040 soll ein Leistungsbetrieb mit brennendem Plasma erreicht werden, in dem zehnmal mehr Fusionsenergie freigesetzt wird als Heizenergie eingekoppelt werden muss (S. 16 in).
+In dieser Phase sollen auch wesentliche Design-Entscheidungen für DEMO fallen, ein kleines Kraftwerk (mehrere 100 MW) auf Basis eines vergrößerten Tokamaks. Die ingenieurmäßige Konstruktion von DEMO soll mit enger Beteiligung der Industrie erfolgen. Zwanzig Jahre nachdem ITER ein brennendes Plasma hoher Leistung demonstriert hat, soll DEMO in Betrieb gehen und noch früh in der zweiten Hälfte des Jahrhunderts zeigen, dass großtechnische Stromerzeugung durch Kernfusion möglich ist und eine ausreichende Menge Tritium im Kraftwerk selbst erzeugt werden kann.
+Parallel zu den internationalen Großprojekten ITER und DEMO gibt es seit ca. 2010 ein erhöhtes Interesse an Kernfusion von Seiten privat finanzierter Start-up-Unternehmen. Sie verfolgen oft alternative Konzepte zur Fusion und versprechen eine Energieproduktion lange vor ITER (z. B. TAE Technologies oder Commonwealth Fusions Systems). Eine Übersicht über die weltweiten Experimente zur Fusions gibt das Fusion Device Information System der IAEA.
+Einen merklichen Beitrag zur Energieversorgung, 1 TW, soll Kernfusion im Laufe des 22. Jahrhunderts leisten (S. 13 in ). Deshalb kann Fusionsenergie keine Rolle bei der in Deutschland geplanten Energiewende spielen.
+Parallel zu der bei ITER angewendeten Technik der Fusion mittels magnetischen Einschlusses wird an der technischen Umsetzung der Trägheitsfusion gearbeitet. Dabei erfolgt nach einer schlagartigen Zufuhr von Energie ein kurzzeitiges Fusionsbrennen, das durch das Auseinanderfliegen des erhitzten Materials wieder beendet wird.
+
+
+== Technische Realisierbarkeit ==
+
+Das technisch am weitesten fortgeschrittene Konzept zum dauerhaften Einschluss eines thermonuklear reagierenden Plasmas ist das des Tokamaks. Eine Schwierigkeit stellen dabei Plasmainstabilitäten verschiedener Art dar. An Mechanismen zu ihrer Unterdrückung wird intensiv geforscht. Aufgrund des induktiv erzeugten Plasmastroms kann ein Tokamak in seiner ursprünglichen Version nur gepulst betrieben werden, was technisch sehr nachteilig wäre; an Zusatztechniken zur dauernden Aufrechterhaltung des Stroms (Stromtrieb) wird ebenfalls geforscht. Beim Stellarator-Konzept werden weniger inhärente Stabilitätsprobleme erwartet, und ein gleichmäßiger Dauerbetrieb ist hier grundsätzlich möglich. Jedoch ist das Stellaratorkonzept in der Praxis weniger weit entwickelt. Ob das erste Fusionskraftwerk (DEMO) als Tokamak oder Stellarator gebaut werden soll, ist bisher (2022) noch nicht entschieden.
+Ein wichtiges Maß für den Fortschritt der Fusionsforschung ist das sogenannte Tripelprodukt. Es muss einem durch das Lawson-Kriterium gegebenen Wert nahe kommen, damit ein Reaktor wirtschaftlich sein kann (siehe Fusion mittels magnetischen Einschlusses). Seit dem Beginn der Fusionsforschung in den 1960er Jahren konnte der Wert des Tripelprodukts ca. um das 10.000fache gesteigert werden, sodass man Anfang 2016 nur noch mit einem Faktor zwischen sieben und zehn von der Zündung entfernt ist. JET erreichte 1997 kurzzeitig (für weniger als 200 Millisekunden) 16 MW Fusionsleistung bei 24 MW eingekoppelter Heizleistung. Der größere Tokamak namens ITER soll für 1000 Sekunden 500 MW Fusionsleistung bei 50 MW Heizleistung demonstrieren. Damit wäre die technische Machbarkeit eines Q-Faktors (definiert als das Verhältnis von Fusionsleistung zu Heizleistung) von zehn gezeigt.
+Prognosen über Strom liefernde Reaktoren liegen seit Jahrzehnten jeweils etwa 30 bis 50 Jahre in der Zukunft. Von manchen Kritikern wird diese Zeitspanne spöttisch als „Fusionskonstante“ bezeichnet, in Anspielung auf die Erdölkonstante. Dass die Prognosen zu optimistisch waren, hat mehrere Ursachen: Der an sich einfache Prozess der Verschmelzung zweier Atomkerne ist in ein komplexes plasmaphysikalisches Umfeld eingebunden, das erst verstanden und beherrscht werden muss. Auch in der praktischen Umsetzung ergaben sich neuartige Herausforderungen technologischer und materialtechnischer Art, da zum Beispiel Temperaturen über 100 Millionen Grad erreicht werden müssen. Finanzierung, Bau und Betrieb der Großanlagen verzögern sich oft aus politischen Gründen, insbesondere angesichts der Kosten beim Projekt ITER.
+Ende April 2016 verkündete das Max-Planck-Institut für Plasmaphysik, die bisherigen Experimente und weitere Untersuchungen hätten gezeigt, dass der Dauerbetrieb eines Tokamak technisch machbar ist. Damit seien auch die „Bedingungen für ITER und DEMO nahezu erfüllt“. Die gemeinsame Initiative von Commonwealth Fusion Systems (CFS) und dem Plasma Science and Fusion Center (PSFC) des Massachusetts Institute of Technology entwickelt ein Design für einen kompakten Tokamak Reaktor SPARC. Etwa 2030 soll die privat finanzierte Forschungsanlage mit einer Leistung von 50 bis 100 MW basierend auf Hochtemperatursupraleitern in Betrieb gehen.
+
+
+== Wirtschaftlichkeit ==
+Auch wenn Fusionskraftwerke technisch machbar sein sollten, heißt dies nicht, dass sie auch wirtschaftlich betrieben werden können. Im Sachstandsbericht des deutschen Bundestages von 2002 heißt es: „Insgesamt ist daher umstritten, ob auf DEMO bereits Fusionskraftwerke folgen, die wirtschaftlich konkurrenzfähig betrieben werden können. Möglicherweise werden Anfangsschwierigkeiten eine weitere staatliche Unterstützung erforderlich machen (Heindler 2001).“
+Andere Studien kommen zu dem Schluss, dass die Kosten von Strom aus Fusionsenergie zu denen aus erneuerbaren Energiequellen vergleichbar sein werden. Nach Internalisierung der externen Kosten könnten Fusionskraftwerke sich zur zweitbilligsten Stromquelle entwickeln.
+Hans Joachim Schellnhuber, zu dieser Zeit Vorsitzender des Wissenschaftlichen Beirats der Bundesregierung Globale Umweltveränderungen (WBGU), und Direktor des Potsdam-Instituts für Klimafolgenforschung, hat 2015 die hohen Kosten der Kernfusionsforschung angesichts der Potentiale der Solarenergie bei der Pressekonferenz zur Veröffentlichung der Enzyklika Laudato si’ kritisiert:
+
+
+== Auswirkungen auf die Struktur der Energieversorgung ==
+Das Demonstrationskraftwerk DEMO soll erstmals einige 100 MW an elektrischer Leistung produzieren und eine hohe Verfügbarkeit demonstrieren.
+Weil bei Fusionskraftwerken die Bau- und Finanzierungskosten den wesentlichen Anteil an den Gesamtaufwendungen darstellen, wären sie insbesondere als Grundlastkraftwerke einsetzbar. 2002 wurde dazu mit Bezug auf eine Quelle aus 2001 in einem Bericht an den Bundestag festgestellt: „Für Grundlastkraftwerke ist die Zuverlässigkeit ein entscheidender Parameter. Häufige unvorhergesehene Unterbrechungen oder lange Stillstandszeiten für Wartung und Reparatur würden Fusionskraftwerke unattraktiv machen. Die heute angenommene Leistungsverfügbarkeit eines Fusionskraftwerkes von 75 % (Bradshaw 2001) ist gegenüber anderen Großkraftwerken, die zum Teil über 95 % erreichen, vergleichsweise niedrig.“
+
+
+== Umwelt- und Sicherheitsaspekte ==
+Fusionskraftwerke würden solche auf Basis von Kernspaltung und fossilen Brennstoffen ersetzen und hätten
+
+im Gegensatz zu herkömmlichen Kraftwerken auf der Basis von Kohle, Öl oder Gas
+keinen Ausstoß von Abgasen, insbesondere von Treibhausgasen wie CO2;
+auf sehr lange Zeit keine Probleme mit der Brennstoffversorgung, während die fossilen Brennstoffe absehbar zu teuer werden;
+vernachlässigbare Kosten der Brennstoffe, deren Gewinnung auch im Hinblick auf Umweltrisiken kein Problem darstellt.
+im Gegensatz zu Kernspaltungsreaktoren
+keine Reaktion, die überkritisch werden oder thermisch durchgehen kann. Wenn das Plasma nicht durch das Magnetfeld zusammenhalten kann, kühlt es an der Wand ab und die Fusionsreaktion bricht ab.
+keine Endlagerungsproblematik durch sehr langlebiges radioaktives Material.
+Transporte radioaktiven Brennstoffs nur zur einmaligen Erstversorgung mit einem Tritium-Vorrat von rund 1 kg nötig. Die Einsatzstoffe Lithium und Deuterium sind nicht radioaktiv.
+ähnlich wie bei Kernspaltungsreaktoren
+erhebliche Neutronenaktivierung von Strukturmaterialien. Das radioaktive Gesamtinventar der Anlage wäre dadurch während des Betriebs vergleichbar mit dem eines Spaltreaktorkraftwerks gleicher Leistung. Sehr langlebige Abfallstoffe könnten allerdings vermieden werden.
+Anlagenteile, die so starker Neutronenstrahlung ausgesetzt wären, dass sie regelmäßig getauscht und zwischengelagert werden müssten. Bei herkömmlichen Kernreaktoren werden insbesondere die Brennelementhüllen, in denen sich der Uran-Brennstoff befindet, zusammen mit dem Brennstoff getauscht; bei Fusionsreaktoren wären dies insbesondere Teile des Divertors und des Blankets. Der Austausch ist aber wegen der komplizierten Geometrie aufwändiger als der Wechsel von Brennelementen in einem Kernreaktor.
+Kontaminationen, die Wartungsarbeiten zusätzlich erschweren würden: Während gasförmiges Tritium zu Wasser oxidiert, abgepumpt und in Kühlfallen gesammelt wird, stellte (Stand 2008) die Kontamination des Wandmaterials aus Kohlenstoff noch ein Problem dar. Inzwischen (Stand 2021) wurde JET mit einer Wand aus Wolfram ausgestattet und somit das Problem der Einlagerung von Tritium aufgrund einer chemischen Reaktion gelöst. Inzwischen sind die Forscher zuversichtlich das geeignete Wandmaterial gefunden zu haben, welches in größerem Maßstab mit ITER überprüft werden wird.
+mobiles radioaktives Inventar, das im Falle einer Katastrophe freigesetzt werden könnte: Das im Blanket erbrütete radioaktive Tritium wird innerhalb der Anlage extrahiert und wieder verbraucht. Der Vorrat für einen einwöchigen Betrieb läge bei einer 1-GW-Anlage bei einigen Kilogramm und hätte eine Aktivität von 1018 Bq. Das ist etwa die Aktivität des bei der Nuklearkatastrophe von Tschernobyl freigesetzten radioaktiven Iods, aber nur ein kleiner Bruchteil der über 600 kg Tritium, die im 20. Jahrhundert durch Kernwaffentests in die Atmosphäre geraten sind.
+Deuterium-Tritium-Fusionsreaktoren wären demnach nicht frei von Radioaktivitätsproblemen, jedoch bezüglich Sicherheit und Umweltverträglichkeit ein Fortschritt gegenüber herkömmlichen Kernspaltungsreaktoren.
+
+
+== Risiken hinsichtlich Kernwaffenverbreitung ==
+Die Technologie der Kernfusion weist nur eine begrenzte Schnittmenge mit der Kernwaffentechnologie auf. Jedoch kann durch die Kernfusion theoretisch Material für Atomwaffen produziert werden und somit das Risiko einer Verbreitung von Kernwaffen erhöht sein.
+In Fusionsreaktoren entstehen große Mengen Tritium und ein unerlaubtes Abzweigen eines geringen, für militärische Nutzung aber ausreichenden Anteils gilt als kaum kontrollierbar. Bereits einige Gramm eines Deuterium-Tritium-Gemischs können die Energiefreisetzung einer Atombombe und damit deren Zerstörungskraft deutlich steigern. Die Methode ist unter dem Begriff Fusions-Booster bekannt. Tritium entsteht zwar auch als radioaktives Abfallprodukt in herkömmlichen Kernreaktoren, insbesondere in Schwerwasserreaktoren, wird üblicherweise jedoch weder abgetrennt noch zum Reinstoff konzentriert. Die Gefahr zur Proliferation geht dabei sowohl von dem Tritium selbst aus als auch von dem Wissen um die Details seiner Herstellung.
+Soweit im Brutmantel eines Fusionsreaktors angereichertes 6Li verwendet wird, müssen entsprechende großtechnische Anlagen zur Lithium-Anreichung errichtet werden. Schließlich ist mit angereichertem 6Li auch direkte Proliferation denkbar. Wasserstoffbomben erreichen mit angereichertem 6Li eine höhere Sprengkraft als mit natürlichem Lithium.
+Die Herstellung kernwaffenfähigen Plutoniums oder Urans ist prinzipiell durch die vom Fusionsreaktor ausgesendete harte Neutronenstrahlung möglich, beispielsweise per Transmutation von 238U zu 239Pu, oder 232Th zu 233U.
+Eine Studie von R. J. Goldston, A. Glaser und A. F. Ross untersuchte die Risiken einer Kernwaffenverbreitung durch Fusionsreaktoren und analysierte verschiedene Szenarien zur Herstellung von waffenfähigem Plutonium oder Uran. Wegen eines deutlich höheren Energieverbrauchs, der damit verbundenen Hitzefreisetzung und einer auffälligen Konstruktion wurde in dieser Studie der Einsatz selbst eines kleinen Fusionsreaktors gegenüber Gaszentrifugen als sehr unplausibel bewertet.
+Im regulären Betrieb zur zivilen Energieproduktion käme in reinen Fusionskraftwerken kein brütbares oder spaltbares Material vor. Ohne Abschirmung könne man diese Materialien recht gut über die von ihnen ausgesendete Gammastrahlung charakteristischer Energie detektieren. Dies wäre ein starker Hinweis auf eine militärische Nutzung der Anlage. Einige der möglichen technischen Modifikationen, welche brütbares Material in sehr niedriger Konzentration in die Kühlsubstanz einleiten und wieder extrahieren, wären wegen ihrer Abmessungen vor Inspektoren vermutlich nicht zu verheimlichen. Auch wäre bei dieser Methode eine anschließende Aufarbeitung des Materials äußerst aufwändig. Der Einbau eines Moduls des Brutmantels, welches beispielsweise unerlaubt mit Uranoxid ausgestattet wäre, wird als realistischste Gefahr einer Waffenverbreitung beschrieben. Die Studie hält es für notwendig, dass durch eine Kontrolle der angelieferten Komponenten solche Möglichkeiten unterbunden werden, es könne andernfalls Plutonium für mehrere Kernwaffen jährlich produziert werden.
+Selbst ohne die Notwendigkeit verdeckten Handelns würden zwei Monate benötigt, um die Produktion aufzunehmen und mindestens eine weitere Woche um eine nennenswerte Menge für eine Waffenproduktion zu erhalten. Diese Zeitspanne sei lang genug, um eine militärische Nutzung zu entdecken und mit diplomatischen Mitteln oder auch mit einer militärischen Zerstörung von Teilen der Anlage zu reagieren. Anders als bei einem Kernkraftwerk müssten nur Nebenstrukturen zerstört werden, um die gesamte Produktion lahmzulegen, die intrinsische Sicherheit der Fusionskraftwerke hinzugenommen würde das Risiko einer radioaktiven Kontamination gering sein.
+Eine andere Studie kommt zum Schluss, dass große Fusionsreaktoren jährlich bis zu einigen hundert Kilogramm Plutonium mit großer Tauglichkeit für Waffen produzieren könnten, mit vergleichbar niedrigen Anforderungen an das Ausgangsmaterial. Die Autoren weisen darauf hin, dass intrinsische Sicherheitsmerkmale, die eine militärische Nutzung erschweren, vielleicht nur noch in dem jetzigen, frühen Forschungsstadium implementiert werden können.
+
+
+== Weblinks ==
+
+
+=== Organisationen, Datenbanken ===
+EFDA FUSION IN EUROPE (englisch, 1999–2003; archiviert 2014)
+IAEA Fusion Portal. In: Nucleus. IAEA, abgerufen am 13. Juli 2023 (englisch). 
+FusDIS. In: Nucleus. IAEA, abgerufen am 13. Juli 2023 (englisch, Datenbank der IAEA zu verschiedenen Fusionsanlagen). 
+
+
+=== Andere ===
+Interview zur Kernfusion in der Max-Planck-Gesellschaft, ZEIT ONLINE, Dezember 2015, mit Diskussionen.
+Frag den Lesch: Fusionsenergie – Das ewige Versprechen, zdf.de, Juni 2015. Abgerufen: 24. Dezember 2016
+
+
+=== Videos ===
+Video von Harald Lesch: Brauchen wir die Kernfusion?, Länge: 14 Minuten, 23. Oktober 2015
+Hartmut Zohm: Fusionsenergie – Kernfusionsforschung, youtube.com, Juli 2020, abgerufen: Mai 2021
+Harald Lesch: Kernfusion: Klimaretter oder Milliardengrab?, youtube.com, Mai 2020, abgerufen: Mai 2021
+
+
+== Literatur ==
+
+
+=== Berichte ===
+BMBF: Positionspapier Fusionsforschung: Auf dem Weg zur Energieversorgung von morgen. Bundesministerium für Bildung und Forschung (BMBF), 2023 (bmbf.de). 
+BMBF: Förderprogramm Fusion 2040: Forschung auf dem Weg zum Fusionskraftwerk. Bundesministerium für Bildung und Forschung (BMBF), Februar 2024 (bmbf.de). 
+
+
+=== Fachartikel ===
+Slavomir Entler, Jan Horacek, Tomas Dlouhy, Vaclav Dostal: Approximation of the economy of fusion energy. In: Energy. Band 152, Juni 2018, S. 489–497, doi:10.1016/j.energy.2018.03.130 (englisch). 
+Matteo Barbarino: On the brink of a new era in nuclear fusion R&D. In: Nature Reviews Physics. Band 4, Nr. 1, 17. Dezember 2021, S. 2–4, doi:10.1038/s42254-021-00412-4 (englisch). 
+Samuele Meschini u. a.: Review of commercial nuclear fusion projects. In: Frontiers in Energy Research. Band 11, 7. Juni 2023, S. 1157394, doi:10.3389/fenrg.2023.1157394 (englisch). 
+
+
+=== Fachbücher oder Kapitel ===
+
+William Nuttall: Commercialising Fusion Energy. IOP Publishing Ltd, 2020, ISBN 978-0-7503-2719-0, doi:10.1088/978-0-7503-2719-0 (englisch). 
+
+
+=== Ältere Werke oder Veröffentlichungen ===
+T C Hender, P J Knight, I Cook: Key Issues for the Economic Viability of Magnetic Fusion Power. In: Fusion Technology. Band 30, 3P2B, Dezember 1996, S. 1605–1612, doi:10.13182/FST96-A11963181 (englisch). 
+Jerry G. Delene, John Sheffield, Kent A. Williams, R. Lowell Reid, Stan Hadley: An Assessment of the Economics of Future Electric Power Generation Options and the Implications for Fusion. In: Fusion Technology. Band 39, 2P1, März 2001, S. 228–248, doi:10.13182/FST01-A164 (englisch). 
+T Hamacher u. a.: A comprehensive evaluation of the environmental external costs of a fusion power plant. In: Fusion Engineering and Design. Band 56–57, Oktober 2001, S. 95–103, doi:10.1016/S0920-3796(01)00240-X (englisch). 
+Werner Dyckhoff, Alexander M. Bradshaw: Stand der Fusionsforschung. In: Innovationsbeirat der Landesregierung von Baden-Württemberg, Wissenschaftlich-Technischen Beirat der Bayerischen Staatsregierung (Hrsg.): Zukunft der Energieversorgung. Springer Berlin Heidelberg, Berlin, Heidelberg 2003, ISBN 978-3-642-52159-1, S. 69–83, doi:10.1007/978-3-642-55562-6_8. 
+T. Hamacher: The Possible Role of Nuclear Fusion in the 21st Century. In: Andreas Dinklage, Thomas Klinger, Gerrit Marx, Lutz Schweikhard (Hrsg.): Plasma Physics (= Lecture Notes in Physics). Band 670. Springer-Verlag, Berlin/Heidelberg 2005, ISBN 978-3-540-25274-0, S. 461–482, doi:10.1007/11360360_18 (englisch). 
+MPI IPP, FZ Karlsruhe, FZ Jülich: Strategiepapier der deutschen Fusionsforschung. 2009 (kit.edu [PDF]). 
+Alexander M. Bradshaw, Reinhard Maschuw, Gerd Eisenbeiß: Kernfusion. Max-Planck-Institut für Plasmaphysik, Forschungszentrum Karlsruhe, Forschungszentrum Jülich, 2006 (kit.edu [PDF]). 
+
+
+== Dokumentationen ==
+Der Traum von der Kernfusion aus der Fernseh-Sendereihe Hitec, 23. März 2009.
+Brauchen wir die Kernfusion? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 2. Feb. 2003.
+Thomas Klinger: Was leistet die Kernfusion und wie sicher ist sie? Interviewerin: Susanne Päch. hyperraum.tv 2012.
+Hoffnung Kernfusion - Der Traum von unendlich viel sauberer Energie. TV-Dokumentation in HD, Deutschland 2023 für ZDF und 3sat.
+Versprechen Kernfusion? Der Wettlauf um die Energie der Zukunft. Originaltitel: Fusion nucléaire - Les Promesses d'une énergie. Tv-Dokumentation in HD, D / F / USA 2023, deutsche Synchronfassung: D 2023 für HR / arte. (permanent abrufbar auf: youtube.com).
+
+
+== Anmerkungen und Einzelnachweise ==

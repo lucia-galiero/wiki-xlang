@@ -1,0 +1,697 @@
+In geofisica, il terremoto (dal latino: terrae motus, che vuol dire "movimento della terra"), detto anche sisma o scossa tellurica (dal latino Tellus, dea romana della Terra), è una vibrazione della crosta terrestre, provocato dallo spostamento improvviso di una massa rocciosa nel sottosuolo.
+Tale spostamento è generato dalle forze di natura tettonica che agiscono costantemente all'interno della crosta terrestre provocando una lenta deformazione fino al raggiungimento del carico di rottura con conseguente liberazione di energia elastica in una zona interna della Terra detta ipocentro, tipicamente localizzato in corrispondenza  di fratture preesistenti della crosta dette faglie. A partire dalla frattura creatasi, una serie di onde elastiche, dette onde sismiche, si propagano in tutte le direzioni dall'ipocentro, dando vita al fenomeno osservato in superficie con il luogo della superficie terrestre posto sulla verticale dell'ipocentro, detto epicentro, che è generalmente quello più interessato dal fenomeno. La branca della geofisica che studia questi fenomeni è la sismologia.
+Quasi tutti i terremoti che avvengono sulla superficie terrestre sono concentrati in prossimità dei margini tra due placche tettoniche. Queste sono infatti le aree tettonicamente attive, dove le placche si muovono le une rispetto alle altre secondo modalità di scorrimento relativo, di allontanamento reciproco oppure di collisione. Tutte queste situazioni danno luogo a deformazioni e rotture della crosta terrestre (faglie), generando così i terremoti (terremoti interplacca). Meno frequentemente i terremoti avvengono lontano dalle zone di confine tra placche, per riassestamenti tettonici dovuti a fenomeni isostatici oppure alla riattivazione di strutture crostali profonde, o ancora alle prime fasi di formazione di sistemi di rift (terremoti intraplacca). 
+Terremoti localizzati e di minor intensità sono registrabili in aree vulcaniche per effetto del movimento di masse magmatiche in profondità o durante fasi eruttive parossistiche. Anche fenomeni franosi di notevole entità (soprattutto di crollo) possono dare luogo a terremoti avvertibili strumentalmente o in qualche caso anche dalla popolazione residente (la registrazione di questi fenomeni fa parte dei sistemi di monitoraggio dei versanti e dei corpi di frana attivi). Vi possono essere anche terremoti generati da cause artificiali (di solito localizzati e di lieve entità), dovuti ad esplosioni nucleari, ad esplosioni determinate per scopi minerari (in cave e miniere sotterranee), alla prospezione geofisica (prospezioni sismiche) e all'iniezione in profondità di fluidi pressurizzati per la coltivazione di giacimenti (geotermici e di idrocarburi).
+Secondo il modello della tettonica delle placche, il movimento delle placche è lento, costante e impercettibile (se non con strumenti appositi), e deforma le rocce sia in superficie sia nel sottosuolo. Tuttavia in alcuni momenti e in alcune aree, a causa delle forze interne (pressioni, tensioni e attriti) tra le masse rocciose, la deformazione continua si arresta e la superficie coinvolta accumula tensione ed energia per decine o centinaia di anni fino a che, al raggiungimento del carico di rottura, l'energia accumulata è sufficiente a superare le forze resistenti causando l'improvviso e repentino spostamento della massa rocciosa coinvolta. Tale movimento improvviso, che in pochi secondi rilascia energia accumulata per decine o centinaia di anni, genera così le onde sismiche e il fenomeno di terremoto associato.
+
+
+== Descrizione ==
+
+L'osservazione dei fenomeni sismici in natura ha consentito agli studiosi nel corso di decenni di studio di individuare una sequenza di eventi ben precisa in seguito alla quale si producono i terremoti:
+
+Per effetto di complesse dinamiche relative all'attività geologica del pianeta, si producono all'interno delle rocce degli stati di sforzo che aumentano nel tempo.
+La roccia, sotto l'effetto di questi sforzi, subisce una deformazione che aumenta proporzionalmente all'energia accumulata, fino al raggiungimento del limite di rottura.
+A questo punto, si ha la rottura della massa rocciosa in due parti mediante una frattura lungo la quale si ha un movimento relativo dei due blocchi (faglia) con liberazione improvvisa di energia. Questa energia viene in parte dissipata come lavoro per compiere lo spostamento, in parte sotto forma di calore e in parte si propaga sotto forma di onde sismiche.
+La sequenza di eventi descritta è oggetto della teoria del rimbalzo elastico (elastic rebound). Questa teoria spiega i terremoti mediante un modello che considera la massa rocciosa interessata dalla deformazione come un corpo solido elastico (allo stesso modo di una molla sotto l'effetto di una sollecitazione).
+In fisica, l'elasticità è la proprietà che permette ad un corpo di deformarsi sotto l'azione di una forza esterna e di riacquisire, se le deformazioni non risultano eccessive, la sua forma originale al venir meno della causa sollecitante. Se il corpo, cessata la sollecitazione, riassume esattamente la configurazione iniziale è detto perfettamente elastico. La sollecitazione massima che garantisce il comportamento elastico del materiale è detta limite di elasticità e, nel caso venga superata, si entra nel campo di comportamento plastico, nel quale il corpo subisce una deformazione irreversibile (cioè conserva la deformazione anche una volta cessata la sollecitazione). Per un ulteriore incremento della sollecitazione si ha rottura del materiale. L'estensione dei campi elastico e plastico dipende dal tipo di materiale, dalle condizioni ambientali (ad esempio pressione e temperatura), e anche dalla modalità di applicazione della sollecitazione.
+Per diversi tipi di rocce alle condizioni della superficie terrestre (come ad esempio calcari, dolomie, rocce detritiche cementate come le arenarie, la maggior parte delle rocce cristalline come i graniti e i basalti) il comportamento si può definire come prevalentemente elastico. Altre, come le rocce argillose o le rocce saline, possono avere un comportamento plastico. Il comportamento dipende anche da diverse variabili, per la maggior parte collegate tra loro:
+
+Profondità. In superficie le rocce tendono a fratturarsi, mentre nel sottosuolo tendono a deformarsi. Questo dipende dalla temperatura e dalla pressione, che aumentano con la profondità.
+Pressione. Un certo volume di roccia posto in profondità è sottoposto ad una pressione dovuta al peso delle rocce sovrastanti. Questa pressione agisce sia verticalmente (e in condizioni normali questa è la componente dominante), sia orizzontalmente in tutte le direzioni (e questa è la pressione "confinante" che, contrastando gli effetti della pressione verticale, impedisce che la roccia si fratturi o si deformi lateralmente sotto il peso della colonna di roccia soprastante). Questa pressione (definita pressione litostatica), agendo in tutte le direzioni determina una diminuzione di volume della roccia, senza deformazione. Pertanto, l'aumento della pressione con la profondità si oppone alla rottura della roccia e favorisce un comportamento plastico.
+Temperatura. L'aumento del calore in profondità fa aumentare il moto delle particelle e determina il rilascio di acqua, favorendo quindi il comportamento plastico.
+Acqua. La presenza di acqua aumenta la mobilità delle molecole che compongono le rocce, e inoltre agisce come "lubrificante" attenuando gli attriti tra le particelle, favorendo in tal modo un comportamento plastico.
+Tempo. Uno sforzo applicato in tempi molto lunghi può portare ad un comportamento plastico anche in rocce che sono normalmente fragili, mentre sollecitazioni rapide e improvvise portano a rottura.
+Quando l'entità della sollecitazione supera quella delle forze di coesione della roccia, si ha la rottura lungo un piano di taglio (faglia) e una deformazione irreversibile, con spostamento relativo delle masse rocciose ai due lati del piano di faglia. L'energia elastica si libera quindi improvvisamente come calore (causato dall'attrito lungo la superficie di faglia) e come movimento oscillatorio violento delle masse rocciose, che si propaga in tutte le direzioni sotto forma di onde elastiche concentriche a partire dal punto di rottura.
+Un terremoto (o sisma) ha origine quando l'interazione tra due zolle crostali provoca la rottura della crosta stessa lungo una superficie di faglia con subitaneo movimento relativo dei due blocchi risultanti. Questo fenomeno provoca una rapida vibrazione della crosta terrestre capace di sprigionare quantità elevatissime di energia, indipendentemente dagli effetti che provoca. Ogni giorno sulla Terra si verificano migliaia di terremoti: sperimentalmente si osserva che la maggioranza di terremoti al mondo, così come di eruzioni vulcaniche, avviene lungo la cosiddetta cintura di fuoco pacifica, le dorsali oceaniche e le zone di subduzione o di confine tra placche tettoniche e quindi interessa spesso la crosta oceanica come zona di innesco o fratturazione. Solo qualche decina sono percepiti dalla popolazione e la maggior parte di questi ultimi causano poco o nessun danno. La durata media di una scossa è molto al di sotto dei 30 secondi; per i terremoti più forti può però arrivare fino a qualche minuto.
+La sorgente del sisma è generalmente distribuita in una zona interna della crosta terrestre. Nel caso dei terremoti più devastanti questa può avere un'estensione anche dell'ordine di un migliaio di chilometri ma è idealmente possibile identificare un punto preciso dal quale le onde sismiche hanno avuto origine: questo si chiama "ipocentro" e qui si è originato il movimento a partire dalla frattura preesistente (faglia) o la sua improvvisa generazione. La proiezione verticale dell'ipocentro sulla superficie terrestre viene invece detta "epicentro", ed è il punto in cui di solito si verificano i danni maggiori. Le onde elastiche che si propagano durante un terremoto sono di diverso tipo e in alcuni casi possono risultare in un movimento prevalentemente orizzontale (scossa "ondulatoria") o verticale del terreno (scossa "sussultoria").
+Alcuni terremoti si manifestano o sono preceduti da sciami sismici (foreshocks) più o meno lunghi e intensi, caratterizzati da più terremoti ripetuti nel tempo e particolarmente circoscritti in una determinata area, altri invece si manifestano subito e improvvisamente con una o più scosse principali (main shock); un'altra forma sono le "sequenze sismiche", caratterizzate ciascuna da più terremoti sprigionati in successione ravvicinata e non circoscritti in una determinata zona. I terremoti di maggiore magnitudo sono di solito accompagnati da eventi secondari (non necessariamente meno distruttivi) che seguono la scossa principale e si definiscono repliche (aftershocks, spesso definite erroneamente scosse di "assestamento"). Quando più eventi si verificano contemporaneamente o quasi, può trattarsi di terremoti indotti (il sisma innesca la fratturazione di altra roccia che era già prossima al punto critico di rottura).
+Un terremoto, inoltre, può essere accompagnato da forti rumori che possono ricordare boati, rombi, tuoni, sequenze di spari, eccetera: questi suoni sono dovuti al passaggio delle onde sismiche all'atmosfera e sono più intensi in vicinanza dell'epicentro.
+
+
+=== Tipi di Terremoti ===
+
+
+==== Terremoti di origine tettonica ====
+Questi terremoti sono di gran lunga i più frequenti e intensi, e si originano nei punti della crosta terrestre dove si accumula energia meccanica. Guardando una mappa degli epicentri dei terremoti a scala globale, si vede immediatamente che i sismi non sono distribuiti uniformemente sulla superficie terrestre, ma si localizzano in fasce ristrette e allungate, nelle quali sono anche localizzati la maggior parte dei vulcani attivi. Secondo la teoria della tettonica delle placche queste fasce costituiscono i limiti di placche tettoniche rigide nelle quali è suddivisa la litosfera terrestre e che giacciono su un substrato più denso, viscoso e semifluido (il mantello superiore terrestre). 
+I margini delle placche tettoniche sono la sede della maggior parte dei terremoti. Si tratta di strutture crostali (cioè che interessano l'intero spessore della crosta terrestre), a grande e grandissima scala (decine, centinaia, migliaia di chilometri in lunghezza e ampiezza; chilometri e decine di chilometri in profondità) e che costituiscono i "confini" tra le placche stesse. L'interazione tra le placche tettoniche, che avviene in corrispondenza dei loro margini, è all'origine della maggior parte dei terremoti. Questa interazione avviene con diverse modalità, a seconda del tipo di movimento relativo delle placche. In estrema sintesi:
+
+Margini divergenti. Quando i margini di due placche tendono ad allontanarsi reciprocamente, muovendosi in direzioni opposte, sotto la spinta di nuova crosta che si aggiunge lungo i margini da eruzioni di magma originate direttamente del mantello. Gli sforzi in gioco sono di tipo distensivo o di trazione (da forze opposte e dirette verso l'esterno rispetto alla superficie di riferimento). Lungo questo tipo di margini si generano terremoti superficiali e a basso contenuto di energia. La "dorsale" presente nella fascia centrale dell'Oceano Atlantico (dorsale medio-atlantica) è un classico esempio di questo tipo di margine.
+Margini convergenti. Quando due placche premono l'una contro l'altra. In questo caso, si ha generalmente l'incuneamento di una delle placche sotto l'altra e la sua consumazione all'interno del mantello. In questo caso gli sforzi sono di tipo compressivo (da forze opposte e dirette verso la superficie di riferimento). Lungo questi margini si generano terremoti a varie profondità (anche molto profondi, fino ad alcune centinaia di chilometri) e ad alto contenuto di energia. Il margine occidentale dell'America Meridionale, con la catena andina, oppure il margine costiero adriatico appenninico, sono esempi di questo tipo di interazione.
+Margini trasformi. Quando le placche scorrono orizzontalmente "strisciando" l'una contro l'altra, quindi non si genera né si distrugge crosta terrestre, ma si ha deformazione lungo il margine per attrito. Il movimento può essere in direzioni opposte oppure nella stessa direzione (ma con velocità diverse). In questi casi gli sforzi sono soprattutto tangenziali ai margini, anche se localmente possiamo avere componenti compressive o distensive.  In corrispondenza di questi margini si generano terremoti superficiali ma con contenuto energetico anche molto elevato. La famosa Faglia di Sant'Andrea che decorre nella fascia costiera della California, altamente sismica, è un margine di questo tipo.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+I terremoti di origine tettonica sono connessi direttamente all'attività di faglie (fratture della crosta terrestre con movimento relativo delle masse rocciose), che si generano per sollecitazioni tettoniche. Sono strutture a scala da piccola e piccolissima (pochi millimetri o centimetri) a grande (fino a decine e centinaia di chilometri, in alcuni casi fino a migliaia di chilometri). Sono generate per la maggior parte dall'interazione tra le placche tettoniche lungo i margini delle stesse e costituiscono sorgenti sismiche naturali. Si classificano a seconda del tipo di movimento relativo delle masse rocciose. Si distinguono tre tipi di faglie, a seconda della direzione di movimento relativo.
+
+Faglia diretta (o faglia normale). In questo caso, uno dei due blocchi si porta in posizione ribassata rispetto all'altro. Generalmente in questo tipo di faglie il piano di faglia è inclinato, quindi si può distinguere il blocco sottostante il piano di faglia (muro) dal blocco soprastante il piano di faglia (tetto). In questo caso quindi il tetto scende rispetto al muro. Si tratta di faglie tipiche di un regime tettonico distensivo e di margini divergenti. Queste faglie sono nella maggior parte dei casi in serie a "gradinata" (cioè ribassano gradualmente, per piani successivi, una parte di territorio rispetto ad un'altra), oppure definiscono un andamento ad "alti" strutturali (horst) alternati a "bassi" strutturali o fosse (graben).
+Faglia inversa. In questo caso il "tetto" risale lungo il "muro". Sono faglie tipiche di un regime tettonico compressivo e di margini convergenti. Molto frequentemente queste faglie sono associate a pieghe tettoniche, e ne interessano, dislocandoli, i fianchi.
+Faglia trascorrente. In questo tipo di faglia i margini dei due blocchi scorrono orizzontalmente. Il piano di faglia è spesso subverticale. Le faglie di questo tipo si distinguono in trascorrenti destre e trascorrenti sinistre. Il criterio di distinzione è semplice: se ponendoci da uno qualunque dei due della linea di faglia  il lato opposto risulta dislocato verso destra, sarà una trascorrente destra; viceversa nel caso di una trascorrente sinistra. Queste faglie sono legate a sforzi di traslazione che agiscono sui due blocchi, e a margini trascorrenti.
+E' opportuno sottolineare che in realtà nella maggior parte dei casi si trovano faglie di tipo misto in cui prevale di volta in volta una delle tre componenti descritte. Ovvero: in una faglia trascorrente vi possono essere componenti di movimento di tipo compressivo o viceversa distensivo, o anche entrambi in diversi settori della linea di faglia (in questo caso si avrà un movimento rotazionale lungo il piano di faglia). O ancora: in faglie di tipo normale o inverso possono esservi componenti di traslazione (in questi casi si avrà un movimento obliquo del tetto rispetto al muro).
+Inoltre, anche in un regime compressivo localmente si possono avere faglie normali, e viceversa in un regime distensivo potremmo avere localmente faglie con componente prevalentemente inversa. Per comprendere a fondo lo stile strutturale di un territorio occorrono studi molto accurati di tipo statistico basati su misure quantitative di orientazione nello spazio dei piani di faglia e dei movimenti relativi, basati sia su dati di campagna sia su dati indiretti (pozzi e prospezioni sismiche). Il processo di formazione e sviluppo della faglia, nonché dei terremoti stessi, è noto come fagliazione e può essere studiato attraverso tecniche di analisi proprie della meccanica della frattura.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Terremoti di origine vulcanica ====
+Ove sono centri vulcanici attivi, è molto frequente registrare terremoti a bassa intensità, dovuti a spostamenti delle masse di magma presenti in profondità in conseguenza di movimenti tettonici. 
+Terremoti di magnitudine più elevata possono essere invece la conseguenza di attività vulcanica parossistica (eruttiva). Le eruzioni vulcaniche sono spesso precedute da una fitta sequenza di eventi sismici locali, la cui frequenza e intensità si accentua progressivamente prima del manifestarsi del fenomeno eruttivo. 
+Il processo di penetrazione e risalita del magma si realizza quando la pressione magmatica diviene maggiore della resistenza opposta dalle rocce incassanti. In questo caso, il magma risale progressivamente dalla camera magmatica nel condotto vulcanico determinando un rigonfiamento della struttura vulcanica e un accumulo di tensione, con aumento dell'attività sismica mano a mano che il magma risale verso la superficie facendosi strada attraverso le rocce. La fase finale di risalita del magma è spesso quella che dà origine ai terremoti di magnitudine maggiore. I sismi indotti dall'attività magmatica in quest'ultima fase possono indurre frane e crolli locali, che talora possono coinvolgere anche intere sezioni dell'edificio vulcanico. Questo processo culmina nell'eruzione a giorno del magma. In seguito all'evento eruttivo, l'apparato vulcanico ritrova un equilibrio ad un livello di tensione inferiore. 
+Le scosse sismiche possono essere considerate come eventi precursori di fenomeni eruttivi, e nelle aree con attività vulcanica sono attentamente monitorate insieme ad altri parametri potenzialmente indicativi (deformazioni del suolo, variazioni della temperatura, del chimismo delle emissioni gassose, variazioni gravimetriche). E' opportuno però sottolineare che le eruzioni non sono necessariamente precedute da eventi sismici significativi (dipende da molti fattori, come la tipologia e il chimismo dell'attività vulcanica e l'attività tettonica correlata), e che va considerato il quadro d'insieme dei parametri per una previsione attendibile. Inoltre, non è ancora possibile sostanzialmente determinare con precisione il momento di un evento eruttivo. La previsione per questo tipo di eventi è probabilistica, e le ricerche in questo campo sono volte a fornire elementi per la rilevazione precoce della probabilità di eruzione. Questo approccio prevede la definizione di fasce di territorio a rischio crescente e di diversi gradi di allertamento, fino all'eventuale sgombero della popolazione.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Terremoti di origine gravitativa (crollo) ====
+Frane (soprattutto frane di crollo), se di notevole entità, possono dare origine a sismi avvertibili. La frana del Monte Toc, che il 9 ottobre 1963 causò il disastro del Vajont (Val Piave, Veneto) diede origine ad un evento sismico che venne registrato da diversi sismografi nel nord Italia. Scosse furono avvertite anche nei mesi precedenti il disastro, causate dal movimento della massa di roccia. Eventi simili possono anche essere la conseguenza di crolli di cavità sotterranee (grotte naturali o anche gallerie e vani sotterranei artificiali). Questi terremoti sono molto superficiali, localizzati e di bassa magnitudine.
+In questo caso, le scosse sismiche possono essere considerate potenzialmente come eventi precursori del fenomeno franoso, e la loro rilevazione fa parte del monitoraggio della stabilità dei versanti e dei corpi di frana.
+
+
+==== Terremoti di origine artificiale ====
+Vi possono essere anche terremoti attribuibili a cause artificiali. Le esplosioni dovute a test nucleari (sia in atmosfera che sotterranee) danno origine ad eventi sismici potenzialmente riconoscibili in base alle caratteristiche del loro segnale; i criteri distintivi rispetto a terremoti naturali sono studiati allo scopo di rilevare eventuali violazioni dei trattati internazionali attualmente in vigore sugli esperimenti nucleari, o test condotti da paesi non aderenti (oppure da compagini di natura terroristica).
+Molto più comuni sono le esplosioni eseguite scopi minerari (in cave o miniere) o per l'escavazione di gallerie artificiali, o ancora per l'esecuzione di prospezioni sismiche di sottosuolo a scopo di ricerca o per l'industria estrattiva degli idrocarburi (per quest'ultimo scopo però negli ultimi decenni si tende ad evitare l'uso di esplosivi e ad utilizzare vibroseis: grandi vibratori a piastra montati su autocarri). In tutti questi casi si producono generalmente scosse sismiche indotte lievi, il più delle volte avvertibili come leggere vibrazioni del suolo (a meno che non si sia molto vicini alla sorgente dell'energia sismica, ovvero all'esplosione o al dispositivo vibrante).
+La coltivazione di alcuni tipi di giacimenti di idrocarburi (in rocce a bassa permeabilità) richiede la fratturazione delle rocce serbatoio che contengono il petrolio o il gas allo scopo di incrementarne la permeabilità per ottenere una produzione sufficientemente economica. La fratturazione delle rocce avviene per iniezione di fluidi ad alta pressione (fratturazione idraulica). Questa attività può indurre terremoti di lieve entità (microsismi), la cui magnitudine aumenta quanto più il giacimento è superficiale, e che in alcuni casi sono avvertibili dalla popolazione. Questo tipo di intervento si attua anche per la coltivazione di campi geotermici, per favorire la produzione di fluidi (acqua, vapore) ad alta temperatura e l'iniezione di fluidi geotermici esausti. L'iniezione di fluidi pressurizzati, attivando faglie esistenti, può innescare sismi a bassa intensità ma avvertibili dalla popolazione.
+
+
+=== Le onde sismiche ===
+
+Le onde sismiche sono onde elastiche. In fisica un'onda elastica è un particolare tipo di onda meccanica (che si propaga cioè in un mezzo materiale) in cui le caratteristiche fisiche del mezzo sono di tipo elastico, ovvero si ha proporzionalità diretta tra la deformazione lo sforzo applicato (legge di Hooke). La propagazione di un'onda elastica implica una propagazione di energia, mentre non si ha trasporto di materia. 
+Un'onda può quindi essere definita come una perturbazione elastica che si propaga da punto a punto attraverso un materiale, o sulla sua superficie. Le molecole del materiale si spostano sotto l'effetto della perturbazione ma una una volta passata la perturbazione ritornano nella posizione di partenza. Non si ha quindi uno spostamento definitivo, se non nel punto di rottura in cui ha avuto origine la perturbazione (nel caso delle rocce si tratta generalmente di una faglia). Le onde sismiche naturali si dividono principalmente in due grandi categorie, in funzione di come percorrono il materiale su cui si esercita la perturbazione. Si originano nell'ipocentro (onde profonde), si propagano in tutte le direzioni come fronti d'onda sferici e quando raggiungono la superficie terrestre nell'epicentro, danno origine a onde superficiali.
+
+
+==== Onde profonde ====
+Sono le onde che si originano nell'ipocentro. Sono anche definite onde di volume, perché si propagano in tutte le direzioni e quindi interessano un volume di roccia. Si tratta delle onde P (primarie) ed S (secondarie). 
+
+Onde P (primarie): sono le più veloci.  Sono onde compressionali, definibili anche come onde longitudinali. Sono simili alle onde acustiche. La loro modalità di propagazione corrisponde a successive compressioni e rarefazioni del mezzo in cui viaggiano: al loro passaggio le particelle del materiale attraversato compiono un moto oscillatorio nella direzione di propagazione dell'onda. Sono le più veloci fra le onde generate da un terremoto e, dunque, le prime che vengono avvertite da una stazione sismica, da cui il nome onde primarie. Possono propagarsi sia nei mezzi solidi che nei fluidi (entrambi dotati di resistenza alla compressione).
+Onde S (secondarie): sono meno veloci delle onde P (raggiungono velocità che si aggirano solitamente intorno al 60-70% della velocità delle Onde P), quindi vengono avvertite o registrate dopo queste ultime. Si tratta di onde trasversali che provocano nel materiale attraversato oscillazioni perpendicolari alla loro direzione di propagazione. Si possono immaginare come le onde che si propagano lungo una corda di lunghezza finita, che viene fatta oscillare muovendone le due estremità. Un'importante caratteristica di queste onde è che non possono propagarsi in mezzi fluidi (che non sono dotati di rigidezza e non hanno alcuna resistenza elastica a sforzi di taglio). Non è possibile dunque riscontrarle ad esempio entro il magma presente nel serbatoio magmatico di un vulcano o nel nucleo esterno della terra. Questa caratteristica è stata storicamente molto importante per gli studi geofisici riguardanti la composizione in profondità della terra.
+Ogni tipo di materiale (quindi anche di roccia) ha un valore di velocità (o un intervallo di valori) caratteristico per le Onde P e le Onde S.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Onde superficiali ====
+Quando le onde di volume intersecano una superficie che separa due mezzi con caratteristiche di densità e velocità sismica diverse, in parte vengono riflesse e in parte generano altri tipi di onde noti come onde superficiali (o onde di superficie o anche Onde L). Queste onde si propagano prevalentemente lungo la superficie di separazione tra i due mezzi, e la loro energia decade rapidamente allontanandosi dalla superficie stessa.
+La superficie che ci interessa principalmente per quanto riguarda gli eventi sismici è ovviamente la superficie terrestre, che separa le rocce crostali dall'atmosfera. L'ampiezza e l'energia delle onde superficiali decade molto rapidamente con la profondità (secondo una legge esponenziale). Quindi i loro fronti d'onda non sono più sferici (come nel caso delle onde di volume) ma si possono considerare cilindrici (con un'altezza molto ridotta). La velocità delle onde di superficie è inferiore alla velocità delle onde di volume, per cui (specialmente se l'evento è distante) il loro arrivo è successivo all'arrivo delle Onde P ed S. D'altro canto, l'ampiezza e quindi l'energia associata, di queste onde è notevolmente maggiore di quella delle onde di volume. 
+Le onde di superficie che si generano nell' epicentro a causa dell'arrivo delle onde P ed S. Sono le onde più pericolose, quelle che causano la maggior parte dei danni nei terremoti. Sono di due tipi: 
+
+Onde di Rayleigh. Sono generate dall'interazione delle onde P e onde S sulla superficie della terra, e viaggiano con una velocità che è più bassa della velocità delle onde P e S. Sotto l'azione di queste onde le particelle della superficie si muovono lungo orbite ellittiche in piani normali alla superficie e paralleli alla direzione di propagazione, secondo un moto retrogrado (cioè nel verso contrario alla propagazione delle onde). Le onde di Rayleigh causano movimenti sussultori.
+Onde di Love. Sono onde di taglio orizzontali; la loro massima ampiezza si evidenzia in superficie e decade rapidamente con la profondità. Sono onde sismiche superficiali che causano uno spostamento orizzontale della terra durante un terremoto. Le onde di Love viaggiano con una velocità minore delle onde P o S, ma sono più veloci delle onde di Rayleigh.
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Rilevazione e misurazione ===
+
+Per comprendere le caratteristiche di un terremoto gli scienziati registrano le oscillazioni delle onde sismiche utilizzando uno strumento chiamato sismografo. Un sismografo (in greco σεισμος - seismós, 'vibrazione' e γράφω - grapho 'scrivo') è un dispositivo utilizzato in sismologia che può registrare le vibrazioni del suolo. Fondamentalmente consiste in una massa montata su una sospensione a molla. Il movimento del terreno viene trasferito all'alloggiamento dello strumento, mentre la massa rimane a riposo a causa della sua inerzia. Quindi viene registrato il movimento relativo del suolo. Le oscillazioni vengono registrate da un pennino su un rullo di carta rotante , permettendo quindi la registrazione del fenomeno nel tempo (sismogramma).
+Inizialmente (1875-1904), questi dispositivi erano puramente meccanici. Successivamente, sono entrati in servizio dispositivi elettromagnetici nei quali il sensore è costituito da una bobina resa solidale a un pendolo e immersa nel campo di un magnete permanente. Attualmente i sismografi elettromagnetici si sono ulteriormente evoluti con l'applicazione dei computer, potendo così registrare i dati in forma digitale. Questo offre la possibilità di amplificare il segnale sismico e di applicare ai segnali rilevati filtraggi che permettono di eliminare le interferenze dovute ai fenomeni locali (traffico e altre attività dell'uomo) o alle caratteristiche del sistema di rilevamento (risonanza del pendolo).
+Il tracciato registrato si chiama sismogramma e la sua analisi permette di calcolare distanza e direzione dell'epicentro e l'energia sprigionata dal terremoto. I dispositivi meccanici in origine erano sensibili solo alla componente verticale di movimento del suolo. Nei dispositivi moderni è possibile registrare le componenti del segnale sismico nelle tre direzioni ortogonali (N-S, E-O e verticale) dello spazio, con maggiore affidabilità e precisione nell'individuazione della posizione degli epicentri e degli ipocentri.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+L'ubicazione del punto d'origine di un terremoto (epicentro e ipocentro) viene determinata utilizzando i tempi di arrivo delle Onde P e delle Onde S alle stazioni di misurazione. Come abbiamo visto, le Onde P sono sensibilmente più veloci delle Onde S. In un punto molto prossimo all'origine del sisma la differenza tra i due arrivi (Δt) sarà minima, mentre allontanandosi dalla sorgente del terremoto le Onde S avranno un ritardo sempre più ampio. Osservando in ogni stazione sismografica le differenze di tempo tra gli arrivi è possibile calcolare la distanza dalla sorgente delle onde. 
+Per fare ciò è necessario conoscere la velocità sia delle Onde P che delle Onde S, e quindi le relazioni che legano i rispettivi tempi di propagazione e le distanze a partire dal punto di origine del terremoto. Queste relazioni  possono essere espresse come curve (dromocrone) su diagrammi in cui sull'asse delle ascisse (x) è riportata la distanza dall'epicentro (in Km) e sull'asse delle ordinate (y) sono riportati i tempi di transito delle onde sismiche (in minuti o secondi). Queste relazioni sono costruite sulla base delle osservazioni delle stazioni sismografiche nel corso degli anni. Da alcuni decenni a questa parte non si utilizzano più tabelle e grafici cartacei per la determinazione di epicentri e ipocentri ma algoritmi dedicati su computer. Le onde superficiali non sono utilizzabili per la localizzazione delle sorgenti sismiche, perché non possono essere calcolate relazioni tempi-distanze generalizzabili a causa delle variazioni laterali nella struttura della crosta e del mantello terrestre, che rendono eccessivamente variabili i parametri di questo tipo di onde.
+
+I "segmenti" (Δt1-3) che esprimono le differenze tra i tempi di arrivo delle Onde S e delle Onde P alle varie stazioni (S1-3) vengono riportati nel diagramma in modo che si inseriscano correttamente tra le curve di velocità dei due tipi di onde. La posizione dei segmenti, riportata sull'asse delle ascisse, permette quindi di leggere le distanze delle stazioni (d1-3) dall'epicentro. E' possibile in tal modo calcolare anche l’orario effettivo di inizio del terremoto leggendo sul medesimo diagramma, in corrispondenza della distanza trovata, il tempo di tragitto dell’onda P e sottraendolo all’istante di tempo in cui la fase P è giunta al sismografo: il tempo che così si ottiene è l’orario cercato.
+Per determinare la posizione del punto di origine delle onde sismiche non bastano le osservazioni di una sola stazione, perché con un singolo sismogramma si ha la distanza della stazione dal punto stesso ma non la sua direzione, quindi quello che si ottiene in realtà è un raggio che definisce il perimetro lungo il quale si trova l'epicentro. Per ottenere la posizione dell'epicentro occorre quindi "incrociare" le osservazioni di diverse stazioni sismografiche (almeno tre). Ovviamente, più stazioni si incrociano più è accurata la determinazione dell'epicentro. La procedura descritta per la determinazione della distanza epicentrale è utilizzabile solo se la distanza tra epicentro e stazione sismografica, misurata sulla superficie curva terrestre, è minore di circa 11.000 km (corrispondenti a un angolo intorno ai 100°). Questo perché le Onde S non riescono ad attraversare la parte esterna liquida del nucleo terrestre mentre le Onde P, non essendo assorbite, possono essere ricevute in una fascia molto più ampia.
+Per quanto riguarda gli ipocentri, la determinazione della posizione è più difficile e presenta maggiori incertezze, perché la relazione tra tempi e profondità varia in misura maggiore con la profondità stessa, e anche perché vi sono spesso variazioni laterali nella natura delle rocce che determinano cambiamenti di velocità delle onde sismiche. Per questo occorrono le osservazioni di più stazioni, anche distanti, per arrivare ad una localizzazione affidabile.
+Lo spostamento tettonico della crosta terrestre nelle tre coordinate spaziali in seguito a un forte terremoto può essere misurato accuratamente attraverso tecniche di telerilevamento quali le rilevazioni geodetiche e l'interferometria radar-satellitare tramite SAR nell'intera area colpita a partire dall'epicentro.
+
+
+=== Scale sismiche ===
+Fin dai primordi della sismologia si è tentato di misurare nella maniera più oggettiva possibile l'"entità" degli eventi sismici, tramite scale sismiche. Queste ultime sono di due tipi: le scale di intensità sismica e le scale di magnitudo sismica.
+
+
+==== Scale di intensità ====
+
+Il concetto di intensità rappresenta la valutazione degli effetti di un terremoto secondo una scala convenzionale in cui a ogni grado si fa corrispondere un determinato grado di severità degli effetti. Ovviamente questo tipo di valutazione era la sola possibile per la misura dei terremoti prima della diffusione capillare dei sismografi. La prima di queste queste scale ad essere ufficializzata in un accordo internazionale e ad entrare diffusamente nell'uso come mezzo di scambio di informazioni scientifiche e tecniche è la scala De Rossi-Forel (1883), che definiva gli eventi sismici su una scala di 10 gradi: da "microsismometrica" (grado I) fino a origine di "gravi disastri, ruine, vittime, frane di terreni, fenditure nel suolo, scoscendimenti di montagne" (grado X). 
+Questa scala restò ampiamente in uso per un ventennio circa, fino all'introduzione nel 1902 da parte di Giuseppe Mercalli (1850-1914) della scala omonima, inizialmente anch'essa organizzata in 10 gradi, che fu accettata nello stesso anno dalla Direzione dell’Ufficio Centrale di  Meteorologia  e Geodinamica di Roma e divenne così la  scala  di  riferimento  per la  valutazione dell’intensità dei terremoti in Italia. Successivamente, la scala venne portata a 12 gradi (XI: catastrofe; XII: grande catastrofe) in seguito al disastroso terremoto di Messina del 1908, per avere una descrizione più dettagliata degli effetti nell'intervallo di intensità maggiore. La scala così definita ebbe un rapido successo internazionale.
+Dopo vari sviluppi, affinandosi sempre più l'osservazione dei terremoti e diffondendosi sempre più l'uso dei sismografi, dagli studi dell'italiano Adolfo Cancani e del tedesco August Sieberg venne pubblicata (Sieberg, 1923; 1930) la scala Mercalli-Cancani-Sieberg (MCS). Questa scala, strutturata in 12 gradi, teneva conto delle caratteristiche di vulnerabilità degli edifici, e si rivelò basilare per tutti i successivi sviluppi. Ancora oggi é largamente usata in Europa. Negli Stati Uniti viene invece più frequentemente usata la Scala Mercalli Modificata (MM) (1931; 1956), così denominata perché derivata sempre dalla Mercalli e adattata alla situazione americana.
+Di  seguito è riportata come esempio la scala macrosismica MCS (Mercalli-Cancani-Sieberg) che misura l'intensità di un sisma basandosi sugli effetti che esso provoca. In particolare si basa sulle percezioni dell'essere umano e sui danni ai manufatti antropici (edifici e infrastrutture). Per questo motivo è in parte soggettiva, cioè non si basa (almeno nell'accezione originale) su misure strumentali. E' strutturata in 12 gradi, i primi si basano principalmente sulla percezione delle persone, gli altri soprattutto sui danni a edifici e infrastrutture e i più elevati anche su modificazioni dell'ambiente causate dal sisma. Il grado più basso della scala MCS viene attribuito a una scossa rilevabile solamente con strumentazione geofisica, salendo nella scala sono introdotte le osservazioni sulla percezione umana della scossa e quindi quelle sui manufatti più comuni nelle aree abitate e, a partire dal VI grado, dai danni alle abitazioni fino ad arrivare al grado XII indicativo di distruzione totale. Di seguito, si riporta la formulazione originale (Sieberg, 1930), semplificata.
+
+La maggior parte di questi criteri (soprattutto riferiti alla percezione umana e all'ambiente naturale) sono ancora validi. Da notare però che gli effetti sono riferiti a edifici e strutture non costruiti con criteri specifici antisismici. Inoltre, in epoche storiche gli edifici ordinari (quelli per lo più ad uso abitativo) avevano caratteristiche molto simili tra loro, erano riconducibili a poche tipologie, tipicamente con struttura muraria, e potevano essere considerati "strumenti" di misura dei terremoti tarati all’incirca allo stesso modo. Gli effetti riferiti all'ambiente urbano possono ancora essere validi nei centri storici, ma per esempio gli orologi a pendolo meccanici non sono più diffusi (ormai sono oggetti d'antiquariato), in edifici moderni i vetri degli infissi sono fissati più saldamente che non nel XIX e primo XX secolo, le ciminiere di mattoni non fanno più parte del panorama urbano (sono ormai elementi di archeologia industriale). E' anche più comune sentire le sirene dei sistemi antifurto che si attivano per un sisma piuttosto che le campane suonare da sole. Soprattutto, nello sviluppo urbano gli edifici in calcestruzzo armato hanno sostituito quelli in pietra o muratura, e in questi casi gli elementi da considerare sono la qualità del materiale utilizzato, la progettazione (criteri antisismici) e la manutenzione.
+Un ulteriore affinamento della scala Mercalli è la scala MSK 64 (Medvedev-Sponheur-Karnik, 1964), fondata sulla valutazione degli effetti:
+a) sulle persone e sull'ambiente biologico
+b) sulle strutture
+c) sull'ambiente naturale
+Le strutture a loro volta vengono classificate in tre tipi corrispondenti a diverse tecniche costruttive (edifici di pietra a secco non squadrata o di argilla; edifici in mattoni ordinari o in pietre squadrate; edifici in cemento armato o in legno a incastro) e infine le conseguenze del sisma sulle strutture in cinque livelli (dal danno lieve, come la fessurazione dell'intonaco, fino al collasso totale). Inoltre si dà una definizione dei termini di valutazione quantitativa: "pochi" (5%), "molti" (50%) e "la maggior parte" (75%). Questa scala è usata principalmente nell'Europa dell'est (ex URSS ed ex paesi satelliti).
+La necessità di aggiornare i criteri di valutazione dell'intensità della scala Mercalli MCS e l'esperienza della MKS 64 hanno portato nell'ambito dell'Unione Europea allo sviluppo, a partire dalla fine del secolo scorso, di una serie di linee guida che hanno portato alla definizione della nuova Scala Macrosismica Europea 1998. Questa scala, basata sempre sulla Mercalli MCS, risponde a diverse esigenze di aggiornamento: soprattutto alla necessità di includere edifici di tipo moderno, anche costruiti con criteri antisismici, non contemplati nelle versioni precedenti; di semplificazione e chiarezza di linguaggio, con inclusione di terminologia e criteri ingegneristici (e non solo sismologici), per una maggiore obiettività delle definizioni; infine anche con una revisione critica degli effetti macrosismici visibili sull'ambiente. Nella valutazione degli effetti sismici viene introdotto il concetto di vulnerabilità sismica degli edifici e delle strutture, con varie classi di vulnerabilità definite per quattro tipi di strutture:
+
+muratura
+cemento armato
+acciaio
+legno
+Per gli edifici in muratura e cemento vengono distinti diversi livelli di vulnerabilità per edifici da privi di progettazione antisismica (PA) ad alto livello di PA. Per queste due categorie inoltre il danno viene classificato in cinque gradi: da 1 - danno da trascurabile a leggero (danno non strutturale), a 5 - distruzione (danno strutturale molto grave). la descrizione dei danni è espressa in termini ingegneristici, con terminologia appropriata, ad esempio, per le caratteristiche costruttive specifiche degli edifici in cemento armato (danni a carico dei pilastri portanti, dell'armatura...). Inoltre, la definizione della quantità di strutture danneggiate viene fissata quantitativamente, dando al contempo intervalli di tolleranza:
+
+pochi (da 0, con limite superiore tra il 10% e il 20% circa)
+molti (limite superiore tra il 50% e il 60% circa)
+la maggior parte (fino al 100%)
+Ecco di seguito la forma sintetica della Scala Macrosismica Europea.
+
+Confrontando quest'ultima scala con la Mercalli MCS si nota che a partire dal grado VI la definizione è basata sui danni (e non su aggettivi di natura piuttosto soggettiva come "abbastanza forte", "rovinoso" etc.), e che la descrizione opera una distinzione tra lesioni e cedimenti strutturali. L'elemento più evidente è però la completa rimozione dalla descrizione dei criteri diagnostici riferiti all'ambiente. Questo per la loro difficoltà di utilizzo: infatti la maggior parte degli effetti sull'ambiente si osservano in un intervallo di intensità piuttosto ampio, e inoltre dipendono largamente da fattori molto locali (ad esempio l'instabilità di un pendio) o addirittura stagionali e climatici (ad esempio il livello della falda acquifera), che sono difficili da cogliere per l'osservatore senza una analisi dettagliata, e sono difficilmente categorizzabili. Viene comunque suggerito un uso limitato di tali effetti come ad esempio la variazione del livello dell’acqua nei pozzi, le crepe nel terreno, le frane o la caduta di massi, da utilizzarsi come elementi a supporto per la determinazione del grado.
+
+
+==== Scale di magnitudo ====
+Le scale di intensità presentano uno svantaggio evidente: sono definite soprattutto in base a percezioni umane e ad effetti sulle strutture. Quindi, oltre ad un certo grado di soggettività, vi è anche un problema di dipendenza da fattori locali, quali ad esempio la densità abitativa (in un deserto, ad esempio, sarebbe difficile se non impossibile definire il grado di intensità sismica vista l'assenza di popolazione e di strutture). Inoltre, l'intensità così definita non ha relazioni univoche con l'energia effettivamente sprigionata dal sisma, perché ad un determinato livello di energia originato nell'ipocentro possono corrispondere sul territorio diversi gradi di intensità a seconda dello scenario locale (diverso assetto geologico, diversa tipologia di costruzioni, diversa densità abitativa). 
+Allo scopo di svincolare la misura dell'entità di un sisma dagli effetti materiali e dalla soggettività e di ottenere una misurazione rigorosa e il più possibile oggettiva, si utilizza quindi una scala di magnitudo, che si basa sulla misurazione della quantità di energia liberata da un terremoto relazionandola con l'ampiezza delle oscillazioni provocate dalle onde sismiche. Questa scala fu proposta da Charles Francis Richter (1935), uno studioso che lavorava a Pasadena (California) per il Carnegie Institute of Technology, partendo da un'evidenza sperimentale. Richter osservò che riportando le massime ampiezze registrate da un sismografo standard su un diagramma semilogaritmico in funzione della distanza epicentrale, i dati si allineavano lungo una retta e che le rette relative a terremoti diversi avevano lo stesso coefficiente angolare negativo. Questo vuol dire che l'ampiezza massima del movimento del suolo è una funzione decrescente (di tipo esponenziale) della distanza epicentrale (intuitivamente: maggiore è la distanza  della stazione di misura dall'epicentro, minore è l'ampiezza del movimento del terreno). La conseguenza più interessante però è che, essendo le ampiezze degli eventi sismici in rapporto costante, è possibile determinare l’intensità di un terremoto in funzione di un altro che viene preso come riferimento per la misura.
+Richter stabilì come terremoto di riferimento, attribuendogli convenzionalmente il valore di magnitudo zero, quello che a 100 km di distanza dall'epicentro sarebbe registrato dal sismografo standard con una ampiezza massima di un micrometro. La magnitudo di un sisma è espressa dalla relazione:
+
+  
+    
+      
+        
+          M
+          
+            
+              L
+            
+          
+        
+        =
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        [
+        A
+        
+          /
+        
+        
+          A
+          
+            
+              0
+            
+          
+        
+        ]
+        +
+        F
+        (
+        δ
+        ,
+        h
+        )
+        +
+        c
+         
+      
+    
+    {\displaystyle M_{\mathrm {L} }=\log _{10}[A/A_{\mathrm {0} }]+F(\delta ,h)+c\ }
+  
+
+dove A è l'ampiezza massima del sisma osservato, A0 è l'ampiezza del sisma di riferimento (definito come sopra), F(δ, h) è un fattore di correzione che dipende dalla distanza epicentrale δ e dalla profondità dell'ipocentro h e infine c è un altro fattore di correzione specifico della stazione sismometrica. Il pedice dell'espressione ML significa "locale": la magnitudine di Richter è infatti dipendente dalle caratteristiche di attenuazione delle onde sismiche dell'area in cui venne definita definita originariamente (la California meridionale). In realtà le curve di riferimento per le ampiezze vanno ricalibrate regione per regione: infatti la magnitudine definita da Richter si rivelò ben presto inaccurata per altre regioni degli stessi Stati Uniti, a causa delle diverse caratteristiche crostali. Inoltre, per le caratteristiche specifiche dei sismografi da Richter, sensibili solo alle componenti ad alta frequenza dei sismi, questo metodo è accurato solo per terremoti di bassa profondità e distanza epicentrale relativamente piccola (meno di 600 Km), e soprattutto è poco accurato per i sismi di maggiore energia (magnitudine maggiore di 6), che mettono in gioco uno spettro di frequenze molto più ampio. La magnitudine Richter quindi non esprime tutta l'energia sprigionata da un sisma, che viene perciò sottostimata. 
+Questo ha portato successivamente allo sviluppo di altri metodi per il calcolo della magnitudine: dalle onde superficiali (magnitudine Ms) alle onde di volume P e S (magnitudine Mb, dove la b sta per "body" waves: onde di volume), che presentano comunque altri inconvenienti dovuti alle modalità specifiche di propagazione delle onde relative. Tutte queste scale di magnitudine sono collegate da relazioni empiriche derivate statisticamente.
+
+Nel 1979, lo studioso giapponese Hiroo Kanamori introdusse il concetto di magnitudo momento (MW), basata sul momento sismico, che è uguale al prodotto tra area della faglia, spostamento lungo la superficie di faglia e un modulo che esprime resistenza delle rocce agli sforzi di taglio. Il pedice W in questo caso definisce un lavoro meccanico (work). La magnitudo momento è più rappresentativa della magnitudo Richter e costituisce una stima più verosimile dell'"energia" di un terremoto essendo direttamente legata alla dimensione e alla dislocazione della sorgente sismica. La magnitudo momento è ricavabile direttamente dai sismogrammi, ma un altro vantaggio è che è possibile assegnare un valore di magnitudo anche a terremoti "storici" di cui non si hanno registrazioni sismografiche (o non sono sufficientemente accurate), applicando la definizione di momento sismico (purché si abbia una buona conoscenza delle caratteristiche geometriche della faglia che lo ha causato e dell'entità della dislocazione). Tuttavia, questo tipo di magnitudine non è di calcolo immediato: infatti per ottenere un valore affidabile occorre analizzare una porzione molto lunga dei sismogrammi (ottenuti con sismometri a larga banda, molto più sensibili del tipo usato da Richter). Per far questo si deve aspettare la registrazione di tutto il segnale sismico di tutte le stazioni sismometriche e analizzarle. Questo comporta tempi relativamente lunghi, non compatibili con scopi di protezione civile e con i tempi dei mezzi di informazione.
+Di norma, la magnitudo Richter ML è il parametro più usato nella determinazione a breve termine dell'intensità di un terremoto, ed è anche quella che viene fornita agli organi di protezione civile e ai media dopo alcuni minuti. Successivamente vengono diramati valori più affidabili ottenuti con la registrazione completa del sisma, mediante il calcolo della magnitudo momento Mw. In Italia, i dati di ogni terremoto di magnitudo superiore o uguale a 2.5 vengono comunicati al Dipartimento di Protezione Civile con la massima priorità e pubblicati successivamente sul sito web dell’Istituto nazionale di geofisica e vulcanologia (INGV).
+L’importanza del concetto di magnitudo, deriva dal fatto che essa è comunque collegata all’ampiezza e di conseguenza all’energia associata alle oscillazioni del suolo. A causa della scala logaritmica utilizzata, variazioni di 1 grado di magnitudo equivalgono a una variazione di ampiezza (e quindi di energia) di circa 32 volte. Quindi, ad esempio, un terremoto di magnitudo 6 sprigiona un'energia circa 32 volte maggiore di un terremoto di magnitudo 5 e un migliaio di volte maggiore di un terremoto di magnitudo 4. A differenza delle scale di intensità (come la Mercalli MCS), una scala di magnitudo non ha un valore massimo assoluto. Il valore massimo registrato fino ad ora è quello del terremoto del Cile nel 1960 con una magnitudo di 9.5. La magnitudine (a differenza dell'intensità, che è espressa con un numero intero in numerali romani), essendo una quantità misurata direttamente è espressa in cifre arabe come numero decimale (es.: 5.4). Essendo derivato sostanzialmente dal rapporto tra due ampiezze, si tratta di un numero adimensionale.
+Associando le posizioni degli epicentri sismici ai valori di magnitudo è possibile redigere carte della sismicità del territorio. Queste mappe, insieme alle carte isosismiche (di intensità sismica) già esaminate, sono basilari per la zonazione sismica del territorio e la redazione di carte del rischio sismico.
+
+
+==== Magnitudo e intensità ====
+Non è facile stabilire una relazione tra le scale di magnitudo e le scale di intensità, per la differenza intrinseca del tipo di misurazione e del significato delle due grandezze misurate. Di seguito è riportato il confronto tra la scala di magnitudo e la scala Mercalli (MM) dal sito del servizio geologico statunitense (USGS). I gradi di intensità riportati sono quelli che si possono osservare molto vicino all'epicentro di sismi di una determinata magnitudo.
+
+Notare che sostanzialmente a magnitudo pari o superiori a 6.0 possono corrispondere gradi di intensità da VII a oltre IX. Questo perché l'energia liberata da terremoti con questi valori di magnitudine è tale che, in presenza di strutture di costruzione scadente o di terreni che tendono ad amplificare l'ampiezza delle oscillazioni si possono avere effetti di notevole gravità, fino ai gradi di intensità più elevata.
+
+
+== Effetti e danni ==
+
+I terremoti sono gli eventi naturali di gran lunga più potenti sulla Terra; i sismi possono rilasciare in pochi secondi un'energia superiore a migliaia di bombe atomiche, solitamente misurata in termini di momento sismico. A tal riguardo basti pensare che un terremoto riesce a spostare in pochi secondi volumi di roccia di centinaia di chilometri cubi.
+In conseguenza di ciò i terremoti possono causare gravi distruzioni e alte perdite di vite umane attraverso una serie di agenti distruttivi, il principale dei quali è il movimento violento del terreno - che può avvenire con accelerazioni che possono essere semplificate in orizzontali e verticali - con conseguente sollecitazione delle strutture edilizie in posa (edifici, ponti, ecc.), accompagnato eventualmente anche da altri effetti secondari quali inondazioni (ad esempio cedimento di dighe), cedimenti del terreno (frane, smottamenti o liquefazione), incendi o fuoriuscite di materiali pericolosi; se il sisma avviene sotto la superficie oceanica o marina o nei pressi della linea costiera può generare maremoti. In ogni terremoto uno o più di questi agenti possono dunque concorrere a causare ulteriori gravi danni e vittime. Gli effetti di un terremoto possono essere esaltati e presentarsi in maniera variabile anche nell'ambito di piccole distanze a causa di fenomeni di amplificazione del moto sismico, dovuti alle condizioni geologiche locali, che vanno sotto il nome di risposta sismica locale o effetti di sito.
+I terremoti più forti, come quello del Giappone dell'11 marzo 2011 (terremoto del Tōhoku del 2011), possono anche spostare di alcuni centimetri il polo nord geografico (questo ad esempio l'ha spostato di circa 10 cm) a causa dell'elasticità della crosta terrestre. A livello locale gli effetti di un sisma possono variare anche sensibilmente in conseguenza dei cosiddetti effetti di sito.
+Il singolo evento che ha fatto registrare più vittime negli ultimi mille anni è il terremoto dello Shaanxi (Cina) del 1556, di magnitudo 8,3, a causa del quale morirono 830 000 persone. Quello a più alta magnitudo, invece, è il terremoto di Valdivia (Cile) del 1960, che raggiunse magnitudo 9,5.
+
+
+=== I terremoti più forti degli ultimi due secoli ===
+
+
+=== Terremoti più forti per paese ===
+
+
+== Prevedibilità ==
+Vista la pericolosità dei terremoti l'uomo cerca di prevederli per ridurre il rischio sismico. La previsione può essere effettuata con due metodi, uno basato sui segnali premonitori (deterministico) e uno statistico . In ogni caso, allo stato attuale delle conoscenze non è possibile sapere esattamente quando e dove avverrà un terremoto.
+
+
+=== Previsione deterministica ===
+
+Questo tipo di previsione si basa su vari fenomeni fisici che possono avvenire durante la fase di accumulo di energia e di deformazione elastica nelle rocce prima di un evento sismico e che si segnalano come possibili precursori di un terremoto. I precursori sismici che dalle osservazioni della comunità scientifica potrebbero costituire una base valida per le previsioni sono:
+
+Precursori sismologici
+relativa abbondanza di scosse di lieve intensità (pre-scosse o foreshocks)
+Precursori geofisici
+diminuzioni di velocità delle onde sismiche (soprattutto delle Onde P) nella regione focale (la regione maggiormente soggetta a deformazione).
+variazioni della resistività elettrica nella regione focale.
+variazioni di emissione di radon dal sottosuolo
+Precursori geodetici
+variazioni di elevazione e inclinazione del terreno nell’area epicentrale.
+Questi precursori sono inquadrati nella cosiddetta "teoria della dilatanza", la prima teoria che, a partire dai primi anni '70 del secolo scorso, ha cercato di spiegare secondo un modello fisico le anomalie riscontrabili prima di un terremoto. Per dilatanza si intende l'aumento di volume di terreni e rocce a causa delle fratture, e quindi dei vuoti, che si creano durante l'accumulo di energia precedente un evento sismico. Quando inizia la deformazione, nelle rocce si forma un reticolo di fratture; anche nei terreni sciolti l'aumento di volume crea nuovi vuoti che si riempiono d'acqua. Questi fenomeni sono all'origine della maggior parte dei precursori. In particolare:
+
+Scosse sismiche di lieve entità sono state osservate in numerosi casi prima di terremoti importanti, nell'area epicentrale e nelle aree circonvicine, probabilmente prodromiche al sisma principale. Non si ha però nella maggior parte dei casi un incremento graduale della frequenza degli eventi; anzi, in diversi casi si avrebbe una fase di quiescenza nel periodo di poco antecedente la scossa principale e una ripresa immediatamente prima. L'unico caso storico di allarme sismico ed evacuazione in base a scosse premonitrici è quello di Haicheng (Cina, regione di Liaoning, sulla fascia costiera settentrionale del paese) del 4 febbraio 1975. In questo caso le autorità ordinarono l'evacuazione della città poche ore prima del sisma in seguito ad un improvviso aumento della sismicità, dopo vari mesi in cui erano state osservate lievi scosse che avevano dato luogo precedentemente a un allerta di basso livello. L'evacuazione non riuscì a prevenire completamente le perdite (da uno a due migliaia di persone morirono, secondo le stime, e almeno 27000 rimasero ferite o infortunate), ma si è calcolato che la misura presa abbia salvato la vita ad almeno 150000 persone.
+La velocità delle Onde P (VP) tende a decrescere nella regione focale. Intuitivamente: la velocità delle Onde P dipende dal materiale che attraversano ed è comunque più elevata nei solidi che nei fluidi: essendoci quindi una quota maggiore di vuoti nel volume roccioso, dovuti alla fratturazione e riempiti da acqua, la velocità delle onde diminuisce.
+La resistività elettrica (che è l'inverso della conduttività) dipende in rocce e terreni dalla presenza di acqua: le acque sotterranee profonde infatti sono generalmente ricche di sali disciolti (quindi di ioni) e sono perciò molto conduttive. L'aumento di acqua circolante nel nuovo reticolo di fratture prodotte dalla dilatanza provoca quindi un aumento della conduttività e una diminuzione significativa della resistività delle rocce.
+Il Radon viene rilasciato da rocce e terreni: il fenomeno della dilatanza aumenta sia la quantità di acque sotterranee circolanti sia, con la generazione delle fratture, la superficie di roccia lungo la quale può avvenire l'emissione del gas e lo scambio con le acque stesse. Il radon si forma dal decadimento radioattivo del radio ed essendo un gas nobile non si combina con gli altri elementi e composti chimici; pertanto gran parte del radon che si forma all'interno delle rocce rimane intrappolato in esse. Se improvvisamente si verificano movimenti, fessurazioni, compressioni e distensioni di rocce, come avviene durante o immediatamente prima di un terremoto, il radon contenuto in profondità affiora sulla superficie terrestre, dove peraltro è già presente in una certa concentrazione, aumentando la concentrazione locale con picchi improvvisi. Nella speranza di poter realizzare un sistema di previsione a breve termine e affidabile dei terremoti, vari studi sono in corso; per tale ricerca si utilizza una rete di rivelatori di radon, opportunamente distribuiti sulla superficie delle zone interessate.
+Il terreno e le rocce possono "rigonfiare" in conseguenza dell'aumento di volume, soprattutto se la sorgente sismica è a bassa profondità. Prima del terremoto di Niigata (Giappone) del 1964, ripetute misure geodetiche tra il 1898 e il 1955 hanno indicato deboli movimenti verticali, seguiti da un sollevamento più rapido (circa 5 cm) nel 1958-1959 entro la regione epicentrale. Questo fenomeno fu seguito da una stasi, con movimenti di piccola entità, fino al terremoto principale. Il sollevamento del suolo era confermato dal un corrispondente decremento relativo del livello marino (registrato da stazioni di misurazione delle maree sulla costa). L'entità del rigonfiamento decresceva con la distanza dall'epicentro, fino ad annullarsi a circa 100 Km.
+La durata i questi fenomeni sembra essere relazionata con la magnitudine dei terremoti, da qualche giorno per sismi di magnitudo inferiore a 3.0, fino a intervalli dell'ordine di diversi anni per sismi di magnitudo superiore a 7.0. Tuttavia, nessuno di questi fenomeni precursori si è dimostrato affidabile da solo, perché nessuno si verifica sempre, regolarmente, prima di un terremoto significativo. La ricerca è quindi orientata all'osservazione contemporanea di più fenomeni, che si supportino a vicenda. 
+Altri eventi citati spesso come possibili precursori (ad esempio variazioni del livello di falda nei pozzi, variazioni improvvise del campo magnetico o del elettrico, interferenze nelle comunicazioni radio, luci telluriche, sia pure in apparenza spesso correlabili con l'occorrenza di episodi sismici importanti, non hanno mai dato luogo a previsioni di qualche successo. Ugualmente le anomalie del comportamento animale, spesso riferite dai media come precursori (peraltro, sempre "a posteriori").
+Sullo studio dei precursori sismici di origine elettromagnetica, osservati per la prima volta nel 1880, si sta attivamente impegnando l'Associazione Radioamatori Italiana (ARI) e altri gruppi di ricerca privati, predisponendo stazioni di ascolto delle emissioni elettromagnetiche in bassa frequenza ELF (Extremely Low Frequency).
+Anche il monitoraggio dell'eventuale sciame sismico prima di un mainshock spesso non sembra portare a risultati concreti in termini di previsione in quanto la stragrande maggioranza degli sciami sismici evolvono senza produrre catastrofi ovvero dissipandosi più o meno lentamente nel tempo secondo la legge di Omori.
+Attualmente alcuni modelli fisici sperimentali di previsione sismica di natura statistica si sono rivelati abbastanza efficaci nel prevedere alcune sequenze di aftershock, ma abbastanza deludenti nel prevedere il main shock.
+La prevedibilità dei fenomeni sismici è stata oggetto in Italia di discussioni e polemiche fuori dell'ambito scientifico, a seguito del terremoto dell'Aquila del 6 aprile 2009; in occasione del tragico evento, la stampa riportò con enfasi la notizia secondo la quale Giampaolo Giuliani (un tecnico di laboratorio dell'INAF, non laureato, che, durante il tempo libero, svolge studi sui terremoti a titolo personale), nelle settimane precedenti il sisma, avrebbe sostenuto varie ipotesi sull'imminenza di una scossa disastrosa, procurando anche alcuni falsi allarmi; il verificarsi di un evento sismico sarebbe stato predetto, a suo dire, in marzo, a grandi linee in quella stessa regione; affermava di basare la sua analisi sull'aumento improvviso di emissioni di radon, utilizzando però strumentazioni e metodi previsionali che non sono stati ritenuti rigorosamente validi dalla comunità scientifica.
+
+
+=== Previsione statistica ===
+
+Considerate le incertezza ancora elevate della previsione deterministica, allo stadio attuale della ricerca sismologica i risultati più concreti per la previsione dei terremoti si hanno per via statistica nel lungo periodo ovvero consultando mappe di pericolosità che tengono conto dei tempi di ritorno di un sisma in un dato territorio, cioè calcolandone la probabilità di occorrenza. Gli eventi naturali come i terremoti hanno una certa prevedibilità in termini statistici, basata sul periodo di ritorno di un evento di una determinata entità.  In una certa area geografica vengono analizzate le zone interessate da eventi sismici e la frequenza con cui avvengono, basandosi sui cataloghi dei terremoti già avvenuti. Vengono considerati sia i valori di intensità che quelli di magnitudo. I terremoti per i quali non si hanno registrazioni dirette sono caratterizzati in base alla descrizione degli effetti dalle fonti storiche e, per l'identificazione delle sorgenti sismiche, sulla cartografia geologica disponibile; su queste basi vengono ipotizzati dei valori di intensità e magnitudo sismica. Tuttavia l'intervallo di tempo in cui si ritiene probabile il verificarsi di un sisma è piuttosto esteso, fino a decine di anni, rendendo vano ogni tentativo ragionevole di previsione che renda efficace l'evacuazione delle popolazioni.
+
+Valutando la distribuzione dell'intensità sismica sul territorio si possono compilare carte isosismiche, in cui i punti ad uguale intensità (grado) sono collegati, appunto, da curve dette isosisme. Si tratta di una serie di linee chiuse che delimitano aree con effetti sismici simili con gradazione crescente dalla periferia alla zona centrale, nella quale generalmente è contenuto l'epicentro del sisma. L'andamento delle isosisme è spesso irregolare, poiché gli effetti di un terremoto variano anche in misura notevole da una parte all'altra di un determinato territorio in conseguenza di fattori molteplici, non solo connessi all'energia messa in gioco dal terremoto stesso. I più importanti sono:
+
+la struttura geologica del territorio: l'orografia (pianura, collina, montagna), la tipologia di rocce e terreni, la stabilità dei versanti. Infatti, il tipo di roccia e la morfologia del territorio hanno un ruolo primario nel "guidare" la propagazione delle onde sismiche, poiché il sottosuolo non è un mezzo omogeneo ma è costituito dal succedersi formazioni rocciose e terreni con caratteristiche diverse, sia verticalmente che orizzontalmente. La presenza di discontinuità dovute alle variazioni litologiche può quindi alterare la propagazione dei fronti d'onda con effetti di riflessione e rifrazione, cambiandone la direzione, la velocità e l'ampiezza e quindi influendo sugli effetti (attenuandoli o incrementandoli). Inoltre la presenza di elementi di instabilità pregressi (paleofrane, terreni soggetti a liquefazione) può esaltare localmente gli effetti sismici.
+i fattori antropici, come la destinazione d'uso del territorio (residenziale, industriale o agricolo), la densità abitativa, la tipologia e la qualità delle costruzioni, hanno un'importanza primaria nella valutazione degli effetti.
+Le carte delle isosisme sono quindi molto utili per la compilazione di carte del rischio sismico di un territorio. Inoltre possono dare importanti informazioni sulla struttura del sottosuolo (presenza di formazioni che propagano in diversa misura le onde sismiche) e sulla presenza di strutture tettoniche attive (faglie). E' importante sottolineare che, considerata la notevole dipendenza dell'andamento delle isosisme dallo scenario locale, questo metodo va sempre abbinato ad altre metodologie di zonazione sismica, basate su dati più oggettivi e misurazioni quantitative.
+
+La migliore difesa rispetto ai terremoti è dunque la prevenzione, che si attua mediante la quantificazione del rischio sismico. Con "rischio" si intende la probabilità che un fenomeno potenzialmente dannoso (un terremoto in questo caso) possa avvenire in un determinato luogo e in un certo tempo, provocando un danno di valore stimato. La determinazione del rischio sismico è quindi la valutazione dei danni che potrebbero verificarsi nel territorio in caso di terremoto, in un periodo di tempo determinabile statisticamente. Il rischio è un valore quantificabile mediante la formula:
+Rischio = Pericolosità × Esposizione × Vulnerabilità
+
+la pericolosità sismica, è la probabilità che un sisma di una data intensità (che implica un certo valore di "scuotimento" del suolo, in termini di accelerazione o movimento) si verifichi in un determinato intervallo di tempo e in una certa area. Per l'intervallo temporale si considera il periodo di ritorno di un terremoto di data intensità. E' espressa in una scala probabilistica da 0 (evento nullo) a 1 (evento certo). Questo parametro è utilizzato per la compilazione di carte della pericolosità sismica. Ad esempio, in Italia la Mappa di Pericolosità Sismica 2004 (MPS04) descrive la pericolosità sismica attraverso il parametro dell'accelerazione massima attesa con una probabilità di eccedenza del 10% in 50 anni su suolo rigido e pianeggiante. L'accelerazione del suolo Peak Ground Acceleration (PGA) è la misura della massima accelerazione del suolo indotta del terremoto (registrata da accelerometri). Diversamente dalla scala Richter, che misura l'energia globale di un evento sismico, il PGA è una misura dell'intensità di un terremoto in un determinato sito.
+l'esposizione (valore esposto al rischio), è il valore dell'insieme degli elementi esposti al rischio all'interno dell'area esposta (persone, beni, attività). l'esposizione dipende sostanzialmente dal valore economico delle strutture e dalla concentrazione di persone in esse. Ad esempio, un terremoto in una regione spopolata e priva di costruzioni e infrastrutture (come un deserto) avrebbe una esposizione e un rischio praticamente nulli. Al contrario, se l'area è particolarmente affollata e vi sono strutture (come ad esempio dighe o centrali elettriche, oppure ospedali) l cui distruzione causerebbe gravi perdite economiche e interruzioni di servizi primari, l'esposizione è molto elevata. L'esposizione si quantifica in termini relativi (valore monetario di proprietà, attività economiche, servizi pubblici) oppure assoluti (numero di abitanti, di edifici etc.). Questo parametro serve soprattutto per la stima dei costi che un terremoto può avere e per la valutazione degli interventi di recupero e ricostruzione.
+la vulnerabilità è il grado di potenziale perdita (distruzione) prodotto sugli elementi esposti al rischio risultante dal verificarsi di un sisma di data intensità. Gli elementi in gioco possono essere persone (quindi perdite umane), edifici e infrastrutture o attività. Ad esempio gli edifici di un antico centro storico sono ad elevata vulnerabilità, mentre moderni palazzi in cemento armato costruiti con criteri antisismici possono resistere anche a forti scosse. Anche questo fattore è espresso in scala da 0 (nessuna perdita) a 1 (perdita totale).
+la valutazione di questi parametri serve per la compilazione di carte del rischio sismico con scopi di:
+
+pianificazione di interventi di prevenzione, per la mitigazione del rischio stesso. Gli interventi prioritari sono generalmente volti a consolidare di edifici esistenti e a garantire la costruzione di nuove strutture secondo norme tecniche specifiche per le costruzioni in zona sismica. Tali norme fissano regole per la scelta dei terreni, le prove geotecniche da eseguire sul posto, i materiali da utilizzare e le caratteristiche costruttive.
+elaborazione di piani di evacuazione e soccorso, e di strategie volte a preparare la popolazione ad affrontare un evento sismico, mediante informazione capillare e, con particolare attenzione ai contesti scolastici e lavorativi, esercitazioni pianificate.
+Fondamentale per la compilazione della cartografia relativa al rischio sismico è la zonazione sismica, che esprime la distribuzione nel territorio dei fattori di rischio connessi agli eventi sismici. in Italia sono utilizzati due tipi di zonazioni:
+
+Macrozonazione sismica. Gli obiettivi in questo caso sono di individuazione in ambiti molto ampi (provinciali, regionali, nazionali) di zone con caratteristiche omogenee di PGA. Per questo tipo di cartografia viene considerata la probabilità che un determinato evento con determinata intensità si ripresenti entro un certo periodo di tempo (periodo di ritorno). Questo tipo di analisi viene condotto sia in base informazioni reperite da cataloghi di terremoti osservati o registrati, sia impiegando modelli probabilistici che considerano la distribuzione di potenziali faglie attive. Ove non si hanno misure accelerometriche dirette, si utilizzano dati di intensità convertiti in PGA tramite relazioni statistiche. In alcune regioni italiane come la Campania o la Sicilia si considera anche l’eventualità che si verifichino terremoti di origine vulcanica. Inoltre, a ciascuna macrozona sismica viene attribuito un valore di magnitudo massima. Le macrozone servono per una pianificazione su scala nazionale della prevenzione sismica, ma non sono utilizzabili a scala locale per la pianificazione territoriale, perché non hanno dettaglio sufficiente. Dal 2003 la classificazione sismica italiana è stata completamente aggiornata . Attualmente è impostata su quattro tipi di zone, cui sono assegnati i comuni:
+Zona 1. È la zona ritenuta più pericolosa e dove statisticamente possono verificarsi terremoti di forte intensità. Comprende 725 Comuni.
+Zona 2. In questa zona possono verificarsi terremoti di media-forte intensità. Comprende 2344 Comuni.
+Zona 3. La zona considerata meno pericolosa. Comprende 3488 Comuni.
+
+Microzonazione sismica. Consiste nell’analisi e nella rappresentazione della distribuzione spaziale della pericolosità sismica nel territorio e della sua vulnerabilità sismica. Questo tipo di studio è condotto in un ambito di dettaglio molto maggiore (comunale, circoscrizionale) rispetto alla macrozonazione, e comprende anche l'analisi di fattori di rischio locali, relativi ad esempio alla stabilità dei versanti e alla tipologia dei terreni, in conseguenza della risposta sismica locale, ovvero degli effetti di sito. Le carte di microzonazione sismica sono quelle effettivamente utilizzate "sul campo" per la pianificazione territoriale a scala locale. I principali effetti di sito considerati sono:
+densificazione o liquefazione dei terreni. Questa problematica riguarda soprattutto terreni sciolti sabbiosi e limosi saturi d'acqua, e ha origine da una variazione nella disposizione spaziale dei clasti che li compongono a causa delle sollecitazioni dovute alle vibrazioni sismiche. Nel primo caso abbiamo un riassestamento delle particelle secondo una configurazione più compatta, con riduzione di volume e come conseguenza possibili abbassamenti differenziali del terreno. Nel caso della liquefazione, abbiamo un aumento di pressione dell'acqua negli interstizi tra i clasti fino a eguagliare la pressione totale dovuta al peso degli strati di terreno soprastanti. Le particelle che compongono il terreno quindi tendono ad "allontanarsi" e a perdere il contatto reciproco. Il comportamento del terreno in queste condizioni equivale a quello di un liquido: viene così annullata la resistenza al taglio del terreno stesso, che non è più in grado di contrastare le spinte differenziali derivanti da edifici o manufatti soprastanti; questo ha come conseguenza affondamento parziale o ribaltamento delle strutture.
+Fenomeni di amplificazione. Condizioni locali di natura topografica o stratigrafica possono modificare direzione e ampiezza delle onde sismiche, con fenomeni di interferenza tra fronti d'onda dovuti a riflessione e rifrazione. Quando questa interferenza è "costruttiva" (cioè le ampiezze si sommano), le oscillazioni del terreno risultano amplificate. L'amplificazione di tipo stratigrafico può essere dovuta alla presenza di sedimenti "soffici" o sciolti che ricoprono il basamento roccioso rigido. Le irregolarità topografiche (rilievi, pendii) possono essere significative (cioè dare luogo a fenomeni di interferenza) quando sono della stessa lunghezza d'onda delle onde sismiche.
+instabilità dei versanti. Versanti montani o collinari possono essere interessati da instabilità dovuta alla natura delle rocce e dei terreni (probabilità di frane o crolli) e all'eventuale presenza di corpi di paleofrana che possono essere rimessi in movimento a causa un sisma.
+Collasso di cavità. Questi fenomeni interessano soprattutto aree carsiche. Vi può essere anche collasso di cavità di origine antropica (gallerie, antichi ambienti sotterranei o miniere).
+In Italia, i criteri per la definizione delle microzone sismiche sono i seguenti:
+
+zone stabili: zone dove non si ipotizzano effetti locali di rilievo;
+zone stabili suscettibili di amplificazioni locali: zone dove sono attese amplificazioni del moto sismico dovute alla litostratigrafia e alla morfologia locale;
+zone suscettibili di instabilità: zone dove gli effetti sismici attesi e predominanti sono riconducibili a deformazioni permanenti del territorio.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Prevenzione ==
+
+La ricerca scientifica è ancora lontana dalla previsione di un sisma: il rimedio più praticabile e saggio contro i danni materiali e umani dei terremoti è rappresentato dalla protezione attiva, ovvero dall'uso di efficaci tecniche antisismiche di costruzione di edifici proprie dell'ingegneria sismica come ad esempio l'isolamento sismico: queste tecniche allo stadio attuale sono in grado di minimizzare i danni anche di terremoti estremamente potenti e sono diffusamente utilizzate in alcune delle aree più sismiche al mondo come il Giappone.
+La pericolosità sismica dipende dalle caratteristiche geologiche del territorio, ed è al di fuori delle possibilità di intervento da parte dell'uomo. Può però essere quantificato e previsto statisticamente. Per individuare zone a significativo pericolo sismico e a conseguente rischio sismico si fa usualmente ricorso a studi di sismologia storica, paleosismologia e a tecniche di microzonazione sismica fornendo relative mappe di rischio, mentre per valutare gli effetti di un sisma si può ricorrere a tecniche di simulazione (vedi simulazione di terremoto).
+L'esposizione è un fattore sul quale, in aree già densamente abitate e costruite, vi sono possibilità di intervento limitate. E' chiaro che ove possibile, in una zona ad alta pericolosità sismica (ad esempio su strutture geologiche come faglie o aree franose) è meglio evitare di costruire ulteriormente o, se necessario, farlo con criteri antisismici. La vulnerabilità del territorio è il fattore sul quale è generalmente più facile intervenire. E' possibile diminuire la vulnerabilità ristrutturando con opportuni criteri gli edifici esistenti e progettando quelli da costruire con criteri antisismici.
+I possibili danni al patrimonio edilizio possono derivare da vari fattori:
+
+Gli edifici normalmente sono costruiti per resistere soprattutto a spinte verticali (devono infatti sopportare il proprio peso e quello delle persone che li abitano o li frequentano, oltre che di mobili, suppellettili, macchinari e infrastrutture interne). I terremoti sono eventi eccezionali, che per giunta agiscono prevalentemente con scuotimenti orizzontali del terreno.
+Per questi motivi le scosse sismiche possono causare movimenti differenziali tra le diverse parti della struttura dell'edificio (tra piani diversi, tra il corpo principale dell'edificio e le fondazioni o la copertura, tra diverse ali di uno stesso edificio...). Fenomeni di liquefazione/densificazione e di amplificazione sismica possono aggravare ulteriormente la situazione.
+Occorre distinguere tra danni strutturali, che interessano gli elementi portanti di un edificio (muri portanti, pilastri, travi, centine...), con potenziale compromissione della stabilità dell'edificio stesso, e danni non strutturali, che interessano elementi non relazionati con la stabilità dell'edificio (come ad esempio muri di tamponamento, tramezzi, infissi, balconi, cornicioni, comignoli...). Entrambi i tipi di danneggiamento possono essere fonte di pericolo per le persone all'interno e nelle immediate vicinanze di un edificio, ma i danni strutturali possono portare al collasso dell'edificio stesso, aggravando il bilancio di danni e vittime.
+L'entità e il tipo di danno dipende anche dal tipo di costruzione (muratura, cemento armato...) dai materiali usati, dall'età, dallo stato di conservazione e manutenzione, dalla vicinanza o contiguità con altre costruzioni.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Interventi sugli edifici già esistenti. Se gli elementi strutturali dell'edificio (fondazioni, muri portanti, solai e tetto) sono ben collegati tra loro, minimizzando quindi i movimenti differenziali tra le varie parti, l'edificio reagirà ai movimenti sismici come un corpo unico: in questo modo i possibili danni saranno meno gravi, anche in caso di terremoti violenti. Si interviene quindi rinforzando e consolidando i collegamenti tra queste parti e inserendo nuovi elementi di collegamento.
+Nel caso di edifici in muratura di costruzione non recente ad esempio si interviene con l'inserimento di catene e tiranti per collegare tra loro pareti e solai, e in punti particolarmente deboli con rinforzi locali per sostenere la struttura. Nel caso di muri già lesionati (crepe profonde), si procede con opere di consolidamento (ad esempio, iniezioni di miscele cementizie o resine, inserimento di reti o tondini metallici), o di rivestimento (intonaco armato).
+Nel caso di edifici in cemento armato, gli interventi si concentrano soprattutto sugli elementi strutturali, come i pilastri, per esempio con incamiciature in acciaio, e consolidamento delle fondazioni con pali e iniezioni consolidanti, mentre i muri non portanti vengono rinforzati ad esempio con intonaco armato o profilature in acciaio.
+Criteri di progettazione antisismica. Di seguito alcuni requisiti indicati dall'ingegneria sismica' per la progettazione antisismica di edifici, allo scopo di minimizzare i danni possibili in caso di terremoto.
+
+La forma e la struttura dell'edificio deve essere il più possibile regolare e compatta (priva ad esempio di strutture esterne aggettanti o sospese).
+Le diverse parti della struttura devono essere solidamente collegate: soprattutto pareti e solai per quanto riguarda gli edifici in muratura; pilastri e travi negli edifici in cemento armato.
+Deve esserci rispetto agli edifici vicini una separazione tale da consentire all'edificio di oscillare liberamente senza possibilità di urti.
+Elementi sporgenti (comignoli, parapetti, cornicioni...) devono essere fissati correttamente e solidali con il corpo dell'edificio.
+La perizia geologica (comunque obbligatoria per legge) deve prevedere le possibili amplificazioni del moto del suolo in caso di sisma.
+L'edificio deve essere in grado di deformarsi assecondando le sollecitazioni del terreno senza rotture e senza rischio di collasso strutturale.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Le tecniche di costruzione antisismica più diffuse prevedono l'uso di calcestruzzo armato, acciaio, legno.
+
+Calcestruzzo armato: il cemento armato è una struttura particolarmente resistente che si ottiene colando il cemento liquido in strutture che contengono tondini, reti, gabbie di acciaio. Le costruzioni vengono rese antisismiche costruendo basamenti e piloni in cemento armato, o addirittura tutto l'edificio.
+Acciaio. Si tratta di un materiale con proprietà meccaniche costanti e controllabili, leggero (rispetto alla muratura e al calcestruzzo armato), che resiste molto bene agli sforzi (sia di compressione che di trazione, e anche agli sforzi trasversali). Le sue proprietà di resistenza lo rendono molto adatto a sopportare le sollecitazioni sismiche (che sono scuotimenti in due sensi opposti, con sforzi sia compressivi che trattivi). Particolare attenzione però va messa nelle giunzioni di travi e pilastri (saldature e collegamenti bullonati).
+Legno. E' un materiale molto versatile, elastico e resistente e viene sempre più utilizzato nella bioedilizia. La sua elasticità lo rende un materiale particolarmente adatto nelle costruzioni antisismiche.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Una tecnica di progettazione antisismica molto promettente e già messa in pratica in diverse aree ad elevata sismicità del pianeta (ad esempio in California, USA, o in Giappone, o ancora, più recentemente, in Cina) è l'isolamento alla base degli edifici. Questa tecnica consiste sostanzialmente nel disaccoppiamento del corpo dell'edificio dalla sua fondazione, in modo che la fondazione possa seguire liberamente le oscillazioni del terreno, mentre l'edificio rimane fermo per inerzia (od oscilla con periodo decisamente superiore, quindi con minore rischio di danneggiamento o collasso), comportandosi come un corpo quasi-rigido. In tal modo si ottiene una riduzione consistente o addirittura un annullamento dei fenomeni di risonanza e dei movimenti differenziali tra gli elementi dell'edificio stesso. Questo viene realizzato mediante isolatori sismici: si tratta di dispositivi elastomerici (che dissipano l'energia delle oscillazioni sismiche mediante l'impiego di materiali elastici) oppure a scorrimento (che contrastano la forza di taglio data dalle onde sismiche, "smorzando" gli spostamenti orizzontali).
+La progettazione di queste strutture è piuttosto complessa e prevede costi aggiuntivi non trascurabili. Occorre infatti porre particolare attenzione al periodo di oscillazione della struttura, che deve essere calcolato tenendo conto delle frequenze sismiche più probabili e basato sulle registrazioni dei sismi storici, e anche delle caratteristiche di amplificazione sismica del terreno. I costi aggiuntivi sono però compensati da una effettiva protezione dal rischio sismico e dalla possibilità di maggiore elevazione degli edifici progettati in questo modo rispetto ad edifici non isolati (anche antisismici). Un edificio isolato sismicamente non è di per sé necessariamente antisismico: infatti questo tipo di soluzione viene adottato anche per edifici storici che si vogliono preservare minimizzando ulteriori interventi invasivi sul corpo dell'edificio.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Gestione con GDACS ==
+Nel 2004, l'Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA) e la Commissione europea hanno istituito il Global Disaster Alert and Coordination System ("Sistema di Allerta e Coordinamento Globale dei Disastri", GDACS), per migliorare e accrescere l'efficacia della macchina dei soccorsi e dei piani di aiuto umanitario. Nato col nome di GDAS, ha inizialmente trovato impiego per sostituire con un'unica piattaforma informatica multi-evento i diversi sistemi di monitoraggio e di allerta esistenti, relativamente a terremoti, tsunami, inondazioni, eruzioni vulcaniche e cicloni tropicali.
+In un secondo passo di implementazione del progetto, il sistema di monitoraggio è stato integrato con quello di gestione delle emergenze e di coordinamento degli interventi, noto come OCHA Virtual OSOCC. Ciò ha permesso di raccogliere informazioni sui rischi e pericoli concreti e attuali quasi in tempo reale, comunicando tempestivamente le notizie agli operatori coinvolti negli interventi e alla popolazione civile, secondo una modalità multicanale (dal tradizionale telefono, all'e-mail, agli SMS, al sito Web).
+Il sistema GDACS, così ottenuto, è divenuto in grado di valutare le informazioni meteorologiche con i dati economici e socio-demografici delle zone prevedibilmente interessate, in modo tale da eseguire un'analisi non in termini esclusivi di probabilità dell'evento, ma anche di magnitudo dell'impatto per la popolazione e per altre realtà presenti nel territorio circostante.
+
+
+== Studi e credenze ==
+Nell'antica Grecia, Poseidone era considerato il dio dei terremoti, oltre che del mare. Il suo corrispondente romano era Nettuno.
+Tra i Romani si credeva che i terremoti fossero causati dall'energia dei venti che si accumulava nelle caverne, o dal flusso e riflusso delle acque nelle cavità della Terra.
+Nel 1626 il gesuita italiano Niccolò Longobardi diede un rilevante contributo alla spiegazione scientifica dei fenomeni sismici con il suo Trattato sui terremoti, opera scritta in cinese.
+Il giovane Immanuel Kant, appena trentunenne, quando viene a sapere del terremoto di Lisbona del 1º novembre 1755 pubblica il 24 gennaio del 1756 il primo dei suoi Scritti sui terremoti dove cercherà di dare una veste scientifica alle sue riflessioni che nel corso delle sue opere estenderà anche a considerazioni morali.
+Durante la guerra fredda, le onde P sono state studiate per tenere sotto controllo i Paesi che praticavano esperimenti nucleari. Ognuno dei due blocchi studiava i progressi nucleari del blocco contrapposto, grazie all'utilizzo dei sismometri, al punto che i test nucleari (sotterranei o in atmosfera) furono usati sia dagli USA sia dall'URSS come una sorta di avvertimento — o comunicazione indiretta — nei confronti del nemico.
+La Chiesa cattolica venera Sant'Emidio come protettore dal terremoto.
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Bosellini A., Tettonica delle Placche e Geologia, Italo Bovolenta Editore, 1978.
+ Ceccarelli F., Prontuario tecnico urbanistico amministrativo, Maggioli, 2020.
+ Guerra I., Elementi fondamentali di sismologia, in Sarà G. (a cura di), Ingegneria antisismica, Liguori, 1983.
+ Milano G., Cos'è il Terremoto?. Quaderni di protezione civile, Regione Molise, Assessorato alla protezione civile - Osservatorio Vesuviano I.N.G.V., 2001.
+ Gruppo di Lavoro ICMS, Indirizzi e criteri per la microzonazione sismica, in Conferenza delle Regioni e delle Province Autonome-Dipartimento della Protezione Civile, 2008.
+ Gruppo di Lavoro ICMS, Contributi per l’aggiornamento degli Indirizzi e criteri per la microzonazione sismica, in Ingegneria Sismica, anno XXVIII, n.2, 2001, 68 pp., 2011.
+Henrik Svensen, Storia dei disastri naturali, Odoya, Bologna 2010, 320 pp., ISBN 978-88-6288-064-0
+ Pasquale V., III - Sismologia e struttura interna, in Geofisica, EGIC - Edizioni Culturali Internazionali Genova - S.r.l., 2015.
+ Sieber A., Geologie der Erdbeben, in Handbuch der Geophysik, 2(4), 552-555., 1930.
+ Scholz C.H., Sykes L.R. e Aggarwal Y.P., Earthquake prediction: A physical basis, in Science, 181, 803-810, 1973.
+ Tertulliani A. e Azzaro R., Scala Macrosismica Europea 1998 - EMS-98, in Grünthal G. (a cura di), Cahiers du Centre Européen de Géodynamique et de Séismologie - V. 32, 2019.
+ Vinale F., Indirizzi per studi di microzonazione sismica, Analisi e Monitoraggio del Rischio Ambientale (AMRA) S.c. a r.l., 2008.
+
+
+== Voci correlate ==
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni sul terremoto
+ Wikizionario contiene il lemma di dizionario «terremoto»
+ Wikinotizie contiene notizie di attualità sul terremoto
+ Wikimedia Commons contiene immagini o altri file sul terremoto
+ Wikivoyage contiene informazioni turistiche sul terremoto
+
+
+== Collegamenti esterni ==
+
+ terremoto, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+ Giovanni Battista Alfano, TERREMOTO, in Enciclopedia Italiana, Istituto dell'Enciclopedia Italiana, 1937. 
+ Giancarlo Scalera, Terremoto, in Enciclopedia Italiana, VI Appendice, Istituto dell'Enciclopedia Italiana, 2000. 
+ terremoto, in Dizionario delle scienze fisiche, Istituto dell'Enciclopedia Italiana, 1996. 
+ terremòto, su Vocabolario Treccani, Istituto dell'Enciclopedia Italiana. 
+ terremòto, su sapere.it, De Agostini. 
+ Giuliana Mele, terremoto, in Enciclopedia dei ragazzi, Istituto dell'Enciclopedia Italiana, 2004-2006. 
+(EN) Bruce A. Bolt, earthquake, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) Opere riguardanti Earthquakes, su Open Library, Internet Archive. 
+ Istituto Nazionale di Geofisica e Vulcanologia, su ingv.it.
+Hai sentito il terremoto?, progetto di citizen science di INGV
+ Directory dei terremoti a partire dal 2010, su earthquake-report.com. URL consultato il 6 giugno 2012 (archiviato dall'url originale il 21 aprile 2013).
+ Mappatura dei terremoti ne mondo in tempo reale, su 3bmeteo.com, Global Disaster Alert and Coordination System.
+ USGS Earthquake Hazard Program, su earthquake.usgs.gov.
+Bollettino Sismico Italiano - ISIDE (Italian Seismological Instrumental and parametric Data-basE)
+Bayesian Networks for Earthquake Magnitude Classification in a Early Warning System - Sistema informatico per l'allerta precoce - G. Zazzaro, F.M. Pisano, G. Romano
+European-Mediterranean Seismological Centre Centro Sismologico Euro-Mediterraneo
+ Visualizzare i terremoti in Google Earth, su gnss-info.blogspot.com.
+USGS Earthquake USGS Earthquake Hazards Program
+CFTI4Med Archiviato il 22 luglio 2011 in Internet Archive. Catalogue of Strong Earthquakes in Italy (461 B.C.-1997) and Mediterranean Area (760 B.C.-1500). Emanuela Guidoboni, Graziano Ferrari, Dante Mariotti, Alberto Comastri, Gabriele Tarabusi and Gianluca Valensise 2007 (INGV - SGA)
+DBMI11: il database INGV delle osservazioni macrosismiche dei terremoti italiani dal 1000 al 2006
+ SeismoCloud, su seismocloud.com (archiviato dall'url originale il 26 agosto 2016; seconda copia archiviata il 10 agosto 2016). Progetto italiano di ricerca per l'identificazione istantanea dei terremoti (tramite crowdsourcing) e invio di Early Warning

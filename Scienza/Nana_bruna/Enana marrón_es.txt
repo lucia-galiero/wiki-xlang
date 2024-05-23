@@ -1,0 +1,172 @@
+Las enanas marrones son objetos subestelares que no son lo suficientemente masivos como para mantener reacciones nucleares continuas de fusión del hidrógeno-1 en su núcleo, a diferencia de las estrellas de la secuencia principal. Las enanas marrones ocupan el rango de masas entre los planetas gigantes gaseosos más pesados y las estrellas más ligeras, con un límite superior de masas relativamente bien conocido, estando comprendido entre las 75 y las 80 masas jovianas 
+  
+    
+      
+        
+          M
+          
+            J
+          
+        
+      
+    
+    {\displaystyle M_{J}}
+  
+, según el grado de metalicidad. Las enanas marrones más pesadas que 13 
+  
+    
+      
+        
+          M
+          
+            J
+          
+        
+      
+    
+    {\displaystyle M_{J}}
+  
+ se cree que fusionan deuterio y que las mayores de 65 
+  
+    
+      
+        
+          M
+          
+            J
+          
+        
+      
+    
+    {\displaystyle M_{J}}
+  
+ fusionan litio. A partir de 65 
+  
+    
+      
+        
+          M
+          
+            J
+          
+        
+      
+    
+    {\displaystyle M_{J}}
+  
+, además de deuterio también queman tritio. Sin embargo, apenas tienen diferenciación química según la profundidad, ya que han sufrido en algún momento de su vida convección desde la superficie hasta su centro a causa de débiles reacciones de fusión de isótopos residuales.
+La quema del deuterio se produce en su juventud y es posible debido a su baja temperatura de fusión, unos 100.000 K. Dado que el deuterio es un combustible minoritario que desaparece rápidamente, dicha reacción no puede sostener el colapso gravitatorio. Las enanas marrones siguen brillando por un tiempo debido al calor residual de las reacciones y a la lenta contracción de la materia que las forma. Las enanas marrones continuarán contrayéndose y enfriándose hasta llegar al equilibrio. Se cree que las enanas marrones son estrellas «fallidas», ya que contienen los mismos materiales que una estrella como el Sol, pero con muy poca masa para brillar. Son muy parecidas a los planetas gaseosos; no son del todo planetas, pero tampoco son estrellas.
+Las diferencias que definen a una enana marrón de masa muy baja de un gigante de gas (~13 
+  
+    
+      
+        
+          M
+          
+            J
+          
+        
+      
+    
+    {\displaystyle M_{J}}
+  
+) son cuestiones de debate. Una escuela de pensamiento se basa en la formación; la otra, en la física del interior. Una parte de las preocupaciones del debate es si las "enanas marrones" deben, por definición, haber experimentado la fusión en algún momento de su historia.
+Las estrellas se clasifican por la clase espectral, siendo las enanas marrones designadas como de tipos M, L, T e Y. A pesar de su nombre, las enanas marrones son de diferentes colores. Muchas enanas marrones es probable que aparezcan como magenta para el ojo humano, o posiblemente naranjas o rojas. Las enanas marrones no son muy luminosas en longitudes de onda visibles.
+Algunos planetas conocidos que orbitan enanas marrones son: 2M1207 b, MOA-2007-BLG-192-L b y 2MASS J044144.
+A una distancia de unos 6,5 años luz, la enana marrón más cercana conocida es Luhman 16, un sistema binario de enanas marrones descubierto en 2013. DENIS-P J082303.1-491201 b está enumerado como el exoplaneta más masivo conocido (a partir de marzo de 2014) en el archivo de exoplanetas de la NASA, a pesar de tener una masa (28,5 ± 1,9 
+  
+    
+      
+        
+          M
+          
+            J
+          
+        
+      
+    
+    {\displaystyle M_{J}}
+  
+) más de dos veces que el punto de corte de 13 masas jovianas entre planetas y enanas marrones.
+
+
+== Notas históricas ==
+
+En 1963 el astrofísico de origen indio Shiv Kumar[1]​ fue el primero en estudiar teóricamente la evolución y propiedades de estrellas de masa muy inferior a las que se conocían por aquel entonces. Sus cálculos corresponderían a lo que hoy denominamos enanas marrones. Kumar denominó a estos objetos enanas negras. El nombre Brown Dwarf fue propuesto en 1975 por la astrofísica Jill Tarter, famosa por ser la portavoz del proyecto SETI. Existe discrepancia acerca del uso de los nombres enana marrón o enana café a nivel mundial, aunque en español se ha impuesto enana marrón mayoritariamente. La primera enana marrón verificada fue Teide 1, en 1995, en el telescopio IAC-80 del Observatorio del Teide (Tenerife), por un grupo español de astrofísicos pertenecientes al IAC y dirigidos por Rafael Rebolo López. La enana marrón mejor caracterizada es Gliese 229B, la compañera de menor masa de la estrella Gliese 229.
+
+
+== Identificación y prueba de litio ==
+
+El litio es un elemento especialmente interesante para diferenciar estos objetos de las estrellas de baja masa, ya que es destruido rápidamente en las reacciones de fusión del hidrógeno (en concreto en las cadenas PPII) debido a que reacciona con el hidrógeno a tan solo 1.000.000 K. Las estrellas poco masivas (< 0,1MS) son enteramente convectivas, por lo que sus interiores están bien mezclados y el litio se quema junto con el hidrógeno en pocos millones de años. En cambio, las estrellas de masas similares o mayores que la del Sol sí que mantienen litio en sus atmósferas, ya que la convección no logra penetrar hasta el núcleo. En una enana marrón, debido a su baja masa, el hidrógeno no llega a alcanzar las temperaturas y presiones necesarias para desencadenar su fusión y el litio no es destruido, permaneciendo en la enana marrón durante toda su existencia. Este litio puede ser detectado a través de sus espectros de emisión característicos, constituyendo esta prueba el modo clásico de identificación de enanas marrones. La prueba fue usada por primera vez por el grupo del IAC capitaneado por Rafael Rebolo López. La prueba no es perfecta, ya que puede haber estrellas muy poco masivas en las que la quema del litio aún no haya concluido debido a su lentitud en las reacciones. También se barajó la posibilidad de medir la ausencia de deuterio para comprobar si se trata de una enana marrón o no, pero este dato se reveló más difícil de medir, ya que las líneas espectrales del hidrógeno y el deuterio son muy parecidas.
+
+
+== Brillo y tipo espectral ==
+La emisión de poca energía por parte de estos astros lleva a que sea muy difícil observarlos de una manera directa desde grandes distancias. A pesar de esto, varios centenares de enanas marrones han sido identificadas, con temperaturas superficiales que varían entre 800 y 2000 grados Celsius. La temperatura superficial es una función creciente con la masa y decreciente con la edad del objeto.
+
+
+== Enanas marrones y planetas extrasolares ==
+
+Debido a su baja masa, intermedia entre los planetas gigantes y las estrellas de poca masa, las enanas marrones constituyen un vínculo único entre ambos tipos de cuerpos. En particular, se desconoce la formación de las enanas marrones, no pudiéndose saber por el momento si se forman como planetas en el interior de un disco circunestelar a partir de un núcleo de material sólido, o como estrellas a partir de la fragmentación y colapso gravitacional de una nube molecular. En 2003 se detectó en la constelación de Orión un grupo de objetos de tipo enana marrón con masas tan pequeñas como 5 masas jovianas.
+Los objetos de masa planetaria super-Júpiter 2M1207b y 2MASS J044144 que están en órbita de enanas marrones a grandes distancias orbitales pueden haberse formado por colapso de nubes en lugar de acreción y por lo tanto pueden ser enanas marrones submarinas en lugar de planetas, lo que se deduce de masas relativamente grandes y Grandes órbitas. El primer descubrimiento de un compañero de baja masa orbitando una enana marrón (ChaHα8) a una pequeña distancia orbital usando la técnica de velocidad radial pavimentó el camino para la detección de planetas alrededor de enanas marrones en órbitas de unos AU o más pequeños.[3]​[4]​ Sin embargo, con una relación de masa entre el compañero y el primario en ChaHα8 de aproximadamente 0,3, este sistema se parece más bien a una estrella binaria. Luego, en 2013, el primer compañero de masa planetaria (OGLE-2012-BLG-0358L b) en una órbita relativamente pequeña fue descubierto orbitando una enana marrón.[5]​ En 2015, se encontró el primer planeta de masa terrestre orbitando una enana marrón, OGLE-2013-BLG-0723LBb.[6]​
+Se ha encontrado que los discos alrededor de las enanas marrones tienen muchas de las mismas características que los discos alrededor de las estrellas; Por lo tanto, se espera que habrá planetas formados por acreción alrededor de enanas marrones.[7]​ Dada la pequeña masa de discos enanos marrones, la mayoría de los planetas serán planetas terrestres en lugar de gigantes gaseosos. Si un planeta gigante orbita una enana marrón a través de nuestra línea de visión, porque tienen aproximadamente el mismo diámetro, esto daría una buena señal  para la detección por el tránsito. La zona de acreción para los planetas alrededor de una enana marrón está muy cerca de la propia enana marrón, por lo que las fuerzas de marea tendrían un efecto fuerte.
+Los planetas alrededor de las enanas marrones son probablemente planetas de carbono sin agua.[8]​
+Un estudio de 2016, basado en observaciones con Spitzer estima que 175 enanas marrones necesitan ser monitoreadas para garantizar (95%) al menos una detección de un planeta.[9]​
+
+
+=== Habitabilidad ===
+La posible habitabilidad de planetas que orbitaran una enana marrón ha sido estudiada, y dichos estudios muestran que las condiciones para que uno de estos astros tenga un planeta habitable son extremadamente estrictas debido tanto a que la zona habitable es muy estrecha (y además estrechándose y acercándose a la enana marrón al ir enfriándose el astro con el tiempo), como a que en particular la excentricidad orbital de tales planetas debe de ser extremadamente baja (del orden de 10-6) para evitar que se creen fuerzas de marea que acaben por producir en ellos un efecto invernadero descontrolado que los vuelva inhabitables.[10]​
+
+
+== Véase también ==
+Clasificación estelar
+Evolución estelar
+Enana blanca
+Enana roja
+Enana negra
+Enana azul (etapa)
+Fusor (astronomía)
+Materia oscura
+Planeta extrasolar
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una galería multimedia sobre Enana marrón.
+Imagen del Telescopio Espacial Hubble de Gliese 229B Archivado el 4 de marzo de 2016 en Wayback Machine.
+Artículo de divulgación en castellano. Archivado el 20 de junio de 2018 en Wayback Machine.
+Proyecto Celestia Actividad educativa: Vida y muerte de las estrellas
+HubbleSite newscenter – Weather patterns on a brown dwarf (HubbleSite newscenter - Patrones climáticos en una enana marrón) (en inglés) 
+Allard, France; Homeier, Derek (2007). «Brown dwarfs (Enanas marrones)». Scholarpedia (en inglés) 2: 4475. Bibcode:2007SchpJ...2.4475A. doi:10.4249/scholarpedia.4475. 
+
+
+=== Historia ===
+Kumar, Shiv S.; Low-Luminosity Stars. Gordon and Breach, Londres, 1969-un primer documento de visión general sobre las enanas marrones
+The Columbia Encyclopedia: "Brown Dwarfs" ("Enanas marrones") (en inglés) 
+
+
+=== Detalles ===
+Una lista actual de enanas L y T  (en inglés)
+Una definición geológica de las enanas marrones,  contrastada con estrellas y planetas (vía Berkeley) (en inglés)
+Páginas de I. Neill Reid en el Space Telescope Science Institute (en inglés) :
+Sobre el análisis espectral de enanas M, enanas L y enanas T
+Características de temperatura y masa de las enanas de baja temperatura
+First X-ray from brown dwarf observed, Spaceref.com, 2000  (en inglés)
+Montes, David; "Brown Dwarfs and ultracool dwarfs (late-M, L, T)", Universidad Complutense de Madrid (en inglés)
+Wild Weather: Iron Rain on Failed Stars-  científicos están investigando sorprendentes patrones climáticos en las enanas marrones, Space.com, 2006 (en inglés)
+NASA Brown dwarf detectives (Detectives de enanas marrones de la NASA) (en inglés)  Archivado el 17 de octubre de 2014 en Wayback Machine.-Información detallada en forma simplificada
+Brown Dwarfs-Sitio web con información general sobre las enanas marrones (tiene muchas impresiones artísticas detalladas y coloridas) (en inglés)
+
+
+=== Estrellas ===
+Cha Halpha 1 estadísticas e historia  (en inglés)
+"Un censo de enanas marrones observadas" (no todas confirmadas), 1998 (en inglés)
+Luhman, Kevin L.; Adame, Lucía; d'Alessio, Paola; Calvet, Nuria; Hartmann, Lee; Megeath, S. Thomas; Fazio, Giovanni G. (2005). «Discovery of a Planetary-Mass Brown Dwarf with a Circumstellar Disk (Descubrimiento de una enana marrón de masa planetaria con un disco circunestelar)». The Astrophysical Journal (en inglés) 635 (1): L93-L96. Bibcode:2005ApJ...635L..93L. S2CID 11685964. arXiv:astro-ph/0511807. doi:10.1086/498868. 
+Michaud, Peter; Heyer, Inge; Leggett, Sandy K.; y Adamson, Andy; "Discovery Narrows the Gap Between Planets and Brown Dwarfs", Gemini and Joint Astronomy Centre, 2007. (en inglés)
+Deacon, Niall R.; y Hambly, Nigel C.; "Y-Spectral class for Ultra-Cool Dwarfs", 2006  (en inglés)
+
+
+== Lecturas adicionales ==
+Discovery of a Brown Dwarf in the Pleiades Star Cluster, Rebolo et al. Nature, 1995, 377, 129.
+Discovery of Young, Isolated Planetary Mass Objects in the σ Orionis Star Cluster, Zapatero-Osorio et al. Science, 2000, 290, 103.
+
+
+== Referencias ==

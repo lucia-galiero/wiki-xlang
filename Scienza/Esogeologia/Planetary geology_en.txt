@@ -1,0 +1,39 @@
+Planetary geology, alternatively known as astrogeology or exogeology, is a planetary science discipline concerned with the geology of celestial bodies such as planets and their moons, asteroids, comets, and meteorites. Although the geo- prefix typically indicates topics of or relating to Earth, planetary geology is named as such for historical and convenience reasons; due to the types of investigations involved, it is closely linked with Earth-based geology. These investigations are centered around the composition, structure, processes, and history of a celestial body.
+Planetary geology includes such topics as determining the properties and processes of the internal structure of the terrestrial planets, and also looks at planetary volcanism and surface processes such as impact craters, fluvial and aeolian processes. The structures and compositions of the giant planets and their moons are also examined, as is the make-up of the minor bodies of the Solar System, such as asteroids, the Kuiper belt, and comets. Planetary geology largely applies concepts within the geosciences to planetary bodies in the broadest sense, includes applications derived from fields in the geological sciences, such as geophysics and geochemistry.
+
+
+== History of planetary geology ==
+
+Eugene Merle Shoemaker is credited with bringing geologic principles to planetary mapping and creating the branch of planetary science in the early 1960s, the Astrogeology Research Program, within the United States Geological Survey. He made important contributions to the field and the study of impact craters, selenography (study of the Moon), asteroids, and comets.
+Today, many institutions are concerned with the study and communication of planetary sciences and planetary geology. The Visitor Center at Barringer Meteor Crater near Winslow, Arizona includes a museum of planetary geology. The Geological Society of America's Planetary Geology Division has been growing and thriving since May 1981 and has two mottos: "One planet just isn't enough!" and ""The GSA Division with the biggest field area!"
+Major centers for planetary science research include the Lunar and Planetary Institute, Applied Physics Laboratory, Planetary Science Institute, Jet Propulsion Laboratory, Southwest Research Institute, and Johnson Space Center.  Additionally, several universities conduct extensive planetary science research, including Montana State University, Brown University, the University of Arizona, California Institute of Technology, University of Colorado, Western Michigan University, Massachusetts Institute of Technology, and Washington University in St. Louis. Planetary geologists usually study either geology, astronomy, planetary science, geophysics, or one of the earth sciences at the graduate level. 
+
+
+== Tools ==
+Several tools, including common archaeological tools such as hammers, shovels, brushes, etc. are often used by planetary geologists. Along with these common tools, new advanced technologies are used by planetary geologists. Scientists use maps, images, telescopes on Earth, and orbiting telescopes (such as the Hubble Space Telescope). The maps and images are stored in the NASA Planetary Data System where tools such as the Planetary Image Atlas help to search for certain items such as geological features including mountains, ravines, and craters.
+
+
+== Features and terms ==
+
+Planetary geology uses a wide variety of standardized descriptor names for features. All planetary feature names recognized by the International Astronomical Union (IAU) combine one of these names with a possibly unique identifying name. The conventions which decide the more precise name are dependent on which planetary body the feature is on, but the standard descriptors are in general common to all astronomical planetary bodies. Some names have a long history of historical usage, but new must be recognized by the IAU Working Group for Planetary System Nomenclature as features are mapped and described by new planetary missions. This means that in some cases, names may change as new imagery becomes available, or in other cases widely adopted informal names changed in line with the rules. The standard names are chosen to consciously avoid interpreting the underlying cause of the feature, but rather to describe only its appearance.
+
+
+== By planet ==
+
+
+== See also ==
+Astrobiology
+Exoplanet
+Exoplanetology
+Planetary habitability
+
+
+== References ==
+
+
+== Further reading ==
+J. F. Bell III; B. A. Campbell; M. S. Robinson (2004). Remote Sensing for the Earth Sciences: Manual of Remote Sensing (3rd ed.). John Wiley & Sons. Archived from the original on Sep 16, 2016. Retrieved 2006-08-23.
+Roberge, Aki (1998-04-21). "The Planets After Formation". Department of Terrestrial Magnetism. Archived from the original on 2006-08-13. Retrieved 2006-08-23.
+Hauber E et al. (2019) Planetary geologic mapping. In: Hargitai H (ed ) Planetary Cartography and GIS. Springer.
+Hargitai H et al. (2015) Classification and Characterization of Planetary Landforms. In: Hargitai H, Kerszturi Á (eds) Encyclopedia of Planetary Landforms. Springer.
+Rossi, Angelo Pio; Gasselt, Stephan van, eds. (2018). Planetary Geology. Astronomy and Planetary Sciences. Springer International Publishing. ISBN 978-3-319-65177-4.

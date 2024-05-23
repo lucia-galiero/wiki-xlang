@@ -1,0 +1,17 @@
+Die Diagenese (altgriechisch δια  ‚durch‘ und γένεσις  ‚Entstehung‘) ist der geologische Prozess der Verfestigung von Sedimenten und der weiteren Veränderung der dadurch entstandenen Sedimentgesteine unter verhältnismäßig niedrigen Drücken und Temperaturen bis zu ihrer Abtragung. Sie ist damit ein Teil des Kreislaufs der Gesteine.
+
+
+== Ablauf ==
+
+Diagenese im Sinne der Umwandlung eines Lockersedimentes in ein Festgestein umfasst im Wesentlichen zwei Prozesse: Kompaktion und Zementation.
+Frühdiagenetische Prozesse beinhalten ausschließlich Zementation und laufen bereits kurz nach der Ablagerung ab. Bei der Zementation bilden sich im Porenraum des Sedimentes Kristalle durch Abscheidung von Salzen aus dem im Porenraum befindlichen Wasser. Die Kristalle können aus Mineralen bestehen, die im Sediment bereits vorhanden sind, oder aber aus neuen, bislang nicht vorhandenen Mineralen (authigene Minerale). Ein typisches, nicht selten frühdiagenetisch gebildetes Zementmineral ist Calcit. Typische frühdiagenetisch neugebildete Minerale sind Glaukonit und Francolith (ein carbonatreicher Fluorapatit). Meist beginnt die Diagenese jedoch erst nach der Versenkung des Sedimentes in eine gewisse Tiefe. Der zunehmende lithostatische Druck verdichtet und entwässert das Sediment, abhängig vom Material und der Korngröße mehr oder weniger stark. So werden Tonsedimente wesentlich stärker kompaktiert als Sande. Durch den Druck tritt an den Korngrenzen Drucklösung (Riecke’sches Prinzip) auf, durch die zusätzliches Material für die Zementation mobilisiert wird. Nicht selten fällt dieses Material im unmittelbar benachbarten Porenraum sofort wieder aus. Aus lockerem Sand wird so allmählich fester Sandstein, aus Ton wird Tonstein. Damit ist die Diagenesegeschichte eines Gesteins aber noch nicht beendet. Solange sich ein Gesteinskörper außerhalb des Einflusses von Verwitterung und Erosion einerseits und von metamorphen Prozessen (siehe unten) andererseits befindet, können zu beliebigen Zeiten immer wieder diagenetische Prozesse einsetzen und das Gestein verändern (Spätdiagenese).
+Beispiele für spezielle diagenetische Phänomene sind die Bildung von Feuersteinknollen aus gelöster Kieselsäure in bestimmten Kalksteinen oder die Entstehung von Fossilien aus Tier- und Pflanzenresten (Fossilisation, auch Fossildiagenese genannt).
+Diagenese ist nicht auf mineralische Gesteinsbestandteile beschränkt. Auch die Umwandlung von organischer Substanz in Kerogene und die nachfolgende Umwandlung in Erdöl und Erdgas bzw. die Umwandlung von pflanzlicher Substanz in Torf und weiter in Kohle zählen zu den diagenetischen Prozessen, für die auch die mit zunehmender Versenkungstiefe zunehmenden Temperaturen (→ geothermischer Gradient) von Bedeutung sind.
+
+
+== Unterschied zur Metamorphose ==
+Bei der Metamorphose findet zwar ebenfalls eine Gesteinsumwandlung in Abhängigkeit von Druck und Temperatur statt, jedoch läuft sie in deutlich größerer Krustentiefe bei wesentlich höheren Drücken und Temperaturen ab. Dadurch kommt es bei der Metamorphose in der Regel zu bedeutenden Veränderungen des Mineralbestandes und oft auch des Gesteinsgefüges, die bei der Diagenese so nicht stattfinden. Die sogenannte Anchimetamorphose, die bei noch relativ geringen Drücken und Temperaturen abläuft, kann als Übergangsform zwischen Diagenese und „echter“ Metamorphose verstanden werden.
+
+
+== Literatur ==
+Hans Murawski, Wilhelm Meyer: Geologisches Wörterbuch. 10. Auflage. MVS Medizinverlage, Stuttgart 1998, ISBN 3-432-84100-0.

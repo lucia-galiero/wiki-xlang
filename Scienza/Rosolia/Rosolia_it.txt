@@ -1,0 +1,74 @@
+Con il termine rosolia si identifica una malattia infettiva, ad origine virale dovuta al Rubella virus. È esantematica, maculopapulosa, acuta e contagiosa. Insieme al morbillo, la varicella, la pertosse e la parotite, è una delle infezioni più comuni che insorgono in età pediatrica. Può anche colpire donne incinte e, a seconda del mese di gestazione, la permanenza del virus nell'ospite può comportare effetti teratogeni per il feto.
+Al 2019 l'unico ospite conosciuto per il virus Rubella rimane l'uomo.
+Esistono due modalità di contagio: 
+
+Trasmissione orizzontale: il virus può trasmettersi per via aerea, attraverso goccioline di saliva (emesse con starnuti o colpi di tosse); per contatto diretto (mediante interazione con il soggetto malato) o indiretto (tramite contatto con oggetti contaminati);
+Trasmissione verticale o Sindrome da rosolia congenita: dalla donna gravida infetta (non immunizzata) al feto, per mezzo della placenta. La trasmissione verticale non è sempre certa e avviene nel 90% dei casi.
+Negli infanti ha solitamente un decorso benigno; ma quando una donna non immunizzata ne viene contagiata può sviluppare la sindrome da rosolia congenita, che causa l'aborto nel 20% dei casi e può produrre invalidità gravi e permanenti nel bambino.
+L'Organizzazione mondiale della sanità stima in circa 110.000 i bambini che nascono ogni anno con la sindrome da rosolia congenita e devono confrontarsi con le sue conseguenze invalidanti.
+
+
+== Diffusione in Europa ==
+Secondo il rapporto biennale 2017 dell'European Centre for Disease Prevention and Control, su 53 Paesi europei, 33 (tra i quali 19 dell'UE) hanno eliminato la rosolia, mentre in sette Paesi dell'UE risulta ancora endemica: Belgio, Danimarca, Francia, Germania, Polonia e Romania. In Italia è stata debellata nel 2023.
+
+
+== Agente eziologico ==
+L'agente causale come agente eziologico un virus ad RNA del genere "Rubivirus" appartenente alla famiglia dei "Togaviridae" (in realtà dal 2018 è stato riclassificato a Matonaviridae). Il ceppo più diffuso è RA 27/3.
+Da un punto di vista clinico il virus appartiene al complesso TORCH, ovvero un insieme di agenti eziologici bersaglio di screening nelle donne gravide.
+
+
+== Profilo clinico ==
+La patologia, frequente nell'età scolare, ha un periodo di incubazione di 14-21 giorni più spesso 16-18 giorni e può presentare due forme cliniche, una tipica (50% dei casi) caratterizzata da esantema micropapuloso non confluente a rapidissima evoluzione cranio-caudale, da febbre moderata (anche se talvolta anche fino a 39-39,5 °C o più), flogosi e tumefazione dei linfonodi nucali e laterocervicali ed artralgie di breve durata solo negli adulti; in questa forma clinica, la linfoadenite, che può durare fino al 30º giorno, precede sempre la febbre e l'esantema di 3-4 giorni e quest'ultimo non dura per più di 2-5 giorni.
+La viremia compare dopo circa sei giorni dal contagio per scomparire prima che si palesi l'esantema, il virus infatti viene eliminato attraverso il naso-faringe fino a 14 giorni dalla comparsa dell'esantema. La seconda forma clinica è nel 25% dei casi anesantematica con linfoadenite e febbre che però non sempre è presente e nell'altro 25% asintomatica.
+
+
+== Diagnosi ==
+La diagnosi è principalmente clinica. Tuttavia la diagnosi per la rosolia può venir effettuata ricercando anticorpi specifici del virus nel siero.
+La diagnosi differenziale rispetto al morbillo si effettua osservando anche l'eruzione più lieve, e per l'assenza di Macchie di Köplik (benché talvolta si possano formare per indebolimento generale afte in bocca), rinite, fotofobia o tosse. Inoltre, la rosolia si distingue per il decorso più breve, e con durata e rischio di complicazioni minori.
+
+
+== Terapia ==
+Non vi sono terapie specifiche per la rosolia, che solitamente richiede solo cure sintomatologiche.
+In caso di febbre elevata può rendersi necessario l'uso di paracetamolo, mentre l'ibuprofene può essere usato per i dolori articolari. Caso specifico è l'utilizzo di corticosteroidi nel caso si realizzi una porpora piastrinopenica o una nevrassite (complicanze rare).
+Al fine di prevenire le gravi forme di sindrome da rosolia congenita, che può comportare severe invalidità permanenti (sordità, danni visivi, anomalie cardiache) è invece fondamentale il vaccino per tutte le donne che superano la pubertà senza aver contratto la malattia (circa il 15% in Italia). Con l'introduzione del vaccino della rosolia l'incidenza della malattia è scesa del 99% in buona parte dell'Italia; a livello internazionale, la diffusione su larga scala della vaccinazione ha permesso la forte riduzione delle forme di rosolia congenita in molte nazioni.
+Ciò nonostante, nei paesi in cui le coperture vaccinali sono ancora basse (prevalentemente in Africa e nel Sud-Est Asiatico), l'incidenza della rosolia congenita e delle sue complicanze invalidanti è ancora alta, con oltre 110.000 bambini affetti ogni anno.
+
+
+== Rosolia e gravidanza ==
+Il virus responsabile della rosolia appartiene al complesso TORCH, e l'infezione può trasmettersi al feto durante la fase viremica per via trasplacentare; essa può verificarsi in diversi periodi della gravidanza, e la gravità delle conseguenze che la stessa avrà sul feto dipendono proprio da questo.
+
+Fino alla 4ª settimana:
+Non c'è ancora placenta quindi il passaggio del virus all'embrione è abbastanza difficile ma se ciò si verifica probabilmente si andrà incontro all'aborto.
+4ª-5ª settimana
+Si sono formati i vasi sanguigni per cui il contagio comincia a divenire più probabile, se esso si verifica si può avere aborto o gravi displasie.
+5ª-16ª settimana
+Le cellule si trovano in uno stato di attiva replicazione e quindi recettive per la replicazione virale, in questo stadio si verificano: inibizione o rallentamento della mitosi e necrosi cellulare, tutto ciò causerà gravi embriopatie malformative che vengono raggruppate sotto il nome di Triade di Gregg: cataratta, malformazioni cardiache e sordità per malformazione dell'organo del Corti.
+Dalla 17ª settimana
+Si ha infezione senza malformazioni; si possono avere:
+Rubeola espansa: poliviscerite con epatosplenomegalia, trombocitopenia, polmonite interstiziale, flogosi diffusa.
+Rubeola in utero: neonato sano ma con le IgM.
+Rubeola con interessamento di un solo organo.
+Si può verificare che il feto non riesca ad eliminare il virus contratto durante il periodo embrionale. In questo caso il neonato presenterà oltre alle malformazioni anche i segni dell'infezione fetale (epatosplenomegalia, ittero, IgM e IgG, piastrinopenia), ed inoltre continuerà ad eliminare il virus con le urine per ancora 18 mesi.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Varicella
+Morbillo
+Scarlattina
+Macchie di Köplik
+Sindrome da rosolia congenita
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni di o su rosolia
+ Wikizionario contiene il lemma di dizionario «rosolia»
+ Wikimedia Commons contiene immagini o altri file su rosolia
+
+
+== Collegamenti esterni ==
+
+(EN) rubella, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

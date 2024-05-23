@@ -1,0 +1,44 @@
+L’anatexie (terme inventé en 1907 par le pétrologue finlandais Jakob Sederholm, du grec άνατήξις, anatêksis, « fusion ») est la fusion partielle des roches dans la croûte terrestre. L’anatexite est la roche issue de ce processus.
+
+
+== Processus ==
+Les roches métamorphiques peuvent être enfouies à des conditions de température et de pression suffisantes pour déclencher la fusion d'une partie des minéraux constituants, ce qui engendre des bains silicatés appelés magmas secondaires ou anatectiques.
+La roche partiellement fondue se transforme en anatexite ou en migmatite. 
+Si la fusion est plus importante, les produits de la fusion partielle peuvent se rassembler pour former un magma et, si celui-ci est de nature acide (forte concentration en élément Si, par exemple si la roche partiellement fondue est un sédiment pélitique), on obtiendra un granite d'anatexie après refroidissement. « La formation des granites d'anatexie est illustrée sur le terrain par les dômes migmatitiques, où l'on observe le passage continu pélites – schistes – micaschistes – gneiss – migmatites – granites anatectiques : elle résulte donc de transformations métamorphiques par élévation de T et/ou de P, suivie d'une déstabilisation successive de la muscovite puis de la biotite accompagnée d'une fusion incongruente ».
+Le début de la fusion dépend de nombreux facteurs, en particulier de la chimie des roches, de la pression totale et de la concentration en eau (baisse du point de fusion si les roches sont hydratées).
+L'ordre de fusion des roches est, en principe, l'inverse de l'ordre de la cristallisation fractionnée et des suites réactionnelles. 
+La destinée du liquide formé peut être diverse :
+
+il reste avec les résidus solides (non fondus) : il y a formation de migmatites ou anatexites ;
+il peut, dans certains cas, se séparer du résidu non fondu, mais il faut une grande quantité relative de magma (1/3) ;
+il se sépare complètement des résidus et migre vers la surface, s'injecte en « diapirs » dans les roches encaissantes plus denses.
+
+
+== Anatexites ==
+L'anatexite est constituée de deux parties :
+
+le paléosome : partie ancienne non affectée par l'anatexie (généralement du matériau gneissique).
+le néosome : partie nouvelle partiellement ou totalement affectée par la fusion, divisée en
+leucosome : région de gros grains clairs (quartz, feldspath) issus du liquide recristallisé
+mélanosome : région de petits grains sombres de minéraux réfractaires (biotite, cordiérite, sillimanite) qui n'ont pas fondu, le mélanosome ayant peu conservé la structure métamorphique de la roche initiale, contrairement au paléosome.
+Le mésosome désigne une région d'une anatexite de couleur intermédiaire entre le leucosome et le mélanosome.
+La métatexite est une anatexite comportant paléosome et néosome. Stade initial de l'anatexie, néosome et paléosome s'agencent parallèlement à la foliation, comme dans le gneiss rubané. La diatexite, parfois appelée migmatite stricto sensu, est une anatexite dans laquelle ne subsiste que le néosome (les rares enclaves de paléosome sont appelées restites), néosome dont la texture peut disparaître dans le stade ultime de l'anatexie qui donne une diatexite nébulitique avant la fusion totale en granite d'anatexie (granite encore associé aux migmatites).
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+Ch. Pomerol, M. Renard et Y. Lagabrielle, Éléments de géologie, 13e éd., Dunod, Paris, 2006  (ISBN 2-10-048658-6)
+A. Foucault et J.-F. Raoult, Dictionnaire de géologie, 5e éd., Dunod, Paris, 2001  (ISBN 2-10-005836-3)
+
+
+=== Articles connexes ===
+Glossaire de géologie
+Granite
+Métamorphisme
+Migmatite
+ Portail de la géologie   Portail des minéraux et roches

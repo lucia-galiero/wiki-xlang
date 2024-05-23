@@ -1,0 +1,38 @@
+Das zentrale Nervensystem (ZNS) ist ein Teilsystem des Nervensystems aller Bilateria, das bei Wirbeltieren hauptsächlich aus Gehirn und Rückenmark besteht, die sich aus Nervengewebe zusammensetzen. Seine Funktion besteht darin, Informationen zu verarbeiten, was Sensorik (Wahrnehmung), Verarbeitung (Interpretation und Auswertung) und Motorik (Bewegungen) einschließt. Darüber hinaus steuert es viele körperliche Prozesse, darunter lebenswichtige Funktionen wie die Spontanatmung und die Thermoregulation. Zwischen den Nervenzellen werden die Informationen chemisch codiert und über Neurotransmitter im synaptischen Spalt weitergegeben. Die Abgrenzung zum peripheren Nervensystem wird allein nach der Lage getroffen, funktionell sind beide Anteile des Nervensystems eng miteinander verflochten.
+
+
+== Funktionen ==
+Das ZNS erfüllt in einem komplexeren Lebewesen verschiedene Aufgaben:
+
+Integration aller Reize, die ihm von innerhalb oder außerhalb des Organismus zugeleitet werden,
+Koordination sämtlicher motorischer Eigenleistungen des Gesamtorganismus,
+Regulation dabei ablaufender Abstimmungsvorgänge zwischen den organismischen Subsystemen oder Organen, einschließlich solcher humoraler und insbesondere hormoneller Art.
+Um 1905 begann Walter Spielmeyer seine bahnbrechenden Arbeiten zur pathologischen Histologie (Gewebelehre) des Zentralnervensystems. Die Färbemethoden von Camillo Golgi hatten bereits seit 1885 neue Wege bei der Erforschung des zentralen Nervensystems eröffnet. Ebenfalls bahnbrechende Studien über das Zentralnervensystem führte Santiago Ramón y Cajal (1852–1934) durch, woraufhin Waldeyer 1891 die Neuronentheorie formulierte.
+
+Alle komplexeren, sich als Ganzes bewegenden Lebewesen benötigen ein System mit den obengenannten Funktionen. Es als Steuerungssystem anzusehen, liegt nahe, ist aber nicht korrekt. Im eigentlichen Sinn steuert das ZNS nicht. Es trägt infolge seiner zentralen Stellung neben der innerorganismischen Selbstregulation automatisch auch zur Aufrechterhaltung der Funktionalität des Gesamtorganismus in Relation zu organismisch relevanten Bedingungen in seiner Umgebung oder Umwelt bei.
+Das ZNS „vermittelt“ dabei stets nach zwei Seiten: Als zentrales Integrations-, Koordinations- und Regulationsorgan dient es nicht nur zur Verarbeitung von Reizen, die über die vom jeweiligen Organismus ausgebildeten Sinnesorgane von außerhalb des Organismus ins ZNS gelangen, sondern auch von jenen, die im Organismus selbst produziert werden. Tiere werden daher nicht nur von Umweltbedingungen zu Reaktionen angeregt. Sie werden auch von sich aus aktiv. Dies kann sogar während des Ruhens oder Schlafens vorkommen und zwar dann, wenn eigenproduzierte Reize größere Intensität erreichen; beim Menschen ist dies etwa bei intensiveren Träumen der Fall. Diese gehen teilweise mit starker Beeinflussung der auch im Schlaf unablässig regulierten autonom-vegetativen Bereiche des Organismus einher wie etwa Herzschlag oder Schweißbildung, Harndrang oder Darmaktivität, so dass stärkere (Mit)Reaktionen dieser Art ihrerseits als Weckreize wirken und einen Schläfer „aufgeregt“ erwachen lassen können.
+
+
+== ZNS der Wirbeltiere ==
+
+Beim Menschen und den übrigen Wirbeltieren fasst man Gehirn und Rückenmark zusammen unter dem Begriff Zentralnervensystem und grenzt es so gegen das periphere Nervensystem ab, das zum Teil aus den Zellfortsätzen von Nervenzellen besteht, deren Zellkörper im ZNS liegt. Als Grenzen des ZNS können die Hirnhäute angesehen werden. Nach einer anderen Definition liegt die Grenze des ZNS dort, wo die Nervenfaserumhüllung von der für das ZNS typischen, von Oligodendrozyten gebildeten Form in eine für das periphere Nervensystem typische Umhüllung durch Schwann-Zellen übergeht. Hinsichtlich der Richtung des Informationsflusses im Nervensystem wird zwischen den (zentripetal) zuleitenden Nervenfasern als Afferenzen (Signaleingang) und den (zentrifugal) wegleitenden Nervenfasern als Efferenzen (Signalausgang) unterschieden. Dabei unterscheidet man nach funktionellen Gesichtspunkten zwischen den sensiblen und den motorischen Anteilen einerseits des somatischen Nervensystems und andererseits des vegetativen Nervensystems.
+Im ZNS werden graue Substanz (Substantia grisea) und weiße Substanz (Substantia alba) unterschieden. Die graue Substanz liegt im Rückenmark innen, umgeben von der weißen Substanz außen. Im Gehirn sind die Verhältnisse dagegen komplexer, in der Hirnrinde (Cortex) findet sich graue Substanz auch außen, sowohl im Großhirn (Cortex cerebri) wie auch im Kleinhirn (Cortex cerebelli). Beide Anteile lassen sich an einem Schnitt bereits mit bloßem Auge anhand der namensgebenden Farbe erkennen. Die graue Substanz besteht vorwiegend aus Nervenzellkörpern, die weiße aus deren Fortsätzen (Axone), also den Leitungsbahnen. Allerdings sind in die weiße Substanz ebenfalls Ansammlungen von Nervenzellkörpern eingestreut, die Nuclei („Kerne“ oder „Kerngebiete“).
+
+
+== ZNS anderer Tiere ==
+Die dorsalen, zentralnervösen Strukturen der Wirbeltiere könnten den ventralen Strukturen der Strickleiternervensysteme von Insekten homolog sein. Eine derartige Hypothese wurde schon 1875 von Felix Anton Dohrn formuliert, der vermutete, dass beide sich auf das Nervengeflecht eines ringelwurmartigen Vorfahren zurückführen lassen.
+
+
+== Erkrankungen ==
+Erkrankungen des Zentralnervensystems wie etwa Infektionen (z. B. Meningitis, Empyem, Abszess, Enzephalitis, Poliomyelitis, Tollwut, Botulismus, Tetanus und Listeriose) zählen zu den neurologischen Erkrankungen. Zudem existieren im Zusammenhang mit dem Blutkreislauf stehende Erkrankungen wie Schädigungen durch Arteriosklerose, Schlaganfall, Blutungen (Gehirnblutung, Epiduralblutung, Subduralblutung, Subarachnoidalblutung), Aneurysmen der Gehirnarterien, Sinusthrombosen und Venenthrombosen. Traumatisch bedingte ZNS-Verletzungen sind neben Blutungen die Gehirnerschütterung (Commotio cerebri) bzw. Gehirnprellung (Contusio cerebri) sowie im Bereich des Rückenmarks die Commotio und Contusio spinalis. Weitere Schädigungen des Zentralnervensystems sind Missbildungen des Gehirns (wie Anenzephalie, Arrhinenzephalie, Mikrozephalie und Enzephalozele) und des Rückenmarks (wie Meningozele und Myelozele).
+
+
+== Siehe auch ==
+Peripheres Nervensystem
+Neurologie
+
+
+== Weblinks ==
+
+
+== Anmerkungen ==

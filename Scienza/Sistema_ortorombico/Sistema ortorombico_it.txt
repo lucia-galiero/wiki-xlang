@@ -1,0 +1,74 @@
+In cristallografia, il sistema ortorombico è uno dei sette sistemi cristallini. Comprende tutti i gruppi puntuali con tre duplici assi di rotazione o di rotazione inversa reciprocamente ortogonali. Esso si ottiene allungando un reticolo cubico lungo due delle sue coppie di vettori ortogonali di due fattori diversi, producendo come risultato un prisma con base (a per b) e altezza (c) ortogonali, così che a, b e c sono distinti. Tutte e tre le basi si intersecano con angoli di 90°. I tre vettori del reticolo rimangono reciprocamente. Il sistema cristallino ortorombico è chiamato anche sistema cristallino rombico. Il concetto di rombico non deve però essere confuso con quello di "romboedrico". 
+
+
+== Gruppi puntuali ==
+Il sistema cristallino ortorombico comprende i gruppi puntuali 222, mm2 e mmm. Essi formano la famiglia cristallina ortorombica e possono essere descritti con il sistema reticolare ortorombico.
+
+
+== Sistemi reticolari ==
+Il sistema reticolare ortorombico ha l'oloedria mmm.
+Nel sistema reticolare ortorombico gli assi reticolari giacciono in direzione dei 3 assi di simmetria reciprocamente ortogonali. Per la lunghezza degli assi reticolari non si pongono ulteriori condizioni. Così risulta:
+
+  
+    
+      
+        a
+        ≠
+        b
+        ≠
+        c
+      
+    
+    {\displaystyle a\neq b\neq c}
+  
+
+  
+    
+      
+        α
+        =
+        β
+        =
+        γ
+        =
+        
+          90
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle \alpha =\beta =\gamma =90^{\circ }}
+  
+
+Per la fissazione di quale sia l'asse a, b o c, la sola condizione è quella di determinare un sistema di riferimento destrorso. Nella regola gli assi sono scelti in modo che il sistema Hermann-Mauguin corrisponda allo standard delle International Tables for Crystallography. Con i simboli di Hermann-Mauguin i gruppi spaziali si possono però descrivere rispetto a ogni scelta degli assi. Poiché questo capita molto frequentemente, nelle International Tables c'è una panoramica tabellare su tutte le possibilità di descrivere un gruppo spaziale con una qualsiasi scelta degli assi. In linea di massima conviene perciò utilizzare nell'indicazione del gruppo spaziale i numeri del gruppo stesso, perché in tal modo è più facile da trovare.
+
+
+== Reticoli di Bravais ==
+Ci sono quattro reticoli di Bravais ortorombici: ortorombico semplice (o primitivo), ortorombico a base centrata, ortorombico a corpo centrato e ortorombico a facce centrate.
+
+Nella disposizione standard il reticolo centrato in b non compare, mentre quello con centro in a figura solo nel gruppo puntuale mm2. Questo è dovuto al fatto che in questo gruppo puntuale il sistema reticolare fondamentalmente è disposto in modo che il doppio asse si trovi in direzione dell'asse reticolare c. Di conseguenza non in tutti i casi si riesce a porre gli assi reticolari in modo da utilizzare esclusivamente il reticolo centrato in c. Il sistema reticolare ortorombico è abbreviato in o.
+
+
+== Classi cristallografiche ==
+I nomi delle classi, gli esempi, la notazione Schönflies, la notazione notazione Hermann-Mauguin, i gruppi puntuali, il numero dei gruppi spaziali delle International Tables for Crystallography , l'orbifold, il tipo e i gruppi spaziali del sistema reticolare ortorombico sono elencati nella tabella sottostante.
+
+
+== Note ==
+
+
+== Bibliografia ==
+(EN) Hurlbut, Cornelius S. e Klein, Cornelis, Manual of Mineralogy, 20ª ed., J. Wiley, 1985,  pp. 69–73, ISBN 0-471-80580-7.
+(DE) D. Schwarzenbach, Kristallographie, Berlino, Springer Verlag, 2001, ISBN 3-540-67114-5.
+(DE) Will Kleber, et al., Einführung in die Kristallographie, 19ª ed., Monaco, Oldenbourg Wissenschaftsverlag, 2010, ISBN 978-3-486-59075-3.
+(DE) Walter Borchard-Ott, Kristallographie, 7ª ed., Berlino, Springer Verlag, 2009, ISBN 978-3-540-78270-4.
+
+
+== Voci correlate ==
+Sistema cristallino
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su sistema ortorombico

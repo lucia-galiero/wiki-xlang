@@ -1,0 +1,29 @@
+Die Hydrogeologie (von griechisch ὕδωρ hýdōr ‚Wasser‘ und γῆ gē̂ ‚Erde‘ sowie λόγος lógos ‚Lehre‘) ist die Wissenschaft vom Wasser in der Erdkruste und dessen Wechselwirkungen mit oberirdischen Bedingungen. Als eine angewandte Disziplin der Geologie sind ihre Forschungsgegenstände das Grundwasser und alle Faktoren, die es beeinflussen. Die angrenzende Disziplin der Hydrologie befasst sich mit dem oberirdischen Wasser und dem Wasserkreislauf.
+Zur Hydrogeologie gehören die Forschungsbereiche
+
+der Geohydraulik, die Bewegungen des Grundwassers erforscht, und
+der Hydrochemie als Hydrogeochemie, deren Gegenstand die chemische Zusammensetzung des Grundwassers ist.
+Zu den wesentlichen Aufgaben der Hydrogeologie zählen:
+
+Erkundung von potentiellen Grundwasservorräten
+Absicherung von Grundwasservorräten in qualitativer und quantitativer Hinsicht
+Ermittlung der Grundwasserneubildung
+Grundwassermanagement z. B. durch Ausweisung und Überwachung von Trinkwasserschutzgebieten
+Sanierung von kontaminiertem Grundwasser
+Modellierung von Grundwasserströmung und Transport im Grundwasser
+Hydrogeologische Beratung bei Bauvorhaben (Bemessung von Grundwasserhaltungen)
+Grundlage der Hydrogeologie ist die Kenntnis des Aufbaus des Untergrundes. Basis dafür sind geologische Karten, Ergebnisse von Bohrungen und dreidimensionale Modelle des geologischen Untergrundes. Werkzeuge und Methoden zur Erkundung und Überwachung (Monitoring) des Grundwassers sind Fernerkundung (remote sensing), geophysikalische Methoden, Bohrungen, Grundwassermessstellen, Pumpversuche, Laborversuche und die wasserchemische Analytik.
+Im Zentrum des hydrogeologischen Interesses steht der Durchlässigkeitsbeiwert (K- oder kf-Wert), der 1856 von Henry Darcy durch empirische Untersuchungen eingeführt wurde. Der kf-Wert dient zur quantitativen Einstufung der Wasserdurchlässigkeit eines Gesteins. Aus dem kf-Wert lassen sich unter Zuhilfenahme anderer Größen weitere hydrogeologisch wichtige Parameter ableiten: die Transmissivität (Profildurchlässigkeit), die Abstandsgeschwindigkeit und transportierte Wassermengen. Zur Bestimmung der Wasserdurchlässigkeit stehen diverse Methoden zur Verfügung: Auswertung von Kornverteilungskurven, Laborversuchen, Pumpversuchen, Tracerversuchen und numerische Modelle.
+Die Relevanz von hydrogeologischen Modellen ist in den letzten Jahren enorm gestiegen. Mittels numerischer Grundwassermodelle lassen sich z. B. hydraulische Maßnahmen oder die Auswirkungen von Gewässerverschmutzungen vorab berechnen.
+
+
+== Literatur ==
+Bernward Hölting, Wilhelm G. Coldewey: Hydrogeologie – Einführung in die Allgemeine und Angewandte Hydrogeologie. 7. Auflage. 383 Seiten, 120 2-farb. Abb., 90 Tab. Spektrum Akademischer Verlag 2009, ISBN 3-8274-1713-9
+Ad-hoc-Arbeitsgruppe Hydrogeologie: Regionale Hydrogeologie von Deutschland. Schweizerbart, Stuttgart, 2015. 452 Seiten, 264 Abbildungen, ISBN 978-3-510-96852-7
+Hanspeter Jordan, Hans-Jörg Weder: Hydrogeologie. Grundlagen und Methoden, regionale Hydrogeologie: Mecklenburg-Vorpommern, Brandenburg und Berlin, Sachsen-Anhalt, Sachsen, Thüringen 2., stark überarb. und erw. Aufl. Stuttgart: Enke, 1995. XV, 603 S., graph. Darst.+ Kt.-Beil.; ISBN 3-432-26882-3
+Horst-Robert Langguth, Rudolf Voigt: Hydrogeologische Methoden – 2., überarb. u. erw. Aufl., 1005 Seiten, 304 Abb., Springer, Berlin 2004, ISBN 3-540-21126-8 (online)
+
+
+== Weblinks ==
+Hydrogeologisches Geländepraktikum der TU Bergakademie Freiberg
+GEO-LEO – Virtuelle Fachbibliothek Geowissenschaften, Geographie, Bergbau, Thematische Karten

@@ -1,0 +1,70 @@
+Les ganglions lymphatiques (dits « lymphonœuds » ou encore « nœuds lymphatiques » dans la nomenclature internationale, traduction du latin nodi lymphatici) sont des petits amas réniformes dont la taille varie de l'un à l'autre. On en dénombre chez l'humain environ 800, pour une masse totale de 500 à 800 g.
+Ils sont le lieu de prolifération et de différenciation des cellules immunitaires. Le premier rôle des vaisseaux lymphatiques est d’amener un antigène (dans la grande majorité des cas issu d’un pathogène) du tissu jusqu’aux ganglions, afin d’activer la réponse immunitaire spécifique des lymphocytes T et B.
+
+
+== Localisation ==
+Les ganglions lymphatiques sont situés le long du réseau lymphatique, regroupés en certains points « stratégiques » :
+
+les réseaux profonds : au niveau de l’abdomen, du thorax, du cou, etc. ;
+les réseaux superficiels : aux niveaux inguinal, axillaire, occipital, cervical, etc.Les ganglions font partie du tissu lymphoïde ; tissu important, structuré en réseau complexe et d'apparence morcelé en ce qui concerne les ganglions.
+
+
+== Description ==
+Chacun des ganglions mesure normalement moins d’un centimètre chez l’humain, sauf en cas d’adénopathie.
+Les ganglions ont une structure plus ou moins globuleuse, et ils se décomposent en plusieurs zones (de la périphérie vers le centre) :
+
+le sinus capsulaire, qui permet l’arrivée des antigènes par les vaisseaux lymphatiques et sanguins afférents ;
+le cortex du ganglion, lieu de prolifération et de différenciation des lymphocytes B (qui y sont regroupées en amas nommés follicules, responsables du grossissement des ganglions en cas de stimulation antigénique) ;
+le paracortex, qui abrite les lymphocytes T et les cellules dendritiques ;
+le hile, au niveau duquel il y a autant de lymphocytes B que de lymphocytes T, et par lequel sort le vaisseau lymphatique efférent.Globalement, un ganglion lymphatique se divise en trois compartiments fonctionnels :
+
+un compartiment sinusal (ce sont les espaces de circulation propre à la lymphe) ;
+un compartiment sanguin (qui permet de déplacer rapidement un maximum de cellules lymphoïdes de ganglion à ganglion ou de ganglion vers les tissus) ;
+un compartiment parenchymateux (constitué de l’ensemble des cellules lymphoïdes).
+
+
+== Fonctions ==
+Les ganglions lymphatiques ont pour fonction la production des acteurs du système immunitaire : production d’anticorps, de cellules effectrices (douées de phagocytose) et de cellules mémoires.
+
+
+== Pathologies ==
+Les lymphonœuds (ganglions lymphatiques) prennent le nom d'adénome s'ils sont hypertrophiques (palpables, de taille supra-centimétrique) et on parle d'adénopathie pour décrire une augmentation de taille pathologique.
+Les principales maladies pouvant être diagnostiquées via la présence d'adénopathies (par ordre de fréquence) :
+
+maladies infectieuses avec présence d'adénome au niveau des lymphocentres (lieux regroupant plusieurs lymphonoeuds) drainant le système lymphatique de l'organe infecté (exemple maladie des griffes du chat). Parfois, le pathogène n'est pas détruit par le système immunitaire et le lymphonœud devient centre d'hébergement du pathogène (bactérie, virus, parasite…) comme dans le cas du trypanosome (maladie du sommeil, trypanosomiase, parasitose à trypanosome) qui va rester un certain temps dans les lymphonœuds, avant d’attaquer le cerveau ;
+siège de métastases dans la grande majorité des cancers ;
+cancers du système lymphatique (lymphome) qui se manifestent par la présence d’une polyadénopathie disséminée avec des lymphonœuds, indurés, fixes, et hypertrophiques (> 1 cm) ou autres hémopathies ;
+allergie sévère ;
+maladie systémique.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+(en) Adair TH, Moffatt DS, Paulsen AW et Guyton AC. « Quantitation of changes in lymph protein concentration during lymph node transit » Am J Physiol. 1982;243: H351: H359.
+(en) Adair TH and Guyton AC.« Modification of lymph by lymph nodes. II. Effect of increased lymph node venous blood pressure » Am J Physiol. 1983;245: H616-H622. (Résumé, en anglais)
+(en) Adair TH et Guyton AC. « Modification of lymph by lymph nodes. III. Effect of increased lymph hydrostatic pressure » Am J Physiol. 1985;249: H777-H782. (Résumé, en anglais)
+(en) Angeli V, Ginhoux F, Llodra J, Quemeneur L, Frenette PS, Skobe M, Jessberger R, Merad M, and Randolph GJ. « B cell-driven lymphangiogenesis in inflamed lymph nodes enhances dendritic cell mobilization » Immunity 2006;24:203–215. DOI 10.1016/j.immuni.2006.01.003 (Résumé, en anglais)
+(en) Dadras SS, Lange-Asschenfeldt B, Velasco P, Nguyen L, Vora A, Muzikansky A, Jahnke K, Hauschild A, Hirakawa S, Mihm MC et Detmar M. « Tumor lymphangiogenesis predicts melanoma metastasis to sentinel lymph nodes » Mod Pathol. 2005;18: 1232–1242. DOI 10.1038/modpathol.3800410 (Résumé, en anglais)
+(en) Randolph GJ, Angeli V et Swartz MA. « Dendritic-cell trafficking to lymph nodes through lymphatic vessels » Nat Rev Immunol. 2005;5: 617–628. DOI 10.1038/nri1670 (Résumé, en anglais)
+(en) Tomei AA, Siegert S, Britschgi MR, Luther SA, and Swartz MA. « Fluid Flow Regulates Stromal Cell Organization and CCL21 Expression in a Tissue-Engineered Lymph Node Microenvironment » J Immunol. 2009;183:4273–4283. DOI 10.4049/jimmunol.0900835 (Résumé, en anglais)
+
+
+=== Articles connexes ===
+Veinule à endothélium épais
+Immunité humaine
+Adénopathie
+Adénolymphite
+Ganglion sentinelle
+
+
+=== Liens externes ===
+
+Ressources relatives à la santé : Medical Subject Headings NCI Thesaurus Store medisinske leksikon FMA TA98 TA2 Uberon WikiSkripta  
+
+sample records for the topic abnormal lymph nodes, avec le moteur de recherche de Science.gov. (US Federal science)
+ Portail de l’anatomie   Portail de la médecine   Portail de la physiologie

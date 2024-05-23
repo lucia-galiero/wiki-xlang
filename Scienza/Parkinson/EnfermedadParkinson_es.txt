@@ -1,0 +1,233 @@
+La enfermedad de Parkinson (EP), también denominada mal de Parkinson, parkinsonismo idiopático, parálisis agitante o simplemente párkinson,[7]​ es una enfermedad neurodegenerativa crónica caracterizada por bradicinesia (movimiento lento), rigidez (aumento del tono muscular), temblor y pérdida del control postural. Esta enfermedad se debe a un déficit en la secreción de dopamina, hormona liberada por las terminaciones nerviosas de la sustancia negra.[8]​[9]​[10]​
+La enfermedad de Parkinson se clasifica con frecuencia como un trastorno del movimiento; sin embargo, también desencadena alteraciones en la función cognitiva, depresión,[11]​ dolor y alteraciones en la función del sistema nervioso autónomo.[9]​[10]​
+Esta enfermedad representa el segundo trastorno neurodegenerativo por su frecuencia, situándose por detrás de la enfermedad de Alzheimer. Está extendida por todo el mundo y afecta tanto al sexo masculino como al femenino, afectando entre un 1 % a un 2 % de la población sobre 60 años o de un 0,5 % a un 5 % de la población mayor de 65 años. La enfermedad puede presentarse desde los 40 años y su incidencia va aumentado con la edad, especialmente en los varones.[12]​[13]​[14]​
+La enfermedad de Parkinson aumenta su gravedad con el tiempo, como consecuencia de la destrucción progresiva, por causas que todavía se desconocen, de las neuronas pigmentadas de la sustancia negra.
+En 1997 la Organización Mundial de la Salud estableció que el 11 de abril se celebraría el Día mundial del párkinson, con el objetivo de acrecentar la concienciación de las necesidades de las personas aquejadas de esta dolencia. Se estableció esta fecha pues corresponde al nacimiento de James Parkinson, el médico británico que describió por primera vez la «parálisis agitante», término que él mismo acuñó.[15]​
+
+
+== Clasificación ==
+La enfermedad de Parkinson se clasifica en estadios clínicos según el grado de afectación al paciente.
+Pero siempre hay que tener en cuenta que cada persona le afecta diferente:
+Hay varias escalas de evaluación que se pueden utilizar como herramientas para determinar la progresión de la enfermedad. Los criterios para evaluar la enfermedad de Parkinson se centran en la gravedad de las alteraciones motoras y en el grado de deterioro en las actividades diarias de una persona.
+Las escalas de evaluación de uso general, como la de Hoehn y Yahr,[16]​ se centran en las alteraciones motoras. Estas alteraciones se evalúan según su gravedad en una escala del 1 a 5. En esta escala, dependiendo de las dificultades de una persona para realizar sus actividades, se asigna un puntaje de 1 y 2 (leve a moderado) en la etapa temprana del cuadro, puntaje de 2 y 3 (moderado a severo) en la etapa media y un puntaje de 4 y 5 (severo a invalidante) en la etapa más avanzada de la enfermedad.
+La Escala de evaluación de la enfermedad de Parkinson (UPDRS) es más completa que la escala de Hoehn y de Yahr. Toma en cuenta la alteración para la realización de las actividades diarias, el comportamiento, el humor, las complicaciones cognoscitivos y los efectos del tratamiento respecto de las alteraciones motoras.[17]​
+
+
+== Historia ==
+En 1817, James Parkinson, médico inglés, describió un síndrome que denominó Parálisis Agitans, el cual fue posteriormente denominado como enfermedad de Parkinson por Jean-Martin Charcot en 1861.[18]​[19]​
+
+
+== Epidemiología ==
+
+Globalmente, la incidencia anual de la enfermedad de Parkinson es de dieciocho nuevos casos por cada cien mil habitantes, pero la alta esperanza de vida que suelen presentar los pacientes hace que la prevalencia de la enfermedad en la población sea cuantitativamente mayor que la incidencia, registrándose unos ciento sesenta y cuatro casos por cada cien mil habitantes. Según los estudios auspiciados por el grupo de estudio del Europarkinson, la prevalencia de la enfermedad de Parkinson en el continente europeo es de 1,43 % en las personas que superan los sesenta años de edad, aunque se han hecho estimaciones en estados como España o Reino Unido, que exponen que cerca de ciento veinte mil habitantes se ven afectados por esta enfermedad en sendos países. En América del Norte la cifra se dispara hasta el millón de pacientes aquejados de esta enfermedad, estando afectada un 1 % de la población que supera los 65 años.
+Sin embargo, esta incidencia va aumentando con el tiempo ya que se estima que en el año 2040 el número de personas que sufren Parkinson se habrá doblado, llegando hasta los aproximadamente 14 millones de pacientes. Es por esto por lo que se habla de la Pandemia del Parkinson.[21]​
+En edades tempranas, concretamente antes de los cuarenta años, la enfermedad de Parkinson es excepcional y su prevalencia es menor del 1/100 000. La incidencia de esta enfermedad empieza a aumentar a partir de los cincuenta años y no se estabiliza hasta los ochenta, si bien este hecho puede ser resultado de un sesgo de selección.
+Varios estudios han puesto al descubierto una prevalencia acentuada de la enfermedad de Parkinson en el medio rural, especialmente entre los varones. Esto puede deberse a que la vida en el campo incluye en algunas ocasiones, diferentes exposiciones ambientales de riesgo, como contaminación en el agua de los pozos por el uso de pesticidas e insecticidas.[20]​
+
+
+=== Mortalidad ===
+Los estudios sobre la mortalidad en la enfermedad de Parkinson se encuentran limitados por la escasez de precisión de los certificados de defunción, así como por la confusión diagnóstica entre el párkinson idiopático y otros tipos de trastornos neurodegenerativos. Con todo ello, puede establecerse que las tasas de mortalidad son bajas para cualquier estrato de edad y que la edad de la muerte de los pacientes ha ido desplazándose hasta edades más avanzadas, por un progresivo aumento de la esperanza de vida. Además, todo parece indicar que el tratamiento con levodopa reduce el riesgo de muerte de los pacientes, especialmente durante los primeros años de la enfermedad. De hecho, y en efecto la mortalidad estandarizada de la enfermedad de Parkinson se situaba en 2,9 antes de haberse producido la introducción de la levodopa, pues tras la aparición del fármaco la cifra experimentó un colosal descenso que la dejó en 1,3, proporcionándole a los pacientes una esperanza de vida que rozaba la normalidad. Sin embargo, una revisión sistemática del efecto de levodopa en el cambio de la esperanza de vida demostró que la mejora que se había producido a consecuencia del tratamiento farmacológico era menor, con una estimación de la mortalidad estandarizada de 2,1.[Nota 1]​
+Cuando se sobreviene la muerte en los pacientes aquejados de enfermedad de Parkinson, esta suele ser debida a una infección intercurrente, generalmente torácica, o a un traumatismo producido en alguna de las caídas ocasionadas por la inestabilidad postural. Cabe destacar, que los pacientes con enfermedad de Parkinson tienen una menor probabilidad de fallecer a consecuencia de cáncer o de enfermedades cardiovasculares que la población general. [cita requerida]
+
+
+== Etiología ==
+Actualmente se desconoce la causa exacta de la enfermedad de Parkinson, pero todo parece indicar que se trata de una combinación de ciertos factores ambientales, genéticos, el daño oxidativo[22]​ y el proceso normal de envejecimiento,[23]​ con un probable papel fundamental de la conexión intestino-cerebro.[24]​[25]​[26]​ 
+Aunque los estudios epidemiológicos muestran que uno de los factores de riesgo de mayor preponderancia son los antecedentes familiares, las teorías etiológicas tóxico-ambientales han ido tomando cada vez mayor importancia en desmedro de las teorías genéticas.[27]​
+Evidencias actuales apoyan la hipótesis de que la enfermedad de Parkinson comienza en el intestino y se propaga a través de los sistemas nerviosos simpático y parasimpático hasta la sustancia negra y el sistema nervioso central.[24]​
+Estudios realizados hasta la fecha han encontrado un riesgo superior de desarrollar la enfermedad de Parkinson entre el personal expuesto profesionalmente a ciertos plaguicidas, fundamentalmente insecticidas y herbicidas. Otros factores se han relacionado con un mayor riesgo de desarrollar la enfermedad de Parkinson, tales como el consumo de agua de pozos contaminados por pesticidas debido a la agricultura y la vida rural, si bien no se ha podido determinar si guardan relación con la exposición a los plaguicidas o si se trata de factores de riesgo independientes.[28]​
+
+
+=== Neurodegeneración ===
+Durante la maduración se produce un proceso que implica la degeneración progresiva y/o la muerte de las neuronas. Este proceso, que puede ser normal y natural durante el envejecimiento normal, involucra a las células fundamentales del tejido nervioso y a sus componentes internos, que son los que impiden efectividad en la conducción de información en el cerebro humano, con la consecuente disminución de las funciones cognitivas. Así, durante el envejecimiento normal se limitan funciones cerebrales en la zona afectada, pero también pueden aparecer distintas patologías neurológicas en el ser humano, llamadas enfermedades neurodegenerativas.[29]​[30]​[31]​ Cuando se  pierden neuronas en el cerebro, en el tronco del encéfalo, que es la unión entre el cerebro y la médula espinal, se produce la enfermedad de Parkinson, causada por la neurodegeneración de las neuronas cruciales para la coordinación del movimiento.[32]​ Esa neurodegeneración progresiva es la que va produciendo los síntomas motores característicos del Parkinson.[33]​[34]​
+
+
+== Patogenia ==
+La enfermedad de Parkinson se caracteriza por la pérdida o degeneración de las neuronas dopaminérgicas en la sustancia negra y la formación de cuerpos de Lewy en dichas neuronas.[35]​
+La alteración de la alfa-sinucleína y su acumulación en los cuerpos de Lewy tiene una mayor extensión y afecta otras zonas y sistemas neuronales, como el colinérgico, el noradrenérgico y el serotoninérgico.[19]​
+
+
+== Cuadro clínico ==
+
+Los síntomas tempranos son importantes para reducir el progreso de la enfermedad tan pronto como sea posible —posiblemente muchos años antes de la aparición de los síntomas motores— debido a las indicaciones sobre la posible enfermedad de Parkinson. Estos son:[36]​
+
+Años antes de la aparición, daño del sentido del olfato
+Fluctuación del estado de ánimo (irritabilidad ligera) con ligeras depresiones
+Estreñimiento
+Lo más típico, la perturbación del  sueño paradójico mediante fuertes movimientos atípicos durante él (en estado sano normalmente inmóvil) sueño REM (hasta gritos o golpearse)
+Cuatro síntomas motores[37]​ son considerados cardinales en la enfermedad de Parkinson: temblor, lentitud de movimiento (bradikinesia), rigidez, e inestabilidad postural.[38]​
+El temblor en reposo está presente en aproximadamente 85 % de los casos con enfermedad de Parkinson. La ausencia de expresión facial, disminución del parpadeo y del movimiento de los brazos al caminar completan el cuadro clínico.
+Muchos de estos síntomas son comunes en los ancianos y pueden ser causados por otras afecciones. En pacientes con algunos de estos síntomas parkinsonianos, y con ausencia de temblores, presente en el 15 % de pacientes con enfermedad de Parkinson, pueden sospecharse otras patologías del sistema nervioso, tales como las hidrocefalias. Concretamente, la hidrocefalia normotensiva también aparece en ancianos, deteriora las funciones del sistema nervioso, llevando a la demencia, y se presenta con síntomas parecidos a los del párkinson, sin aparición de temblores.[39]​ La prueba diagnóstica para confirmar o descartar la hidrocefalia normotensiva es un TAC.
+
+
+=== Manifestaciones motoras ===
+Bradicinesia.
+Alteración de la motricidad fina.
+Micrografía (estado en que la letra en manuscrita del paciente cada vez se hace más pequeña e ilegible).
+Hipotonía.
+Sialorrea (producción excesiva de saliva).
+Temblor en reposo de 4 a 6 Hz. No rítmico. No regular.
+Rigidez muscular.
+Signo o fenómeno de la rueda dentada.
+Alteración de la postura.
+Inestabilidad postural.
+No todos los síntomas aparecen en todos los pacientes y la evolución y progresión de la enfermedad es muy variable según los casos.
+El tipo de temblor que aparece en pacientes con enfermedad de Parkinson consiste en una especie de agitación que aparece cuando el paciente está en reposo, pero que disminuye cuando el paciente está realizando alguna actividad o durante el sueño.
+La enfermedad puede aparecer con una ligera contracción en la cual el temblor suele afectar al brazo, la mano o los dedos, conocido como «movimiento de hacer píldoras» o «movimiento de contar monedas» que se caracteriza por un movimiento de desplazamiento hacia adelante y atrás de los dedos pulgar e índice. Los síntomas de temblor afectan inicialmente un solo lado del cuerpo.
+La pérdida del equilibrio puede hacer que el paciente se caiga y producir lesiones. Esta dificultad y la pérdida de la capacidad de mantener la postura se ven afectadas principalmente en la marcha, al girar y al permanecer de pie. También al intentar levantarse o al inclinarse adelante. Es por eso que se recomienda usar un andador o un bastón.
+La bradicinesia o lentitud en los movimientos hace que el paciente tenga que esforzar el doble para realizar sus tareas cotidianas porque se ven afectados, sobre todo, los movimientos de precisión como abrocharse los botones o escribir. Cuando la enfermedad avanza puede tener dificultades para levantarse de la silla, darse vuelta en la cama y tiene que caminar lentamente. Suele aparecer una «congelación» durante un breve período de tiempo cuando está caminando.
+Como se trata de un trastorno progresivo los síntomas empeoran gradualmente con el tiempo. En general los síntomas se ven agravados por el estrés y las situaciones emocionales que causan ansiedad. La parte psicológica es muy importante. Los síntomas suelen mejorar con el descanso, el sueño y se utilizan técnica de relajación o cualquier estrategia para controlar el estrés y la ansiedad.
+
+
+=== Manifestaciones no motoras ===
+Depresión y ansiedad.
+Apatía.[40]​
+Alteraciones cognitivas.
+Trastornos del sueño.
+Alteraciones sensoriales y dolor.
+Anosmia (pérdida o disminución del sentido del olfato).
+Trastornos de la función autonómica.
+Demencia.
+A veces los pacientes refieren dolor en las piernas por calambres, frío, ardor o sensación de entumecimiento y dolor de cabeza (cefalea) o dolor de cintura (lumbar).
+Las dificultades para dormir se deben a la ansiedad, el dolor o la rigidez muscular. Es fundamental que el paciente duerma bien y realice un buen descanso porque el sueño reparador disminuye los efectos sintomáticos parkinsonianos. El cansancio es un estado de agotamiento físico y mental muy común en pacientes parkinsonianos. Puede ser consecuencia de los medicamentos, de la depresión o del esfuerzo extra necesario para realizar las tareas cotidianas y enfrentar los síntomas de la enfermedad. Esto puede ser mejorado con la medicación adecuada si se identifica cuál es la causa que lo provoca.
+La depresión puede ser causada por la enfermedad o por una reacción a la misma. Algunos pacientes se deprimen cuando les dan el diagnóstico. Los signos de depresión incluyen alteraciones del sueño, de la memoria, del apetito, del interés en la vida social o sexual, pérdida de energía o motivación para ciertas cosas y un concepto negativo de sí mismo. Al paciente le cuesta aceptar su estado y se enoja por sus limitaciones.
+La ansiedad aparece ante cualquier situación estresante, por no poder realizar las tareas cotidianas como el paciente estaba acostumbrado o por tener que hablar en público. La ansiedad puede llegar incluso a provocar mayor inestabilidad, dificultad para respirar y sudoración excesiva. Para evitar que esto suceda son de gran ayuda las técnicas de relajación.
+Entre las alteraciones cognitivas suelen aparecer dificultades en la concentración, la memoria, el pensamiento enlentecido, la capacidad para planificar tareas complejas o para realizar varias tareas a la vez. Cuando el grado de deterioro de las funciones cognitivas es muy avanzado se da la Demencia de la Enfermedad del Parkinson (PDD).[41]​
+La contención emocional de las personas que rodean al paciente es fundamental y un componente clave en la atención del parkinsoniano pues le proporciona numerosos beneficios.
+La confusión y las alucinaciones que pueden aparecer son efectos secundarios de la medicación parkinsoniana y no de la enfermedad misma.
+La disfunción autonómica se acompaña de diversas manifestaciones: hipotensión ortostática, estreñimiento, urgencia miccional, sudoración excesiva, seborrea. La hipotensión ortostática puede ser ocasionada tanto por la denervación simpática del corazón como por efecto colateral de la terapia dopaminomimética.
+La depresión afecta a aproximadamente el 50 % de los pacientes con enfermedad de Parkinson y puede presentarse en cualquier momento de evolución de la enfermedad, sin embargo se debe tener en cuenta que puede ser agravada por la administración de agentes antiparkinsonianos y psicotrópicos; otras causas de depresión refractaria al tratamiento incluyen: hipotiroidismo, hipogonadismo, déficit de vitamina B12.
+Los síntomas psicóticos (más que una genuina psicosis se trata de la semiología de una demencia) afectan a 6-45 % de los pacientes, en etapas tempranas incluyen alucinaciones visuales, aunque la depresión y la demencia son los principales desencadenantes de la psicosis, también lo es la administración de agentes dopaminérgicos, anticolinérgicos, amantadina, selegilina.
+
+
+== Diagnóstico ==
+El diagnóstico de la enfermedad de Parkinson está basado en la clínica, puesto que no se ha identificado ningún marcador biológico de esta enfermedad. Por ello, el diagnóstico de la misma se apoya en la detección de la característica tríada rigidez-temblor-bradicinesia y en la ausencia de síntomas atípicos, aunque también tiene importancia la exclusión de otros posibles trastornos por medio de técnicas de imagen cerebral o de analíticas sanguíneas.
+El diagnóstico puede llegar a revestir una gran complejidad. Esta dificultad en la diagnosis es corriente que aparezca en los primeros estadios de la enfermedad, cuando los síntomas que el paciente presenta pueden ser atribuidos a otros trastornos. Consecuencia directa de este hecho es la elaboración de diagnósticos erróneos.
+Es importante dentro de la semiología de la enfermedad de Parkinson, realizar un exhaustivo interrogatorio para averiguar otras posibles causas que diferencien a la enfermedad de Parkinson con otros posibles síndromes extrapiramidales, ya que de inicio no existe una diferencia clara en el diagnóstico por las características clínicas que son compartidas por otros trastornos del movimiento.
+No existe ninguna prueba de laboratorio o estudio radiológico que permita diagnosticar la enfermedad, aunque algunas empresas de diagnósticos genéticos sí que ofrecen test para la secuenciación de los genes SPARK1, SPARK2 y SPARK4 altamente relacionados con la enfermedad, aunque la detección de mutaciones en estos genes no determina terminantemente el futuro desarrollo de la enfermedad en el individuo. Este tipo de pruebas están dirigidas a familias con alta incidencia de la enfermedad de Parkinson y que los enfermos en su gran mayoría presentaran alguna mutación concreta en alguno de estos genes SPARK. En estos casos se podría secuenciar en alguno de sus descendientes el gen en el cual se presenta la mutación familiar, aunque aun así, la existencia o no de la mutación no asegura la presencia de la enfermedad. Con todo esto ni siquiera es recomendable realizar este tipo de secuenciaciones si no se ha presentado previamente ningún síntoma de la enfermedad, al ser una enfermedad grave y actualmente sin cura, los pacientes rara vez prefieren no saber su futuro con respecto al párkinson.
+También es frecuente que se realicen evaluaciones analíticas sanguíneas con el objetivo de descartar otros posibles trastornos, como el hipotiroidismo, una disfunción hepática o patologías autoinmunes. Por otra parte, las técnicas de imagen cerebral, como son la resonancia magnética, la tomografía por emisión de positrones o la tomografía por emisión de fotón único, son eficaces a la hora de excluir otras dolencias que desencadenen síntomas parecidos a los de la enfermedad de Parkinson, tales como un accidente cerebrovascular o un tumor cerebral.
+Resulta habitual que los facultativos formulen preguntas al paciente con las que pretenden dilucidar si este consumió alguna clase de estupefaciente o si estuvo expuesto a virus o toxinas medioambientales, para así determinar si un factor específico pudo haber sido la causa de un parkinsonismo. Es objeto de observación la actividad muscular del paciente durante un periodo de tiempo, pues con el avance de la enfermedad los trastornos motores específicos se vuelven más evidentes.
+Un indicativo diagnóstico suele ser la prueba terapéutica, que consiste en la aplicación de terapia farmacológica con levodopa (que es considerado el fármaco de elección en el tratamiento de enfermedad de Parkinson) por al menos 30 días observando de cerca la evolución del paciente. Se considera prueba Positiva si responde radicalmente al tratamiento con levodopa y se considera negativa si no existe respuesta en absoluto. La prueba terapéutica con levodopa suele ser confirmatoria si se sospecha la enfermedad; sin embargo si la prueba resulta negativa el médico tendrá que seguir investigando otras probables causas del trastorno o realizar estudios de mayor profundidad como los marcadores genéticos.[42]​
+
+
+=== Marcadores genéticos de demencia en la Enfermedad de Parkinson ===
+La demencia de la Enfermedad del Parkinson (PDD) es el grado más alto de deterioro cognitivo y hay una serie de mutaciones genéticas que determinan una mayor predisposición del paciente a que llegue a desarrollarla; es decir, un paciente de Parkinson que posea esta marca genética tiene mayor probabilidad de padecer PDD que un paciente no portador. La variante rs182987047 del locus del gen RIMS2 es una mutación confirmada, y las variantes rs1382073281 del locus del gen TMEM108 y rs8050111 del locus del gen WWOX son potenciales candidatas.[43]​
+
+
+=== Marcadores epigenéticos para diagnóstico en la Enfermedad de Parkinson ===
+Al igual que los marcadores genéticos, se han identificado modificaciones epigenéticas relacionadas con esta patología. Se han detectado tres posiciones diferencialmente metiladas en muestras de sangre de pacientes con EP. Dos de ellas se encontraban cercanas a los genes  SLC7A11 y FKBP5.[44]​ Previamente, se ha descrito que el gen FKBP5 aumenta su expresión progresivamente con la edad y este aumento se correlaciona con la estadificación de Braak en cerebros humanos y la patología de tau.[45]​ Sin embargo, para determinar la capacidad predictiva de estos marcadores es necesario un fenotipado clínico más profundo y el uso de cohortes de mayor tamaño.
+
+
+== Tratamiento ==
+El tratamiento de la enfermedad de Parkinson consiste en mejorar, o al menos mantener o prolongar la funcionalidad del enfermo durante el mayor tiempo posible. En la actualidad, el tratamiento puede ser de tres tipos: farmacológico, quirúrgico y rehabilitador.
+
+
+=== Tratamiento farmacológico ===
+
+Muchos de los síntomas característicos de la enfermedad de Parkinson son debidos a una deficiencia de dopamina en el cerebro, pero el suministro de este neurotransmisor al paciente con el objetivo de reponer las reservas agotadas no resulta eficaz, puesto que la dopamina no puede pasar del torrente sanguíneo al cerebro. Por ello, los fármacos que se emplean en el tratamiento de la enfermedad de Parkinson (fármacos antiparkinsonianos) usan otras vías para restituir de forma temporal la dopamina en el citado órgano o bien, imitan las acciones de la misma.
+Pese al optimismo reinante en un principio, ninguno de los fármacos usados en el tratamiento de la enfermedad de Parkinson actúa sobre la progresión de la enfermedad. En la actualidad, los fármacos más usados son levodopa y varios agonistas de dopamina, aunque también tienen cierta relevancia otros como la selegilina (inhibidor de la MAO-B), la amantadina (liberador de dopamina) o la benzatropina (antagonista del receptor muscarínico de la acetilcolina).
+
+
+==== Levodopa ====
+
+La levodopa, un fármaco oral que combina con carbidopa o benseracida, lográndose con esto una reducción en las dosis necesarias y un amortiguamiento de los efectos secundarios periféricos. La estructura de la levodopa permite que esta penetre en el cerebro, donde se sobreviene la transformación en dopamina. En torno a un 80 % de los pacientes tratados con levodopa manifiesta una mejoría inicial, sobre todo en lo referido a rigidez e hipocinesia, mientras que un 20 % de las personas llega a recuperar por completo la función motora.
+
+
+==== Agonistas dopaminérgicos ====
+
+La efectividad de los agonistas de la dopamina sobre el control de los síntomas, especialmente sobre la bradicinesia y la rigidez, es sensiblemente menor que la de la levodopa, pero esto queda en parte compensado por una vida media más larga y una menor incidencia de desarrollo de fenómeno «encendido-apagado» y discinesias.[Nota 2]​ Con la excepción de la cabergolina, el resto pueden usarse en monoterapia o asociados a levodopa. La utilización de estos fármacos se está extendiendo cada vez más como tratamiento único en los estadios tempranos de la enfermedad de Parkinson, siempre y cuando no se presente un predominio de temblor, con la finalidad de retrasar lo máximo posible la introducción de levodopa.[46]​
+La bromocriptina, un derivado de los alcaloides del Claviceps purpurea, es un potente agonista de la dopamina en el sistema nervioso central. Inhibidor de la adenohipófisis, fue usado inicialmente para tratar afecciones como la galactorrea o la ginecomastia, pero con posterioridad fue constatada su eficacia en la enfermedad de Parkinson. Su acción se prolonga más en el tiempo que la de la levodopa, de modo que no es necesario administrarla con tanta frecuencia. Se esperaba que la bromocriptina fuese eficaz en aquellos pacientes que dejasen de responder a levodopa por pérdida de neuronas dopaminérgicas, pero este hecho todavía no ha sido confirmado. Entre sus efectos adversos sobresalen las náuseas y vómitos, pero también se pueden presentar otros tales como congestión nasal, cefalea, visión borrosa o arritmias.[47]​
+Otros agonistas dopaminérgicos son la lisurida, cuyos efectos adversos son parecidos a los de la bromocriptina, su administración es parenteral y actualmente no está aprobada para el tratamiento de la enfermedad de Parkinson en EUA, solo en Europa; la pergolida, que es el más potente y uno de los que más vida media presenta, sin embargo este medicamento fue retirado en marzo de 2007 del mercado estadounidense por su asociación con valvulopatías cardiacas; el pramipexol, un compuesto no ergolínico que produce efectos clínicos de importancia sobre el temblor y la depresión; el ropirinol, que al igual que el anterior es un compuesto no ergolínico, pero a diferencia de este puede causar crisis de sueño; y la cabergolina, que es un derivado ergolínico, con una larga semivida de eliminación que permite administración única diaria. Cabe destacar que los tres últimos agonistas de los receptores de dopamina son los que más recientemente se han introducido en el panorama farmacológico.[46]​
+
+
+==== Inhibidores de la monoaminooxidasa B: selegilina ====
+La selegilina es un inhibidor de la MAO selectivo para la MAO-B, que es la predominante en las zonas del sistema nervioso central que tienen dopamina. Con la inhibición de la MAO-B se consigue proteger a la dopamina de la degradación intraneuronal, así que en un principio este fármaco fue utilizado como un complemento de levodopa.
+Tras descubrirse la participación de la MAO-B en la neurotoxicidad, se planteó la posibilidad de que la selegilina podría tener efecto neuroprotector retrasando la progresión de la enfermedad.[48]​
+
+
+==== Liberadores presinápticos de dopamina: amantadina ====
+
+El descubrimiento accidental en 1969 de que la amantadina resultaba beneficiosa en la enfermedad de Parkinson, propició que esta dejase de ser usada únicamente como un fármaco antiviral, que era para lo que había sido concebida. Aunque los científicos no conocen con exactitud cómo actúa, han sido propuestos numerosos posibles mecanismos de acción partiendo de pruebas neuroquímicas que indican que incrementa la liberación de dopamina, inhibe la recaptación de aminas o ejerce una acción directa sobre los receptores de dopamina. Con todo ello, estudios recientes han sacado a la luz que inhibe la acción del glutamato, una sustancia química cerebral que provoca la generación de radicales libres.
+Además de no ser tan eficaz como la levodopa o la bromocriptina, la acción de la amantidina se ve disminuida con el transcurso del tiempo. En contraposición a esto, sus efectos secundarios son cualitativamente similares a los de la levodopa, pero ostensiblemente menos importantes.
+Actualmente, se utiliza la amantadina asociada a levodopa para lograr controlar los trastornos motores, especialmente la discinesia y prolongar la vida útil de la levodopa.
+
+
+=== Estimulación transcraneana ===
+
+
+==== Estimulación transcraneal por corriente alterna o TACS ====
+Anula la señal de cerebro que causa los temblores mediante la aplicación de una pequeña corriente eléctrica, a través de electrodos en el exterior de la cabeza de un paciente. Por lo que no conlleva los riesgos asociados con la estimulación profunda del cerebro. El TACS, funciona mediante la colocación de dos almohadillas de electrodos en el paciente, una cerca de la base del cuello y otra en la cabeza, por encima de la corteza motora (la parte del cerebro implicada en el control de los temblores). La corriente alterna que aplican los electrodos se hace que coincida con la señal oscilante de los temblores, de manera que la cancele, y se suprima el temblor físico. El estudio preliminar se ha llevado a cabo con 15 personas con la enfermedad de Parkinson en el Hospital John Radcliffe de Oxford. Los investigadores demostraron una reducción del 50 % en los temblores en reposo entre los pacientes.[49]​[50]​
+
+
+==== Estimulación magnética transcraneana ====
+La estimulación magnética transcraneana o transcraneal es una técnica basada en la estimulación del cerebro mediante pulsos magnéticos generados por un dispositivo. Las evidencias demuestran que mejora la  función de las extremidades superiores a corto plazo, y la marcha y los síntomas motores generales de la enfermedad de Parkinson a corto y largo plazo.[51]​ No obstante, son necesarios más estudios de investigación que permitan desarrollar protocolos terapéuticos óptimos para la aplicación de esta técnica.[51]​
+
+
+=== Tratamiento quirúrgico ===
+A mediados del siglo XX, la neurocirugía era el método que con más frecuencia se utilizaba para tratar el temblor y la rigidez característica de los pacientes aquejados de la enfermedad de Parkinson, pero el problema se hallaba en que no siempre se tenía éxito en las intervenciones quirúrgicas y en las complicaciones de gravedad que solían surgir. Con este panorama, el uso de la cirugía se vio reducido a partir de 1967 con la introducción en el mercado de la levodopa, un tratamiento alternativo que proporcionaba más seguridad y eficacia. Pero con el avance tecnológico experimentado en estos últimos años, se han logrado conseguir novedosas técnicas de imagen cerebral que han permitido mejorar la precisión quirúrgica, recuperando la neurocirugía su popularidad como tratamiento para algunas personas con enfermedad de Parkinson que por diversos motivos, ya no responden al tratamiento con fármacos.
+Los estudios realizados en las últimas décadas han dado lugar a grandes mejoras en las técnicas quirúrgicas, por lo que la cirugía de nuevo se está utilizando en las personas con enfermedad de Parkinson avanzada para quienes la terapia farmacológica ya no es suficiente.[52]​
+La cirugía para la EP se pueden dividir en dos grandes grupos: la estimulación cerebral lesional y la estimulación cerebral profunda (ECP). Los ámbitos de actuación de la ECP o lesiones incluyen el tálamo, el globo pálido o el núcleo subtalámico.[52]​
+La estimulación cerebral profunda (ECP) es el tratamiento quirúrgico más utilizado, desarrollado en la década de 1980 por Alim -Louis Benabid y otros. Se trata de la implantación de un dispositivo médico llamado marcapasos cerebral, que envía impulsos eléctricos a partes específicas del cerebro. La ECP se recomienda para personas que tienen enfermedad de Parkinson con fluctuaciones motoras y temblor no controlado con los fármacos, o para aquellos que son intolerantes a la medicación, siempre y cuando no tengan problemas neuropsiquiátricos graves.[53]​
+Otro tratamiento quirúrgico menos común es la provocación de manera intencionada de lesiones para suprimir la hiperactividad de las áreas subcorticales específicas. Por ejemplo, la palidotomía implica la destrucción quirúrgica del globo pálido para controlar la discinesia.[52]​
+
+
+==== Trasplante nervioso ====
+En 1982, la enfermedad de Parkinson se convirtió en la primera condición neurodegenerativa para la cual se realizó un trasplante de tejido cerebral, con el objetivo de promover la producción de dopamina en las zonas afectadas del cerebro.[54]​[55]​[56]​
+
+
+=== Tratamiento rehabilitador ===
+Es importante que los pacientes realicen ejercicio de manos, pero más importante es que un logopeda trabaje con el paciente el máximo tiempo posible, pues debe corregir la disfagia, el manejo de objetos, la hipofonía, la ansiedad, la micrografía y demás aspectos del lenguaje que solo este profesional puede hacer.
+Si con el tratamiento farmacológico se consigue que los pacientes mejoren en cuanto a los síntomas motores se refiere, no sucede lo mismo con el equilibrio, pues este va empeorando a lo largo del transcurso de la enfermedad. De hecho, se han llevado a cabo varios estudios que demostraron que no se experimentan cambios en el equilibrio global en pacientes con enfermedad de Parkinson en relación con la administración del tratamiento farmacológico.[cita requerida]
+
+
+== Prevención ==
+Se han realizado múltiples estudios con el fin de identificar factores exógenos que pudieran modificar el riesgo de desarrollar la enfermedad de Parkinson. Mediante estudios retrospectivos de casos y controles se ha intentado relacionar el consumo regular de antiinflamatorios no esteroides y ciertas vitaminas con un menor riesgo de contraer la enfermedad pero los resultados obtenidos son contradictorios y no es posible inferir que el consumo de esos fármacos reduzca el riesgo. La asociación más firme en este momento es la mayor incidencia de enfermedad de Parkinson entre no fumadores: existe una relación entre la alteración de los niveles de dopamina producida por el tabaco y una disminución del riesgo de contraer Parkinson,[57]​ pero los mecanismos de esa relación aún no han sido determinados.
+En diversos estudios llevados a cabo hace poco en los que no solo se investigó la relación de la enfermedad de Parkinson con el tabaco, sino también con el café se confirmó que el consumo de ambos disminuye el riesgo de padecer esa enfermedad porque una serie de receptores y sustancias, como la dopamina mencionada anteriormente, podrían proteger a las neuronas relacionadas con esa afección.[58]​ No obstante, se necesitan más estudios acerca de ese tema para verificar dicha teoría. Además, el autor de una publicación[59]​ sostiene que pensar que fumar es bueno es un autoengaño y una incongruencia. Por ejemplo, hay un mito basado en estudios que plantean que la incidencia de enfermedad de Parkinson disminuye en los pacientes fumadores[60]​ cuando la realidad es que el hecho de que haya menos fumadores con enfermedad de Parkinson se debe en gran parte a que las personas que fuman viven menos y la incidencia de la enfermedad de Parkinson aumenta a edad avanzada (cuando los fumadores habitualmente han muerto de cáncer o enfermedad cardiovascular).[60]​
+Algunos trabajos sugieren una relación entre el consumo de lácteos y la enfermedad de Parkinson.[61]​[62]​[63]​
+
+
+== Investigación ==
+La investigación sobre la enfermedad de Parkinson ha avanzado y existe un mejor conocimiento de la enfermedad. Esto está facilitando el desarrollo de herramientas más precisas para el diagnóstico, el cual actualmente sigue basándose en los signos clínicos, y nuevos tratamientos, si bien hasta la fecha la levodopa continúa siendo el tratamiento más eficaz.[64]​[65]​
+En mayo y junio de 2016 se dieron a conocer varios descubrimientos importantes realizados en Estados Unidos. Por un lado investigadores de la Universidad Northwestern en Chicago descubrieron una nueva causa de la enfermedad de Parkinson relacionada con las mutaciones en un gen llamado TMEM230. Días después investigadores de la Escuela de Medicina de la Universidad de Pittsburgh, en Estados Unidos descubrieron la causa por la que la proteína alfa-sinucleína relacionada con el Parkinson —un constituyente principal de los cuerpos de Lewy que son el sello patológico de la enfermedad de Parkinson— es tóxica para las neuronas en el cerebro.[66]​
+La enfermedad de Parkinson presenta relaciones genéticas con numerosos rasgos y características de los seres humanos, lo cual puede servir de ayuda para el entendimiento de la patología. Por ejemplo, en un trabajo publicado por la revista Nature en el año 2016, se observó una correlación genética positiva con el volumen intracraneal.[67]​
+
+
+=== Tratamientos neuroprotectores ===
+
+Las investigaciones en neuroprotección están en la vanguardia de la investigación en EP. Muchas moléculas han sido propuestas como tratamientos potenciales.[68]​ Sin embargo, no se ha demostrado concluyentemente que alguna de ellas reduzca la degeneración.[68]​ Los agentes actualmente en investigación incluyen antiapoptóticos (omigapil, CEP-1347), antiglutamatérgicos,  inhibidores de la monoamino oxidasa (selegilina, rasagilina), promitocondriales (coenzima Q10, creatina), bloqueadores de los canales de calcio (isradipina) y factor de crecimiento (GDNF).[68]​ La investigación preclínica también apunta a la alfa-sinucleína.[69]​ Dos vacunas que preparan el sistema  inmune humano para destruir la alfa-sinucleína, la PD01A y la PD03A, (desarrolladas por la compañía austriaca Affiris), han finalizado la fase I de las pruebas clínicas en humanos.[70]​
+
+
+== Véase también ==
+Demencia de cuerpos de Lewy
+Trastornos neurológicos relacionados con el gluten
+Dopaminérgico
+Perro de asistencia en movilidad
+Quinpirol
+
+
+== Notas ==
+
+
+== Bibliografía ==
+Castells Molina, Silvia (2007). Farmacología en enfermería. Elsevier. ISBN 978-84-8174-993-9. 
+Chana, Pedro (2010). Enfermedad de Parkinson. INTERNATIONAL MEDICAL TEXTS. ISBN 978-956-8952-00-6.  Disponible en línea en ( https://web.archive.org/web/20121119014437/http://www.cetram.org/dp/?q=node%2F113)
+Kumar, Vinay (2006). Patología humana. Elsevier. ISBN 84-8174-666-5. 
+Navarro Gómez, María Victoria (2000). Enfermería médico-quirúrgica: necesidad de movimiento. Masson. ISBN 84-458-0955-5. 
+Piédrola Gil, Gonzalo (2002). Medicina preventiva y salud pública. Masson. ISBN 84-458-1024-3. 
+Rang, H.P (2008). Farmacología. Elsevier. ISBN 978-84-8086-303-2. 
+Riu Camps, Marta (2005). Cuidados enfermeros. Masson. ISBN 84-458-1414-1. 
+Rossi Izquierdo, Marcos. Estudios de los trastornos del equilibrio en pacientes con enfermedad de Parkinson. Publicaciones de la Universidad de Santiago de Compostela. 
+Stokes, María (2006). Fisioterapia en la rehabilitación neurológica. Elsevier Mosby. ISBN 84-8174-894-3. 
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Enfermedad de Parkinson.
+En MedlinePlus hay más información sobre Enfermedad de Parkinson
+Biblioteca Nacional de Estados Unidos
+Federación Española de Parkinson
+Asociación Nacional Enfermos de Párkinson TARAY Aranjuez
+The Michael J. Fox Foundation for Parkinson's Research (inglés)
+European Parkinson´S Disease Association
+Página web con información de expertos sobre Parkinson

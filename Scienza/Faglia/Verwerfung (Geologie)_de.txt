@@ -1,0 +1,86 @@
+Eine Verwerfung (auch Sprung, Verschiebung oder Störung im engeren Sinne) ist eine tektonische Zerreiß- oder Bruchstelle im Gestein, an der über Distanzen vom Zentimeterbereich bis zu einigen Dutzend bis hundert Kilometern zwei Gesteinsbereiche oder Krustenteile gegeneinander versetzt sind. Diese Gesteinsbereiche werden Bruchflügel, Blöcke oder Schollen genannt. Den Versatz bezeichnet man als Sprunghöhe bzw. Sprungweite. Während der Überbegriff Störung im weiteren Sinn auch verschiedene Arten plastischer Verformung mit einschließen kann, wird als Verwerfung nur das Resultat einer bruchhaften Verformung bezeichnet. Die entsprechende Tektonik wird als Bruchtektonik bezeichnet. Verwerfungen sind daher stets im obersten Teil der Erdkruste entstanden. Die Schnittlinie einer Verwerfung mit der Geländeoberfläche bzw. der Oberfläche des anstehenden Gesteins wird als Störungslinie, Bruchlinie oder Verwerfungslinie bezeichnet.
+
+
+== Entstehung ==
+
+Verwerfungen sind spezielle Ausbildungsformen von Scherzonen, das heißt, es handelt sich um eng umgrenzte Bereiche der Erdkruste, in denen sich Kräfte, die von außen auf einen solchen Krustenbereich einwirken, konzentrieren und in Bewegung umgewandelt werden. Verwerfungen entstehen nur in den obersten, noch relativ kühlen Bereichen der Erdkruste, wo das Gestein bei ausreichender Krafteinwirkung spröde bricht. Meist sind dies horizontale Druck- oder Zugkräfte, die nicht selten mit plattentektonischen Vorgängen in Zusammenhang stehen, und mitunter über viele hunderte oder sogar tausende Kilometer Entfernung wirken. Andere mögliche Ursachen für die Entstehung von Verwerfungen sind die Auswirkungen von Magmatismus oder Halokinese auf das Deckgebirge, oder aber Einschläge kosmischer Objekte.
+
+
+== Merkmale ==
+An der Bewegungsbahn einer Verwerfung bildet sich im Gebirge oft eine ausgeprägte Trennfläche aus, die als Störungs- oder Verwerfungsfläche bezeichnet wird. An dieser können durch die Reibung der Gesteine aneinander glatte, bisweilen spiegelglatt polierte Flächen mit Bewegungsrillen, den sogenannten Harnischen bilden.
+Jedoch kann das Gestein an den Bewegungsbahnen auch zu sogenannten tektonischen Brekzien zertrümmert oder sogar komplett zu Gesteinsmehl zerrieben sein (vgl. Kakirit, Kataklasit). In diesen Fällen hat die Bewegungsbahn nicht mehr den Charakter einer diskreten Trennfläche, sondern eher den einer Zone. Solche als Störzonen bezeichneten Bereiche im Gebirge können bei Tiefbauprojekten, vor allem beim Tunnelbau, erhebliche Probleme verursachen. Die Festigkeit des Gesteins in der Störzone ist deutlich geringer als die des Nebengesteins, was zwar den Vortrieb beim Tunnelbau potenziell erleichtert, indem bspw. auf Sprengungen verzichtet werden kann, was aber auch die Wahrscheinlichkeit von Niederbrüchen erhöht und somit nicht zuletzt ein Sicherheitsrisiko darstellt. So kam es beim Bau des Gotthard-Basistunnels in der Weströhre nach einem Niederbruch in einer Störzone zu erheblichen Verzögerungen.
+Bei Sedimentgesteinen mit ausgeprägter Schichtung ist nahe der Verwerfungsfläche nicht selten eine Verbiegung der Schichten zu beobachten, sofern die Bewegung quer zur Schichtung erfolgte. Diese Verbiegung wird als Schleppung bezeichnet. Harnische und Schleppungen ermöglichen die Ermittlung des Bewegungssinns an der Verwerfungsfläche.
+An Verwerfungsflächen findet in aller Regel keine kontinuierliche Bewegung statt, sondern diese erfolgt episodisch. Die nur Sekunden andauernden Bewegungen sind ursächlich für mehr oder weniger starke Erdbeben. Geometrie und Bewegungssinn der Verwerfung (siehe Einteilungen) bestimmen dabei die Mechanik des Herdprozesses bzw. die sogenannte Abstrahlcharakteristik des Bebens. Bei einer nicht aufgeschlossenen, noch aktiven Verwerfung, von der ein Beben ausging, können Geometrie und Schubrichtung anhand entsprechender seismologischer Daten mit Hilfe der Herdflächenlösung ermittelt werden.
+Im Aufschluss messbar sind die Sprunghöhe (auch saigere Sprunghöhe oder Verwurf) als Größe für den vertikalen Versatz, die Sprungweite (auch Horizontalsprungweite) als Größe für den horizontalen Versatz (senkrecht zur Sprunghöhe) sowie die flache Sprunghöhe als Größe für den unmittelbar auf der Verwerfungsfläche erfolgten Versatz (Vektorensumme aus saigerer Sprunghöhe und Sprungweite).
+
+
+== Einteilungen ==
+
+
+=== Einteilung nach der Bewegung an der Verwerfungsfläche ===
+Bewegung in Streichrichtung der Verwerfung
+Blattverschiebungen (Transversal-, Horizontal- oder Seitenverschiebungen, engl.: strike-slip fault) entstehen durch Scherung in horizontaler Ebene, meist entlang von steil einfallenden Verwerfungsflächen.
+Bewegung in Fallrichtung der Verwerfung (engl.: dip-slip fault)
+Abschiebungen (engl.: normal fault), entstehen durch Krustendehnung (Extensionstektonik). Bisweilen werden unter dem Begriff „Verwerfung“ einzig Abschiebungen verstanden, während andere Formen als Verschiebungen bezeichnet werden.
+Aufschiebungen (engl.: reverse fault), entstehen durch Krustenstauchung bzw. -verkürzung (Kompressionstektonik)
+Überschiebungen (engl.: thrust fault), entstehen ebenfalls durch Kompressionstektonik,  wobei die Verwerfungsflächen, im Gegensatz zur Aufschiebung, mit weniger als 45° einfallen, bisweilen sogar horizontal (söhlig) liegen. Zu letzteren zählen die Deckenüberschiebungen, die zwar im Bereich spröder Verformung ablaufen können, aber nicht als Verwerfungen im eigentlichen Sinn und damit nicht als bruchtektonische Strukturelemente gelten.
+In der Realität treten die beschriebenen Verwerfungsarten selten in Reinform auf. Mischformen aus Aufschiebung und Blattverschiebung (transpressive Störung) oder aus Abschiebung und Blattverschiebung (transtensive Störung) sind die Regel.
+Bei Verwerfungen mit vertikaler Komponente wird zwischen Hangendem (engl.: hanging wall) und Liegendem (engl.: foot wall) unterschieden. Die Hangendscholle (auch Hangendflügel oder Hangendblock) ist die Scholle, die sich oberhalb der Verwerfungsfläche befindet, d. h., bei einer gedachten Bohrung, die sowohl Hangend- als auch Liegendscholle senkrecht durchteuft, ist die Hangendscholle jene Scholle, auf der sich das obere Ende des Bohrloches befindet. Die Hangendscholle ist jene Scholle, die den relativen Bewegungssinn vorgibt: Bei einer Aufschiebung ist sie aufgeschoben und bei einer Abschiebung ist sie abgeschoben.
+Alternativ wird die aufgeschobene oder nicht abgeschobene Scholle als Hoch- oder Horstscholle und die abgeschobene oder nicht aufgeschobene Scholle als Tief- oder Grabenscholle bezeichnet. Diese Bezeichnung empfiehlt sich vor allem dann, wenn mangels Aufschlüssen der Charakter der Verwerfung nicht bekannt ist.
+
+
+=== Einteilung nach Einfallen zur Schichtung ===
+Weiterhin unterscheiden sich Verwerfungen durch ihren Winkel zum Einfallen der Gesteinsschichtung:
+
+Antithetische Verwerfungen fallen entgegen der Schichtung ein.
+Synthetische oder Homothetische Verwerfungen fallen in dieselbe Richtung ein wie die Schichtung.
+
+
+=== Einteilung nach Streichen zur Schichtung ===
+Je nach dem Streichen einer Verwerfungsfläche bzw. -linie im Verhältnis zum Streichen der Schichten oder der Faltenachsen in einer bestimmten Region spricht man von Längs-, Quer- oder Diagonalbrüchen bzw. -verwerfungen oder -störungen. Diagonalbrüche werden veraltet auch als spießeckige Verwerfung bezeichnet.
+
+
+=== Sonstige Bezeichnungen ===
+Deckelkluft ist eine veraltete bergmännische Bezeichnung für eine flach einfallende Verwerfung, die nicht mit einer bestimmten Bewegungsrichtung oder einem bestimmten Entstehungsprozess verknüpft ist.
+
+
+== Aktive und inaktive Verwerfungen ==
+Verwerfungen werden danach, ob das tektonische Spannungsregime, in dem sie entstanden sind, immer noch besteht, d. h., ob an der Störungsfläche nach wie vor (schubweise) Bewegungen stattfinden, unterschieden in rezente (noch aktive) Verwerfungen und fossile (inaktive, alte) Verwerfungen. Viele aktive Verwerfungen finden sich in jungen Faltengebirgen und in den Krustenbereichen, die diesen Faltengebirgen vorgelagert sind, oder in aktiven Grabenbrüchen. Entlang aktiver Störungssysteme verlaufen oft sogenannte Erdbebenlinien, schmale Zonen an der Erdoberfläche, in denen gehäuft Erdbeben registriert werden. Eine der diesbezüglich bekanntesten Verwerfungen ist die San-Andreas-Verwerfung im US-Bundesstaat Kalifornien, die gleichzeitig eine Plattengrenze ist und daher nur im oberen Teil der Erdkruste tatsächlich Verwerfungscharakter hat. Aktive Verwerfungen müssen nicht zwangsläufig im bestehenden Spannungregime entstanden (angelegt worden) sein, sondern es kann sich auch um „alte Schwächezonen“ handeln, d. h., um zwischenzeitlich inaktive Verwerfungen, die im aktuellen Spannungsregime reaktiviert wurden. Viele der Verwerfungen, an denen die deutschen Mittelgebirge herausgehoben wurden, beispielsweise die Fränkische Linie oder die Harznordrandverwerfung, sind alte Störungen, die im Zuge der Alpenbildung reaktiviert worden sind.
+Sofern sich aktive Verwerfungen unterhalb von relativ dicht besiedeltem Gebiet mit sensibler Infrastruktur erstrecken, ist es im Rahmen des Katastrophenschutzes sinnvoll, diese Störungen mit Methoden der Geotechnik und der Geodäsie (GPS, Nivellement) zu überwachen. So war beispielsweise im Vorfeld des Baus des Karawankentunnels die Periadriatische Naht Ziel solcher Überwachungsmaßnahmen.
+
+
+== Verwerfungssysteme ==
+
+Mehrere, annähernd parallele, gleichsinnige Verwerfungen in geringer lateraler Distanz werden als Staffelbrüche bezeichnet. Gegensinnig einfallende Verwerfungen bilden Horste oder Gräben, bei denen die Verwerfungsflächen zur Teufe voneinander weg bzw. aufeinander zu streben. Schollen, die an parallelen, gleichsinnigen und in die gleiche Richtung einfallenden Verwerfungen verkippt sind, werden als Halbhorste oder Halbgräben bezeichnet. Solche Verwerfungs- oder Störungssysteme können, bei mehreren Dutzend bis hundert Kilometern Breite, eine Längserstreckung von hunderten oder tausenden Kilometern besitzen und sich über ganze Kontinente ziehen. Bekannte Beispiele sind der Ostafrikanische Grabenbruch, der vom Tanganjikasee bis zum Toten Meer reicht, die Mittelmeer-Mjösen-Zone, die von der Rhônemündung bis in die Gegend von Oslo reicht, und die Basin-and-Range-Provinz, die sich über mehrere Bundesstaaten im Westen der USA bis in den Nordwesten Mexikos erstreckt. Die Hauptverwerfungen in diesen Systemen reichen in der Regel tief in die kontinentale Lithosphäre und gehen in der Tiefe in duktile Scherzonen über. Das größte zusammenhängende Verwerfungssystem der Erde ist jedoch das der Mittelozeanischen Rücken.
+Kontinentale Kruste wird nicht subduziert und ist daher geologisch oft relativ alt. Zudem ist sie für die geologische Forschung relativ leicht zugänglich. Daher ist bekannt, dass sich der Charakter vieler Verwerfungssysteme im Laufe der Erdgeschichte, abhängig von den jeweils herrschenden großtektonischen (plattentektonischen) Gegebenheiten, mehrfach geändert hat, von extensiv über kompressiv zu erneut extensiv usw. Auch der Bewegungssinn an einzelnen Verwerfungen kann sich ändern, sodass im Verlauf vieler Millionen Jahre an ein und derselben Verwerfung mal vorwiegend Abschiebung, mal vorwiegend Aufschiebung und mal vorwiegend Blattverschiebung stattgefunden hat (siehe auch Aktive und inaktive Verwerfungen).
+
+
+== Geomorphologie, Hydrologie, Magmatismus, Rohstoffgeologie ==
+
+Eine Verwerfung ist im Gelände oft nur schwer zu erkennen, denn in der Regel liegt sie unter einer Verwitterungsdecke bzw. einem Boden und die ursprüngliche Sprunghöhe ist durch Erosion und/oder Sedimentation mehr oder weniger stark nivelliert worden. Jedoch kann die Geomorphologie hinweise auf die Anwesenheit von Verwerfungen im Untergrund geben. Steht auf einer Scholle deutlich verwitterungs­resistenteres Gestein an als auf der benachbarten Scholle, bildet das Gestein erstgenannter Scholle eine Geländestufe oder die Scholle liegt zumindest topographisch höher. Die topographisch höher liegende ist aber nicht zwangsläufig die tektonisch höher liegende Scholle, weil das entsprechende widerständigere Gestein auf der benachbarten, tatsächlich tektonisch höher liegenden Scholle bereits vollkommen erodiert worden sein kann (→ Reliefumkehr).
+An Verwerfungen ist das Gestein durch die Bewegungen oft zerrüttet und dadurch weniger widerständig gegen Erosion als das Nebengestein. Zudem kann an Verwerfungen Oberflächenwasser leicht in den Untergrund eindringen und Verwitterungsprozesse auslösen. Beides führt dazu, dass das Gestein im unmittelbaren Umfeld von Verwerfungen leichter ausgeräumt wird als das Nebengestein, weshalb Geländeeinschnitte in Hochgebieten humider Klimazonen oft dem Verlauf von Verwerfungslinien folgen. Beispielhaft hierfür sind die Längstalfurchen in vielen jungen Faltengebirgen.
+Auch kann ein Grundwasseraustritt auf die Anwesenheit einer Verwerfung hinweisen. Eine sogenannte Verwerfungsquelle – eine Sonderform artesischer Quellen – entsteht, wenn ein Grundwasserleiter (Aquifer) an einer Verwerfung durch eine wasserstauende Schicht (Aquiclud) abgeriegelt wird und dadurch das Wasser im Grundwasserleiter bis an die Geländeoberfläche aufgestaut wird.
+In ähnlicher Weise können Verwerfungen Fallenstrukturen für Erdöl und Erdgas bilden: Wird ein hochporöser, permeabler Gesteinskörper, in dem fossile Kohlenwasserstoffe in Richtung Erdoberfläche migrieren können, an einer Verwerfung nach oben durch ein geringporöses impermeables Gestein begrenzt, können sich Erdöl und Erdgas unterhalb dieses impermeablen Gesteins in förderwürdigen Mengen ansammeln.
+Verwerfungen können als Aufstiegsbahn für Magma dienen, das dann als Lava oberflächlich austritt und weite Flächen bedeckt, einzelne Vulkane aufbaut oder in oberflächennahe Sedimentschichten eindringt und Lakkolithe bildet. Das in den Aufstiegsbahnen verbliebene Magma erstarrt zu Gesteinsgängen (engl.: dykes). Statt Magma können aber auch hydrothermale Lösungen aus der Tiefe aufsteigen, aus denen an den Bruchflächen Minerale ausgefällt werden, bis hin zur vollständigen Verfüllung der Bruchstellen in Form von Mineralgängen. Werden dabei ausreichend Erz­minerale ausgefällt, können wirtschaftlich abbaubare Ganglagerstätten entstehen.
+
+
+== Verwerfungen im Kartenbild ==
+In geologischen Karten sind Verwerfungen oder vielmehr die Schnittlinien (Ausbisse) von Verwerfungen mit der Geländeoberfläche (Störungslinien) meist als dicke schwarze oder rote Linien dargestellt – im Gegensatz zu Schichtkontakten, die mit deutlich dünneren schwarzen Linien gekennzeichnet sind. Der relative Bewegungssinn von Störungen mit vertikaler Komponente (Auf-, Über- und Abschiebungen) ist in Regionen mit weitgehend horizontal (söhlig) liegenden Schichten in der Karte anhand des Alters des Gesteins benachbarter Schollen leicht zu erkennen: Schollen, auf denen jüngeres Gestein ansteht, sind relativ zu Schollen, auf denen älteres Gestein ansteht, abgesenkt worden. Bisweilen wird bereits durch bestimmte Signaturen an den Störungslinien der Bewegungssinn an der entsprechenden Verwerfungsfläche angedeutet. Eine kamm- oder rechenartig dargestellte Störungslinie symbolisiert eine Abschiebung, Dreieckssymbole entlang einer Störungslinie symbolisieren eine Auf- oder Überschiebung. Die Zinken bzw. Dreiecke weisen dabei immer in Richtung der Hangendscholle. Halbpfeile an einer Störungslinie symbolisieren eine Blattverschiebung.
+
+
+== Fernerkundung und Planetologie ==
+
+Verwerfungen können auf Satellitenbildern der Erde und anderer Himmelskörper anhand bestimmter Merkmale identifiziert werden. Meist sind dies lineare Strukturen (Störungslinien), die auf der Erde vor allem in Gebieten mit kaum vorhandener Vegetation gut erkennbar sind, insbesondere dann, wenn sich das anstehende Gestein jenseits und diesseits einer solchen linearen Struktur deutlich unterscheidet oder wenn diese mit Auffälligkeiten im Relief verbunden sind.
+Auf dem Mond wurden lineare Strukturen, sogenannte Rillen (Rimae) oder Rupes erstmals von Hieronymus Schröter zu Beginn des 19. Jahrhunderts untersucht. Die erste umfassende tektonische Karte des Erdmondes mit mehreren 1000 Verwerfungen wurde vom United States Geological Survey in den 1950er Jahren erstellt. Ausgedehnte Störungssysteme sind auch vom Mars (Paradebeispiel: Valles Marineris) und den Monden der Gasriesen des äußeren Sonnensystems (z. B. Europa) bekannt.
+
+
+== Literatur ==
+Gerhard H. Eisbacher: Einführung in die Tektonik. 1. Auflage. Ferdinand Enke Verlag, Stuttgart 1991, ISBN 3-432-99251-3, S. 69–81. 
+Rudolf Hohl (Hrsg.): Die Entwicklungsgeschichte der Erde. 6. Auflage. Werner Dausien Verlag, Hanau 1985, ISBN 3-7684-6526-8, S. 201–213. 
+Dieter Richter: Allgemeine Geologie. 3. Auflage. De Gruyter, Berlin/New York 1985, ISBN 3-11-010416-4, S. 218–233. 
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

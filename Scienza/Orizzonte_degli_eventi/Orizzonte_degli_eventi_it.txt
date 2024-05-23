@@ -1,0 +1,93 @@
+Un orizzonte degli eventi è un concetto collegato ai buchi neri, una previsione teorica della relatività generale. È definito come la superficie limite oltre la quale nessun evento può influenzare un osservatore esterno.
+
+
+== Descrizione ==
+
+Secondo la teoria della relatività, lo spazio e il tempo formano un unico complesso con quattro dimensioni reali (detto spazio-tempo), il quale è deformato dalla presenza di massa (o di energia).
+Nel caso di un buco nero di Schwarzschild, l'orizzonte degli eventi si crea nel momento in cui, in un corpo autogravitante, la "materia" (concetto utilizzato qui per identificare insieme la massa e l'energia, che secondo la relatività generale sono la stessa cosa) è così concentrata che la velocità di fuga assumerebbe valori pari o addirittura superiori alla velocità della luce.
+I corpi del tipo suddetto, quando sono non rotanti (momento angolare nullo) e privi di carica elettrica hanno una simmetria sferica con raggio pari a:
+
+  
+    
+      
+        
+          r
+          
+            s
+          
+        
+        =
+        
+          
+            
+              2
+              G
+              M
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle r_{s}={\frac {2GM}{c^{2}}}}
+  
+,
+dove M è la Massa, G la costante di gravitazione universale e c la velocità della luce. Tale espressione definisce il cosiddetto raggio di Schwarzschild.
+Secondo una definizione data da Roger Penrose, l'orizzonte degli eventi in un buco nero è una particolare superficie dello spazio-tempo che separa i posti da cui possono sfuggire segnali da quelli da cui nessun segnale può sfuggire.
+In una accezione molto più generale, se per "evento" si intende un fenomeno (particolare stato della realtà fisica osservabile), identificato dalle quattro coordinate spazio-temporali, un "orizzonte degli eventi" può essere definito come una regione dello spazio-tempo oltre la quale cessa di essere possibile osservare il fenomeno.
+Nel caso dei buchi neri di Schwarzschild, l'orizzonte degli eventi è una superficie sferica che circonda una singolarità posta al centro della sfera; quest'ultima è un punto nel quale la densità sarebbe infinita e le leggi della fisica, secondo la teoria della relatività generale, perdono significato.
+La singolarità potrebbe non essere necessaria, secondo alcune teorie di gravità quantistica (gravità quantistica a loop), che postulano lo spazio-tempo come una entità dotata di una realtà fisica, e non solo un mero concetto matematico, suddiviso in elementi discreti del diametro di una lunghezza di Planck. In altri termini, lo spazio-tempo avrebbe, secondo la suddetta teoria, un ruolo fisicamente attivo, non passivo e la sua struttura intima sarebbe costituita da veri e propri "atomi" che formerebbero una densa rete in continua evoluzione. In condizioni normali non si percepirebbe la struttura atomica dello spazio-tempo, il quale apparirebbe un continuo matematico e l'Universo sarebbe descritto dalla relatività generale, ma a distanze nell'ordine della lunghezza di Planck le cose cambierebbero radicalmente: gli effetti quantistici e gravitazionali assumerebbero intensità confrontabili. Sarebbe come se lo spazio assumesse una "personalità fisica" propria e interagisse con l'energia (massa) in modo attivo.
+Se il buco nero di Schwarzschild possedesse la massa di una galassia, l'orizzonte sarebbe situato a una distanza nell'ordine di 1011 chilometri dal suo centro di massa relativistico (la nozione di centro di massa nella relatività perde di significato fisico perché non è invariante rispetto a cambiamenti di riferimento inerziale); se invece un buco nero avesse la massa del Sole, allora l'orizzonte disterebbe circa tre chilometri dal centro di massa (in questo caso non essendoci effetti relativistici tra i componenti del sistema, si può usare la nozione di centro di massa); infine, se un buco nero avesse la massa di una montagna, l'orizzonte sarebbe situato a 10−13 centimetri dal suo baricentro. La temperatura dell'orizzonte dovrebbe risultare talmente alta da non essere nemmeno misurabile.
+Alcuni dei problemi più attuali riguardanti la fisica degli orizzonti degli eventi dei buchi neri sono: l'emissione della radiazione di Hawking, l'entropia dei buchi neri e altre questioni correlate, come ad esempio la fusione (merging) di buchi neri.
+A livello teorico, per il secondo principio della termodinamica durante qualsiasi processo l'entropia di un sistema isolato (quale è un buco nero) deve aumentare, e nel caso di un buco nero ciò si traduce in un aumento dell'area dell'orizzonte degli eventi. Ogni volta che il buco nero "ingurgita" qualcosa, l'area dell'orizzonte degli eventi aumenta.
+Molti risultati sono solo di tipo speculativo o ipotetico, considerato che, al momento, nessuno ha mai visto "da vicino" un buco nero (sono di dimensioni trascurabili – solo pochi chilometri di diametro – quelli stellari, non emettono radiazione misurabile e sono spesso avvolti da dischi di accrescimento o densi aloni di materia). C'è da osservare, inoltre, che dall'interno di un buco nero non può uscire alcuna informazione che possa dire alcunché sulla sua struttura intima. Perlomeno non esiste al momento una teoria di riferimento ben consolidata e suffragata da dati osservativi. Un possibile candidato per una tale teoria sarebbe la gravità quantistica, la quale, andando oltre la relatività generale e, probabilmente, oltre la meccanica quantistica stessa, avrebbe l'effetto di unificarle e di trovare il quadro matematico dal quale scaturiscono entrambe.
+
+
+=== Oltrepassare l'orizzonte degli eventi di un buco nero ===
+
+Un errore molto comune è quello di immaginare l'orizzonte degli eventi di un buco nero come una superficie statica di forma più o meno sferica. Quello che è invece bene tenere presente è che si tratta di un orizzonte a tutti gli effetti, ovvero di qualcosa di non raggiungibile e che si allontana all'avvicinarsi di un osservatore (esattamente come l'orizzonte terrestre).
+Osservatori arbitrariamente distanti rispetto al buco nero saranno tutti concordi nel misurare una stessa superficie sferica di dimensione finita, apparentemente statica, nera, più o meno grande, unicamente in funzione della massa del buco nero (è più o meno la situazione pubblicata il 12 maggio 2022 grazie alla prima immagine che ha permesso di osservare direttamente l'orizzonte degli eventi di Sagittarius A*, il cui diametro è stimato in 44 milioni di chilometri: tutti gli osservatori che, come noi, si trovassero a una distanza apprezzabile dal buco nero vedrebbero la stessa sfera nera dal raggio pari a 44 milioni di chilometri). Ma le cose cambiano notevolmente quando la distanza dal buco nero diventa non trascurabile.
+Apparentemente questo indurrebbe a pensare alla possibilità di "calare" una corda (o un'asta) con un astronauta appeso per attraversare l'orizzonte (o almeno quello che osservatori distanti identificano come tale) e riportare quanto visto. La cosa potrebbe sembrare apparentemente fattibile soprattutto per quanto riguarda i buchi neri supermassicci, dove la gravità superficiale può raggiungere valori persino più bassi di quella terrestre (la gravità superficiale dei buchi neri è inversamente proporzionale alla loro massa – ma attenzione: per raggiungere la gravità superficiale terrestre, un buco nero dev'essere davvero mostruoso: 1,55 trilioni di masse solari e mezzo anno luce di diametro). Nella realtà però tutto ciò non è possibile. La distanza dell'osservatore dall'orizzonte, seppur grande, è finita: così anche la lunghezza della corda dovrà essere finita. Ma se la corda è stata calata lentamente (in modo che ciascun punto della corda resti approssimativamente a riposo rispetto alle coordinate di Schwarzschild), l'accelerazione propria (forza-G) sperimentata dai punti della corda più vicini all'orizzonte si avvicinerà all'infinito rispetto all'osservatore, per cui la corda si lacererà. Se invece la corda è stata calata rapidamente (o in caduta libera), effettivamente l'astronauta sul fondo della corda potrà toccare e anche attraversare l'orizzonte degli eventi. Ma una volta che questo accadesse sarebbe impossibile estrarre nuovamente il fondo della corda fuori dell'orizzonte degli eventi, dal momento che quando la corda venisse tesa, le forze lungo la corda aumenteranno senza limite all'avvicinarsi all'orizzonte degli eventi e prima o poi la stessa dovrà rompersi. La rottura inoltre non avverrà oltre l'orizzonte degli eventi, ma in un punto in cui l'osservatore può ancora osservare.
+È possibile fare un altro esempio. Immaginiamo un buco nero così grande da avere una gravità superficiale pari a quella terrestre. Si potrebbe immaginare di dotare l'astronauta di un potente razzo che lo tenga esattamente in equilibrio appena sopra l'orizzonte. Sfortunatamente neanche questo funzionerebbe. Immaginiamo di calarlo con la nostra fune fino a qualche metro sopra l'orizzonte degli eventi e una volta lì, l'astronauta accenderà il suo razzo. L'osservatore esterno noterà però che il razzo dell'astronauta, una volta avvicinato sufficientemente all'orizzonte degli eventi, non avrà più la stessa potenza di prima. L'accelerazione di 1 g necessaria a tenerlo a galla si sarà ridotta notevolmente per via della dilatazione temporale: lo scarico del propellente sembrerà avvenire a una velocità notevolmente ridotta, fino a fermarsi del tutto in prossimità dell'orizzonte. Il destino dell'astronauta sarebbe quindi comunque segnato.
+Per quanto riguarda invece il punto di vista dello sfortunato astronauta che si troverà ad attraversare l'orizzonte degli eventi le cose appariranno completamente diverse. Utilizzando la matematica l'astronauta potrà calcolare il momento esatto in cui l'osservatore distante lo vedrà svanire al di là dell'orizzonte degli eventi. Ma non sperimenterà nulla di speciale, per lui si tratterà di un momento come un altro e non attraverserà nessun "sipario" nero. In termini di esperienza visiva, un osservatore in caduta libera dentro un buco nero vedrà una regione nera sotto di lui a una distanza apparentemente fissa, irraggiungibile, che lo accompagnerà per tutta la caduta (anche se per l'osservatore distante avrà già attraversato tale orizzonte). Egli continuerà a vedere l'osservatore distante finché glielo consentiranno le forze di marea, anche se la distanza aumenterà progressivamente (sarà lo stesso spazio a dilatarsi molto rapidamente lungo la dimensione radiale) e l'osservatore distante non vedrà mai più lui. Eventuali altri oggetti che avessero attraversato l'orizzonte lungo lo stesso percorso radiale ma appena un attimo prima avranno sempre la stessa posizione sopra l'orizzonte. E se fossero abbastanza vicini all'osservatore potrebbero scambiare messaggi con lui. Tutto ciò all'interno dell'orizzonte degli eventi.
+Non si sa quale sarà il destino ultimo dell'astronauta in caduta libera. L'impatto con la singolarità gravitazionale al centro non avverrà mai, perché richiederebbe tempo infinito secondo il suo sistema di riferimento. L'unico evento degno di nota (e fatale) sarà l'aumento smisurato delle forze di marea. Procedendo nella caduta, la spaghettificazione sarà infatti un processo inarrestabile: mantenere uniti due punti disposti lungo il raggio del buco nero richiederà un'energia tendente all'infinito man mano che la caduta libera prosegue. E poiché la caduta non avrà mai fine e il movimento orizzontale lungo la circonferenza del buco nero sarà sempre possibile, da un certo momento in poi la materia (o quel che ne resta) comincerà ad avere effettivamente due sole dimensioni di libertà (non più tre) più il tempo. Si tratta a tutti gli effetti della rimozione di una dimensione spaziale. Il momento formale in cui ciò avviene coincide col momento esatto in cui la velocità di fuga indotta dalle forze di marea tra due punti arbitrariamente vicini lungo la dimensione radiale supererà la velocità della luce. Si tratta di un evento molto simile (anche se circoscritto a una sola dimensione spaziale) a quello che si ipotizza in uno dei possibili scenari che descrivono la fine dell'universo: il Big Rip.
+Si tratta tuttavia di un processo graduale. Dovrebbe esistere una zona, oltre l'orizzonte degli eventi per gli osservatori esterni (e quindi di fatto "al di fuori" del nostro Universo) e molto prima che le forze di marea arrivino a rimuovere la dimensione spaziale parallela al raggio del buco nero in cui le leggi fisiche sono le stesse leggi che conosciamo. Tanto più è grande il buco nero e tanto più sarà vasta tale zona. Se qualcuno potesse osservare la fine delle tre dimensioni (ma siamo ben oltre la sopportabilità fisica delle enormi forze di marea) noterebbe la comparsa di un orizzonte nero dietro di sé che si andrà ad aggiungere a quello che si trova di fronte (orizzonte di marea), e i due orizzonti tenderanno ad avvicinarsi sempre più rapidamente fino a schiacciare lo spazio su un piano. L'osservatore noterà inoltre che prima che tutto ciò avvenga entrambi gli orizzonti cominceranno ad attrarre gli oggetti in caduta libera accanto a lui verso l'uno o verso l'altro a seconda di dove si trovino più vicino. Egli però, fin quando questi non si saranno congiunti, si troverà sempre al centro tra i due orizzonti (immaginando l'osservatore puntiforme: come abbiamo detto nessun corpo potrebbe resistere a questa fase della caduta).
+Questo avviene perché lo spazio lungo la dimensione radiale si sta espandendo sempre più velocemente, e poiché più un oggetto sarà distante, più l'espansione dello spazio sarà rapida, oltre una certa distanza la luce stessa non riuscirebbe a raggiungere l'osservatore (si tratta di un orizzonte del tutto analogo all'orizzonte degli eventi cosmico); la stessa dilatazione, infine, è in accelerazione, quindi gli orizzonti si avvicineranno sempre più.
+Se non esistessero le forze di marea la caduta libera in un buco nero sarebbe semplicemente un eterno viaggio a gravità zero privo di eventi significativi.
+Quanto detto finora riguarda casi ideali molto semplici, di buchi neri neutri e non rotanti (detti buchi neri di Schwarzschild). La dinamica dei buchi neri carichi e rotanti (buchi neri di Kerr-Newman) è molto più complessa, al punto che qualcuno ha proposto che, giunti molto in profondità, le dimensioni fisiche cambino nuovamente. Ciò avverrebbe oltre l'orizzonte di Cauchy, che si trova ancora più internamente rispetto all'orizzonte degli eventi. È stata inoltre avanzata l'ipotesi della possibilità di complesse orbite stabili a forma di elica all'interno dell'orizzonte degli eventi dei buchi neri di Kerr-Newman.
+
+
+=== Orizzonte degli eventi cosmico ===
+
+Con la locuzione di orizzonte degli eventi s'intende anche il limite dell'universo osservabile. Finora non si sa se l'universo sia finito oppure infinito in dimensione e in volume, anche se la maggior parte dei teorici è attualmente propensa a sostenere la tesi di un universo finito. Tale idea si fonda sull'assunto che, se si ammettesse che l'universo fosse infinito, questo sarebbe di conseguenza composto da infinite stelle: una simile conclusione porterebbe al risultato logico secondo cui, al tramonto del sole, il cielo continuerebbe a essere illuminato a giorno. Va comunque notato che questo paradosso può essere risolto con semplicità basandosi sulla finitezza della velocità della luce e sull'età dell'universo.
+Per quanto riguarda quello osservabile, invece, grazie al fatto che la velocità della luce è limitata, è possibile evincere che esso sia finito. L'orizzonte cosmico si trova a 13,7 miliardi di anni luce di distanza. La distanza effettiva di questo orizzonte è però più grande, per la precisione 47 miliardi di anni luce, perché nel tempo trascorso affinché la luce sia arrivata fino a noi, questo bordo ha continuato a espandersi.
+
+
+== Note ==
+
+
+== Bibliografia ==
+(EN) Kip S. Thorne, Charles W. Misner e John Archibald Wheeler, Gravitation, 1973.
+(EN) Robert M. Wald, General Relativity, 1984.
+(EN) Wolfgang Rindler, Relativity: Special, General, and Cosmological, 2006.
+(EN) L.V. Hau, S.E. Harris, Z. Dutton e C.H. Behroozi, Light speed reduction to 17 metres per second in an ultracold atomic gas, in Nature, n. 397, 18 febbraio 1999,  pp. 594–598.
+
+
+== Voci correlate ==
+Buco nero
+Raggio di Schwarzschild
+Meccanica quantistica
+Interazione gravitazionale
+Orizzonte di particella
+Relatività generale
+Singolarità gravitazionale
+Spaghettificazione
+
+
+== Collegamenti esterni ==
+(EN) Metriche: distanze in un universo relativistico, su iapetus.phy.umist.ac.uk. URL consultato il 25 aprile 2004 (archiviato dall'url originale il 14 luglio 2004).

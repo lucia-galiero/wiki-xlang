@@ -1,0 +1,98 @@
+Leukozyten (Einzahl der Leukozyt, von altgriechisch λευκός leukós, deutsch ‚weiß‘ sowie altgriechisch κύτος kýtos, deutsch ‚Höhlung, Gefäß, Hülle‘) oder weiße Blutzellen, umgangssprachlich auch weiße Blutkörperchen genannt, sind im Blut, im Knochenmark, in den lymphatischen Organen und anderen Körpergeweben der Wirbeltiere zu finden. Im Gegensatz zu den Erythrozyten (roten Blutzellen) enthalten Leukozyten nicht den roten Farbstoff Hämoglobin. Besonders augenfällig ist der Unterschied bei den Säugern, deren reife Erythrozyten ohne Zellkern auskommen (daher im Deutschen auch rote Blutkörperchen genannt). Leukozyten haben spezielle Funktionen bei der Abwehr von Krankheitserregern und körperfremden Strukturen. Sie gehören zum Immunsystem des Körpers und sind dort Teil der spezifischen Immunabwehr und der unspezifischen Immunabwehr; deshalb werden sie auch als Immunozyten (Immunzellen) bezeichnet. Ihr Anteil im peripheren Blut wird mit einem Differentialblutbild erfasst.
+
+
+== Bau der Leukozyten ==
+Leukozyten sind, je nach ihrer Art, unterschiedlich in Gestalt und Aufbau. Die Größe der Leukozyten schwankt zwischen 7 µm bei Lymphozyten und 20 µm bei Monozyten. Die roten Blutkörperchen (Erythrozyten) sind etwa 7,5 µm groß. Die Lebensdauer der Zellen reicht von wenigen Tagen bis zu mehreren Monaten. Bestimmte Leukozyten sind amöboid beweglich und können aktiv aus dem Blut in die verschiedenen Zellgewebe einwandern, sogenannte Leukodiapedese oder Leukozytenadhäsion.
+
+
+== Bildung der Leukozyten ==
+Die Bildung der Leukozyten ist ein Vorgang, der beim Erwachsenen im roten Knochenmark (Medulla osseum rubrum) von Brustbein und Becken beginnt. Diesen Vorgang nennt man Leukopoese (auch Leukozytopoese). Bei Kindern befindet sich blutbildendes rotes Knochenmark zusätzlich in den langen Röhrenknochen der Arme und Beine. Die weißen Blutkörperchen werden dort aus so genannten Vorläuferzellen der Stammzellen gebildet und differenzieren anschließend innerhalb der unterschiedlichen Kategorien der Leukozyten weiter, je nach den ihnen zugedachten Aufgaben und Funktionen. Um diese erfüllen zu können, müssen Teile der Leukozyten nach ihrer Bildung in bestimmten Organen geprägt werden. Im Lymphsystem, das heißt in Lymphknoten, Thymus, Milz, Mandeln, Knochenmark, müssen sie lernen, welche Stoffe zum Körper des Organismus gehören und welche als fremd anzusehen sind. Die Stammzellen selbst besitzen weitreichende Möglichkeiten sich zu entwickeln, sie sind pluripotent. Bei ihrer Teilung entstehen nicht zwei gleiche Tochterzellen, sondern jeweils eine neue pluripotente Stammzelle und eine Vorläuferzelle der einzelnen Blutzellen (determinierte Stammzelle), welche anschließend weiter heranreift. Je nachdem, welcher Wachstumsfaktor (Zytokine) einwirkt, entstehen so die unterschiedlichen Arten entweder der Leukozyten, der Erythrozyten oder der Megakaryozyten.
+
+
+== Funktionen der Leukozyten ==
+Weiße Blutzellen machen für den Organismus unverträgliche Stoffe bzw. Krankheitserreger unschädlich. Dazu zählen Bakterien, Viren, Tumorzellen, Toxine, körperfremde Partikel, Würmer, Pilze und Protozoen (Einzeller). Die einzelnen Untergruppen der Leukozyten haben dabei verschiedene Funktionen innerhalb des Immunsystems – von der Phagozytose über die Markierung von Antigenen bis hin zur Bekämpfung körpereigener und körperfremder Zellen und Krebszellen.
+Neutrophile Granulozyten, Monozyten, Makrophagen und Dendritische Zellen zum Beispiel sind als Bestandteil der unspezifischen Abwehr zur Phagozytose fähig. Dabei nehmen sie Fremdmaterial auf und machen es unschädlich. Sie werden daher auch Fresszellen genannt.
+B-Lymphozyten hingegen produzieren nach geeigneter Stimulation speziell gegen bestimmte Erreger oder schädigende Stoffe gerichtete Antikörper. Sie gehören somit zur spezifischen Abwehr.
+T-Lymphozyten koordinieren unter anderem spezifische und unspezifische Abwehr. Auch an Entzündungen sind Leukozyten beteiligt und in der Lage, durch freigesetzte Botenstoffe (Mediatoren) wie Zytokine und Leukotriene diese aufrecht zu halten, zu modulieren oder zu beenden. Leukozyten spielen außerdem eine wesentliche Rolle bei allen Autoimmunkrankheiten.
+
+
+== Morphologie der Leukozyten ==
+Es gibt zahlreiche Möglichkeiten, die unterschiedlichen Leukozytenarten zu kategorisieren.
+
+Aufgrund ihrer Abstammung und Farbe in der Pappenheim-Färbung können sie wie folgt unterschieden werden. Alle Zellen der lymphatischen Reihe gehen auf lymphatische Vorläuferzellen zurück, die der myeloiden Reihe entwickeln sich aus myeloiden Vorläuferzellen. Auch die roten Blutkörperchen und die Blutplättchen entwickeln sich aus myeloiden Vorläuferzellen, diese werden aber nicht zu den Leukozyten gezählt und sind daher in der folgenden Tabelle nicht aufgeführt.Granulozyten unterscheiden sich von den anderen Immunzellen (Agranulozyten) durch ihre unregelmäßig gelappten Zellkerne und durch das Vorhandensein kleiner Partikel im Cytoplasma. Die Agranulozyten besitzen dagegen runde oder bohnenförmige Zellkerne und keine Partikel im Cytoplasma.
+
+Lymphozyten und Granulozyten werden in weitere Zelltypen unterteilt:
+
+
+== Funktionen der einzelnen Leukozyten ==
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+Die einzelnen Blutzellen haben innerhalb des Immunsystems verschiedene Funktionen, welche im Folgenden kurz dargestellt sind. Nähere Informationen gibt es unter den entsprechenden Begriffen.
+
+
+== Bindung der Leukozyten an die Blutgefäße ==
+Die weißen Blutzellen sind sozusagen die Wächter des Immunsystems und patrouillieren ständig im gesamten Organismus auf der Suche nach Erregern oder zu zerstörenden Zellstrukturen. Dazu nutzen sie den Blutkreislauf, um von einem Ort zum anderen zu gelangen, und tasten während dieser Phase die Wände der Gefäßzellen systematisch nach Stoppsignalen ab, die beispielsweise Krebszellen anzeigen. Des Weiteren dringen in jeder Minute Hunderte von weißen Blutzellen in das Gewebe ein und suchen dort nach Verletzungen und Entzündungen. Dies tun sie, indem sie an den Wänden der Zellen entlangrollen und dort nach bestimmten Strukturen suchen, die einen solchen Zustand anzeigen.
+
+
+== Zahlen und Werte ==
+
+
+=== Normalwerte von Leukozyten im menschlichen Blut ===
+Leukozyten werden in Zellenanzahl pro Volumeneinheit gemessen. Durch Verwendung verschiedener Volumeneinheiten ergeben sich zwei übliche Maßeinheiten, bei denen sich die Maßzahlen um den Faktor 1.000 unterscheiden. Dies sind die Zellanzahl pro Mikroliter (µl) und die pro Nanoliter (nl). In SI-Einheiten und SI-Präfixen können diese Einheiten als 106/l = Mega/Liter und 109/l = Giga/Liter ausgedrückt werden.
+
+Eine die Normwerte übersteigende Anzahl von Leukozyten pro Volumen wird als Leukozytose bezeichnet.
+Eine Unterschreitung der Normwerte der Leukozyten pro Volumen wird als Leukopenie bezeichnet.
+Auf siebenhundert rote Blutkörperchen kommt unter normalen Bedingungen etwa eine weiße Blutzelle.
+
+
+=== Prozentualer Anteil der Untergruppen an der Gesamtzahl der Leukozyten im Organismus ===
+
+
+== Krankheiten im Zusammenhang mit Leukozyten ==
+
+
+=== Leukämie ===
+Bei den Leukämien verändern sich einzelne Untergruppen der Leukozyten zu Tumorzellen. Am häufigsten betroffen sind die Lymphozyten. Der Entstehungsort der Krankheit ist das Knochenmark, wo die Tumorzellen mit dem Blutstrom in Kontakt kommen und dadurch im ganzen Körper verteilt werden. Durch ihr massenhaftes Auftreten rufen die Tumorzellen Krankheitssymptome in allen Organen hervor. Vor allen Dingen im Knochenmark verdrängen sie die Erythrozyten, normalen Leukozyten und Thrombozyten und hemmen auf diese Weise deren Bildung. Die Betroffenen fallen durch Müdigkeit, Blässe, Blutungsneigung und allgemeines Krankheitsgefühl auf. Gleichzeitig entsteht eine Anfälligkeit für Infektionen, weil die entarteten Leukozyten ihre eigentliche Aufgabe der Immunabwehr nicht erfüllen.
+
+
+=== HIV ===
+Das Humane Immundefizienz-Virus vermehrt sich vorwiegend über T-Helferzellen. Mit der Zeit sinkt die Anzahl der vorhandenen T-Helferzellen, bis schließlich die komplette Immunabwehr zusammenbricht. Es treten die Symptome des AIDS auf. Die Erkrankten sterben oft an opportunistischen Infektionen. Ein typisches Beispiel für eine solche Infektion ist eine Lungenentzündung durch Pneumocystis jirovecii, an der gesunde Menschen nur sehr selten erkranken.
+
+
+=== Adhäsionsdefizit ===
+Hierbei handelt es sich um eine Gruppe (seltener) erblicher Biosynthesestörungen des Glykoproteins, die zu geistigen und körperlichen Behinderungen und einer vermehrten Infektanfälligkeit führen können. Derzeit sind neun verschiedene Subtypen der Erkrankung bekannt. Die Zahl der Erkrankten wird in Europa auf 300 geschätzt. Typisch ist eine Leukozytose ohne ersichtlichen Grund. Die Adhäsionsfähigkeit der Leukozyten an die Blutgefäßwand (das Gefäßendothel), wie sie Dutrochet 1824 erstmals ebenso wie ihre Fähigkeit, ins Gewebe zu emigrieren, beschrieben hatte, ist bei diesem Krankheitsbild erheblich eingeschränkt. Das Krankheitsbild ist auch in der Veterinärmedizin bekannt.
+
+
+== Quellen ==
+Hermann Delbrück: Chronische Leukämien. Stuttgart 2004, ISBN 3-17-018369-9.
+Charles A. Janeway jr. u. a.: Immunologie. Spektrum Akademischer Verlag, Heidelberg 2002, ISBN 3-8274-1078-9.
+Thomas Lothar (Hrsg.): Labor und Diagnose. Frankfurt am Main 2005, ISBN 3-9805215-5-9.
+Arne Schäffler (Hrsg.): Mensch, Körper, Krankheit. München 2001, ISBN 3-437-55091-8.
+Dorothea Zucker-Franklin (Hrsg.): Atlas der Blutzellen Funktion und Pathologie. Stuttgart 1990, ISBN 3-437-11299-6.
+
+
+== Weblinks ==
+
+Skript zu Immunologie (Einführung in die Biotechnologie, ETH Zürich) (PDF-Datei; 2,14 MB)
+Videos zu Leukozyten herausgegeben vom Institut für den Wissenschaftlichen Film.
+
+
+== Einzelnachweise ==

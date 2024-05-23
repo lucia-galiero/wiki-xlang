@@ -1,0 +1,98 @@
+La fusion du cœur d'un réacteur nucléaire survient lorsque les crayons de combustible nucléaire d'un réacteur nucléaire, qui contiennent l'uranium ou le plutonium ainsi que des produits de fission hautement radioactifs, commencent à surchauffer puis à fondre. Elle se produit en particulier lorsqu'un réacteur cesse d'être correctement refroidi. Elle est considérée comme un accident nucléaire grave en raison de la probabilité que des matières fissiles puissent alors polluer l'environnement et émettent de nombreux radioisotopes hautement radioactifs, après avoir franchi l'enceinte de confinement.
+Plusieurs fusions du cœur se sont déjà produites dans des réacteurs nucléaires tant civils que militaires (voir la liste d'accidents nucléaires). Elles se sont caractérisées par des dégâts très sérieux sur le réacteur nucléaire et les cas les plus graves (rejets radioactifs dans l'environnement) ont nécessité une évacuation de la population civile des environs. Dans la plupart des cas, il a fallu ensuite arrêter définitivement le réacteur, puis réaliser son démantèlement complet.
+
+
+== Analyse des causes ==
+Un crayon de combustible nucléaire fond quand la température atteint une valeur supérieure à sa température de fusion. Lors de la catastrophe de Tchernobyl, cette augmentation de température a été quasi instantanée ; dans d'autres cas, elle peut prendre plusieurs heures, notamment lors de l'accident nucléaire de Three Mile Island.
+La fusion du cœur peut se produire alors que la réaction en chaîne neutron-fission s'est terminée, car l'inertie thermique, la chaleur résiduelle (liée à la désintégration des produits de fission à courte durée de vie) ou la chaleur d'un incendie peuvent continuer à chauffer le combustible bien après l'arrêt du réacteur.
+Dans les réacteurs nucléaires, les crayons de combustibles présents dans le cœur peuvent fondre pour les raisons suivantes :
+
+perte de contrôle de la pression du réfrigérant : si le réfrigérant est un gaz inerte, l'efficacité du transfert thermique peut diminuer ; si le réfrigérant est de l'eau pressurisée, il peut se former une bulle de vapeur autour d'un crayon de combustible ;
+fuite du réfrigérant : le débit du réfrigérant n'est pas suffisant pour refroidir le réacteur (le réfrigérant peut être de l'eau, un gaz inerte ou du sodium liquide). Un accident dû à la fuite de réfrigérant peut être étroitement lié à une « perte de contrôle de la pression du réfrigérant » ;
+excès de puissance incontrôlé : un pic de puissance se produit soudainement au-delà des spécifications techniques du réacteur ;
+incendie autour du combustible nucléaire : cela n'est possible que dans les réacteurs conçus avec un modérateur à l'hydrogène ou au graphite.
+La défaillance des systèmes d'alimentation électrique de secours pourrait aussi conduire à une fusion du cœur. Un rapport de l'autorité de sûreté nucléaire américaine (NRC) révèle que 50 % des scénarios de fusion du cœur proviennent d'une coupure de courant dans la centrale.
+
+
+== Sûreté des centrales ==
+
+
+=== Risque de perte du système de refroidissement des réacteurs ===
+Immédiatement après l'arrêt des réactions de fission, un réacteur nucléaire dégage toujours environ 7 % de sa puissance thermique nominale, cette puissance résiduelle diminue de façon logarithmique. Elle est ainsi proche de 2 % de la puissance nominale une demi heure après l'arrêt et de 1 % de la puissance nominale huit heures après l'arrêt.
+
+Cette chaleur résiduelle est normalement — dans ce type de cas — éliminée par refroidissement, au moyen des circuits auxiliaires dans lesquels l'eau est le fluide de refroidissement et dont les pompes et les systèmes de contrôle doivent être alimentés en électricité. Dans le cas de l'accident nucléaire de Fukushima, ces systèmes ont été endommagés et les systèmes de secours semblent avoir été fortement endommagés par le tremblement de terre ou noyés par le tsunami consécutif. Les groupes électrogènes de secours se sont brusquement arrêtés une heure plus tard.
+Le réacteur ne peut plus être refroidi et le volume d'eau diminue, ce qui peut conduire à la fusion du cœur du réacteur. Le point de fusion du combustible est d’environ 2 800 °C, tandis que la gaine à base de zirconium se détériore aux alentours de 830 °C puis, par une réaction oxydante avec l'eau, rompt aux alentours de 1 200 °C,. La fusion de la gaine survient à environ 1 600 °C, température atteinte en quelques minutes dans un cœur de réacteur à l’arrêt s’il se retrouve en partie hors de l’eau.
+Une explosion peut disperser la très forte radioactivité du cœur sur des distances de l’ordre du kilomètre et détruire les moyens de contrôle de la centrale.
+Il est donc jugé préférable, lors de ce type d’accident, de laisser s’échapper la vapeur et l’hydrogène accumulés dans l’enceinte, quitte à entraîner à l’extérieur une contamination radioactive généralement limitée, si des tubes de combustible ont été fissurés/fendus. De même, le refroidissement du cœur est considéré comme prioritaire, quitte à ce qu’une faible radioactivité sorte de l’enceinte (des bassins d’épandage sont prévus pour retenir ces eaux de refroidissement potentiellement contaminées). Cette approche instaure un « mode dégradé » grâce auquel le plus gros de la radioactivité reste à l’intérieur des barrières de confinement.
+
+
+=== Risque de défaut de refroidissement des piscines d'entreposage ===
+
+Après avoir été retirés du cœur d'un réacteur les éléments combustibles usés, qui continuent de dégager de la chaleur, sont entreposés dans une piscine de désactivation dont l'eau sert à la fois à les refroidir et à constituer une barrière (« blindage liquide ») aux rayonnements qu'ils émettent. Le niveau d'une piscine doit être constamment contrôlé et sa température ne doit pas dépasser 25 °C, ce qui demande un refroidissement constant. Chaque piscine de 12 mètres de profondeur peut accueillir des matières radioactives sur 4 m de hauteur. Sur le site de Fukushima Daiichi, selon TEPCO, il y avait plus de matières radioactives dans les piscines que dans les réacteurs. Elles contenaient au moment de l'accident 11 125 assemblages de combustible usés (près de quatre fois la quantité de produits radioactifs contenus dans les cœurs des six réacteurs). La piscine du réacteur no 4 (qui était à l'arrêt pour entretien) en contenait 1 331 assemblages en partie exposés à l'air.
+Faute d'apport d'eau destinée au refroidissement d'une piscine d’entreposage du combustible usagé le contenu de la piscine s'évapore (0,4 litre par seconde et par mégawatt) et l'ébullition cause alors l'échauffement puis l'éclatement (lié à l'oxydation) des crayons de combustible. En outre, les piscines d'entreposage sont situées hors de l'enceinte de confinement résistante des réacteurs (elles sont en situation normale confinées dynamiquement) et sont ainsi plus facilement exposées à l'atmosphère.
+Cette situation est potentiellement très grave : si l'eau des piscines s'évapore (ce qui peut survenir après quelques jours de fonctionnement anormal), les éléments combustibles irradiés qu'elle contiennent peuvent fondre ou prendre feu, répandant leurs produits de fission directement dans l'atmosphère,,.
+Dans un tel cas, les rejets radioactifs correspondants seraient bien supérieurs aux rejets survenus jusqu’à présent.
+
+
+=== Risque sismique ===
+Les réacteurs des centrales nucléaires sont conçus pour s’arrêter automatiquement dès le début de secousses importantes, la réaction en chaîne qui a lieu durant le fonctionnement normal du réacteur est alors stoppée, mais les réacteurs doivent être refroidis pour évacuer la chaleur due à l'activité des produits de fission qu'il contient, qui continuent à se désintégrer donc à chauffer durant un temps pouvant atteindre plusieurs mois,.
+
+
+== Conséquences ==
+La perte totale du refroidissement est l’accident majeur dimensionnant les dispositifs de sécurité d’une centrale nucléaire. En effet, c’est en calculant les conséquences éventuelles d’un tel accident sur l’extérieur que l’on détermine si un réacteur est suffisamment sûr. Les conséquences d’un tel accident sont donc étudiées à l’avance et les réponses à apporter aux différentes situations font partie du dossier de sûreté de la centrale. Pour qu'une centrale puisse réglementairement être autorisée à fonctionner, l'opérateur doit démontrer que les effets de n'importe quel accident de fusion du cœur restent confinés à la centrale et n'imposent pas d'évacuer les habitants riverains.
+D’une manière générale, les conséquences d’une perte de refroidissement sur un réacteur peuvent être :
+
+Dommages mécaniques
+La première conséquence est que l’eau de refroidissement s’évapore, ce qui provoque une surpression de vapeur d’eau. La pression de vapeur peut alors être suffisante pour endommager l’installation.
+Pollution radioactive
+
+La température continuant de monter, les gaines (longs tubes) de combustible peuvent se fendre, libérant dans le cœur des produits de fission. Le risque est alors que ces produits de fission se répandent dans l’atmosphère avec les vapeurs produites, entraînant des contaminations radioactives à l’extérieur.
+Le phénomène peut être lourdement aggravé, comme dans l’accident de Tchernobyl, si un incendie entraîne les matières radioactives dans l'atmosphère.
+Production d'hydrogène et explosion chimique
+Les tubes de combustibles, quand ils ne sont plus plongés dans l’eau, chauffent à des températures beaucoup plus élevées (quelques centaines de degrés). À ces hautes températures, le zirconium qui constitue l’enveloppe du combustible réagit avec l’eau en phase gazeuse pour former de l'oxyde de zirconium et de l’hydrogène,, lequel se mélange à l’eau en phase gazeuse et s’accumule dans les parties hautes du circuit primaire. La réaction Zr+H2O est d'autant plus rapide que la température est élevée et à partir de 1 200 °C (température atteinte uniquement si l'eau contenue dans la cuve est entièrement passée en phase gazeuse) elle s'accélère fortement. En se combinant avec l’oxygène de l’air, l’hydrogène peut former un mélange explosif. S’il est produit en trop grande quantité, l’hydrogène doit être rejeté vers l'extérieur, sous peine de voir une brèche ou fissure se former par l’effet d’explosions dans la partie la plus faible : soit de l'enceinte de confinement (à la suite d’un relâchement de fluide du circuit primaire), soit de la cuve du réacteur,.
+Fusion du cœur
+Enfin, les éléments combustibles peuvent fondre et le corium formé s’accumuler par gravité, généralement dans les parties basses de la cuve du réacteur. Dans la mesure où la géométrie du cœur n’est alors plus contrôlée, il y a un risque d’accident de criticité si les barres de contrôle (fondues avec le reste) ne peuvent plus assurer leur fonction. C’est pour cette raison que du bore (sous forme d'acide borique) est ajouté à l’eau de refroidissement, pour absorber le plus de neutrons possible et diminuer ainsi la réactivité du cœur.
+Réaction nucléaire entretenue
+Un éventuel accident de criticité reste toujours à la limite de la criticité, mais ne peut pas aller au-delà, bien que pouvant conduire à une petite explosion mécanique.[pas clair] Une explosion nucléaire proprement dite (du même type que celle d’une bombe atomique) n’est physiquement pas possible dans une centrale nucléaire, parce que le corium, qui ne se déplace que lentement, serait immédiatement dispersé par l’énergie d’une réaction en chaîne commençante, avant d’avoir pu dégager une fraction significative de son potentiel d’énergie,.
+Le scénario de l'accident de Tchernobyl avait superposé deux problèmes : d’une part une explosion de vapeur et d’autre part l’incendie du modérateur en graphite provoquant un panache de produits de fission et de débris radioactifs provenant du cœur du réacteur et formant le nuage de radioactivité qui s’était répandu sur toute l’Europe et au-delà, (l'incendie de graphite n'est pas possible pour les REP et les REB, dont la modération des neutrons est assurée par de l’eau).
+
+
+== Cas réels ==
+Lors de l'accident nucléaire de Fukushima Daiichi en 2011, les cœurs des réacteurs 1, 2 et 3 fondent. En 2015, des mesures confirment que les réacteurs 1 et 2 ont complètement fondu, l'étendue réelle des dégâts subis par les trois réacteurs ne pourra être constatée que lorsque les conditions d'accès le permettront.
+Catastrophe de Tchernobyl (Ukraine) en 1986 : fusion complète du cœur du réacteur 4.
+Accident de Three Mile Island (États-Unis) en 1979 : confirmation six ans après l'accident que 45 % du cœur a fondu.
+Centrale de Saint-Laurent (France) en 1969 et 1980.
+Centrale de Lucens (Suisse) en 1969.
+Chapelcross, (Dumfries and Galloway, Écosse, Royaume-Uni) en 1967.
+Centrale nucléaire Enrico Fermi (États-Unis) en 1966.
+Laboratoire d'essais de Santa Susana (États-Unis) en 1959 ;
+EBR-I (États-Unis) en 1955 ;
+NRX (Canada) en 1952;
+Plusieurs sous-marins soviétiques subissent une fusion du cœur de leur réacteur nucléaire[réf. nécessaire].
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Débat sur l'énergie nucléaire
+Énergie nucléaire
+Sécurité nucléaire
+Sûreté nucléaire
+Accident nucléaire
+Liste d'accidents nucléaires
+Syndrome chinois
+Corium
+
+
+=== Liens externes ===
+« Accidents graves des réacteurs à eau de production d’électricité » [PDF] (document de référence), IRSN.
+Formation d'évaluateur d'accident grave de fusion du cœur par l'IRSN
+Partial Fuel Meltdown Events
+Critical Hour: Three Mile Island, The Nuclear Legacy, And National Security Online book by Albert J. Fritsch, Arthur H. Purcell, and Mary Byrd Davis (2005)
+Contribution des essais en matériaux prototypiques sur la plate-forme PLINIUS à l'étude des accidents graves de réacteurs nucléaires (2008)
+
+ Portail de l’énergie   Portail du nucléaire   Portail des risques majeurs

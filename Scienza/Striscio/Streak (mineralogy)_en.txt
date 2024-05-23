@@ -1,0 +1,16 @@
+The streak of a mineral is the color of the powder produced when it is dragged across an un-weathered surface. Unlike the apparent color of a mineral, which for most minerals can vary considerably, the trail of finely ground powder generally has a more consistent characteristic color, and is thus an important diagnostic tool in mineral identification. If no streak seems to be made, the mineral's streak is said to be white or colorless. Streak is particularly important as a diagnostic for opaque and colored materials. It is less useful for silicate minerals, most of which have a white streak or are too hard to powder easily.
+The apparent color of a mineral can vary widely because of trace impurities or a disturbed macroscopic crystal structure. Small amounts of an impurity that strongly absorbs a particular wavelength can radically change the wavelengths of light that are reflected by the specimen, and thus change the apparent color. However, when the specimen is dragged to produce a streak, it is broken into randomly oriented microscopic crystals, and small impurities do not greatly affect the absorption of light. 
+The surface across which the mineral is dragged is called a "streak plate", and is generally made of unglazed porcelain tile. In the absence of a streak plate, the unglazed underside of a porcelain bowl or vase or the back of a glazed tile will work. Sometimes a streak is more easily or accurately described by comparing it with the "streak" made by another streak plate.
+Because the trail left behind results from the mineral being crushed into powder, a streak can only be made of minerals softer than the streak plate, around 7 on the Mohs scale of mineral hardness. For harder minerals, the color of the powder can be determined by filing or crushing a small sample, which is then usually rubbed on a streak plate. Most minerals that are harder have an unhelpful white streak.
+Some minerals leave a streak similar to their natural color, such as cinnabar, lazurite and native gold. Other minerals leave surprising colors, such as fluorite, which always has a white streak, although it can appear in purple, blue, yellow, or green crystals. Hematite, which is black in appearance, leaves a red streak which accounts for its name, which comes from the Greek word "haima", meaning "blood." Galena, which can be similar in appearance to hematite, is easily distinguished by its gray streak.
+
+
+== References ==
+Bishop, A.C.; Woolley, A.R.; Hamilton, W.R. (1999). Cambridge Guide to Minerals, Rocks and Fossils (2nd ed.). Cambridge: Cambridge University Press. pp. 12–13. ISBN 9780521778817.
+Holden, Martin (1991). The Encyclopedia of Gemstones and Minerals. New York: Facts on File. p. 251. ISBN 1-56799-949-2.
+Schumann, Walter (1992). Minerals of the World. New York: Sterling Publishing. pp. 18–16. ISBN 0-00-219909-2.
+
+
+== External links ==
+Physical Characteristics of Minerals, at Introduction to Mineralogy by Andrea Bangert
+What is Streak? from the Mineral Gallery

@@ -1,0 +1,153 @@
+Ein Schlaganfall (umgangssprachlich auch Apoplex, kurz für lateinisch Apoplexia cerebri) ist eine plötzlich einsetzende, von einem Herd ausgehende Ausfallerscheinung einer neurologischen Funktion infolge einer Durchblutungsstörung im Gehirn (ischämischer Schlaganfall) oder einer Gehirnblutung (hämorrhagischer Schlaganfall). Die Symptome sind abhängig vom betroffenen Gehirnareal und variieren stark. Beispiele sind: Ausfall oder Störung von Sinneseindrücken, Sprachstörungen, Verwirrtheit, Schwindel, Kopfschmerzen oder halbseitige Muskellähmungen. Der Schlaganfall ist ein medizinischer Notfall und sollte ohne jeden Zeitverlust in einem geeigneten Krankenhaus behandelt werden. Typische Therapieverfahren des ischämischen Schlaganfalls sind Thrombolyse oder eine kathetergeführte mechanische Rekanalisation der betroffenen Gehirngefäße. Einige Formen der Gehirnblutung können einen neurochirurgischen Eingriff erfordern.
+Der Schlaganfall ist weltweit die zweithäufigste Todesursache und der zweithäufigste Grund für Behinderung.
+
+
+== Begriff ==
+Die Terminologie des Schlaganfalls wurde und wird nicht einheitlich benutzt. Gleichbedeutend zum Begriff Schlaganfall sind auch die englischen Termini Stroke, Cerebrovascular accident (CVA) und Cerebrovascular Insult (CVI). Diese Bezeichnungen werden häufig als Oberbegriff für unterschiedliche neurologische Krankheitsbilder benutzt, deren wichtigste Gemeinsamkeit plötzliche Symptome nach einer auf das Gehirn begrenzten Durchblutungsstörung sind, wobei der Funktionsverlust definitionsgemäß nicht auf primäre Störungen der Erregbarkeit von Nervenzellen zurückzuführen sein darf (konvulsive Störung, siehe Epilepsie).
+
+
+=== Synonyme ===
+Es existieren viele veraltete Synonyme. Die Begriffe Apoplex, Apoplexia cerebri und apoplextischer Insult sind veraltet.  Gelegentlich und vor allem in der Schweiz wird das Synonym Hirnschlag verwendet.
+
+
+== Epidemiologie ==
+Geschätzt gibt es in Deutschland jährlich etwa 270.000 Schlaganfallneuerkrankungen.
+Jährliche Häufigkeiten in Deutschland:
+
+durch Minderdurchblutung primär ischämische Hirninfarkte (Inzidenz 160–240 Ereignisse/100.000 Einwohner)
+Hirnblutungen (24/100.000)
+Einblutungen in den das Gehirn umgebenden Liquorraum, sogenannte Subarachnoidalblutungen (6/100.000)
+Schlaganfälle ungeklärter Ursache (8/100.000)
+Der Schlaganfall gehört zu den häufigsten schweren Erkrankungen in Deutschland, hat eine 1-Jahres-Mortalität von 20 bis 30 % und ist auch eine häufige Todesursache in Deutschland: 2015 stellte das Statistische Bundesamt 56.982 Todesfälle durch zerebrovaskuläre Krankheiten fest, was einem Anteil von 6,2 % entspricht.
+Darüber hinaus ist der Schlaganfall mit einer Invaliditätsrate von 30 bis 35 % die häufigste Ursache für mittlere und schwere Behinderung.
+51 % aller Schlaganfälle betrafen bis 2010 die Altersgruppe der über 75-Jährigen. Mit zunehmendem Alter steigt das Schlaganfallrisiko überproportional.
+In den USA sind Schlaganfälle die fünfthäufigste Todesursache. Weltweit ist der Schlaganfall eine der häufigsten Ursachen für eine Behinderung. In der GBD 2016 (Global Burden of Disease 2016 Lifetime Risk of Stroke) wurde weltweit ein Lebenszeitrisiko für Schlaganfall von 24,9 % ermittelt. Männer hatten mit 24,9 % ein geringfügig geringeres Risiko als Frauen mit 25,1 %. Das Risiko eines ischämischen Schlaganfalls betrug weltweit 18,3 %, das eines hämorrhagischen Apoplex 8,2 %. Das höchste Lebenszeitrisiko bestand in Ostasien (38,8 %), Zentraleuropa (31,7 %) und Osteuropa (31,6 %). Das geringste Risiko bestand im östlichen Subsahara-Afrika (11,8 %).
+
+
+== Formen eines Schlaganfalls – Minderdurchblutung oder Blutung ==
+
+Dem ischämischen Schlaganfall liegt ein plötzlicher Mangel an Sauerstoff und anderen Substraten für die Nervenzellen zugrunde. Er entstehet meist in Folge von Thrombose, Embolie oder Spasmus einer hirnversorgenden Arterie und führt zum Hirninfarkt.
+Die akute Hirnblutung (hämorrhagischer Schlaganfall) verursacht durch den Volumeneffekt des Hämatoms und des Ödems eine umschriebene Hirnschädigung. Sekundär kann es aufgrund der raumfordernden Wirkung ebenfalls zu einer Ischämie kommen. Umgekehrt kann es bei primär ischämischen Infarkten zu sekundären Blutungen im Infarktgebiet (hämorrhagische Infarzierung) kommen.
+Die Unterscheidung zwischen Minderdurchblutung und Blutung ist erst durch bildgebende Verfahren wie der Computertomographie (CT) oder Magnetresonanztomographie (MRT, englisch MRI) sicher möglich, wobei in den ersten Stunden beide Bildgebungsmethoden noch unauffällig sein können, dies insbesondere beim primär ischämischen Hirninfarkt. Die Verdachtsdiagnose einer Subarachnoidalblutung, welche infolge einer geplatzten Arterie (zum Beispiel aufgrund eines Aneurysmas) entsteht, kann – insbesondere bei nur milder Symptomatik (zum Beispiel alleinige Kopfschmerzen) – durch den Nachweis von Blutbestandteilen im Nervenwasser bei der Lumbalpunktion bestätigt werden.
+Minderdurchblutungen, die kürzer als 24 Stunden andauern und von bloßem Auge ohne sichtbare Folgen bleiben, wurden früher als transitorische ischämische Attacke (TIA) bezeichnet. In den Leitlinien der Deutschen Gesellschaft für Neurologie von 2005 wird darauf hingewiesen, dass die klassische Differenzierung von transitorisch ischämischen Attacken (TIA) und vollendeten ischämischen Schlaganfällen als überholt gilt. Gleichwohl wird der Unterschied in manchen Lehrbüchern noch erwähnt. Zwei Gründe dafür sind, dass bei vielen Patienten mit einer sogenannten TIA morphologische Hirnverletzungen nachweisbar sind und dass das Risiko für einen Re-Infarkt nach TIA und vollendetem Schlaganfall etwa gleichermaßen erhöht ist. Abgesehen von der Frage der Lyse sollen sowohl vollendete Schlaganfälle als auch früher als TIA bezeichnete Zustände gleich behandelt werden. Der Begriff (prolongiertes) reversibles ischämisches neurologisches Defizit (RIND/PRIND) für länger als 24 Stunden, aber kürzer als drei Wochen anhaltende Befunde soll ebenfalls nicht mehr angewendet werden, da dies bereits einem manifesten Schlaganfall entspricht. Gleiches gilt für die Beschreibung eines partiell reversiblen ischämischen neurologischen Syndroms (PRINS).
+
+
+== Symptome ==
+Als Zeichen eines Schlaganfalls können zum Beispiel folgende neurologische Symptome einzeln oder gleichzeitig auftreten:
+
+Bewusstseinsstörungen (Bewusstseinstrübung, Somnolenz, Koma)
+Verwirrtheit
+Missempfindungen (z. B. Parästhesie, Hypästhesie) an Körperteilen oder einer ganzen Körperhälfte
+Lähmung oder Schwäche einer Körperhälfte einschließlich einer Gesichtshälfte, seltener nur in einem Arm, Bein oder in allen vier Extremitäten
+Aphasie, Dysarthrie
+Schluckstörungen (Dysphagie, vier Grade der NOD = neurogene oropharyngeale Dysphagie)
+schmerzlose Sehstörung auf einem oder beiden Augen, einseitige Pupillenerweiterung, Gesichtsfeldausfall, Doppelbilder, Blickdeviation
+Schwindel, Gangstörung, Gleichgewichts- oder Koordinationsstörung (Ataxie)
+stärkster Kopfschmerz ohne erkennbare Ursache bei evtl. entgleistem (überhöhtem) Blutdruck, Übelkeit, Erbrechen
+fehlende Wahrnehmung eines Teils der Umwelt oder des eigenen Körpers (Neglect)
+
+
+== Ursachen ==
+Ischämischer Schlaganfall:
+
+Verschluss einer hirnversorgenden Arterie durch ein Blutgerinnsel in Folge von arterieller Embolie oder Thrombose
+Kritische Minderperfusion in Folge von Gefäßverengungen (hämodynamischer Infarkt) oder Gefäßverkrampfungen (vasospastischer Infarkt)
+Hirnblutungen:
+
+Austritt von Blut in das Hirngewebe nach Riss eines Gefäßes, z. B. infolge hohen Blutdrucks, Blutgerinnungsstörungen oder vorbestehenden Gefässerkrankungen (z.B Angiom)
+Subarachnoidalblutung, sub- oder epidurale Hämatome
+Sinusthrombose oder Hirnvenenthrombose:
+
+Verschluss der venösen Abflussgefäße
+als Komplikation können Hirnblutungen (Stauungsblutung) oder Infarkte auftreten
+
+
+== Risikofaktoren ==
+Eine an tierischen Fetten reiche Ernährung erhöht das Schlaganfallrisiko. 2021 wertete eine Studie 27 Jahre Daten von 117.000 Probanden aus. Die Studie kam zu dem Schluss, dass Fette aus tierischen Lebensmitteln das Schlaganfallrisiko erhöhen, während solche aus pflanzlichen Lebensmitteln es senken.
+
+
+== Früherkennung eines erhöhten Schlaganfallrisikos ==
+Als Früherkennung wird ein Ultraschall der Halsschlagadern angeboten, der Ablagerungen erkennen und so dazu beitragen soll, das Schlaganfallrisiko zu senken. Der IGeL-Monitor des MDS (Medizinischer Dienst des Spitzenverbandes Bund der Krankenkassen) hat diese Untersuchung mit „tendenziell negativ“ bewertet.  Denn bei der systematischen Literaturrecherche fanden die Wissenschaftler des IGeL-Monitor keine Studien zu der Frage, ob der Ultraschall die Häufigkeit von Krankheit und Tod durch einen Schlaganfall vermindern kann. Zwar könne die Ultraschalluntersuchung viele Verengungen der Halsschlagader früh erkennen, aber ob die Behandlung dann wirklich dazu führe, dass weniger Menschen einen Schlaganfall bekommen, sei unklar. Schäden seien dagegen möglich durch unnötige weitere Untersuchungen und unnötige Behandlungen.  Wichtigste Quelle ist eine Übersichtsarbeit von 2014.  In der „Leitlinie zur Diagnostik, Therapie und Nachsorge der extracraniellen Carotisstenose“ raten mehrere deutsche Fachgesellschaften aufgrund der Studienlage ebenfalls von einer Reihenuntersuchung ab: „Ein routinemäßiges Screening auf das Vorliegen einer Carotisstenose soll nicht durchgeführt werden.“  Auch vier internationale Leitlinien empfehlen keine Reihenuntersuchung von Menschen ohne Beschwerden und ohne besondere Risikofaktoren.  Bei einem Verdacht oder bei Beschwerden, die auf eine verengte Ader zurückgehen können, ist der Ultraschall Kassenleistung.
+
+
+== Diagnostik ==
+Die Diagnose des Schlaganfalls wird klinisch gestellt, in der Regel durch einen Neurologen. Dieser bedient sich hierfür unterschiedlicher Untersuchungsmethoden, um die zahlreichen unterschiedlichen Funktionen des Gehirns zu überprüfen. Häufig orientieren sich diese Untersuchungen an Scoringsystemen wie der National Institutes of Health Stroke Scale (NIHSS), die eine quantitative Einschätzung der Schwere des Schlaganfalls ermöglicht. Je nach vermuteter Lokalisation des Schlaganfalls im Gehirn können jedoch auch speziellere Untersuchungen, z. B. des Kleinhirns oder der Hirnnerven, indiziert sein. Bei sich erhärtendem oder zumindest nicht mit Sicherheit ausgeschlossenem Verdacht auf Schlaganfall folgt in jedem Fall eine bildgebende Diagnostik.
+Bildgebende Verfahren wie die Computertomographie (CT) oder Magnetresonanztomographie (MRT, englisch MRI) ermöglichen die sofortige Diagnose einer Hirnblutung. Beim ischämischen Schlaganfall hingegen kann eine native (d. h. ohne Kontrastmittel) CT- bzw. MRT-Untersuchung während der ersten Stunden unauffällige Bilder liefern. Je nach Ursache, Lokalisation und Schwere des Schlaganfalls können sich eine CT-Angiographie (CTA) und eine CT-Perfusion anschließen. Diffusionsgewichtete Aufnahmen (DW-MRI) ermöglichen in der MRT-Untersuchung schon wenige Minuten nach Beginn des Schlaganfalls eine Darstellung des Infarktgebiets.
+Eine feine Subarachnoidalblutung kann unter Umständen in den bildgebenden Verfahren unsichtbar sein. Sie kann dann sensitiver durch den Nachweis von Blutbestandteilen im Nervenwasser durch eine Lumbalpunktion festgestellt werden.
+Eine Blutabnahme bei Verdacht auf Schlaganfall ist obligatorisch. Hierbei wird neben einem Blutbild insbesondere der Gerinnungsstatus bestimmt, zudem die Elektrolyte, Harnstoff, Kreatinin, Blutzucker, Leberwerte, CRP, TSH und andere Laborwerte. Blut-Biomarker (z. B. S-100B, NSE, GFAP), die auf Schäden des Gehirns hinweisen können, können die Diagnostik ergänzen, sind jedoch nicht spezifisch für einen Schlaganfall und in der Frühphase bisweilen unauffällig.
+Speziell für Rettungsdienstpersonal wurde 1997 die Cincinnati Prehospital Stroke Scale (CPSS) entwickelt. Diese wird aus drei Kriterien der NIHSS gebildet und soll als ein einfaches Instrument zur Diagnose eines Schlaganfalls dienen. Auch in der Laien-Ausbildung für Erste Hilfe werden die Kriterien der CPSS oft mit dem englischen Akronym FAST vermittelt (Face, Arms, Speech, Time). Dieser Test besteht aus vier Schritten:
+
+Face (Gesicht): Die Person auffordern, z. B. breit zu lächeln oder die Zähne zu zeigen, da eine gelähmte Gesichtshälfte ein Symptom eines Schlaganfalls sein kann. Eine andere Methode ist, die betroffene Person die Backen aufblasen zu lassen und darauf leichten Widerstand auszuüben; betroffene Personen können eine Seite nicht aufblasen oder nicht gegen den Widerstand aufgeblasen halten.
+Arms (Arme): Die Person wird aufgefordert, beide Arme mit nach oben geöffneten Handflächen nach vorne zu strecken, sodass die Arme ohne Unterstützung im 90°-Winkel zur Körperachse gehalten werden. Bei einer Lähmung kann ein Arm nicht in die verlangte Position gebracht oder in ihr gehalten werden, sinkt oder dreht sich nach innen.
+Speech (Sprache): Man achtet auf die Aussprache der Person. Sie kann undeutlich oder verlangsamt sein, sich „verwaschen“ anhören, oder die Person scheint Schwierigkeiten zu haben, ihre Gedanken in Worte zu fassen.
+Time (Zeit): Besteht der Verdacht eines Schlaganfalls, muss die betroffene Person so schnell wie möglich mit dem Rettungsdienst in eine geeignete Klinik – vorzugsweise in eine Stroke Unit – transportiert werden. Langwierige Behandlungen vor Ort („stay and play“) sollten nur dann erfolgen, wenn vor Ort eine Mobile Stroke Unit zum Einsatz kommt – ansonsten gilt der Grundsatz „Load and Go“. Generell muss die Behandlung binnen kürzester Zeit erfolgen, um Hirnschädigungen so gering wie möglich zu halten. Wichtig ist ein Festhalten des zeitlichen Beginns der Symptome und der zeitliche Verlauf (Verschlechterung bzw. Besserung).
+Einschränkungen erfährt die CPSS insbesondere durch ihre Fokussierung auf Symptome eines kortikalen Infarkts. Sie ist damit zwar in der Lage, eine Vielzahl von schweren Schlaganfällen mit relativ hoher Sensitivität zu erkennen, verpasst aber unter Umständen seltenere Schlaganfälle in anderen Bereichen. Deshalb wurde vorgeschlagen, das Akronym auf BE FAST zu erweitern, mit den zusätzlichen Kriterien:
+
+Balance (Gleichgewicht): Plötzlich aufgetretene Gleichgewichts- oder Gangstörungen können Symptome eines Schlaganfalls sein.
+Eyes (Augen): Die Person klagt über den plötzlichen Verlust oder Einschränkung der Sehfähigkeit auf einem oder beiden Augen, Doppelbilder, unscharfes Sehen.
+Eine 2021 veröffentlichte Studie, die mit Patienten in den Niederlanden durchgeführt wurde, zeigte, dass bei der präklinischen Schlaganfallerkennung ein Vorgehen nach dem RACE- (Rapid Arterial oCclusion Evaluation), G-FAST- (Gaze, Face, Arms, Speech, Time), oder CG-FAST-Schema (Conveniently-Grasped Field Assessment Stroke Triage) gut geeignet ist, um Schlaganfälle früh zu erkennen.
+
+
+== Prävention ==
+Der persönliche Lebensstil beeinflusst das Risiko, einen Schlaganfall zu erleiden. Vor allem ein normaler Blutdruck, gute Blutzuckerwerte und Tabak-Abstinenz können das Schlaganfallrisiko reduzieren. Allein ein Blutdruck im Normbereich vermindert das Schlaganfallrisiko um 60 Prozent. Weitere Aspekte eines gesunden Lebensstils sind die körperliche Aktivität, die Vermeidung von Übergewicht, normale Cholesterin-Werte und eine gesunde Ernährung. Studien zufolge stellt ein hoher Konsum von Salz einen Risikofaktor dar, der Konsum von Kalium hingegen einen Schutzfaktor.
+Im Rahmen der Ursachensuche und damit im Sinne der Sekundärprävention nach einem Schlaganfall sollte auch nach einem intermittierenden (paroxysmalen) Vorhofflimmern gesucht werden. Hierbei wird ein Untersuchungszeitraum von 24 bis 72 Stunden empfohlen. Bei Nachweis von auch nur zeitweisem Vorhofflimmern sollte eine Gerinnungshemmung mit Phenprocoumon oder direkten oralen Antikoagulanzien (DOAK) erfolgen.
+
+
+== Therapie ==
+Schlaganfallpatienten, auch Verdachtsfälle, sollten unverzüglich ärztlich untersucht werden. Die sogenannte „time-to-needle“ (Zeitspanne, innerhalb derer eine etwaige Lyse-Behandlung [s. u.] begonnen sein muss) liegt bei maximal viereinhalb Stunden nach Eintritt des Schlaganfalls. Nach dem unverzüglichen Absetzen eines Notrufs sollte der Patient beobachtet und mit erhöhtem Oberkörper gelagert werden. Zudem sollte er nicht körperlich belastet werden sowie nichts essen und trinken, da Aspirationsgefahr besteht. Gemeinhin erfolgt ein Notfalltransport mit Rettungswagen – eventuell mit Notarzt – in eine Stroke Unit zwecks genauer Diagnostik und entsprechender Behandlung, häufig mittels Lysetherapie. Allerdings ist die Bezeichnung Stroke Unit oder auch Schlaganfall-Station in Deutschland gesetzlich nicht geschützt.
+Auf dem Land – mit einer entsprechend geringen Dichte an Stroke Units – kommt häufig auch ein Rettungshubschrauber zum Einsatz, da mit diesem ein schnellerer Transport in ein weiter entferntes, dafür geeignetes Krankenhaus durchgeführt werden kann. Zum Teil sind die zurückzulegenden Entfernungen so groß, dass selbst nachts der Einsatz eines Intensivtransporthubschraubers, der eine wesentlich höhere Vorlaufzeit als ein Rettungshubschrauber hat, in Erwägung gezogen werden kann. Auch Mobile Stroke Units (speziell ausgerüstete Rettungswagen) kommen hier zum Teil zum Einsatz.
+Bei hämorrhagischen Schlaganfällen, also Hirnblutungen, ist die Lyse-Behandlung nicht angezeigt. In vielen Ischämie-Fällen hingegen gelingt es durch die intravenöse Verabreichung von Medikamenten (Thrombolyse), das Blutgerinnsel aufzulösen und das Gehirn vor einem dauerhaften Schaden zu bewahren. Eine frühe Thrombolyse verbessert nachweislich die Prognose der Patienten.
+Ein recht neues Verfahren, die Neurothrombektomie, entfernt mechanisch mit einem Katheter (neuro thrombectomy catheter) das Blutgerinnsel im Gehirn. „Mehr als 60 Prozent der Patienten mit großen Schlaganfällen können nach der Katheterbehandlung bereits nach drei Monaten wieder ein eigenständiges Leben führen. Bei der medikamentösen Therapie liegt diese Quote bei nur etwa 15 Prozent“. Insbesondere für Patienten, bei denen das Blutgerinnsel ein großes Gefäß im Gehirn verschließt, ist die Thrombektomie wirkungsvoll. In rund 90 Prozent der Fälle kann das Gefäß wieder eröffnet werden. Die Neurothrombektomie kann allerdings bei nur etwa 10 bis 15 Prozent der ischämischen Schlaganfälle eingesetzt werden. Bislang wird dieses Verfahren in Deutschland in etwa 140 Krankenhäusern angeboten und stetig auf neue Kliniken ausgeweitet (Stand Oktober 2017). Im Lauf des Jahres 2015 zeigten fünf Studien an Patienten mit sehr schweren Schlaganfällen in Folge eines Grossgefässverschlusses eine Überlegenheit der Kombination von Thrombektomie mit Thrombolyse gegenüber der medikamentösen Thrombolyse alleine.
+
+
+== Rehabilitation ==
+
+Die medizinische Rehabilitation von Patienten mit zerebrovaskulärer Insuffizienz beginnt idealerweise postakut in einer Stroke Unit. Rehabilitative Ansätze wie das des Bobath-Konzepts erfordern ein hohes Maß an interdisziplinärer Zusammenarbeit und sind bei konsequenter Ausführung für den Rehabilitationsverlauf maßgeblich mitverantwortlich. Ein neuer und wissenschaftlich mehrfach validierter Ansatz ist die „Constraint-Induced Movement Therapy“ (CIMT), bei der durch Immobilisation des gesunden Arms für den Großteil der Wachperiode der Patient zum Gebrauch der erkrankten Hand „gezwungen“ wird, wodurch krankhafte Anpassungsphänomene wie der „erlernte Nichtgebrauch“ verhindert werden können. Diese Therapiemethode ist auch bei schwer betroffenen Patienten und im chronischen Stadium einsetzbar. Die Methode ist im deutschsprachigen Raum auch als „Taubsche Bewegungsinduktion“ bekannt.
+Im Zentrum der neurologischen Rehabilitation stehen vor allem Maßnahmen, welche die Körperwahrnehmung des Betroffenen fördern und im besten Falle zur vollständigen Kompensation verlorener Fähigkeiten führen. So werden beispielsweise zur Wiederherstellung der Gehfähigkeit Gangmuster mit Physiotherapeuten eingeübt.
+
+Therapiebegleitend kann eine Hilfsmittelversorgung mit Orthesen erfolgen. Klinische Studien belegen den hohen Stellenwert von Orthesen in der Schlaganfallrehabilitation. Mit Hilfe einer Orthese soll physiologisches Stehen und Gehen wieder erlernt werden, zudem können Folgeerscheinungen durch ein falsches Gangbild verhindert werden. Im Fall einer Hemiparese mit einer Bewegungsstörung, die auf einem reduzierten sensorischen Input beruht, kann eine Bewegungskorrektur durch Biofeedback unterstützt werden, das zusätzliche Informationen für die Propriozeption liefert.
+Ergotherapeuten arbeiten gezielt mit den Patienten an der (teilweisen) Wiederherstellung der sensomotorischen, kognitiven und emotionalen Fähigkeiten.
+Die Bedeutung einer gezielten Logopädie bereits in der Frühphase und über einen langen Zeitraum wird häufig unterschätzt und nur laienhaft angegangen. Für bestimmte Therapiebereiche gibt es bisher kein ausreichendes Angebot im ambulanten Bereich, wie in der Sprachtherapie v. a. bei Aphasie und Dysarthrie. In der rehabilitativen Therapie ist ein hochfrequentes, repetitives Üben bestimmter Aufgaben sinnvoll, die Telerehabilitation oder die Teletherapie ermöglicht eine supervidierte Versorgung von Patienten. Eine intensive Behandlung ist im niedergelassenen Setting nicht zu erbringen. Nur durch Nutzung computergestützter Verfahren kann die Intensität so erhöht werden, dass die sich aus den Vorgaben der Metastudie ergebenden Zielgrößen erreicht werden. Machbarkeitsstudien belegen, dass für etwa 50–60 % der aphasischen Patienten Teletherapie sinnvoll ist. Tatsächlich konnte durch die Teletherapiestudie erstmals gezeigt werden, dass die Therapiefrequenz durch supervidierte Teletherapie ohne Qualitätsverlust so angehoben wird, dass Patienten nachweislich davon profitieren.
+Moderne Ansätze der Neurorehabilitation versuchen krankhafte Hirnaktivität zu beeinflussen. So findet sich bei einigen Patienten eine enthemmte Aktivität der nicht-geschädigten Hemisphäre, welche die motorischen Funktionen der vom Schlaganfall betroffenen Hirnhälfte stört. Eine Reduktion der Überaktivität, zum Beispiel mit Hilfe der transkraniellen Magnetstimulation (TMS), kann bei einem Teil der Patienten zu einer besseren Funktion der gelähmten Hand führen. Derzeit läuft an den National Institutes of Health (NIH) eine Multicenter-Studie zur Wirksamkeit der Magnetstimulationstherapie in Kombination mit einer pharmakologischen Stimulation mit dem Dopamin-Präparat „Levo-DOPA“. Durch Letzteres sollen die TMS-Effekte verstärkt werden. Auch andere Medikamente aus der Gruppe der monoaminergen Substanzen wie Paroxetin (serotonerg), Fluoxetin (serotonerg) oder Reboxetin (adrenerg) können Schlaganfall-Defizite transient verbessern, wie in Placebo-kontrollierten Studien gezeigt werden konnte. Ein neuer technischer Ansatz zur Verbesserung von Ausfällen besteht in der transkraniellen Gleichstrom-Behandlung (transcranial direct current stimulation, tDCS), was derzeit in mehreren Kliniken, unter anderem in Deutschland, überprüft wird.
+
+
+== Langzeitfolgen ==
+Schlaganfälle erhöhen wahrscheinlich das Risiko, an einer Demenz zu erkranken.
+
+
+== Gesundheitsökonomische Aspekte ==
+2017 sollen Schlaganfälle in Europa (32 untersuchte Länder) Kosten von etwa 60 Milliarden Euro verursacht haben. Die Studienautoren ermittelten, dass die reine medizinische Versorgung rund 27 Milliarden Euro (45 %) der Kosten ausmachte. Der Produktivitätsverlust habe sich auf 12 Milliarden Euro belaufen, hälftig verursacht durch vorzeitigen Tod und verpasste Arbeitstage. Familienangehörige leisteten rund 1,3 Milliarden Stunden Pflege für ihre erkrankten Verwandten, was etwa 16 Milliarden Euro gekostet haben soll.
+Deutschland habe rund neun Milliarden Euro – und damit 2,6 Prozent der gesamten Gesundheitskosten – für die medizinische Behandlung von Schlaganfallpatienten ausgegeben. Der Produktivitätsverlust lag bei rund 1,5 Milliarden Euro auf Seiten der Erkrankten und knapp 5 Milliarden Euro bei den pflegenden Angehörigen.
+Im Rahmen einer bevölkerungsbasierten Gesamtkostenanalyse des Schlaganfalls in 32 europäischen Ländern im Jahr 2017, inklusive der damit verbundenen Einkommensverluste durch Behinderung oder frühen Tod, liegt Deutschland mit 113 Euro pro Einwohner an zweithöchster Stelle. Die Bandbreite der Kosten in den untersuchten Ländern geht von elf Euro in Bulgarien bis zu 140 Euro in Finnland. Mit einbezogen wurden Kosten im Gesundheitssystem, dem Sozialsystem und auch die verursachten Kosten außerhalb dieser Systeme, wie nicht-professionelle Pflege durch Freunde oder Angehörige.
+
+
+== Siehe auch ==
+Weitere Informationen zu den Symptomen, der Diagnostik und der Therapie finden sich unter:
+
+Ischämischer Schlaganfall
+Subarachnoidalblutung
+Stiftung Deutsche Schlaganfall-Hilfe
+Modifizierte Rankin-Skala als Maß der bleibenden Behinderung nach einem Schlaganfall
+European Stroke Conference
+Weitere Informationen zu Aktionen und Veranstaltungen finden sich unter:
+
+Tag gegen den Schlaganfall
+Die Special-Interest-Zeitschrift not berichtet seit 1992 über Themen aus den Bereichen Schädel-Hirn-Traumata und Schlaganfall-Behandlung.
+
+
+== Literatur ==
+K.-F. Gruber-Gerardy, W. Merz, H. Sonnenberg: Meilensteine aus der Geschichte des Schlaganfalls. Von Apoplexis, Blutegeln und moderner Sekundärprävention. Boehringer Ingelheim, Ingelheim 2005, OCLC 891805882.
+Jörg Braun, Roland Preuss, Klaus Dalhoff: Klinikleitfaden Intensivmedizin. 6. Auflage. Urban & Fischer, München / Jena 2005, ISBN 3-437-23760-8 (medizinisches Lehrbuch).
+Manio von Maravic: Neurologische Notfälle. In: Jörg Braun, Roland Preuss (Hrsg.): Klinikleitfaden Intensivmedizin. 9. Auflage. Elsevier, München 2016, ISBN 978-3-437-23763-8, S. 311–356, hier: S. 312–324 (Schlaganfall und Stroke Unit).
+Klaus Poeck, Werner Hacke: Neurologie. Mit 85 Tabellen [neue Approbationsordnung], 12. Auflage, Springer, Heidelberg 2006, ISBN 3-540-29997-1 (medizinisches Lehrbuch).
+Patricia M. Davies: Hemiplegie. Ein umfassendes Behandlungskonzept für Patienten nach Schlaganfall und anderen Hirnschädigungen. In: Rehabilitation und Prävention. 2., vollständig überarbeitete Auflage. Springer, Berlin u. a. 2002, ISBN 3-540-41794-X (Lehrbuch zur krankengymnastischen Rehabilitation nach Schlaganfall).
+
+
+== Weblinks ==
+
+NIHSS Score - Online Rechner
+Literatur von und über Schlaganfall im Katalog der Deutschen Nationalbibliothek
+S3-Leitlinie: Schlaganfall, der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF), AWMF-Registernummer 053/011 (Volltext. Stand: 31. Oktober 2012, gültig bis 29. Februar 2016).
+
+
+== Einzelnachweise ==

@@ -1,0 +1,358 @@
+Das maligne Melanom (von altgriechisch μέλας „schwarz“ und -om für Geschwulst), auch kurz Melanom, Melano(zyto)blastom oder schwarzer Hautkrebs (englisch [malignant] melanoma) genannt, ist ein hochgradig bösartiger Tumor der Pigmentzellen (Melanozyten). Er neigt dazu, früh Metastasen über Lymph- und Blutbahnen zu streuen, und ist die am häufigsten tödlich verlaufende Hautkrankheit mit weltweit stark steigender Anzahl an Neuerkrankungen.
+Neben dem hier behandelten malignen Melanom der Haut (kutanes Melanom) gibt es auch maligne Melanome der Schleimhäute (mukosales Melanom), des Auges (Bindehautmelanom, Aderhautmelanom), des Zentralnervensystems, der inneren Organe und des Anus (anorektales Melanom). Diese Gruppe der malignen Melanome wird als mukosale Melanome (von Mucosa = Schleimhaut) bezeichnet. Im Vergleich zum kutanen Melanom sind die mukosalen Melanome wesentlich seltener.
+
+
+== Häufigkeit ==
+
+Die Häufigkeit der Neuerkrankung (Inzidenz) beträgt bei der hellhäutigen Bevölkerung in Europa und Nordamerika etwa 13 bis 15 Neuerkrankungen pro Jahr auf 100.000 Einwohner. Daraus ergibt sich ein Lebenszeitrisiko von etwas mehr als ein Prozent. Zum Vergleich liegt das Lebenszeitrisiko für ein kolorektales Karzinom bei 4 bis 6 Prozent. Die Inzidenz dieser Erkrankung ist in den letzten 50 Jahren dramatisch gestiegen. 1960 lag das Lebenszeitrisiko noch bei 1:600, während es gegenwärtig im Bereich von 1:75 bis 1:100 liegt. Diese Werte machen das maligne Melanom zum Tumor mit der am schnellsten ansteigenden Inzidenz.
+2010 erkrankten in Deutschland 19.220 Menschen (9.640 Männer und 9.580 Frauen) an einem malignen Melanom der Haut. Im selben Jahr verstarben 2.711 Deutsche (1.568 Männer und 1.143 Frauen) an den Folgen dieser Krankheit. Für das Jahr 2014 wurden 19.700 Neuerkrankungen prognostiziert. Das mittlere Erkrankungsalter von Frauen liegt bei 58 und bei Männern bei 66 Jahren. Sowohl die Erkrankungsrate als auch die Sterberate ist bei Männern etwas höher als bei Frauen.
+Als Todesursache hat das maligne Melanom für beide Geschlechter einen Anteil von 1,3 Prozent an allen Krebstodesursachen in Deutschland. Aufklärungsprogramme hielten – trotz deutlicher Zunahme der Erkrankungszahlen – die Sterberate bisher weitgehend konstant.
+Die Häufigkeit des malignen Melanoms der Haut ist regional sehr unterschiedlich. In einigen Staaten ist es eine ausgesprochen seltene Erkrankung, während bei der hellhäutigen Bevölkerung Australiens das Lebenszeitrisiko – im Vergleich zu Europäern – etwa vierfach erhöht ist und bei ungefähr vier Prozent liegt. In Nordamerika in der Altersgruppe von 25 bis 34 Jahren ist das Melanom bei Männern die vierthäufigste und bei Frauen die zweithäufigste Krebsart. Der weltweit höchste Wert wird in Auckland (Neuseeland) erreicht. Afroamerikaner haben ein um den Faktor 20 niedrigeres Risiko, am malignen Melanom der Haut zu erkranken, als Menschen mit heller Haut.
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Risikofaktoren ==
+
+
+=== Tabellarische Zusammenfassung ===
+Als Risikofaktoren gelten:
+
+frühere maligne Erkrankung
+Hellhäutigkeit, rote und blonde Haare, helle Augenfarbe
+hohe Zahl gewöhnlicher melanozytärer Nävi (Muttermale)
+Immunsuppression
+intermittierende intensive Exposition gegenüber UV-Licht
+kongenitaler melanozytärer Naevus, insbesondere ein riesiger
+mehrere atypische melanozytäre Nävi
+Melanome in der Familie
+Neigung zu Sonnenbränden bei Exposition gegenüber UV-Licht
+Sommersprossen, aktinische Lentigines
+Störungen der DNA-Reparatur, insbesondere Xeroderma pigmentosum
+
+
+=== UV-Strahlung und Sonnenbrand ===
+
+Etwa alle sieben Jahre verdoppelt sich die Zahl der an einem Melanom erkrankten Patienten. Dies wurde früher in erster Linie auf Veränderungen der Freizeitgewohnheiten zurückgeführt. UV-Strahlung gilt als die wichtigste umweltbedingte Melanomursache. Der Zusammenhang von Sonnenstrahlung und Krebshäufigkeit wurde erstmals von Eleanor Josephine Macdonald auf Basis des von ihr in den USA errichteten Krebsregisters nachgewiesen.
+„Trotz vieler Aufklärungskampagnen“ in den letzten zwei Jahrzehnten konnte das Schönheitsideal „braun sein = gesund sein“ allerdings „noch nicht ausreichend korrigiert werden“, so dass trotz gestiegenen Gesundheitsbewusstseins „die Zahl der Neuerkrankungen jedes Jahr weiter“ ansteige.
+Das Deutsche Krebsforschungszentrum sieht als wesentlichen Umweltrisikofaktor die exzessive Exposition gegenüber Sonnenlicht an. Daneben spiele der Hauttyp als endogener Faktor eine entscheidende Rolle. Rothaarige, die eine gegenüber UV-Strahlung besonders empfindliche Haut haben, erkranken statistisch gesehen 4,7× häufiger an einem malignen Melanom als Schwarzhaarige.
+Die Suche nach möglichen beruflichen Risikofaktoren lieferte – wie auch ernährungsepidemiologische Studien – widersprüchliche Resultate.
+
+
+=== Einfluss von Sonnencreme ===
+Die Schutzwirkung von Sonnencremes wird sehr kontrovers diskutiert. Über die Verhinderung der Entstehung von Hautkrebs gibt es sehr widersprüchliche Studien. In einigen Studien wurden eher negative Auswirkungen bei der Anwendung von Sonnencremes festgestellt, während in anderen Veröffentlichungen und Studien das Gegenteil behauptet wird. Im Tiermodell wurde zwar eine eindeutige Wirkung von Sonnencreme zur Verhinderung der Ausbildung eines Spinalioms der Haut (ein Plattenepithelkarzinom) festgestellt, jedoch ist dies beim malignen Melanom und beim Basaliom nicht der Fall.
+In einer 2003 erschienenen Metastudie wurde jedoch kein Zusammenhang zwischen der Verwendung von Sonnencreme und der Zunahme von Erkrankungen an malignen Melanomen beim Menschen festgestellt. Die Studie kommt zu dem Schluss, dass in früheren Studien offensichtlich Fehler bei der Berücksichtigung von Konfundierungseffekten gemacht wurden und sie deshalb eine positive Korrelation zwischen der Benutzung von Sonnencreme und dem Auftreten von malignen Melanomen feststellten. Von Konfundierungseffekten spricht man, wenn das zu untersuchende Phänomen (hier die Zunahme an malignen Melanomen) von zwei oder mehr Bedingungen gleichzeitig beeinflusst wird. In den vorhergehenden Studien seien zudem neuere Sonnencremes mit einem Schutzfaktor größer als 15, einem Schutz gegen UV-A-Strahlung und Wasserfestigkeit überhaupt nicht berücksichtigt worden. Die Autoren gehen davon aus, dass es Jahrzehnte dauern kann, um einen positiven Effekt zwischen dem Gebrauch von neueren Rezepturen von Sonnencremes und malignen Melanomen zu ermitteln.
+Eine 2014 in Nature veröffentlichte Studie deutet darauf hin, dass Sonnencreme keinen ausreichenden Schutz vor malignen Melanomen bietet. In der Studie wurde der rasierte Rücken von Mäusen, in denen künstlich eine bestimmte Mutation im Wachstumsgen BRAF herbeigeführt wurde, wiederholt einer Dosis an ultravioletter Strahlung ausgesetzt, welche beim Menschen einem leichten Sonnenbrand entspräche. Gänzlich ungeschützte Hautbereiche entwickelten so innerhalb von sieben Monaten Melanome, mit Sonnenschutzfaktor 50 behandelte Hautstellen blieben bis zu 17 Monate ohne Melanome, und mit einem Tuch abgedeckte Stellen blieben zu circa 20 Prozent noch mindestens zwei Jahre melanomfrei.
+
+
+=== Pigmentnävus ===
+Die Mehrzahl der Melanome entsteht de novo, das heißt auf zuvor gesunder Haut.
+Es gibt keine Belege dafür, dass die Schädigung eines Nävus, beispielsweise durch eine Verletzung, die Entwicklung eines malignen Melanoms bewirken kann. Im Durchschnitt hat ein Mensch etwa 20 Nävi auf seiner gesamten Haut. Menschen mit über 50 Nävi haben ein um den Faktor 4,8 höheres Risiko als Menschen mit weniger als 10 Nävi auf ihrer Haut, im Laufe ihres Lebens ein malignes Melanom zu bekommen. Die Anzahl der melanozytären Nävi ist daher ein wichtiger Risikofaktor für maligne Melanome. Bei 30 bis 40 Prozent der Fälle besteht eine Assoziation zwischen melanozytären Nävi und malignem Melanom. Menschen, die eine hohe Anzahl von Nävuszellnävi aufweisen und Träger von dysplastischen Nävuszellnävi sind, haben ein erhöhtes Risiko, im Lauf ihres Lebens an einem malignen Melanom zu erkranken.
+Etwa fünf bis zehn Prozent aller malignen Melanome treten familiär gehäuft auf. Hier wird ein polygener Erbgang vermutet.
+
+
+=== Genetik ===
+Auch wenn der Großteil der Melanome spontan entsteht, findet sich bei 10–15 % eine familiäre Häufung mit autosomal dominanter Vererbung mit variabler Penetranz.
+Die häufigsten Mutationen in Melanomzellen betreffen die Zellzykluskontrolle, Signalwege des Zellwachstums und der Differenzierung und die Telomerase.
+In 40 % der autosomal dominant vererbten Melanome finden sich Mutationen im CDKN2A-Gen, dessen Genprodukte (p15/INK4b, p16/INK4a und p14/ARF) als Tumorsuppressoren wirken, indem sie den Zellzyklus in der G1-Phase anhalten.
+Außerdem finden sich Mutationen, welche den RAS- und PI3K/AKT-Signalweg beeinträchtigen, die das Zellwachstum regulieren.
+In der spontanen Form des Melanoms finden sich in 70 % der Tumoren eine Mutation im TERT-Gen, welches die katalytische Untereinheit der Telomerase codiert.
+
+
+== Diagnostik ==
+Warnsymptome des malignen Melanoms können die Vergrößerung, die Farbänderung sowie das Jucken von Pigmentnävi (Leberflecken) (von Leberflecken gehen 40 % der Erkrankungen aus) oder Veränderungen von Hautpartien sein, die pigmentiert sind (dunkler erscheinen). Bei dunkelhäutigen Menschen hingegen geht die Erkrankung meistens von Stellen aus, die weniger dunkel sind, zum Beispiel von den Schleimhäuten oder den Handflächen.
+
+
+=== Früherkennung ===
+Jeder Verdacht sollte so schnell wie möglich durch einen Hautarzt abgeklärt werden, um gegebenenfalls das Melanom früh – vor der Metastasierung – entfernen zu können. In Deutschland bieten die Krankenkassen der GKV deshalb durch den Beschluss des Gemeinsamen Bundesausschusses (GBA) vom 15. November 2007 seit dem 1. Juli 2008 eine Hautkrebsvorsorgeuntersuchung ohne Auflichtmikroskopie an, und zwar ab dem 35. Lebensjahr alle zwei Jahre. Die Deutsche Dermatologische Gesellschaft empfiehlt jedoch, die Haut, bei auffälligen Leberflecken, einmal im Jahr mit Auflichtmikroskop vom Hautarzt untersuchen zu lassen. Diese aussagekräftigere Untersuchung wird nicht explizit von einer Krankenkasse übernommen, sodass sie häufig privat nach GOÄ abgerechnet wird. Regelmäßige Selbstuntersuchungen auf Veränderungen von Muttermalen helfen, Melanome frühzeitig zu entdecken. Dies ist insbesondere für Personen mit an Melanom erkrankten Verwandten oder mit einer Vielzahl von Nävuszellnävi wichtig. Auch an versteckten Stellen wie Ohr, im Analbereich oder Zwischenraum der Zehen kann ein Melanom entstehen.
+
+
+=== Beurteilung nach der „ABCDE-Regel“ ===
+
+Treffen zwei der folgenden fünf Kriterien auf einen verdächtigen Pigmentfleck zu, wird in der Regel zu einer vorsorglichen Entfernung des Flecks geraten:
+
+A – Asymmetry (Asymmetrie): nicht symmetrisch, beispielsweise nicht rund oder oval
+B – Border (Begrenzung): unregelmäßig oder unscharf
+C – Colour (Farbe): unterschiedlich starke Pigmentierung, Mehrfarbigkeit
+D – früher Diameter (Durchmesser) – größer als 5 mm – heute Dynamik (Verlauf): Bezug auf Wachstum und Zeit
+E – Evolution (Erhabenheit/Entwicklung): neu und in kurzer Zeit entstanden auf sonst flachem Grund
+
+
+=== Diagnose ===
+
+Ein Arzt mit entsprechender Erfahrung kann meist durch Sichtung der verdächtigen Hautpartie feststellen, ob es sich um ein malignes Melanom handelt oder nicht. Im Zweifelsfall wird das verdächtige Hautareal im Ganzen (in toto) mit einem entsprechenden Sicherheitsabstand entnommen und unter dem Mikroskop untersucht. Kleinere Gewebeproben sollte man nur entnehmen, wenn eine komplette Exzision nur schwierig möglich ist und man Zweifel an der Benignität hat, da zur feingeweblichen Diagnosestellung bzw. zur Tumordickenbestimmung die gesamte Läsion beurteilt werden sollte. Daneben wird kontrovers diskutiert, ob durch die Entnahme von nur einem kleinen Anteil des Tumors die Gefahr einer Streuung (Metastasierung) über die Blutbahn oder die Lymphe zu groß wäre. Weiteres zu diesem Thema weiter unten.
+Je nach Tumorstadium erfolgt die weitere Ausdehnungsdiagnostik (Staging) mittels Ultraschall der benachbarten Lymphknotenstationen, Untersuchung des Wächterlymphknotens oder auch noch eine Computertomographie (CT) von Brustkorb und Bauchraum und eine Kernspintomographie (MRT) des Schädels. Darüber hinaus eignet sich gerade in Zweifelsfällen die Positronen-Emissions-Tomographie (PET) sehr gut für Diagnose von Metastasen, Staging und Re-Staging des malignen Melanoms. Allerdings besteht hierbei keine Kostenübernahme der gesetzlichen Krankenkassen.
+Weitere unterstützende Verfahren zur Diagnostik umfassen zum Beispiel das in einer 2014 veröffentlichten Pivotstudie beschriebene und am Stockholmer Karolinska-Institut entwickelte Verfahren der elektrischen Impedanzspektroskopie (EIS), welches mit einer Sensitivität von 97 % als Hilfsmittel zur Früherkennung von Melanomen herangezogen werden kann. Das EIS-Verfahren ermöglicht eine schmerzfreie und nicht-invasive Untersuchung verdächtiger Hautareale bis zu einer Tiefe von 2,5 mm. EIS eignet sich auch zum Ausschluss eines Melanomverdachtes bei klinisch auffälligen Läsionen, so dass es zur Vermeidung unnötiger Exzisionen beitragen kann.
+Noch kein Bestandteil der Routinediagnostik ist die Untersuchung der Autofluoreszenz der Haut (Dermatofluoroskopie): Hiermit ist es möglich, die klinische Diagnose in einem frühen Stadium in vivo zu überprüfen. Dazu wird die Haut mit infrarotem Laserlicht in kurzen Impulsen bestrahlt. Das Melanin-Molekül absorbiert zwei der Photonen und fluoresziert im roten oder blau-grünen Spektralbereich. Anhand der Farbe kann eine Entscheidung über die Bösartigkeit des untersuchten Pigmentflecks getroffen werden. Erste Studien zeigen, dass diese Fluoreszenmethode eine sichere Melanom-Erkennung an kleinsten Läsionen gewährleistet. Ebenso sicher kann mit ihr andererseits der Befund „benigner Naevus“ erhoben werden. Damit könnte zukünftig die Vielzahl der vorsorglichen Gewebeentnahmen bei der klinischen Diagnose „atypischer/dysplastischer Naevus“ vermieden werden.
+Die einfache Möglichkeit von in vivo-Verlaufskontrollen bietet eine zusätzliche Sicherheit für Arzt und Patient.
+Im Fall von Melanompatienten können die Ergebnisse der Liquid Biopsy als neuartige prädiktive Biomarker bei therapeutischen Entscheidungen hilfreich sein, insbesondere im Zusammenhang mit mutationsbasierten, zielgerichteten Therapien.
+
+
+== Subtypen des malignen Melanoms ==
+
+Eine weitere Unterart, das amelanotische Melanom (AMM), ist eine sehr seltene Variante und wird in obiger Tabelle zu »Sonstige« gerechnet.
+Diese Subtypen unterscheiden sich durch ihr Aussehen, die Art des Wachstums und ihrer Neigung zur Metastasierung. Sie haben eine unterschiedliche Prognose. Da die Einteilung beim bloßen Betrachten nicht unbedingt eindeutig ist, wird in allen Fällen nach der operativen Entfernung des Tumors eine histologische Untersuchung durchgeführt.
+Das maligne Melanom metastasiert besonders aggressiv. Es wurde von Fällen berichtet, bei denen das maligne Melanom in andere bösartige Tumoren metastasiert ist. Wegen dieser starken Metastasierungsneigung verbietet es sich auch, eine Gewebeprobe zu nehmen (Biopsie). Stattdessen muss die Veränderung vollständig und mit einem ausreichenden Sicherheitsabstand entfernt werden.
+
+
+=== Superfiziell spreitendes Melanom (SSM) ===
+Die häufigste Form des malignen Melanoms, das superfiziell (oberflächlich) spreitende Melanom, wächst langsam, meist über einen Zeitraum von zwei bis vier Jahren, horizontal in der Hautebene. Es manifestiert sich als unregelmäßig pigmentierter, unscharf begrenzter Fleck. Mittig können depigmentierte (helle) Inseln entstehen. Im späteren Stadium, nach etwa zwei bis vier Jahren, wächst das SSM auch in vertikaler Richtung, und es bilden sich Erhabenheiten. Bei Frauen findet sich das SSM häufig am Unterschenkel, beim Mann meist am Körperstamm. Es entsteht in der Regel jenseits des 50. Lebensjahrs.
+
+
+=== Noduläres malignes Melanom (NMM) ===
+
+Beim nodulären malignen Melanom handelt sich um die aggressivste Form der malignen Melanome mit der ungünstigsten Prognose. Es tritt gehäuft ab dem 55. Lebensjahr auf. Charakteristisch ist sein relativ schnelles vertikales Wachstum und seine frühzeitige Metastasierung über Lymphe und Blut. Es hat eine braune bis tiefschwarze Farbe mit glatter oder ulzerierter Oberfläche, die leicht blutet. Das noduläre Melanom kann aber auch amelanotisch, also nicht mehr in der Lage sein, Melanin herzustellen. Es wird dann wie weiter unten beschrieben amelanotisches Melanom (AMM) genannt. Meistens tritt der Tumor am Rücken, an der Brust oder an den Extremitäten auf. Bei fehlender Melaninsynthese kann es häufig fehldiagnostiziert werden.
+
+
+=== Lentigo-maligna-Melanom (LMM) ===
+Dem LMM geht eine Lentigo maligna voraus. Es wächst relativ langsam und zunächst vor allem radial und horizontal. Erst nach bis zu 15 Jahren folgt das vertikale Wachstum, weshalb die Metastasierungsneigung geringer und damit die Prognose günstiger ist. Sein Aussehen ist durch große, teils erhabene, unregelmäßige Flecken gekennzeichnet. Zu 90 % sind die LMM im Gesicht lokalisiert, meist bei älteren Menschen ab dem 65. Lebensjahr.
+
+
+=== Akrolentiginöses Melanom (ALM) ===
+Das Aussehen des akrolentiginösen Melanoms ähnelt dem Aussehen des LMM, es wächst aber deutlich schneller und aggressiver. Meist ist dieser Tumor an den Handflächen beziehungsweise Fußsohlen, aber auch unter den Nägeln lokalisiert. Er tendiert zu Blutungen und kann, wenn er sich unter einem Finger- oder Fußnagel befindet, zur Nagelablösung führen. Dieser Melanomtyp trifft bevorzugt dunkelhäutige Menschen. In Afrika und Asien stellt es mit 30 bis 70 Prozent den Hauptanteil an Melanomdiagnosen. Das akrolentiginöse Melanom ist in der Differentialdiagnose besonders anspruchsvoll, da es oft amelanotisch ist und in der Prognose eher ungünstig.
+
+
+=== Amelanotisches Melanom (AMM) ===
+Das amelanotische Melanom entspricht in etwa dem NMM, wobei jedoch wegen der Entartung der Zellen kein Pigment mehr gebildet wird. Dies macht es besonders tückisch, weil es oft erst sehr spät entdeckt wird; dann liegen oft schon Metastasen vor. Amelanotische Melanome können sehr untypisch aussehen.
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Polypoides Melanom ===
+
+Das polypoide Melanom ist sowohl histologisch als auch klinisch betrachtet eine besondere Variante eines malignen Melanoms. Es tritt in gestielter Form auf und hat eine blumenkohlartige Gestalt. Es wächst zum größten Teil über die Oberfläche der Epidermis hinaus (exophytisch) und die Knoten sind in den meisten Fällen amelanotisch. Das polypoide Melanom ist häufig auf dem Rücken lokalisiert.
+
+
+== Pathologie ==
+
+Die Diagnose des malignen Melanoms erfolgt anhand der histologischen Untersuchung (feingeweblichen Untersuchung unter dem Mikroskop) klinisch auffälliger Pigmentmale und sollte vor dem Hintergrund der klinischen Angaben erfolgen. Neben Patientenalter und klinischem Erscheinungsbild der Läsion sollten dabei auch Entnahmestelle der Gewebeprobe und gegebenenfalls Angaben zur Wachstumsgeschwindigkeit oder einer Farbänderung Berücksichtigung finden.
+Um alle zur Einordnung als gut- oder bösartige Läsion erforderlichen Merkmale histologisch beurteilen zu können, sollten Pigmentmale möglichst vollständig entfernt werden. Dabei werden ein Abstand der Läsion zum Schnittrand von zwei Millimetern und die Entfernung bis in die Subkutis (das Unterhautfettgewebe) empfohlen. In Fällen großer oder schwer zugänglicher Läsionen mit starker kosmetischer oder funktioneller Beeinträchtigung durch eine vollständige Entfernung, z. B. akral (an Händen und Füßen) oder im Gesicht, kann zunächst eine Teilentfernung erfolgen. Ergibt die histologische Untersuchung die Diagnose eines malignen Melanoms, ist nötigenfalls durch Nachexzision ein der Tumordicke angemessener Sicherheitsabstand zu schaffen.
+Auch anhand vollständig entfernter Läsionen und in Kenntnis aller notwendigen Angaben kann die histologische Unterscheidung maligner Melanome von gutartigen Nävi durch überlappende Merkmale beider Läsionen jedoch erschwert werden. Verschiedene Kriterien sind auszuwerten und führen je nach Konstellation und Ausprägungsgrad der Veränderungen zur abschließenden Einordnung als gut- oder bösartige Läsion.
+
+
+=== Histologische Merkmale des malignen Melanoms ===
+
+
+==== Architektur ====
+In ihrer Größe variieren Melanome zwischen einem Millimeter und mehreren Zentimetern. Zwar erreichen auch gutartige Nävi gelegentlich einen Durchmesser von mehreren Zentimetern, im Zweifel spricht eine große Flächenausdehnung eines Pigmentmals jedoch für Bösartigkeit. Auch die Tiefenausdehnung von Pigmentläsionen allein lässt keine sichere Aussage über Gut- oder Bösartigkeit zu, da sowohl Nävi als auch Melanome rein oberflächlich oder in die Tiefe wachsen können. Sehr frühe Melanome der horizontalen Wachstumsphase wachsen zunächst in situ (lat.: am Ort) innerhalb der Epidermis (Oberhaut). In der vertikalen Wachstumsphase durchbrechen die Melanozyten die Basalmembran (Grenze zwischen Epidermis und Dermis bzw. Lederhaut) und wachsen invasiv in die Tiefe. Eine Ausdehnung bis in tiefe Schichten der Dermis oder bis in die Subkutis gilt wiederum als Hinweis auf Bösartigkeit.
+Ein weiteres Kriterium in der histologischen Beurteilung von Pigmentmalen ist die Verteilung der Melanozyten. In in-situ-Melanomen liegen sie einzelzellig verteilt oder in kleinen Nestern zumeist entlang der Junktionszone (Grenze zwischen Epidermis und Dermis, hier befindet sich die Basalmembran) in der Basalzellschicht (unterste Zellschicht) der Epidermis. Dies kann zum Eindruck einer kettenartigen Aneinanderreihung der Melanozyten mit vollständigem Ersatz der Basalzellschicht führen. Unregelmäßige und im Randbereich der Läsion zunehmende Abstände zwischen kleinen melanozytären Nestern oder Einzelmelanozyten bilden dabei die histologische Entsprechung der klinisch meist unregelmäßigen beziehungsweise unscharfen Begrenzung von Melanomen, während die scharfe Begrenzung durch große melanozytäre Nester auf eine gutartige Läsion hinweist.
+Ebenso gilt die als pagetoid bezeichnete Lagerung von Melanozyten in den oberen Zellschichten der Epidermis als Kriterium für eine bösartige Läsion. Zwar tritt dieses Phänomen auch in gutartigen Nävi auf, wenn diese durch Kratzen oder UV-Einstrahlung irritiert werden, es bleibt dann aber zumeist auf die Mitte der Läsion beschränkt und erreicht nicht die oberste Zellschicht. Im Falle eines Melanoms sind auch der Randbereich der Läsion und die gesamte Breite der Epidermis betroffen.
+Mit fortschreitendem Größenwachstum zeigen die Melanozyten eine stärkere Tendenz, sich in der Epidermis zu Nestern zusammenzulagern, die sich wiederum zu größeren Verbänden zusammenlagern können. Nester der horizontalen Wachstumsphase sind dabei in etwa gleich groß, während dermale Nester der vertikalen Wachstumsphase tendenziell größer sind.
+Nicht nur klinisch, sondern auch histologisch zieht man außerdem das Kriterium der Symmetrie heran. Dieses Merkmal bezieht sich hier weniger auf den Umriss des Tumors, der insbesondere an der Basis (Ort der größten Eindringtiefe) zumeist unregelmäßig ist, sondern auf seine Zelldichte und auf das Verteilungsmuster (einzelzellig oder in Nestern) und das Zellbild (gleichförmig oder variabel) der Melanozyten. Weichen diese Merkmale im Seitenvergleich der Läsion stark voneinander ab, gilt dies als hinweisend auf eine bösartige Läsion. Auch Unterschiede im Melaningehalt der Melanozyten, der Beschaffenheit der Epidermis und der Dichte des entzündlichen Begleitinfiltrats können auf diese Weise beurteilt werden, fallen in ihrer Wertung aber weniger stark ins Gewicht als die oben genannten Faktoren.
+
+
+==== Beschaffenheit der Epidermis ====
+In Abgrenzung zu gutartigen Nävi weisen Melanome oft eine unregelmäßige Kontur der Epidermis auf. Auch neigen Melanome zur Ulzeration (Geschwürbildung bis in die unterliegende Dermis), während epidermale Defekte in Nävi in der Regel auf mechanische Irritation, z. B. Kratzen, zurückzuführen sind.
+Als typisch für Melanome gilt auch das im englischen Sprachraum als Consumption (engl.: Schwund) bezeichnete Phänomen der Atrophie (Gewebsschwund) der Epidermis mit Abflachung sowohl der Retezapfen als auch der Keratinozyten (hornbildende Zellen der Epidermis) in der Basalzellschicht. Diese Veränderung findet sich häufig im Randbereich von Ulzerationen und gilt deshalb als deren Vorstufe.
+
+
+==== Zytologie ====
+
+Das Zellbild ist für die Beurteilung von Melanomen weniger bedeutsam, als dies für andere Tumoren der Fall ist. Dennoch können einige Merkmale zur Unterscheidung der einzelnen Melanomtypen sowie zu ihrer Abgrenzung gegenüber gutartigen Nävi herangezogen werden.
+In der epidermalen Komponente invasiver Melanome aller Subtypen finden sich häufig große, rundlich-ovale Melanozyten mit reichlich blassem, puderstaubartig pigmentierten Zytoplasma. Auch spindelige Zellformen kommen vor, wobei diese anders als in Nävi eine jeweils unterschiedliche Ausrichtung aufweisen (abwechselnd mehr oder weniger senkrecht oder parallel zur Epidermis). Innerhalb der horizontalen Wachstumsphase ähneln sich die Melanozyten. Melanozyten der vertikalen Wachstumsphase insbesondere tief invasiver Melanome sowie in Melanommetastasen (Tochtergeschwulsten) sind dagegen zumeist vielgestaltig mit großen, unregelmäßig konturierten und kräftig eosinophilen (rötlich in der Hämatoxylin-Eosin-Färbung) Nukleolen (Kernkörperchen).
+Innerhalb der dermalen Komponente ist allen invasiven Melanomen die weitgehende zytologische Gleichförmigkeit superfizieller und tiefer Anteile gemeinsam. Eine Ausreifung der Melanozyten zur Tiefe, die sich in gutartigen Nävi im Kleinerwerden sowohl der melanozytären Nester als auch der einzelnen Melanozyten einschließlich der Zellkerne und Nukleolen sowie in einer Abnahme des Pigmentierungsgrades des Zytoplasmas zeigt, fehlt.
+
+	Zellformen des malignen Melanoms
+		
+			
+			
+		
+
+
+==== Mitotische Aktivität ====
+
+Entsprechend dem zumeist schnellen Wachstum bösartiger Tumoren weisen Melanome eine erhöhte Zellteilungsrate und somit vermehrte Mitosen (Zellteilungsfiguren) auf. Während sich Mitosen in gutartigen Nävi lediglich in oberflächlichen Anteilen der dermalen Komponente zeigen, finden sich diese in Melanomen auch an der Basis der dermalen Komponente. Auch eine herdförmige Häufung in Hot Spots (Areale hoher mitotischer Aktivität) weist auf Bösartigkeit hin, ebenso atypische, also asymmetrische, tripolare oder ringförmige Mitosefiguren.
+
+	Mitosen
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Regression ====
+Das Phänomen der Regression beschreibt den Untergang von bösartigen Zellen eines Tumors mit dem Ergebnis der teilweisen oder vollständigen Tumorrückbildung. Dabei zeigt sich bei der partiellen (teilweisen) Regression des malignen Melanoms innerhalb eines bestimmten Areals ein gegenüber dem übrigen Tumor deutlich reduzierter Gehalt an Tumorzellen. Als segmentale Regression wird der vollständige Untergang bestimmter Areale mit der Entstehung vollständig tumorfreier Inseln innerhalb des Resttumors bezeichnet. An Stelle des untergegangenen Tumorgewebes und in der angrenzenden Dermis finden sich eine umschriebene Fibrose (Bindegewebsvermehrung), eine Vermehrung und Ektasie (Erweiterung) kleiner Blutgefäße und ein entzündliches Infiltrat aus Lymphozyten (Unterform der weißen Blutkörperchen) und Melanophagen (pigmentspeichernde Fresszellen). Die Retezapfen der überliegenden Epidermis sind abgeflacht. Während sich dieses Bild der Regression für gewöhnlich in Melanomen der horizontalen Wachstumsphase zeigt, finden sich in der vertikalen Wachstumsphase gelegentlich tumorfreie Areale, die vollständig durch Ansammlungen von Melanophagen ersetzt werden.
+
+
+=== Subtypen des malignen Melanoms ===
+
+
+==== Lentigo-maligna-Melanom ====
+
+Auf sonnengeschädigter Haut entstehen maligne Melanome in der Regel auf dem Boden eines zunächst auf die Epidermis begrenzten Melanoma in situ, der Lentigo maligna. Sie besteht in einer überwiegend einzelzelligen Ausbreitung atypischer Melanozyten entlang der Junktionszone und von Adnexstrukturen (Hautanhangsgebilden) vor dem Hintergrund einer atrophen (verschmälerten) Epidermis und elastotischen (sonnengeschädigten) Dermis. Mit dem Übergang in ein invasiv wachsendes Melanom spricht man vom Lentigo-maligna-Melanom. Die dermale Komponente weist entsprechend ihrem überwiegend horizontalen Wachstum eine geringe Eindringtiefe auf.
+Die Melanozyten in der Lentigo maligna ebenso wie im Lentigo-maligna-Melanom sind zumeist klein und haben hyperchromatische (überstark angefärbte), abgewinkelt erscheinende Zellkerne. Der Pigmentierungsgrad des Zytoplasmas kann sich innerhalb einer Läsion stark unterscheiden.
+Ebenfalls häufig finden sich Melanozyten mit auffälligen Dendriten (Zytoplasmaausläufern), insbesondere bei hellhäutigen Patienten. Dabei gelten eine Ausdehnung der Dendriten bis in das mittlere Stratum spinosum und eine deutliche Anisodendrozytose (Breitenvarianz der Dendriten) als Hinweis auf Bösartigkeit.
+Häufiger als in anderen invasiv wachsenden Melanomen zeigt sich im Lentigo-maligna-Melanom ein spindelzelliges Zellbild der dermalen Komponente. Die Tumorzellen breiten sich einzeln oder in teilweise auch strangförmigen Verbänden in der oberen Dermis aus. Diese weist eine desmoplastische Reaktion (tumorinduzierte Bindegewebsbildung) und ein an Lymphozyten und Melanophagen reiches Entzündungsinfiltrat auf.
+
+	Lentigo maligna (Melanoma in situ)
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Superfiziell spreitendes Melanom ====
+Das superfiziell spreitende Melanom entsteht in bedeckter, üblicherweise nicht dem Sonnenlicht ausgesetzter Haut. Vorausgegangene Sonnenbrände in der Kindheit und wiederholte Sonnenlichteinstrahlung im Erwachsenenalter sind dennoch ursächlich bedeutsam. Der Tumor wächst überwiegend horizontal zunächst als auf die Epidermis beschränktes Melanoma in situ. Die epidermale Komponente ist zumeist breit und unscharf begrenzt, aber auch scharf begrenzte Läsionen bei klinisch unregelmäßiger Kontur kommen vor.
+Die Melanozyten haben große Zellkerne, die häufig auch vergrößerte Nukleolen aufweisen. Mitosen sind in der epidermalen Komponente selten. Das Zytoplasma ist üblicherweise weit, und der Pigmentgehalt kann innerhalb einer Läsion stark wechseln. Die Tumorzellen breiten sich einzeln oder in unregelmäßigen, teils miteinander verbundenen Nestern in der Epidermis aus und folgen dabei Adnexstrukturen. Typisch für das superfiziell spreitende Melanom ist das als pagetoid bezeichnete Wachstumsmuster: atypische Melanozyten finden sich nicht nur entlang der Junktionszone, sondern verteilt über die ganze Breite der Epidermis bis in oberflächliche Zelllagen.
+Die dermale Komponente superfiziell spreitender Melanome ist in der Regel asymmetrisch aufgebaut. Eine Ausreifung der Melanozyten fehlt, und es finden sich Mitosen. Selten zeigen sich nekrotische (abgestorbene) Melanozyten. An der Basis des Tumors und eventuell auch zwischen den Tumorzellen besteht ein hauptsächlich lymphozytäres Entzündungsinfiltrat.
+
+	Superfiziell spreitendes Melanom
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Noduläres Melanom ====
+Aufgrund seines frühen vertikalen Wachstums erreicht diese Form des Melanoms schnell eine große Tiefenausdehnung. Seine Entstehung aus einem gutartigen melanozytären Nävus gilt als selten, eher wird vom nodulären Melanom als gemeinsamer Endzustand zunächst oberflächlich wachsender Melanome mit kurzer horizontaler Wachstumsphase ausgegangen.
+Entsprechend seiner nodulären (knotigen) Konfiguration zeigt sich histologisch ein halbkugelig vorgewölbter, oft asymmetrisch angelegter Tumor, der durch eine abgeflachte, häufig auch ulzerierte Epidermis überkleidet wird. Ist die Epidermis erhalten, weist sie in der Regel eine epidermale Melanomkomponente auf, die die dermale Komponente seitlich je nach Lehrmeinung nicht oder maximal über drei angrenzende Retezapfen überragt.
+Die dermale Komponente besteht aus einem soliden knotigen Verband oder kleinen Nestern atypischer Melanozyten mit verdrängendem Wachstum zur Tiefe. Die Zellen sind zumeist groß und rundlich, aber auch Spindelzellen, kleine nävusartige Zellen und mehrkernige Riesenzellen kommen vor. Obwohl die Tumorzellen bei geringer Vergrößerung relativ gleichförmig wirken können, zeigen sich bei hoher Vergrößerung in Größe, Form und Chromatingehalt (Chromatin: genetisches Grundmaterial des Zellkerns) variable Zellkerne mit deutlich sichtbaren Nukleolen. Mitosen finden sich auch in tiefen Anteilen der dermalen Komponente. Der Zytoplasmagehalt der Melanozyten ist im Verhältnis zur Kerngröße niedrig, und das Zytoplasma enthält unterschiedlich große oder auch als puderstaubartig bezeichnete Melaningranula. Eine Ausreifung der Melanozyten zur Tiefe fehlt.
+In der angrenzenden Dermis bestehen ein mehr oder weniger dichtes Infiltrat aus Lymphozyten und Melanophagen, Fibroplasie (Bildung faserigen Bindegewebes) und erweiterte Blutgefäße.
+
+	Noduläres Melanom
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Akrolentiginöses Melanom ====
+Angesichts seines Entstehungsorts an der Handinnenfläche oder der Fußsohle scheint Sonnenlicht für diesen Melanomtyp ursächlich nicht oder nur von geringer Bedeutung zu sein.
+In der horizontalen Wachstumsphase besteht eine auf die Epidermis begrenzte Vermehrung von Melanozyten, die zumeist groß sind und ebenfalls deutlich vergrößerte, gelegentlich bizarre Zellkerne aufweisen. Das Zytoplasma enthält Melaningranula in wechselnder Menge und Form, und besonders in der basalen Epidermis gelegene Tumorzellen weisen häufig auffällige Dendriten auf. Die atypischen Melanozyten breiten sich in einzelzelliger Lagerung entlang der Junktionszone und in die Tiefe entlang der Ausführungsgänge der Schweißdrüsen aus.
+In länger bestehenden Tumoren finden sich vermehrt auch große melanozytäre Nester entlang der Junktionszone und einzelne oder in Nestern gelagerte Melanozyten in den oberen Zelllagen der Epidermis, eventuell mit Ausschleusung durch die überliegend verbreiterte Hornschicht. Die Epidermis zeigte eine Akanthose (Verbreiterung) und verlängerte Retezapfen.
+In der vertikalen Wachstumsphase finden sich häufig spindelzellige Melanozyten in der Dermis. Letztere zeigt eine desmoplastische Reaktion.
+
+	Akrolentiginöses Melanom
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Weitere Melanomtypen ====
+Neben den vier aufgeführten Typen des malignen Melanoms existieren weitere, seltene Varianten. Beispiele sind das nävoide (nävusartige) Melanom mit kleinen, runden Melanozyten, sowie das desmoplastische Melanom mit schmalen, spindeligen Melanozyten und einer auffälligen desmoplastischen Reaktion der Dermis.
+Das amelanotische (nicht pigmentierte) Melanom ist eine klinische Variante, die in die histologische Klassifikation der WHO nicht eingeht. Prinzipiell können alle Melanomtypen auch als amelanotischer Tumor vorkommen.
+
+	Weitere Melanomtypen
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Klassifikation ==
+Die TNM-Klassifikation dient der Einteilung maligner Tumoren unter prognostischen (den voraussichtlichen Krankheitsverlauf betreffenden) Gesichtspunkten in Abhängigkeit von ihrer Größe und ihrer lokalen Ausdehnung (T) und dem Vorhandensein von Lymphknoten- (N) und Fernmetastasen (M).
+Zur Bestimmung der T-Kategorie des malignen Melanoms wird gemäß der AJCC-Klassifikation von 2016 neben der Tumordicke nach Breslow das Kriterium der Ulzeration herangezogen. Die Angabe des Clark Levels (der tiefsten tumorinfiltrierten Hautschicht) und die Mitoserate gehen in diese Klassifikation nicht mehr ein.
+In die N-Kategorie des malignen Melanoms gehen klinisch sicht- oder tastbare sowie klinisch okkulte, histologisch festgestellte Lymphknotenmetastasen im Lymphabflussgebiet des Tumors sowie deren Anzahl ein. Weiterhin werden in dieser Kategorie extranodal (außerhalb von Lymphknoten) gelegene regionale (tumornahe) Metastasen berücksichtigt: Satellitenmetastasen (klinisch auffällige Metastasen innerhalb eines Abstands von zwei Zentimetern zum Primärtumor), Mikrosatelliten (klinisch okkulte Metastasen in der unmittelbaren Umgebung des Primärtumors) und in transit-Metastasen (klinisch auffällige Metastasen entlang der Lymphgefäße mindestens zwei Zentimeter vom Primärtumor entfernt, aber vor der Wächterlymphnotenstation).
+Für die Bestimmung der M-Kategorie sind die entscheidenden Kriterien, welches Organ oder welche Organe von Fernmetastasen betroffen ist bzw. sind und ob eine Blutspiegelerhöhung des Tumormarkers Lactatdehydrogenase (LDH) vorliegt.
+Auf Basis der TNM-Klassifikation erfolgt die Festlegung des Tumorstadiums, an dem die weitere Behandlung und Nachsorge der Melanomerkrankung ausgerichtet sind.
+
+
+== Prognose (Folgen und Komplikationen) ==
+
+Kriterien zur Prognose und Therapie liefern die Stadien der TNM-Klassifikation, der Subtyp (beispielsweise LMM hat eine bessere Prognose als AMM), die Tumorlokalisation und das Geschlecht (Männer haben eine schlechtere Prognose). Keinen Einfluss auf die Prognose hat die Dunkelheit oder Helligkeit des Melanoms. Hiervon ausgenommen ist das amelanotische Melanom, das eine schlechtere Prognose besitzt.
+Bei einer frühen Diagnose und Behandlung steht die Chance einer Heilung gut. Insbesondere bei „In-situ-Melanomen“, also bei Melanomen, die die sogenannte Basalmembran – die Begrenzung zwischen Epidermis (Oberhaut) und Dermis (Lederhaut) – noch nicht durchbrochen haben, liegt das Metastasierungsrisiko bei 0 %. Die meisten Melanome sind in diesem Stadium bereits erkennbar.
+Bei dünnen Melanomen (vertikale Tumordicke kleiner als 0,75 mm) liegen die Heilungschancen bei etwa 95 Prozent. Die Fünf-Jahres-Überlebensrate (= Anteil Patienten, die fünf Jahre nach Feststellung der Krankheit noch leben) ist abhängig vom Stadium der Ausbreitung des Krebses:
+
+Stadium I (Primärtumor ≤ 2 mm dick bzw. ≤ 1 mm und Ulzeration oder Mitose) 98%
+Stadium II (Primärtumor > 2 mm dick bzw. > 1 mm und Ulzeration oder Mitose) 82–94%
+Stadium III (Absiedelung in die nächstgelegenen Lymphknoten oder Hautmetastasen in der Umgebung) 92–93%
+Stadium IV (Metastasen in weiter entfernten Lymphknoten oder anderen Organen) 10–18%
+Das Melanom kann in unterschiedliche Organe metastasieren, bevorzugte Zielorgane wie bei anderen Tumoren (etwa Kolonkarzinom → Leber) gibt es nicht. Häufig sind Metastasen in der Leber, in der Haut, in der Lunge, im Skelett und im Gehirn. Dabei beeinflussen gerade Leber- und Hirnmetastasen die Prognose ungünstig, während Melanommetastasen in der Lunge erfahrungsgemäß eher langsam an Größe zunehmen. Die Ursache für diese klinische Beobachtung ist noch nicht bekannt. Typischerweise metastasiert das maligne Melanom außerdem häufig in das Herz. Herzmetastasen vom malignen Melanom gehören zu den häufigsten der ansonsten seltenen bösartigen Herztumoren. Etwa 40–60 % der Herzmetastasen haben ihren Ursprung in einem malignen Melanom.
+Nur eine frühzeitige und vollständige Entfernung eines Melanoms kann zur Heilung führen. Abwarten, ob aus Nachlässigkeit oder Angst, verschlechtert die Aussichten wesentlich. Deswegen sind Vorsorgeuntersuchungen und Früherkennungsmaßnahmen gerade bei besonders gefährdeten Menschen wichtig.
+
+
+=== Prognose des metastasierten Melanoms ===
+Wenn ein Melanom Tochtergeschwülste gebildet hat, kommen Heilungen fast nicht mehr vor. Die Lebenserwartung ist jedoch sehr unterschiedlich. Hauschild und seine Mitarbeiter fanden bei 1365 Patienten mit einem BRAF-V600-mutierten, metastasierten Melanom eine günstige Prognose bei niedriger LDH, gutem Allgemeinzustand und geringem Summendurchmesser der Melanommanifestationen. BRAF ist eine Tyrosin-Kinase, die bei Melanomen oft die typische Mutation V600 hat, und in diesem Fall eine Behandlung mit BRAF-Inhibitoren aussichtsreich macht. Die oben genannten Risikofaktoren wurden schon früher gefunden, als eine Therapie mit BRAF-Inhibitoren noch nicht möglich war. In verschiedenen Studien, in denen die Wirkung von BRAF-Inhibitoren geprüft wurde, waren ausschließlich Patienten mit der Mutation V600 des BRAF-Gens enthalten (BRIM-2, BRIM-3, BRIM-7 und Studie coBrim). Diese Studienpatienten wurden jetzt mit einem speziellen statistischen Verfahren, der rekursiven Partitionierung (RPA), erneut ausgewertet. Es wurde jeweils das progressionsfreie Überleben, d. h. Leben ohne Fortschreiten des Tumors (= PFS) und das Gesamtüberleben, das heißt Überleben unabhängig von der Ursache des Todes (= OS) berechnet. Der Allgemeinzustand wurde nach dem ECOG PS bestimmt. Ein ECOG 0 wurde als guter Allgemeinzustand angesehen.
+Die günstigste Gruppe war die mit einem niedrigen LDH, einem guten Allgemeinzustand und einem geringen Summenwert der längsten Durchmesser der Zielläsionen. Das mittlere progressionsfreie Überleben betrug hier im Median 11,1 Monate, das Gesamtüberleben 27,2 Monate. Bei erhöhtem LDH-Ausgangswert war das progressionsfreie Überleben nur 3,5 Monate und das Gesamtüberleben im Median nur 6 Monate. Durch die neuen Therapiemöglichkeiten haben sich die Prognosefaktoren also nicht grundsätzlich geändert.
+
+
+== Behandlung ==
+Die wichtigste Therapieform ist die chirurgische Entfernung des Primärtumors. Hierbei sollte der Tumor stets als Ganzes entfernt werden. Biopsien werden bei Verdacht auf ein malignes Melanom nicht entnommen, um eine Streuung in die Blutbahn und/oder die Lymphflüssigkeit zu vermeiden. Bei der Entfernung sollte auf einen ausreichenden Sicherheitsabstand geachtet werden. Dieser beträgt je nach Tumordicke 1 oder 2 cm; außerdem sollten alle Hautschichten unter dem Tumor bis auf die Muskelfaszie entfernt werden. Bei Melanomen im Gesicht oder an den Akren kann man statt der Einhaltung eines großen Sicherheitsabstandes auch eine Exzision mit mikroskopisch-kontrollierter Chirurgie durchführen, bei der mittels Schnittrandkontrolle unter dem Mikroskop eine vollständige Entfernung im Gesunden sichergestellt wird.
+Entsprechend der aktuellen Melanom-Leitlinie wird im Allgemeinen ab einer Tumordicke von 1 mm empfohlen, in Einzelfällen schon ab 0,75 mm Tumordicke, zusätzlich den Wächterlymphknoten zu identifizieren und histologisch zu untersuchen. Der Wächterlymphknoten bietet einen wichtigen prognostischen Faktor (Einordnung in Stadium II oder III). Bei Befall des Wächterlymphknotens wird eine generelle Entfernung der weiteren Lymphknoten an dieser Lokalisation empfohlen. Weitere therapeutische Vorteile bieten sich aber durch Entfernung des Wächterlymphknotens nicht, dennoch wird der prognostische Wert als sehr wichtig für die weitere Therapie und Nachsorge des Melanoms empfohlen. Bei geringer Melanom-Tumormasse im Wächterlymphknoten können molekulargenetische Risikofaktoren eine zusätzliche prognostische Information geben.
+Sowohl bei Melanomen mit einer höheren Tumordicke ohne weiteren Lymphknotenbefall (Stadium II) als auch nach erfolgter Entfernung der Lymphknoten (Stadium III) wird eine adjuvante Therapie mittels Interferon alpha über 18 Monate empfohlen. Auch wenn dies wahrscheinlich keinen messbaren Einfluss auf das Gesamtüberleben hat, soll doch das Auftreten eines Tumorrezidivs hierdurch verzögert werden.
+In späteren Stadien, wenn der Tumor bereits Metastasen in Haut, Lymphknoten und inneren Organen gebildet hat, ist die Chance auf eine Heilung gering. Hier werden eine ganze Reihe von Therapiealternativen angewendet und erprobt, die in der Regel nur eine zeitweilige Besserung bieten, jedoch meist keine Aussicht auf Heilung haben. Hierzu gehören die Chemotherapie mit DTIC oder Fotemustin, chirurgische Eingriffe zur Verringerung der Tumormasse oder eine Strahlentherapie. Neue Therapieansätze beruhen auf der Blockade molekularer Prozesse in der Signaltransduktion der Zelle: Erste zunächst erfolgversprechende Studien über eine Kombination eines klassischen Chemotherapeutikums mit Tyrosinkinase-Inhibitoren wie Sorafenib hatten im Verlauf keine ausreichende Überlegenheit dieser Therapie zeigen können.
+Erfolgreich getestet und mittlerweile zugelassen sind Medikamente aus der Gruppe der BRAF-Inhibitoren: Vemurafenib erhielt 2012 eine positive Empfehlung der europäischen Zulassungsbehörde, 2013 folgte der Wirkstoff Dabrafenib. Allerdings ist eine Therapie mit BRAF-Inhibitoren nur für Melanompatienten mit einer BRAFV600E/K-Mutation möglich (ca. 50 % der Patienten) und die Wirkung des Medikaments ist fast immer vorübergehend. In der Regel tritt nach einer Behandlung mit b-raf-Inhibitoren nach etwa sechs Monaten eine Resistenzentwicklung des Tumors und seiner Metastasen auf, so dass es wieder zu einem Progress kommt. Dies versucht man mit den mittlerweile ebenfalls zugelassenen MEK-Inhibitoren Trametinib oder Cobimetinib zu verzögern. Einen deutlichen Fortschritt, auch bei der Behandlung inoperabler metastasierter Melanome, stellt die Kombination aus dem BRAF-Inhibitor Encorafenib und dem MEK-Inhibitor Binimetinib dar. Denn Encorafenib weist in biochemischen Untersuchungen eine hohe Verweildauer (Dissoziationshalbwertszeit) von mehr als 30 Stunden am mutierten BRAFV600E-Protein auf – im Gegensatz zu 2 Stunden bei Dabrafenib und 0,5 Stunden bei Vemurafenib. Binimetinib erhöht zusammen mit Encorafenib gegenüber der BRAF-Inhibitor-Monotherapie die Wirksamkeit bei adäquater Verträglichkeit.
+Eine weitere therapeutische Möglichkeit zielt darauf ab, das Immunsystem zu stimulieren (Krebsimmuntherapie). Hierfür ist seit 2011 der monoklonale Antikörper Ipilimumab in der EU zugelassen. Auf ähnliche Weise (als Immuncheckpoint-Inhibitor) wirkt der monoklonale Antikörper Nivolumab gegen den Checkpoint-Rezeptor PD-1 (also ein PD-1-Inhibitor), der in ersten klinischen Studien vielversprechende Ergebnisse erzielte. Nivolumab (Opdivo) wurde im Juni 2015 in der EU zugelassen.
+Im Oktober 2015 hat das Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen in einer Dossierbewertung für nicht vorbehandelte Patienten, deren Tumor-V600-Mutation-negativ ist, einen Zusatznutzen festgestellt.
+Nach voriger FDA-Zulassung in den USA, die bereits 2014 erfolgte, ist ein weiterer PD-1-Inhibitor Pembrolizumab (Keytruda) im Juli 2015 in der EU als Monotherapie zur Behandlung des fortgeschrittenen, d. h. nicht resezierbaren oder metastasierten malignen Melanoms bei Erwachsenen zugelassen. Die Immuncheckpoint-Inhibitoren erwiesen sich zur palliativen und adjuvanten Behandlung des Melanoms als effektiv. Bei Melanomen mit niedriger oder fehlender PD-L1-Expression ist eine Kombinationstherapie mit Ipilimumab und Nivolumab wirksamer als eine anti-PD1-Monotherapie, verursacht aber auch häufiger schwere immunologische Nebenwirkungen.
+Darüber hinaus werden anhand des malignen Melanoms derzeit verschiedene zelluläre, immuntherapeutische Verfahren in präklinischen Versuchen oder in klinischen Studien erprobt. Hierbei wird unter anderem das therapeutische Potential Melanom-spezifischer T-Zellen oder Antigen-beladener dendritischer Zellen getestet. Dabei ist hervorzuheben, dass im Gegensatz zu Leukämien, die ebenfalls für verschiedene zelluläre Immuntherapien getestet werden, es sich beim Melanom um einen festen, kompakten Tumor handelt, der für Immunzellen weniger gut erreichbar ist.
+Seit 2015 ist ein gentherapeutischer Ansatz mit onkolytischen Viren zugelassen.
+Patienten, die zuvor einmal an einem malignen Melanom erkrankt waren, werden regelmäßige Nachuntersuchungen empfohlen.
+Spätmetastasen und CUP (Cancer of Unknown Primary, unbekannter Primärkrebs) sind beim malignen Melanom häufig.
+Zur Nachsorge gehören nicht nur regelmäßige Kontrolluntersuchungen, um Rezidive rechtzeitig zu erkennen, sondern bei Bedarf auch psychoonkologische Beratungen, um die Rehabilitation der Patienten zu erleichtern. Die Krebsliga empfiehlt den Betroffenen die langsame Rückkehr in den Alltag und eine individuelle Bewältigungsstrategie, die sich an den eigenen Wünschen und Bedürfnissen orientiert und Hilfe von außen einbezieht.
+
+
+== Siehe auch ==
+Kaposi-Sarkom („Melanosarkom“)
+
+
+== Literatur ==
+Giuseppe Palmieri, Mariaelena Capone, Maria Libera Ascierto, Giusy Gentilcore, David F. Stroncek, Milena Casula, Maria Cristina Sini, Marco Palla, Nicola Mozzillo, Paolo A. Ascierto: Main roads to melanoma. In: Journal of Translational Medicine. Band 7, 2009, ISSN 1479-5876, S. 86, doi:10.1186/1479-5876-7-86, PMID 19828018, PMC 2770476 (freier Volltext). 
+Y. M. Chang u. a.: Sun exposure and melanoma risk at different latitudes: a pooled analysis of 5700 cases and 7216 controls. In: International journal of epidemiology, Band 38, Nummer 3, Juni 2009, S. 814–830. doi:10.1093/ije/dyp166. PMID 19359257. PMC 2689397 (freier Volltext).
+Claus Garbe: Management des Melanoms. Verlag Springer, Heidelberg 2006, ISBN 3-540-28987-9; eingeschränkte Vorschau in der Google-Buchsuche
+C. Garbe u. a.: Therapie des Melanoms. In: Dtsch Arztebl, 105, 2008, S. 845–851. doi:10.3238/arztebl.2008.0845
+J. K. Rivers: Is there more than one road to melanoma? In: The Lancet, Band 363, Nummer 9410, Februar 2004, S. 728–730. doi:10.1016/S0140-6736(04)15649-3. PMID 15005091 (Review).
+C. Garbe, D. Schadendorf: Malignes Melanom – neue Daten und Konzepte zur Nachsorge. In: Dtsch Arztebl., 100, 2003, S. A-1804/B-1501/C-1409
+J. Bertz: Epidemiologie des malignen Melanoms der Haut. In: Bundesgesundheitsblatt, 44, 2001, S. 484–490.
+S3-Leitlinie Diagnostik, Therapie und Nachsorge des Melanoms der Deutschen Krebsgesellschaft (DKG) und der Deutschen Dermatologischen Gesellschaft (DDG). In: AWMF online (Stand 2020)
+Claus Garbe (Hrsg.): Melanom: aktualisierte Therapieempfehlung der S3-Leitlinie zur Diagnostik, Therapie und Nachsorge des Melanoms. Thieme Verlag, Stuttgart 2016, DNB 1117827666
+P. E. LeBoit, G. Burg, D. Weedon, A. Sarasain: Pathology and Genetics of Skin Tumours. In: World Health Organization (Hrsg.): WHO Classification of Tumours. 3rd Edition Auflage. Band 6. WHO Press, Geneve 2005, ISBN 92-832-2414-0. 
+
+
+== Weblinks ==
+
+PathoPic – Bilddatenbank der Universität Basel: Histologische Bilder von malignen Melanomen
+PathoPic – Bilddatenbank der Universität Basel: Makroskopische Bilder von malignen Melanomen und deren Metastasen
+PathoPic – Bilddatenbank der Universität Basel: Zytologische Bilder von malignen Melanomen und deren Metastasen
+Verbreitung des Malignen Melanoms
+Melanoma Molecular Map Project (englisch)
+hautkrebs.de – das Hautkrebs-Infoportal
+Informationen zum Melanom. Universitätsklinik Bonn
+Malignes Melanom. Dermatologisches Informations-System
+Melanom. Oncotrends.de – Entwicklungen und Trends in der Onkologie
+Monika Preuk: Medizinische Raritäten: Spektakuläre Einblicke in den Körper; dazu Bild 3: Leber mit Melanom-Metastasen; Bild aus dem Medizinhistorischen Museum Berlin
+Liste zertifizierter Hauttumorzentren in Deutschland; 58 zertifizierte Hauttumorzentren in Deutschland (Stand: 26. März 2019)
+Malignes Melanom. ONKODIN: Onkologie, Hämatologie – Daten und Informationen – Informationsseite für medizinisches Fachpersonal
+Malignes Melanom. krebs.de – Informationsseite für Patienten
+
+
+== Einzelnachweise ==

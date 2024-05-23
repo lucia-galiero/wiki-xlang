@@ -1,0 +1,65 @@
+En astronomie, un effondrement gravitationnel est la contraction d'un corps massif sous l'effet de sa propre attraction gravitationnelle.
+
+
+== Description ==
+Il se produit lorsque toutes les forces de pression ne peuvent plus compenser cette attraction et maintenir un équilibre : l'astre « s'effondre » sur lui-même. L'effondrement gravitationnel est l'une des étapes de l'évolution des étoiles, à la fois au début et vers la fin de leur vie. C'est en effet par effondrement gravitationnel d'une masse de gaz que se forment les étoiles.
+À la fin de sa vie, quand toutes les sources d'énergies ont été épuisées, l'étoile s'effondre, pour devenir un objet compact, c'est-à-dire : 
+
+une naine blanche, dont la pression de dégénérescence électronique compense la gravité ;
+une étoile à neutrons, dont la pression de dégénérescence neutronique compense la gravité ;
+un trou noir, dont la physique interne reste inconnue.
+Au cours de l'effondrement qui mène à une naine blanche, et qui contracte le cœur de l'étoile, les couches externes de celle-ci sont expulsées et forment une nébuleuse planétaire.
+
+
+== Naissance des étoiles ==
+L'effondrement gravitationnel joue un rôle fondamental dans la naissance, la mort et l'évolution d'une étoile. Il dirige la formation de plusieurs types d'étoiles : les proto-étoiles, les naines blanches, les étoiles à neutrons et les trous noirs. La formation d'une étoile commence avec un nuage moléculaire géant. Il est composé de poussière et de gaz de plus d'une centaine de molécules différentes. Il y a plusieurs facteurs qui peuvent rompre l'équilibre d'un nuage moléculaire géant. Quand celui-ci passe dans une zone à haute densité, cette région froide stabilise le nuage. Le nuage subit alors une force de compression, ce qui rompt la stabilité et augmente la température et la pression. Cette action cause l'effondrement gravitationnel.
+Quand l'équilibre du nuage est atteint, le nuage se divise en petits fragments. La pression interne du nuage se contracte seulement si sa masse est supérieure à une limite qui s'appelle la masse de Jeans. Les blocs de la masse de Jeans sont indépendants et commencent à se contracter. Plus il y a de fragments, plus la masse de Jeans baisse. La succession de divisions continue. À un moment donné, le processus de fragmentation s'arrête mais la contraction des blocs continue. C'est à ce moment que le gaz prend une couleur opaque. L'énergie gravitationnelle se transforme en énergie thermique, ce qui stabilise la taille du nuage. Une boule de gaz se comprime au centre du nuage et le nuage devient une protoétoile. Cette protoétoile émet de la lumière.
+
+
+== Cas des trous noirs ==
+Les étoiles très massives, dépassant la limite de Tolman-Oppenheimer-Volkoff, ne peuvent atteindre un nouvel équilibre dynamique en compensant la gravité. Elles se contractent jusqu'à ce que toute leur matière soit dans l'horizon des évènements d'un trou noir en formation. On ignore ce qui se produit après cet instant.
+Il n'existe pas encore de théorie physique décrivant ce qui se produit à l'intérieur d'un trou noir. En effet, les équations de la relativité générale, en ignorant les autres théories physiques, prédisent la formation d'une singularité gravitationnelle. La mécanique quantique, en revanche, interdit qu'une forme de matière se contracte en deçà de sa longueur d'onde. La théorie des cordes et la théorie de la gravitation quantique à boucles, tentent l'union des deux théories, mais ne peuvent encore être testées.
+
+
+== Supernova ==
+L'effondrement gravitationnel du cœur de l'étoile libère tellement d'énergie de liaison que les couches externes sont expulsées par l'explosion. Les plus impressionnantes d'entre elles, qui aboutissent à une étoile à neutron ou un trou noir, forment les supernova.
+Un facteur qui détruit la stabilité d'un nuage moléculaire géant est l'onde de choc d'une explosion d'une supernova. L'onde de choc est tellement intense que les nuages moléculaires géants commencent à s'effondrer sous l'effet de la pression et de la force de gravité. Ces nuages moléculaires géants deviennent des nébuleuses obscures. Un bon exemple est la nébuleuse d'Orion.
+
+
+== Naine blanche ==
+La deuxième dernière étape de l'évolution d'une étoile est la naine blanche. Elle est juste avant l'étape de devenir une naine noire. Une naine blanche est composée des restes des étoiles qui n'ont pas explosé en supernova car elles n'avaient pas assez de combustible.
+
+
+== Formation d'une naine blanche ==
+Les étoiles s'effondrent sur elles-mêmes à la suite de l'augmentation de la pression et la température (réaction triple alpha). Ces changements gonflent l'étoile. Quand la fusion d'hélium à carbone s'arrête, l'étoile va commencer à se contracter sous l'effet de la force gravitationnelle. Si la masse du cœur de l'étoile est inférieure à la limite de Chandrasekhar (1,4 masse solaire), les électrons qui circulent, exercent sur les noyaux une pression interne. Cette action arrête l'effondrement gravitationnel. Ce processus s'appelle la pression de dégénérescence électronique. Elle obéit au principe d'exclusion de Pauli qui interdit à deux particules d'avoir la même vitesse au même endroit. Ce principe explique le comportement des électrons. Les électrons se trouvent autour des noyaux atomiques dans des orbites ou niveaux d'énergie. Il y a peu de place pour que les électrons puissent se déplacer. Quand les atomes sont fortement comprimés ensemble par la force gravitationnelle, ils exercent une forte pression vers l'extérieur car ils "refusent" de se rapprocher des électrons. L'étoile se transforme en une naine blanche. Les couches extérieures qui encerclent la naine blanche vont rebondir et aller dans l'espace. La naine blanche est entourée de nuages de gaz, l'hydrogène et l'hélium.
+
+
+== Formation d'une étoile à neutrons ==
+Si la masse de l'étoile est supérieure à la limite de Chandrasekhar, les électrons sont forcés de se rapprocher les uns les autres. Pour que les électrons quittent leur place dans les orbites, il faut avoir une vitesse plus rapide que celle de la vitesse de la lumière. La cause est l'intense effondrement gravitationnel. L'étoile est plus petite qu'auparavant parce qu'elle continue à se contracter sous la force de la gravité. Les électrons pénètrent dans les noyaux atomiques pour se combiner avec les protons. Cette combinaison donne des neutrons. Le cœur de l'étoile s'effondre et transforme en une étoile à neutrons.
+
+
+== Tableau ==
+
+
+== Naine brune ==
+La chaleur des naines brunes peut également provenir de l'effondrement gravitationnel qu'a subi l'astre lors de sa formation.
+
+
+== Notes et références ==
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Gravitational collapse » (voir la liste des auteurs).
+
+
+== Voir aussi ==
+
+
+=== Article connexe ===
+Naine blanche
+Évolution stellaire
+Big Crunch
+
+
+=== Liens externes ===
+(en) Effondrements gravitationnels sur arXiv.org
+La formation d'étoile
+
+ Portail de l’astronomie

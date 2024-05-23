@@ -1,0 +1,232 @@
+Con acne normalmente si intende l'acne volgare; una malattia cronica della pelle a evoluzione benigna, caratterizzata da un processo infiammatorio del follicolo pilifero e della ghiandola sebacea annessa, chiamata in linguaggio comune "brufolo" o "foruncolo". Le parti più colpite sono viso, spalle, dorso e regione pettorale del torace.
+Ci sono varie tesi sull'origine del termine acne; per la più accreditata sarebbe dovuto a un'errata trascrizione del termine acme, infiorescenza, che si ritrova per la prima volta negli scritti del medico greco Aezio di Amida come ἁκμή (akmḗ).
+
+
+== Caratteristiche ==
+Le caratteristiche più comuni nell'acne volgare sono tre:
+
+l'aumentata untuosità della pelle o seborrea;
+il comedone (cosiddetto "punto nero");
+i foruncoli infiammati (papule) o ripieni di pus (pustole).
+Le manifestazioni dell'acne sono estremamente polimorfe e vanno dai comedoni, papule e pustole fino ad arrivare a manifestazioni più destruenti (noduli, cisti, ascessi, infiltrati flemmonosi). Le lesioni più severe dell'acne comportano anche esiti cicatriziali.
+L'acne si manifesta prevalentemente nella popolazione giovanile. Il disagio e l'imbarazzo che crea è soprattutto di carattere estetico, ma può anche avere ripercussioni psicosociali.
+
+
+== Classificazione ==
+Il termine acne è stato declinato in funzione di quando si manifesta e del tipo di lesioni. Può anche indicare varianti o complicazioni dell'acne o forme di acne diverse dall'acne volgare. Viene utilizzato inoltre per vari disturbi che si manifestano con eruzioni acneiformi indotte da fattori esogeni o impropriamente per le manifestazioni cutanee di altre patologie.
+
+
+=== Classificazione in funzione di quando si manifesta ===
+
+Acne
+
+neonatale: si manifesta normalmente entro il quarto mese di età.
+giovanile.
+postadolescenziale.
+adulta.
+premestruale.
+estiva.
+
+
+=== Classificazione in funzione delle lesioni ===
+Acne
+
+comedonica
+infiammata
+papulosa
+atrofica
+cistica
+conglobata, forma cronica che si mostra maggiormente sul dorso e sul torace, meno sul viso.
+fulminans, forma rara, acuta, ulcerativa, associata a uno stato febbrile. Può richiedere l'ospedalizzazione e le normali terapie dell'acne danno scarsi risultati.
+cheloidea, forma associata alla follicolite nei soggetti con pelle nera o asiatici.
+Sono state classificate anche forme di acne relative a specifiche aree cutanee dove si manifesta, come l'acne inversa, forma spesso grave che si manifesta nelle ascelle, inguine, pieghe sottomammarie e a specifiche aree geografiche, come l'acne tropicale una forma particolarmente severa, associata al clima caldo umido dei tropici.
+
+
+=== Classificazione della gravità ===
+Per la sua natura multiforme e multifattoriale è complesso definire la severità dell'acne. I primi tentativi, condotti nel 1930 dalla dott.ssa Carmen Thomas, contemplavano il conteggio delle lesioni. Oggi non esiste un sistema universalmente accettato e condiviso e questo comporta un'ulteriore incertezza nella definizione delle terapie e nella valutazione dei risultati.
+Alcune metodiche contemplano il conteggio delle lesioni infiammate e non infiammate, dando un peso alla gravità, posizione, densità e dimensione della lesione. Per ridurre la soggettività della valutazione, in certo casi si procede al rilievo fotografico dell'area. Altre metodiche contemplano la valutazione globale dello stato clinico delle lesioni oltre alla loro densità. Alcuni sistemi di valutazione della gravità dell'acne considerano poi con un questionario la qualità della vita e l'impatto psicologico dell'acne su chi ne soffre. Per la classificazione clinica della gravità dell'acne sono stati proposti oltre 25 metodi diversi.
+Al fine anche di armonizzare linee guida terapeutiche nazionali o di aree geografiche sovranazionali, dal 1995 sono stati proposti sistemi di classificazione della gravità dell'acne basati prevalentemente su una valutazione clinica globale, piuttosto che sul solo conteggio e valutazione della gravità delle lesioni. La valutazione clinica “globale” è meno obiettiva dei metodi basati sul meticoloso conteggio e misura delle lesioni, ma molto più rapida e pratica. Non riconoscendo un adeguato consenso a uno specifico metodo di classificazione dell'acne, le linee guida della American Academy of Dermatology la classificano senza indicare come definirne la gravità.
+
+
+== Epidemiologia ==
+È stato stimato che a livello mondiale nel 2010 fossero affette da acne circa 650 milioni di persone, pari al 9,4% della popolazione. L'acne è estremamente comune ( ~85% ) nei soggetti fra 12 e 25 anni ed è distribuita globalmente. Le conclusioni sulla prevalenza in funzione di alcuni caratteri genetici, in particolare il colore della pelle, sono discordanti, in quanto di recente sta emergendo una crescente incidenza nei giovani neri o asiatici. Specifici gruppi etnici possono manifestare una prevalenza in specifiche forme di acne e lesioni indotte dall'acne (cheloidi, iperpigmentazioni).
+È invece confermata da molte ricerche una minor prevalenza, fino alla totale assenza di acne, in alcune popolazioni primitive o che vivono in aree rurali. Questo induce a pensare all'acne come correlata a fenomeni di inurbamento e occidentalizzazione. L'incidenza in diversi gruppi etnici e nazioni risulta diversamente distribuita in funzione dell'età e del sesso. La massima insorgenza di tali manifestazioni nell'età adolescenziale è normalmente spiegata con l'aumento della secrezione di androgeni.
+Sia nei paesi in via di sviluppo che in quelli sviluppati risulta una maggiore incidenza nelle donne, dove pare mostrarsi prima, assieme alla pubertà, e dove maggiormente emerge il fenomeno dell'acne femminile in età postadolescenziale. Meno comune, ma non eccezionale, il protrarsi dell'acne fino ai 30 anni e oltre. Le forme più gravi sono quasi tutte prevalenti nel sesso maschile.
+L'acne non è ereditaria, ma esistono fattori predisponenti genetici che portano a considerare un'ereditabilità del 78% tra parenti di primo grado. L'insorgenza precoce e la severità possono essere associate alla storia familiare.
+
+
+== Eziopatogenesi ==
+L'acne è una dermatosi poliforme e multifattoriale di cui non sono ancora completamente comprese le cause e la patogenesi.
+Gli eventi biologici riconosciuti come determinanti nella formazione delle lesioni acneiche sono: 
+
+ipercheratizzazione e occlusione del follicolo pilosebaceo;
+iperattività e iperresponsività della ghiandola sebacea;
+iperattività pro-infiammatoria del Cutibacterium acnes;
+infiammazione intra e perifollicolare.
+Ma l'esatta sequenza e interdipendenza di questi eventi non è stata definita. A lungo si è attribuita una responsabilità primaria all'iperproduzione del sebo (mediata dagli androgeni) e un ruolo prodromico alla comedogenesi, considerando l'infiammazione come l'evento finale nella patogenesi dell'acne. Negli ultimi anni ci sono stati notevoli sviluppi nelle conoscenze sulle modalità di sviluppo e di progressione delle lesioni acneiche, rivedendo il ruolo dei vari mediatori biologici che intervengono nella formazione delle lesioni cutanee. È dimostrato come fenomeni infiammatori siano presenti in sede perifollicolare già dalle prime fasi dello sviluppo delle lesioni acneiche, al punto che oggi si può considerare l'infiammazione come possibile evento primario della cascata patogenetica dell'acne. Vari sono i fattori causali predisponenti o aggravanti l'acne volgare:
+
+
+=== Fattori genetici ===
+La predisposizione di alcune persone per l'acne può essere in parte spiegata con una componente genetica, che è stata supportata da studi su gemelli e studi che hanno esaminato la prevalenza di acne tra i parenti di primo grado. Si ipotizza si tratti di una suscettibilità poligenica all'acne, dal momento che la malattia non segue il modello classico di ereditarietà mendeliana. Diversi geni sono stati individuati correlati all'acne e in particolare alle sue manifestazioni più severe, tra cui polimorfismi nel fattore di necrosi tumorale alfa, IL-1 alfa, CYP1A1 e CYP17 Fattori genetici potrebbero risultare predisponenti sia rispetto alle risposte immunitarie/infiammatorie, sia rispetto alla sebogenesi e alla composizione del sebo.
+
+
+=== Fattori immunoinfiammatori ===
+Studi di immunoistochimica e di biologia molecolare hanno rilevato, in maniera sempre più convincente, la mediazione del sistema immunitario cutaneo nell'induzione della flogosi nell'acne. Il rilascio dei mediatori dell'infiammazione sembra riferibile soprattutto alle cellule dell'immunosorveglianza cutanea attivate da svariati stimoli, tra cui, con ogni probabilità, la componente microbiologica follicolare. Evidenze sperimentali sempre maggiori hanno attribuito all'immunità innata un ruolo centrale nell'innesco dell'infiammazione nella patologia acneica.
+La cascata infiammatoria esacerbata dai microorganismi cutanei attraverso l'espressione di AP-1 porterebbe a un'attivazione delle metalloproteasi, che contribuiscono alla distruzione dei tessuti cutanei e alla formazione di cicatrici.
+
+
+=== Fattori ormonali ===
+L'attività ormonale può contribuire alla formazione di acne. Durante la pubertà, l'aumento degli androgeni, provoca la crescita delle ghiandole sebacee causando la produzione, dalle stesse, di una maggiore quantità di sebo. Sempre a variazioni nel tasso di androgeni ematico si attribuisce una correlazione con l'incidenza di eruzioni acneiformi associate alle mestruazioni e gravidanza. Gli ormoni agirebbero con attività iperproliferativa sia verso la produzione del sebo sia verso la cheratinizzazione dell'infundibolo. Diversi ormoni sono stati associati all'acne, tra loro gli androgeni testosterone, diidrotestosterone (DHT) e deidroepiandrosterone (DHEAS), il Fattore di crescita insulino-simile (IGF-1) e la somatotropina (GH). Androgeni e IGF-1 sembrano essere essenziali per l'insorgenza dell'acne visto che l'acne non si manifesta in individui con la sindrome da insensibilità agli androgeni (CAIS) o con la Sindrome di Laron (insensibilità al GH che comporta livelli estremamente bassi di IGF-1).
+L'uso di steroidi anabolizzanti può innescare o accentuare l'acne. L'acne nelle donne adulte può essere connessa alla gravidanza o alla sindrome dell'ovaio policistico. Nel corso della gravidanza può esserci un aumento di androgeni, con un conseguente aumento della produzione di sebo.
+Anche ormoni neuroendocrini come l'ormone di rilascio della corticotropina (CRH) e alcuni neuropeptidi risultano correlati all'acne e spiegherebbero alcune manifestazioni associate allo stress.
+
+
+=== Fattori infettivi ===
+Il Cutibacterium acnes (C. acnes), un batterio gram-positivo che predilige l'anaerobiosi, prolifera all'interno del dotto di tutti i follicoli pilo-sebacei delle pelli acneiche e non acneiche Il C. acnes è noto per essere uno dei principali induttori di infiammazione nell'acne, agendo attraverso svariati meccanismi. La gravità delle lesioni acneiche non è correlata al numero dei C. acnes contenuti nel follicolo e si considera che più che la densità della colonizzazione batterica sia determinante il potenziale pro-infiammatorio di specifici ceppi batterici in grado di attivare il sistema immunitario innato, soprattutto per la capacità di legare e attivare i recettori di tipo toll, in particolare il toll-like receptor 2 (TLR2) e il toll-like receptor 4 (TLR4). L'attivazione di TLR2 e TLR4 porta a un aumento dell'espressione di IL-8, TNF-α e IL-1α. IL-1α eserciterebbe azione iperproliferativa sia sui sebociti sia sui cheratinociti del follicolo.
+Sempre alla colonizzazione del C. acnes si attribuisce l'aumento nell'espressione di peptidi antimicrobici, come le defensine beta-1 e beta-2. Le proprietà infiammatorie del C. acnes possono essere ulteriormente spiegate con la capacità del batterio di convertire i trigliceridi in acidi grassi liberi pro-infiammatori s attraverso la secrezione dell'enzima lipasi. Gli acidi grassi liberi stimolano la produzione di catelicidina, e delle defensine hBD1, e hBD2, determinando in tal modo ulteriormente l'infiammazione. Parteciperebbe al meccanismo infiammatorio anche l'ossidazione dello squalene che porterebbe a u n aumento dell'attività del 5-lipossigenasi, enzima responsabile della conversione dell'acido arachidonico in leucotriene B4 (LTB4). LTB4 promuove l'infiammazione della pelle, agendo su recettori della proliferazione perossisomale alfa (PPARa). Il PPARa aumenterebbe l'attività della proteina AP-1 e NF-κB, determinando così il reclutamento infiammatorio delle cellule T. Varie ricerche hanno individuato in altri microorganismi cutanei come il demodex una possibile responsabilità nella cascata infiammatoria dell'acne.
+
+
+=== Fattori dipendenti dallo stile di vita e dall'alimentazione ===
+
+
+==== Dieta ====
+Non esiste alcuna certezza scientifica di un nesso causale fra acne e dieta, ma recentemente sono cresciute le evidenze di una possibile relazione tra l'acne e le diete ad alto carico glicemico o ricche di latte e latticini. L'elevato apporto di carboidrati iperglicemici e di derivati del latte ad azione insulinotropica determinerebbero una sovrastimolazione del segnale mediato dall'insulina e dal fattore di crescita insulino-simile che sembrerebbe correlare con il tasso di prevalenza dell'acne.
+Alcuni lipidi assunti con la dieta possono influenzare, in certe condizioni e comunque in modo limitato, la produzione di sebo. Tale influenza si concretizza solo in termini qualitativi, con una modifica della composizione dei lipidi sebacei. Non sono disponibili dati a dimostrazione del fatto che una dieta ricca di lipidi aumenti la quantità di sebo prodotta dalla ghiandola sebacea. Cioccolato e sale non hanno studi a sostegno di una loro responsabilità nell'aggravamento dell'acne. In tema di rapporti tra componenti della dieta e acne va rilevato che sono a disposizione vari dati teorici o correlazioni ricavate da studi epidemiologici ma limitati riscontri clinici attendibili.
+Alcuni studi clinici concluderebbero che una dieta a basso indice glicemico migliora l'acne, specialmente se con lesioni infiammate. Le prove che il consumo di latte scremato sia relazionato positivamente con l'incidenza e la severità dell'acne sono considerate deboli. Una relazione può essere individuata con il metabolismo dell'insulina e uno studio clinico conclude che c'è una relazione tra acne e obesità. Alcuni nutrienti, compresa la Vitamina B12, se assunta sopra la DGA possono innescare eruzioni acneiformi o esacerbare un'acne già presente.
+
+
+==== Tabagismo ====
+La relazione tra il fumo delle sigarette e la gravità dell'acne non è chiara ed è oggetto di controversia scientifica. Diversi studi epidemiologici hanno fornito dati discordanti. Alcune ricerche hanno individuato un'associazione inversa, altre un'associazione positiva. Alcune hanno indicato un peggioramento dell'acne nelle donne ma non negli uomini e viceversa. Nelle ricerche che hanno segnalato un'associazione inversa, cioè una minor incidenza e gravità dell'acne nei fumatori, si ipotizza che siano responsabili la vasocostrizione e alcuni percorsi anti-infiammatori. Nelle ricerche che hanno segnalato una correlazione positiva, cioè una maggiore incidenza e gravità dell'acne nei fumatori si è ipotizzato che l'aggravamento fosse associato allo stress e all'ansia, alla perossidazione dei lipidi cutanei indotta dal fumo o ad alcuni agenti proinfiammatori presenti nel fumo.
+
+
+==== Igiene ====
+Che la poca igiene del viso sia una causa dell'acne è una delle più antiche e comuni idee sbagliate che circolano. Le prove sul ruolo della mancanza di igiene del viso nella patogenesi di acne e per la pulizia del viso nella sua gestione sono per lo più di scarsa qualità. Considerando anche che una detersione non corretta potrebbe esacerbare l'acne le pratiche di pulizia soprattutto del viso sono considerate coadiuvanti come una sorta di “terapia empirica”.
+
+
+=== Fattori psicologici ===
+Anche se il rapporto tra acne e stress è ancora in discussione, alcune ricerche indicano che una maggiore severità in caso di acne è associata a un più alto livello di stress. Ci sono prove che il processo infiammatorio iniziale dell'acne è in stretta relazione non solo con la produzione di sebo alterata e la cheratinizzazione anomala nell'infundibolo, ma anche con una cascata di eventi neuroendocrini che coinvolgono neuropeptidi con attività ormonale e non ormonale. Alcune ricerche suggeriscono che l'intero sistema dell'ormone di rilascio della corticotropina (CRH) e con il recettore della melanocortina MC-1R possono essere coinvolti nella patogenesi dell'acne.
+
+
+== Sintomatologia ==
+
+
+=== Comedone ===
+
+È una dilatazione dell'orifizio dei follicoli e si ritrova nelle aree (volto, torace, dorso) dove si sviluppa l'acne. Le cellule del follicolo di un soggetto acneico, osservate al microscopio elettronico, rivelano al loro interno gocce di grasso che normalmente non dovrebbero essere presenti. Questo fenomeno è espressione di un'alterata cheratinizzazione e costituisce la chiave interpretativa della formazione del comedone. La formazione del comedone è un segno precoce dello sviluppo dell'acne; ci sono soggetti che presentano i comedoni ma non sono affetti da acne, tuttavia in tutti i pazienti con acne si ritrovano i comedoni.
+Lo strato corneo del follicolo diviene più aderente, le cellule si separano meno facilmente e vanno a ostruire lo sbocco (infundibolo) del follicolo. La ghiandola continua a secernere sebo che, non potendo fuoruscire, ispessisce il follicolo. I germi presenti normalmente sulla cute (Staphylococcus epidermidis e Cutibacterium acnes), in condizioni di scarsità di ossigeno come quella che si crea nel follicolo bloccato da un punto nero, possono svilupparsi in quanto anaerobi o anaerobi facoltativi (es. Staphylococcus epidermidis) e scompongono i trigliceridi in acidi grassi, creando le premesse per l'infiammazione che danneggia ulteriormente il tessuto.
+Istologicamente si possono presentare:
+
+Comedoni aperti, al cui interno si ritrova cellule corneificate, sebo, flora batterica o meno comunemente acari; si riconosce per il colore nero (volgarmente chiamato punto nero, il cui colore è dato dall'ossidazione dei lipidi contenuti nel sebo a contatto con l'ossigeno dell'aria).
+Comedoni chiusi, la cui differenza è nella grandezza dell'ostio follicolare (talmente piccolo da sembrare chiuso) e nel colore biancastro (punto bianco).
+
+
+=== Seborrea ===
+La carnagione grassa e translucida dei soggetti con acne è dovuta all'eccessiva secrezione delle ghiandole sebacee. Come per i punti neri, accade frequentemente di trovare persone con seborrea ma senza acne, ma se c'è acne la seborrea è sempre presente, e la sua intensità è direttamente proporzionale alla gravità dell'acne.
+Responsabili della seborrea sono in gran parte gli ormoni androgeni, il principale dei quali è il diidrotestosterone che si lega ai recettori di ormoni andorgeni nelle ghiandole sebacee. Nel maschio la massima parte del testosterone è prodotta dal testicolo, una minima parte dalle ghiandole surrenali. Nella femmina il testosterone presente nel sangue è prodotto quasi tutto dalle surrenali, ma una minima parte sembra provenire dall'ovaio.
+I livelli di testosterone nei bambini sono minimi, per aumentare poi alla pubertà in entrambi i sessi, in misura molto maggiore nei maschi. La grandezza delle ghiandole surrenali raggiunge le dimensioni dell'adulto e la secrezione del sebo aumenta. L'iperproduzione di sebo ostruisce i pori della pelle e in assenza di ossigeno favorisce la crescita batterica, con infiammazione e infezione.
+
+
+=== Infiammazione ===
+Insieme alla seborrea e ai punti neri, il segno più evidente dell'acne è la presenza di infiammazione della cute. I follicoli bloccati dai comedoni si rompono liberando il loro contenuto nel derma. Il sebo, il materiale corneo e i batteri penetrano nel derma attraverso le rotture della parete del follicolo creando le premesse per l'infiammazione. Il sangue scorre più intensamente attraverso i capillari dilatati, rigonfiando la zona di cute circostante e formando quindi la papula. Se anche i globuli bianchi fuoriescono dai vasi sanguigni accumulandosi intorno ai follicoli, si sviluppano le pustole attraverso la digestione, da parte dei neutrofili, del materiale fuoriuscito dal follicolo.
+Il nodulo si forma per la rottura della cisti follicolare, che comporta in alcuni soggetti una reazione da corpo estraneo con esiti fibrotici.
+Più in generale, gli esiti delle lesioni vanno da nessun esito a discromie non permanenti fino a cicatrici frequentemente depresse, talora ipertrofiche. In casi rari e in pazienti predisposti, le lesione può esitare in cheloidi (acne cheloidea).
+Fra i sintomi e i segni clinici si ritrova dolore, anche se la maggior parte delle volte risulta asintomatica. I comedoni possono presentarsi sotto forma di puntino bianco o nero. Papule e pustole si presentano a seconda della profondità dell'infezione (se maggiormente profonda si mostrano papule) raggiungono dimensioni di 2–5 mm di diametro.
+
+
+=== Cicatrici ===
+Gli esiti cicatriziali sono una diffusa complicazione dell'acne e di numerose patologie dermatologiche. In base alla larghezza, profondità e struttura tridimensionale, le cicatrici di tipo post-acneico sono distinte in icepick, boxcar, rolling scars. A questa classificazione si aggiunge la distinzione tra aree depresse, cicatrici atrofiche e ipertrofiche. Il trattamento per attenuare o eliminare le cicatrici acneiche prevede peeling, dermoabrasione, laser. Per le cicatrici atrofiche la tecnica del collagen induction therapy (o needling) realizzata con rulli rivestiti da microaghi sterili. Per i cheloidi, si utilizzano lamine di gel di silicone e iniezioni di corticosteroidi sulla lesione.
+
+
+== Diagnosi ==
+L'acne è diagnosticata facilmente, con l'esame obiettivo che evidenzia il polimorfismo delle lesioni e la costante presenza di seborrea. Occorre però, con un'accurata diagnosi differenziale, escludere le varie ipotesi alternative, altre manifestazioni acneiche specifiche come l'acne estivale, l'acne sifilitica (lesioni cutanee del secondo stadio dell'infezione luetica), le follicoliti piogeniche e le pseudofollicoliti.
+
+
+== Terapia ==
+Per la natura multiforme e multifattoriale dell'acne, ciascuno dei fattori eziopatogenetici fondamentali dell'acne (infiammazione, colonizzazione batterica, ipercheratinizzazione dell'infundibolo, sebogenesi) può rappresentare l'obiettivo di un trattamento specifico. Attualmente sono in commercio una notevole quantità di presidi terapeutici sia per uso locale che generale con azioni diverse rivolte verso l'uno e/o l'altro dei fattori eziopatogenetici dell'acne. Una terapia che combina diverse azioni rappresenta l'approccio terapeutico più indicato e più comunemente utilizzato.
+
+Azione ormonale antiandrogenica: La terapia ormonale o con antiandrogeni è una valida opzione per il trattamento di donne affette da acne. L'obiettivo è interferire con l'azione degli ormoni androgeni sulle ghiandole sebacee. Possono essere utilizzate le stesse combinazioni estro-progestiniche utilizzate nella contraccezione orale, che riducendo la frazione libera di testosterone plasmatico hanno un effetto benefico sulla seborrea e sull'acne. Sono privilegiati i contraccettivi orali che combinano etinilestradiolo con progestinici di seconda (etinodiol acetato, noretindrone, levonorgesterolo) e terza generazione (desogestrel, norgestimato, gestodene), a minima attività androgeno mimetica. Possono anche essere utilizzati singoli antiandrogeni che possono bloccare i recettori degli androgeni, come lo spironolattone, il flutamide e il ciproterone acetato. Rientrano tra i possibili presidi terapeutici per una terapia ormonale anche i glucocorticosteroidi per via orale, prednisone o desametasone a piccole dosi, gli agonisti dell'ormone di rilascio delle gonadotropine (buserelina, nafarelin) e gli inibitori della 5-alfa-reduttasi.
+Azione antibiotica: visto che la colonizzazione del C. acnes è associata all'insorgere e aggravarsi dell'acne per molti anni la terapia antibiotica sistemica o topica è stata considerata come la prima linea di intervento. La terapia antibiotica può esercitare oltre a un'azione antibatterica un'azione antinfiammatoria diretta. Gli antibiotici più utilizzati sono tetracicline e macrolidi. Le tetracicline di seconda generazione doxiciclina, limeciclina per via orale e la clindamicina topica sono spesso indicate come trattamento di prima scelta. Nel corso degli anni si è osservata una crescente antibiotico-resistenza dei ceppi di C. acnes e di Staphylococcus e Streptococcus. L'antibiotico-resistenza può insorgere de novo oppure derivare a seguito della selezione di ceppi batterici resistenti preesistenti. Di fronte all'emergere dell'antibiotico-resistenza negli ultimi anni quasi tutte le linee guida per il trattamento dell'acne hanno adottato restrizioni nell'utilizzo degli antibiotici, analoghe a quelle espresse nella posizione dei dermatogi italiani condivisa dall'Agenzia italiana del farmaco:
+Evitare l'uso dell'antibiotico, sia topico che sistemico, in monoterapia;
+Combinare un retinoide topico, base della terapia antiacne, con l'antimicrobico;
+Associare anche il benzoile perossido per il suo effetto antimicrobico e per la capacità di non favorire antibiotico resistenza;
+Utilizzare l'antibiotico per una durata preferibilmente non superiore ai 3 mesi;
+Evitare preferibilmente l'uso combinato di antibiotico topico e sistemico;
+Valutare l'andamento clinico dopo 6-8 settimane di terapia. In caso di assenza di risposta clinica sospendere l'antibiotico e passare ad un altro trattamento. Nel caso in cui si fosse già ottenuta la scomparsa dell'acne si consiglia il passaggio alla terapia di mantenimento;
+Considerare, come terapia di mantenimento, il retinoide topico e associare il benzoile perossido quando si ritenga necessario evitando invece l'uso dell'antibiotico.
+Azione antimicrobica: con un meccanismo d'azione diverso dagli antibiotici e meno portato a generare resistenza si può inibire la colonizzazione del C. acnes con antimicrobici topici. Essendo un batterio anaerobico che si annida nel dotto pilosebaceo risultano più efficaci agenti antimicrobici liposolubili. Il più utilizzato in concentrazioni dal 2,5 al 10% è il perossido di benzoile. Altri presidi terapeutici normalmente utilizzati topicamente nel trattamento dell'acne possono svolgere un'azione antimicrobica, in particolare l'acido salicilico e l'acido azelaico. Può svolgere anche una blanda azione antimicrobica lo zinco.
+Azione antiproliferativa: Sia la seborrea che l'ipercheratinizzazione dell'infundibolo dipendono dalla proliferazione e differenziazione cellulare. Nella terapia dell'acne i retinoidi sia topici che sistemici agiscono inibendo la proliferazione e la differenziazione dei sebociti. Riducono il volume delle ghiandole sebacee e portano a una minor produzione di sebo. Inoltre possono modulare la proliferazione e la differenziazione dei cheratinociti del dotto follicolare interferendo con l'iperproliferazione dell'epitelio e con i meccanismi che portano alla formazione dei comedoni. I principali retinoidi utilizzati sono tretinoina, isotretinoina, adapalene, tazarotene. I retinoidi possono alterare la crescita cellulare e la differenziazione e ricambio dei tessuti epiteliali mediati da più classi di recettori nucleari. Quelli di terza generazione, adapalene e tazarotene, mostrano un'affinità selettiva verso alcuni recettori, mostrando nell'utilizzo topico una maggiore tollerabilità e minori reazioni avverse. Sono forti teratogeni e il loro utilizzo comporta un grave rischio in caso di gravidanza. Nell'ultimo decennio sono state introdotte specifiche limitazioni prescrittive dell'isotretinoina orale per ridurre i rischi relativi alla teratogenicità e in misura minore alla depressione. Altri presidi terapeutici possono interferire con la proliferazione dei sebociti o dell'epitelio dell'infundibolo tra questi l'acido azelaico, il nicotinamide, lo zolfo. Per regolare il ricambio cellulare e ridurre l'ipercheratinizzazione sono previsti anche trattamenti cheratolitici.
+Azione cheratolitica: L'azione cheratolitica può essere esercitata con specifici peeling chimici o come effetto indiretto di altri agenti terapeutici. Per il peeling chimico le sostanze più utilizzate sono acido salicilico, acido glicolico ma sono stati anche altri agenti esfolianti: acido piruvico, acido tricloroacetico ecc. Possono agire anche come cheratolitici: perossido di benzoile, acido azelaico, zolfo.
+Azione anti-infiammatoria: Crescendo il consenso sulla natura infiammatoria dell'acne di molti presidi terapeutici si è rilevata come una diretta o indiretta attività anti-infiammatoria potesse contribuire alla cura. Possono avere una collaterale azione anti-infiammatoria i retinoidi, alcuni antibiotici, soprattutto le tetracicline, l'acido salicilico, lo zinco, il dapsone. Varie ricerche hanno rilevato un'efficacia su alcuni pazienti di anti-infiammatori non steroidei (ibuprofene) da soli o in combinazione, corticosteroidi, ma anche farmaci che agiscono riducendo l'espressione di leucotrieni inibendo la arachidonato 5-lipossigenasi. L'utilizzo di corticosteroidi in alcuni soggetti può essere causa di eruzioni acneiformi indotte.
+
+
+=== Linee guida ===
+Nel 2003 la Global Alliance to Improve Outcomes in Acne ha elaborato e pubblicato una linea guida che prevedeva un protocollo terapeutico diverso a seconda della forma clinica di acne e del grado di severità, utilizzando farmaci topici e/o sistemici di prima e di seconda scelta. Negli anni successivi queste linee guida sono state aggiornate e declinate in diverse linee guida nazionali o sovranazionali basate su prove e testimonianze di dermatologi ed esperti. Le linee guida pur essendo redatte partendo da dati analoghi possono differire tra loro per la diversa disponibilità o autorizzazione legale di alcuni farmaci in diversi paesi e per la diversa incidenza di reazioni avverse ad alcuni farmaci (es. discromie in pelli asiatiche o tipo Fitzpatrick 4). Inoltre possono utilizzare sistemi di classificazione della gravità dell'acne diversi. Alcune linee guida contemplano anche terapie di mantenimento e adiuvanti terapeutici non farmacologici.
+
+
+=== Algoritmi terapeutici ===
+
+
+=== Coadiuvanti terapeutici ===
+Nella cura dell'acne, la terapia farmacologica può essere affiancata da alcune indicazioni igienico-comportamentali che possono essere d'aiuto nel contenere lo sviluppo delle lesioni cutanee o nel ridurne gli esiti.. Sono previste inoltre diverse terapie fisiche che comprendono la rimozione dei comedoni, la dermoabrasione, il needling oltre a varie azioni attraverso la luce. Alcune linee guida per il trattamento dell'acne prevedono l'azione coadiuvante di una dieta a basso indice glicemico.
+
+
+=== Fototerapia ===
+
+Tra i vari trattamenti ci sono riscontri di particolare efficacia di vari trattamenti basati sulla luce. Mentre l'esposizione ai raggi ultravioletti è normalmente controindicata, l'esposizione alla luce visibile, in particolare con lunghezze d'onda nel campo del blu (450 nm) è considerata un efficace coadiuvante terapeutico, riconosciuto sia in alcune linee guida sia dalla FDA nei trattamenti dell'acne lieve e moderata.
+Trattamenti con alte fluenze luminose sia con laser che con IPL sono sempre più utilizzati. In particolare, alcuni trattamenti laser sono considerati ideali per la riduzione degli esiti dell'acne, come cicatrici e iperpigmentazioni post-infiammatorie.
+Sia per un effetto antimicrobico che per ridurre l'attività delle ghiandole sebacee possono essere utilizzati trattamenti basati sulla terapia fotodinamica o sulla fototermolisi selettiva.
+
+
+=== Cosmetologia dell'acne ===
+Il ruolo dei cosmetici nell'eziopatogenesi dell'acne è stato oggetto per molti anni di vari studi, tesi a dimostrare un nesso causale collegato ai concetti di comedogenia e acne cosmetica. Dopo una lunga controversia conclusasi con una radicale revisione del ruolo dei cosmetici come potenziali cause dell'acne il cosmetico al contrario è diventato un coadiuvante delle terapie dell'acne vulgaris.
+Il maggior consenso sulla natura infiammatoria dell'acne porta a privilegiare trattamenti cosmetici che non possano esacerbarla ma che nello stesso tempo possano agire su alcuni dei momenti eziopatogenetici dell'acne. I cosmetici, anche se non possono vantare una funzione terapeutica, possono contenere ingredienti di cui è dimostrata un'azione idratante, corneolitica, seboregolante, antiproliferativa, lenitiva, antimicrobica, anti-infiammatoria. Inoltre possono servire, come make-up o camouflage, a mascherare le cicatrici e lesioni acneiche e possono proteggere la pelle dalle radiazioni solari.
+
+
+== Altre forme di acne ==
+
+
+=== Acne esogena ===
+Detta anche acne indotta o acne a contatto.
+
+Acne di Maiorca chiamata acne aestivalis, è una manifestazione papulosa che si presenta generalmente nella stagione estiva, protraendosi talora anche nei mesi invernali. Essa è scatenata dall'esposizione repentina a lampade UV-A o al sole. Un'esposizione graduale invece la migliora (teoria dell'hardening). Si manifesta con piccole papule localizzate su spalle, avambracci e petto. Solitamente interessa le persone con carnagione chiara, ma può interessare anche le pelli più scure. Le terapie a base di tetracicline per via orale si sono dimostrate del tutto inefficaci, mentre le terapie locali a base di benzoilperossido o tretinoina hanno mostrato un'efficacia non costante. Possono essere utili i fototest.
+Acne meccanica, dermatosi a presentazione clinica simile all'acne dovuta a ripetuti traumatismi locali, dovuti per esempio a particolari indumenti o attrezzature, fibbie.
+Acne iatrogena, provocata o aggravata dall'assunzione di alcuni farmaci, come barbiturici, androgeni, corticosteroidi, alcuni antidepressivi, vitamina B12.
+Acne cosmetica, la causa sarebbe correlata all'uso di cosmetici o altre preparazioni per uso topico contenenti principi comedogenici.
+Pseudoacne, anche se simili come manifestazioni all'acne non si osserva la nascita del comedone.
+Acne occupazionale o Acne professionale, la causa è da riscontrarsi in sostanze tossiche presenti nei vestiti delle persone, che a lungo andare per via del contatto con la pelle formano l'infezione.
+Cloracne, provocata da idrocarburi aromatici alogenati, in particolare alcune diossine.
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Alan R. Shalita, James Q. Del Rosso, Guy F. Webster., American Acne & Rosacea Society., Acne vulgaris, Informa healthcare, 2011.
+ Guy F. Webster, Anthony V. Rawlings, ACNE AND ITS THERAPY, Informa healthcare.
+ Christos C. Zouboulis, Andreas D. Katsambas, Albert M. Kligman, Pathogenesis and Treatment of Acne and Rosacea, Springer-Verlag, 2014.
+ Tullio Cainelli, Riannetti Alberto, Rebora Alfredo, Manuale di dermatologia medica e chirurgia terza edizione, Milano, McGraw-Hill, 2004, ISBN 978-88-386-2387-5.
+
+
+== Voci correlate ==
+Acido mandelico
+Acne cheloidea
+Acne cistica
+Acnitis
+Comedone
+Eruzione acneiforme
+Rimedio fitoterapico
+Sebo
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni di o su acne
+ Wikizionario contiene il lemma di dizionario «acne»
+ Wikimedia Commons contiene immagini o altri file su acne
+
+
+== Collegamenti esterni ==
+
+ acne, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+(EN) Acne / acne vulgaris, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Acne, in Treccani.it – Enciclopedie on line, Roma, Istituto dell'Enciclopedia Italiana.

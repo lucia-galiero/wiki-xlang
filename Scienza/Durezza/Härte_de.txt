@@ -1,0 +1,603 @@
+Härte ist der mechanische Widerstand, den ein Werkstoff der mechanischen Eindringung eines anderen Körpers entgegensetzt. Je nach der Art der Einwirkung unterscheidet man verschiedene Arten von Härte. So ist Härte nicht nur der Widerstand gegen härtere Körper, sondern auch gegen weichere und gleich harte Körper. Die Definition von Härte unterscheidet sich gegenüber der von Festigkeit, welche die Widerstandsfähigkeit eines Materials gegenüber Verformung und Trennung darstellt.
+Härte ist auch ein Maß für das Verschleißverhalten von Materialien. Harte Brillengläser zerkratzen weniger, gehärtete Zahnräder nutzen sich weniger ab. Bei der Auswahl von Werkzeugschneiden wie Fräskopf oder Drehmeißel ist die Härte von besonderer Bedeutung, harte Schneiden bleiben länger scharf, brechen aber schneller.
+Härte und ihre Prüfung sind wichtige Schwerpunkte in den Bereichen Festkörperphysik, Materialwissenschaft und Analyse von Werkstoffen sowie bei Geowissenschaften zur Charakterisierung von Gesteinen und Mineralen. Härte gehört mit der Risszähigkeit, Festigkeit, Duktilität, Steifigkeit, Dichte und der Schmelztemperatur zu den Werkstoffeigenschaften.
+
+
+== Härte und Festigkeit ==
+Die Härte eines Werkstoffs hat nur bedingt etwas mit der Festigkeit des Werkstoffs zu tun, auch wenn die Festigkeit die Prüfverfahren zur Härtemessung, die auf der Eindringtiefe verschiedener Prüfkörper beruhen, beeinflusst. Der Einfluss der Festigkeit kann durch die Messung auf dünnen Filmen zwar reduziert, aber nicht völlig vermieden werden.
+In bestimmten Fällen steht die Härte eines Werkstoffs allerdings in einem umwertbaren Zusammenhang zur Werkstoff-Festigkeit. Dann kann durch die verhältnismäßig preiswerte Härteprüfung eine meist viel aufwendigere Zugprüfung ersetzt werden. Von praktischer Bedeutung ist die Möglichkeit, eine Umwertung der Brinell- oder Vickershärte auf die Zugfestigkeit von Baustählen vorzunehmen. Dadurch können beispielsweise bei Prüfungen an Stahlkonstruktionen Materialverwechslungen nachgewiesen werden.
+Die meisten Materialien großer Härte haben auch eine hohe Sprödigkeit, sie lassen sich also kaum plastisch verformen und brechen plötzlich. Darauf beruht unter anderem die Technik des Glasschneidens.
+Für die Konstruktion von Bauteilen müssen Härte und Zähigkeit sinnvoll ausgeglichen werden: Ein hartes, sprödes Bauteil bricht leicht, wenn einmal eine Belastungsspitze auftritt. Zähes (also weniger hartes) Material würde das schadlos oder nur mit geringen Folgen überstehen. Letzteres würde sich jedoch schnell abnutzen. Es wird daher oft angestrebt, einen großen Innenbereich (Kern) aus zähem, festem Werkstoff mit einer sehr harten Oberflächenschicht zu versehen. Das bringt zwei Vorteile: Die Beständigkeit gegen Abnutzung nimmt zu und Anrisse können sich wesentlich schlechter bilden. Die eigentlichen Lasten werden im Innenbereich aufgenommen.
+
+
+== Härteprüfung und Härteskalen ==
+In der Werkstoffkunde, speziell bei Metallen, werden vor allem Prüfverfahren eingesetzt, welche die Eindringhärte messen. Dabei werden genormte Prüfkörper unter festgelegten Bedingungen in das Werkstück gedrückt. Im Anschluss wird die Oberfläche oder Tiefe des bleibenden Eindruckes gemessen. Prinzipiell unterscheidet man statische und dynamische Härteprüfverfahren. Die dynamischen Prüfverfahren bringen die Belastung des zu prüfenden Teiles schlagartig auf; bei den statischen Verfahren ist die Belastung gleichbleibend oder allmählich zunehmend.
+
+
+=== Martens (Universalhärte) ===
+Der Name Universalhärte täuscht über die reale Verwendung im industriellen Alltag. Dort und auch im Laborbereich wird dieses Verfahren äußerst selten angewendet.
+Das Martens-Härteprüfverfahren wurde nach dem deutschen Physiker Adolf Martens (1850–1914) benannt und wird auch als instrumentierter Eindringversuch bezeichnet. Im Jahre 2003 wurde die Universalhärte in Martenshärte umbenannt. Das Verfahren ist in der EN ISO 14577 (Metallische Werkstoffe – Instrumentierte Eindringprüfung zur Bestimmung der Härte und anderer Werkstoffparameter) genormt.
+Bei diesem Verfahren werden während der Belastungs- und Entlastungsphase kontinuierlich die Kraft und die Eindringtiefe gemessen. Die Martenshärte (HM) wird definiert als das Verhältnis der Maximalkraft zu der dazugehörigen Kontaktfläche und in der Einheit Newton pro Quadratmillimeter angegeben.
+Anders als bei den Vickers- oder dem Brinellverfahren wird nicht nur das plastische Verhalten des Werkstoffes bestimmt, sondern es können aus der gewonnenen Messkurve auch weitere Werkstoffparameter wie zum Beispiel der Eindringmodul (Elastischer Eindringmodul – EIT), das Eindringkriechen (CIT) sowie plastische und elastische Verformungsarbeiten bestimmt werden.
+Als Eindringkörper sind folgende Formen am gebräuchlichsten: die Vickerspyramide (siehe Vickersverfahren), eine Hartmetallkugel, ein kugeliger Diamant-Eindringkörper und der Berkovich-Eindringkörper. Der Berkovich-Eindringkörper hat eine Spitze wie ein regelmäßiges Tetraeder mit Flankenwinkel 65°. Der Umriss der Eindrücke ist typischerweise etwa dreieckig.
+Die Umrechnung der Eindringtiefe zur Kontaktoberfläche muss für jede Eindringkörperform bestimmt werden. Die Kontaktfläche wird für Vickers- und Berkovich-Körper durch das Produkt aus dem Quadrat der Eindringtiefe und der Konstanten 26,43 errechnet.
+
+
+=== Rockwell (HR) ===
+
+Es existieren mehrere Härteprüfverfahren, die für bestimmte Einsatzbereiche spezialisiert sind. Die unterschiedlichen Verfahren werden mit der Einheit HR und einer anschließenden Kennung gekennzeichnet; Beispiele für eine Rockwellbezeichnung sind HRA, HRB, HRC oder HR15N, bei Härteprüfung an Blechen bis zu einer Dicke von 0,20 mm HR15T und darüber hinaus HR30Tm. Die Rockwellprüfung ist sehr schnell, stellt aber hohe Ansprüche an die Einspannung des Prüflings im Prüfgerät. Sie ist ungeeignet für Prüflinge, die im Prüfgerät elastisch nachgeben, zum Beispiel Rohre.
+Die Rockwellhärte eines Werkstoffs ergibt sich aus der Eindringtiefe eines Prüfkörpers bei Anliegen einer bestimmten Vor- und Prüfkraft. Prüfkörper, -kräfte, -dauer und Einheitenberechnungsformeln sind in der Norm EN ISO 6508-1 (früher EN 10109) festgelegt. Mit einer vorgegebenen Prüfkraft wird der Prüfkörper in die Oberfläche des zu prüfenden Werkstücks vorbelastet. Die Tiefe des Eindringens des Prüfkörpers bei Vorlast dient dabei als Bezugsebene. Danach wird der Eindringkörper über einen Zeitraum von mindestens zwei Sekunden und maximal sechs Sekunden mit der Hauptlast belastet. Anschließend wird diese wieder entfernt, so dass nur noch die Vorlast wirksam ist. Die Differenz der Eindringtiefen vor und nach Auflegen der Hauptlast ist das Maß für die Rockwellhärte des Werkstoffs. Die Rockwelleinheiten errechnen sich nach einer (je nach angewandter Normskale unterschiedlichen) Formel aus der Eindringtiefe. Die Eindringtiefe des Prüfkörpers wird mit einer Messuhr festgestellt, die mit der Prüfspitze verbunden ist.
+
+Beim Verfahren nach Skala C (Einheit HRC) wird ein kegelförmiger Prüfkörper aus Diamant mit einem Spitzenwinkel von 120° und einer abgerundeten Spitze mit einem Radius von 0,2 mm verwendet. Dieses Prüfverfahren kommt vor allem bei sehr harten Werkstoffen zum Einsatz. Als weitere Rockwelleindringkörper werden nach Skala B Stahlkugeln mit einem Durchmesser von 1,5875 mm (HRB, HRF, HRG) oder 3,175 mm (HRE, HRH und HRK) verwendet. Für das Verfahren zulässige Härtewerte HRC müssen zwischen 20 und 70 liegen.
+
+
+=== Brinell ===
+
+Die vom schwedischen Ingenieur Johan August Brinell im Jahre 1900 entwickelte und auf der Weltausstellung in Paris präsentierte Methode der Härteprüfung kommt bei weichen bis mittelharten Metallen (EN ISO 6506-1 bis EN ISO 6506-4) wie zum Beispiel unlegiertem Baustahl, Aluminiumlegierungen, bei Holz (ISO 3350) und bei Werkstoffen mit ungleichmäßigem Gefüge, wie etwa Gusseisen, zur Anwendung. Dabei wird eine Hartmetallkugel mit einer festgelegten Prüfkraft F in die Oberfläche des zu prüfenden Werkstückes gedrückt.
+Früher wurden als Eindringkörper neben den Kugeln aus Hartmetall auch Stahlkugeln (Angabe HBS oder HB) verwendet. Die Norm schreibt seit 2006 für alle Stoffe Kugeln aus Sinterhartmetall, zum Beispiel Wolframkarbidhartmetall (Angabe HBW) vor. Die verwendeten Kugeln haben Durchmesser von 10 mm, 5 mm, 2,5 mm und 1 mm.
+Die Dicke der Probe wird so gewählt, dass nach der Prüfung auf der Unterseite keine Verformung sichtbar ist. Dies ist ab einer Dicke von 8-10facher Eindrucktiefe h gegeben. Die Prüflast wird so gewählt, dass 0,24 D < d < 0,6 D gilt. Der Abstand zwischen der Mitte des Eindrucks und dem Probenrand sollte größer als 3d sein, der Abstand zwischen zwei Eindrücken größer als 6d. Die Prüfkraft wird rechtwinklig zur Prüffläche stoßfrei und schwingungsfrei aufgebracht und innerhalb von 5 bis 8 Sekunden gesteigert. Nach einer Zeit konstanter Belastung von 10 bis 15 Sekunden für Stähle und Gusseisen und 10 bis 180 Sekunden für Nichteisenmetalle und deren Legierungen wird der Durchmesser des bleibenden Eindrucks im Werkstück gemessen und daraus die Oberfläche des Eindrucks bestimmt.
+Der zu bestimmende Durchmesser d ist der Mittelwert zweier rechtwinklig zueinander liegenden Durchmesser d1 und d2 des bleibenden Eindruckes. Bei anisotroper Verformung wird der zur Berechnung der Härte nötige Durchmesser aus dem größten d1 und kleinsten Durchmesser d2 gemittelt.
+
+  
+    
+      
+        d
+        =
+        
+          
+            
+              
+                d
+                
+                  1
+                
+              
+              +
+              
+                d
+                
+                  2
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle d={\frac {d_{1}+d_{2}}{2}}}
+  
+
+Die Brinellhärte ist definiert als das Verhältnis von Prüfkraft zur Eindruckoberfläche. Die Prüfkraft in Newton multipliziert man mit dem Wert 0,102 (also dem Kehrwert von 9,81), um die Krafteinheit Newton in die ältere Einheit Kilopond umzurechnen. Damit wird sichergestellt, dass Härtemessungen unter Verwendung moderner Einheiten dasselbe Resultat ergeben wie historische Werte, die auf heute veralteten Einheiten beruhen.
+
+  
+    
+      
+        H
+        B
+        W
+        =
+        
+          
+            
+              0,102
+              ⋅
+              2
+              ⋅
+              F
+            
+            
+              π
+              ⋅
+              D
+              ⋅
+              
+                (
+                
+                  D
+                  −
+                  
+                    
+                      
+                        D
+                        
+                          2
+                        
+                      
+                      −
+                      
+                        d
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle HBW={\frac {0{,}102\cdot 2\cdot F}{\pi \cdot D\cdot \left(D-{\sqrt {D^{2}-d^{2}}}\right)}}}
+  
+
+In obiger Formel ist die Kraft 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ in N, der Kugeldurchmesser 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  
+ und der mittlere Eindruckdurchmesser 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  
+ in mm einzusetzen. Der Wert im Nenner ergibt sich aus der Formel für die Oberfläche der runden Seite eines Kugelsegments, einer sogenannten Kugelkalotte.
+Bei un- und niedriglegierten Stählen kann aus der Brinellhärte mit gewisser Toleranz die Zugfestigkeit (
+  
+    
+      
+        
+          R
+          
+            m
+          
+        
+      
+    
+    {\displaystyle R_{m}}
+  
+) des Werkstoffes abgeleitet werden:
+
+  
+    
+      
+        
+          R
+          
+            m
+          
+        
+        ≈
+        3
+        
+          ,
+        
+        5
+        ⋅
+        
+          H
+          B
+          W
+        
+      
+    
+    {\displaystyle R_{m}\approx 3{,}5\cdot \mathrm {HBW} }
+  
+ .
+Der übliche Anwendungsbereich liegt bei Brinellhärten zwischen 100 HBW und 400 HBW für ungehärtete Stähle.
+
+
+==== Normgerechte Angabe der Brinellhärte ====
+Nach EN ISO 6506-1 muss neben dem Härtewert auch das verwendete Verfahren, der Kugeldurchmesser und die Prüfkraft immer mit angegeben werden.
+Beispiel:   345 HBW 10/3000
+wobei:
+
+345 = Härtewert in kp/mm²
+HBW = Prüfverfahren (W steht für das Material der Prüfkugel: Wolframkarbidhartmetall)
+10 = Kugeldurchmesser D in mm
+3000 = Prüfkraft in kp
+Bei einer Belastung, die länger als 15 s dauert, muss die Belastungszeit ebenfalls angegeben werden. Bsp.: 210 HBW 5/10/60
+
+
+==== Härteprüfung mit dem Poldihammer ====
+
+Eine Abwandlung der Brinellprüfung ist die Prüfung mit dem Poldihammer, bei welcher der Eindruck der Kugel durch einen undefinierten Hammerschlag von Hand erzeugt wird. Wegen der schlagartigen Belastung handelt es sich um ein dynamisches Härteprüfverfahren. Dabei dringt die Kugel rückseitig in einen Metallstab mit definierter Härte ein. Aus dem Verhältnis der beiden Eindruckdurchmesser kann dann die Härte des Prüflings berechnet werden. Die Methode hat den Vorteil, dass mit ihr beliebig gelagerte Prüflinge und verbaute Bauteile vor Ort geprüft werden können. Die auf diese Weise ermittelten Härtewerte stimmen zwar nicht exakt mit den statisch ermittelten Härtewerten überein, für die in der Industrie gestellten Ansprüche sind sie jedoch in den meisten Fällen ausreichend. Die Bezeichnung „Poldi“ stammt vom gleichnamigen Stahlwerk im tschechischen Kladno, wo diese Prüfmethode entwickelt wurde.
+
+
+=== Vickers (HV) ===
+
+Die im Jahr 1925 von Robert L. Smith und George E. Sandland entwickelte und nach dem britischen Rüstungskonzern Vickers benannte Härteprüfung wird zur Prüfung homogener Werkstoffe, aber auch zur Härteprüfung dünnwandiger oder oberflächengehärteter Werkstücke und Randzonen eingesetzt. Sie ist der Brinellprüfung sehr ähnlich und in der Norm nach EN ISO 6507-1 bis EN ISO 6507-4 geregelt. Anders als bei der Rockwellprüfung wird eine gleichseitige Diamantpyramide mit einem Öffnungswinkel von 136° (gemessen zwischen den Seitenflächen, nicht den Kanten der Pyramide) unter einer festgelegten Prüfkraft in das Werkstück eingedrückt. Aus der mit einem Messmikroskop festgestellten Länge der Diagonalen des bleibenden Eindrucks wird die Eindruckoberfläche errechnet. Das Verhältnis von Prüfkraft in der Einheit Newton zur Eindruckoberfläche (d in Millimetern) ergibt mit dem Faktor 0,1891 multipliziert die Vickershärte (HV, englisch VHN = Vickers Hardness Number). Als diese Härteprüfung entwickelt wurde, war es noch allgemein üblich, die Prüfkraft in der Einheit Kilopond anzugeben. Der Umrechnungsfaktor von Newton in Kilopond beträgt 0,102.
+
+  
+    
+      
+        H
+        V
+        =
+        0,102
+        ⋅
+        
+          
+            F
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                2
+                ⋅
+                sin
+                ⁡
+                
+                  
+                    
+                      136
+                      
+                        ∘
+                      
+                    
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle HV=0{,}102\cdot {\frac {F}{\frac {d^{2}}{2\cdot \sin {\frac {136^{\circ }}{2}}}}}}
+  
+
+Bzw.:
+
+  
+    
+      
+        H
+        V
+        =
+        
+          
+            
+              0,102
+              ⋅
+              2
+              ⋅
+              F
+              ⋅
+              sin
+              ⁡
+              
+                
+                  
+                    136
+                    
+                      ∘
+                    
+                  
+                  2
+                
+              
+            
+            
+              d
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle HV={\frac {0{,}102\cdot 2\cdot F\cdot \sin {\frac {136^{\circ }}{2}}}{d^{2}}}}
+  
+ oder 
+  
+    
+      
+        H
+        V
+        =
+        
+          
+            
+              0,102
+              ⋅
+              2
+              ⋅
+              F
+              ⋅
+              cos
+              ⁡
+              
+                22
+                
+                  ∘
+                
+              
+            
+            
+              d
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle HV={\frac {0{,}102\cdot 2\cdot F\cdot \cos 22^{\circ }}{d^{2}}}}
+  
+ 
+  
+    
+      
+        ≈
+        0,189
+        1
+        
+        
+          
+            F
+            
+              d
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \approx 0{,}1891\,{\frac {F}{d^{2}}}}
+  
+
+dabei ist
+
+  
+    
+      
+        d
+        =
+        
+          
+            
+              
+                d
+                
+                  1
+                
+              
+              +
+              
+                d
+                
+                  2
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle d={\frac {d_{1}+d_{2}}{2}}}
+  
+
+Die Härteprüfung nach Vickers ist in drei Bereiche zu unterteilen:
+
+Vickers-Härteprüfung: F ≥ 49,03 N
+Vickers-Kleinkrafthärteprüfung: 1,961 N ≤ F < 49,03 N
+Vickers-Mikrohärteprüfung: 0,0098 N ≤ F < 1,961 N
+
+
+==== Normgerechte Angabe der Vickershärte ====
+Neben dem Härtewert müssen auch das verwendete Prüfverfahren, die Haltezeit der Prüfkraft und die Prüfkraft immer mit angegeben werden.
+
+Bsp.: 610 HV 10
+wobei:
+
+610 = Härtewert
+HV = Verfahren
+10 = Prüfkraft F in Kilopond
+Bei einer Belastung, die nicht zwischen 10 und 15 s andauert, muss die Belastungszeit ebenfalls angegeben werden. Bsp.: 610 HV 10/30
+Nach Vickers wird normalerweise an einem festen Prüfgerät geprüft, das nicht wackelt oder gestört werden kann. Für Prüfungen an sehr großen und/oder festen Bauteilen gibt es auch tragbare Härteprüfgeräte, die magnetisch oder mechanisch auf oder an dem Prüfstück befestigt werden.
+Die Härteprüfung nach Vickers ist vielseitig einsetzbar und gehört zu den quasi zerstörungsfreien Prüfungen, da das Bauteil nur minimal beschädigt wird, was oftmals akzeptiert werden kann. Bei Bauteilen, die keine Beschädigung nach der Prüfung aufweisen dürfen, gilt es als zerstörendes Prüfverfahren, da das Bauteil durch die Vickers-Härteprüfung beschädigt wird.
+Anwendung findet die Vickershärte beispielsweise in der Angabe „45H“ bei Gewindestiften mit Innensechskant oder „14H“ und „22H“ bei Gewindestiften mit Schlitz sowie in der Zahntechnik bei Dentallegierungen. Die Festigkeitsklassen 14H, 22H, 33H und 45H erhält man durch Division der Härtewerte durch 10, sie entsprechen also Vickershärten HV (min.) von 140, 220, 330 und 450.
+
+
+==== Dentallegierungen ====
+Die Härte zahntechnischer Metalle wird nach Vickers bei Edelmetalllegierungen mit der Prüfkraft HV5 (5 kp entspricht 49,03 N) und bei NEM-Legierungen mit HV10 gemessen.
+Für Dentallegierungen werden drei Härtewerte unterschieden:
+
+w = weich; Härte der Legierung im Anlieferungszustand bzw. nach dem Weichglühen
+a = ausgehärtet; Härte der Legierung nach einer gezielten Wärmebehandlung = „vergüten“
+g/b = Selbstvergütung: Härte der Legierung, die durch langsames Abkühlen nach dem Guss erreicht werden kann
+Bei der Prüfdurchführung ist darauf zu achten, dass die Haltezeit der Prüfkraft 10–15 s beträgt. Die Probe muss fest eingespannt und die Prüffläche absolut senkrecht zur Prüfrichtung sein. Verschmutzungen etc. sind zu entfernen. Die Prüfung war erfolgreich, wenn die Kanten des Eindrucks gleichmäßig und die Pyramidenspitze mittig eingedrückt sind. In der Praxis ist es zu empfehlen, mehrere Eindrücke durchzuführen, den max. und min. Wert dieser Messungen außer Acht zu lassen und den Mittelwert aus den verbliebenen zu ermitteln.
+
+
+=== Knoop ===
+Eine Abwandlung der Vickers-Härteprüfung ist die Härteprüfung nach Knoop (EN ISO 4545-1 bis -4: Metallische Werkstoffe – Härteprüfung nach Knoop), die 1939 von dem amerikanischen Physiker und Ingenieur Frederick Knoop (1878–1943) entwickelt wurde. Die in der Vickers-Prüfung gleichseitige Diamantspitze hat in der Knoop-Prüfung eine rhombische Form. Die Spitzenwinkel betragen 172,5° für die lange und 130° für die kurze Seite. Es wird nur die lange Diagonale des Eindrucks ausgemessen. Die Knoop-Prüfung findet häufig Anwendung bei spröden Materialien wie zum Beispiel Keramik oder Sinterwerkstoffen; bei der Härtemessung an Schichtsystemen stellt sie die genaueste Messmethode dar.
+
+  
+    
+      
+        H
+        K
+        =
+        1,451
+        
+        
+          
+            F
+            
+              l
+              
+                D
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle HK=1{,}451\,{\frac {F}{l_{D}^{2}}}}
+  
+
+
+=== Shore ===
+
+
+==== Für Elastomere ====
+Die Shore-Härte, entwickelt 1915 von dem US-Amerikaner Albert Shore, ist ein Werkstoffkennwert für Elastomere und Kunststoffe und ist in den Normen EN ISO 868, ISO/IEC 7619-1 und ASTM D2240-00 festgelegt.
+Das Kernstück des Shore-Härte-Prüfers (Durometer) besteht aus einem federbelasteten Stift aus gehärtetem Stahl. Dessen Eindringtiefe in das zu prüfende Material ist ein Maß für die Shore-Härte, die auf einer Skala von 0 Shore (2,5 Millimeter Eindringtiefe) bis 100 Shore (0 Millimeter Eindringtiefe) gemessen wird. Eine hohe Zahl bedeutet also eine große Härte. Bei einem Shore-Härteprüfgerät ist eine Zusatzeinrichtung einsetzbar, die die zu messende Probe mit einer Kraft von 12,5 Newton bei Shore-A, bzw. 50 Newton bei Shore-D auf den Messtisch andrückt. Bei der Bestimmung der Shore-Härte spielt die Temperatur eine höhere Rolle als bei der Härtebestimmung metallischer Werkstoffe. Deshalb wird hier die Solltemperatur von 23 °C auf das Temperaturintervall von ± 2 K beschränkt. Die Materialdicke sollte mindestens 6 Millimeter betragen. Die Härte des Gummis wird durch die Vernetzung (schwach vernetzt = Weichgummi, stark vernetzt = Hartgummi) bestimmt. Aber auch der Gehalt an Füllstoffen ist für die Härte eines Gummiartikels ausschlaggebend.
+
+Shore-A wird angegeben bei Weich-Elastomeren, nach Messung mit einer Nadel mit abgestumpfter Spitze. Die Stirnfläche des Kegelstumpfs hat einen Durchmesser von 0,79 Millimetern, der Öffnungswinkel beträgt 35°. Auflagegewicht: 1 kg, Haltezeit: 15 s.
+Shore-D wird angegeben bei Zäh-Elastomeren nach Messung mit einer Nadel, die mit einem 30°-Winkel zuläuft und eine kugelförmige Spitze mit einem Durchmesser von 0,2 Millimetern hat. Auflagegewicht: 5 kg, Haltezeit: 15 s Zu finden sind auch Messungen nach Shore-B und Shore-C, sie kommen jedoch nur selten zur Anwendung. Diese Prüfverfahren kombinieren jeweils den Kegelstumpf des Prüfverfahrens Shore-A und Shore-D mit der jeweils anderen Prüfkraft.
+Eine messtechnisch ähnliche Methode ist die Ermittlung der IRHD = „International Rubber Hardness Degree“, im Deutschen auch Mikrohärte genannt.
+
+
+==== Für Metalle ====
+Dieses Verfahren basiert auf dem Prinzip, dass eine auf das Werkstück fallende Kugel (oder ein Schaft mit Kugelspitze) mehr oder weniger abprallt, abhängig von der Härte des Werkstückes und der Fallhöhe. Es wird wenig angewandt, da, obwohl es ein sehr simples Verfahren ist, die Präzision sowohl von der Masse des Werkstücks (bei kleinen Werkstücken kann es leicht zum Verrutschen kommen) als auch von der perfekten Senkrechten der Fallachse abhängt. Die Härtemessung wird in Shore-Punkten ausgedrückt und ist nur für große geschliffene Zylinder genormt.
+
+
+=== Barcol ===
+Die Barcol-Härte ist eine Härteskala für glasfaserverstärkte Kunststoffe (GFK). Nach der Norm EN 59 wird sie wie auch die Shore-Härte unter Zuhilfenahme eines Handmessgerätes und eines Kegelstumpfes mit einer flachen Spitze bestimmt.
+
+
+=== Buchholz ===
+Die Buchholz-Härte wird für Lacke verwendet und kann nur bei glatten, mindestens (10 µm + Eindrucktiefe) dicken, nicht elastischen Lacken verwendet werden. Zur Bestimmung der Buchholz-Härte nach EN ISO 2815 wird der Buchholz-Härteprüfer, der aus einem runden, spitzen Rad (= Doppelkegelstumpf) und einem Beschwerungsgewicht besteht, für 30 Sekunden auf die waagrechte Oberfläche gestellt und anschließend die Eindrucklänge mit einem 20-fach vergrößernden Mikroskop vermessen. Die Buchholz-Härte ergibt sich dann mit folgender Formel:
+
+  
+    
+      
+        
+          Eindruckwiderstand
+        
+         
+        (
+        
+          Buchholz
+        
+        )
+        =
+        
+          
+            
+              100
+              
+              
+                m
+                m
+              
+            
+            Eindrucklänge
+          
+        
+      
+    
+    {\displaystyle {\text{Eindruckwiderstand}}~({\text{Buchholz}})={\frac {100\,\mathrm {mm} }{\text{Eindrucklänge}}}}
+  
+
+Zur besseren Erkennbarkeit der Länge wird die Eindruckstelle mit einer Lampe im Winkel von 30° zur Ebene senkrecht zur Eindruckstelle beleuchtet, wodurch sich die Eindruckstelle sehr hell vom restlichen Lack abhebt.
+
+
+=== Leeb ===
+
+Die Härteprüfung nach Leeb wurde erstmals 1978 angewandt und misst die eingebrachte Energie über den Rückprall.
+
+
+=== Mohs ===
+
+Dieser Härtewert lässt sich nur durch den Vergleich mehrerer Werkstoffe oder Werkstoffzustände ermitteln.
+Harte Stoffe ritzen weiche. Diese Einsicht ist Grundlage der Härteprüfung nach Friedrich Mohs (1773–1839), die vornehmlich in der Mineralogie zum Einsatz kommt. Mohs, ein Geologe, ritzte verschiedene Minerale gegeneinander und ordnete sie so nach ihrer Härte. Durch das exemplarische Zuordnen von Zahlenwerten für weit verbreitete und somit leicht zugängliche Minerale entstand eine Ordinalskala, die Mohs-Skala, die in der Mineralogie und Geologie bis heute in weitem Gebrauch ist. Die Härteunterschiede zwischen den einzelnen Referenzmineralen sind nicht linear. Angaben zur Härte von Mineralen beziehen sich immer auf die Mohs-Skala, falls nichts anderes angegeben ist. Zum Vergleich aufgeführt ist die auch als absolute Härte bezeichnete Schleifhärte nach Rosiwal, die den Schleifaufwand des jeweiligen Stoffes charakterisiert und einen besseren Eindruck von den tatsächlichen Härteverhältnissen gibt. Beide Härteskalen sind einheitslos. Außerdem ist in der Tabelle die Härte nach dem Vickersverfahren angegeben. Sie gibt den besten Bezug auf die heute gängigen Härtemessverfahren wieder.
+In Bezug auf die Verwendbarkeit und Pflegebedürftigkeit von Mineralen als Schmuckstein wird oft auch eine etwas gröbere Einteilung angegeben. So gelten Minerale der Mohshärte 1 bis 2 als weich, von 3 bis 5 als mittelhart, und alle Minerale über der Mohshärte 6 werden als hart bezeichnet.
+Auch die Festigkeit oder Tenazität wird auf ähnliche Weise geprüft und bei Mineralien in folgende Gruppen unterteilt: Schneidbar (z. B. Gips, Kalkspat), Spröde (z. B. Kalkspat), Geschmeidig (z. B. Kupfer), Biegsam (z. B. Chrysotil).
+
+
+=== Weitere spezielle Härteprüfverfahren ===
+Daneben sind einige spezielle Härteprüfverfahren üblich:
+
+die Universalhärteprüfung wurde 2003 in Martenshärteprüfung umbenannt und in der Norm EN ISO 14577 (Metallische Werkstoffe – Instrumentierte Eindringprüfung zur Bestimmung der Härte und anderer Werkstoffparameter) festgelegt
+Beim Kugeleindruckversuch nach EN ISO 2039-1 für Kunststoffe wird mit Kugeln von 5,0 mm Durchmesser, einer Vorlast von 9,8 N und Prüflasten von 49,0, 132, 358 oder 961 N gearbeitet. Die gemessene Eindringtiefe muss dabei im Bereich zwischen 0,15 mm und 0,35 mm liegen. Daraus wird eine reduzierte Prüfkraft und schließlich die Kugeleindruckhärte HB in N/mm² berechnet bzw. aus einer Tabelle abgelesen.
+Der Hardgrove-Index gibt die Härte von Kohle an.
+Der Janka-Härte-Test prüft die Härte von Holz.
+Die Monnin-Härte oder der Chalais-Meudon Index, ein Härtetest für Holz.
+Meyer Härteprüfung, eine verbesserte Brinellhärte
+Zur Untersuchung nanomechanischer Eigenschaften von Materialien: Nanoindentierung
+
+
+== Maßeinheiten ==
+Die Mohssche Härte und die absolute Härte sind einheitenlose Größen.
+Die aus physikalischer Sicht richtige Einheit der Härteprüfung nach Vickers und Brinell wäre 1 N/m² bzw. 1 N/mm². Es muss jedoch beachtet werden, dass diese Prüfverfahren zu Beginn des 20. Jahrhunderts entwickelt wurden und seitdem in immer ausführlicheren Normen standardisiert und internationalisiert wurden. Das hat eine für den Physiker etwas abstrakte Schreibweise der Härtewerte und Einheiten zur Folge. Als Einheit der Härte wird die Abkürzung des Prüfverfahrens sowie die Prüfbedingungen angegeben. Sowohl bei der Vickers- als auch bei der Knoop-Härte ist eine Umrechnung in physikalische Größen möglich, indem man mit einem Faktor multipliziert, wobei man die wahre Härte H (true) in kp/mm² erhält. Bei der Vickers-Härte beträgt dieser Faktor 1,618, bei der Knoop-Härte 1,500.
+Nachfolgend werden einige Beispiele für übliche Härteangaben aufgeführt:
+
+Härteprüfung nach Vickers:  610 HV 10  mit
+610: Härtewert
+HV: Verfahren
+10: Prüfkraft in Kilopond
+Härteprüfung nach Brinell:  345 HBW 10/3000  mit
+345: Härtewert
+HBW: Prüfverfahren (Angaben wie HB, HBS sind veraltet.)
+10: Kugeldurchmesser D in mm
+3000: Prüfkraft in Kilopond
+Bei einer Belastung, die länger als 15 s dauert, muss die Belastungszeit ebenfalls angegeben werden: Beispiel: 210 HBW 5/750/60
+Härteprüfung nach Rockwell:  58 HRC  mit
+58: Härtewert
+HRC: Prüfverfahren
+Beachte:
+
+Früher wurde die Kraft in Kilopond gemessen. Ein Kilopond entspricht der Gewichtskraft eines Kilogramms am Normort. Die Umstellung der Einheit der Kraft von Pond auf die Einheit Newton hatte eine Korrektur der Formeln zur Errechnung der Härtewerte zur Folge. Diese Korrektur ist im Artikel bereits berücksichtigt. Wird beim Ermitteln des Härtewerts die Krafteinheit Newton und der Korrekturfaktor verwendet, ist das Ergebnis dasselbe wie bei Verwendung der Krafteinheit Kilopond. Das hat den Vorteil, dass alte, zu „Kilopondzeiten“ ermittelte Härtewerte weiterhin gültig sind.
+Bei der Angabe des Prüfverfahrens wird aus praktischen Gründen weiterhin Kilopond verwendet, da ganze Zahlen verwendet werden können.
+
+
+== Umwertung ==
+Beim Umgang mit den verschiedenen Härteprüfverfahren ist es oft nötig, den gemessenen Härtewert eines Verfahrens in den eines anderen Verfahrens oder der Zugfestigkeit umzuwerten. Aus diesem Grund wurden auf der Basis einer Vielzahl von Vergleichsmessungen empirische Werte ermittelt, Umwertungstabellen erstellt und in der entsprechenden Norm (EN ISO 18265 (früher DIN 50150)) genormt.
+Wichtig: für verschiedene Werkstoffe und verschiedene Wärmebehandlungsstufen gelten unterschiedliche Tabellen. Die einbezogenen Güten sind in der EN ISO 18265 ebenfalls aufgeführt.
+Die nachstehenden Umwertungstabellen können folglich nur als Orientierung angesehen werden. Für eine normgerechte Umwertung ist die entsprechende Norm heranzuziehen. Begibt man sich jedoch bei der Auslegung von Bauteilen an die Grenzen des Möglichen, genügen die in der Normierung gemachten Annäherungen und Annahmen oft nicht aus, um eine korrekte Auslegung und Prüfung zu gewährleisten.
+
+
+== Härten und Spanen ==
+Die Härte von Stählen kann während der Fertigung beeinflusst werden – siehe auch Härten.
+Oberhalb von 65 HRC enden in aller Regel die Möglichkeiten zur spanenden Bearbeitung mit geometrisch bestimmter Schneide von Oberflächen (Drehen, Bohren, Fräsen). Härtere Oberflächen müssen geschliffen werden (Spanen mit geometrisch unbestimmter Schneide).
+Seit einigen Jahren ist es aber mit oberflächenbeschichteten Hartmetallwerkzeugen möglich, gehärtete Stähle bis zu einer Härte von 68 HRC spanend zu bearbeiten. Dafür werden Hochgeschwindigkeitspräzisionsfräs- und Drehmaschinen verwendet, die bis auf 5 µm Genauigkeit die gewünschten Formen erstellen können. Dazu wird eine veränderte Zustelltechnik verwendet: hohe Drehzahl, hoher Vorschub, aber sehr geringe Schnitttiefe.
+
+
+== Härteklassen ==
+Verschiedene Richtlinien und Normen sehen Härteklassen vor. Härteklassen werden teilweise auch als (Druck-)Festigkeitsklassen bezeichnet oder damit verwechselt.
+Beispiele:
+
+Die EN ISO 898 – „Mechanische Eigenschaften von Verbindungselementen aus Kohlenstoffstahl und legiertem Stahl“ definiert in Teil 5 „Gewindestifte und ähnliche Verbindungselemente mit Gewinde in festgelegten Härteklassen – Regelgewinde und Feingewinde“
+Die DIN 267 – „Mechanische Verbindungselemente“ definiert in Teil 24 „Technische Lieferbedingungen – Härteklassen für Muttern ohne festgelegte Prüfkräfte“
+Die EN 13813 definiert für Gussasphalt die Härteklassen IC 10, IC 15, IC 40 und IC 100, je nach Stempeleindringtiefe (nach EN 12697-20). Je höher die Zahl, desto weicher der Estrich. Für Zementestrich definiert sie Oberflächenhärteklassen SH30 SH40 SH50 SH70 SH100 SH150 SH200 und nennt Mindestnenndicken für schwimmende Estriche in Abhängigkeit von der Härteklasse (für lotrechte Nutzlasten ≤ 2 kN/m²).
+
+
+== Weblinks ==
+
+Leitfaden zur Härteprüfung nach Brinell, Vickers, Rockwell, Knoop
+Videos zur praktischen Anwendung der Härteprüfung nach Verfahren der Hochschule Karlsruhe auf YouTube:
+Härteprüfung nach Brinell
+Härteprüfung nach Vickers
+Härteprüfung nach Rockwell
+Beschreibung der UCI-, Rückprall- und Ultraschall-Rückstreu-Messverfahren
+Zusammenfassung zu den wichtigsten Härteprüfverfahren (PDF; 28 kB)
+metaltec.de: Umrechnungstabelle (Auszug) für Zugfestigkeit Rm, Vickershärte HV, Brinellhärte HB sowie Rockwellhärte HRA, HRB und HRC
+Umrechnungstabelle für Härte (Vickers, Brinell und Rockwell) und Zugfestigkeit
+
+
+== Einzelnachweise ==

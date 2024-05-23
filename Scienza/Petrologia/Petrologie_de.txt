@@ -1,0 +1,36 @@
+Die Petrologie, auch Steinkunde, ist die Lehre von der Entstehung, den Eigenschaften und der Nutzung der Gesteine. Der Begriff leitet sich vom griechischen Wort πέτρος pétros, lateinisch Petrus, ab, das mit ‚Stein‘ oder ‚Felsen‘ übersetzt werden kann. Sie ist ein Teilgebiet der Geowissenschaften und stellt den Übergangsbereich zwischen zwei weiteren Teilgebieten dar: der Mineralogie, die sich mit den Bestandteilen der Gesteine beschäftigt (Minerale), und der Geologie, welche die Gesteine in größere räumliche und zeitliche Zusammenhänge stellt.
+
+
+== Untersuchungsgegenstand ==
+Die Petrologie gliedert sich in einen beschreibenden Teil, die Petrographie, und in einen genetischen Teil, die Petrologie im engeren Sinn. Erstere beschäftigt sich unter anderem mit dem Gefüge der Gesteine, das aus ihrer Struktur und ihrer Textur besteht. Die Struktur beschreibt die einzelnen Bestandteile (Körner, Kristalle, bei Sedimentgesteinen auch Poren) der Gesteine hinsichtlich ihrer Größe, Form und Farbe sowie der statistischen Verteilung dieser Eigenschaften über die Gesamtheit aller Bestandteile. Die Textur beschreibt hingegen die räumliche Anordnung dieser Bestandteile im Gesamtgestein im Hinblick auf kristallographische Vorzugsorientierungen. Petrographen folgern aus diesen Eigenschaften auf die Eignung von Gesteinen als Werkstoff, sowohl in Form von Blöcken als auch in gebrochener Form. Petrologie im engeren Sinne hingegen nutzt petrographische, strukturgeologische und geochemische Erkenntnisse, um Petrologen die Rekonstruktion physikalischer und chemischer Bildungsbedingungen eines Gesteins zu ermöglichen.
+
+
+== Untersuchungsmethoden ==
+Grundlage petrologischer Arbeit ist die Geländearbeit mit Lupe und geologischem Kompass. Später werden die Gesteine im Labor mit mineralogischen und geochemischen Methoden wie der Röntgenbeugung bzw. der Mikrosondenanalyse untersucht. Wichtigste dezidiert petrologische Methode ist die Polarisationsmikroskopie, mit deren Hilfe das Gefüge der Gesteine untersucht wird. Dabei werden z. T. Zusätze wie der Universaldrehtisch verwendet. Eine Methode zur petrologischen Interpretation geochemischer Daten ist die Geothermobarometrie, die Aussagen über Druck und Temperatur zum Zeitpunkt der Entstehung oder der Metamorphose eines Gesteins macht. Hypothesen über die Entstehung und die Entwicklung (Diagenese, Metamorphose, Metasomatose, Verwitterung, hydrothermale Überprägung) eines Gesteins werden durch die Simulation geologischer und mineralogischer Prozesse in Laborexperimenten überprüft. Dabei werden z. B. künstliche Magmen erzeugt und ihre Erstarrung beobachtet, oder Gesteine werden mit aggressiven Lösungen in Kontakt gebracht, die auch in der Natur vorkommen. Zur Interpretation experimentell gewonnener Daten, aber auch als selbstständiger Ansatz wird die Modellierung magmatischer, metamorpher und sedimentärer Prozesse mit Hilfe von Computern genutzt.
+
+
+== Teildisziplinen ==
+Eine Gliederung der Petrologie nach dem Untersuchungsgegenstand ermöglicht die Unterscheidung von magmatischer, sedimentärer und metamorpher Petrologie, – entsprechend der drei Hauptgesteinsklassen, nämlich der magmatischen, der sedimentären und der metamorphen Gesteine.
+Eine Unterscheidung nach den Untersuchungsmethoden führt zur experimentellen, analytischen und theoretischen Petrologie.
+Bereiche, die sich mit der wirtschaftlichen Nutzung der Gesteine, z. B. als Dekorstein, beschäftigen, bezeichnet man als angewandte Petrologie.
+Den Übergangsbereich zur Geophysik, der sich insbesondere mit dem Verhalten seismischer Wellen in Gesteinen beschäftigt, bezeichnet man als Petrophysik.
+
+
+== Arbeitsfelder ==
+Petrologen sind bei Ingenieurbüros in der Baugrunduntersuchung, bei Bergbauunternehmen in der Prospektion, der Exploration und im laufenden Betrieb (z. B. als Betriebsleiter eines Steinbruchs), bei Baustoffhändlern im Vertrieb von Dekor- und Werksteinen, im öffentlichen Dienst bei geologischen Landesämtern und bei der Bundesanstalt für Geowissenschaften und Rohstoffe sowie im wissenschaftlichen Bereich an Universitäten und außeruniversitären Forschungseinrichtungen tätig.
+
+
+== Literatur ==
+Gregor Markl: Minerale und Gesteine. 1. Auflage. Spektrum Akademischer Verlag, Heidelberg 2004, ISBN 978-3-8274-1495-3.
+Ludwig Pfeiffer, Manfred Kurze, Gerhard Mathé: Einführung in die Petrologie. Akademie Verlag, Berlin 1981, ISBN 978-3-432-91931-7.
+Martin Okrusch, Siegfried Matthes: Mineralogie. Eine Einführung in die spezielle Mineralogie, Petrologie und Lagerstättenkunde. (1. Aufl., noch ohne Martin Okrusch, 1983) 8. Auflage. Springer-Verlag, Berlin 2009, ISBN 978-3-540-78200-1.
+Roland Vinx: Gesteinsbestimmung im Gelände. Spektrum Akademischer Verlag, Heidelberg 2005, ISBN 3-8274-1513-6.
+Journal of Petrology
+Bernhard Fritscher: Vulkane und Hochöfen. Zur Rolle metallurgischer Erfahrungen bei der Entwicklung der experimentellen Petrologie. In: Technikgeschichte, Bd. 60 (1993), H. 1, S. 27–43
+
+
+== Weblinks ==
+
+Links for Mineralogists. (Memento vom 29. Januar 2009 im Internet Archive) Weiterführende Links des Lehrstuhls für Geodynamik und Geomaterialforschung, Institut für Geographie der Universität Würzburg
+www.geo-leo.de GEO-LEO. Virtuelle Fachbibliothek Geowissenschaften, Bergbau, Geographie, Thematische Karten, ein Projekt der Universitätsbibliothek der TU Bergakademie Freiberg und der Niedersächsischen Staats- und Universitätsbibliothek
+Vorlesung Einführung in die Petrologie Videoaufzeichnungen einer Vorlesung, gehalten von Gregor Markl. TIMMS, Tübinger Internet Multimedia Server der Universität Tübingen.

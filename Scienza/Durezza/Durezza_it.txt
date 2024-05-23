@@ -1,0 +1,380 @@
+La durezza è un valore numerico che indica le caratteristiche di deformabilità plastica di un materiale. È definita come la resistenza alla deformazione permanente.
+Le prove di durezza determinano la resistenza offerta da un materiale a lasciarsi penetrare da un altro (penetratore).
+Esistono diverse scale per misurare la durezza dei materiali. Le più usate sono infatti:
+
+Brinell
+Vickers
+Rockwell
+Mohs
+Le prove non possono essere confrontate tra di loro, poiché la natura delle prove è diversa. Le prove di durezza si eseguono con macchine provviste di penetratori con forme diverse e con diversi metodi.
+Nel Sistema internazionale di unità di misura non esiste un'unità di misura fondamentale per la durezza.
+
+
+== Brinell ==
+Si basa, nel calcolo della durezza, sulla misura del diametro dell'impronta lasciata dal penetratore. Anche la Vickers si basa sullo stesso principio e la prova Vickers viene chiamata anche prova di microdurezza.
+
+Penetratore: sferico
+
+  
+    
+      
+        H
+        B
+        =
+        
+          
+            
+              2
+              P
+              ×
+              0
+              ,
+              102
+            
+            
+              π
+              D
+              (
+              D
+              −
+              
+                
+                  
+                    D
+                    
+                      2
+                    
+                  
+                  −
+                  
+                    d
+                    
+                      2
+                    
+                  
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle HB={\frac {2P\times 0,102}{\pi D(D-{\sqrt {D^{2}-d^{2}}})}}}
+  
+
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  
+ = diametro del penetratore [mm]
+
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  
+ = diametro dell'impronta [mm]
+
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  
+ = carico prova [N]
+il valore restituito dalla prova può essere confrontato con la tensione di snervamento 
+
+  
+    
+      
+        H
+        B
+        =
+        
+          
+            3
+          
+        
+        Y
+      
+    
+    {\displaystyle HB={\sqrt {3}}Y}
+  
+
+dove 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  
+ è la tensione di snervamento [MPa]
+
+
+=== Vantaggi ===
+Rapida, economica, non distruttiva (oggetto riutilizzabile), possibilità di impiegare carichi particolarmente alti.
+Se si moltiplica per 3,3 la durezza Brinell di un acciaio normalizzato si ottiene il suo carico di rottura.
+
+
+=== Svantaggi ===
+Sono difficili i confronti tra diverse misure Brinell (a parità di carico applicato, il penetratore può affondare in misure diverse, cambiando anche l'inclinazione delle facce e la distribuzione degli sforzi).
+Infatti è possibile confrontare prove eseguite con parametri diversi a patto che il rapporto 
+  
+    
+      
+        d
+        
+          /
+        
+        D
+        =
+        cos
+        ⁡
+        (
+        ω
+        
+          /
+        
+        2
+        )
+        =
+        0
+        ,
+        375
+      
+    
+    {\displaystyle d/D=\cos(\omega /2)=0,375}
+  
+ risulti verificato.
+
+
+=== Accorgimenti di applicazione ===
+distanza dal bordo > 2,525d per durezze superiori a 150 HB e 3 d per durezze inferiori a 150 HB
+distanza tra impronte > 3d
+spessore provino > 8h (h è la profondità dell'impronta)
+tempo di penetrazione, standard 15 secondi, altrimenti deve essere indicato nel risultato di prova (può essere variato in funzione del materiale in prova)
+
+  
+    
+      
+        d
+        
+          /
+        
+        D
+        =
+        cos
+        ⁡
+        (
+        ω
+        
+          /
+        
+        2
+        )
+      
+    
+    {\displaystyle d/D=\cos(\omega /2)}
+  
+ compreso tra 0,24 e 0,6
+il carico 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  
+ applicato deve essere entro il 1% del valore nominale
+superficie spianata e lisciata con lima o carta da smeriglio per non scaldare eccessivamente il pezzo
+durezza del materiale da sperimentare confrontabile con quello della sfera.
+
+
+== Vickers ==
+
+Si basa sulla misura dell'area dell'impronta lasciata dal penetratore. Viene chiamata prova di microdurezza, per via dei piccoli carichi applicati al penetratore.
+
+Penetratore: piramidale a base quadrata
+
+  
+    
+      
+        H
+        V
+        =
+        
+          
+            
+              2
+              P
+              ×
+              0
+              ,
+              102
+              ×
+              sin
+              ⁡
+              (
+              ω
+              
+                /
+              
+              2
+              )
+            
+            
+              t
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle HV={\frac {2P\times 0,102\times \sin(\omega /2)}{t^{2}}}}
+  
+
+  
+    
+      
+        ω
+        =
+        
+          136
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle \omega =136^{\circ }}
+  
+
+Angolo di apertura: 
+  
+    
+      
+        cos
+        ⁡
+        (
+        ω
+        
+          /
+        
+        2
+        )
+        =
+        0
+        ,
+        375
+        =
+        (
+        0
+        ,
+        25
+        +
+        0
+        ,
+        5
+        )
+        
+          /
+        
+        2
+        )
+      
+    
+    {\displaystyle \cos(\omega /2)=0,375=(0,25+0,5)/2)}
+  
+
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  
+ = carico di prova (variabile) [N]
+
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+ = media delle diagonali dell'impronta del penetratore [mm]
+
+
+=== Vantaggi ===
+L'inclinazione delle facce è costante; si usano anche carichi piccoli per fare misure di durezza ravvicinate, precisione della misurazione.
+La scala è unica per tutti i materiali.
+
+
+=== Svantaggi ===
+Costosa, notevole perdita di tempo nella lettura delle impronte che si può fare solo al microscopio.
+
+
+=== Limiti di applicazione ===
+distanza dal bordo > 2d
+distanza tra impronte vicine > 1,5d.
+
+
+== Rockwell ==
+Prova di durezza messa a punto da Steven Rockwell. Si basa sull'affondamento diretto dell'impronta e non sulla durezza misurata come pressione. Le scale di durezza ottenute sono convenzionali.
+
+
+=== Vantaggi ===
+Velocità (usata in campo industriale).
+
+
+=== Svantaggi ===
+È una misura di durezza solo convenzionale. L'unità di misura è rappresentata dai punti della scala utilizzata (HRC per la scala Rockwell, HV per la Vickers, HB per la Brinell, ecc.)
+I valori di durezza ottenuti con le diverse scale non si possono confrontare perché utilizzano unità di misura diverse. Confronti empirici possono essere effettuati ma con molta attenzione (ad es. materiali simili, dimensione di impronte simili, ecc.) (vedi norma ISO 18265)
+
+
+== Sclerometro di Martens ==
+Misura la durezza in senso fisico, resistenza che il campione offre all'abrasione, si stabilisce la scala di durezza o misurando la larghezza del solco o il peso applicato. Per i metalli però non può fornire utili indicazioni.
+
+
+== Scleroscopio di Shore ==
+Il principio su cui si basa lo Scleroscopio di Shore (durometro Shore) è il rimbalzo di una sfera d'acciaio che cade da una determinata altezza sul saggio. Il valore della durezza è definito dall'altezza del rimbalzo. 
+La prova è impiegata per il collaudo di cilindri per laminatoi a freddo.
+
+
+== Voci correlate ==
+Scala di Brinell
+Scala Vickers
+Scala Rockwell
+Scala di Mohs
+Scala di Knoop
+Durezza di indentazione
+Durezza universale
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su durezza
+
+
+== Collegamenti esterni ==
+
+(EN) hardness, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Video didattico sulle prove di durezza, su youtube.com.
+ Video didattico sulle prove meccaniche e di durezza, su youtube.com.

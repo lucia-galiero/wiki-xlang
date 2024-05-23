@@ -1,0 +1,243 @@
+Ein Mineral ist ein Element oder eine chemische Verbindung, die normalerweise kristallin ist und durch geologische Prozesse entstanden ist. Zu den geologischen Prozessen werden auch Prozesse auf anderen Planeten, Monden und sonstigen Himmelskörpern gerechnet.
+Die Mehrzahl der heute bekannten und von der International Mineralogical Association (IMA) als eigenständig anerkannten rund 6.000 Mineralarten (Stand: Dezember 2023) ist anorganisch, doch auch einige organische Substanzen wie beispielsweise Mellit und Evenkit oder die Nierensteinbildner Whewellit und Weddellit sind als Minerale anerkannt, weil auch geologische Prozesse an ihrer Bildung beteiligt waren. Einschließlich aller bekannten Mineral-Varietäten und synonymer Bezeichnungen (ca. 1200) sowie noch nicht anerkannter Mineralarten (ca. 120) existieren über 7.000 Mineralnamen.
+Das Wort Mineral leitet sich von dem mittellateinischen aes minerale „Grubenerz“ ab und wurde im 16. Jahrhundert nach französischem Vorbild geprägt. Der Plural lautet Minerale (in der Wissenschaft in Deutschland und Österreich verwendet) oder Mineralien (von Sammlern, Händlern und in der Deutschschweiz als Synonym zu Minerale verwendet).
+Die Lehre von den Mineralen ist die Mineralogie, die von ihrer Verwendung und Bearbeitung die Lithurgik.
+
+
+== Abgrenzungen und Ausnahmen ==
+Im Allgemeinen gelten nur Elemente und chemische Verbindungen als Mineral, die natürlich, chemisch einheitlich und von wenigen Ausnahmen abgesehen anorganisch, fest und kristallin sind:
+
+
+=== Homogenität ===
+Die Begriffe „chemisches Element“ und „chemische Verbindung“ beinhalten eine feste Zusammensetzung und eine definierte chemische Struktur. Stoffgemische sind keine Minerale. Die Zusammensetzungen von Mineralen können jedoch eine gewisse Variation aufweisen (Mischkristalle), solange sie strukturell homogen sind.
+Eine chemische Verbindung kann mit verschiedenen Strukturen auftreten. Chemisch einheitliche Gemische von verschiedenen Phasen unterschiedlicher Struktur sind ebenfalls keine Minerale. So kann z. B. Feuerstein (Hornstein) aus reinem SiO2 bestehen, ist aber kein Mineral, sondern ein Gemisch der strukturell unterschiedlichen Minerale Tiefquarz, Mogánit und Opal und somit ein Gestein.
+
+
+=== Kristallinität ===
+Einige natürlich vorkommende Verbindungen sind nicht kristallin. Diese Substanzen können in zwei Kategorien unterteilt werden:
+
+amorph: Dies sind Substanzen, die nie kristallin waren.
+metamikt: Ehemals kristalline Substanzen, deren Fernordnung durch ionisierende Strahlung zerstört wurde.
+Die Bestimmung von Struktur und Zusammensetzung mit einer Vollständigkeit, die ausreicht, um amorphe Phasen eindeutig voneinander abzugrenzen, ist meist schwierig bis unmöglich. Daher werden nichtkristalline natürliche Verbindungen von vielen Wissenschaftlern unter der Bezeichnung Mineraloide zusammengefasst. Der Begriff ist vorwiegend in amerikanischen Lehrbüchern gebräuchlich. Im deutschen Sprachraum ist er dagegen nicht eingeführt.
+Natürliche amorphe Substanzen können als Mineral anerkannt werden, wenn folgende Bedingungen erfüllt sind:
+
+Vollständige chemische Analysen, die den gesamten Zusammensetzungsbereich der Substanz abdecken
+Physikochemische (spektroskopische) Daten, die die Einzigartigkeit der Substanz belegen
+Die Substanz lässt sich nicht durch physikalische Behandlung (z. B. Erhitzen) in einen kristallinen Zustand überführen.
+Beispiele hierfür sind Georgeit und Calciouranoit.
+Metamikte Substanzen können Minerale sein, wenn nachgewiesen werden kann, dass die Substanz ursprünglich kristallin war und die gleiche Zusammensetzung hatte (z. B. Fergusonit-Y).
+Flüssigkeiten werden im Allgemeinen nicht zu den Mineralen gezählt. Flüssiges Wasser ist beispielsweise kein Mineral, Eis hingegen schon.
+Eine Ausnahme ist Quecksilber: Es kommt als Element auf der Erde nur flüssig und gasförmig vor, wird aber als Flüssigkeit dennoch als Mineral anerkannt.
+Erdöl und alle übrigen, auch festen, nicht kristallinen Bitumen sind Stoffgemische und keine Minerale.
+
+
+=== Extraterrestrische Substanzen ===
+Die Prozesse, die zur Bildung extraterrestrischer Substanzen, z. B. in Meteoriten und Mondgesteinen, beitragen, sind ähnlich denen, die auch auf der Erde stattfinden. Infolgedessen werden natürlich vorkommende Komponenten extraterrestrischer Steine und kosmischen Staubes als Minerale bezeichnet (z. B. Tranquillityit, Brownleeit).
+
+
+=== Anthropogene Substanzen ===
+Von Menschen erzeugte Substanzen sind keine Minerale. Wenn solche anthropogenen Substanzen identisch mit Mineralen sind, werden sie als „synthetische Äquivalente“ bezeichnet.
+Auch Materialien, die durch geologische Prozesse aus synthetischen Substanzen entstanden sind, werden im Allgemeinen nicht als Minerale bezeichnet. Eine Ausnahme bilden einige Substanzen, die früher bereits als Minerale anerkannt worden sind, z. B. einige Minerale, die sich bei der Reaktion von antiken metallurgischen Schlacken mit Seewasser gebildet haben.
+Natürliche Substanzen, die durch menschliche Aktivitäten umgewandelt wurden, können als Minerale anerkannt werden, wenn die menschlichen Aktivitäten nicht direkt auf die Erzeugung neuer Substanzen ausgerichtet waren. Substanzen, die bei Gruben- oder Haldenbränden neu gebildet werden, können durch die IMA anerkannt werden, wenn der Brand nicht durch Menschen ausgelöst und dort kein Material anthropenen Ursprungs abgelagert wurde (IMA 16-F).
+
+
+=== Biogene Substanzen ===
+Biogene Substanzen sind Verbindungen, die ausschließlich durch biologische Prozesse ohne geologischen Anteil gebildet worden sind, wie z. B. Muschelschalen oder Oxalatkristalle in Pflanzengeweben. Diese Verbindungen sind keine Minerale.
+Sobald geologische Prozesse an der Bildung der Verbindungen beteiligt waren, können diese Substanzen als Minerale anerkannt werden. Beispiele hierfür sind Minerale, die sich aus organischen Bestandteilen in Schwarzschiefern oder aus Fledermausguano in Höhlen gebildet haben, sowie Bestandteile von Kalksteinen oder Phosphoriten organischen Ursprungs.
+
+
+== Vorkommen ==
+Mit Ausnahme der natürlichen Gläser und der Kohlegesteine sind alle Gesteine der Erde und anderer Himmelskörper aus Mineralen aufgebaut. Am häufigsten kommen etwa dreißig Minerale vor, die sogenannten Gesteinsbildner. Daneben findet man Minerale auch als Kolloide im Wasser oder als Feinstaub in der Luft. Auch Wasser selbst ist ein Mineral, wenn es in Form von Wassereis (engl. Ice) vorliegt.
+Primärminerale entstehen zeitgleich mit dem Gestein, dessen Teil sie sind, während sich Sekundärminerale durch eine spätere Veränderung des Gesteins (Metamorphose, hydrothermale Überprägung oder Verwitterung) bilden.
+
+
+== Mineralbildung ==
+Minerale bilden sich
+
+magmatisch durch Kristallisation aus Schmelzen und Hydrothermale Lösungen oder durch Resublimation aus heißen Gasen, z. B. in Fumarolen
+metamorph durch Festkörperreaktionen aus anderen Mineralen oder natürlichen Gläsern oder metasomatisch bei der Reaktion von Mineralen mit wässrigen Lösungen
+sedimentär durch Ausfällung aus wässrigen Lösungen (z. B. Kalk)
+Voraussetzung hierfür sind Elemente, die überhaupt kristallisieren. Als sich nach dem Urknall das Universum soweit ausgedehnt und abgekühlt hatte, das sich die ersten Elemente bilden konnten, waren das die Gase Wasserstoff, Helium und etwas Lithium. Schwerere Elemente, die eher zur Kristallisation neigen, wurden erst viele Millionen Jahre später bei der Explosion großer Sterne freigesetzt. Zur Bildung der ersten Minerale konnte es erst kommen, als diese in Sternen erbrüteten Elemente in interstellaren Nebeln dicht genug zusammen kamen, um die Verbindung von mehr als nur ein paar Atomen zu ermöglichen.
+Für die Bildung der Vielzahl von Mineralen spielen drei Faktoren eine Schlüsselrolle:
+
+Wärme: Sie ist der Motor, der alle geologischen Prozesse antreibt, die zur Bildung unterschiedlich zusammengesetzter Gesteine führen, die jeweils andere Minerale enthalten. Nur Himmelskörper mit einer bestimmten Mindestgröße enthalten ausreichend Wärme aus der Phase ihrer Bildung sowie dem Zerfall radioaktiver Elemente, um eine Trennung der metallischen und oxidischen (silikatischen) Verbindungen in Kern und Mantel und die Bildung silikatischer Schmelzen zu ermöglichen, deren fraktionierte Kristallisation zur Bildung einer granitischen Kruste führt. Weiterhin treibt die Wärme des Kerns die Konvektionsströmungen an, die die kontinentale Kruste bewegen und bei der Kollision von Krustenteilen zu Gebirgsbildung und Subduktion sowie der für diese Prozesse typischen Minerale führen.
+Wasser: Wasser trägt auf verschiedene Weise zur Bildung eines Großteils der bekannten Minerale bei. Einerseits erleichtert es die Bildung von Schmelzen. Weiterhin ist es ein gutes Lösungsmittel und sorgt so für Extraktion, Transport und Anreicherung wasserlöslicher Ionen und Komplexe. Andererseits spielt Wasser in Form von OH-Gruppen oder molekularem Wasser eine wichtige Rolle in der Kristallchemie vieler Minerale. Wasserstoffionen sind sehr klein und passen in viele Zwischengitterplätze. Sie bilden recht weit reichende Wasserstoffbrückenbindungen, die lokale Ladungsüber- und Unterschüsse ausgleichen und so zahlreiche, sonst instabile Kristallstrukturen ermöglichen. Knapp zwei Drittel aller Minerale enthalten Wasserstoff (OH, H2O) als essentiellen Bestandteil.
+Photosynthese: Die Bildung von zur Photosynthese fähiger Lebewesen führte zu einer drastischen Erhöhung der Sauerstoffgehalte der Erdatmosphäre. Dieses oxydierende Milieu stabilisiert höhere Oxidationsstufen von Übergangsmetallionen (z. B. Fe3+, Mn3+) sowie Oxyanionenkomplexe (z. B. SO4) und ermöglicht die Bildung eines erheblichen Teils der bekannten Minerale.
+
+
+=== Minerale interstellarer Nebel ===
+Interstellare Gase und Nebel haben eine sehr geringe Dichte, so dass die Bildung von Kristallisationskeimen entweder gar nicht erst erfolgt (Keimbildung) oder ein Kristallwachstum nur in Ausnahmefällen und sehr langsam erfolgt. Zu den ersten Mineralen des Universums, die sich aus den präsolaren Nebeln abschieden, gehörten nach heutigem Wissen die Kohlenstoffmodifikationen Graphit und Diamant, einige Carbide (Moissanit, Khamrabaevit, ZrC, MoC) und Nitride (Osbornit, Nierit) sowie einige Oxide (Rutil, Korund, Spinell, Hibonit, Forsterit, Bridgmanit) und GEMS, Silikatschmelztröpchen mit eingebetteten Metallen und Sulfiden. Die meisten dieser Verbindungen sind sehr hart und zeichnen sich durch starke, kovalente Bindungen zwischen den Atomen aus. Die gefundenen Kristalle sind sehr klein, oft nur wenige Nanometer (nm) groß.
+Für ungefähr 10.000.000 Jahre waren diese 10 bis 20 Minerale die einzigen im Universum. Erst mit der Verdichtung dieser Nebel und der Bildung von terrestrischen Planeten begann die Bildung der großen Vielfalt der verschiedenen Minerale. Anhand der damit einhergehenden Prozesse wird die Evolution der Minerale aktuell in drei Ära mit insgesamt 10 Stadien unterteilt. Jedes dieser Stadien zeichnet sich durch das Einsetzen charakteristischer geologischer und später auch biologischer Prozesse aus, die oft über die einzelnen Stadien hinweg, zum Teil bis heute, anhalten.
+
+
+=== Ära der Planetenentstehung ===
+Diese recht kurze Ära setzt mit der Kondensation erster Minerale aus dem präsolaren Nebel vor rund 4,57 Milliarden Jahren ein und umfasst die Aggregation dieser ersten Kondensate und kosmischen Staubes zu Planetenvorläufern, die groß genug waren, um das Einsetzen geologischer Prozesse zu ermöglichen, die zur Entstehung unterschiedlich zusammengesetzter Gesteine führten. Sie endet mit der Bildung von siliciumreichen Krustengesteinen vor rund 4,5 Milliarden Jahren. Alle Informationen aus dieser Zeit stammen ausschließlich aus dem Studium von Meteoriten und theoretischen Modellrechnungen.
+
+
+==== Primäre Minerale der Chondrite ====
+Die Mineralbildung in unserem Sonnensystem setzte vor 4,567 Milliarden Jahren (Ga) mit der Resublimation von Calciumaluminaten aus dem präsolaren Nebel ein. Erst bildete sich bei ~1730 K Korund und durch Reaktion mit dem heißen Gas Hibonit, Grossit, Krotit und Perovskit, gefolgt von Gehlenit, Spinell und den Pyroxenen Kushiroit und Grossmanit. Erster Anorthit bildete sich durch Festkörperreaktion aus Spinell und Klinopyroxen. Die ursprüngliche, schneeflockenförmige Kristallform der ersten Kondensate ist in einigen wenigen Fällen erhalten geblieben. Meist sind sie mehrfach wieder aufgeschmolzen, teilweise verdampft und erneut auskristallisiert und finden sich als weiße Calcium-Aluminium-reiche Einschlüsse (CAI) in Chondriten.
+Kurz darauf, nur knapp 3 Millionen Jahre später, das ist kaum mehr als der Fehler der Altersbestimmungen, setzte die Bildung von silikatischen Schmelztröpfchen ein, die zusammen mit den CAI und einer feinkristallinen Grundmasse das Ausgangsmaterial der Planeten unseres Sonnensystems bildeten und in Meteoriten (Kohliger Chondrit) erhalten geblieben sind. Diese Chondrite enthalten Silikate wie Forsterit, Klinoenstatit, Enstatit, Pigeonit, Augit und Anorthit, Oxide wie Spinell, Chromit, Ilmenit, die Ni-Fe-Legierungen Kamacit und Taenit, die Sulfide Troilit und Pentlandit sowie seltener Oldhamit, Niningerit, Daubréelith und Caswellsilverit, die Phosphide Schreibersit und Perryit und die Carbide Cohenit und Haxonit.
+Insgesamt bildeten sich bei der Entstehung der Chondrite durch Resublimation, Reaktionen von Mineralen mit der Gasphase, Festkörperreaktionen und Kristallisation aus Schmelzen rund 60 verschiedene Minerale.
+
+
+==== Alteration und Differentiation der Planetesimale ====
+Mit der ersten Bildung der Chondrite setzte vor 4,56 bis 4,55 Milliarden Jahren die weitere Aggregation zu Planetenvorläufern, Planetesimale, ein. Die in den größeren Himmelskörpern einsetzenden Prozesse führten zur Bildung von rund 200 weiteren Mineralen. Erste Schichtsilikate (Chlorite, Talk, Serpentine und andere), einige Hydroxide, Sulfate und Carbonate sowie Halit bildeten sich bei der Umwandlung der Olivine und Pyroxene durch wässrige, salzhaltige Lösungen bei Temperaturen meist unter 100 °C.
+Kollisionen der frühen Himmelskörper führte zur Bildung erster Hochdruckminerale wie Majorit, Akimotoit, Bridgmanit, Wadsleyit, Ringwoodit, Coesit und Stishovit.
+Erreichten die Planetesimale eine kritische Größe von ca. 200 km Durchmesser, begannen sie sich im Inneren durch den Zerfall radioaktiver Isotope aufzuheizen. In der Folge bildeten sich metallische und silikatische Schmelzen und die Trennung eines eisenreichen Kerns und einer silikatischen Kruste geringerer Dichte setzte ein. Bei der fraktionierten Kristallisation der basaltischen Schmelzen kristallisierten Oxide wie Chromit, Pyroxene, sowie Plagioklase, Titanit, Zirkon, Kalifeldspat und Quarz. Die metallischen Kerne führten neben Fe-Ni-Legierungen und Sulfiden auch Phosphide (Schreibersit, Barringerit) sowie zahlreiche Phosphate wie Graftonit und Sarcopsid, Buchwaldit, Farringtonit, Johnsomervilleit, Panthit, Chladniit und Brianit.
+
+
+=== Ära der Umarbeitung von Kruste und Mantel ===
+Die zweite, rund 2 Milliarden Jahre andauernde Ära ist geprägt von magmatischen Prozessen und einer sauerstoffarmen Atmosphäre. Sie beginnt vor ungefähr 4,5 Milliarden Jahren mit dem großräumigen Einsetzen von fraktionierter Kristallisation ursprünglich basaltischer Schmelzen und dadurch entstehenden Graniten und kontinentaler Kruste, beginnender Plattentektonik und großräumiger Metamorphose und endet nach der Entstehung ersten Lebens mit dem Auftreten von sauerstoffbildenden Algen. Knapp die Hälfte der bekannten Minerale wurde durch diese Prozesse gebildet.
+
+
+=== Ära biologisch herbeigeführter Mineralbildungen ===
+Diese bis heute andauernde Ära der Mineralevolution ist geprägt von biologischen Prozessen und einer sauerstoffreichen Atmosphäre. Sie setzte vor 2,5 Milliarden Jahren mit der Großen Sauerstoffkatastrophe ein. Die Bildung knapp der Hälfte aller heute bekannten Minerale, vorwiegend Oxyde und Hydroxyde, Erzminerale, wurde direkt oder indirekt durch die biologisch hervorgerufene Anreicherung von freiem Sauerstoff in der Atmosphäre ermöglicht.
+Lebewesen können auch direkt kristalline Verbindungen bilden. Diese Produkte der Biomineralisation sind keine Minerale im Sinne der Definition der IMA, auch wenn sie in Struktur und Zusammensetzung natürlich gebildeten Mineralen gleichen. Beispiele für solche biologischen Mineraläquivalente sind:
+
+Calcit, Vaterit und Aragonit bilden die Schalen von Schnecken, Muscheln, Foraminiferen und Coccolithophoriden.
+Hydroxylapatit baut die Knochen aller Wirbeltiere und zusammen mit Fluorapatit den Zahnschmelz von Säugetieren auf.
+Magnetit dient einer Reihe von Lebewesen als Kompass zur Orientierung im Erdmagnetfeld. Dies hat man zunächst bei magnetotaktischen Bakterien festgestellt. Es ist heute auch von Insekten, Weichtieren, Fischen, Vögeln und Säugetieren bekannt.
+Auch die zahlreichen von Menschen hergestellten kristallinen Verbindungen sind keine Minerale im Sinne der IMA, auch wenn sie natürlichen Mineralen gleichen. In der Technischen Mineralogie werden für diese synthetischen Mineraläquivalente dennoch die Mineralnamen verwendet. So entstehen z. B. bei der Trinkwasseraufbereitung bei der Elimination von Eisen(II)- und Manganionen Goethit und δ-MnO2, Calcit kann bei Enthärtungsreaktionen (Entkarbonisierung) gebildet werden. Bei der Abwasserbehandlung können bei ausreichend hohen Phosphatkonzentrationen in den Abwasserbehandlungsanlagen wasserklare Kristalle von Struvit, einem Ammonium-Magnesiumphosphat, entstehen. Diese können den Querschnitt von Leitungen verengen. Bei der Korrosion von Stahl und Gusseisen im Kontakt mit Wasser können je nach Wasserbeschaffenheit Goethit, Magnetit und Lepidokrokit, bei höherer Karbonathärte auch Siderit, in phosphathaltigen Wässern Vivianit, in sulfathaltigen Wässern Troilit und in schwefelwasserstoffhaltigen Wässern Greigit gebildet werden. Aus Kupfer kann sich Cuprit, Malachit oder Azurit bilden, während aus Blei hauptsächlich Hydrocerussit entsteht.
+
+
+== Eigenschaften ==
+
+
+=== Optische Eigenschaften ===
+Bestimmung mit bloßem Auge:
+
+Farbe: Man unterscheidet idiochromatische Minerale (zum Beispiel Cinnabarit), die durch die formelwirksamen Elemente gefärbt sind, allochromatische Minerale (zum Beispiel Quarz), deren oft verschiedene Farben aus verschiedenen Spurenelementen und Defekten des Kristallgitters resultieren, und pseudochromatische Minerale, deren Farben wie bei Opalen durch Lichtbrechung oder Interferenz hervorgerufen werden.
+Die Farbe in Mineralen resultiert aus der Absorption von Licht der Komplementärfarbe durch einen oder mehrere der folgenden Prozesse:
+Übergänge von Elektronen zwischen den durch das Kristallfeld aufgespaltenen d- oder f-Orbitalen der Übergangsmetalle oder Lanthanoide (z. B. die Rotfärbung des Rubins durch Chromionen auf der Aluminiumposition)
+Übergänge von Elektronen zwischen zwei Kationen oder zwischen Kation und Anion (z. B. die Blaufärbung des Saphirs durch Übergänge zwischen Titan- und Eisenverunreinungen)
+Übergänge von Elektronen vom Valenz- in das Leitungsband von Halbleitern (z. B. die Rotfärbung des Cinnabarits)
+Übergänge von Elektronen vom Valenzband in das Akzeptorniveau einer Verunreinigung (z. B. Blaufärbung von Diamant aufgrund von Bor)
+Übergänge von Elektronen vom Donatorniveau einer Verunreinigung in das Leitungsband (z. B. Gelbfärbung von Diamant aufgrund von Stickstoff)
+Übergänge von Elektronen zwischen s- und d-Bändern in Leitern (z. B. Farbe des Goldes)
+Änderung des Energiezustandes eines Elektrons auf einer Anionenvakanz
+Beugungseffekte an niederdimensionalen Strukturen (z. B. Opal)
+Strichfarbe: Sie ist die Farbe des pulverförmigen Minerals, die sich oft von der Färbung seiner Oberfläche unterscheidet. Bei Silikaten ist der Strich heller als die Eigenfarbe, bei Sulfiden ist er dunkler. Wenn ein Mineral mehrere Farben haben kann, ist die Strichfarbe meist weiß (z. B. Korund, Beryll), ebenso bei farblosen Mineralen. Wenn ein Mineral nur eine Farbe haben kann, entspricht diese oft der Strichfarbe (z. B. Lasurit, Malachit). Der Strich wird üblicherweise an einem unglasierten Keramikplättchen geprüft.
+Glanz: Man unterscheidet zwischen Matt (d. h., das Mineral zeigt überhaupt keinen Glanz), Seidenglanz (wie ein Lichtschimmer auf Naturseide), Perlmuttglanz (wie die Innenseite mancher Muschelschalen), Glasglanz (wie einfaches Fensterglas), Fettglanz (wie Fett), Diamantglanz (wie ein geschliffener Diamant), Metallglanz (wie poliertes Metall) und Wachsglanz.
+Transparenz: Man unterscheidet durchsichtige (zum Beispiel Calcit), durchscheinende (zum Beispiel Hämatit) und opake Minerale (zum Beispiel Kassiterit). In der Regel sind Gesteinsbildende Minerale durchsichtig oder durchscheinend und Erze opak. Daher werden erstere im Durchlicht und letztere im Auflicht untersucht.
+Kristallform: Die Kristallform setzt sich aus der Tracht und dem Habitus zusammen. Erstere bezeichnet die dominierende kristallographische Form, letzterer Verhältnis der Längen des Kristalls.
+Bestimmung mit der Polarisationsmikroskopie in Durchlicht:
+
+Pleochroismus: Bei einigen durchsichtigen Mineralen sind die Farben und Farbtiefen in verschiedenen Richtungen unterschiedlich. Erscheinen zwei Farben nennt man dies Dichroismus, bei drei Farben Trichroismus beziehungsweise Pleochroismus. Die Bezeichnung wird auch als Sammelbezeichnung für beide Arten der Mehrfarbigkeit verwendet.
+Brechungsindex: Verhältnis der Lichtgeschwindigkeit in Luft zur Lichtgeschwindigkeit im Mineral wird durch Immersionsmethoden, näherungsweise auch durch die Stärke des Reliefs und die Bewegung der Becke’schen Linie, einer hellen Linie an einer Korngrenze, beim Bewegen des Mikroskoptisches bestimmt. Dabei gilt der Merksatz: Hinunter (mit dem Tisch), höher (Mineral mit der höheren Lichtbrechung als das Nachbarmineral), hinein (Bewegung der Becke’schen Linie).
+Doppelbrechung: Differenz der Brechungsindizes in den verschiedenen Richtungen des Kristalls. Sie wird unter gekreuzten Polarisatoren mit Hilfe von Farbtafeln aus der Interferenzfarbe bestimmt.
+Bestimmung mit der Polarisationsmikroskopie im Auflicht (Erzmikroskopie):
+
+Reflexionsgrad: Anteil des zurückgeworfenen Lichtes. Bestimmung mittels Erzmikroskopie. Charakteristisch für die Unterscheidung von Gold von Sulfidmineralen.
+Bireflektanz: Richtungsabhängigkeit der Farbe in der Erzmikroskopie, die unter einem Polarisator erkennbar ist.
+Anisotropieeffekte: Unter gekreuzten Polarisatoren in der Erzmikroskopie beobachtbare Farberscheinungen in opaken Mineralen.
+Innenreflexe: Diffuse Reflexion des Lichtes an Grenzflächen zu Verunreinigungen, die der Strichfarbe entspricht und unter gekreuzten Polarisatoren in Dunkelstellung am besten sichtbar ist.
+Bestimmung mit speziellen Mikroskopen:
+
+Lumineszenz: Einige Minerale emittieren Licht, wenn sie eine wie auch immer geartete Anregung erfahren. Nach Art der Anregung unterscheidet man unter anderem Chemolumineszenz, Tribolumineszenz, Kathodolumineszenz und Thermolumineszenz, nach Art des ausgesandten Lichtes UV-, VIS- und IR-Lumineszenz. Kurze Lumineszenz heißt Fluoreszenz, länger anhaltende Phosphoreszenz.
+
+
+=== Mechanische Eigenschaften ===
+Dichte: Sie hängt von der chemischen Zusammensetzung und Struktur ab. Die Dichte der Minerale, Gesteine und Erze schwankt zwischen 1 und 20 (g·cm−3). Werte unter 2 werden als leicht empfunden (Bernstein 1,0), solche von 2 bis 4 als normal (Quarz 2,6) und jene über 4 erscheinen uns als schwer (Bleiglanz 7,5). Minerale mit einer Dichte von > 3,0 heißen Schwerminerale. Die Dichtetrennung ist eine wichtige Aufbereitungsmethode. Wird die Dichte auf die Dichte von Wasser bezogen, so wird sie relative Dichte „o“ genannt und ist dann einheitenlos.
+Härte: Sie wird durch die Stabilität der chemischen Bindungen im Mineral bestimmt und durch ihre Ritzbeständigkeit ermittelt. Angegeben wird sie in der Mineralogie durch ihren Wert auf der Mohs-Skala, die von 1 (sehr weich, Beispiel Talk) bis 10 (sehr hart, Beispiel Diamant) reicht.
+Spaltbarkeit: Tendenz eines Minerals, entlang bestimmter kristallographischer Ebenen zu spalten. Man unterscheidet nicht vorhandene Spaltbarkeit (zum Beispiel Quarz), undeutliche Spaltbarkeit (zum Beispiel Beryll), deutliche Spaltbarkeit (zum Beispiel Apatit), gute Spaltbarkeit (zum Beispiel Diopsid), vollkommene Spaltbarkeit (zum Beispiel Sphalerit) und äußerst vollkommene Spaltbarkeit (zum Beispiel Glimmer). Sie beschreibt Kristallebenen, zwischen denen nur schwache Kräfte bestehen und an denen daher der Kristall gespalten werden kann. Beispielsweise hat Calcit drei Spaltebenen und ist so sehr vollkommen spaltbar. Quarz besitzt dagegen gar keine Spaltebene.
+Bruchverhalten: Bricht ein Mineral nicht entlang seiner Spaltebenen, treten oft charakteristische Bruchstrukturen auf. Man unterscheidet muscheligen Bruch (zum Beispiel Quarz), faserigen Bruch (zum Beispiel Kyanit), splittrigen Bruch (zum Beispiel Chrysotil), ebenen Bruch und unebenen Bruch.
+Zähigkeit oder Tenazität: Man unterscheidet spröde Minerale (zum Beispiel Quarz) von biegsamen (zum Beispiel Muskovit).
+
+
+=== Magnetische Eigenschaften ===
+Magnetismus: Man unterscheidet ferromagnetische Minerale (zum Beispiel Eisen), ferrimagnetische Minerale (zum Beispiel Magnetit), paramagnetische Minerale (zum Beispiel Biotit), diamagnetische Minerale (zum Beispiel Quarz) und antiferromagnetische Minerale (zum Beispiel Hämatit). Üblicherweise werden nur Ferro- und Ferrimagnetismus mit Hilfe einer Kompassnadel bestimmt.
+
+
+=== Elektrische Eigenschaften ===
+Elektrische Leitfähigkeit: Die meisten Minerale sind Nichtleiter, einige Sulfide und Oxide sind Halbleiter, gediegene Metalle sind Leiter. Covellin ist mit einer Sprungtemperatur von 1,63 Kelvin der einzige bekannte natürlich vorkommende mineralische Supraleiter.
+Piezoelektrizität: Fähigkeit, eine mechanische Schwingung in eine elektrische Wechselspannung umzuwandeln und umgekehrt. Beispiel: Quarz.
+Pyroelektrizität: Fähigkeit, eine Temperaturänderung in eine Ladungstrennung umzuwandeln. Beispiel: Turmalin
+
+
+=== Chemische Eigenschaften ===
+Flammenfärbung: Einige Elemente verfärben eine Flamme. Diese Eigenschaft wird in der Flammenprobe verwendet, um auf die chemische Zusammensetzung eines Minerals zu schließen. Gasbrenner sind in abgedunkelten Räumen dazu am besten geeignet.
+Schmelzbarkeit: Sie beschreibt das Verhalten vor dem Lötrohr, also die Schmelzreaktion.
+Reaktion mit Salzsäure: Karbonate reagieren unterschiedlich stark mit heißer, teilweise auch mit kalter Salzsäure. Diese Eigenschaft ist ein wichtiges diagnostisches Kriterium für diese Mineralgruppe.
+
+
+=== Geruchseigenschaften ===
+Schwefelhaltige Minerale lassen sich oft am Geruch erkennen, der beim Anschlagen entsteht.
+
+
+=== Geschmackseigenschaften ===
+Die Unterscheidung von Halit und Sylvin erfolgt traditionell dadurch, dass letzterer bitter schmeckt.
+
+
+=== Sonstige Eigenschaften ===
+Radioaktivität: Dies ist die Eigenschaft, hochenergetische Strahlung ohne Energiezufuhr auszusenden. Man unterscheidet traditionell drei Arten von Strahlen: Alpha-, Beta- und Gammastrahlen. Die Strahlenmessung erfolgt mit einem Geigerzähler. Radioaktivität ist auch in niedrigen Dosen potentiell gesundheitsschädlich. Radioaktive Minerale sind zum Beispiel Uraninit, aber auch Apatit, der Uran als Spurenelement anstelle von Phosphor einbaut.
+Mobilisierung: Minerale werden durch den Bergbau mobilisiert, können aber auch durch natürliche Vorgänge (Erosion) freigesetzt werden. Bei den toxikologisch relevanten schwermetallhaltigen Minerale übersteigt die Mobilisierung durch den Menschen bei weitem die natürlichen Prozesse.
+
+
+== Bedeutung ==
+
+
+=== Petrologische Bedeutung ===
+Jedes Mineral ist nur unter bestimmten Druck-Temperatur-Bedingungen thermodynamisch stabil. Außerhalb seines Stabilitätsbereiches wandelt es sich mit der Zeit in die dort stabile Modifikation um. Einige Phasenumwandlungen erfolgen schlagartig beim Verlassen des Stabilitätsfeldes (zum Beispiel Hochquarz-Tiefquarz), andere sind kinetisch gehemmt und dauern Millionen Jahre. Teilweise ist die Aktivierungsenergie sogar so hoch, dass die thermodynamisch instabile Modifikation als metastabile Phase erhalten bleibt (zum Beispiel Diamant-Graphit). Diese Hemmung der Reaktion führt zu einem „Einfrieren“ des thermodynamischen Gleichgewichts, das zu einem früheren Zeitpunkt herrschte. Daher liefert der Mineralbestand eines Gesteins Informationen über die Bildung und Entwicklungsgeschichte eines Gesteins und trägt damit zur Kenntnis des Ursprungs und der Entwicklung des Planeten Erde bei (siehe auch Präsolares Mineral).
+
+
+=== Lagerstättenkundliche Bedeutung ===
+Mineralische Rohstoffe werden in Energierohstoffe, Eigenschaftsrohstoffe und Elementrohstoffe unterteilt. Energierohstoffe sind zum Beispiel die Minerale Uraninit und Thorit als Kernbrennstoffe. Eigenschaftsrohstoffe werden ohne chemische Zerlegung in der Technik verwendet, darunter fallen zum Beispiel Quarz für die Glas- und Tonminerale für die keramische Industrie. Elementrohstoffe werden mit dem Ziel abgebaut, ein bestimmtes chemisches Element zu gewinnen. Handelt es sich dabei um ein Metall, so spricht man von einem Erz. Eine Anreicherung von Rohstoffen bezeichnet man als Lagerstätte, wenn sie wirtschaftlich abbaubar ist. Der Begriff ist somit ökonomisch, nicht wissenschaftlich geprägt: Ob ein gegebenes Vorkommen kommerziell ausgebeutet werden kann, hängt von den Abbau- und Aufbereitungskosten und dem Marktwert des enthaltenen Metalls ab – während der Eisenanteil von Mineralen bei bis zu 50 % liegen muss, um einen finanziellen Gewinn zu erzielen, reichte im Jahr 2003 bei dem wesentlich wertvolleren Platin bereits ein Anteil von 0,00001 % dazu aus. Neben der Gliederung nach der Verwendung des Rohstoffs ist auch eine Klassifizierung nach der Entstehung üblich. Sedimentäre Lagerstätten, wie zum Beispiel die gebänderten Eisenerzformationen, bildeten sich durch Fällungsreaktionen bei Änderung von pH-Wert, Druck und Temperatur oder durch den Einfluss von Bakterien oder durch Verwitterungsprozesse und den Transport von Mineralen aus ihrem ursprünglichen Entstehungsgebiet und ihre Ablagerung als (Seifen), zum Beispiel von Seifengold, am Grund von Flüssen, Seen oder flachen Meeren. Hydrothermale Lagerstätten bilden sich, indem Oberflächen- oder Tiefenwässer bestimmte Elemente aus den umgebenden Gesteinen lösen und diese an anderer Stelle ablagern oder aus Restfluiden nach der Erstarrung eines Magmas. Magmatische Lagerstätten entstehen durch die Kristallisation eines Magmas. Ein Beispiel sind viele Platin- und Chromit-Lagerstätten. Metamorphe Lagerstätten entstehen erst durch die Umwandlung von Gesteinen, zum Beispiel Marmor-Lagerstätten.
+
+
+=== Gemmologische Bedeutung ===
+
+Einige Minerale finden als Schmuck Verwendung. Wenn sie transparent sind und ihre Härte größer als 7 ist, bezeichnet man sie als Edelsteine, andernfalls als Schmucksteine. 95 Prozent des weltweiten Umsatzes auf diesem Markt wird mit Diamanten erzielt, der Rest fast überwiegend mit Saphiren, Smaragden, Rubinen und Turmalinen. Um die durch Farbe und Glanz beeinflusste Schönheit eines Schmucksteins zur Geltung zu bringen, muss er geschliffen und poliert werden. Dazu existieren zahlreiche verschiedene Schliffformen: Durchsichtige oder durchscheinende Varietäten werden in der Regel mit Facettenschliffen versehen, bei denen meist in festen Winkelbeziehungen zueinanderstehende Flächen, die sogenannten Facetten, die Lichtreflexion maximieren. Undurchsichtige Minerale erhalten hingegen glatte, einflächige Schliffe. Der Asterismuseffekt eines Sternsaphirs beispielsweise lässt sich nur durch den Cabochonschliff erzielen. Das Feuer eines im Brillantschliff geschliffenen Diamanten hängt in der Hauptsache von der Einhaltung bestimmter Winkelverhältnisse der einzelnen Facetten ab und entsteht durch die Aufspaltung des weißen Lichtes in die einzelnen sichtbaren Farben (Dispersion).
+
+
+=== Sonstige Bedeutung ===
+
+Einige Minerale finden auch als Mittel zur Körperpflege Verwendung. Lavaerde beispielsweise, ein gemahlener Ton, der reich an Tonmineralen der Saponitgruppe ist, wird bereits seit der Antike als Körper- und Haarreinigungsmittel verwendet. Andere Minerale, wie zum Beispiel Talk, dienen ebenso als Rohstoff in der bildenden Kunst wie auch medizinischen Zwecken (Pleurodese, Gleitmittel bei der Tablettenherstellung).
+In vielen alten Kulturen, aber auch in der modernen Esoterik schrieb und schreibt man bestimmten Mineralen gewisse Schutz- und Heilwirkungen zu. Beispielsweise galt bereits im Alten Ägypten der Karneol aufgrund seiner an Blut erinnernden Farbe als „Lebensstein“ und spielte bei Bestattungsritualen wie auch als Schutz- und Schmuckstein der Pharaonen eine entsprechende Rolle. Legendär sind auch die angeblichen Heil- und Schutzkräfte des Bernsteins, die schon von Thales von Milet und Hildegard von Bingen beschrieben wurden.
+Minerale können auch als Sammelobjekt von Bedeutung sein, entweder in wissenschaftlichen Mineralsammlungen zur Darstellung des Mineralbestands eines Fundortes (Typmaterial) oder für private Hobbysammler, die sich auf Fundortsammlungen oder verschiedene systematische Sammlungen spezialisiert haben. Aufgrund der Seltenheit vieler Minerale, die zudem oft nur in sehr kleinen Proben zu bekommen sind, sammeln Privatsammler mit Spezialisierung auf systematische Sammlungen aus Platz- und Kostengründen gerne auch Micromounts.
+
+
+== Systematik der Minerale ==
+
+
+== Siehe auch ==
+
+Liste der Minerale
+
+
+== Literatur ==
+International gültige Regeln zur Mineraldefinition
+
+Ernest H. Nickel, Joel D. Grice: The IMA Commission on new Minerals and Mineral Names: Procedures and Guidelines on Mineral Nomenclature. In: The Canadian Mineralogist. Band 36, 1998, S. 1–16 (englisch, cnmnc.units.it [PDF; 336 kB; abgerufen am 1. Januar 2024]). 
+E. H. Nickel: The Definition of a Mineral. In: The Canadian Mineralogist. Band 33, 1995, S. 689–690 (mineralogicalassociation.ca [PDF; 270 kB; abgerufen am 1. Januar 2024]). 
+Standardwerke zur Mineralogie
+
+Hans Jürgen Rösler: Lehrbuch der Mineralogie. 4., durchgesehene und erweiterte Auflage. Deutscher Verlag für Grundstoffindustrie (VEB), Leipzig 1987, ISBN 3-342-00288-3. 
+Helmut Schröcke, Karl-Ludwig Weiner: Mineralogie. Ein Lehrbuch auf systematischer Grundlage. de Gruyter, Berlin; New York 1981, ISBN 3-11-006823-0. 
+Friedrich Klockmann: Klockmanns Lehrbuch der Mineralogie. Hrsg.: Paul Ramdohr, Hugo Strunz. 16. Auflage. Enke, Stuttgart 1978, ISBN 3-432-82986-8 (Erstausgabe:  1891). 
+Martin Okrusch, Siegfried Matthes: Mineralogie. Eine Einführung in die spezielle Mineralogie, Petrologie und Lagerstättenkunde. 7., vollständig überarbeitete und aktualisierte Auflage. Springer, Berlin [u. a.] 2005, ISBN 3-540-23812-3. 
+Fachbücher zur Herkunft der Mineralnamen
+
+Hans Lüschen: Die Namen der Steine. Das Mineralreich im Spiegel der Sprache. 2. Auflage. Ott Verlag, Thun 1979, ISBN 3-7225-6265-1. 
+Dietlinde Goltz: Studien zur Geschichte der Mineralnamen in Pharmazie, Chemie und Medizin von den Anfängen bis Paracelsus (= Sudhoffs Archiv. Beiheft 14). Franz Steiner Verlag, Wiesbaden 1972, DNB 730238059 (Zugleich mathematisch-naturwissenschaftliche Dissertation Marburg an der Lahn 1966). 
+Mineralienverzeichnisse und Lexika
+
+Stefan Weiß: Das große Lapis Mineralienverzeichnis. Alle Mineralien von A – Z und ihre Eigenschaften. Stand 03/2018. 7., vollkommen neu bearbeitete und ergänzte Auflage. Weise, München 2018, ISBN 978-3-921656-83-9. 
+Petr Korbel, Milan Novák: Mineralien-Enzyklopädie (= Dörfler Natur). Edition Dörfler im Nebel-Verlag, Eggolsheim 2002, ISBN 978-3-89555-076-8. 
+Hugo Strunz, Ernest H. Nickel: Strunz Mineralogical Tables. Chemical-structural Mineral Classification System. 9. Auflage. E. Schweizerbart’sche Verlagsbuchhandlung (Nägele u. Obermiller), Stuttgart 2001, ISBN 3-510-65188-X (englisch). 
+Josef Ladurner, Fridolin Purtscheller: Das große Mineralienbuch. 2., durchgesehene Auflage. Pinguin Verlag, Innsbruck 1970 (online verfügbar bei austria-forum.org). 
+
+
+== Weblinks ==
+
+Literatur von und über Mineral im Katalog der Deutschen Nationalbibliothek
+Homepage der International Mineralogical Association. In: mineralogy-ima.org. Abgerufen am 1. Januar 2024 
+IMA – Commission on New Minerals, Nomenclature and Classification (CNMNC). International Mineralogical Association; abgerufen am 1. Januar 2024 
+IMA Database of Mineral Properties. In: rruff.info. Abgerufen am 1. Januar 2024 
+Mineral. In: Mineralienatlas Lexikon. Geolitho Stiftung; abgerufen am 1. Januar 2024 
+Mindat.org. Hudson Institute of Mineralogy; abgerufen am 25. Juni 2020 (englisch, umfangreiche Mineralien-, Bilder- und Fundstellendatenbank). 
+David Barthelmy: Mineralogy Database. In: webmineral.com. Abgerufen am 1. Januar 2024 (englisch). 
+
+Christoph Lenz: Die Schwierigkeit der Definition des Mineralbegriffs. In: geoberg.de. vom 3. Februar 2005. (Memento vom 16. Oktober 2013 im Internet Archive)
+
+
+== Einzelnachweise ==

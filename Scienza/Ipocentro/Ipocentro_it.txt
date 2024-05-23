@@ -1,0 +1,39 @@
+L'ipocentro, o fuoco, (dal greco ὑπόκεντρον, centro al di sotto) è il punto all'interno della Terra dove comincia a propagarsi la frattura che genera un terremoto.
+
+
+== Descrizione ==
+L'ipocentro di un terremoto è il luogo a partire dal quale si libera l'energia elastica accumulata durante la deformazione della roccia, originando così il flusso di forze che genera il terremoto. Una volta cominciato il processo di rottura, dall'ipocentro si irradiano onde longitudinali e trasversali; in seguito all'interferenza di quest'ultime con la superficie terrestre, si generano le onde superficiali, a carattere più complesso. L'ipocentro si trova verticalmente sotto l'epicentro e la distanza tra epicentro e ipocentro è detta «profondità focale».
+Si ricorda che la sorgente sismica non è mai puntiforme, bensì occupa un'estensione geometrica: di conseguenza, il termine «ipocentro» si riferisce al centro di massa del volume di roccia dove avviene la rottura.
+
+
+== Profondità ==
+A seconda della profondità dell'ipocentro si distinguono:
+
+Terremoti superficiali, con ipocentro da 0 a 70 km di profondità;
+Terremoti intermedi, con ipocentro da 70 a 300 km di profondità;
+Terremoti profondi, con ipocentro a più di 300 km di profondità.
+La maggior parte dei terremoti avviene relativamente vicino alla superficie terrestre, con profondità focali quindi inferiori a 70 km; ciononostante, alcuni ipocentri possono raggiungere addirittura profondità superiori a 700 km. Tale sismicità è propria delle zone di subduzione, dove la zolla oceanica, scorrendo al di sotto della zolla continentale, meno densa, sprofonda nel mantello; non a caso, il valore di 720 km rappresenta proprio la massima profondità che una placca litosferica può raggiungere subducendo.
+Non sono conosciuti sismi con ipocentro più profondo di 720 chilometri, in quanto - oltre tali profondità - le rocce cessano di esibire un comportamento fragile, assumendo caratteristiche duttili: in questo modo, dovendo le rocce subire grandi deformazioni prima della rottura, si scongiura l'insorgere di eventi sismici. Da ciò ne consegue che, minore è la profondità dell'ipocentro, maggiori sono gli effetti del terremoto in superficie.
+In particolare, se l'ipocentro si trova a piccole profondità, la zona interessata e sconvolta dal sisma (detta «area epicentrale») risulterà molto ridotta. Per contro, se il terremoto è profondo (ipocentro a grande profondità), l'area epicentrale è più vasta.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Epicentro
+Terremoto
+Onde sismiche
+Sismologia
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «ipocentro»
+ Wikimedia Commons contiene immagini o altri file sull'ipocentro
+
+
+== Collegamenti esterni ==
+
+ ipocentro, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+ Emilio Oddone, IPOCENTRO, in Enciclopedia Italiana, Istituto dell'Enciclopedia Italiana, 1933.

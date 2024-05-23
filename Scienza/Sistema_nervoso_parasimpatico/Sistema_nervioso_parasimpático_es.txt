@@ -1,0 +1,70 @@
+El sistema nervioso parasimpático junto con el sistema nervioso simpático están dentro del sistema nervioso autónomo, que  controla las funciones y actos involuntarios. Está integrado por varios nervios que nacen del encéfalo y otros que surgen de la médula espinal a nivel de las raíces sacras S2 a S4.
+El principal neurotransmisor de este sistema es la acetilcolina, que actúa sobre los receptores muscarínicos y nicotínicos. Los centros nerviosos que dan origen a las fibras preganglionares del parasimpático están localizados tanto en el encéfalo como en el plexo sacro que surge de la médula espinal. Las fibras nerviosas parasimpáticas se ramifican por el territorio de algunos nervios craneales, entre ellos el nervio motor ocular común, nervio facial, nervio vago y nervio glosofaringeo, también en los nervios pélvicos que surgen del plexo sacro. La activación del parasimpático provoca, entre otras acciones, disminución de la frecuencia cardiaca y de la fuerza contráctil del corazón, contracción de la pupila (miosis), estimulación del peristaltismo intestinal, relajación de los esfínteres gastrointestinales, broncoconstricción, relajación del esfínter uretral y contracción del músculo detrusor de la vejiga urinaria.[1]​
+
+
+== Topografía del sistema nervioso parasimpático ==
+Topográficamente se dividen en cuatro porciones:
+
+
+=== Porción hipotalámica ===
+Los centros donde se originan las fibras preganglionares son los núcleos supraópticos, paraventricular y los núcleos del túbulo hipotalámico anterior. De ellos salen fibras que en sentido descendente van a terminar en las células secretoras de la hipófisis y forman los fascículos supraóptico-hipofisarios, paraventrículo-hipofisarios y tubero-hipofisarios. La interrupción de la fibra supriorato-hipertrofiara genera diabetes insípida, pues se pierde la secreción de la hormona vasopresina encargada de regular el equilibrio de líquidos en el cuerpo....
+
+
+=== Porción mesencefálica ===
+Las fibras preganglionares nacen de los núcleos de Edinger-Westphal y mediano anterior, muy próximos al núcleo del motor ocular común y marchan por dentro del nervio motor ocular común hasta el ganglio ciliar donde hacen sinapsis. Las fibras nacidas de este ganglio, fibras postganglionares, forman los nervios ciliares cortos que llegan al músculo ciliar y al iris. La función de estas fibras es la de producir miosis al contraer el esfínter del iris y la de acomodación del ojo a la visión próxima al contraer el músculo ciliar.
+
+
+=== Porción rombencefálica ===
+Posee distintas fibras nerviosas que recorren distintos nervios craneales como:
+
+Fibras que recorren el facial (VII par craneal).
+Fibras que recorren el glosofaríngeo (IX par craneal).
+Fibras que recorren el vago o neumogástrico (X par craneal).
+Fibras que recorren el motor ocular común u oculomotor (III par craneal).
+
+
+=== Porción sacra ===
+Los núcleos nerviosos están dentro de la sustancia gris de la porción sacra que se extiende desde el segundo segmento sacro hasta el final de la médula espinal.
+
+
+== Lo que hace el sistema nervioso ==
+El sistema nervioso parasimpático participa en la regulación del aparato cardiovascular, aparato digestivo y aparato genitourinario, en muchos órganos su acción es opuesta a la del sistema nervioso simpático, por ejemplo en el corazón enlentece el ritmo cardíaco, mientras que el simpático lo acelera. Hay tejidos, como el hígado, riñón, páncreas y tiroides, que reciben intervención parasimpática, lo que sugiere que este sistema participa también en la regulación metabólica, aunque las influencias colinérgicas sobre el metabolismo no son bien conocidas. 
+
+Aparato cardiovascular:  Los efectos del sistema parasimpático sobre el corazón están mediados por el nervio vago. La acetilcolina disminuye la frecuencia cardiaca y la fuerza de contracción del miocardio por múltiples mecanismos como:
+Disminución de la velocidad de despolarización del nodo sinusal.
+Retraso de la conducción de los impulsos a su paso por la musculatura auricular.
+Alargamiento del periodo refractario.
+Disminución de la velocidad de conducción a través del nódulo auriculoventricular.
+Inhibición de las terminaciones nerviosas del sistema nervioso simpático sobre las fibras miocárdicas.
+Aparato gastrointestinal: La inervación parasimpática del intestino discurre por el nervio vago y los nervios sacros de la pelvis. El parasimpático produce:
+Aumento del tono de la musculatura lisa gastrointestinal.
+Estimulación de la actividad peristáltica.
+Relajación de los esfínteres gastrointestinales.
+Estimulación de la secreción exocrina del epitelio glandular.
+Aumento de la secreción de gastrina, secretina e insulina.
+Aparato genitourinario: El parasimpático sacro inerva la vejiga urinaria y los genitales. La acetilcolina aumenta el peristaltismo ureteral, contrae el músculo detrusor y relaja el trígono y el esfínter vesical, por lo que su papel es esencial para coordinar la micción.
+Aparato respiratorio: Está inervado por fibras parasimpáticas procedentes del nervio vago. La acetilcolina aumenta las secreciones traqueobronquiales y estimula la broncoconstricción.
+
+
+== Farmacología del sistema nervioso parasimpático. ==
+Agonistas colinérgicos: Pilocarpina
+Inhibidores de la acetilcolinesterasa: fisostigmina
+Agentes bloqueantes de los receptores colinérgicos: Atropina, butilbromuro de hioscina (antiespasmódico), ipratropio, oxitropio, tiotropio (broncodilatadores), pirenzepina (antiulceroso), biperideno, trihexifenidilo (antiparkinsonianos).
+
+
+== Referencias ==
+
+
+== Véase también ==
+Sistema nervioso simpático
+Sistema nervioso central
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Sistema nervioso parasimpático.
+Cabrera, I., Báez, M., Maragoto, C., Galvizu, R., Vera, H., & Ortega, M. A. (2011). Evaluación funcional de sistemas sensoriales mediante potenciales evocados en niños con trastornos del espectro autista. Enfermería Global, 10(24), 39-45.
+Bauer, M., Orejas, J. I. B., & Salas, J. E. R. (2020). Rehabilitación vestibular en la dependencia visual y somatosensorial. Revista ORL, 11(1), 79-88.
+Navarro, X. (2002). Fisiología del sistema nervioso autónomo. Rev Neurol, 35(6), 553-62.
+Sánchez, C. S. (2003). Trastornos del sistema nervioso autónomo. Medicine: Programa de Formación Médica Continuada Acreditado, 8(102), 5475-5483.
+
+Bruton, Laurence L.; Hilal-Dandan, Randa; Knollman, Björn C. (2018). Goodman & Gilman. Las bases farmacológicas de la terapéutica (Décimo tercera edición). McGraw-Hill Interamericana Editores. p. 120.

@@ -1,0 +1,34 @@
+In astrofisica il collasso gravitazionale è la progressiva compressione di un corpo massiccio sotto l'influenza della sua stessa forza di gravità. Ciò avviene quando la pressione idrostatica del corpo non è più in grado di controbilanciarne la gravità.
+
+
+== Descrizione ==
+Il collasso gravitazionale svolge un ruolo di primo piano nella formazione delle strutture principali dell'Universo. Un'iniziale distribuzione uniforme della materia sarebbe improvvisamente collassata ed avrebbe originato una gerarchia di strutture, come ammassi di galassie, ammassi stellari, stelle e pianeti. Ad esempio una stella si origina a partire dal graduale collasso gravitazionale di una nube di materia interstellare. La pressione causata dal collasso determina un aumento della temperatura, la quale, raggiunti i 20 milioni circa di K, provoca l'inizio nel nucleo stellare della fusione dell'idrogeno e determina un arresto del collasso; in questo modo la pressione delle reazioni nucleari e la gravità della stella si compensano e si instaura un equilibrio tra le due forze, detto equilibrio idrostatico.
+Il collasso gravitazionale delle stelle avviene durante le loro ultime fasi di vita. Quando tutte le fonti energetiche della stella si esauriscono, il nucleo stellare subisce un collasso gravitazionale; per questo motivo la "vita" della stella è considerata come uno stato di equilibrio temporaneo tra il collasso alla nascita e il collasso alla morte dell'astro. Ciò che si forma alla morte di una stella è definito "stella compatta". Esse sono:
+
+le nane bianche, in cui la pressione degli elettroni degeneri si oppone alla gravità.
+le stelle di neutroni, in cui la pressione del neutronio si oppone alla gravità.
+i buchi neri, le cui dinamiche sono ancora sconosciute.
+Il collasso verso lo stadio di nana bianca dura decine di migliaia di anni, durante i quali la stella morente espelle i suoi strati più esterni divenendo una nebulosa planetaria. Modelli teorici suggeriscono inoltre che una nana bianca potrebbe collassare in una stella di neutroni sottraendo materia da una compagna in un sistema binario; nella realtà una nana bianca che cattura materiale da una compagna andrebbe incontro ad una catastrofica fusione nucleare, fino a raggiungere il limite di Chandrasekhar e diventare una supernova di tipo I. Le stelle di neutroni sono invece formate dal collasso gravitazionale di stelle molto grandi, a seguito di supernovae di tipo II.
+Le stelle molto massicce, il cui nucleo raggiunge una massa oltre il limite di Tolman-Oppenheimer-Volkoff, non sono in grado di trovare un equilibrio dinamico, data la grandissima forza di gravità che in questo caso non ha forze antagoniste. Oltrepassato il punto in cui la materia è concentrata nel cosiddetto orizzonte degli eventi, si contraggono fino a formare un buco nero, la cui gravità è tale da non consentirne la fuoriuscita di luce. È chiaro che il collasso continua fino ad un punto estremamente denso ed altamente compatto con un raggio di Schwarzschild infinitamente piccolo.
+
+
+== Bibliografia ==
+Pankaj S. Joshi: Gravitational collapse and spacetime singularities. Cambridge Univ. Pr., Cambridge 2007, ISBN 978-0-521-87104-4
+B. K. Harrison, Kip Thorne, Masami Wakano, John Archibald Wheeler: Gravitation theory and gravitational collapse. The Univ. of Chicago Pr., Chicago 1965
+
+
+== Voci correlate ==
+Evoluzione stellare
+Formazione stellare
+Forza di gravità
+Instabilità di Jeans
+Supernova
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «collasso»
+
+
+== Collegamenti esterni ==
+ Gravitational collapse on arxiv.org, su xstructure.inr.ac.ru.

@@ -1,0 +1,84 @@
+Till or glacial till is unsorted glacial sediment.
+Till is derived from the erosion and entrainment of material by the moving ice of a glacier. It is deposited some distance down-ice to form terminal, lateral, medial and ground moraines.
+Till is classified into primary deposits, laid down directly by glaciers, and secondary deposits, reworked by fluvial transport and other processes.
+
+
+== Description ==
+Till is a form of glacial drift, which is rock material transported by a glacier and deposited directly from the ice or from running water emerging from the ice. It is distinguished from other forms of drift in that it is deposited directly by glaciers without being reworked by meltwater.
+Till is characteristically unsorted and unstratified, and is not usually consolidated. Most till consists predominantly of clay, silt, and sand, but with pebbles, cobbles, and boulders scattered through the till. The abundance of clay demonstrates lack of reworking by turbulent flow, which otherwise would winnow the clay. Typically, the distribution of particle sizes shows two peaks (it is bimodal) with pebbles predominating in the coarser peak.
+The larger clasts (rock fragments) in till typically show a diverse composition, often including rock types from outcrops hundreds of kilometers away. Some clasts may be rounded, and these are thought to be stream pebbles entrained by the glacier. Many of the clasts are faceted, striated, or polished, all signs of glacial abrasion. The sand and silt grains are typically angular to subangular rather than rounded.
+It has been known since the careful statistic work by geologist Chauncey D. Holmes in 1941 that elongated clasts in tills tend to align with the direction of ice flow. Clasts in till may also show slight imbrication, with the clasts dipping upstream.
+Though till is generally unstratified, till high in clay may show lamination due to compaction under the weight of overlying ice. Till may also contain lenses of sand or gravel, indicating minor and local reworking by water transitional to non-till glacial drift.
+The term till comes from an old Scottish name for coarse, rocky soil. It was first used to describe primary glacial deposits by Archibald Geikie in 1863. Early researchers tended to prefer the term boulder clay for the same kind of sediments, but this has fallen into disfavor. Where it is unclear whether a poorly sorted, unconsolidated glacial deposit was deposited directly from glaciers, it is described as diamict or (when lithified) as diamictite. Tillite is a sedimentary rock formed by lithification of till.
+
+
+== Processes ==
+
+
+=== Erosional ===
+Glacial till is mostly derived from subglacial erosion and from the entrainment by the moving ice of previously available unconsolidated sediments. Bedrock can be eroded through the action of glacial plucking and abrasion, and the resulting clasts of various sizes will be incorporated to the glacier's bed.
+Glacial abrasion is the weathering of bedrock below a flowing glacier by fragmented rock on the basal layer of the glacier. The two mechanisms of glacial abrasion are striation of the bedrock by coarse grains moved by the glacier, thus gouging the rock below, and polishing of the bedrock by smaller grains such as silts. Glacial plucking is the removal of large blocks from the bed of a glacier.
+Much of the silt in till is produced by glacial grinding, and the longer the till remains at the ice-bedrock interface, the more thoroughly it is crushed. However, the crushing process appears to stop with fine silt. Clay in till is likely eroded from bedrock rather than being created by glacial processes.
+
+
+=== Depositional ===
+The sediments carried by a glacier will eventually be  deposited some distance down-ice from its source. This takes place in the ablation zone, which is the part of the glacier where the rate of ablation (removal of ice by evaporation, melting, or other processes) exceeds the rate of accumulation of new ice from snowfall. As ice is removed, debris are left behind as till. The deposition of glacial till is not uniform, and a single till plain can contain a wide variety of different types of tills due to the various erosional mechanisms and location of till with respect to the transporting glacier.
+The different types of till can be categorized between subglacial (beneath) and supraglacial (surface) deposits. Subglacial deposits include lodgement, subglacial meltout, and deformation tills. Supraglacial deposits include supraglacial meltout and flow till. Supraglacial deposits and landforms are widespread in areas of glacial downwasting (vertical thinning of glaciers, as opposed to ice-retreat. They typically sit at the top of the stratigraphic sediment sequence, which has a major influence on land usage. Till is deposited as the terminal moraine, along the lateral and medial moraines and in the ground moraine of a glacier, and moraine is often conflated with till in older writings. Till may also be deposited as drumlins and flutes, though some drumlins consist of a core of stratified sediments with only a cover of till. Interpreting the glacial history of landforms can be difficult due to the tendency of overprinting landforms on top of each other.
+As a glacier melts, large amounts of till are eroded and become a source of sediments for reworked glacial drift deposits. These include glaciofluvial deposits, such as outwash in sandurs, and as glaciolacustrine and glaciomarine deposits, such as varves (annual layers) in any proglacial lakes which may form. Erosion of till may take place even in the subglacial environment, such as in tunnel valleys.
+
+
+== Types of till ==
+There are various types of classifying tills:
+
+Primary deposits – Laid down directly by glacier action.
+Secondary deposits –  Reworked by fluvial transport, erosion, etc.
+Traditionally (e.g. Dreimanis, 1988) a further set of divisions has been made to primary deposits, based upon the method of deposition. Van der Meer et al. 2003 have suggested that these till classifications are outdated and should instead be replaced with only one classification, that of deformation till.  The reasons behind this are largely down to the difficulties in accurately classifying different tills, which are often based on inferences of the physical setting of the till rather than detailed analysis of the till fabric or particle size.
+
+
+=== Subglacial till ===
+
+
+==== Lodgement till ====
+Subglacial lodgement tills are deposits beneath the glacier that are forced, or "lodged" into the bed below. As glaciers advance or retreat, the clasts that are deposited by the ice may have a lower velocity than the ice itself. When the friction between the clast and the bed exceeds the forces of the ice flowing above and around it, the clast will cease to move, and it will become a lodgement till.
+
+
+==== Meltout till ====
+Subglacial meltout tills are tills that are deposited via the melting of the ice lobe. Clasts are transported to the base of the glacier over time, and as basal melting continues, they are slowly deposited below the glacier. Since the rate of deposition is controlled by the rate of basal melting, it is worth considering the factors that contribute to melting. These can be the geothermal heat flux, frictional heat generated by sliding, ice thickness, and ice-surface temperature gradients.
+
+
+==== Deformation till ====
+Subglacial deformation tills refer to the homogenization of glacial sediments that occur when the stresses and shear forces from the moving glacier rework the topography of the bed. These contain preglacial sediments (non glacial or earlier glacial sediments), which have been run over and thus deformed by meltout processes or lodgement. The constant reworking of these deposited tills leads to a highly homogenized till.
+
+
+=== Supraglacial till ===
+
+
+==== Meltout till ====
+Supraglacial meltout tills are similar to subglacial meltout tills. Rather than being the product of basal melting, however, supraglacial meltout tills are imposed on top of the glacier. These consist of clasts and debris that become exposed due to melting via solar radiation. These debris are either just debris that have a high relative position on the glacier, or clasts that have been transported up from the base of the glacier. Debris accumulation has a feedback-loop relationship with melting. Initially, the darker colored debris absorb more heat and thus accelerate the melting process. After a significant amount of melting has occurred, the thickness of the till insulates the ice sheet and slows the melting process. Supraglacial meltout tills typically end up forming moraines.
+
+
+==== Flow till ====
+Supraglacial flow tills refer to tills that are subject to a dense concentration of clasts and debris from meltout. These debris localities are then subsequently affected by ablation. Due to their unstable nature, they are subject to downslope flow, and thus named "flow till." Properties of flow tills vary, and can depend on factors such as water content, surface gradient, and debris characteristics. Generally, flow tills with a higher water content behave more fluidly, and thus are more susceptible to flow. There are three main types of flows, which are listed below.
+
+Mobile flows: Thin, fluid, and rapid flows that significantly contribute to erosional processes. These cause strong clast orientation in the direction of flow.
+Semi-plastic: Thick, slow moving "tongues" of debris. These are also erosive, and clast sorting is more organized than in mobile flows.
+Creep: Very slow movement of debris, downslope in direction. Flow rate is slow enough not to be seen on relatively short timescales, as observed by humans. Particle orientation is often random and not associated with the direction of flow.
+
+
+== Tillite ==
+
+In cases where till has been indurated or lithified by subsequent burial into solid rock, it is known as the sedimentary rock tillite. Matching beds of ancient tillites on opposite sides of the south Atlantic Ocean provided early evidence for continental drift. The same tillites also provide some support to the Precambrian Snowball Earth glaciation event hypothesis.
+
+
+== Economic resources ==
+Tills sometimes contain placer deposits of valuable minerals such as gold. Diamonds have been found in glacial till in the north-central United States and in Canada. Till prospecting is a method of prospecting in which tills are sampled over a wide area to determine if they contain valuable minerals, such as gold, uranium, silver, nickel, or diamonds, and the flow direction indicated by the till is then used to trace the minerals back to their bedrock source.
+
+
+== See also ==
+
+Boulder clay – Geological deposit of clay
+Diamictite – Type of sedimentary rock
+Scree – Broken rock fragments at base of cliff
+
+
+== References ==

@@ -1,0 +1,61 @@
+In geologia, per rift (in inglese: «frattura, spaccatura») si intende una regione in cui la crosta terrestre e la litosfera si trovano in condizioni tettoniche distensive e vengono separate sotto l'azione di forze di trazione generate dai movimenti convettivi del mantello terrestre sottostante. Caratteristiche tipiche sono la presenza di sistemi di faglie distensive, con andamenti lineari che strutturalmente suddividono la regione in blocchi relativamente abbassati, i graben, interposti fra blocchi relativamente rialzati, gli horst, delineando una rift valley caratterizzata da fagliamento normale parallelo ai fianchi sollevati su ciascun lato, con possibile presenza di faglie listriche che tendono a far basculare i blocchi con l'aumentare della separazione fra i margini dell'area a causa dell'espansione del rift.
+L'asse dell'area di rift contiene comunemente rocce vulcaniche e il vulcanismo attivo è parte di molti, ma non di tutti, i sistemi attivi di rift. I rift, solitamente impostati in aree continentali, possono indicare la fase incipiente di una situazione di separazione crostale, a cui può seguire la creazione di un margine di placca distensivo con l'evoluzione ad una condizione di dorsali oceaniche, dove si crea una nuova crosta oceanica e una nuova litosfera per l'espansione del fondale oceanico e la divisione di una placca tettonica in due placche in separazione.
+I rift abortiti sono fratture antiche o moderne dove la formazione di rift continentali è iniziata ma non è continuata. Tipicamente la transizione dalla formazione di rift all'allargamento si sviluppa in presenza di tre rift che convergono su un punto caldo. Due di questi evolvono fino all'allargamento del fondale marino, mentre il terzo alla fine abortisce, divenendo un aulacogeno.
+
+
+== Formazione e sviluppo ==
+Le rift valleys si formano presso zone di fragilità della litosfera, quando la crosta terrestre oceanica o continentale viene stirata dalle correnti convettive del mantello terrestre. Come ogni materiale la litosfera sottoposta alla tensione di questa trazione si può lacerare.
+Nella fase iniziale la parte superiore della litosfera comincia ad estendersi lungo una serie di linee di frattura non interconnesse, portando alla formazione di bacini isolati.
+La maggior parte dei rift consiste di una serie di segmenti separati che formano la zona lineare caratteristica dei rift. I singoli segmenti hanno per lo più una geometria a semi-graben e la loro lunghezza varia in funzione dello spessore elastico della litosfera locale. Nelle aree in cui la litosfera è più fredda e spessa, come nel caso del rift del Baikal, la lunghezza dei segmenti può superare anche gli 80 km; nelle aree di litosfera calda e assottigliata la lunghezza non supera in genere i 30 km.
+Con l'evolversi del rift, qualcuno dei singoli segmenti di frattura tende ad accrescersi, fino a collegarsi con altri per formare una più o meno vasta zona di interconnessione. L'estensione delle linee di frattura e l'aumento della spaziatura tra i segmenti porta alla formazione di zone di subsidenza lungo l'asse del rift. Si instaura a questo punto un tipico sollevamento delle spalle del rift che va ad influenzare il drenaggio e il processo di sedimentazione all'interno del bacino.
+L'assottigliamento della crosta terrestre durante il processo di sviluppo delle fratture provoca la subsidenza locale della superficie terrestre, influenzando di conseguenza la discontinuità di Mohorovičić. Allo stesso tempo si ha un assottigliamento della litosfera del mantello che provoca un innalzamento della parte superiore dell'astenosfera. Al cessare del processo di formazione del rift, il mantello terrestre sottostante si raffredda dando luogo ad una vasta area di subsidenza. L'ammontare della subsidenza è direttamente correlato al precedente assottigliamento durante la fase di sviluppo, calcolato come fattore beta (spessore iniziale della crosta diviso per lo spessore finale), ma è anche influenzato dal grado di riempimento del bacino in ogni singolo stadio a causa della maggiore densità dei sedimenti rispetto all'acqua. Il semplice modello di McKenzie, che considera il processo di formazione del rift come istantaneo, permette una prima buona stima del grado di assottigliamento della crosta basandosi sull'osservazione dell'ammontare della subsidenza post-rift. Tale metodo è stato tuttavia rimpiazzato da un modello che tiene conto degli aspetti geometrici delle linee di faglia e dei fenomeni di basculamento isostatico della parte superiore della crosta terrestre.
+
+
+== Rifting continentale ==
+
+Le zone di fragilità possono essere o interruzioni e faglie geologiche più antiche o tratti di litosfera resi sottili dai «pennacchi del mantello» (in inglese: mantle plumes) presso i cosiddetti «punti caldi» (hot spots). Nel primo caso, attraverso la diminuzione della pressione presso la zona di allungamento può avvenire la risalita e la fuoriuscita di magma (rifting passivo, ad es. presso la Fossa Renana). Nel secondo caso, attraverso la corrente ascensionale proveniente dal materiale bollente del mantello presso il punto caldo avviene un innalzamento dal basso del piano della litosfera, in seguito al quale questa viene sollevata termicamente su una vasta area, fusa lentamente e in tal modo assottigliata. Alla fine anche qui la crosta terrestre può lacerarsi e affiorare il magma (rifting attivo, ad es. presso la Rift Valley africana).
+Questo magmatismo è in genere attivo soprattutto nella fase iniziale del processo di formazione del rift e dà luogo alla fuoriuscita di basalti alcalini e al manifestarsi di un vulcanismo bimodale.
+Nelle rift valley si sviluppano focolai di terremoti relativamente superficiali e un esteso vulcanismo, in particolare stratovulcani ed effusioni subaeree.
+La litosfera continentale può reagire in diversi modi all'allungamento. Presso cratoni antichi avviene principalmente la formazione di sistemi di graben relativamente ristretti con spalle elevate, come sono caratteristici della Rift Valley africana. D'altra parte nelle zone di allungamento, dove prima la litosfera è stata ispessita e surriscaldata dall'orogenesi, per i processi geologici si sviluppano zone a forma di bacino, senza che si formi litosfera oceanica, ad es. presso i grandi bacini nel Nord America sud-occidentale.
+La crosta viene però assottigliata per meno di circa 10 km, poi un oceano, favorito per di più dallo sprofondamento della crosta all'interno della fossa sotto il livello del mare, può penetrare nella depressione. In un tempo geologicamente breve, come nel caso del Mar Rosso, può avvenire, in seguito alla risalita di lava basaltica, la formazione di nuova crosta oceanica tra i vecchi margini continentali. Nascono nuove placche tettoniche divergenti. Un rifting attivo si trasforma con ciò in una dorsale oceanica.
+
+
+== Principali zone di rift della Terra ==
+
+Rift sulla superficie terrestre:
+
+La Great Rift Valley in Africa: si estende dal Libano fino al Mozambico e determina la deriva di allontanamento tra la Placca africana e quella arabica.
+Il Mar Rosso nell'Africa orientale: costituisce una parte della Great Rift Valley. Il sistema di fosse intracontinentali ha condotto a un accresciuto vulcanismo lungo la zona di allungamento, su un arco di 5.000 km, e ad un parziale sprofondamento della fossa sotto il livello del mare. Nei prossimi 10-20 milioni di anni è da attendersi che il Mar Rosso si spinga fin a questa fossa tettonica e che la deriva allontani ulteriormente l'Africa orientale da quella occidentale.
+Il Lago Baikal, nella Russia asiatica: il fondo del lago è il più profondo rift continentale sulla Terra. È determinato dalla deriva di allontanamento tra la Placca eurasiatica e quella amuriana.
+Il rift dei Monti Chersky, nella Siberia nord-orientale, presso il Circolo polare.
+Il Rift dell'Europa occidentale
+La Fossa Renana nella Germania sud-occidentale.
+Il Lago Timiskaming nella contea di Temiskaming Shores, in Ontario (Canada).
+L'intera Provincia di Basin and Range nell'America del Nord.
+Il Rift del Rio Grande nel sud-ovest degli Stati Uniti.
+Il rift al centro del Golfo di Corinto in Grecia.
+Il Reelfoot Rift, un antico rift abortito, sepolto sotto la Zona Sismica di New Madrid nella Baia del Mississippi.
+La Zona vulcanica di Taupo nel nord-est dell'Isola del Nord della Nuova Zelanda.
+Il Graben di Oslo in Norvegia.
+Il Rift dell'Antartide Occidentale nell'Antartide.
+Il Sistema di rift mediocontinentale, un rift del tardo Precambriano nel Nord America centrale.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Dorsale oceanica
+Fossa tettonica
+Graben (geologia)
+Horst
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Rift
+
+
+== Collegamenti esterni ==
+
+(EN) rifting, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

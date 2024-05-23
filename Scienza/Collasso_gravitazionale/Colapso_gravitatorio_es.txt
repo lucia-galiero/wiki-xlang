@@ -1,0 +1,77 @@
+El colapso gravitatorio es el desmoronamiento hacia adentro de un cuerpo estelar debido al efecto de su propia gravedad hasta formar un agujero negro. Debido a que la gravedad es comparativamente más débil que las otras fuerzas fundamentales el colapso gravitatorio sólo es posible con grandes masas cuando el efecto de la interacción gravitatoria en el sistema se vuelve más importante que el efecto del resto de fuerzas. Los sistemas que pueden sufrir colapso gravitatorio son estrellas (que pueden dar lugar a supernovas, estrellas de neutrones o agujeros negros) o grupos masivos de estrellas como los cúmulos globulares o las galaxias en su parte más densas.
+En un cuerpo estable, la compresión debida a la gravedad se equilibra con la presión interna del cuerpo en la dirección opuesta (la gravedad tiende a mover la masa de un sistema, con un momento angular suficientemente bajo, hacia el centro de masa del sistema). La presión interna procede básicamente de la presión de no-degeneración de los fermiones de la materia. Para masas moderadas la presión del gas de electrones da lugar a una enana blanca. Si la masa sobrepasa el llamado límite de Chandrasekhar entonces una enana blanca no es estable y la presión ejercida por los electrones no es suficiente por lo que se da la reacción:
+
+  
+    
+      
+        
+          
+            
+              p
+            
+          
+          
+            +
+          
+        
+        
+          
+            
+              e
+            
+          
+          
+            −
+          
+        
+        →
+        
+          
+            n
+          
+        
+        +
+        
+          
+            ν
+          
+          
+            
+              e
+            
+          
+        
+      
+    
+    {\displaystyle {\mbox{p}}^{+}{\mbox{e}}^{-}\rightarrow {\mbox{n}}+{\nu }_{\mbox{e}}}
+  
+
+y los electrones y protones desaparecen dando lugar a una estrella de neutrones. También existe un límite para las estrellas de neutrones y de ser superado se forma un agujero negro que se expande hasta consumir completamente la estrella.
+
+
+== Introducción ==
+La presión gravitatoria en una estrella comprime la materia y eleva su temperatura suficientemente para que se inicien las reacciones nucleares en el hidrógeno y el helio, la generación de energía por las reacciones nucleares expande algo la estrella y durante la mayor parte de la vida de la estrella mantiene un equilibrio con la propensión gravitatoria a comprimir la estrella. Al final de la vida de la estrella la gravedad llega a predominar sobre las fuerzas de origen térmico y la estrella puede llegar a contraerse notoriamente. Según sus características de masa y la forma de colapso puede dar lugar a la formación de una estrella compacta. Existen tres tipos de estrellas compactas; por orden de menos a más compacta son:
+
+Las enanas blancas sostenidas por la presión de degeneración de los electrones,
+Las estrellas de neutrones, sostenidas por la presión de degeneración de los neutrones y la interacción repulsiva neutrón-neutrón a corta distancia.
+Los agujeros negros, cuya física interna se desconoce pero podría consistir en una curvatura espacio-temporal grande que albergara una singularidad espaciotemporal (que no es otra cosa que una región exótica del espacio-tiempo sobre la que la física convencional no puede responder nada sobre su estructura).
+
+
+== Colapso de estrella con simetría esférica ==
+Este problema fue abordado por Oppenheimer y Snyder en un artículo clásico de 1939. Estos autores estudiaron el caso un tanto idealizado de una estrella esférica que no tiene momento angular. Se sabe que pequeñas desviaciones de estas condiciones tienen las mismas propiedades básicas, pero el colapso de distribuciones de masas no esféricas o con grandes momentos angulares es notablemente diferente. Una estrella esférica sin momento angular al colapsarse da lugar a un agujero negro de Schwarzschild, mientras que si el momento angular es importante se tiene un agujero negro de Kerr.
+
+
+== Véase también ==
+Big Crunch
+Nave estelar de agujero negro
+
+
+== Referencias ==
+
+
+=== Bibliografía ===
+Oppenheimer, J. R., & Snyder, H. (1939). "On continued gravitational contraction". Physical Review, 56(5), 455.
+
+
+=== Enlaces externos ===
+Gravitational collapse on arxiv.org

@@ -1,0 +1,75 @@
+Rote Zwerge sind die kleinsten Sterne, in deren Zentrum Wasserstoffbrennen (Kernfusion von 1H) stattfindet. Etwa drei Viertel aller Sterne gehören zu dieser Sternklasse. Sie leuchten so lichtschwach, dass kein einziger von der Erde aus mit bloßem Auge gesehen werden kann.
+
+
+== Merkmale ==
+Rote Zwerge sind Hauptreihensterne am kühlen (d. h. in üblicher Darstellung des Hertzsprung-Russell-Diagramms unteren) Ende der Hauptreihe. Aus historischen Gründen werden sie manchmal auch als späte Hauptreihensterne bezeichnet, weil früher irrtümlich angenommen wurde, dass Sterne sich im Verlauf ihrer Entwicklung zu Spektralklassen kühlerer Oberflächentemperatur entwickeln würden.
+Der Begriff des Roten Zwerges ist keine präzise wissenschaftliche Kategorie, sondern wird umgangssprachlich benutzt. Anders als bei der unteren Massegrenze, die durch die Mindestvoraussetzung für den physikalischen Prozess des Wasserstoffbrennens im Kern gegeben ist (und somit Rote Zwerge gegen Braune Zwerge abgrenzt), besteht keine definitorische Einigkeit über die genaue Abgrenzung zu heißeren Sternen. Sicher gehören alle Hauptreihensterne der Spektralklasse M zu den Roten Zwergen, gelegentlich werden auch Sterne bis zum mittleren K-Typ (K5) dazugerechnet. Andere in der Literatur benutzte Kriterien sind eine Effektivtemperatur von ca. 2500 bis 4000 K, eine absolute Helligkeit von weniger als MV = +7,5, oder das Auftreten von molekularen Absorptionsbanden im Spektrum. In jedem Fall beinhaltet die so definierte Klasse die Mehrheit aller Sterne, etwas variierend je nach genauer Definition. Grob kann man allerdings sagen, dass etwa drei Viertel aller Sterne Rote Zwerge sind.
+
+
+=== Masse ===
+Die Masse von Roten Zwergen beträgt somit zwischen etwa 7,5 Prozent und je nach Definition einem oberen Grenzwert zwischen etwa 40 und 60 Prozent der Sonnenmasse. Bei einer kleineren Masse käme keine Wasserstofffusion zustande, es läge ein Brauner Zwerg vor. Die Masse eines typischen Roten Zwerges der Spektralklasse M beträgt in etwa 10 Prozent der Sonnenmasse und der Radius ca. 15 Prozent des Sonnenradius.
+
+
+=== Leuchtkraft und Farbe ===
+Bedingt durch die geringe Masse verläuft bei Roten Zwergen die Umwandlung von Wasserstoff in Helium (Kernfusion durch die Proton-Proton-Reaktion) im Vergleich zu schwereren Sternen wie der Sonne pro Masseneinheit wesentlich langsamer. Daher beträgt die Leuchtkraft von Roten Zwergen nur etwa 0,01 Prozent bis 5 Prozent der der Sonne. Die Energieabstrahlung pro Oberflächeneinheit liegt auch unter der der Sonne, da die Oberfläche eines Roten Zwerges zwar kleiner als die der Sonne ist, aber die thermische Energieerzeugung im Vergleich noch stärker abnimmt. Damit errechnet sich nach dem (für Sterne näherungsweise anwendbaren) Planckschen Strahlungsgesetz eine niedrigere Oberflächentemperatur, und Strahlung wird überwiegend als langwelliges Licht und als Infrarotstrahlung emittiert.
+Tatsächlich liegen die Oberflächentemperaturen von Roten Zwergen zwischen 2200 und 3800 K (Sonne etwa 5800 K). Damit erscheinen sie im direkten Vergleich zur Sonne rötlicher (deshalb der Name), aber nicht wirklich rot, ihr Licht ähnelt für das menschliche Auge dem von Glühlampen (2300 bis 2900 K) und ist für die heißeren der Roten Zwerge sogar deutlich weißer.
+
+
+=== Beobachtbarkeit ===
+Rote Zwerge sind im Vergleich zu anderen Sternenklassen sehr lichtschwach. Daher kann kein einziger von ihnen mit bloßem Auge von der Erde aus gesehen werden. Bereits der unserem Sonnensystem nächstgelegene Stern ist ein Roter Zwerg, Proxima Centauri vom Spektraltyp M5 mit einem derzeitigen Abstand von 4,24 Lichtjahren und einer scheinbaren Helligkeit von 11,01m. Die von der Erde aus gesehen hellsten Roten Zwerge der Spektralklasse M sind Lacaille 8760 (scheinbare Helligkeit 6,67m, Entfernung 12,871 Lichtjahre), Lacaille 9352 (7,34m, 10,685 Lichtjahre) und Lalande 21185 (7,47m, 8,3067 Lichtjahre). Von den 30 nächstgelegenen Sternen sind 18 Rote Zwerge der Spektralklasse M.
+Wegen ihrer geringen Helligkeit können einzelne Rote Zwerge kaum über große interstellare Distanzen beobachtet werden.
+
+
+=== Veränderliche Sterne unter den Roten Zwergen ===
+Einige Rote Zwerge zeigen in unregelmäßigen Abständen starke Flares, welche die Helligkeit des Sterns selbst weit übertreffen können. Diese werden als Veränderliche Sterne der Klasse UV-Ceti bezeichnet. Können dagegen nur Sternflecken auf der Oberfläche des Roten Zwerges nachgewiesen werden, so gehören sie zu den BY-Draconis-Sternen. Beides sind Folgen eines aktiven Dynamos, der aufgrund eines konvektiven Energietransports in Kombination mit einer differentiellen Rotation zu einer stellaren Aktivität führt. Diese erscheint bei den Roten Zwergen besonders ausgeprägt, da aufgrund ihrer geringen absoluten Helligkeit die Phänomene der stellaren Aktivität starke relative Helligkeitsänderungen zeigen.
+
+
+=== Rote und Braune Zwerge ===
+Die Grenze zwischen Roten und Braunen Zwergen ist fließend, die Roten Zwerge befinden sich im Spektralklassenbereich von spät K über M bis L. Die Braunen Zwerge decken einen überlappenden Bereich von spät M über L bis T ab.
+Die Unterscheidung zwischen Roten und Braunen Zwergen ist vielfach nicht einfach und es sind verschiedene Methoden nötig, um Braune Zwerge zweifelsfrei nachzuweisen (siehe Artikel Brauner Zwerg#Nachweismethoden). In gewissen Fällen konnten durch empfindliche Infrarot-Messungen von 2MASS, SDSS oder WISE jedoch auch extrem kühle Rote Zwerge mit der Spektralklasse L entdeckt werden.
+Des Weiteren wurden in den letzten Jahren auch kühle Unterzwerge mit geringer Metallizität entdeckt, deren genaue Natur noch untersucht wird.
+
+
+=== Beispiele ===
+
+
+== Entwicklung ==
+
+Es wird angenommen, dass Rote Zwerge mit einer Masse von weniger als 35 Prozent der Sonnenmasse bzw. mit einer späteren (numerisch höheren) Spektralklasse als M3,5 vollständig konvektiv sind. Dies bedeutet, dass aufgrund der Lichtundurchlässigkeit des dichten Sterneninneren im Inneren entstandene Photonen die Oberfläche nicht erreichen, sondern die Energie durch Konvektion vom Kern zur Oberfläche weitergeleitet wird. Somit sammelt sich Helium nicht im Kern an, wie es bei schwereren Hauptreihensternen der Fall ist. Deshalb können sie prozentual mehr Wasserstoff verschmelzen, bevor sie die Hauptreihe verlassen. Dies ist ein Faktor für die lange Lebenszeit der Roten Zwerge. Diese reicht, abhängig von der Masse (je geringer, desto länger ist die Aufenthaltsdauer in der Hauptreihe), von mehreren zehn Milliarden bis zu Billionen von Jahren. Da bereits der untere Wert größer ist als das Weltalter (ca. 13,8 Milliarden Jahre), hat bisher kein Roter Zwerg die Hauptreihe verlassen, während laufend neue entstehen. Dies erklärt den großen Anteil der Roten Zwerge an der Gesamt-Sternanzahl.
+Wenn der Wasserstoff im Inneren zu Helium fusioniert und erschöpft ist, schrumpft der Stern. Die gravitative Energie, die dadurch frei wird, wird in Wärme umgewandelt und ebenfalls durch Konvektion nach außen geleitet. Für einige Zeit funktioniert noch das Schalenbrennen von Wasserstoff zu Helium. Danach erreicht der Rote Zwerg das Stadium einer Sonderform des Weißen Zwerges, der überwiegend aus Helium besteht und kaum schwerere Elemente enthält (nämlich die praktisch unveränderte bei der Sternentstehung vorhandene Menge). Da bisher wegen des zu geringen Weltalters kein Roter Zwerg dies Stadium auf normalem Weg erreichen konnte, werden solche speziellen Weißen Zwerge nicht beobachtet, sondern ihre Eigenschaften nur in der Theorie beschrieben.
+
+
+== Astronomische Bedeutung ==
+Momentan spielen Rote Zwerge nur eine minimale Rolle im Energiehaushalt des Universums, obwohl rote Hauptreihensterne vermutlich die am meisten verbreitete Sternengattung sind. Da sie so häufig vorkommen und so lichtschwach sind, erscheinen sie recht unauffällig. Es wird angenommen, dass sie, bedingt durch ihre sehr lange Lebenszeit und die gegen Ende des Wasserstoffbrennens zunehmende Leuchtkraft, langfristig eine große Rolle spielen werden. In Zukunft wird es einen generellen Rückgang der Entstehung neuer Sterne geben. Die Roten Zwerge werden selbst zu einem Zeitpunkt, wenn der Rest weitgehend nur noch aus „toter Materie“ in Form von Schwarzen Löchern, Neutronensternen und verblassenden Weißen Zwergen besteht, noch als selbstleuchtende Objekte im Universum existieren.
+Es wurde noch kein sterbender Roter Zwerg entdeckt, da das Universum erst 13,7 Milliarden Jahre alt ist.
+Ein Rätsel, das bis heute noch nicht gelöst ist, ist das Fehlen von roten Sternen, die keine Metalle enthalten (andere Elemente als Wasserstoff und Helium). Die erste Generation von Sternen dürfte nach der Urknall-Theorie nur aus Wasserstoff, Helium und Spuren von Lithium bestehen. Entstanden zu dieser Zeit Rote Zwerge, müssten sie heute noch existieren. Jedoch wurde kein Roter Zwerg gefunden, der nur aus den genannten Elementen besteht. Die bevorzugte Erklärung dafür ist, dass ohne schwere Elemente nur große und bis heute unbeobachtete Sterne der Sternpopulation III entstehen konnten, die ihren Energievorrat schnell aufbrauchten. Dabei hinterließen sie Elemente, aus denen sich Rote Zwerge bilden konnten. Eine andere Möglichkeit wäre, dass Rote Zwerge ohne Metalle dunkel und selten seien. Da dies dem Evolutionsmodell von Sternen widerspricht, wird diese Theorie als unwahrscheinlich betrachtet.
+
+
+== Altersbestimmungen durch Rote Zwerge ==
+Die Tatsache, dass Rote Zwerge und andere Zwergsterne lange auf der Hauptreihe verweilen, während massivere Sterne diese schon verlassen haben, erlaubt die Schätzung des Alters von Sternhaufen. Dabei wird versucht, die Grenzmasse der Sterne zu finden, die sich noch auf dem Hauptast befinden. Dadurch lässt sich der untere Wert des Alters der Sterne feststellen. Ebenso kann dadurch das Zeitalter der Bildung von Formationen in der Milchstraße, wie dem galaktischen Halo und der galaktischen Scheibe bestimmt werden.
+
+
+== Planeten ==
+Seit 2005 wurden zahlreiche Planeten entdeckt, die Rote Zwerge umkreisen.
+
+
+=== Habitable Zone ===
+Die Bewohnbarkeit von Planeten Roter Zwerge ist Thema einiger Diskussionen. Obwohl diese Sterne häufig sind und ihr Zustand lange stabil ist, gibt es einige Faktoren, die Leben auf Planeten solcher Gestirne erschweren.
+Um sich in der habitablen Zone zu befinden, müssten Planeten in einer Entfernung zwischen 0,04 und 0,2 AE vom Mutterstern sein. Ein Planet wäre sozusagen auf Tuchfühlung mit seinem Mutterstern, um genügend Licht und Wärme zu erhalten.
+Für Planeten von Sternen unter einer halben Sonnenmasse ist infolge dieser Nähe durch Gezeitenkräfte eine gebundene Rotation zu erwarten. Das bedeutet, dass eine Seite des Planeten immer dem Stern zugewandt wäre und auf der anderen immerwährende Nacht herrschte. Das könnte enorme Temperaturunterschiede zwischen Tag- und Nachtseite bewirken. Solche Bedingungen gelten für die Entstehung von Leben als schwierig. Andererseits besagen neuere Theorien, dass eine dichte Atmosphäre oder ein großer, den Planeten umspannender Ozean möglicherweise die vom Stern empfangene thermische Energie um den gesamten Planeten transportieren könnten. Solche weltumspannenden Ozeane wurden in einer Analyse von Joshi aus dem Jahr 2003 als möglich angesehen. Es ist anzunehmen, dass auf der hellen Seite solcher Planeten hohe Niederschlagsmengen auftreten würden, aber trotz ausgeprägter stationärer Konvektionsprozesse nur vergleichsweise geringe Windgeschwindigkeiten von 10 bis 20 m/s. Die dunkle Seite wäre in diesem Szenario wahrscheinlich bis auf die Gebiete in der Nähe der Dämmerungszone (Übergang zwischen Tag- und Nachtseite des Planeten) sehr regenarm. Die Reichweite hinge dabei von der Stärke und Geschwindigkeit der atmosphärischen Strömungen ab. Die Niederschlagsmenge auf der Nachtseite würde mit wachsendem Abstand zur Dämmerungszone rasch sinken. Die Temperaturunterschiede zwischen Tag- und Nachtseite sind von der Wassermenge des Planeten abhängig. Bei einem trockenen Planeten wären die Unterschiede größer als bei einem Planeten mit viel Wasser.
+Ein anderes potentielles Problem ist, dass Rote Zwerge den Großteil ihrer Strahlung im infraroten Bereich aussenden. Irdische Pflanzen verwenden jedoch hauptsächlich Energie aus dem sichtbaren Bereich des Lichtspektrums, allerdings gibt es Purpurbakterienarten, die theoretisch mit langwelligem Licht für ihre Photosynthese auskommen könnten. Für potenzielle Wasserpflanzen kommt erschwerend dazu, dass Wasser für langwelliges Licht stark absorbierend ist. Schon in geringer Wassertiefe herrscht komplette Dunkelheit.
+Das vielleicht größte Problem wäre die Variabilität des Sternes. Rote Zwerge sind oft von Sternflecken („Sonnenflecken“) bedeckt, wodurch die Sternenstrahlung monatelang um bis zu 40 Prozent verringert wird. Weiterhin können einige Rote Zwerge gewaltige Flares ausstoßen, die die Helligkeit des Sterns innerhalb von Minuten vervielfachen können. Auch durch diese Veränderlichkeit könnten sich für das Leben in der Nähe eines Roten Zwerges Schwierigkeiten ergeben. Speziell in den ersten hundert Millionen Jahren nach der Sternentstehung sollen gemäß einer Veröffentlichung vom Oktober 2018 solche Flares regelmäßig vorkommen und damit die Entwicklung einer Atmosphäre um Planeten in der habitablen Zone nachhaltig stören.
+Genauere Untersuchungen beziehen Eigenschaften der Planeten in die Betrachtungen mit ein. Hier ergibt sich gerade durch die Infrarotstrahlung eine um bis zu 30 Prozent vergrößerte habitable Zone für Planeten, die zumindest zum Teil mit Wassereis oder Schnee bedeckt sind. Grund hierfür ist, dass Wassereis im infraroten Spektrum mehr Strahlungsenergie absorbiert als im Bereich des sichtbaren Lichts, was zu einer stärkeren Aufheizung des Planeten führt.
+
+
+== Literatur ==
+Mark Alpert: Red Star Rising. In: Scientific American. 293, Nr. 5, November 2005, S. 28.
+
+
+== Weblinks ==
+
+Mike Wall: 4.5 Billion ‘Alien Earths’ May Populate Milky Way. space.com, 6. Februar 2013, abgerufen am 25. August 2016. 
+Astronews.com: Kleine Sterne mit starken Magnetfeldern
+
+
+== Einzelnachweise ==

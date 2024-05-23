@@ -1,0 +1,45 @@
+La epidermis, en los vertebrados, es la capa externa de la piel,[1]​ un epitelio escamoso estratificado ,[2]​ compuesto de queratinocitos que proliferan en su base y se diferencian progresivamente, a medida que son empujados hacia el exterior. La epidermis es la barrera más importante del cuerpo al ambiente externo de la piel .[3]​ En los humanos, su grosor varía desde un mínimo de 0,1 mm en los párpados, a un máximo de 1,5 mm en las palmas de las manos y en las plantas de los pies.[4]​ Su origen embrionario es ectodérmico.
+En los artrópodos, la epidermis está formada por una sola capa de células, cúbicas o cilíndricas; produce una secreción que forma una capa protectora externa, la cutícula.
+
+
+== Estructura ==
+
+
+=== Componentes celulares ===
+La epidermis es avascular (carece de riego sanguíneo) y se nutre por difusión desde la dermis. Contiene queratinocitos, melanocitos, células de Langerhans, células de Merkel[1]​ y células inflamatorias. Los queratinocitos son el tipo celular más abundante, constituyendo un 95 % de las células que la componen.[2]​ En algunos puntos, la epidermis se engrosa invaginándose en el interior de la dermis, formando las crestas epidérmicas, que a su vez definen las dermal papillae o papilas dérmicas.[5]​
+
+
+=== Capas ===
+La epidermis se compone de 4 o 5 capas, dependiendo de la región de la piel. En orden desde la más externa (superficial) a la más interna (profunda), se denominan: 
+
+capa córnea (stratum corneum),
+capa translúcida (stratum lucidum),
+capa granular (stratum granulosum),
+capa espinosa (stratum spinosum) y
+capa basal o germinal ( stratum basale/germinativum).[3]​ La denominación "capa de Malpighi" o "capa de Malpigio" (stratum malpighi en honor a Marcello Malpighi) se utiliza habitualmente para definir el conjunto de capa basal y espinal.[2]​
+
+
+=== Cinética celular ===
+El epitelio escamoso estratificado se mantiene gracias a la división continua de las células de la capa basal o germinativa. Las células se diferencian partiendo de la lámina basal a medida que se desplazan hacia las capas exteriores de la epidermis. Al llegar a la capa córnea pierden el núcleo y se fusionan a las capas escamosas, que se desprenden continuamente de la superficie de la piel por descamación. En una piel normal sana, la cantidad de células nuevas que se producen es igual al de células que se desprenden,[2]​ llevando dos semanas a una célula el recorrido desde la capa basal a la parte alta de la capa granular, y cuatro semanas adicionales atravesar la capa córnea.[3]​ La epidermis se renueva completamente en un periodo de aproximadamente 48 días.[6]​
+
+
+== Organogénesis ==
+La organogénesis epidérmica, es decir, la formación de la epidermis, comienza en las células que cubren el embrión tras la neurulación, la formación del sistema nervioso central. En la mayoría de los vertebrados, esta estructura monocapa original se transforma rápidamente en un tejido compuesto por dos capas: una capa exterior temporal, denominada peridermo, que degenera una vez la capa basal interior (stratum germinativum) se ha formado.[7]​
+La capa interior es un epitelio germinal que originará todas las células epidérmicas. Posteriormente se dividirá para formar la capa espinosa (stratum spinosum). Las células de ambas capas (denominadas juntas "capa de Malpigio") se dividen para formar la capa granular superficial (stratum granulosum).[7]​
+Las células de la capa granular no se dividen, en su lugar forman las células conocidas como queratinocitos, que producen la queratina. Estas células migran a la capa córnea, la parte más externa, donde se aplanan, perdiendo sus núcleos ubicados en uno de los extremos. Tras el nacimiento, estas células se reemplazan por nuevas células provenientes de la capa granular, renovándose a una velocidad de 1,5 g/día.[7]​
+El desarrollo de la epidermis se produce gracias a varios factores de crecimiento. Dos de los más importantes son:[7]​
+
+Factor de crecimiento transformante alpha (TGFα, del inglés "transforming growth factor"), un factor de crecimiento autocrino mediante el cual las células de la capa basal estimulan su propia división.
+Factor de crecimiento de los queratinocitos (KGF o FGF7, del inglés del inglés "keratinocyte growth factor" o "fibroblast growth factor 7"), un factor de crecimiento paracrino producido por los fibroblastos subyacentes en la dermis que regulan la multiplicación de las células de la capa basal.
+
+
+== Coloración ==
+La cantidad y distribución de la melanina, el pigmento presente en la epidermis, es la razón principal de la variación del color de la piel en el Homo sapiens moderno. La melanina se encuentra en los pequeños melanosomas, partículas formadas en el interior de los melanocitos, que son transferidas a los queratinocitos circundantes. El número, tamaño y organización de los melanosomas varía en los diferentes grupos raciales pero, mientras que el número de melanocitos puede variar según las diferentes partes del cuerpo, su número es constante (según la parte del cuerpo) en todos los seres humanos. Los melanosomas se encuentran agrupados y agregados siendo menor su tamaño y frecuencia en las pieles blancas y orientales que en las pieles oscuras o negras. El número de melanosomas en los queratinocitos aumenta con la exposición a radiación ultravioleta, sin embargo su distribución permanece invariable.[8]​
+
+
+== Las funciones ==
+La función de la epidermis es proteger contra el crecimiento de bacterias, hongos y los rayos UV.
+Proteger del sol, radiaciones y microorganismos del cuerpo humano, para evitar manchas en la piel y cáncer de piel, entre otras.[9]​
+
+
+== Referencias ==

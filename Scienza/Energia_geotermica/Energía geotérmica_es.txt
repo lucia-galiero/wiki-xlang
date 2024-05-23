@@ -1,0 +1,116 @@
+La energía geotérmica[2]​ es una energía renovable[3]​[4]​ que se obtiene mediante el aprovechamiento del calor del interior de la Tierra que se transmite a través de los cuerpos de roca o piedras calientes o conducción y convección, donde se suscitan procesos de interacción de agua subterránea y rocas, dando origen a los sistemas geotérmicos.
+El término «geotérmico» viene del Idioma griego|griego geo («Tierra»), y thermos («calor»); literalmente «calor de la Tierra». El interior de la Tierra está caliente y la temperatura aumenta con la profundidad. Las capas profundas están a temperaturas elevadas y, a menudo, a esa profundidad hay Capa freática|capas freáticas en las que se calienta el agua: al ascender, el agua caliente o el vapor producen manifestaciones en la superficie, como los El Tatio|géiseres o las Aguas termales|fuentes termales, utilizadas para baños desde la antigüedad.
+
+
+== Tipos de yacimientos geotérmicos ==
+
+Puede considerarse que hay cuatro tipos de yacimientos geotérmicos, que se podrían llamar:
+
+De agua caliente
+Secos
+Géiseres
+Vapor seco
+
+
+=== Yacimientos de agua caliente ===
+
+Estos yacimientos pueden formar una fuente o ser subterráneos, contenidos en un acuífero.
+Los que forman fuentes, se aprovechan desde tiempos muy antiguos como baños termales. Dependiendo de la temperatura del agua puede usarse directamente o, si es muy caliente, podrían aprovecharse enfriando el agua antes de utilizarla, pero suelen tener caudales relativamente reducidos.
+En cuanto a los subterráneos, yacimientos de aguas termales muy calientes a poca o media profundidad, sirven para aprovechar el calor del interior de la tierra. El agua caliente o el vapor pueden fluir naturalmente, por bombeo o por impulsos de flujos de agua y de vapor. El método a elegir depende del que en cada caso sea económicamente rentable.
+En la mayoría de los casos la explotación debe hacerse con dos pozos (o un número par de pozos), de modo que por uno se obtiene el agua caliente y por otro se vuelve a inyectar en el acuífero, tras haber enfriado el caudal obtenido. Las ventajas de este sistema son múltiples:
+
+Hay menos probabilidades de agotar el yacimiento térmico, puesto que el agua reinyectada contiene todavía una importante cantidad de energía térmica.
+Tampoco se agota el agua del yacimiento, puesto que la cantidad total se mantiene.
+Las posibles sales o emisiones de gases disueltos en el agua no se manifiestan al circular en circuito cerrado por las conducciones, lo que evita contaminaciones.
+Finalmente hay otros yacimientos en los que el agua sale en forma de vapor. En estos, el aprovechamiento es directo para obtener energía mecánica mediante una turbina, pero tienen el problema de que es más complicado reinyectar el agua después de condensada, y en el camino habrán difundido en la atmósfera una parte de los gases que acompañan al vapor.
+
+
+==== Clasificación según la temperatura del agua ====
+Energía geotérmica de alta temperatura. La energía geotérmica de alta temperatura existe en las zonas activas de la corteza. Esta temperatura está comprendida entre 150 y 400 °C, se produce vapor en la superficie y mediante una turbina, genera electricidad. Se requieren varias condiciones para que se dé la posibilidad de existencia de un campo geotérmico: una capa superior compuesta por una cobertura de rocas impermeables;[5]​ un acuífero, o depósito, de permeabilidad elevada, entre 0,3 y 2 km de profundidad; suelo fracturado que permite una circulación de fluidos por convección, y por lo tanto la trasferencia de calor de la fuente a la superficie, y una fuente de calor magmático, entre 3 y 15 km de profundidad, a 500-600 °C. La explotación de un campo de estas características se hace por medio de perforaciones según técnicas casi idénticas a las de la extracción del petróleo.
+Energía geotérmica de temperaturas medias. La energía geotérmica de temperaturas medias es aquella en que los fluidos de los acuíferos están a temperaturas menos elevadas, normalmente entre 70 y 150 °C. Por consiguiente, la conversión vapor-electricidad se realiza con un rendimiento menor, y debe explotarse por medio de un fluido volátil. Estas fuentes permiten explotar pequeñas centrales eléctricas, pero el mejor aprovechamiento puede hacerse mediante sistemas urbanos de reparto de calor para su uso en calefacción y en refrigeración (mediante máquinas de absorción).
+Energía geotérmica de baja temperatura. La energía geotérmica de temperaturas bajas es aprovechable en zonas más amplias que las anteriores; por ejemplo, en todas las cuencas sedimentarias. Es debida al gradiente geotérmico. Los fluidos están a temperaturas de 50 a 70 °C.
+Energía geotérmica de muy baja temperatura. La energía geotérmica de muy baja temperatura se considera cuando los fluidos se calientan a temperaturas comprendidas entre 20 y 50 °C. Esta energía se utiliza para necesidades domésticas, urbanas o agrícolas, como la climatización geotérmica (bomba de calor geotérmica).
+Las fronteras entre los diferentes tipos de energías geotérmicas es arbitraria; si se trata de producir electricidad con un rendimiento aceptable la temperatura mínima está entre 120 y 180 °C, pero las fuentes de temperatura más baja son muy apropiadas para los sistemas de calefacción urbana y rural.
+
+
+=== Yacimientos secos ===
+En este caso, hay una zona bajo la tierra, a profundidad no excesiva, con materiales o piedras calientes, en seco. Se inyecta agua por una perforación y se recupera ya caliente por otra, se aprovecha el calor, por medio de un intercambiador y se vuelve a reinyectar como en el caso anterior. 
+Un ejemplo, en Inglaterra, fue el «Proyecto de Piedras Calientes» (en inglés: Hot Dry Rocks, abreviado como HDR), abandonado después de comprobar su inviabilidad económica en 1989. Los programas HDR se están desarrollando en Australia, Francia, Suiza, Alemania. Los recursos de magma (rocas fundidas) ofrecen energía geotérmica de altísima temperatura, pero con la tecnología existente no se pueden aprovechar económicamente esas fuentes.
+
+
+== Ventajas y desventajas ==
+
+
+=== Ventajas ===
+Solo requiere un gasto inicial.
+Los residuos que produce son mínimos y ocasionan menor impacto ambiental que los originados por el petróleo y el carbón.
+Sistema de gran ahorro, tanto económico como energético.
+No genera ruidos exteriores.
+Los recursos geotérmicos son prácticamente inagotables a escala humana.[6]​[7]​[8]​[9]​
+No está sujeta a precios internacionales, sino que siempre puede mantenerse a precios nacionales o locales.
+El área de terreno requerido por las plantas geotérmicas por megavatio es menor que otro tipo de plantas. No requiere construcción de represas, ni tala de bosques.
+La emisión de CO2, con aumento del efecto invernadero, es inferior al que se emitiría para obtener la misma energía por combustión, y puede llegar a ser nula cuando se reinyecta el agua, haciéndola circular en circuito cerrado por el exterior.
+
+
+=== Desventajas ===
+En yacimientos secos se han producido a veces microsismos como resultado del enfriamiento brusco de las piedras calientes, y su consiguiente fisuración.
+Las desventajas que vienen a continuación hacen referencia exclusivamente a la energía geotérmica que no se utiliza con reinyección, y la que no es de baja entalpía doméstica (climatización geotérmica).
+
+En ciertos casos emite ácido sulfhídrico que se detecta por su olor a huevo podrido, pero que en grandes cantidades no se percibe y es letal.
+Contaminación de aguas próximas con sustancias como arsénico, amoníaco, etc.
+Contaminación térmica.
+Deterioro del paisaje.
+No se puede transportar (como energía primaria), salvo que se haga con un intercambiador y un caloportador distinto del de las aguas del acuífero.
+No está disponible más que en determinados lugares, salvo la que se emplea en la bomba de climatización geotérmica, que se puede utilizar en cualquier lugar de la Tierra.
+
+
+== Usos ==
+Generación eléctrica.
+Aprovechamiento del calor (calefacción y ACS).
+Refrigeración: por absorción y bomba de frío geotérmica.
+
+
+== Generación eléctrica ==
+
+Se produjo energía eléctrica geotérmica por primera vez en Larderello, Italia, en 1904. Desde entonces, el uso de la energía geotérmica para producir electricidad ha crecido mundialmente a cerca de 8000 MW, de los cuales Estados Unidos genera 2700 MW.
+
+
+=== Desalinización ===
+Douglas Firestone comenzó en la desalinización con el sistema evaporación / condensación con aire caliente en 1998, probando que el agua geotermal se puede usar económicamente para producir agua desalinizada, en 2001.
+En 2005 se ajustó el 5.º prototipo desalinizador “Delta T” que usa un ciclo de aire forzado caliente, presión atmosférica, ciclo geotermal de evaporación condensación. El aparato se surte de agua de mar filtrada en el Instituto Scripps de Oceanografía, reduciendo la concentración de sal de 35 000 ppm a 51 ppm a/a.[11]​
+
+
+== Extinción ==
+
+
+=== Inyección de agua ===
+En varios sitios, ha ocurrido que los depósitos de magma se agotaron, cesando de dar energía geotérmica, quizás ayudado por la inyección del agua residual fría, en la recarga del acuífero caliente.[cita requerida] O sea, que la recarga por reinyección, puede enfriar el recurso, a menos que se haga un cuidadoso manejo. En al menos una localidad, el enfriamiento fue resultado de pequeños y cortos terremotos (ver enlace externo abajo). Esto ha traído una discusión sobre si los dueños de una planta son responsables del daño que causa un temblor.
+
+
+=== Extinción del calor ===
+Así como hay yacimientos geotérmicos capaces de proporcionar energía durante muchas décadas, otros pueden agotarse y enfriarse.[12]​ En un informe, el gobierno de Islandia dice: «debe entenderse que la energía geotérmica no es estrictamente renovable en el mismo sentido que la hidráulica».
+Se estima que la energía geotérmica de Islandia podría proporcionar 1700 MW durante más de 100 años, en comparación con la producción actual de 140 MW. El problema consiste en conocer si el flujo de calor natural de la tierra es capaz de reponer la pérdida de calor en la minería de calor geotérmica.
+
+
+== Costes ==
+La energía geotérmica es más competitiva que la combustión (hidrocarburos), sobre todo en países como Islandia, Nueva Zelanda e Italia. Durante el período de precios bajos de energía en la década de 1980 hasta la reciente subida de los precios de los combustibles fósiles, petróleo y gas, pocas zonas con recursos geotérmicos en los Estados Unidos fueron capaces de generar electricidad a un coste competitivo con otras fuentes de energía.
+Salvo para las bombas de calor geotérmicas, no todas las áreas del mundo tienen un recurso geotérmico utilizable, aunque si posean. Además, algunas fuentes geotérmicas no tiene una temperatura lo suficientemente alta como para producir vapor. En esas zonas, la energía geotérmica se puede generar mediante un proceso llamado tecnología de ciclo binario, aunque la eficacia es menor. En cualquier caso, en lugar de la producción de electricidad, las zonas de más baja temperatura pueden proporcionar climatización de edificios (calefacción, refrigeración). Desde 1998, Estados Unidos cuenta con 18 sistemas de calefacción urbana, 28 granjas de acuicultura, 12 plantas industriales, 218 balnearios y 38 invernaderos que utilizan calor geotérmico.
+Otras áreas no tienen el agua para producir vapor, que es necesaria para los diseños actuales de la planta. A las áreas geotérmicas sin vapor se las denomina áreas de rocas calientes secas zonas calientes y se están investigando métodos para su explotación. Es el caso de algunas zonas de las islas Canarias (Horno-Asador de Timanfaya) y de otras partes.
+
+
+== Véase también ==
+Horno-Asador de Timanfaya
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Energía geotérmica.
+Asociación Geotérmica Internacional.
+Energía geotérmica (en inglés).
+Infografía sobre la energía geotérmica.
+Estados Unidos. Departamento de Energía. Págs. sobre la energía geotérmica.
+Art. de la Universidad de Alaska sobre energía geotérminca.
+La energía geotérmica, IDAE, Ministerio de Industria de España.
+Energía geotérmica, Instituto Geológico y Minero de España.

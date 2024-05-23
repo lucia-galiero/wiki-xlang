@@ -1,0 +1,300 @@
+Als kalte Fusion bezeichnet man Verfahren, die eine als Energiequelle nutzbare kontrollierte Kernfusion von Wasserstoff-Isotopen herbeiführen sollen und dazu keine thermonukleare Reaktion, also kein Plasma mit hoher Temperatur und Dichte, benötigen. Damit grenzt sich die kalte Fusion von den Verfahren ab, die im Kernfusionsreaktor oder bei der Trägheitsfusion genutzt werden. Ein häufig gebrauchtes Synonym für die kalte Fusion ist LENR (low energy nuclear reactions, also Kernreaktionen bei niedriger Energie).
+Erste Überlegungen zur Fusion bei niedrigen Temperaturen gab es in den 1940er Jahren in der Sowjetunion (Myonen-katalysierte Fusion). Bekannt wurde der Begriff kalte Fusion (englisch cold fusion) durch ein 1989 von den Chemikern Stanley Pons und Martin Fleischmann vorgestelltes Experiment. Sie behaupteten, eine nukleare Fusion auf elektrochemischem Weg an einer Palladium-Elektrode bei 300 K (27 °C) durchgeführt zu haben. Dies ließ kurzzeitig die Hoffnung aufkommen, dass eine neue, praktisch unerschöpfliche Möglichkeit zur Stromerzeugung und Energieversorgung gefunden worden sei. Die Labor-Ergebnisse von Pons und Fleischmann konnten jedoch nicht durch unabhängige Dritte bestätigt werden. Eine vom Energieministerium der Vereinigten Staaten eingesetzte Kommission kam zum Ergebnis, dass es sich um pathologische Wissenschaft handle. Als Konsequenz gehen die meisten Wissenschaftler davon aus, dass eine Kernreaktion mit nennenswerter Energiefreisetzung auf diese Weise nicht eingeleitet werden kann.
+Im Jahre 2023 schrieb die dem Energieministerium der Vereinigten Staaten unterstellte Forschungsbehörde ARPA-E dennoch 10 Millionen Dollar für LENR-Forschung aus.
+
+
+== Vorgeschlagene Funktionsmechanismen ==
+
+
+=== Myonen-katalysierte Fusion ===
+Überlegungen dazu stellten Ende der 1940er Jahre Frederick Charles Frank und Andrei Sacharow an, die aufgrund theoretischer Ansätze postulierten, dass Myonen die Einleitung von Fusions-Kernreaktionen in der Art eines Katalysators erleichtern könnten. Sacharow prägte 1948 dafür auch den Begriff „kalte Fusion“. Luis W. Alvarez, der 1968 mit dem Nobelpreis für Physik ausgezeichnet wurde, entdeckte 1956 auf Blasenkammer-Aufnahmen ungewöhnliche Spuren. Zusammen mit Edward Teller kam er zu dem Schluss, dass Myonen Kernfusionen ausgelöst hätten.
+Wenedikt Petrowitsch Dschelepow fand Mitte der 1960er Jahre am Kernforschungsinstitut in Dubna heraus, dass die Anzahl der durch Myonen katalysierten Fusionen in Deuterium mit steigender Temperatur zunimmt. Eine Erklärung lieferte bald darauf 1967 der damalige Student E. A. Wesman (der mit Semjon Solomonowitsch Gerschtein zusammenarbeitete) durch Resonanzen mit komplizierteren Molekülkonfigurationen (wie drei Deuteronen mit sowohl myonischer als auch elektronischer Bindung). 1975 fand Leonid Iwanowitsch Ponomarjow, der führend in der Sowjetunion an der immer genaueren Berechnung der Energieniveaus solcher mesonischer Moleküle war, einen besonders starken Resonanzeffekt in Deuterium-Tritium-Molekülen. Der Effekt konnte in Dubna 1979 durch Dschelepow bestätigt werden, was zur Wiederbelebung des Interesses an Myon-katalysierter Fusion auch im Westen beitrug (insbesondere Steven Jones in Los Alamos).
+Der Bahnradius eines Myons um einen Atomkern ist umgekehrt proportional zur reduzierten Masse des Atomkerns und des Myons. Da ein Myon im Vergleich zu einem Elektron eine wesentlich höhere Masse besitzt, liegt sein Orbital wesentlich dichter am Atomkern als bei einem Elektron. Da in die reduzierte Masse zusätzlich auch die Masse des Atomkerns eingeht, führt eine höhere Masse des Atomkerns ebenfalls zu einem dichter liegenden Orbital des gebundenen Teilchens. Trifft nun ein negativ geladenes Myon auf ein DT-Molekül (aus einem Deuterium- und einem Tritiumatom), kann es vorkommen, dass das Myon ein Elektron aus den Molekülorbitalen verdrängt und ein neues Molekülorbital bildet. Durch die enge Abschirmung der Ladung des Tritiumkerns durch das Myon werden dabei die Atomkerne rund 200-mal enger gebunden als bei dem ursprünglichen Molekül. Daher kann es vergleichsweise leicht zur Kernverschmelzung (Fusion) kommen, durch die aus dem myonischen DT-Molekül ein myonisches Helium-5-Atom entsteht. Dieses zerfällt mit einer Wahrscheinlichkeit von 99,4 % in ein Helium-4-Atom, ein Myon und ein Neutron, wobei Energie freigesetzt wird:
+
+  
+    
+      
+        
+          D
+          μ
+          T
+          
+            →
+            
+              2
+            
+            
+              4
+            
+          
+          H
+          e
+          +
+          n
+          +
+          μ
+          +
+          17
+          
+            ,
+          
+          6
+          
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle \mathrm {D\mu T\rightarrow _{2}^{4}He+n+\mu +17{,}6\,MeV} }
+  
+
+Das freigesetzte Myon kann nach dieser Reaktion die gleiche Reaktion erneut auslösen und somit einen Fusionsprozess kettenreaktionsartig am Laufen halten. Das Myon wirkt dabei ähnlich wie ein chemischer Katalysator. Mit einer Wahrscheinlichkeit von 0,6 % bleibt das Myon aber auch am Helium-4-Atom haften (engl. sticking) und steht dann für weitere Fusionsvorgänge nicht mehr zur Verfügung:
+
+  
+    
+      
+        
+          D
+          μ
+          T
+          
+            →
+            
+              2
+            
+            
+              4
+            
+          
+          H
+          e
+          μ
+          +
+          n
+          +
+          17
+          
+            ,
+          
+          6
+          
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle \mathrm {D\mu T\rightarrow _{2}^{4}He\mu +n+17{,}6\,MeV} }
+  
+
+Der gesamte Zyklus vom Myoneneinfang bis zur Fusion geschieht in etwa 10−9 s. Die kurze Lebensdauer des Myons von etwa 2,2 μs begrenzt damit die Zahl der katalysierten Einzelreaktionen prinzipiell etwa auf 2000. Danach zerfällt das Myon wieder gemäß:
+
+  
+    
+      
+        
+          μ
+          
+            −
+          
+        
+        →
+        
+          e
+          
+            −
+          
+        
+        +
+        
+          
+            
+              ν
+              ¯
+            
+          
+          
+            e
+          
+        
+        +
+        
+          ν
+          
+            μ
+          
+        
+      
+    
+    {\displaystyle \mu ^{-}\rightarrow e^{-}+{\overline {\nu }}_{e}+\nu _{\mu }}
+  
+
+Für die Herstellung eines Myons mit einem Teilchenbeschleuniger werden rund 3 GeV benötigt. Eine Netto-Energiegewinnung durch den Einschuss der erzeugten Myonen in ein Deuterium-Tritium-Gasgemisch erschien zunächst möglich. Dass dies trotzdem nicht der Fall ist, liegt an dem oben beschriebenen zweiten Folgeprozess, bei dem das Myon haften bleibt und damit keine weiteren Fusionsreaktionen katalysieren kann. Aufgrund des zweiten Prozesses reduziert sich gemäß den Gesetzen der Wahrscheinlichkeitsrechnung die durchschnittliche Anzahl der katalysierten Fusionen auf 
+  
+    
+      
+        N
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            2000
+          
+        
+        (
+        0,994
+        
+          )
+          
+            k
+          
+        
+      
+    
+    {\displaystyle N=\sum _{k=0}^{2000}(0{,}994)^{k}}
+  
+. Das Ergebnis dieser geometrischen Reihe ist 
+  
+    
+      
+        
+          
+            
+              
+                1
+                −
+                
+                  0,994
+                  
+                    2001
+                  
+                
+              
+              
+                1
+                −
+                0,994
+              
+            
+          
+        
+        ≈
+        
+          
+            
+              1
+              
+                1
+                −
+                0,994
+              
+            
+          
+        
+        ≈
+        166
+        
+          ,
+        
+        7
+      
+    
+    {\displaystyle {\tfrac {1-0{,}994^{2001}}{1-0{,}994}}\approx {\tfrac {1}{1-0{,}994}}\approx 166{,}7}
+  
+. Bei dieser geringeren Anzahl an Fusionen werden nur mehr 2,9 GeV Fusionsenergie erzeugt, also weniger, als zur Herstellung eines neuen Myons nötig ist. Daher lässt sich mit diesem Prozess im statistischen Mittel keine Nutzenergie gewinnen, insbesondere wenn die zusätzliche elektrische Energie berücksichtigt wird, die zur Herstellung und zum Grundbetrieb des Teilchenbeschleunigers erforderlich ist.
+
+
+=== Metall-katalytische Fusion ===
+Palladium besitzt die höchste Absorptionsfähigkeit aller Elemente für Wasserstoff; es kann bei Raumtemperatur das 900-Fache seines eigenen Volumens binden. Zudem hat Palladium katalytische Eigenschaften. Viele Versuche zur kalten Fusion nutzen daher Palladium.
+
+
+==== Paneth (1926) ====
+Der erste Bericht zur Umwandlung von Wasserstoff in Helium in Verbindung mit Palladium stammt aus dem Jahr 1926 von Fritz Paneth. Bei der Erwärmung von mit Wasserstoff behandelten Palladiumpräparaten stellte er eine nicht zu erklärende Menge an Helium fest. Im darauf folgenden Jahr hatte man jedoch einige Fehlerquellen erkannt. Ein Beispiel ist die bei erhöhter Temperatur bessere Durchlässigkeit von Glas für Helium. In einer Veröffentlichung von 1927 deutete Paneth zusammen mit weiteren Autoren das Helium daher als Folge dieser Ursachen.
+
+
+==== „Kalte Fusion“ nach Fleischmann und Pons ====
+
+Der Begriff „kalte Fusion“ wurde durch einen zunächst als Erfolg berichteten Versuch von Fleischmann und Pons bekannt. Am 23. März 1989 berichteten Martin Fleischmann und Stanley Pons im Rahmen einer Pressekonferenz von Experimenten, bei denen sie kalte Fusion beobachtet hätten. Diese Berichte wurden als Sensation aufgenommen, denn danach wäre auf einfache Weise Energie aus schwerem Wasser freizusetzen. Für kurze Zeit gab es in der Fachwelt die Hoffnung, dass dies als praktisch unerschöpfliche Energiequelle großtechnisch nutzbar gemacht werden könnte.
+Bei diesem Experiment soll die Verschmelzung der Wasserstoff-Isotope Protium, Deuterium und Tritium während der Elektrolyse eines Elektrolyten an der Oberfläche einer Palladium-Kathode stattgefunden haben. Als Hinweise auf eine kalte Fusion gelten der Nachweis der dabei entstehenden Helium-Atome, Tritium und Neutronen- oder Gammastrahlen (bestimmter Energie bzw. Frequenz) sowie der Nachweis einer Überschuss-Wärmeproduktion, die nicht durch chemische Prozesse erklärt werden kann.
+Schon am 1. Mai 1989 wiesen die Physiker Steven Koonin, Nathan Lewis, und Charles Barnes vom Caltech auf einer Sitzung der amerikanischen physikalischen Gesellschaft Fehler der Fleischmann-Pons-Experimente nach und widerlegten deren Ergebnisse. Auch anderen Laboratorien gelang es nicht, die Fleischmann-Pons-Ergebnisse zu bestätigen, auch nicht mit um Größenordnungen empfindlicheren Messapparaturen. Fleischmann und Pons selbst konnten ihre Ergebnisse vor Zeugen nicht wiederholen.
+Inzwischen hatten weltweite Forschungen eingesetzt. So wurde z. B. im Juli 1989 von einer indischen Forschergruppe des BARC (P. K. Iyengar und M. Srinivasan) und im Oktober 1989 von einer US-amerikanischen Gruppe (Bockris et al.) über die Entstehung von Tritium berichtet. Im Dezember 1990 berichtete Richard Oriani von der Universität Minnesota über Überschusswärme bei Versuchen zur kalten Fusion.
+Die amerikanische Regierung setzte eine Kommission des Energieministeriums (DOE) ein, um die möglichen Auswirkungen auf die nationale Energieversorgung untersuchen zu lassen. Die Kommission des DOE kam im November 1989 zum Schluss, dass „die gegenwärtigen Hinweise auf die Entdeckung eines neuen kernphysikalischen Prozesses, genannt ‚kalte Fusion‘, nicht überzeugend seien“.
+Über die innerhalb von wenigen Monaten zunächst aufgebaute Euphorie mit anschließender Enttäuschung wurde in den allgemeinen Medien breit berichtet.
+Eine erneute Veröffentlichung von Fleischmann trug dazu bei, dass sich das DOE in den Jahren nach 2003 nochmals der Sache annahm. Trotz der seit 1989 weiter fortgeschrittenen Technik der kalorimetrischen Messung und den durchgeführten Folgeexperimenten kommt das DOE zum gleichen Ergebnis wie 1989 und rät von einer gezielten Förderung der Erforschung der beschriebenen Effekte zur Entwicklung einer alternativen Energiequelle ab.
+
+
+=== Forschungsarbeiten ===
+Weltweit führen einige Forschergruppen bis heute wissenschaftliche Untersuchungen in dem Themenbereich „kalte Fusion“ bzw. LENR durch, zum Teil auch mit neuen Ansätzen.
+Journalisten bereiten das Thema gelegentlich auf oder berichten über Wissenschaftler, die Potenzial in der kalten Fusion sehen. Die Amerikanische Physikalische Gesellschaft lässt regelmäßig Symposia zu LENR zu; die Amerikanische Chemische Gesellschaft tat dies nach 1989 im Jahre 2007 erstmals wieder. Im März 2012 wurde auf einer Konferenz der American Nuclear Society (ANS) über LENR berichtet. Es erscheinen auch begutachtete Fachartikel zum Thema. Die US-Militärbehörde SPAWAR (Space and Naval Warfare Systems Command) fördert seit 1989 LENR-Experimente. Mehrfach dankten verschiedene Autoren der SPAWAR für ihre Unterstützung. Daneben beschäftigen sich die ENEA und das SRI International mit dem Thema LENR.
+Die Universität von Missouri erhielt 2012 von einer privaten Stiftung Forschungsgelder in Höhe von 5,5 Millionen USD, um die Entstehung überschüssiger Wärme bei Wechselwirkungen zwischen Wasserstoff und Palladium, Nickel oder Platin zu erforschen.
+Die Universität Göteborg forscht unter der Leitung von Leif Holmlid an Laser-induzierten Myonen-katalysierten Fusionsreaktionen in hochdichtem Deuterium (Rydberg-Zustand). Im Jahr 2015 berichtete Holmlid in mehreren Arbeiten über Beobachtungen emittierter schwerer, neutraler Teilchen mit Energien über 10 MeV u−1.
+Das Wissenschaftsjournal Nature veröffentlichte Ende Mai 2019 einen Bericht einer von Google zusammengestellten und finanzierten Forschergruppe. Die Forscher konnten keine Anhaltspunkte für kalte Fusion finden. Da sie einige der als am günstigsten für die Fusion geltenden Bedingungen nicht erreicht haben, plädieren sie dennoch für weitere Untersuchungen.
+
+
+=== Sonofusion ===
+
+Der US-Wissenschaftler Rusi P. Taleyarkhan vom Oak Ridge National Laboratory berichtete im März 2002 im Magazin Science über die Möglichkeit, mit durch Schallwellen ausgelöster Kavitation eine kontrollierte Fusion herbeizuführen. Bei diesem Sonofusion oder auch Bläschenfusion genannten Vorgang sollen hohe Temperaturen, Drücke, Strahlungs- und Neutronendichten entstehen, die eine Kernfusion ermöglichen.
+Eine auf Betreiben der US-Marine eingerichtete Kommission von fünf Universitäten kam zu dem Ergebnis, dass Experimente einer anderen Gruppe, die die Ergebnisse zu bestätigen schienen, gefälscht waren. Im August 2008 wurde Taleyarkhan von der Purdue University wegen unwissenschaftlichen Verhaltens (scientific misconduct) die Professur entzogen. Er blieb zwar weiterhin Mitglied der Fakultät, jedoch unter der Bezeichnung special graduate faculty und ohne das Recht, Doktoranden zu betreuen. Die Affäre wurde unter dem Namen bubblegate bekannt.
+In Deutschland wurde die Sonofusion von Günter Lohnert, Universität Stuttgart, propagiert; Lohnert, der sich auch mit Kugelhaufenreaktoren beschäftigt, bezeichnete die Sonofusion schon 2005 als bewiesen. Lohnert hat zudem als Herausgeber der Zeitschrift Nuclear Engineering and Design (NED) nach nur kurzer Prüfung, ohne andere Gutachter hinzuzuziehen, die vorgenannte, mittlerweile als gefälscht bewertete Arbeit, welche die Sonofusion zu bestätigen schien, akzeptiert. Er gab während des US-Untersuchungsverfahrens zur Sonofusion Taleyarkhan 2007 und 2008 die Möglichkeit, seinen Standpunkt in NED darzulegen. Lohnert wurde 2009 als aktiver Herausgeber von NED abgelöst.
+
+
+=== Nickel-Wasserstoff-Reaktion ===
+Anfang 2011 behauptete der italienische Unternehmer Andrea Rossi zusammen mit dem Physiker Sergio Focardi (1932–2013), dass er Nickel und Wasserstoff zu Kupfer verschmelzen und damit eine sich über längere Zeit selbst aufrechterhaltende exotherme Reaktion in einem als „E-Cat“ bezeichneten Gerät erzeugen könne. Die internationale Patentanmeldung des Geräts wurde vom Europäischen Patentamt als nicht patentierbar abgelehnt, da die Funktionsweise den allgemein anerkannten Gesetzen der Physik widerspräche, daneben wurde der Anmeldung auch die nötige Erfindungshöhe (inventive step) abgesprochen. Unabhängige Bestätigungen des Experiments liegen bisher nicht vor. Die bei solchen Fusionsreaktionen eigentlich zu erwartende Gammastrahlung wurde nicht beobachtet. Eine gründliche Untersuchung des Geräts erlaubt Rossi nicht. Mehrere Gutachter sahen daher von einer abschließenden Beurteilung ab. Der LENR-Blogger Krivit hat Belege dafür zusammengetragen, dass Rossi systematisch das Gerät manipuliert, um den Eindruck einer nennenswerten Energieproduktion zu erwecken.
+Die für den Herbst 2011 in Griechenland angekündigte Präsentation eines funktionsfähigen Reaktors wurde abgesagt; ein seit Jahren angekündigter kommerzieller 1-MW-Reaktor befand sich nach Rossi-nahen Quellen auch im September 2015 noch immer erst im Testbetrieb.
+Nachdem die US-amerikanische Firma Industrial Heat von Rossi eine Lizenz für den Verkauf E-Cat-basierter Produkte gekauft hatte, entzündete sich ein Rechtsstreit. Medienberichten zufolge forderte Rossi ausstehende Zahlungen in Höhe von 100 Millionen Dollar, wohingegen Industrial Heat den E-Cat für nicht funktionsfähig erklärte.
+
+
+== Funktionierende Verfahren ==
+
+
+=== Pyrofusion ===
+
+Naranjo, Gimzewski und Putterman von der Universität von Kalifornien veröffentlichten in Nature im Jahr 2005 eine Arbeit über pyroelektrisch induzierte Kernverschmelzungen. Sie stellen darin eine vergleichsweise kleine Apparatur „auf dem Labortisch“ vor, die Verschmelzungen von Deuteriumkernen ermöglicht. Um Deuteriumatome zu ionisieren und anschließend auf die für die Fusion benötigte Geschwindigkeit zu beschleunigen, benutzten die Forscher einen pyroelektrischen Kristall als Spannungsquelle – daher der Begriff Pyrofusion. Das Deuterium wird durch das starke elektrische Feld an einer Wolframspitze ionisiert und die Ionen beschleunigt. Der erzeugte Neutronenfluss lag beim 400-Fachen der natürlichen Neutronenstrahlung. Als Quelle der Neutronen vermuten die Experimentatoren die Fusion zweier Deuteriumkerne zu Helium, wobei ein freies Neutron entsteht:
+
+D + D → 3He (820 keV) + n (2,45 MeV)
+Eine höhere Fusionsrate und damit höhere Neutronenfreisetzung ist durch den Beschuss von Tritium mit Deuteriumionen zu erwarten:
+
+D + T → 4He (3,518 MeV) + n (14,07 MeV)
+Diese Möglichkeit wurde 2010 durch Naranjo, Puttermann und Venhaus publiziert. 
+Wegen der prinzipbedingt auf geringe Teilchenströme begrenzten Leistung besteht weder bei Verwendung von Deuterium noch von Tritium als Target die Möglichkeit, auf diese Weise Energie für praktische Zwecke freizusetzen. Als Neutronenquelle, etwa für Analysezwecke, sind beide Konfigurationen jedoch geeignet.
+
+
+== Literarische und filmische Verarbeitung ==
+Der Roman Die Kalte Fusion von Johannes Schmidl spielt mit der Möglichkeit eines geglückten Experiments nach dem Muster der Sonofusion.
+Im Film Außer Kontrolle von Andrew Davis wird die Sonofusionsidee filmisch umgesetzt.
+Im Film The Saint – Der Mann ohne Namen referiert eine Forscherin über die kalte Fusion.
+Die Fusion mittels Palladium wird in dem Thriller Die Quelle von Uwe Schomburg beschrieben.
+Am Ende der Fernsehserie Fallout gelingt es Kalte Fusion zu nutzen.
+
+
+== Literatur ==
+Bücher
+
+John R. Huizenga: Cold Fusion. The Scientific Fiasco of the Century. Oxford University Press, Oxford 1993, ISBN 0-19-855817-1.
+John R. Huizenga: Kalte Kernfusion. Das Wunder, das nie stattfand. Vieweg+Teubner, Braunschweig 1994, ISBN 3-528-06614-8. 
+Frank Close: Too hot to handle – the race for cold fusion. Princeton University Press, Princeton 1991, ISBN 0-691-08591-9.
+Frank Close: Das heiße Rennen um die kalte Fusion. Birkhäuser, Basel 1992, ISBN 3-7643-2631-X.
+Zeitschriftenaufsätze
+
+Johann Rafelski, Steven E. Jones: Myon-katalysierte kalte Kernfusion. In: Spektrum der Wissenschaft. Nr. 9, ISSN 0170-2971, 1987, S. 124–130.
+A. Kendl: Zehn Jahre danach. Was blieb von der „Kalten Kernfusion“? In: Skeptiker. 12, ISSN 0936-9244, 1999, 1–2, S. 32.
+H. Dittmar-Ilgen: Neues zur Sonolumineszenz und Pyrofusion. In: Naturwissenschaftliche Rundschau. Nr. 9 ISSN 0028-1050, 2006, S. 484.
+
+
+== Weblinks ==
+Fusion durch Feldionisation (Pyroelektrische Fusion). In: pro-physik.de
+Bericht des DOE von 1989 über „Cold Fusion“
+Bruce Lewenstein, Cornell Cold Fusion Archive
+Cold Fusion Reviews 2004 und 1989 des DOE mit Reaktionen der Cold Fusion-Forscher
+Physics Today Januar 2005 zum DOE Report 2004
+www.lenr-canr.org – Website zu Förderung kalter Fusion.
+Das heisse Eisen der kalten Fusion
+
+
+== Einzelnachweise ==

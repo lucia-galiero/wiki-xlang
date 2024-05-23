@@ -1,0 +1,117 @@
+En el campo de la geología, se denomina falla a una fractura, generalmente plana, en el terreno a lo largo de la cual se han deslizado los dos bloques el uno respecto al otro.
+Las fallas se producen por esfuerzos tectónicos, incluida la gravedad y empujes horizontales, actuantes en la corteza. La zona de ruptura tiene una superficie ampliamente bien definida denominada plano de falla, aunque puede hablarse de banda de falla cuando la fractura y la deformación asociada tienen una cierta anchura.[1]​
+Cuando las fallas alcanzan una profundidad en la que se sobrepasa el dominio de deformación frágil se transforman en bandas de cizalla, su equivalente en el dominio dúctil. El fallamiento (o formación de fallas) es uno de los procesos geológicos importantes durante la formación de montañas. Asimismo, los bordes de las placas tectónicas están formados por fallas de hasta miles de kilómetros de longitud.
+
+
+== Elementos de una falla ==
+
+Plano de falla: Plano o superficie a lo largo de la cual se desplazan los bloques que se separan en la falla. Este plano puede tener cualquier orientación (vertical, horizontal, o inclinado). La orientación se describe en función del rumbo (ángulo entre el rumbo Norte y la línea de intersección del plano de falla con un plano horizontal) y el buzamiento o manteo (ángulo entre el plano horizontal y la línea de intersección del plano de falla con el plano vertical perpendicular al rumbo de la falla). En general los planos de falla suelen ser curvos. El plano de falla puede pulirse por fricción, dando lugar a los denominados «espejos de falla».[2]​ Se denomina 'banda de falla' cuando la zona de deformación tiene una cierta anchura.[1]​ En lugar de banda de falla se usa también zona de falla (traducción del inglés fault zone) lo que produce confusión porque zona de falla(s) se usa también como sinónimo de sistema de fallas.
+Bloques o labios de falla: Son las dos porciones de roca separadas por el plano de falla. Cuando el plano de falla es inclinado, el bloque que se haya por encima del plano de falla se denomina 'bloque colgante' o 'levantado' y al que se encuentra por debajo, 'bloque yaciente' o 'hundido'.
+Salto o desplazamiento: Es la distancia neta y dirección en que se ha movido un bloque respecto del otro.[2]​
+Estrías de falla: Son irregularidades rectilíneas que pueden aparecer en algunos planos de falla. Indican la dirección de movimiento de la falla.
+Gancho de falla: en algunos casos se produce un pliegue de arrastre en uno o en los dos labios de la falla, cuya orientación será diferente según la falla sea normal o inversa e indicará el sentido del desplazamiento relativo.[2]​
+
+
+== Clasificación geométrica de fallas ==
+
+Desde el punto de vista del desplazamiento relativo de los bloques implicados, las fallas se clasifican en:[1]​[2]​[3]​
+
+Falla normal, directa o de gravedad:[4]​ cuando el bloque colgante o de techo se desplaza hacia abajo respecto al bloque yaciente o de muro. El plano de falla es inclinado.
+Falla inversa: cuando el bloque colgante se mueve hacia arriba respecto del yaciente. Se denominan cabalgamientos a las fallas inversas de bajo ángulo de buzamiento. El plano de falla es inclinado.
+Falla de rumbo, en dirección, direccional, transcurrente o de desgarre: cuando el desplazamiento es horizontal y paralelo al rumbo de la falla. Pueden ser, según el sentido de movimiento de los bloques (referenciado a la posición de un observador situado sobre uno de los bloques), sinistral o direccional izquierda, cuando el bloque opuesto al que ocupa el observador se mueve a la izquierda, y dextral o direccional derecha, cuando el bloque se mueve a la derecha. El plano de falla puede ser inclinado o vertical. Un tipo particular de fallas en dirección son las fallas transformantes, que desplazan segmentos de bordes constructivos de placas y el plano de falla suele ser vertical.
+Falla oblicua o mixta: cuando el desplazamiento es oblicuo tanto al rumbo como a la dirección de buzamiento. Se describen simplemente como una combinación de la terminología de las anteriores, resultando cuatro casos posibles: sinistral inversa, sinistral normal, dextral inversa y dextral normal.
+Falla rotacional: cuando ha habido un componente de rotación en el desplazamiento relativo entre los dos bloques separados por la falla. A su vez se pueden dividir en:[3]​
+Falla en tijera: cuando el eje de rotación es perpendicular al plano de falla.
+Falla cilíndrica: cuando el eje de rotación es paralelo al plano de falla. El plano de falla suele ser curvo.
+Falla cónica: cuando el eje de rotación es oblicuo al plano de falla. El plano de falla suele ser curvo.
+
+
+== Asociaciones de fallas y estructuras tectónicas ==
+
+Las estructuras vinculadas con las fallas dependen del tipo de régimen tectónico regional en el que se han formado. Sin embargo, hay algunas formas y términos comunes a todas ellas: es frecuente que las fallas varíen de buzamiento en su recorrido, mostrando zonas relativamente horizontales, rellanos, alternando con zonas más inclinadas, rampas. Los bloques delimitados entre rampas de fallas se denominan escamas tectónicas o horses y el apilamiento de estas escamas se denomina dúplex.[1]​
+
+
+=== En regiones de extensión tectónica ===
+
+En un régimen de extensión limitado y en condiciones de deformación frágil se desarrollan sistemas de fallas normales escalonadas, más o menos paralelas, que forman zonas hundidas, denominadas Grabens o fosas tectónicas, que pueden alternarse con zonas elevadas, denominadas Horst o pilares tectónicos.[1]​
+Si la extensión es amplia las fallas suelen horizontalizarse en profundidad (fallas lístricas). En el desarrollo de la extensión se pueden formar sistemas de fallas con rampas y rellanos que van sucediéndose y reemplazándose, delimitando escamas que pueden agruparse en dúplex extensionales.[1]​
+
+A escala cortical, las fallas extensionales que se desarrollan en superficie con un comportamiento frágil, pasan en profundidad al dominio dúctil, produciendo bandas miloníticas en la zona de despegue. En los casos en los que el estiramiento es importante, se puede producir el adelgazamiento de la corteza —un proceso denominado denudación tectónica—, y por reajuste isostático pueden elevarse rocas profundas hasta la superficie.[1]​
+
+
+=== En regiones de compresión tectónica ===
+
+Las formas más comunes asociadas a la compresión son producidas por fallas inversas: cabalgamientos y mantos de corrimiento, típicos de las zonas externas de los orógenos de colisión, en lo que se denomina «cinturón de cabalgamientos» y se corresponde con el estilo tectónico de piel fina.[1]​
+En algunas regiones afectadas por compresión, con cabalgamientos con despegues en la base de la corteza superior o más profundos (estilo tectónico de piel gruesa), se pueden producir elevaciones de tipo pop-up y depresiones de tipo pop-down (depresiones entre dos cabalgamientos de vergencia contraria), ambos limitados por fallas inversas —en lo que se diferencian de horst y grabens, limitados por fallas normales—. Este modelo de pops-up y pops-down se aplica por ejemplo al Sistema Central español.[5]​
+A escala cortical puede darse la imbricación y apilamiento de fragmentos de corteza continental, como en el caso de la cordillera del Himalaya, en la que extensos bloques corticales, delimitados por grandes fallas, cabalgan unos sobre otros.[2]​
+
+
+=== En zonas de tectónica transcurrente ===
+
+En las grandes fallas de desgarre, cuyo componente de desplazamiento es principalmente horizontal, pueden delimitarse áreas de compresión o extensión locales que producen movimientos de elevación o hundimiento. El relevo o puente entre dos fallas próximas o la curvatura local de una falla en dirección produce una zona en que la dirección local de la fracturación es oblicua o perpendicular a la dirección de desplazamiento principal, formándose escamas y dúplex asociados.[1]​
+Según sea el relevo o giro de las fallas, a derecha o izquierda, y según sea el desplazamiento horizontal de las mismas, dextral o sinestral, la zona de enlace entre ambas tendrá un comportamiento compresivo o distensivo de las escamas y dúplex que se hubieran formado, desarrollándose elevaciones en abanico, tipo push-up, o depresiones tectónicas de tipo pull-apart.[1]​
+
+
+== Fallas gravitacionales ==
+
+Son las que se producen exclusivamente por efecto de la gravedad, no por la actuación de esfuerzos tectónicos. Pueden darse en distintos contextos geológicos:[1]​
+
+En las dorsales mediooceánicas, donde delimitan el rift mediooceánico.
+En terrenos kársticos, por la disolución del sustrato o colapso de cavidades.
+En regiones volcánicas, por colapso de cámaras magmáticas o deslizamiento de edificios volcánicos inestables.
+En taludes o laderas de fuerte pendiente.
+
+
+== Rocas de falla ==
+
+En muchos casos la fricción en el plano de falla produce la trituración o deformación de las rocas que lo conforman. La banda de deformación puede alcanzar varias decenas de metros de espesor. Dependiendo de las condiciones de formación pueden ser de distintos tipos, entre los que existe una gradación continua:[1]​
+
+En condiciones de deformación frágil se producen las brechas de falla, cuando los fragmentos (clastos) se ven a simple vista, o las harinas de falla, cuando los clastos son microscópicos.
+En condiciones más profundas y con mayor temperatura, se forman cataclasitas, que son rocas con una mayor cementación que las anteriores. Si la fricción de la falla aumenta la temperatura, hasta el punto de fusión de alguno de los componentes más finos de la roca, pueden producirse pseudotaquilitas, rocas oscuras de textura vítrea.
+Cuando la deformación se produce en el dominio dúctil o frágil-dúctil, en condiciones de metamorfismo, se producen las milonitas y ultramilonitas, que definen las bandas de cizalla, con un característico bandeado de la roca.
+
+
+== Rasgos morfológicos de fallas en la superficie terrestre ==
+
+Las siguientes características suelen ser útiles para identificar fallas en el terreno:
+
+Escarpe de falla: es el rasgo morfológico producido en la superficie terrestre debido al desplazamiento de una falla.[6]​ Constituyen morfologías rectilíneas a través de las cuales la topografía varía abruptamente. Se pueden distinguir tres tipos principales:[7]​
+Escarpe de falla primitivo u original: cuando el escarpe es reciente o aún no ha sido desmantelado por la erosión.
+Escarpe de línea de falla o derivado: cuando los bloques implicados han sido erosionados y no se conserva el salto de falla original o incluso se ha invertido el relieve por erosión diferencial.
+Escarpe de falla compuesto cuando la falla se ha reactivado y los bloques implicados han sufrido erosión diferencial.
+Facetas triangulares o trapezoidales: son formas asociadas a escarpes de línea de falla o escarpes compuestos debidas a la erosión, por la intersección de cárcavas o valles perpendiculares al plano rectilíneo de un escarpe de falla y orientados hacia el bloque hundido.[7]​
+
+
+== Fallas activas e inactivas ==
+
+Se considera que una falla es activa cuando se ha movido una o más veces en los últimos 10 000 años.[8]​ Las fallas activas se reconocen por los terremotos asociados, y en algunos casos se hacen evidentes al manifestarse con rupturas en superficie. Las fallas activas pueden ser sísmicas o asísmicas. En el primer caso el desplazamiento a lo largo de segmentos del plano de falla se produce de forma esporádica, debido a la aplicación de esfuerzos tectónicos en las inmediaciones de la falla, que produce la deformación elástica de las rocas en ese entorno. Cuando la resistencia al corte de las rocas es superada por la magnitud de los esfuerzos, se produce la ruptura y desplazamiento a lo largo de la falla. El desplazamiento repentino da lugar a un sismo. Luego de un sismo se suceden periodos de menor o nula actividad, en que las rocas comienzan a acumular esfuerzos nuevamente.
+Las fallas asísmicas, por otro lado, se dan cuando los esfuerzos son liberados de forma permanente por procesos como el reptaje (creep), o mediante pequeñas rupturas sucesivas que ocasionan sismos de muy baja magnitud y poco espaciados en el tiempo.
+Cuando se analiza el desplazamiento de las fallas en el tiempo geológico (miles a millones de años), independientemente de si las fallas son sísmicas o asísmicas, ambos tipos se desplazan a velocidades promedio de unos cuantos milímetros a unos cuantos centímetros por año. 
+Un ejemplo es el sistema de fallas de San Andrés en el sur y centro de California en EUA, el cual ha generado los terremotos de San Francisco (M=7,8, en la escala de Richter) en 1906, Los Ángeles (M=6,7) en 1994 y recientemente Hector Mine (M=7,1) en 1999 y San Luis Obispo (M=6,6) en 2003. Las fallas de la parte central del sistema San Andrés, por otra parte, se deslizan asísmicamente. 
+Las fallas inactivas son aquellas originadas en el pasado geológico, y que no han manifestado actividad reciente. No representan ningún peligro sísmico para poblaciones cercanas.
+
+
+== Fallas notables ==
+Falla de Altyn Tagh
+Falla de San Andrés
+Falla de San Ramón
+Falla del Norte de Anatolia
+Falla de Motagua
+Falla Fagnano-Magallanes
+Falla Albertino
+
+
+== Véase también ==
+Diaclasa
+Filón (geología)
+Hidrogeología de fallas geológicas
+Resistencia de materiales
+Tectónica de placas
+Tensión de rotura
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Falla.

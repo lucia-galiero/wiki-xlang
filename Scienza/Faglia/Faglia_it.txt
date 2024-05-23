@@ -1,0 +1,78 @@
+La faglia è una frattura (planare o non planare) avvenuta entro un volume di roccia della crosta terrestre che mostra evidenze di movimento relativo tra le due masse rocciose da essa divise. La superficie lungo cui si è verificata la frattura si chiama "superficie di faglia" oppure "piano di faglia", o anche "specchio di faglia". Le rocce in prossimità di una faglia risultano spesso intensamente frantumate e si parla in questo caso di "rocce di faglia" quali le cataclasiti o le miloniti. L'energia rilasciata dopo il movimento lungo il piano di faglia è la causa della maggior parte dei terremoti.
+Esistono diversi tipi di faglie dirette, inverse, trascorrenti anche dette parallele o trasversali.
+
+
+== Le faglie ==
+
+
+=== Formazione ===
+
+I corpi rocciosi sono sottoposti a tensioni direttamente o indirettamente causate da attività tettonica, quasi sempre indotta a grande scala dal movimento delle placche litosferiche. Dal punto di vista reologico, in prima approssimazione le rocce reagiscono a condizioni di stress comportandosi in maniera fragile oppure in maniera duttile. Nel primo caso si ha la formazione di una faglia; nel secondo di una piega.
+Di solito il comportamento fragile si ha in condizioni di bassa temperatura e pressione, quindi a profondità minori, mentre il comportamento duttile delle rocce è caratteristico di zone con temperature e pressioni alte, condizioni che si trovano quindi a profondità maggiori.
+Comportamenti di tipo fragile e duttile, spesso associati, dipendono anche dalla velocità dell'applicazione dello stress tettonico e dalla presenza di fluidi quali l'acqua all'interno della porzione di crosta terrestre interessata; questi ultimi favoriscono un comportamento duttile.
+Le rocce che si comportano fragilmente, se sottoposte a uno sforzo eccessivo, si deformano superando il campo elastico fino ad arrivare a un "punto di rottura" (comportamento fragile). Le due parti di roccia che così vengono a separarsi determinano la dislocazione e, riacquistando molto velocemente il proprio volume originario, generano una serie di onde che danno origine ai terremoti (teoria della reazione elastica).
+La faglia deve presentare evidenti segni di movimento relativo, cosa che la distingue, ad esempio, dalle diaclasi.
+Il processo di formazione e sviluppo della faglia, nonché dei terremoti stessi, è genericamente noto come fagliazione.
+Il comportamento di una faglia può essere studiato con tecniche di analisi proprie della meccanica della frattura.
+
+
+=== Tipi di faglie a movimento semplice ===
+
+Il piano di faglia può formare, rispetto al piano orizzontale, angoli variabili da 0° (sovrascorrimenti) a 90° (faglie trascorrenti).
+Spesso in natura è possibile rilevare faglie con movimenti complessi risultanti da uno spostamento sia verticale che orizzontale. La componente verticale e orizzontale della dislocazione, ricavabile ad esempio da marcatori stratigrafici, è detta rigetto (rispettivamente verticale e orizzontale).
+Per la classificazione delle faglie dirette e inverse è utile definire il concetto di tetto e di letto o muro. Il primo è la massa rocciosa sovrastante il piano di faglia, il secondo quella sottostante al piano stesso.
+
+Faglie trascorrenti (o trasformi): una faglia si dice trascorrente se il piano è verticale o obliquo con spostamento orizzontale relativo delle masse rocciose. Tali faglie sono distinte in destre o sinistre; il senso è determinabile ponendosi sulla linea di faglia e osservando il senso della dislocazione del blocco roccioso che si ha di fronte. Un esempio di questo tipo di faglia è la famosissima faglia di Sant'Andrea.
+Faglie dirette o normali: una faglia si dice diretta quando il tetto scende rispetto al muro. In questo caso il settore di crosta terrestre è interessato da un regime tettonico distensivo o divergente (ad esempio in occasione dell'apertura di un rift). Solitamente tali faglie presentano un piano avente inclinazione elevata, attorno ai 60°.
+Faglie inverse: una faglia si dice inversa se il tetto sale rispetto al muro. In questo caso il settore di crosta risulta raccorciato a causa di un campo di stress tettonico compressivo. Gli angoli del piano di faglia sono piuttosto bassi (attorno ai 30°). Nel caso di angoli molto bassi o nulli si parla di sovrascorrimenti.
+Le faglie trasformi descritte nelle zone dorsali dalla tettonica delle placche sono solo apparentemente simili alle faglie trascorrenti; in realtà il loro senso è opposto a quello che appare osservando semplicemente lo spostamento dei vari settori di dorsale.
+Se un sisma si verifica su una faglia non nota, ovvero che non raggiunge la superficie, si parla di faglia cieca.
+
+
+=== Tipi di faglie a movimento complesso ===
+Faglie transpressive: faglie che presentano un moto complesso con componente sia orizzontale sia trascorrente, sia verticale sia compressiva, determinate da un regime tettonico locale di tipo compressivo.
+Faglie transtensive: faglie che presentano un moto complesso con componente sia orizzontale sia trascorrente sia verticale sia distensiva, determinate da un regime tettonico locale di tipo distensivo.
+Queste deformazioni spesso creano particolari strutture tettoniche chiamate "strutture a fiore".
+
+
+=== Sistemi di faglie ===
+
+Le faglie sono raramente isolate: di solito sono associate in sistemi o famiglie che i geologi rilevano in base a immersione del piano, regime tettonico che le ha generate, direzione di sviluppo, ecc.
+Quando sono così numerose, le faglie possono essere tutte parallele tra loro, oppure disposte in modo da formare tra loro determinati angoli, argomento che interessa ad esempio la geologia applicata nelle indagini sulla stabilità dei versanti rocciosi.
+Una tipica associazione di faglie dirette, presente ad esempio in Sardegna, nel Campidano, è quella che determina una fossa tettonica anche conosciuta nella letteratura scientifica tedesca come Graben: due sistemi paralleli di faglie dirette, aventi immersione opposta, provocano l'abbassamento della sezione di crosta tra essi interposta (fossa) rispetto alle due parti laterali.
+Se due o più fosse tettoniche si fiancheggiano, i settori che le separano, rimasti relativamente sollevati, prendono il nome di pilastri tettonici o Horst. Alle fosse tettoniche corrispondono vere depressioni morfologiche che vengono chiamate rift valleys. La più celebre struttura di questo tipo è la Great Rift Valley dell'Africa Orientale, nella regione dei Grandi Laghi.
+
+
+=== Faglie e attività sismica ===
+L'individuazione di faglie attive definisce la pericolosità sismica di una regione. Le zone sismogenetiche sono caratterizzate da lineamenti tettonici il cui movimento determina rilasci di quantità di energia che si propaga sotto forma di onde sismiche. Per un'area sismogenetica, la catalogazione dei terremoti storici risulta essere fondamentale al fine di determinare, su basi probabilistiche, la gravità dei terremoti avvenuti e il tempo di ritorno di un evento sismico. La definizione della pericolosità sismica di un'area e del rischio sismico ad essa associato è alla base di qualsiasi studio di microzonazione.
+
+
+=== Esempi notevoli ===
+
+Faglia di Sant'Andrea
+Faglia sud-valenzana
+Faglia Liquiñe-Ofqui
+Faglia di Boconó
+Faglia di Cadillac-Larder Lake
+Faglia di Argentat
+Faglia di Garlock
+Faglia Nojima
+Faglia anatolica settentrionale
+Faglia anatolica orientale
+Faglia di New Madrid
+
+
+== Bibliografia ==
+Fabio Romanelli, «Faglia». In: Enciclopedia della Scienza e della Tecnica, Roma, Istituto dell'Enciclopedia italiana, 2007
+Brodie Kate, Fettes Douglas, Harte Ben, Schmid Rolf, 3. Structural terms including fault rock terms, Recommendations by the IUGS Subcommission on the Systematics of Metamorphic Rocks, http://www.bgs.ac.uk/SCMR/docs/papers/paper_3.pdf. 29 January 2007.
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «faglia»
+ Wikimedia Commons contiene immagini o altri file sulla faglia
+
+
+== Collegamenti esterni ==
+
+(EN) fault plane / fault / normal fault, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

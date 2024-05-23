@@ -1,0 +1,2006 @@
+Ein Weißer Zwerg ist ein kleiner, sehr kompakter alter Stern. Er hat trotz seiner hohen Oberflächentemperatur nur eine sehr geringe Leuchtkraft, liegt also im Hertzsprung-Russell-Diagramm weit unterhalb der Hauptreihe. Der hohen Temperatur verdankt er seine weiße Farbe, der geringen Leuchtkraft – die auf eine entsprechend kleine Sternoberfläche hinweist – die Bezeichnung „Zwerg“. Während Hauptreihensterne wie die Sonne Radien in der Größenordnung von 106 km haben, beträgt der Radius eines Weißen Zwerges mit 7000 bis 14.000 km nur 1 bis 2 Erdradien. Dennoch haben Weiße Zwerge die Masse eines Sterns. Sie bestehen im Normalfall aus einem Kern aus heißer entarteter Materie von extrem hoher Dichte, umgeben von einer dünnen, leuchtenden Photosphäre. Daher werden Weiße Zwerge üblicherweise der Spektralklasse D für degenerierte/entartete Materie (außerhalb der Standard-Sequenz) zugeordnet.
+Weiße Zwerge sind nach dem Ende jeglicher Kernfusion das Endstadium der Entwicklung der meisten Sterne, deren nuklearer Energievorrat versiegt ist. Sie sind die heißen Kerne Roter Riesen, die übrig bleiben, wenn jene ihre äußere Hülle abstoßen. Voraussetzung dafür ist, dass die Restmasse unterhalb eines Schwellenwertes von 1,44 Sonnenmassen (M☉) bleibt, der sogenannten Chandrasekhar-Grenze. Andernfalls entsteht nach einem Supernova-Ausbruch ein Neutronenstern oder (bei einer Kernmasse von mehr als 2 1⁄2 M☉) ein Schwarzes Loch. Neutronensterne und Schwarze Löcher setzen relativ massive stellare Vorgänger voraus mit mindestens etwa 8 M☉, da die Sterne gegen Ende ihrer Existenz einen hohen Masseverlust erleiden. Daher erreicht die Kernmasse entsprechend selten die benötigten 1,44 M☉, um ein anderes Objekt als einen Weißen Zwerg entstehen zu lassen.
+
+
+== Geschichtliches ==
+Der zuerst entdeckte, aber nicht als solcher erkannte Weiße Zwerg war 40 Eridani B im Dreifachsternsystem 40 Eridani. Das Sternpaar 40 Eridani B/C wurde von William Herschel am 31. Januar 1783 entdeckt und erneut von Friedrich Georg Wilhelm Struve im Jahre 1825 sowie von Otto Wilhelm von Struve im Jahr 1851. Im Jahre 1910 entdeckten Henry Norris Russell, Edward Charles Pickering und Williamina Fleming, dass obgleich 40 Eridani B ein sonnennaher schwacher Stern ist, die üblicherweise Rote Zwergsonnen sind, er vom Spektraltyp A und somit weiß ist.
+Im Jahre 1914 kommunizierte Walter Adams offiziell den Spektraltyp von 40 Eridani B.
+Der nächstgelegene Weiße Zwerg ist Sirius B, der winzige Begleiter des Sirius A, der mit −1,5m den hellsten Stern am Nachthimmel darstellt. Der 8,5 Lichtjahre entfernte, sehr heiße Sirius A hat 2 Sonnenmassen und ist 22-mal heller als die Sonne. Sirius B (8,7m) hat zwar nur Erdgröße, aber 98 Prozent der Sonnenmasse und 2 Prozent ihrer Leuchtkraft. Ein Teelöffel voll seiner Materie hätte eine Masse von über 5 Tonnen. Er ist der bestuntersuchte Stern dieses Typs.
+Entdeckt wurde er 1844 indirekt durch winzige Unregelmäßigkeiten in der Eigenbewegung des Sirius A, aus denen Friedrich Bessel auf einen Doppelstern mit etwa 50 Jahren Umlaufzeit schloss. Teleskopisch konnte Sirius B erst 1862 nachgewiesen werden, weil er vom 10.000-mal helleren Hauptstern in 3″ bis 10″ Winkelabstand völlig überstrahlt wird. Alvan Graham Clark gelang dies bei der Prüfung eines neuen, langbrennweitigen Objektivs. Weil sich Sirius B damals auf seiner Ellipsenbahn zunehmend von Sirius A entfernte, konnte er bald auch von anderen Beobachtern beobachtet werden.
+Im Jahre 1917 entdeckte Adriaan van Maanen den sogenannten Van Maanens Stern. Er ist ein isolierter Weißer Zwerg im Abstand von 13,9 Lichtjahren. Diese drei Weißen Zwerge sind die drei zuerst entdeckten Weißen Zwerge und werden auch als die klassischen Weißen Zwerge bezeichnet.
+Der zweitnächste Weiße Zwerg wurde 1896 als Begleiter des Prokyon (Nr. 18) in 11 1⁄2 Lichtjahren entdeckt. Prokyon B hat nur 11. Größe und ist wegen seiner engen Bahn (3″ ≈ 0,001°) und größeren Helligkeitsdifferenz erst in großen Teleskopen sichtbar. Trotz 0,6 Sonnenmassen ist er etwas größer als Sirius B.
+Dieser seltsame Umstand erklärt sich heute durch die Theorie der entarteten Materie: Je größer diese hunderttausende Grad heiße Sternmasse, desto mehr wird sie zusammengepresst. Eine Beobachtung jüngeren Datums ist auch, dass manche Weißen Zwerge als Folge der Strahlungsgesetze im Röntgen- und UV-Licht heller als ihr Hauptstern sein können.
+Sei auch der Weiße Zwerg GJ 440 (LP 145-141) vom Südhimmel im Abstand von 15 Lichtjahren genannt, der als Stern mindestens seit 1917 bekannt ist, als seine Eigenbewegung von R. T. A. Innes und H. E. Wood publiziert wurde; er ist der viertnächste bekannte Weiße Zwerg nach dem Sirius B, Procyon B und Van Maanens Stern. Auch er ist ein isolierter Weißer Zwerg.
+Stein 2051 B ist der sechstnächste Weiße Zwerg, er befindet sich im Abstand von 18 Lichtjahren. Im Jahr 2017 wurde er beobachtet, als er vor einem weiter entfernten Stern vorüberzog. Die Beugung des Sternenlichtes durch das Gravitationsfeld des näher gelegenen Weißen Zwerges ermöglichte die direkte Messung seiner Masse, die sich zu 0,675 ± 0,051 Sonnenmassen ergibt. Dies ist konsistent zur theoretischen Modellierung eines Weißen Zwerges mit Kohlenstoff-Sauerstoff-Kern. Stein 2051 B ist erst der vierte Weiße Zwerg, bei dem eine direkte Messung von Masse und Durchmesser möglich war, neben den sonnennahen Weißen Zwergen Sirius B, Procyon B sowie 40 Eridani B.
+Schon im 18. Jahrhundert hatte man Planetarische Nebel entdeckt und ihnen den Namen wegen ihrer Ähnlichkeit zum Scheibchen des Uranus gegeben. Vor knapp hundert Jahren erkannte man, dass die manchmal sichtbaren Zentralsterne Weiße Zwerge sind, welche diesen Nebel als sterbender Roter Riese abgestoßen haben.
+
+
+== Bestimmung der Zustandsgrößen ==
+
+
+=== Aus Spektrum und Helligkeit ===
+
+Aus dem Spektrum und der beobachteten Helligkeit lassen sich einige wichtige Merkmale Weißer Zwerge ableiten. Kennt man die Entfernung eines solchen Sterns, zum Beispiel anhand der jährlichen Parallaxe, so lässt sich die wahre Leuchtkraft bestimmen. Entfernung und Spektrum sind wegen der geringen Helligkeit allerdings nur bis etwa 500 Lichtjahre verlässlich feststellbar.
+Das Spektrum wiederum zeigt die Oberflächentemperatur an. Zahlreiche solcher Beobachtungen sind bereits durchgeführt worden, als Beispiele seien die in nachfolgendem Diagramm dargestellten Ergebnisse von Bergeron et al. (2001) und Liebert et al. (2005) genannt. James William Liebert und seine Mitautoren untersuchten Weiße Zwerge hoher Oberflächentemperatur, also klassische Vertreter dieses Sterntyps, wohingegen Pierre Bergeron und Kollegen sich auf kühle Weiße Zwerge konzentrierten. Solche Objekte werden als alte Weiße Zwerge gedeutet, die bereits eine lange Abkühlungszeit von mehreren Milliarden Jahren hinter sich haben (siehe Abschnitt Energietransport).
+Beide Arbeiten zeigen den für Weiße Zwerge typischen großen Leuchtkraftabstand zur Hauptreihe (letztere beruht auf den Angaben von Helmut Scheffler und Hans Elsässer (1990)). Bei sehr heißen Weißen Zwergen liegt das Leuchtkraftdefizit etwa bei einem Faktor 105, bei sehr kühlen etwa bei einem Faktor von 103. Bei gleicher Oberflächentemperatur entspricht dem Unterschied an Leuchtkraft ein gleich großer an Oberfläche. Weiße Zwerge haben also tausend- bis hunderttausendfach kleinere Oberflächen als Hauptreihensterne, das bedeutet 30- bis 300-fach kleinere Radien. Übliche Radien Weißer Zwerge liegen zwischen knapp einem und zweieinhalb Erdradien. Dieses kleine Volumen – nur etwa 10−6 bis 10−5 Sonnenvolumina – enthält aber etwa eine Sonnenmasse, was zu einer mittleren Dichte von etwa einer Tonne pro Kubikzentimeter führt. Mit einem kirschgroßen Stück eines Weißen Zwerges ließe sich also etwa ein Auto aufwiegen. Aus der enorm starken Massekonzentration folgt weiter eine sehr hohe Fallbeschleunigung an der Oberfläche. Die Oberflächenschwere ist der Masse eines Himmelskörpers direkt und dem Quadrat von dessen Radius umgekehrt proportional. Eine Sonnenmasse – entsprechend etwa 3 · 105 Erdmassen – auf Erdvolumen komprimiert erzeugt eine Fallbeschleunigung auf der Oberfläche, die die der Erde um den Faktor 3 · 105 übersteigt.
+
+
+=== Aus Breite der Spektrallinien und Rotverschiebung ===
+Um die Oberflächenschwere eines Sterns zu ermitteln, muss man dessen Masse jedoch keineswegs kennen, sie kann auch direkt aus dem Spektrum abgeleitet werden. Bei hoher Fallbeschleunigung unterliegt nicht nur das Sterninnere, sondern auch noch die Photosphäre einem hohen Druck, was aufgrund häufiger Stöße zwischen den Teilchen zu einer Verbreiterung der Spektrallinien führt (sogenannte Druckverbreiterung).
+Die hohe Gravitation auf der Oberfläche Weißer Zwerge zieht noch einen weiteren, für die Untersuchung solcher Sterne äußerst nützlichen Effekt nach sich. Nach der Allgemeinen Relativitätstheorie tritt eine klar messbare Rotverschiebung auf. In der Praxis tritt jedoch aufgrund der Eigenbewegung des Sterns eine zusätzliche Wellenlängenverschiebung der Spektrallinien hinzu, welche vom Dopplereffekt herrührt.
+Die von der Oberflächenschwere herrührende Rotverschiebung ist direkt proportional zur Hubarbeit, welche das Licht gegen das Gravitationsfeld verrichten muss. Diese aber ist wieder direkt proportional der Masse des Sterns und umgekehrt proportional zu dessen Radius. Kombiniert man dies mit der Fallbeschleunigung – welche ja ebenfalls von der Masse und dem Radius des Sterns abhängt – so lassen sich diese beiden Größen einzeln bestimmen.
+
+
+=== Beispiel Sirius B ===
+Ein typischer Weißer Zwerg ist Sirius B, der Begleiter des Sirius. Obwohl schon lange als ungewöhnliches Objekt identifiziert, ist er weiterhin Gegenstand von Untersuchungen. Seine Eigenbewegung ist genau bekannt, so dass die Wellenlängenverschiebungen durch den Dopplereffekt und die Rotverschiebung im Schwerefeld sicher getrennt werden können. Ebenso ist seine Entfernung genau bekannt, so dass Helligkeitsmessungen eine sichere Auskunft über die Leuchtkraft geben.
+Eine aktuelle Untersuchung stammt von Barstow et al. (2005), welche Sirius B mit dem Hubble Space Telescope beobachteten. Dieses ist aufgrund seines sehr hohen Auflösungsvermögens in der Lage, Sirius B von dem sehr viel helleren, nur wenige Bogensekunden entfernt stehenden Hauptstern zu trennen.
+Die Autoren geben für Sirius B eine Oberflächentemperatur von etwa 25.200 K an. Während ein so heißer Hauptreihenstern normalerweise etwa 10.000fach lichtstärker als die Sonne ist, ist Sirius B aber etwa 450-mal lichtschwächer als diese. Im sichtbaren Bereich liegt Sirius B gerade einmal bei der Größenklasse 11,43, wohingegen es die Sonne auf die Größenklasse 4,83 bringt. Für den Radius von Sirius B finden Barstow et al. (2005) auf Grundlage der Rotverschiebung einen Wert von etwa 0,00864 Sonnenradien, was 6000 km entspricht. Er ist damit etwa so groß wie die Erde. Dennoch weist er ca. 0,978 Sonnenmassen auf. Die Oberflächenschwere ist den Autoren zufolge etwa 375.000-mal größer als auf der Erde. Die von Barstow et al. (2005) gemessene Rotverschiebung aufgrund der Gravitation ist gleichwertig einer Dopplerverschiebung bei einer Geschwindigkeit von etwa 80 km/s. In dem von den Autoren untersuchten Bereich von 380 bis 510 nm beträgt die entsprechende Wellenlängenverschiebung etwa 0,1 nm, ein geringer, aber mit einem hochauflösenden Spektrographen leicht nachweisbarer Wert.
+
+
+=== Klassifizierung von Weißen Zwergen ===
+Weiße Zwerge werden üblicherweise mit eigenen Klassen klassifiziert, es werden also nicht die normalen Spektralklassen verwendet, sondern solche mit einem Präfix D (für Degeneriert). Siehe → Klassifizierung der Sterne#Spektralklassen außerhalb der Standardsequenzen.
+
+
+== Innerer Aufbau ==
+
+
+=== Methoden der Modellierung ===
+Um ein genaues Modell eines Weißen Zwerges zu gewinnen, muss man ein ähnliches Gleichungssystem betrachten wie unter dem Artikel Sternaufbau für Hauptreihensterne diskutiert (siehe dazu zum Beispiel die Lehrbücher von Scheffler und Elsässer (1990) oder von Sexl (1979)). Die Gleichungen für Masseerhaltung und hydrostatisches Gleichgewicht dürfen hierbei unverändert übernommen werden, und damit auch die qualitativen Zusammenhänge zwischen Sternmasse 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+, Sternradius 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+, Dichte 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  
+ und zentralem Druck 
+  
+    
+      
+        
+          p
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle p_{\mathrm {c} }}
+  
+, welche aus dem Lösen der Gleichungen unter der Annahme einer konstanten Sterndichte folgen:
+
+  
+    
+      
+        ρ
+        ∼
+        
+          
+            M
+            
+              R
+              
+                3
+              
+            
+          
+        
+      
+    
+    {\displaystyle \rho \sim {\frac {M}{R^{3}}}}
+  
+
+  
+    
+      
+        
+          p
+          
+            
+              c
+            
+          
+        
+        ∼
+        
+          
+            
+              M
+              
+                2
+              
+            
+            
+              R
+              
+                4
+              
+            
+          
+        
+      
+    
+    {\displaystyle p_{\mathrm {c} }\sim {\frac {M^{2}}{R^{4}}}}
+  
+
+Viele der nun skizzierten Modelle beruhen aber nicht nur auf den Grundgleichungen des Sternaufbaus, sondern nutzen auch die Tatsache aus, dass manche Weiße Zwerge pulsieren. Dies macht sich durch Helligkeitsschwankungen bemerkbar, die aufgrund ihrer oft kurzen Zeitskala von Minuten gut verfolgt werden können. So wie bei Erdbeben der Gesteinsuntergrund bestimmte Schwingungsfrequenzen passieren lässt, andere hingegen wegfiltert, werden aufgrund der inneren Struktur des Sterns bestimmte Zeitskalen der Pulsation bevorzugt. Diese Methode wird daher in Analogie zur irdischen Erdbebenforschung als Asteroseismologie bezeichnet.
+
+
+=== Materieverteilung in Weißen Zwergen ===
+Realistische Szenarien zur Verteilung der Materie in Weißen Zwergen liefern zum Beispiel die Arbeiten von Corsico et al. und  Althaus et al.  Während im Stadium des Roten Riesen aufgrund weiträumiger Konvektionsströmungen eine erhebliche Durchmischung des Sterninneren auftreten kann, werden in einem Weißen Zwerg die chemischen Elemente sehr stark nach ihrem Atomgewicht getrennt. Ohne nukleare Energieerzeugung stellt sich im Kern kein ausreichendes Temperaturgefälle mehr ein, um die Konvektion dort noch aufrechtzuerhalten. Somit können die schweren Atomkerne relativ ungestört zum Zentrum hin absinken. Es bildet sich ein Kern heraus, dessen innerer Teil von Sauerstoff und dessen äußerer Teil von Kohlenstoff dominiert wird. Leichtere Elemente fehlen im Kern nahezu ganz.
+Nach außen schließt sich eine Schicht an, die fast nur Helium enthält. Diese muss man sich als dünn vorstellen, gemäß den hier zitierten Arbeiten beträgt ihre Masse nur etwa 10−4 bis 10−2 Sonnenmassen. Bei etwa 20 Prozent aller Weißen Zwerge bildet die Heliumschicht die äußerste Zone. Etwa 80 Prozent aller Weißen Zwerge besitzen jedoch zusätzlich eine Schicht aus praktisch reinem Wasserstoff. Diese ist noch dünner als die Heliumschicht, ihre Masse liegt nur bei etwa 10−6 bis 10−4 Sonnenmassen. Nahezu die gesamte Masse ist im Sauerstoff-Kohlenstoff-Kern vereint.
+Dass die Photosphäre eines Weißen Zwerges sehr dünn sein muss, wird klar, wenn man die ungeheure Oberflächenschwere auf die barometrische Höhenformel anwendet. Diese besagt, dass der Atmosphärendruck exponentiell mit einer Skalenhöhe
+
+  
+    
+      
+        H
+        =
+        
+          
+            
+              
+                k
+                
+                  
+                    B
+                  
+                
+              
+              T
+            
+            
+              m
+              g
+            
+          
+        
+      
+    
+    {\displaystyle H={\frac {k_{\mathrm {B} }T}{mg}}}
+  
+
+nach außen abfällt bzw. nach innen ansteigt. Setzt man für 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ die Atommasse von Wasserstoff und für die Oberflächentemperatur 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+ und Fallbeschleunigung 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ die Werte von Sirius B ein, so erhält man eine Skalenhöhe von nur 56 m (kB steht für die Boltzmann-Konstante). Dieses Ergebnis besagt, dass mit zunehmender Tiefe auf einer Längenskala von kaum mehr als 100 m der Druck auf das Zehnfache ansteigt. Schon in einer Tiefe von nur wenigen Kilometern ist also eine enorme Verdichtung der Materie erreicht.
+
+
+=== Besondere Typen ===
+Nicht alle Weißen Zwerge folgen dem hier skizzierten Aufbau. Einige Sterne dieses Typs besitzen keinen Kern aus Sauerstoff und Kohlenstoff, sondern nur aus Helium. Diese Objekte widersprechen scheinbar der gängigen Theorie der Sternentwicklung. Einzelsterne, bei denen im Verlauf ihrer Entwicklung die Fusion von Helium zu Kohlenstoff ausbleibt, weisen Scheffler und Elsässer (1990) zufolge eine Masse von maximal 0,5 Sonnenmassen auf. Die Lebensdauer solch massearmer Sterne liegt aber bei mindestens 20 Milliarden Jahren, so dass sich aus solchen noch gar keine Weißen Zwerge gebildet haben können. Nach Althaus und Benvenuto (1997) sowie Serenelli et al. (2002) ist in sehr engen Doppelsternsystemen aber eine genügend schnelle Entstehung von heliumdominierten Weißen Zwergen möglich. In solchen Systemen üben die Sterne starke Gezeitenkräfte aufeinander aus, was in der Phase des Aufblähens zum Roten Riesen einen hohen Masseverlust nach sich ziehen kann. Auf diese Weise kann auch die Entwicklung eines relativ massereichen, das heißt ausreichend kurzlebigen Sterns in einen Weißen Zwerg mit Heliumkern münden.
+Umgekehrt wurden 2007 Weiße Zwerge gefunden, die nur noch aus Kohlenstoff (und Sauerstoff) bestehen, also auch keine Heliumhülle mehr besitzen. Diese Objekte wurden erstmals von Dufour et al. (2007) beschrieben und als DQ-Typ vorgeschlagen. Montgomery et al. (2008) führten erste detaillierte Berechnungen durch, in welchen sie das Objekt SDSS J142625.71+575218.3 (V430 Ursae Majoris) als Prototyp der neuen Sternklasse definierten. Zudem zeigten sie, dass auch diese Sterne pulsieren können. Althaus et al. (2009) schlugen bereits einen Mechanismus vor, der das Fehlen der Heliumschicht erklären könnte. Wie im Abschnitt „Instabile Weiße Zwerge“ beschrieben wird, können sich Weiße Zwerge unter bestimmten Bedingungen wieder in Riesen verwandeln. Bei diesem zweiten Durchlauf eines Riesenstadiums büßen die Sterne die Heliumhülle ein.
+
+
+== Zustandsgleichung ==
+Die Bewegungsenergie eines Teilchens in einem Hauptreihenstern ist überwiegend thermische Energie, so dass als Zustandsgleichung die allgemeine Gasgleichung verwendet werden darf. In einem Weißen Zwerg tritt aufgrund der hohen Dichte eine nicht thermische Komponente hinzu, die auf einem quantenmechanischen Effekt beruht. Dies führt zu einer besonderen Zustandsgleichung, bei welcher der Druck nur noch von der Dichte, aber nicht mehr von der Temperatur abhängt. Man bezeichnet einen solchen Zustand als entartet.
+
+
+=== Fermienergie eines Teilchens ===
+Durch die starke Verdichtung der Materie in einem Weißen Zwerg rücken dort die Teilchen im Mittel enger zusammen. Sperrt man aber ein Teilchen auf eine Längenskala 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ ein, so bekommt dieses nach der Heisenbergschen Unschärferelation einen Impuls
+
+  
+    
+      
+        
+          p
+          
+            F
+          
+        
+        =
+        
+          
+            h
+            
+              2
+              π
+              x
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle p_{F}={\frac {h}{2\pi x}},}
+  
+
+der als Fermiimpuls bezeichnet wird. 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ bezeichnet die Planck-Konstante.
+Bei nicht zu kleiner Längenskala ist die aus dem Fermiimpuls resultierende Geschwindigkeit klein gegenüber der Lichtgeschwindigkeit 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  
+, so dass man für die entsprechende Bewegungsenergie, die sogenannte Fermienergie, schreiben darf:
+
+  
+    
+      
+        
+          E
+          
+            F
+          
+        
+        =
+        
+          
+            
+              p
+              
+                F
+              
+              
+                2
+              
+            
+            
+              2
+              m
+            
+          
+        
+        =
+        
+          
+            
+              h
+              
+                2
+              
+            
+            
+              8
+              
+                π
+                
+                  2
+                
+              
+              m
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle E_{F}={\frac {p_{F}^{2}}{2m}}={\frac {h^{2}}{8\pi ^{2}mx^{2}}}.}
+  
+
+Da die Teilchenmasse 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ im Nenner erscheint, ist sofort klar, dass die Fermienergie der Elektronen um ein Mehrtausendfaches größer ist als diejenige der sehr viel schwereren Atomkerne. Elektronen aber gehören der Teilchenklasse der Fermionen an, welche nach dem Pauli-Prinzip dem „Einsperren“ einen Widerstand entgegensetzen.
+Dieses besagt, dass sich maximal zwei Elektronen des Sternplasmas im selben energetischen Zustand befinden können. Die möglichen Energiezustände kann man sich anschaulich als eine Leiter vorstellen, deren Sprossenabstand bei Verringerung des Sternvolumens, das heißt mit kleiner werdendem 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+, wächst. Da die Zustände vom unteren Ende der Leiter an besetzt werden, muss bei einer Kompression den Elektronen so viel Energie zugeführt werden, dass sie auf Anhieb an das obere Ende der Leiter gelangen können. Dies führt zu einem Gegendruck, welcher bis zu der bereits erwähnten Chandrasekhar-Grenze der Gravitation standhalten kann.
+Bei sehr kleiner Längenskala kann die Geschwindigkeit der Elektronen der Lichtgeschwindigkeit nahekommen, so dass dann die Fermienergie relativistisch berechnet werden muss. Im Extremfall, bei dem die Bewegungsgeschwindigkeit fast der Lichtgeschwindigkeit entspricht, gilt:
+
+  
+    
+      
+        
+          E
+          
+            F
+          
+        
+        =
+        
+          p
+          
+            F
+          
+        
+        c
+        =
+        
+          
+            
+              h
+              c
+            
+            
+              2
+              π
+              x
+            
+          
+        
+        .
+      
+    
+    {\displaystyle E_{F}=p_{F}c={\frac {hc}{2\pi x}}.}
+  
+
+Entartung liegt vor, falls die Fermienergie gegenüber der thermischen Energie dominiert. Um dies zu überprüfen, muss noch die Längenskala 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ ausgewertet werden. Es gilt:
+
+  
+    
+      
+        
+          x
+          
+            3
+          
+        
+        =
+        
+          
+            1
+            
+              n
+              
+                
+                  e
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              μ
+              
+                m
+                
+                  
+                    p
+                  
+                
+              
+            
+            ρ
+          
+        
+        .
+      
+    
+    {\displaystyle x^{3}={\frac {1}{n_{\mathrm {e} }}}={\frac {\mu m_{\mathrm {p} }}{\rho }}.}
+  
+
+  
+    
+      
+        
+          n
+          
+            
+              e
+            
+          
+        
+      
+    
+    {\displaystyle n_{\mathrm {e} }}
+  
+ ist hier die Teilchendichte der Elektronen, 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  
+ die mittlere molare Masse der Sternmaterie (nicht der Atomkerne) und 
+  
+    
+      
+        
+          m
+          
+            
+              p
+            
+          
+        
+      
+    
+    {\displaystyle m_{\mathrm {p} }}
+  
+ die Masse des Protons. Einsetzen liefert für die Fermienergie im nicht relativistischen Fall:
+
+  
+    
+      
+        
+          E
+          
+            F
+          
+        
+        =
+        
+          
+            
+              h
+              
+                2
+              
+            
+            
+              8
+              
+                π
+                
+                  2
+                
+              
+              
+                m
+                
+                  
+                    e
+                  
+                
+              
+            
+          
+        
+        
+          
+            (
+            
+              
+                ρ
+                
+                  μ
+                  
+                    m
+                    
+                      
+                        p
+                      
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            
+              2
+              3
+            
+          
+        
+        =
+        4,323
+        ⋅
+        
+          10
+          
+            −
+            21
+          
+        
+        
+          
+            (
+            
+              
+                ρ
+                μ
+              
+            
+            )
+          
+          
+            
+              2
+              3
+            
+          
+        
+        .
+      
+    
+    {\displaystyle E_{F}={\frac {h^{2}}{8\pi ^{2}m_{\mathrm {e} }}}\left({\frac {\rho }{\mu m_{\mathrm {p} }}}\right)^{\frac {2}{3}}=4{,}323\cdot 10^{-21}\left({\frac {\rho }{\mu }}\right)^{\frac {2}{3}}.}
+  
+
+Im (extrem) relativistischen Fall gilt:
+
+  
+    
+      
+        
+          E
+          
+            F
+          
+        
+        =
+        
+          
+            
+              h
+              c
+            
+            
+              2
+              π
+            
+          
+        
+        
+          
+            (
+            
+              
+                ρ
+                
+                  μ
+                  
+                    m
+                    
+                      
+                        p
+                      
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            
+              1
+              3
+            
+          
+        
+        =
+        2,663
+        ⋅
+        
+          10
+          
+            −
+            17
+          
+        
+        
+          
+            (
+            
+              
+                ρ
+                μ
+              
+            
+            )
+          
+          
+            
+              1
+              3
+            
+          
+        
+        .
+      
+    
+    {\displaystyle E_{F}={\frac {hc}{2\pi }}\left({\frac {\rho }{\mu m_{\mathrm {p} }}}\right)^{\frac {1}{3}}=2{,}663\cdot 10^{-17}\left({\frac {\rho }{\mu }}\right)^{\frac {1}{3}}.}
+  
+
+In beiden Fällen ist die Dichte in kg/m3 einzusetzen, die molare Masse als Vielfaches der atomaren Masseneinheit. Die Fermienergie ist dann in Joule gegeben.
+In Wahrheit haben nicht alle Elektronen genau die gleiche Energie 
+  
+    
+      
+        
+          E
+          
+            F
+          
+        
+      
+    
+    {\displaystyle E_{F}}
+  
+. Die verschiedenen Energien folgen vielmehr einer bestimmten Verteilung, der sogenannten Fermi-Dirac-Verteilung. Für die nachfolgende Diskussion ist die hier vorgestellte elementare Theorie aber ausreichend genau.
+Unter nicht relativistischen Bedingungen wächst die Fermienergie rascher mit zunehmender Dichte an als bei relativistischen Verhältnissen. Im ersten Fall nehmen mit zunehmender Kompression sowohl der Impuls als auch die Geschwindigkeit zu (so dass letztlich eine umgekehrt quadratische Abhängigkeit von 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ vorliegt), im zweiten aber wegen der Grenzgeschwindigkeit 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  
+ nur noch der Impuls (was eine lediglich umgekehrt proportionale Abhängigkeit von 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ zur Folge hat).
+Die thermische Energie eines Plasmateilchen folgt wie üblich der Beziehung
+
+  
+    
+      
+        
+          E
+          
+            
+              t
+              h
+            
+          
+        
+        =
+        
+          
+            3
+            2
+          
+        
+        
+          k
+          
+            
+              B
+            
+          
+        
+        T
+        ,
+      
+    
+    {\displaystyle E_{\mathrm {th} }={\frac {3}{2}}k_{\mathrm {B} }T,}
+  
+
+wobei 
+  
+    
+      
+        
+          k
+          
+            
+              B
+            
+          
+        
+      
+    
+    {\displaystyle k_{\mathrm {B} }}
+  
+ die Boltzmann-Konstante bezeichnet.
+
+
+=== Beispiele von Entartung ===
+Die zentrale Dichte eines weißen Zwerges liegt in der Größenordnung von 1010 kg/m3 und die zentrale Temperatur kurz nach dem Ende des Rote-Riesen-Stadiums in der Größenordnung von 108 K. Die mittlere molare Masse eines von Kohlenstoff dominierten, vollständig ionisierten Kerns liegt bei etwa 12. Damit ergibt sich (nach nicht relativistischer Rechnung) eine Fermienergie von etwa 1,3 · 10−14 J, und eine thermische Energie von etwa 2,1 · 10−15 J. In einem gerade erst entstandenen weißen Zwerg darf letztere also noch nicht vernachlässigt werden. Allerdings kühlt ein solcher ohne nukleare Energiequellen ab, so dass nach etwa 108 Jahren nur noch eine Zentraltemperatur von etwa 107 K zu erwarten ist. Dann ist ein klares Übergewicht der Fermienergie gegeben.
+Weiße Zwerge sind nicht das einzige Beispiel für durch die Fermienergie dominierte Materie. Betrachtet man zum Beispiel Eisen bei Laborbedingungen, so erhält man mit einer Dichte von 8000 kg/m3 und einer mittleren molaren Masse von 56 (ein Eisenion und zwei freie Elektronen) eine Fermienergie von etwa 2,4 · 10−19 J. Bei 293 K (20 °C) liegt die thermische Energie etwa bei 6,1 · 10−21 J. Die Fermienergie behält also klar die Oberhand, die irdischen Metallelektronen sind ebenso entartet wie diejenigen in einem weißen Zwerg. Diese Objekte sind trotz ihrer extremen Dichte somit gar nicht so exotisch, man darf sie sich zumindest teilweise als metallähnliche Körper vorstellen.
+
+
+=== Zusammenhang zwischen Druck und Dichte ===
+Die allgemeine Gasgleichung 
+  
+    
+      
+        p
+        =
+        n
+        
+          k
+          
+            
+              B
+            
+          
+        
+        T
+      
+    
+    {\displaystyle p=nk_{\mathrm {B} }T}
+  
+ legt wegen 
+  
+    
+      
+        
+          E
+          
+            
+              t
+              h
+            
+          
+        
+        =
+        
+          
+            3
+            2
+          
+        
+        
+          k
+          
+            
+              B
+            
+          
+        
+        T
+      
+    
+    {\displaystyle E_{\mathrm {th} }={\frac {3}{2}}k_{\mathrm {B} }T}
+  
+ den Zusammenhang
+
+  
+    
+      
+        p
+        =
+        
+          
+            2
+            3
+          
+        
+        n
+        E
+      
+    
+    {\displaystyle p={\frac {2}{3}}nE}
+  
+
+nahe. Dieser gilt auch für entartete Materie. Einsetzen der Fermienergie liefert im nicht relativistischen Fall:
+
+  
+    
+      
+        p
+        =
+        
+          
+            
+              h
+              
+                2
+              
+            
+            
+              12
+              
+                π
+                
+                  2
+                
+              
+              
+                m
+                
+                  
+                    e
+                  
+                
+              
+            
+          
+        
+        
+          
+            (
+            
+              
+                ρ
+                
+                  μ
+                  
+                    m
+                    
+                      p
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            
+              5
+              3
+            
+          
+        
+        =
+        1,726
+        ⋅
+        
+          10
+          
+            6
+          
+        
+        
+          
+            (
+            
+              
+                ρ
+                μ
+              
+            
+            )
+          
+          
+            
+              5
+              3
+            
+          
+        
+      
+    
+    {\displaystyle p={\frac {h^{2}}{12\pi ^{2}m_{\mathrm {e} }}}\left({\frac {\rho }{\mu m_{p}}}\right)^{\frac {5}{3}}=1{,}726\cdot 10^{6}\left({\frac {\rho }{\mu }}\right)^{\frac {5}{3}}}
+  
+
+Im (extrem) relativistischen Fall ergibt sich:
+
+  
+    
+      
+        p
+        =
+        
+          
+            
+              h
+              c
+            
+            
+              3
+              π
+            
+          
+        
+        
+          
+            (
+            
+              
+                ρ
+                
+                  μ
+                  
+                    m
+                    
+                      p
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            
+              4
+              3
+            
+          
+        
+        =
+        1,061
+        ⋅
+        
+          10
+          
+            10
+          
+        
+        
+          
+            (
+            
+              
+                ρ
+                μ
+              
+            
+            )
+          
+          
+            
+              4
+              3
+            
+          
+        
+      
+    
+    {\displaystyle p={\frac {hc}{3\pi }}\left({\frac {\rho }{\mu m_{p}}}\right)^{\frac {4}{3}}=1{,}061\cdot 10^{10}\left({\frac {\rho }{\mu }}\right)^{\frac {4}{3}}}
+  
+
+Für die Dichte und die mittlere molare Masse sind die gleichen Einheiten wie oben zu verwenden, so dass dann der Druck in N/m2 gegeben ist. Setzt man wiederum die Dichte mit 1010 kg/m3 und die mittlere molare Masse mit 2 an, so erhält man (nicht relativistisch) einen zentralen Druck von etwa 2,5 · 1022 N/m2, was ziemlich genau um das Millionenfache über dem zentralen Sonnendruck liegt. Angesichts der Proportionalität 
+  
+    
+      
+        
+          p
+          
+            
+              c
+            
+          
+        
+        ∼
+        
+          R
+          
+            −
+            4
+          
+        
+      
+    
+    {\displaystyle p_{\mathrm {c} }\sim R^{-4}}
+  
+ ist ein derart hoher Druck im Inneren eines weißen Zwergs normal.
+Das unterschiedliche Verhalten der Fermienergie im nicht relativistischen und relativistischen Fall schlägt sich auch in der Zustandsgleichung nieder. Bei nicht relativistischen Teilchen steigt der Druck rascher mit der Dichte an als bei relativistischen. Erstere können zusätzlichem Gravitationsdruck daher besser standhalten als zweitere. Wie nun gezeigt wird, liegt genau hier die Existenz einer Grenzmasse für Weiße Zwerge begründet.
+
+
+=== Schlussfolgerungen ===
+Durch das Verschwinden der Temperatur aus der Zustandsgleichung bildet diese zusammen mit den Gleichungen für Masseerhaltung und hydrostatisches Gleichgewicht schon ein geschlossenes Gleichungssystem. Die Dichte- und Druckschichtung kann nun unabhängig von der Temperaturschichtung und damit dem Energietransport behandelt werden. Es besteht ein direkter Zusammenhang zwischen Sternmasse und -radius bzw. -dichte. Setzt man die oben gegebenen Proportionalitäten zwischen 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+, 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+, 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  
+ und 
+  
+    
+      
+        
+          p
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle p_{\mathrm {c} }}
+  
+ in die nicht relativistische Zustandsgleichung ein, so erhält man nach kurzer Rechnung:
+
+  
+    
+      
+        R
+        ∼
+        
+          M
+          
+            −
+            1
+            
+              /
+            
+            3
+          
+        
+      
+    
+    {\displaystyle R\sim M^{-1/3}}
+  
+
+  
+    
+      
+        M
+        ∼
+        
+          ρ
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle M\sim \rho ^{1/2}}
+  
+
+Je massereicher ein Weißer Zwerg, umso kleiner ist er. Ein Hauptreihenstern hingegen ist mit mehr Masse auch größer, als es der Erwartung entspricht. Mit zunehmender Masse werden Weiße Zwerge dichter. Dies bedeutet zugleich auch, dass nicht relativistische Elektronen einer größeren Masse standhalten können, falls sie stärker komprimiert werden. Tritt eine Störung des Druckgleichgewichtes in Richtung höherer Dichte auf, treibt der steigende Fermidruck das System wieder in den Ausgangszustand zurück.
+Verwendet man die relativistische Zustandsgleichung, so ergeben sich folgende Beziehungen:
+
+  
+    
+      
+        R
+        ∼
+        
+          M
+          
+            2
+            
+              /
+            
+            3
+          
+        
+      
+    
+    {\displaystyle R\sim M^{2/3}}
+  
+
+  
+    
+      
+        M
+        ∼
+        
+          ρ
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle M\sim \rho ^{-1}}
+  
+
+Relativistische Weiße Zwerge müssten mit zunehmender Masse größer und weniger dicht werden. Eine solche Konfiguration aber ist nicht stabil. Werden relativistische Elektronen dichter gepackt, können sie weniger Masse tragen als vorher. Im Falle einer Störung kann der zusätzliche Fermidruck das Mehr an Gravitationsdruck nicht ausgleichen. Die Kompression setzt sich fort, bis mit einem Neutronenstern oder schwarzen Loch ein neuer Gleichgewichtszustand erreicht ist.
+Somit gibt es eine Massengrenze für Weiße Zwerge. Diese ist erreicht, wenn infolge einer zu hohen Dichte die Elektronen relativistisch werden und damit die Zustandsgleichung 
+  
+    
+      
+        p
+        =
+        p
+        (
+        ρ
+        )
+      
+    
+    {\displaystyle p=p(\rho )}
+  
+ entscheidend abflacht.
+
+In die Zustandsgleichung und damit auch in Masse und Radius eines Weißen Zwerges gehen die Planck-Konstante und die Massen von Elektron und Proton ein. Das bedeutet, dass hier astronomische Größen direkte Funktionen von mikrokosmischen Naturkonstanten sind.
+Zuletzt sei wieder ein Beispiel aus der Beobachtungspraxis gezeigt. Liebert et al. (2005) bestimmten aus Leuchtkräften und Oberflächentemperaturen Weißer Zwerge (siehe obiges Hertzsprung-Russell-Diagramm) mittels des Stefan-Boltzmann-Gesetzes deren Radien. Zusätzlich leiteten sie aus den Spektren der Sterne deren Oberflächenschweren ab, so dass sie unter Hinzunahme der Radien auch deren Massen bestimmen konnten.
+Die Beobachtungen zeigen eine klare Abnahme des Sternradius mit zunehmender Masse und stellen damit eine eindeutige Bestätigung des Konzepts der entarteten Materie dar. Das elementare Gesetz 
+  
+    
+      
+        R
+        ∼
+        
+          M
+          
+            −
+            1
+            
+              /
+            
+            3
+          
+        
+      
+    
+    {\displaystyle R\sim M^{-1/3}}
+  
+ stimmt mit den Messungen recht gut überein. Bei dem sehr stark abweichenden Objekt handelt es sich um einen besonders heißen Stern, dessen Oberflächentemperatur 65.000 K beträgt. Wie bereits gezeigt, darf bei sehr heißen Weißen Zwergen die thermische Energie gegenüber der Fermienergie nicht vernachlässigt werden, so dass die Annahme vollständig entarteter Materie nicht mehr zulässig ist.
+Bemerkenswert ist die Massenverteilung Weißer Zwerge. Fast alle der von Liebert et al. (2005) untersuchten Weißen Zwerge fallen in einen sehr schmalen Bereich von 0,5 bis 0,7 Sonnenmassen. Hier handelt es sich keineswegs um einen Sonderfall, das seltene Auftreten von sowohl sehr massearmen als auch relativ massereichen Weißen Zwergen wurde bereits von zahlreichen Beobachtungen bestätigt. Trotz unterschiedlicher Ausgangsmassen mündet die Entwicklung sonnenähnlicher Sterne nahezu in die gleiche Endmasse ein.
+
+
+== Energietransport ==
+Während in Hauptreihensternen und auch in Riesen der Energietransport durch Strahlung und Konvektion erfolgt, dominiert in Weißen Zwergen die Wärmeleitung durch die Elektronen. Die sonst üblichen Mechanismen bleiben allein den dünnen, nicht entarteten Außenschichten vorbehalten.
+
+
+=== Wärmeleitung ===
+Die Wärmeleitung kann formal durch die gleiche Beziehung beschrieben werden wie der unter Sternaufbau skizzierte Energietransport durch Strahlung:
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              T
+            
+            
+              
+                d
+              
+              r
+            
+          
+        
+        =
+        −
+        
+          
+            1
+            
+              K
+              (
+              r
+              )
+            
+          
+        
+        
+          
+            
+              L
+              (
+              r
+              )
+            
+            
+              4
+              π
+              
+                r
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\mathrm {d} T}{\mathrm {d} r}}=-{\frac {1}{K(r)}}{\frac {L(r)}{4\pi r^{2}}}}
+  
+
+K(r) bezeichnet jetzt aber nicht das Strahlungsleitvermögen, sondern die Wärmeleitfähigkeit.
+Die Wärmeleitung im entarteten Kern ist so wirksam, dass in diesem näherungsweise überall die gleiche Temperatur vorliegt. Da die äußeren Schichten sehr dünn sind, darf zudem der Kernradius dem Sternradius gleichgesetzt werden. Damit vereinfacht sich obige Gleichung zu:
+
+  
+    
+      
+        
+          
+            
+              T
+              
+                
+                  c
+                
+              
+            
+            R
+          
+        
+        =
+        −
+        
+          
+            1
+            K
+          
+        
+        
+          
+            L
+            
+              4
+              π
+              
+                R
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {T_{\mathrm {c} }}{R}}=-{\frac {1}{K}}{\frac {L}{4\pi R^{2}}}}
+  
+
+  
+    
+      
+        
+          T
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle T_{\mathrm {c} }}
+  
+ bezeichnet die Temperatur im Kern.
+Um die Leuchtkraft 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  
+ allein als Funktion der Kerntemperatur beschreiben zu können, muss die Abhängigkeit der Wärmeleitfähigkeit von der Temperatur und Dichte bekannt sein. Die Tatsache, dass die irdischen Metallelektronen ebenso entartet sind wie diejenigen in einem Weißen Zwerg, erweist sich dabei als außerordentlich nützlich. Der von irdischen Metallen bekannte Zusammenhang
+
+  
+    
+      
+        K
+        ∼
+        ρ
+        T
+      
+    
+    {\displaystyle K\sim \rho T}
+  
+
+darf näherungsweise auch für Weiße Zwerge verwendet werden. Damit vereinfacht sich obige Gleichung weiter zu
+
+  
+    
+      
+        L
+        ∼
+        R
+        ρ
+        
+          T
+          
+            
+              c
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle L\sim R\rho T_{\mathrm {c} }^{2}}
+  
+
+Der Sternradius ist, wie bereits unter dem Abschnitt Zustandsgleichung erläutert, allein durch die Masse des Weißen Zwerges eindeutig festgelegt. Die Dichte lässt sich durch den Ansatz eliminieren, dass es im Übergangsbereich zwischen Kern und Außenschicht eine Zone geben muss, wo der thermische Gasdruck 
+  
+    
+      
+        
+          p
+          
+            
+              t
+              h
+            
+          
+        
+      
+    
+    {\displaystyle p_{\mathrm {th} }}
+  
+ genau gleich dem Entartungsdruck 
+  
+    
+      
+        
+          p
+          
+            
+              e
+            
+          
+        
+      
+    
+    {\displaystyle p_{\mathrm {e} }}
+  
+ der Elektronen ist. Für den Gasdruck liefert die allgemeine Gasgleichung den Zusammenhang 
+  
+    
+      
+        
+          p
+          
+            
+              t
+              h
+            
+          
+        
+        ∼
+        ρ
+        T
+      
+    
+    {\displaystyle p_{\mathrm {th} }\sim \rho T}
+  
+, für den Elektronendruck die im vorausgegangenen Abschnitt abgeleitete Zustandsgleichung die Beziehung 
+  
+    
+      
+        
+          p
+          
+            
+              e
+            
+          
+        
+        ∼
+        
+          ρ
+          
+            5
+            
+              /
+            
+            3
+          
+        
+      
+    
+    {\displaystyle p_{\mathrm {e} }\sim \rho ^{5/3}}
+  
+. Das Gleichsetzen der beiden Drücke liefert 
+  
+    
+      
+        ρ
+        ∼
+        
+          T
+          
+            3
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \rho \sim T^{3/2}}
+  
+, womit sich schließlich der folgende, bereits von Schwarzschild erkannte Zusammenhang ergibt:
+
+  
+    
+      
+        L
+        ∼
+        
+          T
+          
+            
+              c
+            
+          
+          
+            7
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle L\sim T_{\mathrm {c} }^{7/2}}
+  
+
+Junge, sehr heiße Weiße Zwerge sind also durchaus noch sehr leuchtkräftig (man sehe zum Beispiel das obige Hertzsprung-Russell-Diagramm, wo das heißeste Objekt immerhin noch 10-mal stärker strahlt als die Sonne). Da sie aber über keine nuklearen Energiequellen mehr verfügen, kühlen sie zunächst rasch ab. Weil mit fallender Zentraltemperatur die Leuchtkraft aber sehr steil zurückgeht, verlangsamt sich in der Folge der Abkühlungsprozess.
+
+
+=== Strahlung und Konvektion ===
+Diese beiden Mechanismen des Energietransports sind bei Weißen Zwergen auf die dünne Helium- und (falls vorhanden) Wasserstoffschicht beschränkt. Detaillierte Untersuchungen zeigen, dass dabei die Verhältnisse mit denjenigen in Hauptreihensternen durchaus vergleichbar sind. Solange die äußeren Schichten noch genügend heiß sind, erfolgt dort wie bei Hauptreihensternen der Energietransport durch Strahlung. Fällt die Oberflächentemperatur unter einen bestimmten Wert – nach Hansen 2004 etwa 12.000 K – bildet sich dort eine Konvektionszone aus. Mit fortschreitender Abkühlung reicht diese immer tiefer in den Stern hinab, bis sie schließlich auf den Kern trifft. Auch dieses Verhalten ist demjenigen von Hauptreihensternen analog.
+
+
+=== Schlussfolgerungen ===
+
+Der oben genannte Zusammenhang zwischen Leuchtkraft und Zentraltemperatur erlaubt es, die Abkühlung eines Weißen Zwerges in Abhängigkeit von der Zeit zu beschreiben. Die Leuchtkraft gibt direkt die Änderung der inneren Energie mit der Zeit 
+  
+    
+      
+        
+          d
+        
+        E
+        
+          /
+        
+        
+          d
+        
+        t
+      
+    
+    {\displaystyle \mathrm {d} E/\mathrm {d} t}
+  
+ an. Da die Energie wiederum der Temperatur direkt proportional ist, gilt 
+  
+    
+      
+        L
+        ∼
+        
+          d
+        
+        
+          T
+          
+            
+              c
+            
+          
+        
+        
+          /
+        
+        
+          d
+        
+        t
+      
+    
+    {\displaystyle L\sim \mathrm {d} T_{\mathrm {c} }/\mathrm {d} t}
+  
+. Dies führt letztlich auf die Beziehung
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              
+                T
+                
+                  
+                    c
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        ∼
+        
+          T
+          
+            
+              c
+            
+          
+          
+            7
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {\mathrm {d} T_{\mathrm {c} }}{\mathrm {d} t}}\sim T_{\mathrm {c} }^{7/2}}
+  
+
+Diese Gleichung kann elementar durch Trennung der Variablen gelöst werden. Es ergibt sich ein Gesetz der Form
+
+  
+    
+      
+        
+          T
+          
+            
+              c
+            
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            (
+            
+              
+                1
+                
+                  a
+                  ⋅
+                  t
+                  +
+                  b
+                
+              
+            
+            )
+          
+          
+            2
+            
+              /
+            
+            5
+          
+        
+      
+    
+    {\displaystyle T_{\mathrm {c} }(t)=\left({\frac {1}{a\cdot t+b}}\right)^{2/5}}
+  
+
+wobei 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ und 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ Konstanten darstellen. In 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ geht unter anderem die Sternmasse ein. 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ ist so zu wählen, dass sich die Anfangstemperatur zur Zeit 
+  
+    
+      
+        t
+        =
+        0
+      
+    
+    {\displaystyle t=0}
+  
+ ergibt. Das Gesetz sagt eine zunächst schnelle und dann langsame Abkühlung voraus. Setzt man es in die Beziehung zwischen Leuchtkraft und Kerntemperatur ein, erhält man:
+
+  
+    
+      
+        L
+        (
+        t
+        )
+        =
+        
+          
+            (
+            
+              
+                1
+                
+                  a
+                  ⋅
+                  t
+                  +
+                  b
+                
+              
+            
+            )
+          
+          
+            7
+            
+              /
+            
+            5
+          
+        
+      
+    
+    {\displaystyle L(t)=\left({\frac {1}{a\cdot t+b}}\right)^{7/5}}
+  
+
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ und 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ haben natürlich jetzt andere Werte als bei dem Temperaturtrend. Wegen der sehr starken Abhängigkeit der Leuchtkraft von der Zentraltemperatur wird ein anfänglich sehr rascher Leuchtkraftabfall vorhergesagt, der sich dann aber ebenfalls verlangsamt. Schließlich kann der Leuchtkrafttrend in das Gesetz von Stefan-Boltzmann eingesetzt werden, welches die Leuchtkraft gemäß 
+  
+    
+      
+        L
+        ∼
+        
+          T
+          
+            
+              o
+              b
+              e
+              r
+            
+          
+          
+            4
+          
+        
+      
+    
+    {\displaystyle L\sim T_{\mathrm {ober} }^{4}}
+  
+ mit der Oberflächentemperatur 
+  
+    
+      
+        
+          T
+          
+            
+              o
+              b
+              e
+              r
+            
+          
+        
+      
+    
+    {\displaystyle T_{\mathrm {ober} }}
+  
+ verknüpft:
+
+  
+    
+      
+        
+          T
+          
+            
+              o
+              b
+              e
+              r
+            
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            (
+            
+              
+                1
+                
+                  a
+                  ⋅
+                  t
+                  +
+                  b
+                
+              
+            
+            )
+          
+          
+            7
+            
+              /
+            
+            20
+          
+        
+      
+    
+    {\displaystyle T_{\mathrm {ober} }(t)=\left({\frac {1}{a\cdot t+b}}\right)^{7/20}}
+  
+
+Die Oberflächentemperatur folgt also fast dem gleichen Trend wie die Kerntemperatur.
+Folgende Abbildungen vergleichen die von der elementaren Theorie vorhergesagten Trends mit modernen Modellen, wie sie zum Beispiel von Chabrier et al. (2000) entwickelt wurden. Bis zu einer Abkühlungszeit von etwa 5 Milliarden Jahren stimmen die einfachen Trends mit den exakten Berechnungen recht gut überein. Dann aber sagen die modernen Modelle eine neuerliche Beschleunigung der Abkühlung voraus. Dies liegt unter anderem darin begründet, dass die elementare Theorie eine direkte Proportionalität zwischen innerer Energie und Temperatur, also eine von der Temperatur unabhängige Wärmekapazität 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+ annimmt. Tatsächlich aber nimmt bei einem Festkörper unterhalb einer bestimmten Temperatur die Wärmekapazität mit derselben ab, es stellt sich das Gesetz von Debye ein, wonach 
+  
+    
+      
+        C
+        ∼
+        
+          T
+          
+            3
+          
+        
+      
+    
+    {\displaystyle C\sim T^{3}}
+  
+. Ist die Abkühlung eines Weißen Zwergs sehr weit fortgeschritten, kann er daher die noch vorhandene Restwärme immer schlechter speichern und kühlt so trotz fallender Leuchtkraft wieder rascher aus.
+Massereiche Weiße Zwerge kühlen zunächst langsamer aus als massearme. Erstere weisen einen höheren Energiegehalt auf und zugleich wegen ihrer kleineren Radien eine geringere Leuchtkraft. Bei weit fortgeschrittener Abkühlung kehrt sich unter anderem wegen der temperaturabhängigen Wärmekapazität die Situation teilweise jedoch um.
+Die Abkühlungsmodelle Weißer Zwerge lassen sich durch Beobachtungen solcher Objekte in Sternhaufen überprüfen (siehe zum Beispiel Hansen (1999)). In jungen Sternhaufen finden sich entweder gar keine Weißen Zwerge (weil junge, massereiche Sterne weiter zum Neutronenstern oder gar Schwarzen Loch kollabieren) oder nur heiße, noch kaum ausgekühlte Objekte dieser Art. In alten Haufen hingegen sind sehr kühle Weiße Zwerge vorhanden.
+Durch die Abkühlung bleibt ein solcher Stern nicht immer weiß, sondern nimmt im Laufe der Zeit eine zunächst gelbliche, dann rötliche und letztlich schwarze Färbung an. Wegen der enorm langen Zeitskalen konnten sich Weiße Zwerge jedoch bislang kaum unter eine Oberflächentemperatur von 4000 K abkühlen. Unabhängig von der Temperatur bleibt die Bezeichnung Weißer Zwerg aufgrund des großen Leuchtkraftdefizits im Vergleich zur Hauptreihe bestehen, zumal die Begriffe Gelber Zwerg und Roter Zwerg gerade für die entsprechenden Hauptreihensterne reserviert sind.
+
+
+== Instabile Weiße Zwerge ==
+Obwohl Weiße Zwerge in ihrem Kern nicht mehr über nukleare Energiequellen verfügen, können sie durchaus noch eine erhebliche, ja eruptive Aktivität zeigen. Dies gilt vor allem dann, wenn sie Mitglieder enger Doppelsternsysteme sind.
+
+
+=== Novae ===
+
+Lange Zeit wurden Novae als leuchtschwache Abart der Supernovae betrachtet, als Sternexplosionen mit einem nicht ganz so extremen Helligkeitsausbruch. Erst in den 1970er Jahren wurde die allerdings bereits von Otto von Struve aufgestellte Hypothese bestätigt, dass der Ursprung einer Nova in einem sehr engen Doppelsternsystem zu suchen ist, das aus einem Weißen Zwerg und einem kühlen Hauptreihenstern besteht. Hier wird nur eine kurze Beschreibung des Phänomens gegeben, hinsichtlich der Einzelheiten sei auf den entsprechenden Artikel verwiesen.
+In einem genügend engen Doppelsternsystem erstreckt sich der Hauptreihenstern bis zur Roche-Grenze, so dass Gas von diesem in den Anziehungsbereich des Weißen Zwerges gelangen kann. Es bildet sich ein permanenter Materiestrom und als Folge dessen eine Gasscheibe um den Weißen Zwerg herum aus. Diese macht sich durch ein Emissionsspektrum bemerkbar, das vor allem Linien des Wasserstoffs (Balmerserie), aber auch des Heliums aufweist.
+Hat sich eine gewisse kritische Menge an Gas angesammelt, tritt ein explosionsartiges Wasserstoffbrennen auf. In dessen Verlauf wird die Gasscheibe abgestoßen (der Weiße Zwerg selbst explodiert jedoch nicht), was von einem enormen Helligkeitsausbruch begleitet ist. Nach dem Ausbruch kehrt das System zu seiner ursprünglichen Helligkeit zurück, und es kann sich eine neue Gasscheibe bilden. Auf diese Weise ist auch eine Wiederholung des Novageschehens mit von System zu System sehr unterschiedlichen Zeitabständen möglich.
+
+
+=== Supernovae ===
+
+Weiße Zwerge können charakteristische Supernovae auslösen. Die von einem Weißen Zwerg in einem engen Doppelsternsystem aufgesammelte Materie wird durch eine Nova nur teilweise abgestoßen, insbesondere bleiben durch das Wasserstoffbrennen erzeugte schwerere Kerne zurück. Dies bedeutet, dass seine Masse auf Kosten des Begleitsterns im Laufe der Zeit mehr und mehr zunimmt. Wird die Chandrasekhar-Grenze überschritten, beginnt der Weiße Zwerg zu kollabieren. Dabei setzt ein explosionsartiges Kohlenstoffbrennen ein, welches die Entstehung eines Neutronensterns unterbindet. Stattdessen detoniert der Weiße Zwerg vollständig, ohne einen Reststern zu hinterlassen, während der nun nicht mehr gravitativ gebundene Begleitstern davongeschleudert wird. Auch hier sei hinsichtlich der Einzelheiten auf den entsprechenden Artikel verwiesen.
+
+
+=== Wiedergeborene Riesen ===
+Am 20. Februar 1996 entdeckte der Japaner Yukio Sakurai im Sternbild Schütze einen „neuen“ Stern, der zunächst als Nova eingestuft wurde. Es stellte sich jedoch heraus, dass mit Sakurais Stern – auch als V4334 Sgr bezeichnet – ein extrem seltener Sterntyp zutage getreten war, für den es mit V605 Aql im Sternbild Adler und FG Sge im Sternbild Pfeil nur zwei weitere gesicherte Exemplare gibt.
+Sakurais Stern war bei seiner Entdeckung ein Objekt etwa 11. Größe. Eine nachträgliche Überprüfung älterer photographischer Aufnahmen zeigte diesen dort als extrem schwach oder gar nicht nachweisbar an, d. h. vor dem Ausbruch lag seine Helligkeit unterhalb der 20. Größenklasse. Ein auf manchen dieser Aufnahmen extrem schwach angedeuteter Planetarischer Nebel konnte schon bald nach dem Helligkeitsausbruch bestätigt werden. Damit war gesichert, dass Sakurais Stern aus einem sehr jungen Weißen Zwerg hervorgegangen war.
+Schon die ersten Spektren ließen erkennen, dass keine Nova vorlag. Sie zeigten eine Photosphäre mit abnorm schwachen Spektrallinien des Wasserstoffs, andererseits mit ungewöhnlich starken des Kohlenstoffs und Sauerstoffs. Damit war ausgeschlossen, dass der Helligkeitsausbruch durch das Wegsprengen einer Wasserstoffhülle hervorgerufen war. Trotz der Besonderheiten erinnerten die Spektren an Überriesen der Spektralklasse F.
+Die Beobachtungen konnten rasch als sogenannter Helium-Blitz gedeutet werden, worunter man ein explosionsartiges Einsetzen des Heliumbrennens in der Spätphase der Entwicklung sonnenähnlicher Sterne versteht. Zuerst ereignet sich dieses im Kern des bereits zum Roten Riesen gewordenen Sterns. Hat sich dort das Helium zu Kohlenstoff und Sauerstoff umgewandelt, treten Helium-Blitze auch in der sich dem Kern anschließenden Schicht auf. Ebendieses explosionsartig einsetzende Heliumschalenbrennen ist dafür verantwortlich, dass der Rote Riese seine Hülle weitestgehend abwirft. Sakurais Stern zeigt, dass ein Helium-Blitz auch nach diesem Abwurf noch stattfinden kann, wenn der Stern schon unmittelbar vor der Abkühlungsphase als Weißer Zwerg steht. Damit aber wird aus diesem wieder ein Riese.
+Diesem wiedergeborenen Giganten steht selbstverständlich nur noch eine geringe Menge an zu verbrennendem Helium zur Verfügung, so dass er sich nur kurze Zeit erneut in diesem Zustand behaupten kann. Die Entwicklung von Sakurais Stern seit 1996 liefert hierfür ein besonders extremes, in seiner Art erstmals beobachtetes Beispiel.
+Schon bald nach seiner Entdeckung wurde Sakurais Stern erheblich röter, während seine visuelle Helligkeit zunächst stabil blieb. Dies deutete auf eine starke Abkühlung der Photosphäre hin. Spektren, wie sie z. B. von Arkhipova et al. (1998) aufgenommen wurden, zeigten zudem an, dass sich die Dominanz des Kohlenstoffs verstärkt hatte, sie waren nun zum Teil vollständig von molekularem Kohlenstoff dominiert.
+Von Mitte 1998 an begann die visuelle Helligkeit des Sterns dramatisch abzufallen, bis Mitte 1999 war die 22. Größenklasse erreicht. Gleichzeitig stieg im Infraroten die Helligkeit sehr stark an. Offensichtlich hatte der Stern große Mengen an Kohlenstoff, Sauerstoff und anderen Elementen ausgestoßen, welche nun zu einer Staubhülle kondensierten, die praktisch alles sichtbare Licht absorbierte und die aufgenommene Energie im Infraroten wieder abgab. Diese Staubhülle verbirgt Sakurais Stern bis heute.
+Indirekte Hinweise auf dessen weitere Entwicklung sind jedoch gegeben, z. B. in Form von Emissionslinien, die von ionisierten Elementen stammen. Zwar können auch Stoßwellen, die durch den Materieausstoß ausgelöst wurden, eine Ionisation innerhalb der Staubhülle bewirken. Van Hoof et al. (2007) legten jedoch dar, dass das beobachtete Ausmaß nur erklärt werden kann, wenn man zugleich von einer energiereichen Strahlung des Sterns ausgeht. Das aber bedeutet, dass er in den letzten Jahren wieder erheblich heißer geworden sein muss. Nur 13 Jahre nach der Wiedergeburt als Riese entwickelt er sich also abermals zum Weißen Zwerg.
+V605 Aql, welcher um 1919 einen großen Helligkeitsausbruch zeigte, durchlief eine vergleichbar dramatische Entwicklung wie Sakurais Stern. Glücklicherweise existieren Spektren recht guter Qualität aus dieser Zeit (Lundmark (1921)), so dass sich zusammen mit modernen Messungen das seitdem erfolgte Geschehen rekonstruieren lässt. Nicht ganz so rasch verläuft die Entwicklung von FG Sge, doch im Laufe der Jahrzehnte hat auch dieser Stern massive Variationen von Helligkeit, Farbe und Spektrum gezeigt.
+
+
+== Sonstiges ==
+
+
+=== Bedeutung der Gravitationsenergie ===
+Nimmt man als Beispiel einen Stern mit einer Sonnenmasse, so hat dieser im Laufe seines Lebens (ca. 10 Milliarden Jahre) etwa 1044 J durch Kernfusion umgesetzt, also etwa 10 Prozent seiner Sternmasse. In den letzten Minuten der Kontraktion des Sterns zum weißen Zwerg werden 1043 J noch einmal durch die Gravitation freigesetzt, das entspricht ungefähr 10 Prozent der über die Lebensdauer verteilt abgestrahlten Energie.
+
+
+=== Häufigkeit ===
+Weiße Zwerge sind recht häufige Objekte. Im Umkreis von 20 Parsec um die Sonne finden sich insgesamt 129 derartige Sterne, was einem mittleren Abstand von etwa 6 Parsec bzw. etwa 19 Lichtjahren zwischen zwei Weißen Zwergen entspricht. Man schätzt, dass etwa 10 Prozent aller Sterne Weiße Zwerge sind. Insgesamt sind etwa 10.000 solcher Objekte bekannt. Durch systematische Himmelsdurchmusterungen wie den Sloan Digital Sky Survey wird diese Zahl aber schon in den nächsten Jahren stark ansteigen.
+
+
+=== Weiße Zwerge aus massereichen Sternen? ===
+Im Gegensatz zur vorherrschenden Theorie, wonach Weiße Zwerge nur aus relativ massearmen Sternen hervorgehen können, wurde folgendes spektakuläre Szenario vorgeschlagen: Weist ein sehr massereicher Stern (um die 100 Sonnenmassen) einen sehr hohen Anteil von Elementen schwerer als Helium auf (mehr als das Doppelte im Vergleich zur Sonne), so erleidet dieser im Verlauf seiner Entwicklung einen extremen Masseverlust. Der hohe Anteil schwerer Elemente macht die Sternmaterie weitgehend undurchsichtig, wodurch die Wirkung des ohnehin schon enormen Strahlungsdrucks noch verstärkt wird. Dadurch kann der Stern so viel Masse verlieren, dass er am Ende noch unterhalb der Chandrasekhar-Grenze bleibt. Diesem Szenario zufolge müsste es sehr junge Sternhaufen (welche an blauen, leuchtkräftigen Hauptreihensternen zu erkennen sind) mit Weißen Zwergen geben. Die Suche nach solchen Haufen ist bislang aber erfolglos geblieben.
+
+
+=== Doppelsysteme Weißer Zwerge und Gravitationswellen ===
+Enge Doppelsternsysteme von Weißen Zwergen wie HM Cancri stellen Quellen für Gravitationswellen dar, welche man mit dem zeitweise geplanten weltraumgestützten Gravitationswellendetektor LISA nachzuweisen hoffte. Die von solchen Systemen abgestrahlten Gravitationswellen sollen durch ihre charakteristische Frequenz von anderen kompakten Quellen wie Pulsaren und Schwarzen Löchern unterscheidbar sein.
+
+
+=== Planetensysteme Weißer Zwerge und deren potentielle Lebensfreundlichkeit ===
+Im Jahre 2020 veröffentlichte das Fachmagazin Nature, dass Astronomen erstmals einen möglichen Gasriesen um einen weißen Zwerg (WD 1856+534 b) entdeckt haben. Er soll die Größe des Jupiter haben, wobei die Masse bisher unbekannt ist. Dies, aber auch bereits größere gefundene Mengen an Gestein, welche um Sternenleichen kreisen, lassen vermuten, dass auch Gesteinsplaneten um weiße Zwerge zu finden sein dürften. Diese könnten wohl mit dem Weltraumteleskop TESS entdeckt werden. Bei Erfolg soll dann an den Fundstellen mit dem James-Webb-Weltraumteleskop nach einem molekularen Nachweis für Biosignaturen gesucht werden, da laut der Forscher auch weiße Zwerge eine habitable Zone besitzen könnten, in denen Leben potentiell möglich ist.
+
+
+== Weitere Weiße Zwerge ==
+Sirius B
+40 Eridani B
+Prokyon B
+Van Maanens Stern
+Gliese 86 B
+AR Scorpii
+
+
+== Siehe auch ==
+ZZ-Ceti-Stern, pulsierende Weiße Zwerge
+Schwarzer Zwerg, erkaltete Weiße Zwerge: das Universum sollte noch zu jung sein für solche Objekte
+Kataklysmische Veränderliche, Doppelsternsysteme mit einem akkretierenden Weißen Zwerg
+
+
+== Literatur ==
+Adams, W. S.: An A-Type Star of Very Low Luminosity. In: Publications of the Astronomical Society of the Pacific. Nr. 26, 1914, S. 198 ff., doi:10.1086/122337. 
+Arkhipova V.P. et al.: Observations of Sakurai’s Object in 1997 and its Evolution in 1996–1997. In: Astronomy Letters. Nr. 24/2, 1998, S. 248 ff. 
+Barstow M.A., Bond H.E., Holberg J.B., Burleigh M.R., Hubeny I., Koester D.: Hubble Space Telescope Spectroscopy of the Balmer Lines in Sirius B. In: Monthly Notices of the Royal Astronomical Society. Nr. 362, 2005, S. 1134 ff. 
+Bergeron P., Legett S.K., Ruiz M.T: Photometric and Spectroscopic Analysis of Cool White Dwarfs with Trigonometric Parallax Measurements. In: Astrophysical Journal Supplement Series. Nr. 133, 2001, S. 413 ff. 
+G. Chabrier, P. Brassard, G. Fontaine, D. Saumon: Cooling Sequences and Color-Magnitude Diagrams for Cool White Dwarfs with Hydrogen Atmospheres. In: Astrophysical Journal. Nr. 543, 2000, S. 216 ff. 
+Hansen B.: Cooling Models for Old White Dwarfs. In: Astrophysical Journal. Nr. 520, 1999, S. 680 ff. 
+Heintz, W. D.: Astrometric study of four visual binaries. In: The Astronomical Journal. Nr. 79, 1974, S. 819 ff., doi:10.1086/111614. 
+Herschel, W.: Catalogue of Double Stars. By William Herschel, Esq. F. R. S. In: Philosophical Transactions of the Royal Society of London. Nr. 75, 1785, S. 40 ff. (royalsocietypublishing.org [PDF]). 
+Innes, R. T. A. & Wood, H. E.: Proper Motions Found and Measured With the Blink-Microscope. In: Circular of the Union Observatory Johannesburg. Nr. 37, 1917, S. 288 ff. (harvard.edu). 
+Liebert J., Bergeron P., Holberg J.P: The Formation Rate and Mass and Luminosity Functions of DA White Dwarfs from Palomar Green Survey. In: Astrophysical Journal Supplement Series 156. 2005, S. 47 ff., arxiv:astro-ph/0406657. 
+Lundmark K.: Nova Aquilae No. 4. In: Proceedings of the Astronomical Society of the Pacific. Nr. 33, 1921, S. 314 ff. 
+E. Schatzman: White Dwarfs. In: Amsterdam: North-Holland. 1958, S. 2 ff. 
+Scheffler H., Elsässer H.: Physik der Sterne und der Sonne. Hrsg.: BI Wissenschaftsverlag. 2. Auflage. 1990, ISBN 3-411-14172-7. 
+Sexl R. und H.: Weiße Zwerge – Schwarze Löcher. Hrsg.: Vieweg & Sohn Verlagsgesellschaft. 3. Auflage. 1999, ISBN 3-540-41534-3 (ehemals Rororo-Taschenbuch, bereits fürs Gymnasium geeignete Monographie). 
+Henry, Todd J.; Walkowicz, Lucianne M.; Barto, Todd C.; Golimowski, David A.: The Solar Neighborhood. VI. New Southern Nearby Stars Identified by Optical Spectroscopy. In: The Astronomical Journal. Nr. 123 (4), 2002. 
+Van Hoof P.A.M. et al.: The Onset of Photoionization in Sakurai’s Object. In: Astronomy and Astrophysics. Nr. 471, 2007, S. L9 ff. 
+Van Maanen, A.: Two Faint Stars with Large Proper Motion. In: Publications of the Astronomical Society of the Pacific. Nr. 29, 1917, S. 258 ff., doi:10.1086/122654. 
+
+
+== Weblinks ==
+
+G117-B15A: Die stabilste „optische Uhr“ im Universum
+Jüngste Ergebnisse der NASA K2-Mission zur Beobachtung eines Weißen Zwergs, abgerufen am 21. Oktober 2015
+
+
+== Einzelnachweise ==

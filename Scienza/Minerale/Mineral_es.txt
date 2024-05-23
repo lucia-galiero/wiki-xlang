@@ -1,0 +1,646 @@
+Un mineral es una sustancia natural, de composición química definida. Normalmente es sólido e inorgánico, y tiene una cierta estructura cristalina. Es diferente de una roca, que puede ser un agregado de minerales o no minerales y que no tiene una composición química específica. La definición exacta de un mineral es objeto de debate, especialmente con respecto a la exigencia de ser abiogénico, y en menor medida, a si debe tener una estructura atómica ordenada. El estudio de los minerales se llama mineralogía. 
+Hay más de 5300 especies minerales conocidas, de ellas más de 5090 aprobadas por la Asociación Internacional de Mineralogía (IMA por sus siglas en inglés). Continuamente se descubren y describen nuevos minerales, entre 50 y 80 al año.[1]​ La diversidad y abundancia de especies minerales es controlada por la química de la Tierra. El silicio y el oxígeno constituyen aproximadamente el 75 % de la corteza terrestre, lo que se traduce directamente en el predominio de los minerales de silicato, que componen más del  90% de la corteza terrestre. Los minerales se distinguen por diversas propiedades químicas y físicas. Diferencias en la composición química y en la estructura cristalina distinguen varias especies, y estas propiedades, a su vez, están influidas por el entorno geológico de la formación del mineral. Cambios en la temperatura, la presión, o en la composición del núcleo de una masa de roca causan cambios en sus minerales.
+Los minerales pueden ser descritos por varias propiedades físicas que se relacionan con su estructura química y composición. Las características más comunes que los identifican son la estructura cristalina y el hábito, la dureza, el lustre, la diafanidad, el color, el rayado, la tenacidad, la exfoliación, la fractura, la partición y la densidad relativa. Otras pruebas más específicas para la caracterización de ciertos minerales son el magnetismo, el sabor o el olor, la radioactividad y la reacción a los ácidos fuertes.
+Los minerales se clasifican por sus componentes químicos clave siendo los dos sistemas dominantes la clasificación de Dana y la clasificación de Strunz. La clase de silicatos se subdivide en seis subclases según el grado de polimerización en su estructura química. Todos los silicatos tienen una unidad básica en forma de tetraedro de sílice [SiO4]4−, es decir, un catión de silicio unido a cuatro aniones de oxígeno. Estos tetraedros pueden ser polimerizados para dar las subclases: neosilicatos (no polimerizados, y por lo tanto, solo tetraedros), sorosilicatos (dos tetraedros enlazadados entre sí), ciclosilicatos (anillos de tetraedros), inosilicatos (cadenas de tetraedros), filosilicatos (láminas de tetraedros), y tectosilicatos (redes en tres dimensiones de tetraedros). Otros grupos minerales importantes son los elementos nativos, sulfuros, óxidos, haluros, carbonatos, sulfatos y fosfatos.
+
+
+== Definición ==
+
+
+=== Definición básica ===
+La definición general de un mineral comprende los siguientes criterios:[2]​
+
+ser de origen natural;
+ser estable a temperatura ambiente;
+estar representado por una fórmula química;
+ser generalmente abiogénico (no resultado de la actividad de los organismos vivos);
+y tener disposición atómica ordenada.
+Las tres primeras características generales son menos debatidas que las dos últimas.[2]​: 2–4  El primer criterio significa que un mineral se tiene que formar por un proceso natural, lo que excluye compuestos antropogénicos. La estabilidad a temperatura ambiente, en el sentido más simple, es sinónimo de que el mineral sea sólido. Más específicamente, un compuesto tiene que ser estable o metaestable a 25 °C. Son ejemplos clásicos de excepciones a esta regla el mercurio nativo, que cristaliza a -39 °C, y el hielo de agua, que es sólido solo por debajo de 0 °C; puesto que estos dos minerales se habían descrito con anterioridad a 1959, fueron adoptados por la Asociación Internacional de Mineralogía (IMA).[3]​[4]​ Los avances modernos suponen un amplio estudio de los cristales líquidos, que también concierne ampliamente a la mineralogía. Los minerales son compuestos químicos, y, como tales, pueden ser descritos por una fórmula fija o una variable. Muchos grupos de minerales y especies están compuestos por una solución sólida; las sustancias puras generalmente no se encuentran debido a la contaminación o sustitución química. Por ejemplo, el grupo del olivino se describe por la fórmula variable (Mg, Fe)2SiO4, que es una solución sólida de dos especies de miembro extremo, la forsterita rica en magnesio y la fayalita rica en hierro, que se describen mediante una fórmula química fija. Otras especies minerales podrían tener composiciones variables, tales como el sulfuro de mackinawita, (Fe, Ni)9S8, que es principalmente un sulfuro ferroso, pero que tiene una impureza de níquel muy significativa que se refleja en su fórmula.[2]​: 2–4 [5]​
+El requisito de que una especie mineral para ser válida ha de ser abiogénica también se ha descrito como similar a que sea inorgánica; sin embargo, este criterio es impreciso y a los compuestos orgánicos se les ha asignado una rama de clasificación separada. Por último, la exigencia de tener una disposición atómica ordenada es generalmente sinónimo de cristalinidad; sin embargo, los cristales también son periódicos, por lo que se utiliza en su lugar el criterio más amplio.[2]​: 2–4  Una disposición atómica ordenada da lugar a una variedad de propiedades físicas macroscópicas, como la forma cristalina, la dureza y la exfoliación.[6]​: 13–14  Ha habido varias propuestas recientes para modificar la definición para considerar las sustancias biogénicas o amorfas como minerales. La definición formal de un mineral aprobada por la IMA en 1995:
+
+ 
+
+Además, las sustancias biogénicas fueron excluidas explícitamente: 
+
+ 
+
+
+=== Avances recientes ===
+Los sistemas de clasificación de minerales y sus definiciones están evolucionando para recoger los últimos avances de la ciencia mineral. Los cambios más recientes han sido la adición de una clase orgánica, tanto en el nuevo Dana y en los esquemas de la clasificación de Strunz.[8]​[9]​ La clase orgánica incluye un grupo muy raro de minerales con hidrocarburos. La «Comisión sobre nuevos minerales y nombres de minerales» de la IMA aprobó en 2009 un esquema jerárquico para la denominación y clasificación de los grupos minerales y de los nombres de los grupos y estableció siete comisiones y cuatro grupos de trabajo para revisar y clasificar los minerales en una lista oficial de sus nombres publicados.[10]​[11]​ De acuerdo con estas nuevas reglas,
+
+ 
+
+La exclusión de Nickel (1995) de las sustancias biogénicas no fue universalmente respetada. Por ejemplo, Lowenstam (1981) declaró que «los organismos son capaces de formar una gran variedad de minerales, algunos de los cuales no se pueden formar inorgánicamente en la biosfera.»[12]​ La distinción es una cuestión de clasificación y tiene menos que ver con los constituyentes de los minerales mismos. Skinner (2005) considera todos los sólidos como minerales potenciales e incluye los biominerales en el reino mineral, que son aquellos creados por las actividades metabólicas de los organismos. Skinner amplió la definición previa de un mineral para clasificar como mineral cualquier «elemento o compuesto, amorfo o cristalino, formado a través de los procesos biogeoquímicos».[13]​
+Los recientes avances en la genéticas de alta resolución y espectroscopía de absorción de rayos X están proporcionando revelaciones sobre las relaciones biogeoquímicas entre microorganismos y minerales que pueden hacer obsoleta la exclusión biogénica de Nickel (1995) y una necesidad la inclusión biogénica de Skinner (2005).[7]​[13]​ Por ejemplo, el IMA encargó al «Grupo de trabajo de Mineralogía ambiental y Geoquímica»[14]​ tratar de los minerales en la hidrosfera, atmósfera y biosfera. El alcance del grupo incluye microorganismos formadores de minerales, que existen en casi todas las rocas, en el suelo y en la superficie de las partículas que atraviesan el globo hasta una profundidad de al menos 1600 metros por debajo del fondo del mar y 70 kilómetros en la estratosfera (posiblemente se introduzcan en la mesosfera).[15]​[16]​[17]​ Los ciclos biogeoquímicos han contribuido a la formación de minerales durante miles de millones de años. Los microorganismos pueden precipitar los metales de la disolución, contribuyendo a la formación de yacimientos de mineral. También pueden catalizar la disolución de los minerales.[18]​[19]​[20]​
+Antes de la lista de la Asociación Internacional de Mineralogía, más de 60 biominerales ya habían sido descubiertos, nombrados y publicados.[21]​ Estos minerales (un subconjunto tabulado en Lowenstam (1981)[12]​) se consideran propiamente minerales de acuerdo con la definición de Skinner (2005).[13]​ Estos biominerales no figuran en la lista oficial de nombres de minerales de la IMA,[22]​ aunque muchos de estos biominerales representativos se distribuyen entre las 78 clases minerales que figuran en la clasificación de Dana.[13]​ Otra clase rara de minerales (principalmente de origen biológico) incluye los cristales líquidos minerales que tienen propiedades tanto de líquidos y cristales. Hasta la fecha se han identificado más de 80.000 compuestos cristalinos líquidos.[23]​[24]​
+La definición de mineral de Skinner (2005) toma en cuenta esta cuestión afirmando que un mineral puede ser cristalino o amorfo, incluyendo en este último grupo los cristales líquidos.[13]​ Aunque los biominerales y los cristales líquidos no son la forma más común de minerales,[25]​ ayudan a definir los límites de lo que constituye propiamente un mineral. La definición formal de Nickel (1995) menciona explícitamente la cristalinidad como una clave para la definición de una sustancia como un mineral. Un artículo de 2011 define la icosahedrita, una aleación de hierro-cobre-aluminio, como mineral; llamada así por su singular simetría icosaédrica natural, es un cuasi cristal. A diferencia de un verdadero cristal, los cuasicristales están ordenados pero no de forma periódica.[26]​[27]​
+
+
+=== Rocas, menas y gemas ===
+
+Los minerales no son equivalentes a las rocas. Una roca puede ser un agregado de uno o más minerales, o no tener ningún mineral.[6]​: 15–16  Rocas como la caliza o la cuarcita se componen principalmente de un mineral —calcita o aragonito en el caso de la caliza, y cuarzo, en la última.[6]​: 719–721, 747–748  Otras rocas pueden ser definidas por la abundancia relativa de los minerales clave (esenciales); un granito está definido por las proporciones de cuarzo, feldespato alcalino y plagioclasa.[6]​: 694–696  Los otros minerales de la roca se denominan accesorios, y no afectan en gran medida la composición global de la roca. Las rocas también pueden estar compuestas enteramente de material no mineral; el carbón es una roca sedimentaria compuesta principalmente de carbono derivado de manera orgánica.[6]​: 15–16, 728–730 
+En las rocas, algunas especies y grupos minerales son mucho más abundantes que otros; estos se denominan minerales formativos. Los principales ejemplos son el cuarzo, feldespatos, las micas, los anfíboles, los piroxenos, los olivinos, y la calcita; excepto la última, todos son minerales silicatos.[2]​: 15  En general, alrededor de unos 150 minerales se consideran particularmente importantes, ya sea en términos de su abundancia o valor estético en términos de coleccionismo.[6]​: 14 
+Los minerales y rocas comercialmente valiosos se conocen como minerales industriales y rocas industriales. Por ejemplo, la moscovita, una mica blanca, puede ser utilizada para ventanas (a veces conocida como isinglass), como material de relleno o como un aislante.[6]​: 531–532  Las menas son minerales que tienen una alta concentración de un determinado elemento, normalmente un metal. Ejemplos de ello son el cinabrio (HgS), un mineral de mercurio, esfalerita (ZnS), un mineral de zinc, o la casiterita (SnO2), un mineral de estaño. Las gemas son minerales con un alto valor ornamental, y se distinguen de las no gemas por su belleza, durabilidad, y por lo general, rareza. Hay alrededor de 20 especies minerales que se califican como minerales gema, que constituyen alrededor de las 35 piedras preciosas más comunes. Los minerales gema están a menudo presentes en diversas variedades, y así un mineral puede dar cuenta de varias piedras preciosas diferentes; por ejemplo, rubí y el zafiro son ambas corindón, Al2O3.[6]​: 14–15 
+
+
+=== Nomenclatura y clasificación ===
+
+
+==== Clasificación histórica de los minerales ====
+Los minerales se solían clasificar en la antigüedad con criterios de su aspecto físico; Teofrasto, en el s. III a. C., creó la primera lista sistemática cualitativa conocida; Plinio el Viejo (s. I d. C.), en su Historia Natural, realizó una sistemática mineral, trabajo que, en la Edad Media, sirvió de base a Avicena; Linneo (1707-1778) intentó idear una nomenclatura fundándose en los conceptos de género y especie, pero no tuvo éxito y dejó de usarse en el siglo XIX; con el posterior desarrollo de la química, el químico sueco Axel Fredrik Cronstedt (1722-1765) elaboró la primera clasificación de minerales en función de su composición; el geólogo estadounidense James Dwight Dana, en 1837, propuso una clasificación considerando la estructura y composición química. La clasificación más actual se funda en la composición química y la estructura cristalina de los minerales. Las clasificaciones más empleadas son las de Strunz y Kostov.
+
+
+==== Clasificación moderna ====
+Los minerales se clasifican según la variedad, especie, serie y grupo, en orden creciente de generalidad. El nivel básico de definición es el de las especies minerales, que se distinguen de otras especies por sus propiedades químicas y físicas específicas y únicas. Por ejemplo, el cuarzo se define por su fórmula química, SiO2, y por una estructura cristalina específica que lo distingue de otros minerales con la misma fórmula química (denominados polimorfos). Cuando existe un rango de composición entre dos especies minerales, se define una serie mineral. Por ejemplo, la serie de la biotita está representada por cantidades variables de la endmembers flogopita, siderofilita, annita, y eastonita. Por contraste, un grupo mineral es una agrupación de especies minerales con algunas propiedades químicas comunes que comparten una estructura cristalina. El grupo piroxeno tiene una fórmula común de XY(Si, Al)2O6, en donde X e Y son ambos cationes, siendo X generalmente mayor que Y (radio iónico); los piroxenos son silicatos de cadena sencilla que cristalizan en cualquiera de los sistemas cristalinos monoclínico o ortorrómbico. Finalmente, una variedad mineral es un tipo específico de especies minerales que difieren por alguna característica física, como el color o el hábito del cristal. Un ejemplo es la amatista, que es una variedad púrpura del cuarzo.[2]​: 20–22 
+Para ordenar minerales dos son las clasificaciones más comunes, la de Dana y la de Strunz, ambas basadas en la composición, en especial respecto a los grupos químicos importantes, y en la estructura. James Dwight Dana, un geólogo principal de su tiempo, publicó por primera vez su System of Mineralogy [Sistema de Mineralogía] en 1837; en 1997 se editó su octava edición. La clasificación de Dana asigna un número de cuatro partes a una especie mineral. Su número de clase se basa en los grupos de composición importantes; el número de tipo da la relación de cationes/aniones en el mineral; y los dos últimos números corresponden al grupo de minerales por similitud estructural dentro de un tipo o clase determinada. La clasificación de Strunz —utilizada con menor frecuencia y llamada así por el mineralogista alemán Karl Hugo Strunz— se basa en el sistema de Dana, pero combina tanto criterios químicos como estructurales, estos últimos con respecto a la distribución de los enlaces químicos.[2]​: 558–559 
+En enero de 2016, la IMA había aprobado 5.090 especies minerales.[28]​ Se han nombrado en general en honor de una persona (45 %) — ver: Anexo:Minerales nombrados según personas —, seguidos por la ubicación del lugar, mina o yacimiento del descubrimiento (23 %); otras etimologías comunes son los nombres basados en la composición química (14 %) y en las propiedades físicas (8 %).[2]​: 20–22, 556  El sufijo común -ita usado en los nombres de las especies minerales desciende del antiguo sufijo griego - ί τ η ς (-ites), que significa 'relacionado con' o 'que pertenece a'.[29]​
+
+
+== Química mineral ==
+
+La abundancia y diversidad de minerales es controlada directamente por su composición química, que a su vez, depende de la abundancia de los elementos en la Tierra. La mayoría de los minerales observados derivan de la corteza terrestre. Ocho elementos representan la mayor parte de los componentes clave de los minerales, debido a su abundancia en la corteza terrestre. Estos ocho elementos suponen más del 98 % de la corteza en peso, y son, en orden decreciente: oxígeno, silicio, aluminio, hierro, magnesio, calcio, sodio y potasio. El oxígeno y el silicio son, con mucho, los dos más importantes —el oxígeno compone, en peso, el 46,6 % de la corteza terrestre, y el silicio un 27,7 %.[2]​: 4–7 
+Los minerales que se forman son controlados directamente por la química mayor del cuerpo matriz. Por ejemplo, un magma rico en hierro y magnesio formará minerales máficos, como el olivino y los piroxenos; por el contrario, un magma más rico en sílice cristalizará para formar minerales que incorporen más SiO2, como los feldespatos y cuarzos. La caliza, la calcita o la aragonita (todas CaCO3) se forman porque la roca es rica en calcio y carbonato. Un corolario es que no se encontrará un mineral en una roca cuya química mayor no se parezca a la química mayor del mineral dado, con la excepción de algunas trazas de minerales. Por ejemplo, la cianita, Al2SiO5, se forma a partir del metamorfismo de lutitas ricas en aluminio; no sería probable que ocurriera en rocas pobres en aluminio, como la cuarcita.
+La composición química puede variar entre las especies terminales de una serie de solución sólida. Por ejemplo, los feldespatos plagioclasa comprenden una serie continua que va desde el miembro extremo de la albita, rica en sodio (NaAlSi3O8), hasta la anortita, rica en calcio (CaAl2Si2O8), con cuatro variedades intermedias reconocidas entre ellas (recogidas en orden de riqueza del sodio al calcio): oligoclasa, andesina, labradorita y bytownita.[2]​: 586  Otros ejemplos de serie son la serie del olivino, desde la forsterita, rica en magnesio, a la fayalita, rica en hierro, y la serie del wolframita, desde la hübnerita, rica en manganeso, hasta la ferberita, rica en hierro.
+La sustitución química y la coordinación de poliedros explican esta característica común de los minerales. En la naturaleza, los minerales no son sustancias puras, y se contaminan por otros elementos que están presentes en el sistema químico dado. Como resultado, es posible que un elemento sea sustituido por otro.[2]​: 141  La sustitución química se producirá entre iones de un tamaño y carga similares; por ejemplo, K+ no sustituirá a Si4+ debido a las incompatibilidades químicas y estructurales causadas por la gran diferencia en tamaño y carga. Un ejemplo común de sustitución química es el del Si4+> por Al3+, que están próximos en carga, tamaño y abundancia en la corteza terrestre. En el ejemplo de la plagioclasa, hay tres casos de sustitución. Los feldespatos son todos armazones de sílice, que tienen una relación de silicio-oxígeno de 2:1, y el espacio para otros elementos se da por la sustitución del ion Si4+ por el ion Al3+ para dar una unidad de base de [AlSi3O8]−; sin la sustitución, la fórmula puede ser cargada-equilibrada como SiO2, dando cuarzo.[2]​: 14  La importancia de esta propiedad estructural se explica además por los poliedros de coordinación. La segunda sustitución se produce entre el ion Na+ y el ion Ca2+; sin embargo, la diferencia en la carga tiene que contabilizarse haciendo una segunda sustitución del ion Si4+ por el ion Al3+.[2]​: 585 
+La coordinación de poliedros es una representación geométrica de cómo un catión está rodeado por un anión. En mineralogía, debido a su abundancia en la corteza terrestre, los poliedros de coordinación se consideran generalmente en términos del oxígeno. La unidad base de los minerales de silicato es el tetraedro de sílice —un ion [SiO4]4− rodeado de cuatro O2−—. Una forma alternativa de describir la coordinación del silicato es mediante un número: en el caso del tetraedro de sílice, se dice que tiene un número de coordinación de 4. Diversos cationes tienen un rango específico de posibles números de coordinación; para el silicio, es casi siempre 4, excepto para minerales de muy altas presiones en los que los compuestos se comprimen de tal manera que el silicio está seis veces (octaédrico) coordinado con el oxígeno. Los cationes mayores tienen un número de coordinación más grande debido al aumento en el tamaño relativo en comparación con el oxígeno (la última subcapa orbital de los átomos más pesados es diferente también). Los cambios en los números de coordinación conduce a diferencias físicas y mineralógicas; por ejemplo, a alta presión, tal como en el manto, muchos minerales, especialmente algunos silicatos como el olivino y los granates cambiarán a una estructura de perovskita, en el que el silicio está en coordinación octaédrica. Otro ejemplo son los aluminosilicatos cianita, andalucita y silimanita (polimorfos, ya que comparten la fórmula Al2SiO5), que se diferencian por el número de coordinación del Al3+; estos minerales transitan de uno al otro como una respuesta a los cambios en la presión y en la temperatura.[2]​: 4–7  En el caso de materiales de silicato, la sustitución del ion Si4+ por Al3+ permite una variedad de minerales, debido a la necesidad de equilibrar las cargas.[2]​: 12–17 
+
+Los cambios de temperatura, de presión y de composición alteran la mineralogía de una roca simple: los cambios en la composición pueden ser causados por procesos como la erosión o metasomatismo (alteración hidrotérmica); los cambios en la temperatura y en la presión se producen cuando la roca madre se somete a movimientos tectónicos o magmáticos en diferentes regímenes físicos; y los cambios en las condiciones termodinámicas favorecen que algunas asociaciones de minerales reaccionen entre sí para producir nuevos minerales. Como tal, es posible que dos rocas tengan una química de roca base idéntica, o muy similar, sin tener una mineralogía similar. Este proceso de alteración mineralógica está relacionado con el ciclo de las rocas. Un ejemplo de una serie de reacciones minerales se ilustra como sigue.[2]​: 549 
+El feldespato ortoclasa (KAlSi3O8) es un mineral que se encuentra comúnmente en el granito, una roca ígnea plutónica. Cuando se expone a la intemperie, reacciona para formar caolinita (Al2Si2O5(OH)4, un mineral sedimentario, y ácido silícico):
+
+2KAlSi3O8 + 5H2O + 2H+ → Al2Si2O5(OH)4 + 4H2SiO3 + 2K+
+Bajo condiciones metamórficas de bajo grado, la caolinita reacciona con el cuarzo para formar pirofilita (Al2Si4O10(OH)2):
+
+Al2Si2O5(OH)4 + SiO2 → Al2Si4O10(OH)2
+A medida que aumenta el grado metamórfico, la pirofilita reacciona para formar cianita y cuarzo:
+
+Al2Si4O10(OH)2 → Al2SiO5 + 3SiO2 + H2O
+Alternativamente, un mineral puede cambiar su estructura cristalina como consecuencia de cambios de temperatura y de presión sin reaccionar. Por ejemplo, el cuarzo se convertirá en una variedad de sus polimorfos de SiO2, como la tridimita y la cristobalita a altas temperaturas, y en coesita a altas presiones.[2]​: 579 
+
+
+== Propiedades físicas de los minerales ==
+La caracterización de los minerales puede variar de ser muy simple a muy difícil. Un mineral puede ser identificado por varias propiedades físicas, siendo algunos de ellas suficientes para una plena identificación sin ambigüedades. En otros casos, los minerales sólo se pueden clasificar mediante análisis más complejos, ópticos, químicos o de difracción de rayos X; estos métodos, sin embargo, pueden ser costosos y consumen mucho tiempo. Las propiedades físicas que se estudian para la clasificación son la estructura cristalina y el hábito, la dureza y el lustre, la diafanidad, el color, el rayado, la exfoliación y la fractura, y la densidad relativa. Otras pruebas menos generales son la fluorescencia y fosforescencia, el magnetismo, la radioactividad, la tenacidad (respuesta a los cambios mecánicos inducidos de forma), la piezoelectricidad y la reactividad para diluir ácidos.[2]​: 22–23 
+
+
+=== Estructura cristalina y hábito ===
+ 
+
+La estructura cristalina resulta de la disposición espacial geométrica ordenada de los átomos en la estructura interna de un mineral. Esta estructura cristalina se basa en una disposición atómica o iónica interna regular, que se expresa a menudo en la forma geométrica que el cristal toma. Incluso cuando los granos minerales son demasiado pequeños para ser vistos o son de forma irregular, la estructura cristalina subyacente siempre es periódica y se puede determinar por difracción de rayos X.[2]​: 2–4  Los minerales por lo general son descritos por su contenido de simetría. Los cristales están cristalográficamente restringidos a 32 grupos de puntos, que se diferencian por su simetría. Estos grupos se clasifican a su vez en categorías más amplias, siendo las de mayor alcance seis familias de cristales.[2]​: 69–80  (a veces una de las familias, la hexagonal, también se divide en dos sistemas cristalinos: el trigonal, que tiene un eje tres veces simétrico, y el hexagonal, que tiene un eje seis veces simétrico.)
+Estas familias pueden ser descritas por las longitudes relativas de los tres ejes cristalográficos, y los ángulos que forman entre ellos; estas relaciones corresponden a las operaciones de simetría que definen los grupos de puntos más estrechos. Se resumen a continuación; a, b, y c representan los ejes, y α, β, y γ representan el ángulo opuesto al eje cristalográfico respectivo (por ejemplo, α es el ángulo opuesto al eje a, es decir el ángulo entre los ejes b y c.):[2]​: 69–80 
+
+La química y la estructura cristalina, en conjunto, definen un mineral. Con una restricción a grupos de 32 puntos, los minerales de diferente química pueden tener una estructura cristalina idéntica. Por ejemplo, la halita (NaCl), la galena (PbS) y la periclasa (MgO) pertenecen todas al grupo de puntos hexaoctahedral (familia isométrica), ya que tienen una estequiometría similar entre sus diferentes elementos constitutivos. En contraste, los polimorfos son agrupaciones de minerales que comparten una fórmula química, pero que tienen una estructura diferente. Por ejemplo, la pirita y la marcasita, ambos sulfuros de hierro, tienen la fórmula FeS2; sin embargo, el primero es isométrico mientras que el último es ortorrómbico. Este polimorfismo se extiende a otros sulfuros de fórmula genérica AX2; estos dos grupos son conocidos colectivamente como los grupos de la pirita y marcasita.[2]​: 654–655 
+El polimorfismo se puede extender más allá del contenido de la pura simetría. Los aluminosilicatos son un grupo de tres minerales —cianita, andalucita y silimanita— que comparten la fórmula química Al2SiO5. La cianita es triclınica, mientras que la andalucita y la silimanita son ambas ortorrómbicas y pertenecen al grupo de puntos bipiramidal. Estas diferencias surgen en correspondencia a cómo el aluminio se coordina dentro de la estructura cristalina. En todos los minerales, un ion de aluminio está siempre seis veces coordinado con el oxígeno; el silicio, por regla general está en coordinación de cuatro veces en todos los minerales; una excepción es un caso como la stishovita (SiO2, un polimorfo de cuarzo de ultra-alta presión con estructura de rutilo).[2]​: 581  En la cianita, el segundo aluminio está en coordinación seis veces; su fórmula química se puede expresar como Al[6]Al[6]SiO5, para reflejar su estructura cristalina. La andalucita tiene el segundo aluminio en coordinación cinco veces (Al[6]Al[5]SiO5) y la silimanita lo tiene en coordinación de cuatro veces ((Al[6]Al[4]SiO5).[2]​: 631–632 
+Las diferencias en la estructura cristalina y la química influyen mucho en otras propiedades físicas del mineral. Los alótropos del carbono, el diamante y el grafito, tienen propiedades muy distintas; el diamante es la sustancia natural más dura, tiene un lustre adamantino, y pertenece a la familia isométrica, mientras que el grafito es muy blando, tiene un lustre grasiento, y cristaliza en la familia hexagonal. Esta diferencia se explica por diferencias en el enlace. En el diamante, los átomos de carbono están en orbitales híbridos sp3, lo que significa que forman un marco o armazón en el que cada carbono está unido covalentemente a cuatro vecinos de una manera tetraédrica. Por otro lado, el grafito forma láminas de átomos de carbono en orbitales híbridos sp2, en los que cada átomo de carbono está unido covalentemente a sólo otros tres. Estas hojas se mantienen unidas por fuerzas mucho más débiles que las fuerzas de van der Waals, y esta discrepancia se traduce en grandes diferencias macroscópicas.[2]​: 166 
+
+La macla es la interpenetración entre dos o más cristales de una única especie mineral. La geometría de la macla está controlada por la simetría del mineral y, como resultado, hay varios tipos: de contacto, reticuladas, geniculadas, de penetración, cíclicas y polisintéticas. Las maclas de contacto, o maclas simples, constan de dos cristales unidos en un plano; este tipo de maclas es común en la espinela; las maclas reticuladas, comunes en forma de rutilo, son cristales entrelazados que se asemejan a un reticulado. Las maclas geniculadas tienen una mezcla en el medio que es causada por el comienzo del maclado. Las maclas de penetración constan de dos cristales individuales que han crecido uno dentro de otro; ejemplos de este hermanamiento son las maclas en forma de cruz de la estaurolita y las maclas de Carlsbad en la ortoclasa. Las maclas cíclicas son causadas por el maclado repetido en torno a un eje de rotación. Se produce alrededor de tres, cuatro, cinco, seis, o ocho ejes de plegado. Las maclas polisintéticas son similares a las maclas cíclicas por la presencia de maclados repetitivos aunque, en lugar de producirse alrededor de un eje de rotación, lo hacen siguiendo planos paralelos, por lo general en una escala microscópica.[2]​: 41–43 [6]​: 39 
+El hábito cristalino se refiere a la forma general de cristal. Se utilizan varios vocablos para describir esta propiedad: acicular, que describe cristales en forma de aguja como en la natrolita; acuchillado; arborescente o dendrítica (patrón de árbol, común en el cobre nativo); equante, que es típico del granate; prismático (alargado en una dirección); y tabular, que se diferencia de acuchillado en que el primero es plano mientras que este último tiene un alargamiento definido. En relación con la forma cristalina, la calidad de las caras del cristal es diagnóstico de algunos minerales, especialmente con un microscopio petrográfico. Los cristales euhedrales tienen una forma externa definida, mientras que los cristales anhedrales no la tienen; las formas intermedias se denominan subhedrales.[2]​: 32–39 [6]​: 38 
+
+
+=== Dureza ===
+
+La dureza de un mineral define cuánto puede resistir el rayado. Esta propiedad física depende de la composición química y de la estructura cristalina, y por ello no es necesariamente constante en todas las caras; la debilidad cristalográfica hace que algunas direcciones sean más blandas que otras.[2]​: 28–29  Un ejemplo de esta propiedad se muestra en la cianita, que tiene una dureza de Mohs de 5½ en la dirección paralela a [001], pero de 7 paralela a [100].[30]​
+La escala más común de medición es la escala de dureza de Mohs ordinaria. Definida por diez indicadores, un mineral con un índice más alto raya los minerales que están por debajo de él en la escala. La escala va desde el talco, un silicato estratificado, hasta el diamante, un polimorfo de carbono que es el material natural más duro.[2]​: 28–29 
+
+
+=== Lustre y diafanidad ===
+
+El lustre o brillo indica cómo se refleja la luz que incide sobre la superficie del mineral, una propiedad que no depende del color y sí de su naturaleza química: es más intenso en sustancias que tienen enlaces metálicos y menor en las de enlaces iónicos o covalentes. El tipo y la intensidad del brillo dependen del índice de refracción y de la relación entre la luz absorbida y la reflejada. Hay numerosos vocablos cualitativos para su descripción, que se agrupan en tres:
+
+brillo metálico, cuando reflejan casi toda la luz visible que reciben. Son opacos y con índices de refracción mayores de 3. Suelen ser metales nativos (cuando no están oxidados) y muchos sulfuros (pirita) y óxidos de metales de transición (hematites).
+brillo submetálico, cuando reflejan una pequeña parte de la luz visible que reciben. Son opacos y su índice de refracción es ligeramente inferior a 3. Suelen ser elementos semimetálicos (grafito), sulfuros y óxidos.
+brillo no metálico, cuando transmiten la luz en cierto grado. Esta condición es ambigua y se emplean varios vocablos para estimar los matices:
+vítreo, con índice de refracción 1.33-2.00. Son minerales transparentes, en general compuestos por aniones oxigenados (oxoaniones), como carbonatos, sulfatos, fosfatos, silicatos, nitratos, etc. También varios halogenuros y óxidos (cuarzo hialino o cristal de roca);
+adamantino, con índice de refracción 2.00-2.50. Es el brillo típico del diamante y de algunas otras variedades aunque a veces para estas se usa el término «subadamantino»;
+nacarado o perlado, un brillo irisado típico de minerales fácilmente exfoliables, como las micas, el yeso y la apofilita;
+craso o graso, motivado por la presencia de pequeñas rugosidades en la superficie, a veces microscópicas. Lo tienen algunas blendas, la nefelina y el cuarzo en masa o lechoso;
+resinoso o céreo, de minerales como el azufre y ciertas blendas y granates;
+sedoso, característico de minerales fibrosos, como el yeso fibroso, la crisotila y la ulexita;
+mate, cuando no presentan ningún reflejo, como la creta (calcita) o las arcillas. En este caso también se dice que el mineral no tiene brillo.[2]​: 26–28 
+
+	Diferentes brillos de minerales
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+La diafanidad de un mineral describe la capacidad de la luz de pasar a través de él. Los minerales transparentes no disminuyen la intensidad de la luz que pasa a través de ellos. Un ejemplo de estos minerales es la moscovita (mica de potasio); algunas variedades son lo suficientemente claras como para haber sido utilizadas como vidrios en las ventanas. Los minerales translúcidos permiten pasar algo de luz, pero menos que los que son transparentes. La jadeíta y nefrita (formas minerales del jade) son ejemplos de minerales con esta propiedad. Los minerales que no dejan pasar la luz se denominan opacos.[31]​[2]​: 25 
+La diafanidad de un mineral depende del espesor de la muestra. Cuando un mineral es suficientemente delgado (por ejemplo, en una lámina delgada para petrografía) puede llegar a ser transparente, incluso si esa propiedad no se ve en la muestra de mano. Por el contrario, algunos minerales, como la hematita o la pirita son opacos incluso en láminas delgadas.[2]​: 25 
+
+
+=== Color y raya ===
+
+El color es la propiedad más obvia de un mineral, pero a menudo no sirve para caracterizarlo.[2]​: 23  Es causada por la radiación electromagnética que interactúa con los electrones (excepto en el caso de incandescencia, que no se aplica a los minerales).[2]​: 131–144  Por su contribución en el color, se definen tres grandes clases de minerales:
+
+minerales idiocromáticos (o 'autocoloreados'), que deben su color a los constituyentes principales y que son diagnosticables.[31]​<[2]​: 24  Son minerales siempre del mismo color, como la malaquita (verde), la azurita (azul) y muchos minerales metálicos. Sus colores suelen variar ligeramente debido a la presencia de pequeñas cantidades de otros metales: el oro, por ejemplo, es menos amarillo cuando se mezcla con un poco de plata, y más rosado cuando es mezclado junto con cobre.
+minerales alocromáticos (o 'coloreados por otros'), que deben su coloración a pequeñas cantidades en la composición consideradas como impurezas, a las que se llama cromóforos, usualmente metales (hierro, cromo, cobre, vanadio o manganeso). Son capaces de adoptar más de una coloración, como el berilo o las dos variedades del corindón, el rubí y el zafiro.[2]​: 24  Algunos minerales alocromáticos que pueden tener prácticamente cada color imaginable, e incluso pueden tener muchos colores en un solo cristal.
+minerales pseudocromáticos (o 'de color falso'), cuya coloración proviene de la estructura física del cristal y la interferencia con las ondas de luz. Son ejemplos la labradorita, la bornita y el ópalo, que está formado por capas microscópicas de esferas de sílice. Al pasar a su través la luz se separa en los colores que la componen, más o menos como ocurre cuando se refleja en una capa de aceite sobre el agua.
+Algunos metales, como el hierro, pueden ser tanto alocromático como idiocromático: en el primer caso es considerado como una impureza, mientras que en el segundo forma parte intrínseca del mineral coloreado.
+El color de algunos minerales puede cambiar, ya sea de manera natural o con un poco de ayuda. Los bajos niveles de radiación, que se dan a menudo en la naturaleza, pueden contribuir a oscurecer algunos minerales incoloros. Los mismos berilos de color amarillo verdoso se tratan artificialmente ahora con calor para darles una coloración más azulada.
+Además del simple color del cuerpo, los minerales pueden tener otras propiedades ópticas distintivas que pueden implican variabilidad del color:
+
+juego de colores, como en el ópalo, significa que la muestra refleja diferentes colores cuando se ilumina, a causa de que la luz se refleja desde las ordenadas esferas de sílice microscópicas de su estructura física.[32]​
+pleocroísmo, facultad de absorber las radiaciones luminosas de distinta manera en función de la dirección de vibración: un mismo cristal puede aparecer con coloraciones diferentes dependiendo de la orientación en que haya caído en la preparación microscópica
+iridiscencia, una variedad del juego de colores por la que la luz se dispersa en un recubrimiento sobre la superficie del cristal, planos de exfoliación o capas desactivas que tienen gradaciones químicas menores.[2]​: 24–26 
+chatoyancia («ojo de gato») es el efecto de bandas onduladas de color que se observan cuando se rota la muestra;
+asterismo, una varidead de la chatonyancia, un fenómeno sobre un área que hace aparecer una estrella sobre la superficie reflectante de un corte de cabujón. Se da en algunos rubíes, zafiros y otras gemas (granate-estrella, diópsido-estrella, espinela-estrella, etc.) y particularmente en el corundum de calidad gema.[2]​: 24–26 [32]​
+empañamiento
+
+	Propiedades ópticas
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+La raya de un mineral se refiere al color de un mineral en forma de polvo, que puede o no ser idéntico al color de su cuerpo.[2]​: 24  La forma más común de evaluar esta propiedad se hace con una placa de raya, que está hecha de porcelana y es de color blanco o negro. La raya de un mineral es independiente de los elementos traza[31]​ o de cualquier alteración de la superficie a causa de la intemperie.[2]​: 24  Un ejemplo común de esta propiedad se ilustra con la hematita, que es de color negro, plata o rojo en la muestra, pero que tiene una raya de color rojo cereza.[31]​ a marrón rojizo.[2]​: 24  La raya es más a menudo distintiva de los minerales metálicos, en contraste con los minerales no metálicos, cuyo color de cuerpo está creada por elementos alocromáticos.[31]​ La prueba de la raya se ve limitada por la dureza del mineral, ya que los minerales de dureza superior a siete rayan ellos la placa.[2]​: 24 
+
+
+=== Exfoliación, partición, fractura y tenacidad ===
+
+Por definición, los minerales tienen una disposición atómica característica y cualquier debilidad de esa estructura cristalina es la causa de la existencia de los planos de debilidad. La rotura del mineral a lo largo de esos planos se denomina exfoliación. La calidad de la exfoliación puede ser descrita en función de cómo de limpia y fácilmente se rompa el mineral; los vocablos con los que se describen comúnmente esa calidad, en orden decreciente, son «perfecto», «bueno», «distinto» y «pobre». En particular en los minerales transparentes, o en una sección delgada, la exfoliación se puede ver como una serie de líneas paralelas que señalan las superficies planas cuando se ven de lado. La exfoliación no es una propiedad universal de los minerales; por ejemplo, el cuarzo, compuesto por tetraedros de sílice muy interconectados, no tiene ninguna debilidad cristalográfica que le permitiría exfoliarse. Por el contrario, las micas, que tienen una exfoliación basal perfecta, consisten en láminas de tetraedros de sílice que se mantienen juntas muy débilmente.[2]​: 39–40 [6]​: 29–30 
+Como la exfoliación es función de la cristalografía, hay gran variedad de tipos de exfoliación produciéndose en uno, dos, tres, cuatro o seis direcciones. La exfoliación basal en una única dirección es una característica distintiva de las micas. La exfoliación en dos direcciones, denominada prismática, se produce en anfíboles y piroxenos. Los minerales como la galena o la halita tienen exfoliación cúbica (o isométrica) en tres direcciones, a 90°; cuando hay tres direcciones de exfoliación, pero no a 90°, como en la calcita o en la rodocrosita, se denomina exfoliación romboédrica. La exfoliación octaédrica (cuatro direcciones) está presente en la fluorita y en el diamante, y la esfalerita tiene seis direcciones de exfoliación del dodecaedro.[2]​: 39–40 [6]​: 30–31 
+Los minerales con muchas exfoliaciones pueden no romper igual de bien en todas las direcciones; por ejemplo, la calcita tiene buena exfoliación en tres direcciones, pero el yeso solo tiene una exfoliación perfecta en una dirección, y pobre en las otras dos. Los ángulos entre los planos de exfoliación varían entre los minerales. Por ejemplo, dado que los anfíboles son silicatos de cadena doble y los piroxenos son silicatos de cadena única, el ángulo entre sus planos de exfoliación es diferente: los piroxenos exfolian en dos direcciones a aproximadamente 90°, mientras que los anfíboles lo hacen claramente en dos direcciones separadas aproximadamente a 120° y 60°. Los ángulos de exfoliación se pueden medir con un goniómetro de contacto, que es similar a un transportador.[2]​: 39–40 [6]​: 30–31 
+La partición, a veces llamada «exfoliación falsa», es similar en apariencia a la exfoliación pero se produce por defectos estructurales en el mineral en lugar de por una debilidad sistemática. La partición varía de cristal a cristal de un mismo mineral, mientras que todos los cristales de un mineral determinado exfoliaran si la estructura atómica permite tal propiedad. En general, la partición es causada por una cierta tensión aplicada a un cristal. Las fuentes de las tensiones incluyen la deformación (por ejemplo, un aumento de la presión), exsolution o maclado. Los minerales que a menudo muestran partición son los piroxenos, la hematita, la magnetita y el corindón.[2]​: 39–40 [6]​: 30–31 
+Cuando un mineral se rompe en una dirección que no corresponde a un plano de exfoliación, se habla de fractura. Hay varios tipos:
+
+concoidea, cuando se forman superficies redondeadas cóncavas o convexas, de relieve suave. Se produce solo en minerales muy homogéneo, siendo el ejemplo clásico la fractura del cuarzo;
+lisa, cuando aparecen superficies planas, suaves y sin asperezas;
+desigual o irregular, cuando surgen superficies rugosas e irregulares. Se da en el cobre nativo[2]​: 31–33 ;
+fibrosa o astillosa, cuando se rompe como una madera, formando astillas;
+ganchuda, cuando la superficie de rotura aparece dentada;
+terrosa, cuando se desmorona como un terrón.
+La tenacidad está relacionada tanto con la exfoliación y la fractura. Mientras que la fractura y la exfoliación describen las superficies que se crean cuando el mineral se rompe, la tenacidad describe la resistencia que ofrece el mineral a tal ruptura. Los minerales pueden ser:[2]​: 30–31 
+
+frágiles, cuando rompen con facilidad con poco esfuerzo;
+maleables, cuando se laminan mediante golpes;
+sectiles, cuando se secciona con una cuchilla formando virutas;
+dúctiles, cuando se puede estirar convirtiéndose en un hilo;
+flexibles, cuando al ser doblados no recuperan la forma al cesar el esfuerzo;
+elásticos, cuando al ser doblados recuperan la forma al cesar el esfuerzo.
+
+
+=== Densidad relativa ===
+
+La densidad relativa (a veces llamada gravedad específica) describe numéricamente la densidad de un mineral. Las dimensiones de la densidad son unidades de masa divididas por unidades de volumen: kg/m³ o en g/cm³. La densidad relativa mide la cantidad de agua desplazada por una muestra mineral. Se define como el cociente de la masa de la muestra y la diferencia entre el peso de la muestra en el aire y su correspondiente peso en agua; la densidad relativa es una relación adimensional, sin unidades. Para la mayoría de los minerales, esta propiedad no sirve para caracterizarlos. Los minerales que forman las rocas —normalmente silicatos y occasionalmente carbonatos— tienen una densidad relativa de 2.5–3.5.<[2]​: 43–44 
+Una alta densidad relativa si permite diagnosticar algunos minerales. La variación química (y por consiguiente, en la clase mineral) se correlaciona con un cambio en la densidad relativa. Entre los minerales más comunes, los óxidos y sulfuros tienden a tener una alta densidad relativa, ya que incluyen elementos con mayor masa atómica. Una generalización es que los minerales metálicos o con brillo diamantino tienden a tener densidades relativas más altas que las que tienen los minerales no-metálicos o de brillo mate. Por ejemplo, la hematita, Fe2O3, tiene una densidad relativa de 5.26[33]​ mientras que la galena, PbS, tiene una gravedad específica de 7.2–7.6,[34]​ que es el resultado de su alto contenido en hierro y en plomo, respectivamente. La densidad relativa es muy alta en los metales nativos; la kamacita, una aleación de hierro-níquel común en los meteoritos de hierro, tiene una densidad relativa de 7.9,[35]​ y el oro tiene una densidad relativa observada entre 15 y 19.3.[2]​: 43–44 [36]​
+
+
+=== Otras propiedades ===
+
+Se pueden utilizar otras propiedades para identificar minerales, aunque son menos generales y solo aplicables a ciertos minerales.
+La inmersión en ácido diluido (a menudo en HCl al 10 %) ayuda a distinguir los carbonatos de otras clases de minerales. El ácido reacciona con el grupo del carbonato ([CO3] 2-), lo que causa que el área afectada sufra efervescencia, con desprendimiento de gas dióxido de carbono. Esta prueba se puede ampliar para poner a prueba el mineral en su forma original de cristal o en polvo. Un ejemplo de esta prueba se realiza para distinguir la calcita de la dolomita, especialmente dentro de las rocas (caliza y dolomía, respectivamente). La efervescencia de la calcita es inmediata en ácido, mientras que para que lo haga la dolomita el ácido debe aplicarse a muestras en polvo o sobre una superficie rayada en una roca.[2]​: 44–45  Los minerales de zeolita no sufren efervescencia en ácido; en vez de eso, se vuelven esmerilados después de 5-10 minutos, y si se dejan en ácido durante un día, se disuelven o se convierten en un gel de sílice.[37]​
+El magnetismo es una propiedad muy notable de ciertos minerales. Entre los minerales comunes, la magnetita muestra esta propiedad con fuerza, y también está presente, aunque no con tanta intensidad, en la pirrotita y la ilmenita.[2]​: 44–45 
+Algunos minerales también pueden identificarse mediante la prueba del sabor u olor. La halita, NaCl, es la sal de mesa; su homólogo de potasio, la silvita, tiene un sabor amargo pronunciado. Los sulfuros tienen un olor característico, sobre todo cuando las muestras están fracturadas, reaccionando o en polvo.[2]​: 44–45 
+La radiactividad es una propiedad poco frecuente, aunque algunos minerales pueden integrar elementos radiactivos. Pueden ser constituyentes que los definen, como el uranio en la uraninita, la autunita y la carnotita, o como impurezas traza. En este último caso, la desintegración de los elementos radiactivos daña el cristal mineral; el resultado, denominado «halo radiactivo» o «halo pleocroico», es observable mediante diversas técnicas, en especial en las láminas finas de petrografía.[2]​: 44–45 
+
+
+== Clases de minerales ==
+Dado que la composición de la corteza terrestre está dominada por el silicio y el oxígeno, los elementos con silicatos son, con mucho, la clase de minerales más importante en términos de formación de rocas y diversidad: la mayoría de las rocas se componen en más de un 95% de minerales de silicato, y más del 90% de la corteza terrestre está compuesta por estos minerales.[2]​: 104  Además de los componentes principales, silicio y oxígeno, son comunes en los minerales de silicato otros elementos comunes en la corteza terrestre, como el aluminio, el magnesio, el hierro, el calcio, el sodio y el potasio.[2]​: 5  Los silicatos más importantes que forman rocas son los feldespatos, los cuarzos, los olivinos, los piroxenos, los anfíboles, los granitos y las micas.
+A su vez, los minerales no-silicatos se subdividen en varias clases por su química dominante: elementos nativos, sulfuros, haluros, óxidos e hidróxidos, carbonatos y nitratos, boratos, sulfatos, fosfatos y compuestos orgánicos. La mayoría de las especies minerales no silicatos son extremadamente raras (constituyen en total un 8% de la corteza terrestre), aunque algunas son relativamente comunes, como la calcita, pirita, magnetita y hematita. Hay dos estilos estructurales principales observados en los no-silicatos: el empaquetamiento compacto y los tetraedros enlazados como aparecen en los silicatos. Las estructuras compactas son una manera de empaquetar densamente átomos y reducir al mínimo el espacio intersticial. El empaquetado compacto hexagonal consiste en apilar capas en las que cada capa es la misma ("ababab"), mientras que el empaquetado cúbico consiste en grupos de apilamiento de tres capas ("abcabcabc"). Análogos a los tetraedros de sílice enlazados son los tetraesdros que forman los iones SO4 (sulfato), PO4 (fosfato), AsO4 (arseniato), y VO4 (vanadato).
+Los minerales no-silicatos tienen una gran importancia económica, ya que concentran más elementos que los minerales de silicato[2]​: 641–643  y se explotan especialmente como menas.[2]​: 641, 681  
+
+
+=== Silicatos ===
+
+Los silicatos son sales que combinan la sílice SiO2 con otros óxidos metálicos. La base de la unidad de un mineral de silicato es el tetraedro [SiO4]4−: en la mayoría de casos, el silicio se encuentra coordinado cuatro veces, o en coordinación tetraédrica, con el oxígeno; en situaciones de muy altas presiones, el silicio estará coordinado seis veces, o en coordinación octaédrica, como en la estructura de perovskita o en el cuarzo polimorfo stishovita (SiO2). (En el último caso, el mineral ya no tiene una estructura de silicato, si no de rutilo (TiO2) y su grupo asociado, que son óxidos simples.) Estos tetraedros de sílice son luego polimerizados en algún grado para crear otras estructuras, como cadenas unidimensionales, láminas bidimensionales o armazones tridimensionales. El mineral de un silicato básico sin polimerización de tetraedros requiere de otros elementos que equilibren la base cargada 4-. En las otras estructuras de silicato son varias las combinaciones de elementos que equilibran esa carga negativa. Es común que el Si4+ sea sustituido por Al3+ debido a la similitud en radio iónico y en carga; en otros casos, los tetraedros de [AlO4]5− forman las mismas estructuras que lo hacían los tetraedros no sustituidos, pero los requisitos del equilibrio de cargas son diferentes.[2]​: 104–120 
+El grado de polimerización puede ser descrito tanto por la estructura formada como por el número de vértices tetraédricos (u oxígenos de coordinación) compartidos (por el aluminio y el silicio en sitios tetraédricos):[2]​: 105  los ortosilicatos (o nesosilicatos) no tienen ninguna vinculación de poliedros, así que los tetraedros no comparten vértices; los disilicatos (o sorosilicatos) tienen dos tetraedros que comparten un átomo de oxígeno; los inosilicatos son silicatos en cadena: los de cadena simple tienen dos vértices compartidos y los de cadena doble dos o tres; los filosilicatos forman una estructura de lámina que requiere tres oxígenos compartidos (en el caso de silicatos de cadena doble, algunos tetraedros deben compartir dos vértices en lugar de tres como harían si resultase una estructura de lámina); los silicatos en armazón o tectosilicatos, tienen tetraedros que comparten los cuatro vértices; los silicatos de anillo, o ciclosilicatos, solo necesitan tetraedros que compartan dos vértices para formar la estructura cíclica.[2]​: 104–117 
+Se describen a continuación en orden decreciente de polimerización, las subclases de silicato.
+
+	Enlaces de tetraedros
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Tectosilicatos ====
+
+Los tectosilicatos son muy abundantes, constituyendo aproximadamente el 64 % de los minerales de la corteza terrestre.[38]​
+También conocidos como silicatos de estructura en armazón, tienen el grado de polimerización más alto y tienden a ser químicamente estables como resultado de la fuerza de los enlaces covalentes.[6]​: 502  Son ejemplos el cuarzo, los feldespatos, los feldespatoides, y las zeolitas. 
+Tienen una estructura basada en un entramado tridimensional de tetraedros (ZO4) con los cuatro vértices ocupados por el ion O2- compartidos, lo que implica relaciones Z:O=1:2.[38]​ La Z es silicio (Si) (la fórmula resultante es SiO2, sílice), pero parte del Si4+ puede ser reemplazado por Al3+ (en raras ocasiones por Fe3+, Ti3+ y B3+).[39]​ Al suceder esto, las cargas negativas resultantes se compensan con la entrada de cationes grandes, como el K+, el Na+ o el Ca2+ (y con menos frecuencia Ba2+, Sr2+ y Cs+).[39]​ También pueden tener aniones complementarios F−, Cl−, S2−, CO32−, SO42−.[39]​
+El cuarzo (SiO2) es la especie mineral más abundante, formando el 12 % de la corteza terrestre. Se caracteriza por su alta resistividad química y física. Tiene varios polimorfos, incluyendo la tridimita y la cristobalita a altas temperaturas, la coesita a alta presión y la stishovita a ultra-alta presión. Este último mineral solo puede formarse en la Tierra por impacto de meteoritos, y su estructura está tan compuesta que había cambiado de una estructura de silicato a la de rutilo (TiO2). El polimorfo de sílice que es más estable en la superficie de la Tierra es el α-cuarzo. Su homólogo, el cuarzo-β, está presente solo a altas temperaturas y presiones (a 1 bar, cambia a cuarzo-α por debajo de 573 °C). Estos dos polimorfos difieren en un retorcimiento de los enlaces; este cambio en la estructura da al cuarzo-β mayor simetría que al cuarzo-α, y por lo tanto también se les llama cuarzo alto (β) y cuarzo bajo (α).[2]​: 104 [2]​: 578–583 
+Los feldespatos son el grupo más abundante en la corteza terrestre, en torno al 50 %. En los feldespatos, los Al3+ sustitutos de los Si4+ crean un desequilibrio de carga que debe ser explicado por la adición de cationes. La estructura de base se convierte ya en [AlSi3O8], ya en [Al2Si2O8]2−. Hay 22 especies minerales de feldespatos, subdivididas en dos grandes subgrupos —alcalino y plagioclasa— y dos grupos menos comunes —celsiana y banalsita. Los feldespatos alcalinos son los más comunes en una serie que va desde la entre ortoclasa, rica en potasio, a la albita, rica en sodio; en el caso de las plagioclasas, la serie más común varía desde la albita a la anortita, rica en calcio. El maclado de cristales es común en los feldespatos, especialmente con maclas polisintéticas en las plagioclasas y maclas de Carlsbad en los feldespatos alcalinos. Si el último subgrupo se enfría lentamente a partir de una masa fundida, se forma laminillas de exsolution porque los dos componentes —ortoclasa y albita— son inestables en solución sólida. La exsolution puede darse desde una escala microscópica hasta ser fácilmente observable en la muestra de mano; se forma una textura pertitica cuando un feldespato rico en Na exsolve en un huésped rico en K. La textura opuesta (antipertitica), cuando un feldespato rico en K exsolve en un huésped rico en Na, es muy rara.[2]​: 583–588 
+Los feldespatoides son estructuralmente similares a los feldespatos, pero se diferencian en que se forman en condiciones de carencia de silicio lo que permite una mayor sustitución por Al3+. Como resultado, los feldespatoides no se pueden asociar con cuarzo. Un ejemplo común de un feldespatoide es la nefelina ((Na, K)AlSiO4); comparada con los feldespatos alcalinos, la nefelina tiene una relación Al2O3: SiO2 de 1: 2, en lugar de 1:6 en el feldespato.[2]​: 588 
+Las zeolitas a menudo tienen hábitos de cristal distintivos, produciendo agujas, placas o bloques masivos. Se forman en presencia de agua a bajas temperaturas y presiones, y tienen canales y huecos en su estructura. Las zeolitas tienen varias aplicaciones industriales, especialmente en el tratamiento de aguas residuales.[2]​: 589–593 
+
+	Ejemplos de tectosilicatos
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Filosilicatos ====
+
+Los filosilicatos son un grupo de minerales muy extendidos en la corteza terrestre, integrantes de muchos tipos de rocas, ígneas, metamórficas y sedimentarias. Las arcillas están formadas fundamentalmente por filosilicatos.
+La característica principal de los filosilicatos es su disposición en capas, que ocasiona hábitos típicos fácilmente reconocibles (minerales hojosos o escamosos). Además suelen ser minerales blandos y poco densos.
+Los filosilicatos consisten en apilamientos de láminas de tetraedros polimerizados. Las láminas, desde el punto de vista estructural, son de dos tipos: tetraédricas y octaédricas. Los tetraédricas están enlazados a tres sitios de oxígeno, lo que da una relación característica de silicio:oxígeno de 2:5. Ejemplos importantes son la mica, el grupo de las cloritas y los grupos de caolinita-serpentina. Las láminas están débilmente enlazadas por fuerzas de van der Waals o enlaces de hidrógeno, lo que provoca una debilidad cristalográfica, que a su vez conduce a una prominente exfoliación basal entre los filosilicatos.[6]​: 525  Además de los tetraedros, los filosilicatos tienen una hoja de octaedros (elementos de coordinación seis con oxígeno) que equilibran los tetraedros de base, que tienen una carga negativa (por ejemplo, [Si4O10]4−) Estas hojas de tetraedros (T) y octaedros (O) se apilan en una gran variedad de combinaciones para crear los distintos grupos de los filosilicatos. En una capa octaédrica, hay tres sitios octaédricos en una estructura única; sin embargo, no todos los sitios pueden estar ocupados. En ese caso, el mineral se denomina dioctahédrico, mientras que en otro caso se denomina trioctaédrico.[2]​: 110 
+El grupo de la caolinita-serpentina consiste en pilas de T-O (minerales de arcilla 1:1); su dureza varía de 2 a 4, cuando las láminas están retenidas por enlaces de hidrógeno. Los minerales de arcilla 2:1 (pirofilita-talco) consisten en pilas T-O-T, pero son más blandos (dureza 1-2), ya que están se mantienen unidos por fuerzas de van der Waals. Estos dos grupos de minerales están divididos en subgrupos según la ocupación octaédrica; específicamente, la caolinita y la pirofilita son dioctaédricos mientras que la serpentina y el talco son trioctaédricos.[2]​: 110–113 
+Las micas son también filosilicatos T-O-T apilados, pero difieren de los otro miembros de las subclases apiladas T-O-T y T-O en que incorporan aluminio en las láminas tetraédricas (los minerales de arcilla tienen Al3+ en los sitios octaédricos). Ejemplos comunes de micas son la moscovita y las series de la biotita. El grupo de la clorita se relaciona con el grupo de la mica, pero con una capa similar a la brucita (Mg(OH)2) entre la de las pilas T-O-T.<[2]​: 602–605 
+A causa de su estructura química, los filosilicatos típicamente tienen capas flexibles, elásticas, transparentes que son aislantes eléctricos y se pueden dividir en escamas muy finas. Las micas se puede utilizar en la electrónica como aislantes, en la construcción, como relleno óptico, o incluso en cosméticos. Crisotila, una especie de serpentina, es la especie mineral más común en el amianto industrial, ya que es menos peligrosa en términos de la salud que los asbestos anfíboles.[2]​: 593–595 
+
+	Ejemplos de filosilicatos
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Inosilicatos ====
+
+Los inosilicatos son metasilicatos que consisten en tetraedros unidos repetidamente en cadenas. Estas cadenas pueden ser simples —cuando un tetraedro está unido a otros dos para formar una cadena continua —o dobles, cuando dos cadenas sencillas se combinan entre ellas. Los silicatos de cadena individuales tienen una relación de silicio:oxígeno de 1:3 (por ejemplo, [Si2O6]4−), mientras que las variedades de doble cadena tiene una proporción de 4:11, por ejemplo [Si8O22]12−. Los inosilicatos tienen dos importantes grupos de minerales que forman rocas; los piroxenos, generalmente silicatos de cadena simple, y los anfiboles, de cadena doble.[6]​: 537  Hay cadenas de orden superior (por ejemplo, cadenas de tres, cuatro o cinco miembros) pero son raras.[40]​
+El grupo de los piroxenos consta de 21 especies minerales.[2]​: 112  Los piroxenos tienen una fórmula de estructura general (XYSi2O6), siendo X un sitio octaédrico e Y otro que puede variar en número de coordinación de seis a ocho. La mayoría de las variedades de los piroxenos consisten en permutaciones de Ca2+, Fe2+ y Mg2+ que equilibran la carga negativa de la cadena principal. Los piroxenos son comunes en la corteza terrestre (aproximadamente el 10 %) y son un componente clave de las rocas ígneas máficas.[2]​: 612–613 
+Los anfiboles tienen una gran variabilidad química, por ello descritos a veces como un «cesto mineralógico» o un «tiburón mineralógico nadando en un mar de elementos». La columna vertebral de los anfíboles es la [Si8O22]12−; está equilibradoa por cationes en tres posiciones posibles, aunque la tercera posición no siempre se utiliza y un elemento puede ocupar las restantes. Los anfíboles están generalmente hidratados, es decir, que tienen un grupo hidroxilo ([OH]−), aunque puede ser reemplazado por un fluoruro, un cloruro, o un ion de óxido.[2]​: 606–612  Debido a su química variable, hay más de 80 especies de anfíboles, aunque las variaciones más comunes, como en los piroxenos, implican mezclas de Ca2+, Fe2+ y Mg2+.[2]​: 112  Varias especies minerales de los anfíboles pueden tener un hábito cristalino asbestiforme. Estos minerales de asbesto forman fibras largas, delgadas, flexibles y fuertes, que son aislantes eléctricos, químicamente inertes y resistentes al calor; como tal, tienen varias aplicaciones, especialmente en materiales de construcción. Sin embargo, los asbestos son conocidos carcinógenos, y causan varias enfermedades más, como la asbestosis; los asbestos anfíboles (antofilita, tremolita, actinolita, grunerita y riebeckita) se consideran más peligrosos que el asbesto serpentina crisotilo.[2]​: 611–612 
+
+	Ejemplos de inosilicatoss
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Ciclosilicatos ====
+
+La clase de los ciclosilicatos corresponde a la clase 9.C de la clasificación de Strunz y tiene 16 familias. Está integrada por tres o más tetraedros de [SiO4]4− unidos por sus vértices, formando un anillo cerrado, simple o doble, el cual puede tener enlaces iónicos con metales como por ejemplo sodio, calcio, hierro, aluminio, potasio, magnesio, etc.[41]​ Algunos ejemplos de ciclosilicatos son la turmalina, cordierita, rubelita, benitoita, dioptasa, etc.
+Los ciclosilicatos, o silicatos de anillo, tienen una relación de silicio a oxígeno de 1:3. Los anillos de seis miembros son los más comunes, con una estructura de base de [Si6O28]12−; ejemplos del grupo son la turmalina y el berilo. Hay otras estructuras de anillo, habiendo sido descritas las de 3, 4, 8, 9 y 12.[2]​: 113–115  Los ciclosilicatos tienden a ser fuertes, con cristales alargados y estriados.[2]​: 558  Los anillos pueden ser simples o ramificados, aislados unos de otros o agrupados en dos. Estos anillos están generalmente apilados en la estructura y determinar canales que puede estar vacíos u ocupados por iones o moléculas. Los ciclosilicates se clasifican según el tipo de anillos, y en particular por el número de tetraedros en el anillo. 
+Las turmalinas tienen una química muy compleja que puede ser descrita por una fórmula general XY3Z6(BO3) 3T6O18V3W. El T6O18 es la estructura básica del anillo, donde T es generalmente Si4+, pero pueden ser sustituidos por Al3+ o B3+. Las turmalinas pueden dividirse en subgrupos por el sitio que ocupe el X, y de ahí se subdividen por la química del sitio W. Los sitios Y y Z pueden acomodar una variedad de cationes, especialmente diversos metales de transición; esta variabilidad en el contenido del metal de transición estructural da al grupo de la turmalina mayor variabilidad en color. Otro ciclosilicato es el berilo, Al2Be3Si6O18, cuyas variedades incluyen piedras preciosas como la esmeralda (verde) y la aguamarina (azulado). La cordierita es estructuralmente similar al berilo, y es un mineral metamórfico común.[2]​: 617–621 
+
+	Ejemplos de ciclosilicatoss
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Sorosilicatos ====
+
+La clase de los sorosilicatos corresponde a la clase 9.B de la clasificación de Strunz y tiene 10 familias, de dos tipos, el de las epidotas y el de las idocrasas.
+Los sorosilicatos, también denominados disilicatos, tienen un enlace tetraedro-tetraedro en un oxígeno, lo que resulta en una relación de 2:7 de silicio al oxígeno. El elemento estructural común resultante es el grupo [Si2O7]6−. Los disilicatos más comunes son, con mucho, los miembros del grupo de la epidota. Las epidotas se encuentran en diversos entornos geológicos, que van desde las cordilleras oceánicas a los granitos y hasta las metapelitas. Las epidotas se construyen alrededor de la estructura [(Si2O4)(Si2O7)]10−; por ejemplo, las especies minerales de epidota tiene calcio, aluminio y hierro férrico para equilibrar las cargas: Ca2Al2(Fe3+,Al)(SiO4)(Si2O7)O(OH). La presencia de hierro como Fe3+ y Fe2+ ayuda a entender la fugacidad de oxígeno, que a su vez es un factor significativo en petrogénesis.[2]​: 612–627 
+Otros ejemplos de sorosilicatos son la lawsonita, un mineral metamórfico que forma las facies blueschist (ajuste de zona de subducción con baja temperatura y alta presión), la vesuvianita, que ocupa una cantidad significativa de calcio en su estructura química.[2]​: 612–627 [6]​: 565–573 
+
+
+==== Ortosilicatos ====
+
+La clase de los ortosilicatos corresponde a la clase 9.A de la clasificación de Strunz y tiene 10 familias con cerca de 120 especies.
+Los ortosilicatos consisten en tetraedros aislados que tienen las cargas equilibrada por otros cationes.[2]​: 116–117  También denominados nesosilicatos, este tipo de silicatos tiene una relación silicio:oxígeno de 1:4 (por ejemplo, SiO4). Los ortosilicatos típicos tienden a formar bloques de cristales equantes, y son bastante pesados.[6]​: 573  Varios minerales que forman rocas son parte de esta subclase, como los aluminosilicatos, el grupo del olivino o el grupo del granate.
+Los aluminosilicatos —cianita, andalucita, y silimanita, todos Al2SiO5— están estructuralmente compuestos por un tetraedro [SiO4]− y un Al3+ en coordinación octaédrica. El restante Al3+ puede estar en coordinación de seis (cianita), cinco (andalucita) o cuatro (silimanita); qué mineral se forma en un entorno dado depende de las condiciones de presión y temperatura. En la estructura del olivino, la serie principal de olivino (Mg, Fe)2SiO4 consisten en forsterita, rica en magnesio, y fayalita, rica en hierro. Tanto el hierro como el magnesio están en coordinación octaédrica con el oxígeno. Existen otras especies minerales que tienen esta estructura, como la tefroita, Mn2SiO4.[6]​: 574–575  El grupo del granate tiene una fórmula general de X3Y2(SiO4)3, donde X es un gran catión ocho veces coordinado, e Y es un catión menor seis veces coordinado. Hay seis miembros terminales ideales de granate, divididos en dos grupos. Los granates piralspita tienen Al3+ en la posición Y: piropo (Mg3Al2(SiO4)3), almandino (Fe3Al2(SiO4)3), y espesartina (Mn3Al2(SiO4)3). Los granates ugrandita tienen Ca2+ en la posición X: uvarovita (Ca3Cr2(SiO4)3), grossular (Ca3Al2(SiO4)3) y andradita (Ca3Fe2(SiO4)3). Si bien hay dos subgrupos de granate, existen soluciones sólidas entre los seis miembros finales.[2]​: 116–117 
+Otros ortosilicatos son el circón, la estaurolita y el topacio. El zirconio (ZrSiO4) es útil en geocronología ya que el Zr4+ puede ser sustituido por U6+; además, debido a su estructura muy resistente, es difícil resetearlo como un cronómetro. La estaurolita es un común mineral índice de grado intermedio metamórfico. Tiene una estructura cristalina particularmente complicada que solo fue descrita plenamente en 1986. El topacio (Al2SiO4(F, OH)2, que se encuentra a menudo en pegmatitas graníticas asociadas con turmalina, piedra preciosa es un mineral común.[2]​: 627–634 
+
+	Ejemplos de ortosilicatos
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Minerales no silicatos ===
+
+
+==== Elementos nativos ====
+
+Los elementos nativos son aquellos minerales integrados por elementos que no están unidos químicamente a otros elementos. Este grupo incluye minerales metales nativos, semi-metales y no metales, y varias aleaciones sólidas y soluciones. Los metales se mantienen unidos por enlaces metálicos, lo que les confiere propiedades físicas distintivas, como su lustre metálico brillante, ductilidad y maleabilidad, y conductividad eléctrica. Los elementos nativos se subdividen en grupos por su estructura o atributos químicos.
+El grupo del oro, con una estructura cercana al empaquetamiento cúbico, incluye metales como el oro, la plata y el cobre. El grupo del platino es similar en estructura al grupo de oro. El grupo del hierro-níquel se caracteriza por tener varias especies de aleaciones de hierro-níquel. Dos ejemplos son la kamacita y la taenita, que se encuentran en meteoritos de hierro; estas especies difieren en la cantidad de Ni en la aleación; la kamacita tiene menos de 5–7 % de níquel y es una variedad de hierro nativo, mientras que el contenido de níquel de la taenita es del 7–37 %. Los minerales del grupo del arsénico se componen de semi-metales, que tienen solamente algunos metálicos; por ejemplo, carecen de la maleabilidad de los metales. El carbono nativo aparece en dos alótropos, el grafito y el diamante; el último se forma a muy alta presiones en el manto, lo que le confiere una estructura mucho más fuerte que el grafito.[2]​: 644–648 
+
+
+==== Sulfuros ====
+
+La clase de los minerales sulfuros y sulfosales —denominación engañosa pues los sulfuros solo son una parte del grupo— corresponde a la clase 2 de la clasificación de Strunz y en ella se incluyen: minerales sulfuros —con el ion S2−—-, los seleniuros, teluriuros, arseniuros, antimoniuros, bismutiuros, sulfoarseniuros y sulfosales. Los sulfuros se clasifican por la relación del metal o del semimetal con el azufre, M:S igual a 2:1, o 1:1.[2]​: 649  A pesar de que los sulfuros son mucho menos abundantes que los silicatos, su química y sus estructuras son muy variadas, lo que explica porque el número de minerales de sulfuro es muy alto en relación con su abundancia.
+Se agrupan entre los sulfuros los minerales compuestos de uno o más metales o semimetales con un azufre, que tienen una fórmula de tipo general de MmSp, donde M es un metal (Ag, Cu, Pb, Zn, Fe, Ni, Hg, As, Sb, Mo, Hg, Tl, V). Los arseniuros, los antimoniuros, los telurios... se clasifican entre los «sulfuros» sensu lato debido a su similitud estructural con los sulfuros.
+Los sulfuros minerales se caracterizan por la unión covalente, la opacidad y el brillo metálico; se estudian con el microscopio de reflexión. Los sulfuros tienden a ser blandos y frágiles, con un alto peso específico y la mayoría son semiconductores. Muchos sulfuros en polvo, como la pirita, tienen un olor sulfuroso cuando son pulverizados. Los sulfuros son susceptibles a la intemperie, y muchos se disuelven fácilmente en agua; estos minerales disueltos se pueden después volver a redepositar, lo que crea yacimientos de menas secundarias.[2]​: 357 
+Muchos minerales de sulfuro son importantes económicamente como minerales metálicos; son ejemplos la esfalerita (ZnS), una mena de zinc; la galena (PbS), una mena de plomo; el cinabrio (HgS), una mena de mercurio; y la molibdenita (MoS2, una mena de molibdeno.[2]​: 651–654  La pirita (FeS2) es el sulfuro que aparece más y se puede encontrar en la mayoría de entornos geológicos. No es, sin embargo, una mena de hierro, pero puede ser oxidada para producir ácido sulfúrico.[2]​: 654  Relacionados con los sulfuros están las raras sulfosales, en las que un elemento metálico está unido al azufre y a un semimetal, como antimonio, arsénico o bismuto. Al igual que los sulfuros, las sulfosales son típicamente minerales blandos, pesados y frágiles.[6]​: 383 
+
+	Ejemplos de sulfuros
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Óxidos ====
+
+La clase de los minerales óxidos e hidróxidos corresponde a la clase 4 de la clasificación de Strunz y en ella se incluyen: óxidos, hidróxidos, vanadatos, arsenitos, antimonitos, bismutitos, sulfitos, selenitos, teluritos y yodatos.
+Los minerales óxidos se dividen en tres categorías: óxidos simples, hidróxidos y óxidos múltiples. Los óxidos simples se caracterizan por O2− como anión principal y enlace principalmente iónico. Se pueden subdividir además por la relación del oxígeno a los cationes. El grupo de la periclasa consta de minerales con una relación 1:1. Óxidos con una relación 2:1 incluyen la cuprita (Cu2O) y el hielo de agua. minerales del grupo del corindón tienen una proporción de 2:3, e incluye minerales como el corindón (Al2O3) y la hematita (Fe2O3). Los minerales del grupo del rutilo tienen una proporción de 1:2; la especie del mismo nombre, rutilo (TiO2) es el principal mena del titanio; Otros ejemplos incluyen la casiterita (SnO2, mena de estaño), y pirolusita (MnO2, mena de manganeso).[6]​: 400–403 [2]​: 657–660 
+En hidróxidos, el anión dominante es el ion hidroxilo, OH−. Las bauxitas son la mena principal del aluminio, y son una mezcla heterogénea de minerales de hidróxido de diáspora, gibbsita, y bohmita; se forman en áreas con una alta tasa de meteorización química (principalmente condiciones tropicales).[2]​: 663–664  Por último, varios óxidos son compuestos de dos metales con oxígeno. Un grupo importante dentro de esta clase son las espinelas, con una fórmula general de X2+Y3+2O4. Ejemplos de especies incluyen la propia espinela (MgAl2O4), la cromita (FeCr2O4) y la magnetita (Fe3O4). Esta última es fácilmente distinguible por su fuerte magnetismo, que se produce ya que tiene hierro en dos estados de oxidación (Fe2+Fe3+2O4), lo que hace que sea un óxido múltiple en lugar de un óxido simple.[2]​: 660–663 
+
+	Ejemplos de minerales óxidos
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Haluros ====
+
+La clase de los minerales haluros corresponde a la clase 3 de la clasificación de Strunz y en ella se incluyen: haluros o halogenuros simples o complejos, con H2O o sin ella, así como derivados oxihaluros, hidroxihaluros y haluros con doble enlace.
+Los minerales haluros son compuestos en los que un halógeno (flúor, cloro, yodo y bromo) es el anión principal. Estos minerales tienden a ser blandos, débiles, quebradizos y solubles en agua. Los ejemplos más comunes de haluros son la halita (NaCl, sal de mesa), la silvita (KCl) y la fluorita (CaF2). La halita y la silvita se forman comúnmente como evaporitas, y pueden ser minerales dominantes en las rocas sedimentarias químicas. La criolita, Na3AlF6, es un mineral clave en la extracción de aluminio a partir de la bauxita; Sin embargo, dado que la única ocurrencia significativa está en Ivittuut, Groenlandia, en una pegmatita granítica, ya agotada, la criolita sintética se puede hacer a partir de la fluorita.[6]​: 425–430 
+
+
+==== Carbonatos ====
+
+La clase de los minerales carbonatos y nitratos corresponde a la clase 5 de la clasificación de Strunz y en ella se incluyen carbonatos, carbonatos de uranilo y nitratos.
+Los minerales carbonatos son aquellos en los que el grupo aniónico principal es un carbonato, [CO3]2−. Los carbonatos tienden a ser frágiles, muchos tienen exfoliación romboédrica, y todos reaccionan con ácido.[6]​: 431  Debido a la última característica, los geólogos de campo a menudo llevan ácido clorhídrico diluido para distinguir los carbonatos de los no-carbonatos. La reacción del ácido con los carbonatos, que se encuentra más comúnmente como los polimorfos calcita y aragonita (CaCO3), se refiere a la disolución y precipitación del mineral, que es un elemento clave en la formación de las cuevas de caliza —con elementos como estalactitas y estalagmitas— y los accidentes geográficos kársticos. Los carbonatos se forman con mayor frecuencia en forma de sedimentos biogénicos o químicos en ambientes marinos. El grupo carbonato es estructuralmente un triángulo, donde un catión central de C4+ está rodeado por tres aniones O2−; diferentes grupos de minerales se forman a partir de diferentes disposiciones de estos triángulos.[2]​: 667 
+El mineral de carbonato más común es la calcita, que es el componente principal de la sedimentaria caliza y del mármol metamórfico. La calcita, CaCO3, puede tener una impureza de alto contenido en magnesio; en condiciones de alto magnesio, se formará en su lugar su polimorfo, la aragonita; la geoquímica marina se puede describir, en este sentido, como un mar de aragonito o mar de calcita, dependiendo de qué mineral se forme preferentemente. La dolomita es un carbonato doble, de fórmula CaMg(CO3)2. La dolomitization secundaria de la caliza es común, en la que la calcita o la aragonita se convierten en dolomita; esta reacción aumenta el espacio de los poros (el volumen de la celda unidad de la dolomita es el 88 % del de la calcita), lo que puede crear un yacimiento de petróleo y gas. Estas dos especies minerales son miembros de los grupos de minerales del mismo nombre: el grupo de la calcita incluye carbonatos con fórmula general XCO3 y el de la dolomita la de XY(CO3)2.[2]​: 668–669 
+
+	Ejemplos de minerales carbonatos
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Sulfatos ====
+
+La clase de los minerales sulfatos corresponde a la clase 7 de la clasificación de Strunz y en ella se incluyen: sulfatos, selenatos, teluratos, cromatos, molibdatos y wolframatos.
+Los minerales sulfatos tienen todos el anión sulfato, [SO4]2−. Tienden a ser de transparentes a translúcidos, blandos, y muchos son frágiles.[2]​: 453  Los minerales de sulfato se forman comúnmente como evaporitas, donde se precipitan de la evaporación de las aguas salinas; alternativamente, los sulfatos también se pueden encontrar en los sistemas de vetas hidrotermales asociados con sulfuros,[2]​: 456–457  o como productos de oxidación de sulfuros.[2]​: 674  Los sulfatos se pueden subdividir en minerales anhidros e hidratados. El sulfato hidratado más común, con mucho, es el yeso, CaSO4⋅2H2O. Se forma como un evaporita, y se asocia con otros evaporitas como la calcita y la halita; si incorpora granos de arena cuando cristaliza, el yeso puede formar rosas del desierto. El yeso tiene muy baja conductividad térmica y mantiene una temperatura baja cuando se calienta a medida que pierde el calor por deshidratación; como tal, el yeso se utiliza como aislante en materiales de construcción. El equivalente anhidro del yeso es la anhidrita; se puede formar directamente de agua de mar en condiciones muy áridas. El grupo de la barita tiene la fórmula general XSO4, donde X es un catión grande 12-enlazado. Son ejemplos la barita (BaSO4), la celestina (SrSO4), y la anglesita (PbSO4); la anhidrita no es parte del grupo de la barita, ya que el más pequeño Ca2+ sólo tiene enlace ocho veces.[2]​: 672–673 
+
+	Ejemplos de minerales sulfatos
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Fosfatos ====
+
+La clase de los minerales fosfatos corresponde a la clase 8 de la clasificación de Strunz y en ella se incluyen fosfatos, arseniatos y vanadatos. Son 51 familias agrupadas en 7 divisiones, un grupo grande y diverso, que sin embargo, tiene solo unas pocas especies relativamente comunes. 
+Los minerales fosfatos se caracterizan por el anión fosfato coordinado tetraédricamente [PO4]3−, aunque la estructura se puede generalizar siendo el fósforo sustituido por antimonio ([SbO4]3−), arsénico ([AsO4]3−), o vanadio ([VO4]3−). Los aniones de cloro (Cl−), flúor (F−) e hidróxido (OH−) también encajan en la estructura cristalina. 
+El fosfato más común es el grupo de la apatita, un nombre genérico que designa fosfatos hexagonales de composición bastante variable, Ca5(PO4)3(OH, Cl,F). Las especies más comunes del grupo son la fluorapatita (Ca5(PO4)3F), la clorapatita (Ca5(PO4)3Cl) y la hidroxiapatita (Ca5(PO4)3(OH)). Los minerales de este grupo son los principales constituyentes cristalinos de los dientes y de los huesos de los vertebrados.
+Otro grupo relativamente abundante es el grupo de la monacita, que tiene una estructura general de ATO4, donde T es el fósforo o arsénico, y A es, a menudo, un elemento de las tierras raras. La monacita es importante en dos sentidos: en primer lugar, como sumidero de tierras raras, puede concentrar la cantidad suficiente de estos elementos para convertirse en una mena; en segundo lugar, los elementos del grupo de la monacita pueden incorporar cantidades relativamente grandes de uranio y torio, que pueden ser utilizadas para datar una roca basándose en la desintegración del U y Th en plomo.[2]​: 675–680 
+
+	Ejemplos de minerales fosfatos
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Minerales orgánicos ====
+
+La clase de los minerales compuestos orgánicos corresponde a la clase 10 de la clasificación de Strunz y en ella se incluyen sales y ácidos orgánicos que aparezcan en minas y los hidrocarburos. Son 7 familias agrupadas en 3 divisiones, un grupo escaso.
+Estos raros compuestos contienen carbono orgánico, pero se pueden formar también mediante un proceso geológico. Por ejemplo, la whewellita, CaC2O4⋅H2O es un oxalato que se puede depositar en las venas de menas hidrotermales. Mientras el oxalato de calcio hidratado se puede encontrar en las vetas de carbón y en otros depósitos sedimentarios que comprenden materia orgánica, la ocurrencia hidrotérmica no se considera que está relacionada con la actividad biológica.[2]​: 681 
+
+
+== Importancia y utilidad ==
+
+Los minerales tienen gran importancia por sus múltiples aplicaciones en los diversos campos de la actividad humana. 
+La industria moderna depende directa o indirectamente de los minerales.
+Algunos minerales se utilizan prácticamente tal como se extraen; por ejemplo el azufre, el talco, la sal de mesa, etc. Otros, en cambio, deben ser sometidos a diversos procesos para obtener el producto deseado, como el hierro, cobre, aluminio, estaño, etc. Los minerales constituyen la fuente de obtención de los diferentes metales, base tecnológica de la sociedad actual. Así, de distintos tipos de cuarzo y silicatos, se produce el vidrio. Los nitratos y fosfatos son utilizados como abono para la agricultura. Ciertos materiales, como el yeso, son utilizados profusamente en la construcción. Los minerales que entran en la categoría de piedras preciosas o semipreciosas, como los diamantes, topacios, rubíes, se destinan a la confección de joyas.
+
+
+== Astrobiología ==
+Se ha sugerido que los biominerales podrían ser indicadores importantes de vida extraterrestre y que por lo tanto podrían desempeñar un papel importante en la búsqueda de vida pasada o presente en el planeta Marte. Por otra parte, se cree que los componentes orgánicos (biofirmas), que a menudo se asocian con los biominerales, juegan un papel crucial tanto en reacciones pre-bióticas como bióticas.[42]​
+El 24 de enero de 2014, la NASA informó que los estudios actuales de los astromóviles Curiosity y Opportunity en Marte estarán ahora destinados a la búsqueda de evidencia de vida antigua, incluyendo una biosfera basada en microorganismos autótrofos, quimiótrofos y/o quimiolitoautotróficos, así como en agua antigua, incluyendo ambientes fluvo-lacustres (llanuras relacionadas con antiguos ríos o lagos) que pueden haber sido habitables.[43]​[44]​[45]​[46]​ La búsqueda de evidencia de habitabilidad, tafonomía (relacionada con los fósiles), y el carbono orgánico en el planeta Marte son ahora un objetivo primordial de la NASA.[43]​[44]​
+
+
+== Notas ==
+
+
+== Bibliografía ==
+Busbey, A.B.; Coenraads, R.E.; Roots, D.; Willis, P. (2007). Rocks and Fossils. San Francisco: Fog City Press. ISBN 978-1-74089-632-0. 
+Chesterman, C.W.; Lowe, K.E. (2008). Field guide to North American rocks and minerals. Toronto: Random House of Canada. ISBN 0-394-50269-8. 
+Dyar, M.D.; Gunter, M.E. (2008). Mineralogy and Optical Mineralogy. Chantilly, Virginia: Mineralogical Society of America. ISBN 978-0-939950-81-2. 
+
+
+== Véase también ==
+Isomorfismo mineral
+Polimorfismo (ciencia de materiales)
+Geología amateur
+Colecionismo de minerales
+Lista de minerales: Anexo:Minerales
+Anexo:Minerales nombrados según personas
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Minerales.
+El Diccionario de la Real Academia Española tiene una definición para mineral.
+ Wikilibros alberga un libro o manual sobre Minerals.
+ Wikilibros alberga un libro o manual sobre Earth's Minerals.
+Minerales: conceptos y nociones.
+Fotos e información sobre minerales españoles.
+Fotos e información sobre minerales.
+Fotos de minerales, información y artículos.
+Museo virtual de mineralogía de la Universidad de Zaragoza
+(en inglés) Mindat mineralogical database, largest mineral database on the Internet
+(en inglés) "Mineralogy Database" by David Barthelmy (2009)
+(en inglés) "Mineral Identification Key II" Mineralogical Society of America
+(en inglés) "American Mineralogist Crystal Structure Database"
+(en inglés) Minerals and the Origins of Life (Robert Hazen, NASA) (video, 60m, April 2014).
+(en inglés) Minerales clasificados según Strunz

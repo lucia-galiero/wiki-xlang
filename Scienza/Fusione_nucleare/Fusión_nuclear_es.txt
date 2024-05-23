@@ -1,0 +1,92 @@
+En física nuclear, la fusión nuclear (no confundir con la fisión nuclear) es una reacción nuclear en la que varios núcleos atómicos se unen y forman un núcleo más pesado.[1]​ Estas reacciones son, en general, exotérmicas cuando ocurre entre átomos más ligeros que el hierro y endotérmicas si son más pesados. Esta energía absorbida o cedida durante la reacción se debe al efecto conocido como defecto de masa. Las reacciones de fusión, mediadas por la interacción nuclear fuerte, ocurren cuando los átomos ligeros que van a fusionarse disponen de la suficiente energía como para vencer a las fuerzas electromagnéticas que los repelen. Estas condiciones solo se dan a gran temperatura, cuando la materia que forman estos átomos está en estado de plasma. La fusión nuclear es, por tanto, el proceso inverso de la fisión nuclear, reacción nuclear en la que un átomo pesado da lugar a dos átomos más ligeros.[2]​
+Dada la temperatura necesaria, en la naturaleza este tipo de reacciones solo pueden observarse en el núcleo de las estrellas, donde las temperaturas son del orden de decenas de millones de Kelvin. La energía liberada en las reacciones de fusión que ocurren en las estrellas es, de hecho, la principal fuente de energía de estas. Además, estas reacciones de fusión que ocurren en las estrellas son una de las principales fuentes de creación de los elementos químicos pesados existentes en la naturaleza, en un proceso conocido como nucleosíntesis estelar.[2]​
+Artificialmente también pueden llevarse a cabo reacciones de fusión, aunque debido a las condiciones de temperatura necesarias, el control de estas reacciones es un reto tecnológico aún no resuelto. La primera aplicación de la fusión nuclear llevada a la práctica fue la invención de la bomba de hidrógeno. En la actualidad también se investiga cómo mantener las condiciones necesarias para que ocurran las reacciones de fusión nuclear de manera controlada y poder así generar energía eléctrica a partir de ella. En particular, dado que la energía liberada durante la reacción es mayor cuanto menor sea la masa de los átomos intervinientes, suelen investigarse las reacciones de fusión que ocurren entre distintos isótopos del hidrógeno. Para el control de la reacción existen distintos conceptos en desarrollo, fundamentalmente el confinamiento inercial y el confinamiento magnético. Esta investigación se lleva a cabo en distintos laboratorios y organizaciones del mundo, siendo la más destacada el proyecto ITER fruto de la colaboración internacional y centrado en el confinamiento magnético.[2]​
+
+
+== Historia ==
+
+Sobre la base de los experimentos de transmutación nuclear de Ernest Rutherford, conducidos pocos años antes, Mark Oliphant, en 1932, observó por primera vez la fusión de núcleos ligeros (isótopos de hidrógeno). Posteriormente, durante el resto de ese decenio, Hans Bethe estudió las etapas del ciclo principal de la fusión nuclear en las estrellas. La investigación acerca de la fusión para fines militares se inició en la década de 1940 como parte del Proyecto Manhattan, pero no tuvo éxito hasta 1952. La indagación relativa a fusión controlada con fines civiles se inició en la década de 1950, y continúa hasta el presente.[3]​ 
+El 5 de diciembre de 2022, el NIF (National Ignition Facility), logró, en un experimento de fusión nuclear por confinamiento inercial, un factor de ganancia positivo, es decir, consiguió que la reacción de fusión nuclear llevada a cabo liberara más energía que la introducida en el combustible.[4]​[5]​[6]​[7]​ 
+El 13 de diciembre de 2022, el Departamento de Energía de los Estados Unidos anunció que el 5 de diciembre de 2022, habían logrado con éxito el punto de equilibrio de fusión, "entregando 2,05 megajulios (MJ) de energía al objetivo, lo que resulta en 3. 15 MJ de producción de energía de fusión".[8]​
+Antes de este avance, las reacciones de fusión controlada habían sido incapaces de producir una fusión controlada de equilibrio (autosostenida).[9]​ Los dos enfoques más avanzados para ello son la confinamiento magnético (diseños toroidales) y el confinamiento inercial (diseños láser). Se están desarrollando diseños viables para un reactor toroidal que teóricamente proporcionará diez veces más energía de fusión que la necesaria para calentar el plasma a las temperaturas requeridas (véase ITER). Se prevé que el ITER finalice su fase de construcción en 2025. Comenzará a poner en marcha el reactor ese mismo año e iniciará los experimentos con plasma en 2025, pero no se espera que comience la fusión completa de deuterio-tritio hasta 2035.[10]​
+Las empresas privadas que persiguen la comercialización de la fusión nuclear recibieron 2.600 millones de dólares en financiación privada solo en 2021, que fueron a parar a muchas startups notables, entre ellas Commonwealth Fusion Systems, Helion Energy Inc, General Fusion, TAE Technologies Inc. y Zap Energy Inc.[11]​.
+
+
+== Fusión nuclear en las estrellas ==
+
+Un importante proceso de fusión es la nucleosíntesis estelar que alimenta las estrellas, incluido el Sol. En el siglo XX, se reconoció que la energía liberada por las reacciones de fusión nuclear explica la longevidad del calor y la luz estelares. La fusión de núcleos en una estrella, a partir de su abundancia inicial de hidrógeno y helio, proporciona esa energía y sintetiza nuevos núcleos. En función de la masa de la estrella (y, por tanto, de la presión y la temperatura de su núcleo), intervienen distintas cadenas de reacciones.
+Hacia 1920, Arthur Eddington anticipó el descubrimiento y el mecanismo de los procesos de fusión nuclear en las estrellas, en su artículo La constitución interna de las estrellas.[12]​[13]​ Por aquel entonces, se desconocía la fuente de energía estelar; Eddington especuló correctamente que la fuente era la fusión del hidrógeno en helio, liberando una enorme energía según Ecuación de Einstein. E = mc2. Se trataba de un avance especialmente notable, ya que en aquella época aún no se había descubierto la fusión ni la energía termonuclear, ni siquiera que las estrellas estuvieran compuestas en su mayor parte por hidrógeno (véase metalicidad). El artículo de Eddington razonaba que:
+
+La principal teoría de la energía estelar, la hipótesis de la contracción, debería hacer que la rotación de una estrella se acelerara visiblemente debido a la  conservación del momento angular. Pero las observaciones de las estrellas variables Cefeidas mostraron que esto no ocurría.
+La única otra fuente plausible de energía conocida era la conversión de materia en energía; Einstein había demostrado unos años antes que una pequeña cantidad de materia equivalía a una gran cantidad de energía.
+Francis Aston también había demostrado recientemente que la masa de un átomo de helio era aproximadamente un 0. 8% menos que la masa de los cuatro átomos de hidrógeno que, combinados, formarían un átomo de helio (según la teoría de la estructura atómica entonces vigente, que sostenía que el peso atómico era la propiedad distintiva entre los elementos; los trabajos de Henry Moseley y Antonius van den Broek demostrarían más tarde que la carga nucleica era la propiedad distintiva y que, por tanto, un núcleo de helio estaba formado por dos núcleos de hidrógeno más masa adicional).  Esto sugería que si tal combinación podía ocurrir, liberaría una energía considerable como subproducto.
+Si una estrella contuviera sólo un 5% de hidrógeno fusible, bastaría para explicar cómo obtienen su energía las estrellas. (Ahora se sabe que la mayoría de las estrellas "ordinarias" contienen mucho más del 5% de hidrógeno).
+También podrían fusionarse otros elementos, y otros científicos habían especulado con que las estrellas eran el "crisol" en el que los elementos ligeros se combinaban para crear elementos pesados, pero sin mediciones más precisas de sus  masas atómicas no se podía decir nada más en aquel momento.
+
+
+== Física del proceso ==
+
+Para que pueda ocurrir la fusión debe superarse una importante barrera de energía producida por la fuerza electrostática. A grandes distancias, dos núcleos se repelen debido a la fuerza de repulsión electrostática entre sus protones, cargados positivamente. Sin embargo, si se pueden acercar dos núcleos lo suficiente, debido a la interacción nuclear fuerte, que en distancias cortas es mayor, se puede superar la repulsión electrostática.
+Cuando un nucleón (protón o neutrón) se añade a un núcleo, la fuerza nuclear atrae a otros nucleones, pero —debido al corto alcance de esta fuerza— principalmente a sus vecinos inmediatos. Los nucleones del interior de un núcleo tienen más vecinos nucleones que los existentes en la superficie. Ya que la relación entre área de superficie y volumen de los núcleos menores es mayor, por lo general la energía de enlace por nucleón debido a la fuerza nuclear aumenta según el tamaño del núcleo, pero se aproxima a un valor límite correspondiente al de un núcleo cuyo diámetro equivalga al de casi cuatro nucleones. Por otra parte, la fuerza electrostática es inversa al cuadrado de la distancia. Así, a un protón añadido a un núcleo le afectará una repulsión electrostática de todos los otros protones. Por tanto, debido a la fuerza electrostática, cuando los núcleos se hacen más grandes, la energía electrostática por nucleón aumenta sin límite.
+
+El resultado neto de estas fuerzas opuestas es que generalmente la energía de enlace por nucleón aumenta según el tamaño del núcleo, hasta llegar a los elementos hierro y níquel, y un posterior descenso en los núcleos más pesados. Finalmente la energía de enlace nuclear se convierte en negativa, y los núcleos más pesados (con más de 208 nucleones, correspondientes a un diámetro de alrededor de seis nucleones) no son estables. Cuatro núcleos muy estrechamente unidos, en orden decreciente de energía de enlace nuclear, son 62Ni, 58Fe, 56Fe, y 60Ni.[14]​ A pesar de que el isótopo de níquel 62Ni es más estable, el isótopo de hierro 56Fe es un orden de magnitud más común. Esto se debe a la mayor tasa de desintegración del 62Ni en el interior de las estrellas, impulsada por la absorción de fotones.
+Una notable excepción a esta tendencia general es el núcleo helio 4He, cuya energía de enlace es mayor que la del litio, el siguiente elemento por incremento de peso. En el principio de exclusión de Pauli se proporciona una explicación a esta excepción: debido a que los protones y los neutrones son fermiones,[15]​ no pueden existir en el mismo estado. A causa de que el núcleo del 4He está integrado por dos protones y dos neutrones, de modo que sus cuatro nucleones pueden estar en el estado fundamental, su energía de enlace es anormalmente grande. Cualquier nucleón adicional tendría que ubicarse en estados de energía superiores.
+Tres ventajas de la fusión nuclear son: a) en gran parte sus desechos no revisten la problemática de los provenientes de la fisión; b) abundancia –y buen precio–[cita requerida] de las materias primas, principalmente del isótopo de hidrógeno deuterio (D); c) si una instalación dejara de funcionar se apagaría inmediatamente, sin peligro de fusión no nuclear.
+En un diseño prometedor, para iniciar la reacción, varios rayos láser de alta potencia transfieren energía a una pastilla de combustible pequeña, que se calienta y se genera una implosión: desde todos los puntos se colapsa y se comprime hasta un volumen mínimo, lo cual provoca la fusión nuclear.
+
+
+== Confinamiento del plasma ==
+
+
+=== Confinamiento magnético ===
+
+
+=== Confinamiento inercial ===
+
+
+=== Confinamiento electrostático estable para fusión nuclear ===
+Como se puede apreciar en el dibujo de arriba, se basa en circunscripción total de iones de hidrógeno, confinados electrostáticamente. Los beneficios de este confinamiento son múltiples:
+
+El grosor de la esfera de cobre anula la inestabilidad causada por errores de simetría.
+La ionización del hidrógeno se genera fácilmente por el campo eléctrico que absorbe los electrones sin disminuir la intensidad de ese campo.
+Se puede obtener un campo eléctrico intenso, lo cual evitaría fuga de los iones de hidrógeno.
+La energía necesaria es menor que la consumida por un reactor de fusión que genere un campo electromagnético para confinar los iones.
+La fusión nuclear se logra por medio de compresión-descompresión, aumentando o disminuyendo la intensidad del campo eléctrico.[16]​ Para ello se aumenta o se disminuye la velocidad del generador de electricidad. Como moderador de neutrones se puede utilizar plomo, aunque habría que probar su eficacia.
+
+
+=== Otros medios ===
+Confinamiento por pinzamiento
+Confinamiento gravitacional
+
+
+== Véase también ==
+Física nuclear
+Fisión nuclear
+Procesos nucleares
+Energía de fusión
+Reactores de fusión nuclear
+Historia de la fusión nuclear
+Fusión aneutrónica
+
+
+== Notas y referencias ==
+
+El contenido de este artículo incorpora material de una entrada de la Enciclopedia Libre Universal, publicada en español bajo la licencia Creative Commons Compartir-Igual 3.0.
+
+
+== Bibliografía ==
+«What is Nuclear Fusion?». NuclearFiles.org. Archivado desde el original el 28 de septiembre de 2006. Consultado el 12 de enero de 2006. 
+S. Atzeni; J. Meyer-ter-Vehn (2004). «Nuclear fusion reactions». The Physics of Inertial Fusion. University of Oxford Press. ISBN 978-0-19-856264-1. Archivado desde el original el 24 de enero de 2005. 
+G. Brumfiel (22 de mayo de 2006). «Chaos could keep fusion under control». Nature. S2CID 62598131. 
+R.W. Bussard (9 de noviembre de 2006). «Should Google Go Nuclear? Clean, Cheap, Nuclear Power». Google TechTalks. Archivado desde el original el 26 de abril de 2007. 
+A. Wenisch; R. Kromp; D. Reinberger (November 2007). «Science or Fiction: Is there a Future for Nuclear?». Austrian Institute of Ecology. 
+M. Kikuchi, K. Lackner; M. Q. Tran (2012). Fusion Physics. International Atomic Energy Agency. p. 22. ISBN 9789201304100. 
+R.K. Janev, ed. (1995). Atomic and Molecular Processes in Fusion Edge Plasmas. Springer US. ISBN 978-1-4757-9319-2. 
+
+
+== Enlaces externos ==
+
+ Wikimedia Commons alberga una categoría multimedia sobre Fusión nuclear.
+
+ Wikimedia Commons alberga una galería multimedia sobre Fusión nuclear.
+FusionWiki (en inglés)

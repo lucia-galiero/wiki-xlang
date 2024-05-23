@@ -1,0 +1,36 @@
+La camera magmatica rappresenta la zona all'interno di un vulcano in cui i magmi possono stazionare prima di essere eruttati in superficie o spostarsi più vicino alla superficie. Generalmente si tratta di una zona serbatoio, definita da rocce incassanti iniettate abbondantemente e fittamente da magma.
+
+
+== Descrizione ==
+La camera magmatica non coincide necessariamente con la zona sorgente del magma, di solito rappresenta uno spazio che il magma occupa in uno stadio intermedio della sua risalita verso la superficie.
+Inoltre è errato pensare che la camera magmatica sia una zona cava sotto i nostri piedi, al cui interno si trova del magma. La camera magmatica, invece, è una zona composta da rocce porose che sono "impregnate" di fuso.
+La presenza della camera magmatica all'interno degli edifici vulcanici, è testimoniata dalla variabilità composizionale dei magmi eruttati da un vulcano in tempi diversi (talvolta anche nel corso dello stesso evento). Questa variazione indica che esiste un serbatoio all'interno del quale avviene un processo di cristallizzazione frazionata, per cui, da un magma primario, si passa a liquidi residuali sempre più evoluti e meno densi, per separazione di fasi minerali che si solidificano cristallizzando.
+Ulteriori conferme possono essere la presenza di una caldera, la cui formazione bene si accorda col modello di svuotamento rapido di una camera magmatica in seguito all'emissione di una grande quantità di magma.
+
+
+=== Calcolo del volume della camera magmatica ===
+Il volume di una camera magmatica è sempre maggiore di quello del magma emesso, dal momento che nel corso del processo di cristallizzazione frazionata si verifica una progressiva diminuzione del liquido residuale. 
+Conoscendo il volume di magma emesso, per stimare il volume della camera magmatica si utilizza un metodo geochimico basato sul modello di Rayleigh, che esprime la variazione della concentrazione di un elemento in tracce nel liquido residuale in un processo di cristallizzazione frazionata: 
+Ci=Ci,0 x FD-1 (1)
+dove Ci e Ci,0 rappresentano le concentrazioni dell'elemento "i" rispettivamente nel liquido residuale e nel sistema iniziale, "F" la frazione di liquido residuale e "D" il coefficiente di ripartizione totale dell'elemento i.
+L'elemento da prendere a riferimento dev'essere igromagmatofilo, per cui possiamo assumere D=0 (Terre rare, Torio, Uranio, Zirconio, Tantalio, ecc.).
+Ci=Ci,0 x F-1 (2)
+Per calcolare il grado di frazionamento del magma eruttato occorre individuare il termine più primitivo e quello più evoluto appartenenti alla stessa eruzione; il primo esprime la concentrazione iniziale dell'elemento in traccia i (Ci,0), l'altro fornisce la concentrazione dello stesso elemento nel liquido residuale (Ci). 
+Dalla formula (2) si ricava:
+F=Ci,0/Ci (3)
+Ipotizzando che la camera magmatica contenesse il volume del liquido prima dell'inizio del processo di frazionamento, il suo volume sta in relazione a quello del magma eruttato di un fattore pari a F
+Vcm=Vmagma eruttato/F (4)
+
+
+== Voci correlate ==
+Vulcano
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Camera magmatica
+
+
+== Collegamenti esterni ==
+
+(EN) magma chamber, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

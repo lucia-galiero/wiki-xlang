@@ -1,0 +1,80 @@
+La stratosphère est la seconde couche de l'atmosphère terrestre, comprise entre la troposphère (au-dessous) et la mésosphère (au-dessus).
+
+
+== Caractéristiques ==
+
+
+=== Altitude et épaisseur de la stratosphère ===
+La limite entre la troposphère et la stratosphère s'appelle la tropopause. Son altitude étant liée à la température de la colonne d'air, elle est minimale dans les régions polaires (entre 6 et 9 km) et maximale dans la zone intertropicale (entre 15 et 19 km). L'altitude moyenne sur l'ensemble du globe est estimée à 12 km.
+La limite entre la stratosphère et la mésosphère est la stratopause, qui se situe en moyenne vers 50 kilomètres d'altitude.
+
+
+=== Température de la stratosphère ===
+La température dans la stratosphère varie naturellement en fonction de l'altitude (et selon un cycle saisonnier et jour/nuit), car celle-ci est réchauffée par l'absorption des rayons ultraviolets provenant du Soleil : à l'intérieur de cette colonne d'air, la température augmente au fur et à mesure qu'on s'y élève en altitude (voir l'article couche d'inversion).
+Au point le plus haut de la stratosphère, la température tourne autour de 270 K (−3 °C), ce qui avoisine le point de congélation de l'eau. Cette partie de la couche se nomme la stratopause, où la température recommence à diminuer quand on monte.
+Cette stratification verticale fait que la stratosphère est dynamiquement stable : hormis localement après la pénétration de l'atmosphère par une chute de météore ou le passage d'une fusée, il n'y a aucune convection régulière ni de turbulences associées à cette partie de l'atmosphère.
+Le bas de la stratosphère est caractérisé par un équilibre relatif entre la chaleur transmise de la couche d'ozone par conduction et la chaleur transmise de la troposphère (par convection).
+Ceci implique que la stratosphère commence à plus basse altitude près des pôles, car la température y est toujours moins élevée. L'accès à la stratosphère par des ballons-sondes est donc plus facile, sûr et rapide aux pôles, mais elle a dans ces régions des caractéristiques spécifiques.
+
+
+=== Diminution contemporaine de la température de la stratosphère ===
+Un constat, issu des mesures infrarouges faites par certains satellites, est que la stratosphère tend depuis quelques décennies à se refroidir.Ce phénomènes a deux explications connues :
+
+le réchauffement climatique, en piégeant les calories dans les basses couches de l'atmosphère qui se réchauffent, fait que la stratosphère reçoit moins de chaleur à partir des basses couches de l'atmosphère;
+l'amoindrissement de la couche d'ozone : si la température du haut de la stratosphère est plutôt élevée (eu égard à la proximité de l'espace profond très froid), c'est - en temps normal - en grande partie parce que cette couche "peu froide" est entretenue par l'ozonosphère. En effet cette dernière absorbe les radiations ultraviolettes du Soleil, et ce phénomène est exothermique ; il chauffe les couches supérieures de la stratosphère. La température de la haute troposphère tend donc à diminuer si et quand la couche d'ozone diminue (et il a au XXe siècle diminué, notamment au-dessus des zones polaires, pour récemment commencer à se reconstituer). Ce refroidissement est avéré, mesuré de diverses manières depuis la fin du XXe siècle, par les instruments (SSU, pour Stratospheric Sounding Unit puis AMSU-A, pour Advanced Microwave Sounding Unit-A), mais avec une précision qui en 2013 était à améliorer, notamment en raison de biais de mesures difficiles à corriger (ces biais sont liés à un changement de l'instrumentation de la mesure infrarouge de la stratosphère par satellite lors des dernières décennies, ce qui rend délicate la comparaison entre des mesures récentes et anciennes corrigées de ces biais). Depuis 2013, les températures stratosphériques mesurées et simulées pour la période 1979-2016 ont été réétudiées, confirmant et précisant ce refroidissement (qui s'est atténué avec le début de la reconstitution de la couche d'ozone).
+Ponctuellement, des sources volcaniques (très hauts panaches riches en particules), tels que celui du Pinatubo, peuvent aussi interférer avec la température de la stratosphère et les cycles solaires de onze ans (qui dans tous les cas ont plus d'influence en zone équatoriale). La part de ces phénomènes dans les variations de températures stratosphérique commence à être mieux et plus directement observée et à être mieux comprise grâce aux mesures satellitales qui ont pris une importance croissante depuis la fin du XXe siècle pour l'étude de la stratosphère, montrant clairement une tendance globale au refroidissement des hautes couches pendant que les basses couches se réchauffent.
+
+
+=== Circulation stratosphérique ===
+La stratosphère est une région où surviennent d'intenses processus radiatifs, dynamiques et chimiques. Le mélange horizontal des composants gazeux s'y produit bien plus rapidement que dans l'axe vertical de l'atmosphère. Les particules sont rapidement transportées dans le plan horizontal par des vents appelés jet stream. La stratosphère est cependant caractérisée par un système de vents très différents de ceux de la troposphère. De plus, dans les hivers de l'hémisphère nord, en zone boréale des réchauffements stratosphériques soudains se produisent parfois, causés par l'absorption des ondes de Rossby dans la stratosphère.
+Oscillation régulière : une oscillation quasi-biennale (OQB) a été découverte par les géophysiciens en 1961 (à partir des observations faites depuis 1953 par des ballons-sondes stratosphériques). Cette oscillation périodique régulière concerne les latitudes tropicales uniquement. Elle est décrite par des vents d'Est qui sont remplacés par des vents d'Ouest et inversement, avec une très grande régularité. Elle est supposée être induite par les ondes de gravité générées de manière convective dans la troposphère. C'est une des principales caractéristiques de la circulation des masses d'air et de vapeur d'eau dans la stratosphère. Elle est à l'origine d'une circulation secondaire qui est déterminante pour le transport stratosphérique global de l'ozone (dont le taux à l'équateur varie d'environ de 10 % entre les pics des deux phases est-ouest) et de la vapeur d'eau. L'OQB contribue au mélange des couches supérieures de la stratosphère, et influe aussi sur le taux de déplétion de la couche d'ozone au-dessus des zones polaires.
+Un cycle dure vingt-huit mois environ (en deux demi-cycles de quatorze mois) et commence avec des vents d'Ouest forts et réguliers qui cernent l'équateur, mais après un peu plus d'un an (quatorze mois environ), ces vents d'Ouest faiblissent et concernent une altitude plus basse. Ils sont ensuite remplacés par des vents d'Est qui descendent des couches supérieures de la stratosphère tout en prenant plus de force, et 14 mois plus tard, ces vents d'Est faiblissent à leur tour pour (et c'est le début d'un nouveau cycle) être à nouveau remplacés par des vents d'Ouest de plus en plus puissants, etc.
+Anomalie de 2015-2016 : ce cycle très régulier a été observé durant soixante ans sans changements. Mais fin-2015 la NASA a pour la première fois observé une anomalie d'environ six mois et à grande échelle (toute la zone tropicale de l'hémisphère nord) : en fin de demi-cycle, les vents d'Ouest au lieu de s'affaiblir en descendant pour faire place à une nouvelle couronne de vents d'Est, ont remonté en altitude en empêchant des vents d'Est de se former comme d'habitude, et des vents d'Est jamais observés sont apparus plus bas (zone de 40 hPa) dans la stratosphère. Cette anomalie a duré environ 6 mois. En juillet 2016, la situation semblait être revenue à la normale. La NASA étudie cette anomalie pour en trouver les causes (El Niño qui a été particulièrement fort en 2016 et/ou le dérèglement climatique pourraient être en cause, mais ceci est à confirmer).
+
+
+=== Amincissement de la couche d'ozone ===
+La principale cause de l'amincissement de la couche d'ozone reportée est la présence de chlorofluorocarbones (aussi connus sous le sigle CFC —CCl2F2, CCl3F) dans la stratosphère de la Terre. Les chlorofluorocarbones sont composés de chlore, de fluor et de carbone. Parce que les CFC sont stables, économiques, non toxiques, non inflammables et non corrosifs, ils sont utilisés comme propergols, réfrigérants, solvants, etc. Toutefois, c'est cette stabilité qui cause l'omniprésence des CFC dans l'environnement. Ces molécules finissent par atteindre la stratosphère, où ils subissent une série de réactions en chaîne qui mène en bout de ligne à la destruction de la couche d'ozone.
+Le gouvernement américain a banni, en 1980, l'utilisation des CFC sous forme d'aérosol. Les efforts mondiaux pour réduire l'utilisation des CFC ont commencé en 1987, et un bannissement international a suivi en 1996 pour prévenir les effets de la production industrielle des CFC. Ces efforts ont été dramatiquement décevants à cause des marchés noirs en Chine et en Russie, où la valeur des CFC illégalement manufacturés grimpait à 500 millions de dollars américains. Les quantités de CFC dans la stratosphère ont continué d'augmenter jusqu'au début de l'an 2000 et on estime qu'elles atteindront un niveau acceptable vers le milieu du présent siècle.
+
+
+== Aéronautique ==
+Les avions commerciaux volent typiquement à une altitude proche de dix kilomètres dans des latitudes tempérées, au ras de la stratosphère. Ceci permet d'éviter les turbulences de la convection présente dans la troposphère. Les « turbulences » rencontrées en cours de vol sont souvent causées par des ascendances thermiques en dessous de nuages convectifs ou à l'intérieur de ceux-ci ; on notera toutefois que les plus gros cumulonimbus peuvent atteindre la partie inférieure de la stratosphère. On mentionne aussi souvent la présence de turbulences en air clair en haute altitude voire dans la stratosphère. Ces « turbulences » peuvent correspondre à des ondes orographiques engendrées à l'aval de montagnes par vent fort ; elles peuvent se propager jusque dans la stratosphère au-delà de la tropopause. Ainsi, des planeurs ont été capables d'atteindre la stratosphère par vol d'onde.
+
+
+== Chute libre en stratosphère ==
+De 1958 à 1960, en raison de l'altitude croissante des avions de chasse, la United States Air Force a mené le projet Excelsior visant à expérimenter les sauts en haute altitude, et notamment le parachute Beaupre multi-stage. À cette occasion, Joseph Kittinger, pilote de l'USAF, s'est élancé en chute libre depuis une nacelle située en pleine stratosphère, le 16 août 1960. Il est monté jusqu'à une hauteur de 31 333 m, brisant ainsi le record de 30 942 m établi par David Simons lors du projet Man-High en 1957. La chute entière a duré 13 min 45 s. Lors de la descente, Kittinger a atteint une vitesse maximale de 988 km/h. Il a traversé des couches d'air (vers 10 km d'altitude) dont la température atteignait −70 °C.
+Le 14 octobre 2012, la mission Red Bull Stratos permit à Félix Baumgartner de sauter en chute libre depuis une nacelle située à 39 km d'altitude, en pleine stratosphère. Ce saut fait de lui le premier homme à franchir le mur du son sans assistance mécanique. Dans sa chute, qui a duré 4 min 19 s, l'Autrichien de 43 ans a atteint une vitesse maximale de 1 342 km/h.
+
+Note: la vitesse du son est de 1 224 km/h à 20 °C, et n'est que de 1030 km/h à −70 °C.
+Le record de Baumgartner a été battu par Alan Eustace qui réalisa le 24 octobre 2014 un saut d'une altitude de 135 908 pieds soit 41,425 km. Il atteignit une vitesse en chute libre de 822 miles par heure soit 1 322 km/h franchissant également la vitesse du son dans l'air.
+
+
+== Notes et références ==
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Stratosphere » (voir la liste des auteurs).
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Oscillation quasi-biennale
+Couche d'ozone
+
+
+=== Codécouvreurs de la stratosphère ===
+Richard Aßmann
+Léon Teisserenc de Bort
+
+
+=== Exploration ===
+Alan W. Brewer
+Record d'altitude
+USSR-1 (en) (1933)
+Osoaviakhim-1 (en) (1934)
+
+
+=== Liens externes ===
+
+Stratosphère - Glossaire
+
+ Portail des sciences de la Terre et de l’Univers

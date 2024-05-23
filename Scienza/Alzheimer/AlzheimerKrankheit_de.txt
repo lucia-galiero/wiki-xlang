@@ -1,0 +1,363 @@
+Die Alzheimer-Krankheit (lateinisch Morbus Alzheimer) oder Alzheimersche Krankheit ist eine neurodegenerative Erkrankung des Menschen, die in ihrer häufigsten Form bei Personen über dem 65. Lebensjahr auftritt und durch zunehmende Demenz gekennzeichnet ist. Sie ist für ungefähr 60 Prozent der weltweit etwa 25 Millionen Demenzerkrankungen verantwortlich. Die Alzheimer-Krankheit beziehungsweise die Alzheimer-Demenz wird umgangssprachlich oft kurz als „Alzheimer“ bezeichnet.
+Die Krankheit ist nach dem Arzt Alois Alzheimer benannt, der sie im Jahr 1906 erstmals beschrieb, nachdem er im Gehirn einer verstorbenen Patientin charakteristische Veränderungen festgestellt hatte.
+Der Diagnoseschlüssel ICD-10 unterscheidet zwischen G30.0 Alzheimer-Krankheit mit frühem Beginn und G30.1 Alzheimer-Krankheit mit spätem Beginn allein nach dem Alter beim Auftreten erkennbarer Symptome.
+
+
+== Auftreten der Alzheimer-Krankheit ==
+
+
+=== Charakterisierung und Symptome ===
+Charakteristisch ist eine zunehmende Verschlechterung der kognitiven Leistungsfähigkeit, die in der Regel einhergeht mit einer Abnahme der Fähigkeit, die Aktivitäten des täglichen Lebens zu bewältigen, mit zunehmenden Verhaltensauffälligkeiten und verstärkt auftretenden neuropsychiatrischen Symptomen.
+Bereits viele Jahre bevor erste klinische Symptome sichtbar werden, bilden sich im Gehirn des Betroffenen Plaques, die aus fehlerhaft gefalteten Beta-Amyloid-(Aβ-)Peptiden bestehen. Zusammen mit den Plaques sind Neurofibrillen, die sich in Form von Knäueln in den Neuronen ablagern, kennzeichnend (pathognomonisch) für die Erkrankung.
+Morbus Alzheimer gehört zu den Tauopathien, da sich bei dieser neurodegenerativen Erkrankung fehlerhafte Tau-Proteine aus dem Zellkörper heraus an die Axone anlagern und nicht mehr zurück in den Zellkörper können und die Zellen bis zur Unfähigkeit hin einschränken.
+Die zugrundeliegenden Veränderungen sind zurzeit nicht behandelbar.
+
+
+=== Häufigkeit ===
+Von Alzheimer sind fast ausschließlich Menschen höheren Alters betroffen. Durch die Bevölkerungsentwicklung in den westlichen Industrienationen mit immer älter werdenden Bürgern steigt daher auch die Alzheimer-Prävalenz. Von den 65-Jährigen sind etwa zwei Prozent betroffen, bei den 70-Jährigen sind es bereits drei Prozent, bei den 75-Jährigen sechs Prozent und bei den 85-Jährigen zeigen etwa 20 Prozent Symptome der Krankheit. Über dem 85. Lebensjahr nimmt der Anteil der Betroffenen wieder ab, da die zuvor Erkrankten nur selten dieses Lebensalter erreichen. Der jüngste bisher bekannte Alzheimer-Patient erkrankte mit 27 Jahren und starb mit 33. Die bei Kindern und Jugendlichen auftretende Neuronale Ceroid-Lipofuszinose wird oft als Kinder-Alzheimer bezeichnet, ist aber eine erbliche Stoffwechselerkrankung.
+Frauen erkranken deutlich häufiger an Alzheimer als Männer. Ein Grund hierfür ist die höhere Lebenserwartung. In den letzten Jahren werden zudem Zusammenhänge zwischen Schwankungen im Hormonhaushalt während der Menopause und dem Risiko, an Alzheimer zu erkranken, erforscht.
+In Deutschland leiden aktuell (2018) etwa 1,7 Millionen Menschen unter einer Demenzerkrankung, bis 2050 wird ein Anstieg auf drei Millionen prognostiziert. Mehr als 25.000 von ihnen haben noch nicht das 65. Lebensjahr erreicht. Jedes Jahr werden etwa 300.000 neue Demenzerkrankungen diagnostiziert, von denen mindestens zwei Drittel vom Alzheimertyp sind.
+Im Jahr 2015 waren nach Schätzungen von Alzheimer Disease International weltweit etwa 46,8 Millionen Menschen von Demenz betroffen. Die Alzheimer-Krankheit stellt auch global mit etwa 65 % die häufigste Form der Demenz dar. Nach Auswertung von Computermodellen soll sich diese Zahl, die auf Bevölkerungsprognosen der Vereinten Nationen basiert, bis zum Jahr 2050 auf rund 131,5 Millionen Patienten erhöhen.
+In den Vereinigten Staaten hatten im Jahr 2017 ein Anteil von 12,6 Personen pro 100.000 Personen im Alter zwischen 30 und 64 Jahren die Diagnose einer Alzheimer-Erkrankung – insgesamt etwa 131.000 Patienten, mit einem mittleren Lebensalter von 49 Jahren. Ihr Anteil lag 2017 dreimal so hoch wie im Jahr 2013 (2013: 4,2 Personen pro 100.000 Personen zwischen 30 und 64 Jahren).
+
+
+=== Alzheimer-ähnliche Symptome bei Tieren ===
+Aufgrund verbesserter veterinärmedizinischer Versorgung erreichen auch Haustiere ein höheres Lebensalter. Neuropathologische Veränderungen (Plaques und vaskuläre Amyloidose) z. B. im Hirn seniler Haustiere ähneln den Befunden von an Alzheimer erkrankten Menschen. Die Folge dieser Prozesse sind kognitive Funktionsstörungen, die zu übersteigerter Angst, Desorientierung, scheinbar grundloser Aggression, verringerter oder fehlender Lernfähigkeit und Verlust der Stubenreinheit führen können.
+
+
+== Vermutete Teilursachen und Risikofaktoren ==
+Bis heute ist die Ursache der Alzheimer-Erkrankung nicht vollständig geklärt, auch wenn weitgehende, allerdings nicht vollständige Einigkeit über die möglichen Einflussfaktoren auf die Krankheitsentstehung herrscht.
+
+
+=== Genetische Risikofaktoren ===
+Auf genetischer Ebene wurde eine Variante im Gen für das ApoE identifiziert, die einen Risikofaktor für die Entwicklung einer Alzheimer-Erkrankung darstellt. Darüber hinaus wurden kausale Mutationen in drei verschiedenen Genen gefunden Präsenilin-1 und -2 und Amyloid-Precursor-Protein (APP, Amyloid-Vorläuferprotein), die als Auslöser der seltenen früh auftretenden Unterform gelten. Die Veränderungen in allen drei Genen führen dazu, dass sich früher als bei der nichterblichen-sporadischen Form große Mengen von Beta-Amyloid zunächst im Assoziationscortex (zuständig für höhere kognitive Prozesse) und im Hippocampus (Gedächtnisbildung) und später im gesamten Gehirn anhäufen. Ihr Anteil an der Entstehung von Alzheimer (population attributable risk) wird auf maximal 30 % geschätzt.
+In einer Studie an 1700 isländischen Patienten wurde eine natürliche Mutation im APP-Gen entdeckt, die mit der Abwesenheit von Alzheimer und Demenz assoziiert war.
+
+
+=== Vererbung ===
+Es gibt eine genetische Komponente in der Verursachung der Alzheimer-Krankheit. Etwa fünf bis zehn Prozent der Betroffenen zeigen eine familiäre Häufung, die auf Mutationen des Präsenilin-1-Gens (PSEN1) auf Chromosom 14, des Präsenilin-2-Gens (PSEN2) auf Chromosom 1 oder des APP-Gens auf Chromosom 21 zurückzuführen sind. Zusätzlich konnte eine noch unklare Verbindung zwischen der Alzheimerschen Erkrankung und dem ε4-Allel von Apolipoprotein E (ApoE), einem am Cholesterin-Transport beteiligten Protein, hergestellt werden.
+Das Down-Syndrom mit seiner dreifachen Anlage von Erbmaterial des Chromosoms 21, auf dem sich das APP-Gen befindet, erhöht ebenfalls das Risiko, an einer Demenz, evtl. der Alzheimer-Krankheit, zu erkranken, wobei der Nachweis bei Menschen mit dieser Genommutation durch eine meist vorliegende kognitive Beeinträchtigung erschwert wird.
+Weiterhin ist eine Mutationsvariante des SORL1-Gens als erhöhter Risikofaktor für diese Erkrankung genannt worden.
+Eine Punktmutation von GAA zu GCA in Exon 8 im PSEN1-Gen, die zu einem Aminosäureaustausch von Glutaminsäure zu Alanin im Genprodukt führt, ist für ein gehäuftes Auftreten von FAD im kolumbianischen Departamento de Antioquia verantwortlich. Der Gendefekt wird autosomal-dominant vererbt. Diese Mutation hat ihren Ausgangspunkt bei einem Paar baskischer Einwanderer, das sich Anfang des 18. Jahrhunderts in Kolumbien niederließ. Man geht von etwa 1000 Mutationsträgern aus. Die Mutation wird nach dem Namen der Bewohner dieser Gegend auch Paisa-Mutation genannt. Erste Symptome von Gedächtnisverlust machen sich typischerweise bereits in der dritten Lebensdekade bemerkbar. Leichte kognitive Beeinträchtigungen beginnen im Alter von 45 und Demenz im Alter von 50 Jahren. Über einen Gentest kann die Prädisposition für die Alzheimer-Erkrankung nachgewiesen werden. Diese Patienten sind als Teilnehmer für klinische Studien zur Erprobung potenzieller Alzheimermedikamente besonders gut geeignet. Es wurde eine umfangreiche Phase-II-Langzeitstudie mit Patienten gestartet, die eine Paisa-Mutation aufweisen. Sie erhielten prophylaktisch den monoklonalen Antikörper Crenezumab. Crenezumab ist gegen Beta-Amyloid-40 und -42 gerichtet. Die Studie begann 2013 und sollte bis zum Jahr 2020 laufen. Im Januar 2019 gab Roche jedoch bekannt, dass die Studien zu Crenezumab frühzeitig eingestellt wurden, da die beabsichtigte Wirkung nicht eingetroffen sei.
+
+
+=== Unterfunktion der Ausschwemmung von Abfallstoffen aus dem Gehirn ===
+
+Im Zuge der Entdeckung (2012) des glymphatischen Systems, eines speziellen Mikrokreislaufs in Gehirn und Rückenmark zur Ausschwemmung von überflüssigem und schädlichem Material, zeigte sich, dass dieses System eine Schlüsselrolle bei der Entstehung der Alzheimer-Krankheit – und möglicherweise auch bei zukünftiger Vorbeugung und Behandlung – einzunehmen scheint.
+Ablagerungen von Beta-Amyloiden, der so genannten senilen Plaques, im Zellzwischenraum (Interstitium) werden durch das glymphatische System abtransportiert. Bei Mäusen war der Abtransport der Beta-Amyloiden während des Schlafs doppelt so schnell wie während der Wachphasen. Dies wurde in Verbindung gebracht mit dem erhöhten Risiko von Personen mit Schlafstörungen, an Alzheimer zu erkranken. Auch die Zunahme des Erkrankungsrisikos im Alter wurde in Verbindung gebracht mit dem entsprechenden, altersbedingten Leistungsabfall des glymphatischen Systems. Bestimmte pathogene, für Alzheimer charakteristische, Formen von Tau-Proteinen werden ebenfalls durch das glymphatische System aus dem Zellzwischenraum abtransportiert.
+
+
+=== Entzündliche Prozesse oder Infektion ===
+Die Nonnenstudie von David Snowdon zeigt als unerwartetes Ergebnis die Unabhängigkeit des pathologischen Gehirnbefunds (multiple Alzheimer-Plaques) von der wiederholt erhobenen intellektuellen Leistungsfähigkeit derselben Personen zu Lebzeiten. Pat McGeer vermutet entzündliche Prozesse im Gehirn als Ursache der Erkrankung. Thomas Bayer sieht die ursächlichen Prozesse in den Nervenzellen.
+Beta-Amyloid-Proteine zeigen in vitro eine starke antimikrobielle Wirkung. Eine Vermutung ist, dass sie als Defensivantwort bei einer noch unbekannten Infektion entstehen.
+Eine im Januar 2019 veröffentlichte Studie vermutet einen Zusammenhang zwischen der Alzheimer-Krankheit und Infektionen mit der Bakterienart Porphyromonas gingivalis, die mit Parodontitis in Verbindung steht. Indizien dafür sind das Vorkommen von P. gingivalis und dessen Stoffwechselprodukten, den sogenannten Gingipainen, in den Gehirnen von Alzheimer-Patienten. Gingipaine sind Proteasen, die in der Studie in vitro als auch in vivo die Struktur von Tau-Proteinen beeinflussen.
+Eine Infektion mit dem Magenkeim Helicobacter pylori könnte das Risiko, an Alzheimer-Demenz zu erkranken, erhöhen: Bei Menschen über 50 Jahren kann das Risiko nach einer Infektion mit Symptomen um durchschnittlich elf Prozent erhöht sein, rund zehn Jahre nach der Infektion sogar um 24 Prozent.
+
+
+=== Risikofaktoren Cholesterin, Trauma, Diabetes und Bluthochdruck ===
+Als Risikofaktoren gelten – neben dem unvermeidbaren Altern und genetischer Disposition – ein vorangegangenes Schädel-Hirn-Trauma, Stoffwechselerkrankungen – Insulinresistenz und Hyperinsulinämie, Diabetes und hohe Cholesterin-Werte sowie Erkrankungen des kardiovaskulären Systems – Bluthochdruck und erlittene Schlaganfälle.
+
+
+=== Aluminium ===
+Aluminium wurde mehrfach kontrovers als auslösender Faktor im Zusammenhang mit der Alzheimer-Krankheit diskutiert. Es ist ein häufiges Element (dritthäufigstes in der Erdhülle und durch Prozesse der Bodenbildung wie der Ferralitisierung oft lokal angereichert) und taucht natürlich u. a. als Spurenelement in Lebensmitteln und im Trinkwasser auf. Zusätzliche Expositionen ergeben sich durch die Verwendung in z. B. Antazida (Magaldrat, Hydrotalkit) oder Aluminium-Kochgeschirr. Metallisches Aluminium wird durch Passivierung gegen vielfältige chemische Einflüsse geschützt, ist jedoch anfällig gegen Basen und auch jene Säuren, die in Lebensmitteln oder dem menschlichen Magen vorkommen.
+Die britische, die amerikanische und die Deutsche Alzheimer-Gesellschaft sehen keinen überzeugenden Zusammenhang zwischen Aluminium-Aufnahme und der Alzheimer-Krankheit. Dialysepatienten wird geraten, sich zu vergewissern, dass nur aluminiumfreie Flüssigkeiten zur Blutreinigung eingesetzt werden. Aluminiumhaltige magensäurebindende Arzneimittel sollten nur nach ärztlicher Anordnung eingenommen werden.
+Ein in epidemiologischen Studien untersuchter möglicher Zusammenhang zwischen der Aluminiumaufnahme aus Trinkwasser und der Alzheimer-Krankheit lässt sich aufgrund der inkonsistenten Datenlage nicht zeigen. Ferner wurden zwar erhöhte Aluminiumkonzentrationen in geschädigten Hirnregionen bei Alzheimer-Patienten nachgewiesen, teilweise auch im Blut. Es ist jedoch nicht bekannt, ob dies der Grund oder eine der Folgen der Erkrankung ist, zumal die neuropathologischen Veränderungen bei der Alzheimer-Krankheit sich deutlich von denen bei einer Dialyse-Enzephalopathie unterscheiden. Bei Dialyse-Patienten (und Patienten mit eingeschränkter Nierenfunktion) führt die Aufnahme von Aluminium zu einer progressiven Enzephalopathie.
+Eine gesundheitliche Bewertung des Bundesinstitutes für Risikobewertung (BfR) aus dem Jahre 2005 sah keinen Zusammenhang zwischen der Aluminiumaufnahme aus Lebensmittelbedarfsgegenständen und der Alzheimer-Krankheit, ebenso wenig eine Aktualisierung aus dem Jahr 2007, jedoch wurde die Empfehlung abgegeben, vorsorglich keine sauren Speisen in Kontakt mit Aluminiumtöpfen oder -folie aufzubewahren. Die Ergebnisse einer Stellungnahme der Europäischen Behörde für Lebensmittelsicherheit (EFSA) zu Aluminium als Lebensmittelzutat (im Stoff E131), die im April 2013 veröffentlicht wurde, werden in einer neuen Stellungnahme des BfR berücksichtigt. Auch hier wird darauf hingewiesen, dass der Zusammenhang zur Alzheimer-Krankheit bisher nicht bewiesen sei. Hierauf wird in einer Stellungnahme von 2019 und 2020 erneut hingewiesen. Der Beitrag zur Gesamtbelastung von Aluminium in Form von Aluminiumhydroxychlorid in Antitranspirantien sei zudem deutlich geringer als angenommen. So liegt die Bioverfügbarkeit bei 0,00192 %, deutlich geringer als bei den bisher angenommenen 0,014 %.
+
+
+=== Feinstaub ===
+Eine Studie aus dem Jahr 2018 zeigt einen Zusammenhang zwischen Feinstaub (PM2,5) sowie Ozon (O3) und Alzheimer. Dabei wurden 203 Bewohner von Mexiko-Stadt untersucht. Es wurde u. a. die Häufigkeit von Tauopathien und Beta-Amyloid untersucht. Die Exposition gegenüber Feinstaub und Ozon über den USEPA-Grenzwerten kann der Studie zufolge mit einem erhöhten Alzheimer-Risiko in Verbindung gebracht werden.
+
+
+=== Geistige Verarmung ===
+Eine amerikanische Studie ergab, dass Personen, die zwischen ihrem 20. und 50. Lebensjahr eine geistig wenig anspruchsvolle Tätigkeit ausgeübt hatten, häufiger an Alzheimer erkranken. Möglicherweise wird die Schwelle, ab der Symptome erkennbar werden, herabgesetzt.
+
+
+== Histologie und Biochemie ==
+
+Im Gehirn von Alzheimer-Patienten bilden sich senile Plaques und fibrilläre Ablagerungen. Die Proteinablagerungen der Plaques bestehen im Wesentlichen aus dem Beta-Amyloid-Peptid. Die intrazellulär gelegenen Neurofibrillenbündel bestehen aus dem Tau-Protein. Dieses aggregiert zu Fibrillen, wenn es stärker als normal phosphoryliert, d. h. mit Phosphorsäureresten besetzt ist („Hyperphosphorylierung“). Es ist ungeklärt, ob diese Tau-Phosphorylierung sekundärer Natur oder krankheitsauslösend ist.
+Im Krankheitsverlauf nimmt die Hirnmasse durch das Absterben von Neuronen vermehrt ab; man spricht dabei von einer Hirnatrophie. Außerdem wird der Botenstoff Acetylcholin nicht mehr in ausreichenden Mengen produziert (unter anderem durch Verminderung des im Nucleus basalis Meynert vorkommenden Enzyms Cholinacetyltransferase, das die Zusammensetzung von Acetyl-CoA und Cholin katalysiert), was zu einer allgemeinen Leistungsschwächung des Gehirns führt.
+Das Beta-Amyloid-Peptid entsteht aus einem Vorläuferprotein, dem Amyloid-Precursor-Protein (APP), bei dem es sich um ein integrales Membranprotein handelt. Der größte Anteil dieses Proteins ragt aus der Zelle heraus (befindet sich extrazellulär; siehe Extrazelluläre Matrix), während sich nur ein kleiner Anteil innerhalb der Zelle befindet (intrazellulär). Es handelt sich um ein Typ I-Transmembranprotein: Der Amino-Terminus befindet sich auf der Zellaußenseite, der Carboxyl-Terminus innerhalb der Zelle.
+APP wird von proteinspaltenden Enzymen, den sogenannten Sekretasen (Alpha-Sekretasen, Beta-Sekretase und Gamma-Sekretase) gespalten, wodurch es zur Freisetzung des Beta-Amyloid-Peptids aus dem Vorläuferprotein kommen kann. Grundsätzlich gibt es zwei Wege, wie APP gespalten werden kann:
+
+Der nicht-amyloidogene Weg: APP wird durch eine α-Sekretase geschnitten. Dieser Schnitt findet innerhalb des Teils von APP statt, der Beta-Amyloid enthält. Dadurch wird die Bildung von Beta-Amyloid verhindert. Es kommt zur Freisetzung eines großen extrazellulären Anteils, dessen Funktion noch nicht endgültig geklärt ist.
+Der amyloidogene Weg: APP wird zuerst von der β-Sekretase geschnitten und nachfolgend von der γ-Sekretase. Dieser Schnitt, der innerhalb der Transmembrandomäne erfolgt, führt zur Freisetzung von Beta-Amyloid.
+Beide Vorgänge können parallel in Nervenzellen stattfinden. Die durch β- und γ-Sekretase gebildeten Beta-Amyloid-Peptide variieren in ihrer Länge. Der Haupttyp ist Beta-Amyloid-40 (40 Aminosäuren lang), während ein kleiner Anteil, Beta-Amyloid-42, 42 Aminosäuren lang ist. Die Länge des Beta-Amyloids ist von zentraler pathologischer Bedeutung, da das längere Beta-Amyloid-42 eine wesentlich höhere Tendenz zur Aggregation aufweist als das kleinere Beta-Amyloid-40.
+Kandidaten für die α-Sekretase sind die Proteasen ADAM 10, ADAM17/TACE und für die β-Sekretase BACE1. Die γ-Sekretase besteht aus einem hochmolekularen Komplex aus den Proteinen Präsenilin 1 bzw. 2, PEN-2, APH-1 und Nicastrin, wobei nicht geklärt ist, ob nicht noch weitere Proteine daran beteiligt sind.
+Bei der Alzheimer-Erkrankung ist die Funktion der Mitochondrien gestört. Eine Blockade der Atmungskette am Komplex IV führt zu einer übermäßigen Produktion von Radikalen, die die Zelle schädigen können. Ob diese Blockade eine Konsequenz der übermäßigen Beta-Amyloid-Produktion ist oder ob Beta-Amyloid als Antioxidans gegen diesen neu entstandenen oxidativen Stress übermäßig produziert wird, war 2014 noch offen.
+
+
+== Krankheitsverlauf ==
+
+
+=== Früherkennung ===
+Als Alzheimer-Früherkennung wird u. a. eine Untersuchung der Hirnleistung mittels verschiedener Tests angeboten oder auch eine Kernspintomographie (MRT). Beides ist eine Privatleistung, also eine IGeL (Individuelle Gesundheitsleistung). Der IGeL-Monitor des MDS (Medizinischer Dienst des Spitzenverbandes Bund der Krankenkassen) hat den Hirnleistungs-Check zur Früherkennung einer Demenz mit „tendenziell negativ“ bewertet, da kein wirklicher Nutzen erkennbar ist. Es lässt sich weder eine Demenz durch frühes Erkennen verhindern oder abmindern, und da nur die Hälfte der Menschen mit leichter Demenz später eine schwere entwickelt, werden möglicherweise Patienten unnötig beunruhigt. Auch die S3-Leitlinie „Demenzen“ von 2016 spricht sich gegen eine Untersuchung von Personen ohne Beschwerden oder Symptome aus.
+Die Kernspintomographie zur Früherkennung einer Alzheimer-Demenz hat der IGeL-Monitor aus ähnlichen Gründen ebenfalls mit „tendenziell negativ“ bewertet. Zwar sei die Kernspin- oder Magnetresonanztomographie (MRT) ein wertvolles Verfahren, das helfen könne, eine Alzheimer-Demenz zu diagnostizieren. Es gebe aber keine Studien zum Nutzen einer Früherkennung per MRT.
+Bei einem Verdacht auf Alzheimer-Demenz bezahlen die gesetzlichen Krankenkassen die Abklärung des Verdachts, unter Umständen auch mit einer MRT. Ein Hirnleistungs-Check ist Kassenleistung für Menschen, bei denen ein begründeter Verdacht auf eine Demenz besteht, bei Menschen zwischen 70 und 80 Jahren mit bestimmten weiteren Erkrankungen, sowie allgemein bei Menschen über 80 Jahren. Die Angebote der Selbstzahlerleistung wurden in verschiedenen Medien kritisch aufgegriffen.
+
+
+=== Verdachtsdiagnose ===
+
+
+==== Erste Warnzeichen ====
+Das amerikanische National Institute on Aging hat sieben Warnzeichen formuliert, die auf eine beginnende Alzheimersche Krankheit hinweisen können und welche die Menschen in der nahen Umgebung veranlassen sollten, ärztlichen Rat einzuholen:
+
+Der Erkrankte wiederholt immer wieder die gleiche Frage.
+Der Erkrankte erzählt immer wieder die gleiche kurze Geschichte.
+Der Erkrankte weiß nicht mehr, wie bestimmte alltägliche Verrichtungen wie Kochen, Kartenspiel, Handhabung der TV-Fernbedienung funktionieren.
+Der Erkrankte hat den sicheren Umgang mit Geld, Überweisungen, Rechnungen und Ähnlichem verloren.
+Der Erkrankte findet viele Gegenstände nicht mehr oder er legt sie an ungewöhnliche Plätze (unabsichtliches Verstecken) und verdächtigt andere Personen, den vermissten Gegenstand weggenommen zu haben.
+Der Erkrankte vernachlässigt anhaltend sein Äußeres, bestreitet dies aber.
+Der Erkrankte antwortet auf Fragen, indem er die ihm gestellte Frage wiederholt.
+Der Verlauf wird in verschiedene Stadien unterteilt, in denen jeweils andere physische und psychische Einschränkungen im Vordergrund stehen.
+
+
+==== Prä-Demenz-Stadium ====
+Schon acht Jahre bevor Alzheimer sicher diagnostiziert werden konnte, waren leichte Auffälligkeiten in neuropsychologischen Tests nachweisbar.
+Nachlassende Leistungen beim Kurzzeitgedächtnis erlauben in diesem Stadium noch am leichtesten eine Einschätzung. Daneben kann es bereits früh zu Beeinträchtigungen beim Sprachverständnis, der Umsetzung zuvor gesetzter Ziele, zu Teilnahmslosigkeit und zu affektiven Störungen wie Depressionen kommen.
+
+
+=== Medizinische Diagnose ===
+Vom „National Institute on Aging“ und der US-Alzheimer-Gesellschaft wurden im April 2011 neue Empfehlungen zu Diagnose der Alzheimer-Krankheit veröffentlicht. Diese überarbeiteten Diagnose-Kriterien werden aber als noch ungeeignet für den allgemeinen klinischen Alltag angesehen und sollten daher spezialisierten Zentren vorbehalten sein. In den aktualisierten Leitlinien werden drei ineinander übergehende Stadien unterschieden:
+
+das präklinische Stadium des Morbus Alzheimer,
+das Stadium der leichten kognitiven Beeinträchtigung („Mild Cognitive Impairment“, MCI) und
+das Stadium der Demenz als Folge der Alzheimer-Erkrankung.
+Eine relativ sichere In-vivo-Diagnose ist bislang nur in den Stadien Demenz und MCI möglich – und zwar durch eine Kombination von anamnestischen Befunden, neuropsychologischen Tests, laborchemischen (Liquor-Biomarker) und bildgebenden Befunden.
+
+
+==== Bildgebende Verfahren ====
+Für das MCI-Stadium sind die Diagnosemöglichkeiten jedoch auch noch sehr eingeschränkt, da die hier erforderlichen bildgebenden Verfahren, vor allem die direkte Amyloid-Darstellung mittels Positronenemissionstomographie (PET) und radioaktiven Tracern wie Florbetaben sowie die unterschiedlichen funktionellen Magnetresonanztomographie-Verfahren (fMRT), zwar als vielversprechend gelten, aber für den klinischen Alltag in der Regel noch als zu aufwendig und zu teuer. Viele Fragen zur Interpretation der Befunde sind außerdem noch nicht beantwortet. Inzwischen befindet sich die Diagnose durch Positronen-Emissions-Tomographie (PET) weiterhin in klinischen Entwicklungen. Bestimmte Substanzen, sogenannte PET-Tracer, können sich an die Amyloid-beta-Aggregate, die sich bei Alzheimer-Patienten vermehrt im Gehirn bilden, anlagern. Der erste Tracer, der in klinischen Studien untersucht wurde, war die Substanz Pittsburg B mit dem Kohlenstoffisotop C-11. Wegen dessen kurzer Halbwertszeit von 20 Minuten wurden Tracer auf Basis von Fluor-18 mit einer Halbwertszeit von 109 min entwickelt. Die aussichtsreichen Tracer mit diesem Isotop sind neben Florbetaben Florbetapir und Flutemetamol. Die Messung von Biomarkern (Beta-Amyloid, Gesamt-Tau-Protein, phosphoryliertes Tau, Amyloid-Vorläufer-Proteine) im Liquor setzt eine Lumbalpunktion, also ein invasives Verfahren voraus.
+
+
+==== Pathohistologie ====
+Pathohistologisch bestätigt werden kann die Diagnose jedoch erst nach dem Tod des Patienten, indem eine feingewebliche Untersuchung des Gehirns durchgeführt wird.
+
+
+==== Früh- und Mittelstadium ====
+Bei den meisten Patienten führen Defizite beim Lernen und der Merkfähigkeit zur Diagnosestellung. Während im Langzeitgedächtnis gewohnte Tätigkeitsabläufe und emotionale Erlebnisse meist noch gut gegenwärtig sind, sind das Lernen und das Kurzzeitgedächtnis am stärksten eingeschränkt.
+Das Sprachvermögen der Betroffenen ist insgesamt reduziert, was sich im Sprachfluss und durch ein vermindertes Vokabular äußert. Grundsätzlich sind sie aber in der Lage, ihre Gedanken und Ideen anderen Personen in geeigneter Weise mitzuteilen.
+Die Feinmotorik zeigt bereits gewisse Unsicherheiten, die bei Tätigkeiten wie Schreiben, Malen oder Ankleiden erkennbar sind.
+Beim Übergang der Erkrankung zum Mittelstadium sind einige Patienten noch in der Lage, selbstständig ihren Alltag zu gestalten, bei komplizierten oder komplexen Tätigkeiten sind sie jedoch bereits auf Unterstützung angewiesen.
+
+
+==== Fortgeschrittenes Stadium ====
+Im fortgeschrittenen Stadium verlernen die Patienten altbekannte Fertigkeiten und erkennen nahestehende Personen und alltägliche Gegenstände nicht mehr wieder.
+Auch bei Patienten, die vor der Erkrankung ein friedfertiges Wesen besessen haben, kann es für Außenstehende zu scheinbar unbegründeten Wut- und Gewaltausbrüchen kommen. Schuldgefühle und allgemein eine innere Selbstreflexion nehmen im weiteren Verlauf immer mehr ab, so wie viele menschliche Verhaltensmuster nur noch automatisiert abzulaufen scheinen.
+Die Muskulatur baut kontinuierlich ab, was zu weiteren Sprachproblemen, Harn- bzw. Stuhlinkontinenz und einer immer weiter abnehmenden Mobilität bis hin zur Bettlägerigkeit führt. Ohne Unterstützung können die Betroffenen ihren Alltag nicht mehr meistern und brauchen auch bei einfachen Tätigkeiten Unterstützung. Die Krankheit schreitet bis zum Tode voran, der bei den stark geschwächten Patienten oft durch eine Lungenentzündung
+eintritt.
+
+
+=== Differenzialdiagnose ===
+Die Alzheimer-Krankheit muss stets von anderen, ähnlichen psychischen und neurologischen Störungen abgegrenzt werden, etwa von
+
+normaler altersbedingter Vergesslichkeit
+Verweigerung oder Vermeidungsverhalten
+leichter kognitiver Störung des Alters (unter der Chiffre ICD-10 F06.7 Organische psychische Störungen eingeordnet)
+Depression bei älteren Menschen mit Denkhemmung (evtl. mit zusätzlichen kognitiven Störungen im Sinne einer Zweiterkrankung)
+Deprivationserscheinungen bzw. Hospitalismus und Regression in Altersheimen
+einfacher Aphasie
+einfachem Mutismus
+schwerem Autismus (Kanner-Syndrom) mit Mutismus
+schweren neurologischen Syndromen wie dem Apallischen Syndrom, dem Locked-in-Syndrom oder dem akinetischen Mutismus
+Gehirntumoren, Gehirnverletzungen, die zu einem organischen amnestischen Syndrom führten (ICD-10 F04)
+Störungen des Stoffwechsels (beispielsweise Unterzuckerung bei Diabetikern)
+Schlaganfall
+Normaldruckhydrozephalus
+Delirium
+Psychosen und Wahn (beispielsweise Schizophrenie, Manie oder psychotische Depression)
+anderen Formen von Demenz
+Sprachstörungen, Wortfindungsstörungen und totalem Verlust der Sprache.
+
+
+=== Prognose ===
+Nachdem die Diagnose Alzheimer gestellt worden ist, beträgt die verbleibende Lebenserwartung in etwa sieben bis zehn Jahre, wobei es auch Fälle gibt, in denen das Endstadium bereits nach vier bis fünf Jahren erreicht ist. Auf der anderen Seite gab es Patienten, die noch über 20 Jahre gelebt haben.
+
+
+== Möglichkeiten der Prävention ==
+Nachweislich vorbeugende Arzneimittel sind Gegenstand der Forschung. Allgemein leiten sich die Präventionsempfehlungen aus den modifizierbaren Risikofaktoren (wie z. B. Bluthochdruck) ab. Daher beinhaltet die Prävention eine diesbezügliche leitliniengerechte Diagnostik und frühzeitige Behandlung solcher demenzbeeinflussenden Faktoren. Da diese überwiegend im mittleren Lebensalter vorliegen, richten sich die Empfehlungen auch an Personen ab dem mittleren Lebensalter.
+
+
+=== Forschung an zukünftigen Impfstoffen ===
+An einer Impfung, die der Krankheit vorbeugen oder zumindest das Fortschreiten der Krankheit verhindern können soll, wird vielfach geforscht.
+Eine Göttinger Forschergruppe wies 2010 nach, dass eine Impfung mit dem monoklonalen Antikörper (9D5) bei Mäusen das Fortschreiten der Krankheit verhindert. Dieser Antikörper richtet sich gegen eine bestimmte Molekülstruktur im Gehirn und hindert sie daran, das Eiweiß Pyroglutamat-Abeta zu produzieren. Dieses Eiweiß bildet giftige Verklumpungen (Oligomere), die sich in den Nervenzellen und Blutgefäßen des Gehirns von Alzheimer-Erkrankten ansammeln und so die krankheitsauslösenden Schädigungen hervorrufen. Eine Anwendung beim Menschen war Gegenstand weiterer Untersuchungen.
+
+
+=== Blutdruck, Bewegung, Ernährung und Umwelteinflüsse ===
+Verschiedene vorbeugende Maßnahmen gegen typische Zivilisationskrankheiten scheinen auch die Wahrscheinlichkeit zu senken, an Alzheimer zu erkranken. Die Datenlage und wissenschaftliche Akzeptanz von verschiedenen Diäten, Verhaltensrichtlinien, Umwelteinflüssen und Ersterkrankungen als Auslöser der Krankheit ist unterschiedlich. Dabei ist wichtig, dass Maßnahmen, die in der Lage sind, das Auftreten der Erkrankung zu verhindern, nicht unbedingt geeignet sind, den Verlauf einer bereits diagnostizierten Alzheimer-Krankheit günstig zu beeinflussen.
+Es gibt viele beobachtende Studien, jedoch nur wenige kontrolliert-randomisierte, welche die Wirksamkeit der Maßnahmen belegen. Bis 2006 wurde nach diesen strengen Studienkriterien nur für die Kontrolle des Blutdrucks eine signifikante Senkung des Alzheimer-Risikos festgestellt.
+Regelmäßig körperliche Bewegung wird zur allgemeinen Risikoreduktion empfohlen. Zu den möglichen Ursachen des Zusammenhangs wurden verschiedene molekularbiologische Konzepte entwickelt. Allgemein gilt ein Lebensstil mit körperlicher Bewegung, sportlicher, sozialer und geistiger Aktivität protektiv. Außerdem kann eine ausgewogene Ernährung (z. B. mediterrane Diät) erwogen werden. Zwar weist ein leichter bis moderater Alkoholkonsum auf eine protektive Wirkung hin, wird aber aufgrund der Abhängigkeitsgefahr und toxischer Eigenschaften nicht zur Prävention empfohlen.
+Mit Ausnahme von Eisen und Kupfer können bestimmte antioxidativ und entzündungshemmend wirkende Mikronährstoffe (Vitamin C, E, B12 und Selen) sowie Vitamin A, B3, B6, K und Magnesium zur Neuroprotektion beitragen. Jedoch kann die (übermäßige) Supplementation fettlöslicher Vitamine (z. B. A, D oder E) zu Toxizitäten führen. Nikotinverzicht wirkt sich ebenfalls positiv aus.
+
+
+== Therapie und Therapieversuche ==
+Die Alzheimer-Krankheit kann derzeit nicht geheilt werden. Der einzige Wirkstoff, der durch Bindung an das pathologische Beta-Amyloid im Gehirn eine kausale Therapie der Alzheimer-Erkrankung anstrebt, ist der monoklonale Antikörper Aducanumab. Er erhielt von der FDA nach kontroverser Diskussion eine Zulassung, die EMA dagegen lehnte die Zulassung ab.
+Die positive Wirkung der derzeit zur Demenzbehandlung zugelassenen Medikamente auf bestehende Symptome ist nur relativ gering, sie können das Voranschreiten der Erkrankung nicht stoppen. Im Jahre 2006 wurde von der Amerikanischen Vereinigung für Geriatrische Psychiatrie ein Konsenspapier zur Alzheimer-Behandlung veröffentlicht. Nach einer präklinischen Studie der Case Western Reserve University vom Februar 2012 konnte das Chemotherapeutikum Bexaroten bei Mäusen bis zu 75 % der β-Amyloid-Plaques auflösen und auch Symptome der Krankheit, wie den Gedächtnisverlust, revidieren.
+Nachfolgende präklinische Versuche anderer Forschungsgruppen konnten die vielversprechenden Ergebnisse nicht bestätigen.
+Bexaroten ist nicht zur Behandlung der Alzheimer-Krankheit zugelassen.
+
+
+=== Acetylcholinesterase-Hemmer ===
+Die Medikamente sorgen dafür, dass Acetylcholin im Gehirn langsamer abgebaut wird und damit in höherer Konzentration vorliegt. Dadurch soll der Verringerung des Acetylcholin-Niveaus durch das Absterben von Neuronen, die diesen Botenstoff produzieren, entgegengewirkt werden. Acetylcholin ist ein vielfach im Assoziationscortex auftretender Neurotransmitter, der efferente Nervenverbindungen zum Hippocampus (für die in Alzheimer-Patienten geschädigte Gedächtnisbildung verantwortlich) aussendet. So erklärt sich, dass der Hippocampus zwar selbst nicht cholinerg ist, die Therapie mit Acetylcholinesterase-Hemmern aber dennoch seine Aktivität ankurbelt. Vertreter dieser Wirkstoffgruppe sind Galantamin, Donepezil, Rivastigmin sowie der Wirkstoff Huperzin A, der derzeit (Stand 2018) klinisch erforscht wird. Zugelassen sind die Acetylcholinesterase-Hemmer bei leichter bis mittelschwerer Alzheimer-Demenz, nicht bei schwerer. Die Wirksamkeit der Therapie wird diskutiert. In der Ideal-Studie wird gezeigt, dass sowohl die Pflaster-Applikation als auch die orale Gabe von Rivastigmin die kognitiven Fähigkeiten der Patienten deutlich gegenüber Placebo verbessern. Es gibt aber auch Studien, die eine geringe Wirkung der Acetylcholinesterase-Hemmer zeigen. Unter deutschen Psychiatern ist das Ausmaß des Nutzens der Präparate daher umstritten.
+
+
+=== Ibuprofen und andere nichtsteroidale Entzündungshemmer ===
+In retrospektiven Studien wurde bereits 1995 festgestellt, dass Rheumapatienten ein signifikant reduziertes Risiko haben, die Alzheimer-Krankheit zu entwickeln, beziehungsweise dass die Krankheit bei ihnen später als bei Nichtrheumatikern ausbricht. Daraus wurde geschlossen, dass dieser Effekt auf die nichtsteroidalen Antirheumatika (NSAR) (in englischsprachigen Publikationen nonsteroidal anti-inflammatory drugs (NSAID) genannt) zurückzuführen ist, die diese Patienten einnehmen.
+In einigen transgenen Tiermodellen konnte eine Reduktion von Beta-Amyloid-Plaques bei der Gabe von Ibuprofen festgestellt werden.
+Beim Menschen liegen bisher keine Daten aus randomisierten Doppelblind-Studien vor, die eine gesicherte Wirkungsweise von Ibuprofen und anderen nichtsteroidalen Antirheumatika aufzeigen. Aufgrund der nicht unerheblichen Nebenwirkungen, die bei einer dauerhaften prophylaktischen Einnahme von Ibuprofen zu erwarten sind, wird von einer unkontrollierten Einnahme abgeraten. Die zur möglichen Prävention der Alzheimer-Krankheit notwendigen Dosen an nichtsteroidalen Antirheumatika sind erheblich höher als zur normalen Schmerzbehandlung. Die nichtsteroidalen Antirheumatika stehen in Verdacht, kardiovaskuläre Probleme hervorzurufen, wenn sie auf Dauer und in hohen Dosen eingenommen werden.
+Mit Ibuprofen und Derivaten von Ibuprofen laufen zurzeit eine Reihe klinischer Studien bei Alzheimer-Patienten.
+
+
+=== Aktivierung von ABC-Transportern ===
+Am Mausmodell konnte gezeigt werden, dass durch die Nutzung von Thiethylperazin und Thiethylperazin-Derivaten mit ABC-Transporter aktivierender Wirkung eine Behandlung von neurodegenerativen Erkrankungen sowie die Funktion des Transporters ABCC1 zur Diagnostik und Therapieüberwachung von Morbus Alzheimer (und Morbus Parkinson) möglich ist. Durch diese Wirkstoffe könnte der Verlauf der Alzheimer-Demenz und des Morbus Parkinson um mehrere Jahre verzögert werden. Das Medikament befindet sich in der klinischen Phase II unter EudraCT Number: 2014-000870-20.
+
+
+=== NMDA-Rezeptor-Antagonist ===
+Die Beeinflussung des Botenstoffes Glutamat, des häufigsten erregenden Botenstoffs im zentralen Nervensystem, der an Lernprozessen und Gedächtnisfunktionen beteiligt ist, wurde europaweit 2002 und in den USA 2003 zugelassen. Der bisher einzige Vertreter dieser Wirkstoffklasse ist Memantin. Dies ist ein NMDA-Rezeptor-Antagonist (N-Methyl-D-Aspartat-Rezeptor-Antagonist) und soll die bei Alzheimer-Demenzen verstärkte glutamaterge Signalweiterleitung normalisieren. Studienergebnisse zeigen, dass Memantin bei mittlerer bis schwerer Erkrankung nach sechs Monaten zu einer insgesamt geringfügigen Verbesserung der kognitiven Störungen und der beeinträchtigten Alltagsaktivitäten führt. Zugelassen ist Memantin bei moderater bis schwerer Alzheimer-Demenz, nicht bei leichter.
+
+
+=== Ginkgo biloba ===
+Der Spezialextrakt EGb 761 ist zugelassen zur symptomatischen Behandlung von „hirnorganisch bedingten geistigen Leistungseinbußen bei demenziellen Syndromen“. Als Standarddosis gelten 240 Milligramm täglich. Außer diesem Extrakt gibt es noch eine Vielzahl von anderen Ginkgo-biloba-haltigen Präparaten, die sich in ihrer exakten Zusammensetzung unterscheiden. Eine Meta-Analyse der vorliegenden Studienergebnisse aus dem Jahre 2007 kam zu dem Schluss, dass die Hinweise auf einen günstigen Einfluss von Ginkgo-Präparaten auf die kognitiven Fähigkeiten von Alzheimer-Patienten unschlüssig und wenig überzeugend seien; in einer vorangegangenen Publikation hatten dieselben Autoren Ginkgo als vielversprechend beschrieben.
+In den USA wurde eine große doppeltblinde Langzeitstudie (GEM-Studie) durchgeführt, die klären sollte, ob Ginkgo effektiv zur Prävention von Alzheimer eingesetzt werden kann. Die im Jahre 2008 veröffentlichten Resultate ergaben keinen signifikanten Unterschied zwischen dem Ginkgo-Präparat (2× täglich 120 mg) und Placebo – während in der Placebo-Gruppe 246 Personen eine Demenz entwickelten, waren es in der Ginkgo-Gruppe 277 Personen. Eine weitere Analyse der GEM-Studie, Ende 2009 publiziert, ergab zudem, dass der Spezialextrakt bei den durchschnittlich knapp 80-jährigen Patienten einen mentalen Leistungsverlust nicht aufhalten konnte. Die Autoren der Studie weisen in ihrer Diskussion der Ergebnisse zum einen darauf hin, dass die verwendeten kognitiven Tests möglicherweise nicht geeignet waren, um Effekte des Präparats erkennen zu können. Zum anderen sollen die Studienteilnehmer ungewöhnlich gesund und gebildet gewesen sein, was das Auftreten kognitiver Leistungsschwächen relativ unwahrscheinlich mache. Eine Literaturanalyse von Wissenschaftlern der Charité kam 2010 zu dem Schluss, dass der Spezialextrakt zwar wirksamer sei als Placebo, der Effekt jedoch moderat ausfalle und die klinische Bedeutung dieses Effektes wie generell bei Antidementiva sehr schwer zu bestimmen sei.
+Das deutsche Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen untersuchte 2008 im Rahmen einer Arzneimittelbewertung öffentlich zugängliche Studien sowie von Arzneimittelherstellern zur Verfügung gestellte Daten der in Deutschland verfügbaren ginkgohaltigen Präparate. Es kam zu dem Schluss, dass es einen Beleg für einen Nutzen beim Therapieziel „Aktivitäten des täglichen Lebens“ gebe, sofern 240 mg Extrakt täglich eingenommen werden. Für die Therapieziele „kognitive Fähigkeiten“ und „allgemeine psychopathologische Symptome“ sowie für das angehörigenrelevante Therapieziel „Lebensqualität der (betreuenden) Angehörigen“ (gemessen am emotionalen Stress der Angehörigen) gebe es bei derselben Dosierung nur einen Hinweis auf einen Nutzen.
+Weitere Studien deuteten darauf hin, dass Ginkgo-Blätter pharmakologisch wirksamere Substanzen enthalten, die möglicherweise eine ursächliche Behandlung der präklinischen Alzheimer-Demenz zulassen. In diesem Zusammenhang spielen Chaperone aus pflanzlichen Proteinextrakten eine wichtige Rolle.
+
+
+=== Cannabis ===
+Eine systematische Übersichtsarbeit, veröffentlicht 2009 von der Cochrane Collaboration, kam zu dem Ergebnis, dass es keine Nachweise dafür gebe, dass Cannabinoide eine Wirkung zur Vermeidung oder Besserung von Symptomen der Alzheimer-Krankheit haben. Der damalige Stand hat sich seitdem nicht geändert (Stand Januar 2016).
+
+
+=== Insulin ===
+Beachtenswert ist der Effekt, dass Insulin, verabreicht als Nasenspray (vermutlich durch direkten Kontakt mit dem Zentralnervensystem), den Verlauf der Alzheimer-Krankheit positiv beeinflussen kann.
+
+
+=== Methylphenidat ===
+Patienten mit Morbus Alzheimer leiden häufig an Apathie, also einem verminderten Antrieb und einer geringen Initiative, was ihre Teilhabe am Alltagsleben erschwert. Das Psychostimulans Methylphenidat kann bei Alzheimerpatienten die Apathie vermindern. In der multizentrischen, randomisierten, placebokontrollierten ADMET-2-Studie wurde die Besserung der Apathie bestätigt, aber keine Veränderung der Kognition und der allgemeinen Lebensqualität gefunden.
+
+
+=== Vitamine und Nahrungsergänzungsmittel ===
+Eine neue randomisierte klinische Studie zeigt, dass Vitamin E in hoher Dosierung den Fortschritt der Pflegebedürftigkeit leicht verzögern kann. Im Gegensatz dazu hat das Antidementivum Memantin in dieser Studie enttäuscht. Primärer Endpunkt war der ADCS-ADL (Alzheimer’s Disease Cooperative Study – Activities of Daily Living), welcher alltagspraktische Fertigkeiten erfasst. Vitamin E konnte den Abfall des ADCS-ADL etwas verzögern, auch wenn die Signifikanz erst nach einer Adjustierung erreicht wurde. Zudem starben von 613 Teilnehmern 128 vor Abschluss der Studie. Die Studie reiht sich also in eine Serie Studien mit unterschiedlichen Aussagen zur Wirksamkeit von Vitamin E bei Morbus Alzheimer ein. Wegen des geringen Effekts und der möglichen erhöhten Mortalität kann die hochdosierte Vitamin-E-Gabe also noch nicht generell empfohlen werden.
+In einer zweijährigen europäischen Studie LipiDiDiet an elf Kliniken mit 311 Patienten konnte 2017 nachgewiesen werden, dass sich mit dem kombinierten Zusatz der Omega-3-Fettsäuren Docosahexaensäure (DHA) und Eicosapentaensäure (EPA), verschiedener Vitamine (B12, B6, C, E und Folsäure) und anderer Nährstoffen wie Cholin, Uridinmonophosphat und Selen zur Nahrung von Erkrankten die kognitiven und funktionellen Leistungen im Alltag signifikant verbessert haben. Im Vergleich zur Kontrollgruppe beobachten die Forscher eine um 45 % geringere Verschlechterung der klinischen Einschätzung der Demenz. In der MRT-Bildgebung wurde im Hippocampus eine um 26 % geringere Schrumpfung bei den Patienten mit Nahrungsergänzungsmitteln im Vergleich zu Patienten der Kontrollgruppe verzeichnet.
+
+
+=== Psychotherapeutische Behandlung ===
+Symptome wie innere Unruhe, depressive Verstimmung oder Erregung und Aggressivität, die im Verlauf der Krankheit möglicherweise auftreten, können mit Hilfe von Psychotherapie und Psychopharmaka behandelt werden. Daneben werden seit Beginn des 21. Jahrhunderts zunehmend nichtpharmakologische Interventionen bei Verhaltensstörungen von Demenzkranken favorisiert.
+
+
+=== Anpassung der Lebensräume ===
+Die Anpassung der Lebensräume an die veränderten Möglichkeiten und Bedürfnisse können den Alltag von Betroffenen und Pflegekräften erleichtern. Die Vereinfachung von Tätigkeitsabläufen und das Beschriften von Gegenständen helfen dem Patienten dabei, ein höheres Maß an Unabhängigkeit zu erhalten. Veränderungen der bekannten Abläufe oder der Umgebung regen die Patienten oft unnötig auf, während gut ausgeleuchtete Räume, angemessene Pausen und begrenzte Anforderungen dem Patienten ein sicheres Gefühl geben. Angemessene soziale und visuelle Stimulation kann zu einer Verbesserung der Aufmerksamkeit und Orientierung führen, beispielsweise kann eine Steigerung der Nahrungsaufnahme erreicht werden, wenn auffallend farbige Tisch-Accessoires verwendet werden, die Alzheimer-Patienten mit verminderter Kontrasterkennung besser wahrnehmen können.
+
+
+=== Transkranielle Pulsstimulation ===
+Bei der der Transkraniellen Pulsstimulation (TPS) werden per Ultraschall Stoßwellen-Impulse in Hirnregionen geschickt, die im frühen und mittleren Stadium von der Alzheimer-Krankheit betroffen sind. Dadurch sollen Gehirnzellen aktiviert werden. Laut Alzheimer Forschung Initiative wurde die TPS (Stand April 2022) nur in sehr kleinen Studien ohne Kontrollgruppen getestet. Deshalb konnte die Wirksamkeit der Behandlung durch Studien bisher nicht belegt werden. Die in der Werbung angeführte Studie wurde von dem Unternehmen finanziert, das die entsprechenden Geräte vertreibt. Im September 2022 veröffentlichte die Deutsche Gesellschaft für Klinische Neurophysiologie und Funktionelle Bildgebung (DGKN) eine Stellungnahme zur TPS. Im Fazit dieser Stellungnahme kommt Ulf Ziemann, Ärztlicher Direktor der Abteilung Neurologie und Co-Direktor am Hertie-Institut für klinische Hirnforschung der Universität Tübingen, angesichts der bisherigen Studienlage zu dem Ergebnis, dass es „aktuell nicht gerechtfertigt [ist], TPS als neue effektive Therapieform der Alzheimer-Erkrankung oder anderer Erkrankungen des Gehirns anzusehen und zu bewerben.“
+
+
+== Beratung und Unterstützung im Alltag ==
+
+
+=== Spezialisierte Pflegefachkräfte ===
+Spezialisierte Pflegefachkräfte können zuhause oder im Heim spezifische Unterstützung im Alltag bieten.
+
+
+=== Ergotherapie ===
+Das Ziel der Ergotherapie ist die größtmögliche Selbstständigkeit im Alltag. Auf Hausbesuchen können Ergotherapeutinnen und Ergotherapeuten Angehörige schulen und Empfehlungen zur Sturzprävention in der Wohnung abgeben. Im Heim können Ergotherapeutinnen und Ergotherapeuten Betroffene darin unterstützen, bedeutungsvolle Betätigungen weiterhin auszuführen. In ergotherapeutischen Gruppentherapien können Betroffene kognitive Fähigkeiten trainieren.
+
+
+== Gesundheitsökonomische Aspekte ==
+Daten aus dem Jahr 2016 besagen, dass 2010 für Patienten die gesellschaftlichen Gesamtkosten in Deutschland mit leichter etwa 15.000 EUR, mit mittlerer etwa 29.000 EUR und mit mittelschwerer/schwerer Alzheimerdemenz etwa 45.000 EUR betrugen. „Die informellen Pflegekosten hatten den größten Anteil an den gesellschaftlichen Gesamtkosten: 49% bei leichter, 55 % bei mittlerer und 6 % bei mittelschwerer/schwerer AD“. 2016 verursachte die Demenz für Kostenträger Zusatzausgaben von 18 Milliarden Euro: Das seien etwa 11 % der gesamten Gesundheitsausgaben für über 65-Jährige gewesen. Bezogen auf die Gesellschaft lägen die Zusatzkosten aber wesentlich höher: Hier koste die Versorgung von Demenzkranken etwa 54 Milliarden Euro, das entspricht jährlich etwa 33.200 Euro pro Patient. Die medizinische und pflegerische Versorgung eines Menschen mit Demenz belastete die Kostenträger im Schnitt mit jährlich 20.659 Euro. Für Österreich gibt es eine entsprechende Meldung aus dem Jahr 2019, für die Schweiz ebenfalls.
+
+
+== Geschichte ==
+
+Im November 1906 beschrieb der deutsche Psychiater und Neuropathologe Alois Alzheimer in einem Vortrag vor Kollegen den ersten Fall der Krankheit, die später als Alzheimer-Krankheit bekannt wurde. Alzheimer hatte die Patientin Auguste Deter im November 1901 nach ihrer Aufnahme in die Frankfurter Nervenklinik kennengelernt. Er beobachtete die damals 51 Jahre alte Patientin aufmerksam und protokollierte ihr Verhalten. Als Deter im April 1906 starb, war Alzheimer mittlerweile Laborleiter bei Emil Kraepelin in München geworden. Da Alzheimer an der Erforschung der Demenz interessiert war, ließ er sich das Gehirn der Verstorbenen von Emil Sioli schicken und untersuchte es. Alzheimers anschließender Vortrag über seine Erkenntnisse rief jedoch keine sonderlichen Reaktionen hervor, das heißt, dass die Brisanz von der damaligen Fachwelt noch nicht erkannt wurde. Im darauffolgenden Jahr veröffentlichte Alzheimer diese in dem Beitrag Über eine eigenartige Erkrankung der Hirnrinde in der Allgemeinen Zeitschrift für Psychiatrie.
+In den nächsten fünf Jahren wurden elf ähnliche Fälle in der medizinischen Literatur beschrieben, einige schon unter Verwendung der Bezeichnung Alzheimer-Krankheit. Die offizielle Benennung geht auf den Psychiater Emil Kraepelin zurück. Kraepelin benannte die Erkrankung in der achten Ausgabe seines Lehrbuchs der Psychiatrie aus dem Jahre 1910 nach Alois Alzheimer.
+Da die von Alzheimer betreute Patientin relativ jung war, beschrieb er die Erkrankung als präsenile Demenz. Erst später wurde erkannt, dass die gleichen histologischen Veränderungen auch bei älteren Demenz-Patienten auftreten. Zur Abgrenzung gegenüber dem echten (präsenilen) Morbus Alzheimer wird die Erkrankungsform des älteren Menschen als Senile Demenz vom Alzheimer-Typ (SDAT oder DVAT) bezeichnet.
+Im Jahr 1997 wurden originale Mikroskop-Präparate von Alzheimers Arbeit in München wiederentdeckt und neu evaluiert. 2012 wurde in dem Material eine Präsenilin-Mutation nachgewiesen.
+
+
+== Gesellschaftliche Komponente ==
+Nachdem der englische Fantasy-Autor Terry Pratchett († 12. März 2015) 2007 die Diagnose gestellt bekommen hatte, spendete er eine Million US-Dollar an den Alzheimer Research Trust. Pratchett führte in diesem Zusammenhang eine Kampagne gegen das Verbot der Sterbehilfe in Großbritannien, dazu produzierte er den BBC-Dokumentarfilm Choosing to die.
+Im März 2008 machte Tilman Jens die Demenz vom Alzheimer-Typ seines Vaters Walter Jens (1923–2013) öffentlich. Zwei Monate später machte Ursula von der Leyen die Alzheimer-Krankheit ihres Vaters, des ehemaligen niedersächsischen Ministerpräsidenten Ernst Albrecht (1930–2014), öffentlich publik.
+Im Februar 2013 wurde die Alzheimer-Erkrankung von Karlheinz Böhm öffentlich. Böhm verstarb am 29. Mai 2014.
+
+
+=== Literatur ===
+Literarisch verarbeitete der Schriftsteller Arno Geiger die Alzheimer-Erkrankung seines Vaters in dem Sachbuch Der alte König in seinem Exil, für das der Autor 2011 für den Preis der Leipziger Buchmesse nominiert war und das ihm einen Ehrenpreis des Deutschen Hospiz- und PalliativVerbandes einbrachte.
+Der Roman Hirngespinste von J. Bernlef, erstmals erschienen 1984 unter dem Titel Bis es wieder hell ist und 2007 neu aufgelegt, schildert die innere Erfahrungswelt eines Alzheimer-Kranken.
+Der Autor Martin Suter veröffentlichte 1997 zum Thema Altersdemenz den Roman Small World, der mit Gérard Depardieu und Alexandra Maria Lara 2010 verfilmt wurde.
+John Bayley, Iris Murdochs Witwer, veröffentlichte 1999 seine Erinnerungen an deren Alzheimer-Erkrankung in Elegy for Iris, die 2001 mit Kate Winslet und Judi Dench als Iris Murdoch verfilmt wurden.
+Die Aktivistin Helga Rohra (* 1953), die mit 54 Jahren die Diagnose Lewy-Body-Demenz gestellt bekam, setzt sich für die Rechte Demenzkranker ein und veröffentlichte 2011 das Buch Aus dem Schatten treten – Warum ich mich für unsere Rechte als Demenzbetroffene einsetze.
+Einen Comic über eine Alzheimer-Geschichte zeichnete der spanische Künstler Paco Roca unter dem Titel Kopf in den Wolken. Seine Graphic Novel erschien 2013. Das Buch handelt von erkrankten Menschen in einem Altersheim. „Die Geschichte lebt von authentischen Details, die Roca in seinem Bekannten- und Verwandtenkreis sowie durch die Recherche in einem Seniorenheim gesammelt hat. Es entfaltet sich eine Erzählung, die der Krankheit komische Seiten abgewinnt, ohne deren Tragik herunterzuspielen“, beurteilte der Kulturjournalist Ralph Trommer in seiner Besprechung in der tageszeitung (taz) am 4. November 2013. Es gibt eine Zeichentrick-Verfilmung von Kopf in den Wolken mit dem Titel Wrinkles.
+Sarah Leavitt brachte den Comic Das große Durcheinander – Alzheimer, meine Mutter und ich 2013 heraus.
+Eine Bearbeitung des Themas Alzheimer in Form von Lyrik nahm die österreichische Autorin und Sozialpädagogin Maria Seisenbacher mit ihrem Gedichtband Ruhig sitzen mit festen Schuhen vor (2015).
+Im März 2016 veröffentlichte die Publizistin Inge Jens das Sachbuch Langsames Entschwinden: Vom Leben mit einem Demenzkranken über die Demenz ihres Ehemannes Walter Jens.
+Die italienische Journalistin und Autorin Michela Farabella veröffentlichte im Jahre 2019 den autobiografischen Roman Italo, con te partirò, in dem sie die Leidensgeschichte ihres Vaters Italo Farabella schildert, der im Alter schwer von der Alzheimer-Krankheit betroffen war. Michela Farabella verbindet die Darstellung der sich in Turin zugetragenen tragischen Geschichte einer vierjährigen Odyssee ihres Vaters zwischen Heimen für Demenzkranke und Krankenhäusern mit der Kritik am italienischen Gesundheitssystems im Umgang mit älteren Alzheimerpatienten.
+Auch in dem Roman Untertags von Schriftsteller Urs Faes, erschienen im Suhrkamp Verlag im Oktober 2020, nimmt das Thema Demenz eine zentrale Rolle ein.
+
+
+=== Film und Theater ===
+In dem Theaterstück Ich muss gucken, ob ich da bin, erarbeitet von der Regisseurin Barbara Wachendorff, spielen auf der Bühne an Demenz erkrankte, ältere Schauspieler. Im Zentrum des Stücks, das 2006 für den Preis Der Faust nominiert war, steht die Lebenswelt der Betroffenen, ihre Wahrnehmung der Gegenwart und Vergangenheit. Außerdem schrieb Barbara Wachendorff das Theaterstück Anderland – Eine Reise ohne Ruder ins Land der Demenz, das im Mai 2012 im Bürgerhaus Stollwerck (Köln) Premiere feierte.
+Der Regisseur Iain Dilthey veröffentlichte 2009 den drei Demenz-Geschichten umfassenden Episodenfilm Eines Tages…, mit den Schauspielern Horst Janson, Annekathrin Bürger und Heinrich Schafmeister. Der Spielfilm ist Teil einer Filmratgeber-DVD-Box des LVR-Zentrums für Medien und Bildung in Düsseldorf.
+Von einem alten Ehepaar, das mit dem Schlaganfall und der dadurch fortschreitenden Demenz der Ehefrau fertig werden muss, erzählt der Film Liebe des Regisseurs Michael Haneke, der 2012 für das Beziehungsdrama bei den Filmfestspielen in Cannes die Goldene Palme verliehen bekam.
+Der Episodenfilm When yesterday comes erzählt in 77 Minuten vier verschiedene Geschichten zum Thema Demenz, realisiert durch die vier taiwanischen Regisseure Hsiu Chiung Chiang, Singing Chen, Wi Ding Ho und Ko Shang Shen.
+Im Dokumentarfilm Vergiss mein nicht aus dem Jahr 2012 porträtierte der Regisseur David Sieveking seine an Alzheimer erkrankte Mutter.
+Der Regisseur Armin Petras widmet sich in seinem Theaterstück Demenz, Depression und Revolution, das 2013 am Berliner Maxim-Gorki-Theater Premiere feierte, ebenso der Krankheit. Eindringlich symbolisieren die Darsteller den geistigen Verfall mit Worten wie „Er gießt Kaffee auf den Teller, Brot in den Kaffee, Zeitung wird in die Limo getunkt“.
+Der Fernsehfilm Die Auslöschung erzählt die Geschichte der großen, aber späten Liebe einer Restauratorin, gespielt von Martina Gedeck, und eines Kunsthistorikers, dargestellt von Klaus Maria Brandauer. Ihre Beziehung verändert sich, als bei ihm die Alzheimer-Krankheit diagnostiziert wurde. Aus einer gleichberechtigten Partnerschaft entsteht nach und nach ein Pflegeverhältnis, die liebevolle Verbundenheit beider bleibt jedoch bestehen (Ausstrahlung im Sender Das Erste am 8. Mai 2013).
+Der Regisseur Thomas Liesen produzierte 2013 unter dem Titel Leben, Lieben, Vergessen… eine dreijährige Langzeit-Dokumentation für Das Erste. Porträtiert wurde eine dreiköpfige Familie, die mit der genetisch bedingten Alzheimer-Erkrankung der 42-jährigen Mutter konfrontiert wird. Der Film behandelt die Entwicklung der Krankheit von der Diagnose im Frühstadium bis ins Endstadium und beschreibt die daraus resultierenden Belastungen und Einschränkungen der Familie im Alltag.
+In der deutschen Tragikomödie Honig im Kopf (2014) von und mit Til Schweiger setzt sich Schweiger gemeinsam mit seiner Tochter Emma Schweiger und Dieter Hallervorden mit den Themen Alzheimer und Demenz auseinander.
+Still Alice – Mein Leben ohne Gestern (Still Alice) mit Julianne Moore in der Hauptrolle ist ein US-amerikanisch-französisches Filmdrama aus dem Jahr 2014 (2015 in Deutschland erschienen). Es basiert auf der gleichnamigen Romanvorlage der Schriftstellerin Lisa Genova und beschäftigt sich mit dem Verlauf einer früh einsetzenden Variante von Alzheimer.
+
+
+==== Weitere Filme ====
+1995: Sommerschnee (女人四十 / Nu ren si shi), Britisch-Hongkong, Regie: Ann Hui, mit Josephine Siao, Roy Chiao
+2001: Claire – Se souvenir des belles choses (Se souvenir des belles choses), Frankreich, Regie: Zabou Breitman, mit Isabelle Carré, Bernard Campan
+2001: Iris, Großbritannien / USA, Regie: Richard Eyre, mit Judi Dench, Jim Broadbent, Kate Winslet
+2003: Totgemacht – The Alzheimer Case (De zaak Alzheimer), Belgien, Regie: Erik Van Looy, mit Jan Decleir, Koen De Bouw, Werner De Smedt
+2008: Immer noch Liebe! (Lovely, Still), Vereinigte Staaten, Regie: Nik Fackler, mit Martin Landau, Ellen Burstyn
+2011: Das Blaue vom Himmel, Deutschland, Regie: Hans Steinbichler, mit Hannelore Elsner, Juliane Köhler
+2012: Für immer dein (Still Mine), Kanada, Regie: Michael McGowan, mit James Cromwell, Geneviève Bujold
+2013: Stiller Abschied, Deutschland, Regie: Florian Baxmeyer, mit Christiane Hörbiger
+2014: Nichts für Feiglinge, Deutschland, Regie: Michael Rowitz, mit Hannelore Hoger, Frederick Lau
+2017: Für dich dreh ich die Zeit zurück, Österreich / Deutschland, Regie: Nils Willbrandt, mit Gisela Schneeberger, Erwin Steinhauer
+2017: Das Leuchten der Erinnerung (The Leisure Seeker), Frankreich / Italien, Regie: Paolo Virzì, mit Helen Mirren, Donald Sutherland
+2019: Romys Salon (Kapsalon Romy), Niederlande / Deutschland, Regie: Mischa Kamp, mit Beppie Melissen, Vita Heijmen
+2020: The Father, Großbritannien, Regie: Florian Zeller, mit Anthony Hopkins, Olivia Colman, Imogen Poots, Rufus Sewell
+2020: Noch einmal, June (June Again), Australien, Regie: JJ Winlove, mit Noni Hazlehurst, Claudia Karvan, Stephen Curry
+2020: Supernova, Großbritannien, Regie: Harry Macqueen, mit Colin Firth, Stanley Tucci
+2021: Die Vergesslichkeit der Eichhörnchen, Deutschland, Regie: Nadine Heinze, Marc Dietschreit, mit Emilia Schüle, Günther Maria Halmer
+
+
+=== Herausforderung für Politik und Gesellschaft ===
+Inzwischen wissen viele, dass die Alzheimer-Krankheit die häufigste Form – verantwortlich für 50 bis 80 Prozent der Fälle – geistigen Verfalls ist. An zweiter Stelle steht die gefäßbedingte Demenz: Durchblutungsstörungen durch Schlaganfälle oder verengte und verkalkte Schlagadern können das Gehirn so weit zerstören, dass eine Demenz auftritt. Häufig überlagern sich die beiden Demenz-Arten.
+Die Alzheimer-Krankheit gilt auch als eine Belastung für das Gesundheitssystem. Da die Zahl sehr alter Menschen stark zugenommen hat und weiter zunimmt, erhöht sich auch die Zahl der Erkrankten. Die Behandlungskosten sind für Kranken- und Pflegekassen eine wachsende finanzielle Herausforderung.
+
+
+== Siehe auch ==
+Deutsche Alzheimer-Gesellschaft
+Alzheimer Forschung Initiative
+PAQUID-Kohortenstudie
+
+
+== Literatur ==
+Alois Alzheimer: Über eine eigenartige Erkrankung der Hirnrinde. Vortrag (3. November) auf der Versammlung Südwestdeutscher Irrenärzte in Tübingen am 3. und 4. November 1906. Eigenbericht Alzheimers in Allg. Zeitschrift für Psychiatrie und psychisch-gerichtliche Medizin, 1907, S. 146–148.
+T. A. Bayer, O. Wirths: Alzheimer-Demenz. Molekulare Pathologie, Tiermodelle und Therapiestrategien. In: Der Nervenarzt. 79 (Suppl 3), S. 117–128.
+Anne Eckert: Alois Alzheimer und die Alzheimer Krankheit. In: Pharmazie in unserer Zeit. Band 31 (4), 2002, S. 356–360.
+Hans Förstl, Alexander Kurz, Tobias Hartmann: Alzheimer-Demenz. In: Hans Förstl (Hrsg.): Demenzen in Theorie und Praxis. 3. Auflage. Springer, Berlin u. a. 2011, ISBN 978-3-642-19794-9, S. 47–72.
+Kurt Jellinger (Hrsg.): Alzheimer – Meilensteine aus hundert Jahren wissenschaftlicher und klinischer Forschung. Akademische Verlagsgesellschaft AKA, Berlin 2006, ISBN 3-89838-077-7.
+Frank Jessen (Hrsg.): Handbuch Alzheimer-Krankheit. Grundlagen – Diagnostik – Therapie – Versorgung – Prävention. De Gruyter, Berlin 2018, ISBN 978-3-11-040345-9.
+Cornelia Stolze: Vergiss Alzheimer! Die Wahrheit über eine Krankheit, die keine ist. Kiepenheuer & Witsch, Köln 2011, ISBN 3-462-04339-0.
+J. Randall et al.: Clinical and Biomarker Changes in Dominantly Inherited Alzheimer’s Disease. In: New England Journal of Medicine. 2012, S. 120723122607004, doi:10.1056/NEJMoa1202753.
+Michael Jürgs: Alzheimer: Spurensuche im Niemandsland. Bertelsmann Taschenbuch, München 2006, ISBN 978-3-570-00934-5.
+Margret Lock: The Alzheimer Conundrum: Entanglements of Dementia and Aging. Princeton University Press 2013, ISBN 978-0-691-14978-3.
+
+
+== Weblinks ==
+
+Literatur von und über Alzheimer-Krankheit im Katalog der Deutschen Nationalbibliothek
+Makroskopisches Präparat eines Alzheimer-Patienten und histologisches Präparat
+Wegweiser Demenz des Bundesministeriums für Familie, Senioren, Frauen und Jugend
+Infoportal Demenz Website der Alzheimer Gesellschaft Baden-Württemberg
+Die großen Volkskrankheiten: Alzheimer TV-Dokumentation der ARD als YouTube-Video (41:36 Min.), Beschreibung bei 3sat.de
+
+
+== Einzelnachweise ==

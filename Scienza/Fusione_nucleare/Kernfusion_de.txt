@@ -1,0 +1,709 @@
+Als Kernfusion werden Kernreaktionen bezeichnet, bei denen je zwei Atomkerne zu einem neuen Kern verschmelzen. Kernfusionsreaktionen sind die Ursache dafür, dass die Sonne und alle leuchtenden Sterne Energie abstrahlen.
+Von entscheidender Bedeutung für das Zustandekommen einer Fusion ist der Wirkungsquerschnitt, das Maß für die Wahrscheinlichkeit, dass zusammenstoßende Kerne miteinander reagieren. Ausreichend groß ist der Wirkungsquerschnitt meist nur dann, wenn die beiden Kerne mit hoher Energie aufeinander prallen. Diese ist nötig, um die Coulombbarriere, die elektrische Abstoßung zwischen den positiv geladenen Kernen, zu überwinden oder ihr schmales Maximum zu durchtunneln. Jenseits der Barriere, bei einem Abstand von nur noch etwa 10−15 m, überwiegt die Anziehung durch die starke Wechselwirkung und die Kerne verschmelzen miteinander.
+Fusionsreaktionen können exotherm (Energie abgebend) oder endotherm (Energie aufnehmend) sein. Exotherme Fusionsreaktionen können die hohen Temperaturen aufrechterhalten, die nötig sind, damit die thermische Energie zu weiteren Fusionsreaktionen führen kann. Solche thermonuklearen Prozesse laufen in Sternen und Fusionsbomben unter extremem Druck ab. Im Gegensatz zur Kernspaltung ist eine Kettenreaktion mit Fusionsreaktionen nicht möglich.
+Die oben abgebildete Fusionsreaktion als thermonuklearer Vorgang soll in Zukunft der Stromerzeugung in Kernfusionsreaktoren dienen: Kerne von Deuterium (2H) und Tritium (3H) verschmelzen zu einem Heliumkern (4He) unter Freisetzung eines Neutrons (n) sowie von Energie (3,5 MeV + 14,1 MeV).
+In der Abbildung darunter ist die Bindungsenergie pro Nukleon der Nuklide dargestellt. Energie wird frei bei Reaktionen in aufsteigender Richtung der Kurve bzw. wird benötigt bei abfallender Richtung. Die Fusion von Wasserstoff (H) zu Helium-4 setzt besonders viel Energie frei.
+
+
+== Erforschung der Kernfusion ==
+Schon die erste beobachtete Kernreaktion war eine (endotherme) Fusionsreaktion. Sie wurde – lange vor der Kernspaltung – durch Ernest Rutherford im Jahre 1917 bei Experimenten mit Alphateilchen entdeckt. Es zeigten sich Protonen relativ hoher Energie, die nur auftraten, wenn das bestrahlte Gas Stickstoff enthielt. Diese Kernreaktion heißt in heutiger Schreibweise 14N(α,p)17O oder, ausführlich geschrieben:
+
+  
+    
+      
+        
+          
+
+          
+          
+            14
+          
+        
+        
+          N
+        
+        +
+        
+          
+
+          
+          
+            4
+          
+        
+        
+          H
+          e
+        
+        
+        →
+        
+        
+          
+
+          
+          
+            17
+          
+        
+        
+          O
+        
+        +
+        
+          
+
+          
+          
+            1
+          
+        
+        
+          H
+        
+        −
+        1
+        
+          ,
+        
+        2
+         
+        
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle {}^{14}\mathrm {N} +{}^{4}\mathrm {He} \,\rightarrow \,{}^{17}\mathrm {O} +{}^{1}\mathrm {H} -1{,}2\ \mathrm {MeV} }
+  
+
+Diese Umwandlung von Stickstoff in Sauerstoff stand, wie der Alphazerfall selbst, im Widerspruch zur klassischen Theorie, nach der die Coulombbarriere nur mit ausreichend Energie überwunden werden kann. Erst 1928 konnte George Gamow solche Vorgänge auf der Basis der neuen Quantenmechanik mit dem Tunneleffekt erklären.
+Schon 1920 hatte Arthur Eddington aufgrund der genauen Messungen von Isotopenmassen durch Francis William Aston (1919) Fusionsreaktionen als mögliche Energiequelle von Sternen vorgeschlagen. Da aus spektroskopischen Beobachtungen bekannt war, dass Sterne zum Großteil aus Wasserstoff bestehen, kam hier dessen Verschmelzung zu Helium in Betracht. 1939 veröffentlichte Hans Bethe verschiedene Mechanismen, wie diese Reaktion in Sternen ablaufen könnte.
+Die erste im Labor gezielt durchgeführte Fusionsreaktion war der Beschuss von Deuterium mit Deuteriumkernen 1934 durch Mark Oliphant, Assistent von Rutherford, und Paul Harteck. Die Fusion dieses in Sternen allerdings seltenen Wasserstoffisotops verzweigt in zwei Produktkanäle:
+
+  
+    
+      
+        
+          
+
+          
+          
+            2
+          
+        
+        
+          H
+        
+        +
+        
+          
+
+          
+          
+            2
+          
+        
+        
+          H
+        
+        
+        →
+        
+        
+          
+
+          
+          
+            3
+          
+        
+        
+          H
+          e
+        
+        +
+        
+          
+
+          
+          
+            1
+          
+        
+        
+          n
+        
+        +
+        3
+        
+          ,
+        
+        3
+         
+        
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle {}^{2}\mathrm {H} +{}^{2}\mathrm {H} \,\rightarrow \,{}^{3}\mathrm {He} +{}^{1}\mathrm {n} +3{,}3\ \mathrm {MeV} }
+  
+
+  
+    
+      
+        
+          
+
+          
+          
+            2
+          
+        
+        
+          H
+        
+        +
+        
+          
+
+          
+          
+            2
+          
+        
+        
+          H
+        
+        
+        →
+        
+        
+          
+
+          
+          
+            3
+          
+        
+        
+          H
+        
+        +
+        
+          
+
+          
+          
+            1
+          
+        
+        
+          p
+        
+        +
+        4
+        
+          ,
+        
+        0
+         
+        
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle {}^{2}\mathrm {H} +{}^{2}\mathrm {H} \,\rightarrow \,{}^{3}\mathrm {H} +{}^{1}\mathrm {p} +4{,}0\ \mathrm {MeV} }
+  
+
+
+=== Geschichte der Fusionsforschung aus der Kernwaffenentwicklung ===
+Die technische Nutzung der thermonuklearen Kernfusion wurde zunächst mit dem Ziel der militärischen Waffenentwicklung (Projekt Matterhorn, heute das Princeton Plasma Physics Laboratory) verfolgt.  Ebenfalls wurde die Forschung der kontrollierten Fusion (Projekt Sherwood, 1951–1958) in dem ersten Jahrzehnt nach dem Zweiten Weltkrieg geheim gehalten. Die USA waren seit 1945, die Sowjetunion seit 1949 im Besitz der auf der Kernspaltung basierenden Atombombe.
+In der Folgezeit entwickelten Edward Teller und Stanislaw Ulam (Leitung u. a.: J. Carson Mark) in den USA ein Konzept zum Bau einer Wasserstoffbombe, die auf der Kernfusion beruht und eine wesentlich höhere Sprengkraft versprach. Am 1. November 1952 wurde die erste Wasserstoffbombe namens Ivy Mike im Eniwetok-Atoll im Pazifik gezündet. Damit war der Nachweis erbracht, dass auch auf der Erde große Energiemengen durch Kernfusion freigesetzt werden können.
+Im Jahr 1958 wurden die Forschungsergebnisse und das nicht-kernwaffenspezifische Wissen zur Kernfusion aus der Geheimhaltung verabschiedet und veröffentlicht.
+
+
+== Energiebilanz ==
+Ist die Masse der bei der Fusion entstandenen Kerne bzw. Teilchen geringer als die Summe der Masse der Ausgangskerne, wird die Massendifferenz 
+  
+    
+      
+        Δ
+        m
+      
+    
+    {\displaystyle \Delta m}
+  
+ wie bei jeder Kernreaktion nach der von Einstein stammenden Masse-Energie-Äquivalenzformel 
+  
+    
+      
+        E
+        =
+        Δ
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E=\Delta mc^{2}}
+  
+ in Form von Energie freigesetzt (als kinetische Energie der Reaktionsprodukte und u. U. als elektromagnetische Strahlung). Exotherme, also Energie freisetzende Fusionsreaktionen treten nur bei der Verschmelzung leichter Kerne auf, da die Bindungsenergie pro Nukleon mit steigender Massenzahl nur bis zum Element Nickel (Isotop 62Ni) zunimmt. Sehr groß ist sie jedoch bei Helium-4 erzeugenden Reaktionen: Die Umsetzung von einem Gramm Deuterium-Tritium-Gemisch in einem Kernfusionsreaktor würde eine thermische Energie von rund 100 Megawattstunden (MWh) oder 12,3 t SKE liefern.
+Die bisherigen Experimente zur kontrollierten thermonuklearen Fusion weisen noch keine positive Energiebilanz auf. Am erfolgreichsten war bisher die britische Anlage JET (Joint European Torus), die eine Spitzenleistung von 16 MW für weniger als eine Sekunde erreichen konnte. Dabei konnten 65 Prozent der hineingesteckten Energie als Fusionsenergie zurückgewonnen werden.
+
+
+== Stellare Kernfusion ==
+
+In vielen Sternen, wie unserer Sonne, steht eine lange Phase des Wasserstoffbrennens am Beginn der Entwicklung. In dieser Zeit als Hauptreihenstern verschmelzen Protonen, die Atomkerne des Wasserstoffs, unter Energiefreisetzung zu Helium. Dies geschieht in mäßig großen Sternen hauptsächlich über eine als Proton-Proton-Reaktion bekannte Reaktionskette; bei höheren Temperaturen gewinnt der Bethe-Weizsäcker-Zyklus an Bedeutung. In diesen Reaktionsketten werden Neutrinos mit charakteristischen Energieverteilungen gebildet, deren Messung Aufschluss über das Sonneninnere liefert.
+Wenn im Kern eines Hauptreihensterns der Wasserstoff knapp geworden ist, beginnt die Fusion von Helium. Größere Sterne erzeugen infolge ihrer Masse auch einen stärkeren Gravitationsdruck, wodurch Dichte und Temperatur höhere Werte erreichen und am Ende auch schwerere Elemente durch Fusion entstehen. Dieser Prozess führt bis zu Kernen im Bereich des Maximums der Bindungsenergie pro Nukleon (Massenzahlen um 60, mit Ausläufern bis etwa 70). Elemente mit noch größeren Massenzahlen können hingegen nicht mehr auf diese Weise entstehen, da solche Fusionen zunehmend endotherm sind, d. h. weniger Energie liefern, als sie für ihre eigene Erhaltung benötigen. Sie werden durch Neutronen- (s- und r-Prozess) und Protonenanlagerung (p-Prozess) gebildet (siehe Supernova, Kernkollaps).
+Fusionsreaktionen mit verschiedenen Ausgangsstoffen benötigen verschieden hohe Temperaturen. In Sternen laufen unterschiedliche Reaktionen nacheinander ab. Ist der Brennstoff für eine Reaktion aufgebraucht, so kontrahiert der Stern, wodurch seine Zentraltemperatur steigt. Eine neue Reaktion, die diese höhere Temperatur benötigt, kann dann einsetzen.
+
+
+== Kernfusionsreaktionen für technische Energiegewinnung ==
+
+
+=== Mögliche Einsatzstoffe und Reaktionen ===
+Die p-p-Reaktion ist für eine technische thermonukleare Nutzung viel zu langsam. Selbst im Kern der Sonne liegt die mittlere Lebensdauer eines Protons bis zur Reaktion in der Größenordnung von zehn Milliarden Jahren.
+Aber auch alle für die technische Nutzung in Frage kommenden Fusionsreaktionen erfolgen zwischen sehr leichten Atomkernen, und ihr Energiegewinn erklärt sich aus der Erzeugung von Helium-4-Kernen mit ihrer hohen Bindungsenergie pro Nukleon. Eine der betrachteten Reaktionen, die Proton-Bor-11-Reaktion (letzte Zeile der folgenden Tabelle), ist gar keine Fusion im Sinne der obigen Definition – es entsteht kein Kern, der schwerer ist als die Ausgangskerne – aber sie erzeugt pro reagierendem Kernpaar gleich drei Helium-4-Kerne. Üblicherweise wird diese Reaktion mit zur „Kernfusion“ gezählt.
+Die Konzepte für Kernfusionsreaktoren basieren auf der Fusion von Deuterium und Tritium, im Folgenden kurz DT. Andere Fusionsreaktionen hätten zum Teil Vorteile gegenüber DT, insbesondere hinsichtlich durch Aktivierung der Wandmaterialien entstehender Radioaktivität oder leichterer Nutzbarmachung der Reaktionsenergie. Sie stellen jedoch wegen kleineren Energiegewinns pro Einzelreaktion, der Notwendigkeit wesentlich höherer Plasmatemperaturen oder mangelnder Verfügbarkeit der Einsatzstoffe bis auf Weiteres nur theoretische Möglichkeiten der Energiegewinnung dar.
+In der nachfolgenden Tabelle sind die möglichen Brennstoffe, die Reaktionsprodukte und die freiwerdende Energie aufgeführt. Bei Reaktionen mit verschiedenen möglichen Endprodukten sind die prozentualen Anteile der Reaktionskanäle angegeben.
+Gibt es nur zwei Produktteilchen, haben diese (bei vernachlässigter Stoßenergie im Eingangskanal) nach der Kinematik die angegebenen, wohlbestimmten kinetischen Energien. Bei Reaktionen mit mehr als zwei Produktteilchen lässt sich dagegen nur die freigesetzte Gesamtenergie angeben.
+
+
+=== Deuterium/Tritium ===
+Für irdische Kernfusionsreaktoren ist ein Gemisch aus gleichen Teilen der Wasserstoff-Isotope Deuterium (D) und Tritium (T) der bei weitem aussichtsreichste Brennstoff. Damit diese Fusionsreaktion – Reaktion (1) in der obigen Tabelle – selbstständig abläuft, muss das Lawson-Kriterium (ein Mindestwert für das Produkt aus Temperatur, Teilchendichte und Energieeinschlusszeit) erfüllt sein. Daraus ergibt sich eine benötigte Temperatur von ca. 150 Mio. K (zehnmal höher als im Kern der Sonne) und ein Druck von einigen Bar (mehrere Größenordnungen geringer als im Kern der Sonne). Bei diesen technisch erreichbaren Werten ist der Wirkungsquerschnitt der DT-Reaktion weit größer als der für den ersten Schritt der Proton-Proton-Reaktion.
+Zur Nutzung der DT-Reaktion als Energiequelle auf der Erde werden in internationaler Zusammenarbeit Fusionsreaktoren mit magnetischem Einschluss des Plasmas entwickelt, wobei es bisher (2020) vor allem darum geht, ein stabiles Plasma zu erzeugen. Dafür werden fast ausschließlich Wasserstoff, Deuterium oder Gemische daraus verwendet, nur in seltenen Fällen auch das radioaktive Tritium. Die meisten plasmaphysikalischen und technischen Probleme bezüglich Heizung, Stabilisierung und Diagnostik können mit Wasserstoff und Deuterium untersucht werden. Die für das Erfüllen des Lawson-Kriteriums erforderliche Energieeinschlusszeit ist noch nicht erreicht; die bisherigen (Stand 2016) Versuchsanlagen sind dafür zu klein. Die DT-Fusion ist mit JET für kurze Zeit demonstriert worden. Ein physikalischer Energiegewinn, d. h. eine Energiefreisetzung, die die zur Plasmaaufheizung aufgewandte Energie übersteigt, soll mit ITER erreicht werden. Die erste Stromproduktion ist mit DEMO vorgesehen.
+
+
+=== Deuterium/Deuterium ===
+Zwei Reaktionskanäle sind etwa gleich häufig:
+
+  
+    
+      
+        
+          D
+        
+        +
+        
+          D
+        
+         
+        →
+         
+        
+          p
+        
+        +
+        
+          T
+        
+        +
+        4
+        
+          ,
+        
+        0
+        
+        
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle \mathrm {D} +\mathrm {D} \ \rightarrow \ \mathrm {p} +\mathrm {T} +4{,}0\;\mathrm {MeV} }
+  
+
+  
+    
+      
+        
+          D
+        
+        +
+        
+          D
+        
+         
+        →
+         
+        
+          n
+        
+        +
+        
+          
+
+          
+          
+            3
+          
+        
+        
+        
+        
+          H
+          e
+        
+        +
+        3
+        
+          ,
+        
+        3
+        
+        
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle \mathrm {D} +\mathrm {D} \ \rightarrow \ \mathrm {n} +{}^{3}\!\,\mathrm {He} +3{,}3\;\mathrm {MeV} }
+  
+
+Für eine Kraftwerksnutzung sind die Nachteile gegenüber DT der viel kleinere Energiegewinn und der viel kleinere Wirkungsquerschnitt, was die erforderliche Einschlusszeit erhöht. Bei nennenswertem Umsatz der DD-Reaktion (insbesondere in Bomben) tritt als Folgereaktion die DT-Reaktion auf, sowie zusätzlich die Reaktionen:
+
+  
+    
+      
+        
+          p
+        
+        +
+        
+          T
+        
+         
+        →
+         
+        
+          
+
+          
+          
+            4
+          
+        
+        
+        
+        
+          H
+          e
+        
+        +
+        γ
+        +
+        19
+        
+          ,
+        
+        8
+        
+        
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle \mathrm {p} +\mathrm {T} \ \rightarrow \ {}^{4}\!\,\mathrm {He} +\gamma +19{,}8\;\mathrm {MeV} }
+  
+
+  
+    
+      
+        
+          D
+        
+        +
+        
+          
+          
+            3
+          
+        
+        
+          H
+          e
+        
+         
+        →
+         
+        
+          p
+        
+        +
+        
+          
+
+          
+          
+            4
+          
+        
+        
+        
+        
+          H
+          e
+        
+        +
+        18
+        
+          ,
+        
+        3
+        
+        
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle \mathrm {D} +\!^{3}\mathrm {He} \ \rightarrow \ \mathrm {p} +{}^{4}\!\,\mathrm {He} +18{,}3\;\mathrm {MeV} }
+  
+
+  
+    
+      
+        
+          T
+        
+        +
+        
+          T
+        
+         
+        →
+         
+        2
+        
+        
+          n
+        
+        +
+        
+          
+
+          
+          
+            4
+          
+        
+        
+        
+        
+          H
+          e
+        
+        +
+        11
+        
+          ,
+        
+        3
+        
+        
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle \mathrm {T} +\mathrm {T} \ \rightarrow \ 2\,\mathrm {n} +{}^{4}\!\,\mathrm {He} +11{,}3\;\mathrm {MeV} }
+  
+
+
+=== Deuterium/Helium-3 und Helium-3/Helium-3 ===
+Der Helium-3-Kern ist der Spiegelkern zum Tritiumkern: er enthält 2 Protonen und 1 Neutron statt 1 Proton und 2 Neutronen. Die D-3He-Reaktion (Nr. (3) der Tabelle), oben bereits als Folgereaktion der Deuterium-Deuterium-Fusion aufgeführt, liefert dementsprechend einen Helium-4-Kern und ein Proton von 15 MeV Energie. Allerdings muss die höhere Abstoßung des doppelt geladenen Helium-3-Kerns überwunden werden. Die Umsetzung der kinetischen Energie des Protons in nutzbare Form wäre einfacher als beim Neutron. Gleichzeitig würden auch Deuteriumionen untereinander zu Protonen und Tritium oder zu Neutronen und Helium-3 reagieren. Dadurch würden sich ebenfalls Neutronen bilden. Wird das Tritium nicht aus dem Reaktionsgas entfernt, kommt es auch durch D-T-Reaktionen zur Neutronenfreisetzung.
+In einem allein mit 3He betriebenen Fusionsreaktor (Reaktion (5)) gäbe es noch viel weniger Radioaktivität, da nur ein He-4-Kern und Protonen entstehen. Allerdings müssten für die Reaktion
+
+  
+    
+      
+        
+          
+            
+            
+              3
+            
+          
+          H
+          e
+          +
+          
+            
+            
+              3
+            
+          
+          H
+          e
+           
+          →
+          
+             
+            
+              4
+            
+          
+          H
+          e
+          +
+           
+          2
+           
+          p
+          +
+          12
+          
+            ,
+          
+          9
+          
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle \mathrm {^{3}He+\!^{3}He\ \rightarrow \ ^{4}He+\ 2\ p+12{,}9\;MeV} }
+  
+
+noch größere Abstoßungskräfte überwunden werden. Bei den hohen Temperaturen des Plasmas würde mit einer gewissen Reaktionsrate durch inversen Beta-Zerfall aus He-3 und Elektronen Tritium entstehen.
+Eine grundsätzliche Schwierigkeit liegt in der Verfügbarkeit von He-3, das auf der Erde nur in geringer Menge vorhanden ist. Größere Mengen He-3 sind in Mondgestein nachgewiesen worden. Für eine mögliche Gewinnung auf dem Mond und Transport zur Erde müssten die technische Machbarkeit nachgewiesen und das Kosten-Nutzen-Verhältnis abgewogen werden.
+
+
+=== Weitere denkbare Brennstoffe ===
+Der He-4-Atomkern weist im Vergleich zu seinen Nachbarnukliden eine besonders hohe Bindungsenergie pro Nukleon auf; dies erklärt den großen Energiegewinn der DT-Reaktion (siehe oben), und deshalb sind auch andere Reaktionen leichter Nuklide, soweit sie He-4 erzeugen, als Energiequelle denkbar. Die Schaffung der erforderlichen Bedingungen bereitet jedoch noch viel größere Schwierigkeiten, denn die Abstoßung zwischen den mehrfach geladenen Atomkernen ist stärker als zwischen den Wasserstoffkernen. Ein Beispiel ist die Bor-Proton-Reaktion (Nr. (10))
+
+  
+    
+      
+        
+          
+            
+            
+              11
+            
+          
+          B
+          +
+          
+          p
+           
+          →
+           
+          3
+          
+            
+            
+              4
+            
+          
+          H
+          e
+          +
+          8
+          
+            ,
+          
+          7
+          
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle \mathrm {^{11}B+\!p\ \rightarrow \ 3\;^{4}He+8{,}7\;MeV} }
+  
+.
+Sie hätte ebenso wie die 3He-3He-Reaktion den Vorteil, keine Neutronen freizusetzen. Für sie müssten im Vergleich zur DT-Reaktion die Temperatur etwa zehnmal höher und die Einschlusszeit 500-mal länger sein. Die Energieverluste des Fusionsplasmas durch Bremsstrahlung stellen aufgrund der nötigen hohen Temperaturen und der Kernladung des Bors eine bisher unüberwindbare physikalische Grenze dar.
+
+
+=== Kernfusion mit polarisierten Teilchen ===
+Die Reaktionsraten der Fusionsreaktionen sind von einer eventuellen Spinpolarisation der beteiligten Ionen abhängig. So könnte der Wirkungsquerschnitt der DT- oder der D-3He-Fusionsreaktion um bis zu 50 % erhöht werden, wenn die Spins der beteiligten Teilchen parallel ausgerichtet wäre. Außerdem könnten die bevorzugten Emissionsrichtungen der Reaktionsprodukte beeinflusst werden. Damit ließe sich im Prinzip die Energieauskopplung etwas vereinfachen und die Lebensdauer der Blanketteile erhöhen. Allerdings ist offen, wie die für einen Reaktorbetrieb erforderlichen Mengen polarisierten Brennstoffs hergestellt, in das Plasmagefäß gebracht und dort gegen Depolarisationseffekte geschützt werden können.
+
+
+=== Kalte Fusion ===
+Kalte Fusion ist die Bezeichnung für Kernfusionsreaktionen ohne heißes Plasma. Damit sollte der Aufwand zur Energiegewinnung mittels Kernfusion überschaubar bleiben. Die meisten Verfahren  entpuppten sich nach einem kurzen Hype in den 1980er-Jahren als pathologische Wissenschaft ohne eigentliche Funktion oder praktischen Nutzen. Eine Ausnahme ist die Pyrofusion, die zwar prinzipiell funktioniert, aber nur als Neutronenquelle, jedoch nicht zur Energiegewinnung nutzbar ist.
+
+
+== Technische Anwendungen ==
+
+
+=== Stromerzeugung ===
+
+In internationaler Kooperation  wird erforscht, ob und wie sich Fusionsenergie zur Stromerzeugung nutzen lässt. Der erste wirtschaftlich nutzbare Reaktor wird, falls sich die technologischen Hindernisse überwinden lassen und die politische Entscheidung zugunsten der neuen Technologie fallen sollte, aus heutiger Sicht nicht vor 2050 erwartet. Ein großtechnischer Einsatz der könnte im letzten Viertel des 21. Jahrhunderts erfolgen.
+
+
+=== Physikalische Forschung, Neutronenquellen ===
+Fusionsreaktionen lassen sich wie andere Kernreaktionen mittels Teilchenbeschleunigern im Labor zu physikalischen Forschungszwecken durchführen. Die oben genannte Deuterium-Tritium-Reaktion wird so zur Erzeugung schneller freier Neutronen verwendet.
+
+
+=== Atomwaffen ===
+In Wasserstoffbomben läuft die Deuterium-Tritium-Reaktion unkontrolliert ab, wobei das Tritium meist erst während der Explosion aus Lithium gewonnen wird. Die größte je getestete Wasserstoffbombe, die Zar-Bombe, erreichte eine Sprengkraft von 57 Megatonnen TNT. Aber auch viele Atombomben enthalten einige Gramm eines Deuterium-Tritium-Gemischs im Inneren der Hohlkugel aus Nuklearsprengstoff. Nach Beginn der Kettenreaktion wird diese ausreichend aufgeheizt, um die Kernfusion zu starten. Die dabei in großer Zahl freigesetzten Neutronen intensivieren die Kettenreaktion im Nuklearsprengstoff.
+Seit Einstellung der Kernwaffen-Testexplosionen (Kernwaffenteststopp-Vertrag) werden Fragen der Funktionssicherheit und der Weiterentwicklung von Atomwaffen unter anderem ausschließlich mit Computersimulationen und Hochenergie-Anlagen (z. B. NIF) untersucht. Die dafür nötigen genauen Materialparameter werden unter anderem durch Experimente zur lasergetriebenen Trägheitsfusion ermittelt.
+
+
+== Literatur ==
+
+
+=== Berichte und Andere ===
+A. Grunwald, R. Grünwald, D. Oertel, H. Paschen: Kernfusion. Sachstandsbericht. Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag (TAB), 2002, doi:10.5445/IR/1000102229. 
+Gov.uk: Towards Fusion Energy: The UK Government’s Fusion Strategy. Department for Business, Energy & Industrial Strategy, 2021 (englisch, gov.uk). 
+BMBF: Positionspapier Fusionsforschung: Auf dem Weg zur Energieversorgung von morgen. Bundesministerium für Bildung und Forschung (BMBF), 2023 (bmbf.de). 
+BMBF: Memorandum Laser Inertial Fusion Energy. Bundesministerium für Bildung und Forschung (BMBF), 2023 (bmbf.de). 
+
+
+=== Fachartikel ===
+Alexander M. Bradshaw, Thomas Hamacher: Kernfusion – Eine nachhaltige Energiequelle der Zukunft. Naturwissenschaftliche Rundschau 58(12), S. 629–637 (2005), ISSN 0028-1050
+
+
+=== Fachbücher oder Monographien ===
+Kyoji Nishikawa, Masahiro Wakatani: Plasma Physics. Springer Berlin Heidelberg, Berlin, Heidelberg 2000, ISBN 978-3-642-08465-2, doi:10.1007/978-3-662-04078-2. 
+Mitsuru Kikuchi, Karl Lackner, Minh Quang Tran (Hrsg.): Fusion Physics (= Publication / Division of Scientific and Technical Information, International Atomic Energy Agency. Band 1562). International Atomic Energy Agency, Vienna 2012, ISBN 978-92-0-130410-0 (iaea.org [PDF]). 
+Francis F. Chen: Introduction to Plasma Physics and Controlled Fusion. Springer International Publishing, Cham 2016, ISBN 978-3-319-22308-7, doi:10.1007/978-3-319-22309-4 (englisch). 
+Alexander Piel: Plasma Physics (= Graduate Texts in Physics). Springer International Publishing, Cham 2017, ISBN 978-3-319-63425-8, doi:10.1007/978-3-319-63427-2 (englisch). 
+
+
+=== Historisch und Klassiker ===
+Albert Simon: An Introduction to Thermonuclear Research (= R. A. Charpie, J. V. Dunworth [Hrsg.]: International Series of Monographs in Nuclear Energy. XIV Plasma Physics and Thermonuclear Research). Pergamon Press, London ; New York ; Paris ; Los Angeles 1959 (englisch, archive.org [abgerufen am 16. Januar 2024]). 
+Subrahmanyan Chandrasekhar: Plasma Physics. Phoenix Books (University of Chicago Press), 1962 (englisch, archive.org). 
+Lyman Spitzer: Physics of Fully Ionized Gases. 2nd rev. ed., Dover ed. Dover Publications, Mineola, N.Y 2006, ISBN 978-0-486-44982-1 (englisch, archive.org – Originaltitel: idem. 1962.). 
+Samuel Glasstone, Ralph H. Lovberg: Controlled Thermonuclear Reactions. Robert E. Krieger Publishing Company, 1975 (englisch, archive.org). 
+
+
+== Dokumentationen ==
+Der Traum von der Kernfusion aus der Fernseh-Sendereihe Hitec, 23. März 2009.
+Brauchen wir die Kernfusion? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 2. Feb. 2003.
+Thomas Klinger: Was leistet die Kernfusion und wie sicher ist sie? Interviewerin: Susanne Päch. hyperraum.tv 2012.
+Hoffnung Kernfusion - Der Traum von unendlich viel sauberer Energie. TV-Dokumentation in HD, Deutschland 2023 für ZDF und 3sat.
+Versprechen Kernfusion? Der Wettlauf um die Energie der Zukunft. Originaltitel: Fusion nucléaire - Les Promesses d'une énergie. Tv-Dokumentation in HD, D / F / USA 2023, deutsche Synchronfassung: D 2023 für HR / arte. (permanent abrufbar auf: youtube.com).
+
+
+== Weblinks ==
+
+Literatur von und über Kernfusion im Katalog der Deutschen Nationalbibliothek
+
+
+=== Fachseiten ===
+Princeton Plasma Physics Laboratory (PPPL): Fusion Basics. Abgerufen am 24. September 2013 (englisch). 
+Max-Planck-Institut für Plasmaphysik: Was ist Kernfusion? In: MPG IPP. Abgerufen am 28. Juni 2023. 
+Constantin Häfner: Energiesouveränität – langfristig durch Kernfusion? In: Fraunhofer-Gesellschaft. Abgerufen am 28. Juni 2023. 
+
+
+== Einzelnachweise ==

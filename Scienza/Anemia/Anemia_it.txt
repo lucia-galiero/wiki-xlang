@@ -1,0 +1,119 @@
+Si definisce anemia (dal greco ἀναιμία, anaimìa, «senza sangue») la riduzione patologica della emoglobina (Hb) al di sotto dei livelli di normalità, che determina una ridotta capacità del sangue di trasportare ossigeno.
+Quando l'anemia si instaura lentamente, i sintomi sono spesso vaghi e possono includere: sensazione di stanchezza, debolezza, mancanza di respiro o di una scarsa capacità di compiere esercizi. L'anemia può anche verificarsi rapidamente e quando avviene i sintomi sono più marcati e possono comprendere: stato confusionale, sensazione di svenimento e aumento della sete. Si possono verificare ulteriori sintomi a seconda della causa sottostante. L'anemia deve essere significativa prima che una persona assuma un aspetto notevolmente pallido.
+Negli uomini la diagnosi si basa su un valore di emoglobina inferiore a 13 o 14 g/dL, mentre nelle donne questo valore deve essere inferiore a 12 o 13 g/dL. Ulteriori test vengono quindi eseguiti per determinare la causa.
+Vi sono tre principali tipi di anemia, classificati in base alla causa: a causa di una perdita di sangue, a causa di una ridotta produzione di globuli rossi, a causa di maggior distruzione dei globuli rossi. Le cause di una perdita di sangue possono includere, tra le altre, un trauma e un sanguinamento gastrointestinale. Le cause della diminuzione della produzione di globuli rossi possono essere una carenza di ferro, una carenza di vitamina B12, la talassemia e una serie di neoplasie del midollo osseo; l'anemia falciforme è considerata autosomica recessiva in quanto le persone affette hanno due copie del gene mutato, ovvero sono omozigoti recessivi, mentre chi presenta una condizione di eterozigosi è portatore sano del gene, e potrebbe trasmettere la malattia ai figli. Per quanto riguarda una maggior distruzione dei globuli rossi, le cause potrebbero essere un certo numero di condizioni genetiche come l'anemia falciforme, infezioni come la malaria e alcune malattie autoimmuni.
+L'anemia può anche essere classificata in base alle dimensioni dei globuli rossi e alla quantità di emoglobina presente. Se i globuli rossi sono piccoli si parla di anemia microcitica, se sono grandi di anemia macrocitica e se sono di dimensioni normali di anemia normocitica.
+L'anemia aumenta i costi delle cure mediche e abbassa la produttività delle persone attraverso una diminuzione della capacità di lavorare.
+
+
+== Epidemiologia ==
+L'anemia è il disturbo del sangue più comune e che colpisce circa un quarto della popolazione mondiale. L'anemia da carenza di ferro colpisce quasi 1 miliardo di individui e nel 2013 è stata la causa di circa 183.000 decessi, un dato in diminuzione dai 213.000 morti registrati nel 1990. Si riscontra più frequentemente nelle femmine rispetto ai maschi, tra i bambini, durante la gravidanza e negli anziani.
+L'anemia è un problema che riguarda la salute mondiale, soprattutto nei bambini. Diversi studi sono stati fatti per comprendere la sua diffusione nel mondo, arrivando a quantificarne la sua presenza nel 43% degli infanti con un'età inferiore ai 4 anni.
+In passato è stata un'emergenza per gli USA intorno agli anni 1960-1970, sia per i bambini sia per le ragazze adolescenti soprattutto per la forma chiamata anemia da carenza di ferro e ci fu un grande intervento da parte dello stato per riuscire a equilibrare la situazione.
+
+
+== Clinica ==
+
+
+=== Segni e sintomi ===
+
+Spesso l'anemia passa inosservata in molte persone e i sintomi possono essere lievi o vaghi. I segni e i sintomi possono essere correlati alla causa sottostante o all'anemia stessa. Più comunemente, le persone con anemia accusano una sensazione di debolezza o stanchezza, malessere generale e difficoltà nella concentrazione. Può essere, inoltre, segnalata dispnea (respiro corto) da sforzo e un caratteristico colorito pallido della pelle e delle mucose. Inoltre si possono manifestare problemi di splenomegalia e dolori al fianco sinistro (milza) e un basso calore corporeo.
+Nei casi di grave anemia, il corpo può compensare la mancanza di capacità di trasporto di ossigeno da parte del sangue aumentando la gittata cardiaca. In seguito a ciò il paziente può avere sintomi come palpitazioni, angina (se è presente una cardiopatia preesistente), claudicatio intermittens delle gambe e sintomi di insufficienza cardiaca. All'esame, le indicazioni esposte possono includere pallore, ma questo non è un segno affidabile. Ci possono essere dei segni di cause specifiche di anemia, ad esempio, coilonichia (in carenza di ferro), ittero (quando vi è una distruzione abbondante di globuli rossi, come nell'anemia emolitica), deformità ossee (presenti nella talassemia major) o ulcere alle gambe (nell'anemia falciforme).
+In caso di grave anemia, ci possono essere segni di una circolazione iperdinamica: tachicardia (un battito cardiaco veloce) e ipertrofia ventricolare cardiaca (allargamento). Ci possono essere segni di insufficienza cardiaca. L'anemia cronica può causare disturbi comportamentali nei bambini, come risultato diretto di una compromissione nello sviluppo neurologico e ridotto rendimento scolastico in quelli in età scolare. La sindrome delle gambe senza riposo è più comune nei pazienti con anemia sideropenica.
+L'entità della sintomatologia non dipende tanto dai valori assoluti di emoglobina ma dalla velocità con cui si instaura l'anemia e di conseguenza dal tempo che l'organismo ha per adattarsi alle variazioni dei suoi livelli. Un ulteriore indizio è dato dalla fragilità delle unghie che tendono a spezzarsi e sfogliarsi; inoltre possono assumere una caratteristica forma a cucchiaio, presentandosi piatte o nel peggiore dei casi concave (coilonichia).
+
+
+=== Diagnosi ===
+I limiti stabiliti dall'Organizzazione Mondiale della Sanità della concentrazione dell'emoglobina ematica per porre diagnosi di anemia sono:
+
+Nella definizione si possono usare anche altri due parametri, quali l'ematocrito (maschi Ht<40%; femmine Ht<37%), in tal caso si parla di oligocitemia o il numero di globuli rossi, parametro tuttavia meno specifico.
+
+
+=== Diagnosi differenziale delle anemie microcitiche ===
+
+
+== Classificazione delle anemie ==
+
+
+=== Secondo il meccanismo ===
+
+Anemie per difetto di produzione
+Difetti del precursore ematopoietico
+Anemia aplastica
+Difetti a carico del DNA
+Sindrome mielodisplasica
+Anemia megaloblastica
+Difetti della formazione dell'Hb
+Carenza di ferro
+Carenza d'EPO
+Anemia da nefropatia cronica.
+Anemie per aumentata emolisi
+Difetti degli eritrociti (Anemie emolitiche intracorpuscolari)
+difetti di membrana
+difetti enzimatici
+difetti dell'emoglobina
+Fattori extraeritrocitari (Anemie emolitiche extracorpuscolari)
+autoanticorpi
+farmaci
+malattie infettive, setticemia
+tossici
+malattie del metabolismo
+trasfusioni di sangue di gruppo incompatibile al gruppo del soggetto
+parassiti (Babesia, Trypanosoma)
+squilibri osmotici.
+In generale l'emoglobina fuoriuscita viene filtrata a livello renale e cristallizza nei tubuli renali divenendo spesso causa di necrosi tubulare e quindi insufficienza renale.
+
+Anemie per perdite
+Sanguinamenti cronici (es: proctorragia, gastrorragia)
+Emorragie acute
+Difetti della compartimentazione
+Sequestro di cellule sanguigne nella milza
+Ipersplenismo
+
+
+=== Secondo i dati di laboratorio più spesso utilizzati ===
+
+
+== Complicanze ==
+L'anemia spesso è una complicanza di altre malattie, che aggrava la condizione della persona portando esiti anche fatali come nei casi della broncopneumopatia cronica ostruttiva e della leucemia.
+
+
+== Terapia ==
+I più importanti farmaci usati nella terapia delle anemie sono il ferro, la vitamina B12 e l'acido folico, per la ricostituzione delle riserve; invece per stimolare la produzione di globuli rossi si usa testosterone, nandrolone decanoato, per le forme più gravi si può rendere utile l'uso dell'eritropoietina e la IL-3.
+Il ricorso a trasfusioni di sangue è tipicamente deciso sui segni e sintomi del paziente. In coloro che sono asintomatici, le trasfusioni non sono raccomandate a meno che i livelli di emoglobina non scendano sotto i 6 o 8 g/dL.
+Tali raccomandazioni possono valere anche per alcune persone con una emorragia acuta in atto.
+I farmaci stimolanti l'eritropoiesi sono consigliati solo in coloro che accusano una grave anemia.
+
+
+== Prevenzione ==
+Alcuni gruppi di persone, come le donne in gravidanza, beneficiano dell'uso di pillole di ferro per la prevenzione. 
+L'integrazione alimentare, senza aver determinato la causa specifica, non è raccomandata.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Assorbimento del ferro
+Anemia aplastica
+Anemia da emorragia acuta
+Anemia da malattia cronica
+Anemia di Fanconi
+Anemia drepanocitica
+Anemia emolitica
+Anemia megaloblastica
+Anemia mieloftisica
+Anemia sideroblastica
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni sull'anemia
+ Wikizionario contiene il lemma di dizionario «anemia»
+ Wikimedia Commons contiene immagini o altri file sull'anemia
+
+
+== Collegamenti esterni ==
+
+ anemìa, su sapere.it, De Agostini. 
+(EN) anemia, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

@@ -1,0 +1,78 @@
+La scala dei tempi geologici rappresenta un modo per suddividere il tempo trascorso dalla formazione della Terra ad oggi, condiviso dalla comunità scientifica internazionale e in continua evoluzione. Esiste un organismo internazionale delegato alla formalizzazione geologica (quindi alla nomenclatura) di questa scala, la Commissione Internazionale di Stratigrafia, che presiede alla ratifica dei GSSP.
+Lo United States Geological Survey (USGS, Servizio Geologico degli Stati Uniti d'America) ha prodotto una versione a colori di questa scala, dove ad ogni età corrisponde, per convenzione, un colore diverso. Non tutti i paesi adottano questa versione della scala. Tutte le colorazioni nascono da quella originale fatta dal fondatore della stratigrafia William Smith, ma in ogni caso ogni cartografia tematica è regolata da norme interne allo specifico progetto cartografico, che vanno oltre la colorazione e che includono anche tutta la simbologia geologica.
+La cartografia dell'USGS appare meglio organizzata e più completa rispetto a quella europea, e spesso in ambito scientifico si fa riferimento alla prima; in questa voce verranno presentate le convenzioni relative all'utilizzo statunitense e a quello europeo.
+Concettualmente ogni suddivisione raggruppa una fase della storia della Terra caratterizzata da determinati organismi viventi spesso estinti al termine dell'Era geologica di appartenenza.
+L'età della Terra è stimata in circa 4,570 miliardi di anni (nella nomenclatura inglese, 4570 mya o, in "Ma", 4570 Ma). Il tempo geologico o "profondo" della Terra, in passato, è stato organizzato in varie unità, a seconda degli eventi che si sono succeduti in ogni periodo. Differenti livelli della scala temporale sono spesso delimitati da grandi eventi geologici o paleontologici, come le estinzioni di massa. Per esempio, il limite tra il periodo Cretacico e il periodo del Paleogene è definito dall'evento dell'estinzione dei dinosauri e di molte specie marine. Altri periodi, precedenti le rocce contenenti fossili guida, sono definiti in maniera assoluta da età radiometriche.
+
+
+== Terminologia ==
+
+L'unità di tempo più ampia definita è il supereone, costituito da Eoni. Gli eoni sono divisi in ere, che sono poi rispettivamente suddivise in periodi, epoche ed età. Contemporaneamente, i paleontologi definiscono un sistema di piani faunali, di lunghezze variabili, basati sui cambiamenti osservati nelle associazioni fossili. In molti casi, questi piani faunali sono stati utilizzati nella costruzione della nomenclatura geologica, nonostante la loro natura di unità cronostratigrafiche piuttosto che unità geologiche di tempo.
+In generale, i geologi suddividono le unità in "inferiore", "medio" e "superiore". Ad esempio si parla di "Giurassico superiore" o di "Cambriano medio".
+Con le convenzioni dell'USGS, i geologi parlano di "superiore/primo", "inferiore/tardo" e "medio" (per le parti centrali). Superiore, Medio e Inferiore sono aggettivi applicati alle rocce stesse, come in "arenaria del Giurassico Superiore", laddove Primo, Medio e Tardo sono applicati al tempo, come in "deposizione geologica del Primo Giurassico".
+Riassumendo, le convenzioni dell'USGS prevedono che:
+
+"superiore", medio e "inferiore" siano applicati alle rocce;
+"primo", medio e "tardo" siano applicati al tempo.
+Dato che le unità di tempo geologico vengono usate in tutte le parti del mondo, possono assumere nomi diversi a seconda dei diversi fossili che contengono, identificando anche uno stesso periodo storico con diversi nomi a seconda della località nella quale lo si utilizza. Per esempio, nel Nord America il Basso Cambriano è riferito a quella che viene anche nominata come serie Waucobana, che è ulteriormente suddivisa in fasce temporali basate sulle trilobiti. Lo stesso periodo di tempo è diviso nei periodi Tommotiano, Atdabaniano e Botomiano nell'Asia orientale e in Siberia. Questo è un aspetto chiave del lavoro della Commissione Internazionale di Stratigrafia per riconciliare la sua terminologia, conflittuale, e definire degli orizzonti universali che possano essere usati in tutto il mondo.
+
+
+== Linee temporali grafiche ==
+La seconda e la terza linea cronologica sono ognuna sottosezione della linea cronologica che le precede. I valori indicano milioni di anni.
+
+L'Olocene (l'ultima epoca) è troppo breve per essere mostrata chiaramente su questa linea cronologica.
+
+
+== Storia della scala del tempo ==
+
+I principi che hanno delineato la scala geologica dei tempi furono stabiliti dal danese Niccolò Stenone nel tardo XVII secolo. Stenone arguì, con osservazioni fatte in Toscana, che gli strati rocciosi (o strata) si depositano in successione, e che ognuno di essi rappresenta una “fetta” di tempo. Egli formulò anche il principio della sovrapposizione, attestando che ogni strato considerato è probabilmente più antico di quelli che gli sono sovrapposti e più giovane di quelli posti al di sotto. Mentre i principi di Stenone sono molto semplici, applicarli alle rocce reali diventa più complesso. Durante il XVIII secolo i geologi compresero che:
+
+1) Una sequenza di strati era spesso erosa, distorta, inclinata o spesso anche invertita dopo la sua deposizione;
+2) Gli strati depositatisi nello stesso periodo di tempo, ma in aree differenti, hanno aspetti e caratteristiche completamente diverse;
+3) Gli strati di una data area rappresentano solo una parte della lunga storia geologica della Terra.
+Il primo serio tentativo di formulare una scala dei tempi geologici che potesse essere applicata ovunque sulla Terra si ebbe nel tardo XVIII secolo. Il più importante di questi primi tentativi (effettuato da Abraham Gottlob Werner, tra gli altri) divise le rocce della crosta terrestre in quattro tipi: primarie, secondarie, terziarie, e quaternarie. Ogni tipo di roccia, secondo questa teoria, si era formata durante uno specifico periodo della storia geologica della Terra. Era quindi possibile parlare di un "Periodo Terziario" così come di "rocce terziarie." "Terziario" (ora Paleocene-Pliocene) e "Quaternario" (ora Pleistocene-Olocene) rimasero in uso come nomi di periodi geologici fino al XX secolo.
+In opposizione alle teorie nettuniste allora popolari esposte da Werner (secondo le quali tutte le rocce avevano avuto origine da un unico enorme fluido), un passo avanti con il pensiero si ebbe con lo scritto di James Hutton sulla sua Teoria della Terra; o, una investigazione delle leggi osservabili nella Composizione, Dissoluzione, e Ripristino delle Terre sul Globo nella Royal Society of Edinburgh nel marzo e aprile del 1785, evento per il quale "per come le cose appaiono dalla prospettiva del XX secolo, James Hutton in questo scritto diventa il fondatore della moderna geologia". 
+Ciò che Hutton propose era l'idea che l'interno della terra fosse caldo, e che questa forza interna fosse quella che guidava la creazione di nuova roccia: le terre erano erose da aria e acqua, che depositava sedimenti sui fondali marini; in questo luogo i sedimenti si condensavano in roccia, spinta su verso nuove terre. Questa teoria fu nominata “Plutonista” in contrasto con la teoria Nettunista.
+L'identificazione degli strati secondo i fossili in essi contenuti, i cui pionieri furono William Smith, Georges Cuvier, Jean d'Omalius d'Halloy e Alexandre Brongniart nel primo XIX secolo, rese possibile per i geologi dividere più precisamente la storia della Terra. Rese anche possibile correlare gli strati attraverso i confini delle varie nazioni (o continenti). Se due strati (comunque differenti per posizione nello spazio o composizione) contenevano gli stessi fossili, c'erano buone possibilità che potessero essersi depositati nello stesso tempo. Studi dettagliati tra il 1820 e il 1850 degli strati e dei fossili d'Europa produssero una sequenza di periodi geologici ancora oggi utilizzati.
+Il processo vedeva al centro degli sviluppi i geologi britannici, e i nomi famosi in quel periodo, in tal senso, riflettono quella situazione. Il “Cambriano” (da Cambria, il nome latino per il Galles), l'"Ordoviciano" e il "Siluriano", che prendono il nome da tribù gallesi, sono periodi geologici nominati ispirandosi alla sequenza stratigrafica del Galles. Il “Devoniano” era il nome della contea inglese del Devon, e il nome “Carbonifero” è semplicemente un adattamento delle “Coal Measures”, l'antico termine che i geologi inglesi usavano per definire lo stesso concetto di strato. Il “Permiano” era nominato con riferimento a Perm', in Russia, poiché fu definito sugli strati di quella regione dal geologo scozzese Roderick Murchison. Comunque, alcuni periodi furono definiti dai geologi anche di altre nazionalità. Il “Triassico” fu definito nel 1834 dal geologo tedesco Friedrich Von Alberti a partire da tre distinti strati (dal latino trias, “triade”).
+
+
+== Scala dei tempi geologici ==
+La seguente tavola riassume gli eventi più importanti e le caratteristiche dei periodi di tempo che formano la scala dei tempi geologici. Come sopra, questa scala è basata sulle convenzioni della Commissione Internazionale di Stratigrafia (vedi la scala dei tempi geologici lunari per una discussione sulla suddivisione geologica della Luna) in vigore al 13 luglio 2018. Notare che l'altezza di ogni voce nella tavola non ha alcun legame con la sua durata (indicata nell'apposita colonna). La suddivisione seguente è quella definita dalla Commissione Internazionale di Stratigrafia e rappresenta tutte le suddivisioni fino al livello di Piano. Nel 2009 il Gelasiano è stato spostato nel Pleistocene, costituendone la base.
+
+NOTE: (1) Ma = Milioni di anni fa. 
+
+
+== Nomi storici non più presenti, locali, e che hanno subito modifiche ==
+Se si analizzano suddivisioni geocronologiche di rango inferiore al Piano non esiste una suddivisione ufficiale ma numerose suddivisioni locali. Ne sono un esempio le suddivisioni dell'Olocene (Versiliano e Flandriano) e del Pleistocene (Tirreniano, Milazziano, Siciliano, Emiliano, Calabriano).
+L'Olocene è poi ulteriormente suddiviso da altre discipline in numerosi sottoelementi (ad esempio dall'antropologia e dalla preistoria).
+
+
+=== Quaternario, Gelasiano e Pleistocene ===
+Per molto tempo il Quaternario non è stato un periodo geologico formalizzato ufficialmente e pertanto ne veniva sconsigliato l'uso nelle pubblicazioni scientifiche. Si veda l'articolo corrispondente per una trattazione più completa delle problematiche.
+La Commissione Internazionale di Stratigrafia aveva inizialmente deliberato a favore dell'eliminazione di questa era nell'edizione della scala dei tempi geologici internazionale del 2004. Nel 2009 invece il periodo è stato riconosciuto ufficialmente, estendendolo e ponendone la base a 2,58 milioni di anni fa, includendo il Gelasiano nel Pleistocene.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Annum
+Eone
+Era geologica
+Periodo (geocronologia)
+Epoca (geocronologia)
+Calendario geologico
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su scala dei tempi geologici
+
+
+== Collegamenti esterni ==
+
+(EN) Sito ufficiale (PDF), su stratigraphy.org. 
+(EN) geologic time, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) INTERNATIONAL STRATIGRAPHIC CHART, su stratigraphy.org.
+(EN) International Stratigraphic Chart - 2016, su stratigraphy.science.purdue.edu.

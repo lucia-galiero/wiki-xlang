@@ -1,0 +1,140 @@
+Das orthorhombische Kristallsystem (auch rhombisches Kristallsystem genannt) gehört zu den sieben Kristallsystemen in der Kristallographie. Es umfasst alle Punktgruppen mit drei senkrecht aufeinander stehenden zweizähligen Dreh- oder Drehinversionsachsen.
+Der Begriff rhombisch darf nicht mit rhomboedrisch verwechselt werden.
+
+
+== Gittersystem ==
+Das orthorhombische Gittersystem hat die Holoedrie 
+  
+    
+      
+        m
+        m
+        m
+      
+    
+    {\displaystyle mmm}
+  
+.
+Im orthorhombischen Gittersystem liegen Gitterachsen in Richtung der 3 senkrecht aufeinander stehenden Symmetrieachsen:
+
+  
+    
+      
+        α
+        =
+        β
+        =
+        γ
+        =
+        
+          90
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle \alpha =\beta =\gamma =90^{\circ }}
+  
+
+Für die Länge der Gitterachsen erhält man keine weiteren Bedingungen:
+
+  
+    
+      
+        a
+        ≠
+        b
+        ≠
+        c
+      
+    
+    {\displaystyle a\neq b\neq c}
+  
+
+Für die Festlegung, welche Achse a, b oder c ist, gibt es nur die Bedingung, dass ein rechtshändiges Koordinatensystem entstehen soll. In der Regel werden die Achsen so gewählt, dass das Hermann-Mauguin-Symbol dem Standard der International Tables for Crystallography entspricht. Mit den Hermann-Mauguin-Symbolen lassen sich die Raumgruppen allerdings bezüglich jeder möglichen Achsenwahl beschreiben. Da dies auch häufiger vorkommt, gibt es in den International Tables eine tabellarische Übersicht über alle Möglichkeiten, eine Raumgruppe mit einer beliebigen Achsenwahl zu beschreiben. Grundsätzlich empfiehlt es sich daher bei der Angabe der Raumgruppe, die Raumgruppennummer mitzuverwenden, damit sie leichter zu finden ist.
+
+
+== Bravaisgitter ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Im orthorhombischen Kristallsystem gibt es vier Bravaisgitter. In der Standardaufstellung kommt das b-zentrierte Gitter nicht und das a-zentrierte Gitter nur in der Punktgruppe 
+  
+    
+      
+        m
+        m
+        2
+      
+    
+    {\displaystyle mm2}
+  
+ vor. Dies ist dadurch begründet, dass in dieser Punktgruppe das Gittersystem grundsätzlich so aufgestellt wird, dass die zweizählige Achse in Richtung der c-Gitterachse liegt. Daher gelingt es nicht in allen Fällen die Gitterachsen so zu legen, dass ausschließlich das c-zentrierte Gitter verwendet wird.
+Das orthorhombische Gittersystem wird mit o abgekürzt.
+
+
+== Punktgruppen ==
+Das orthorhombische Kristallsystem umfasst die Punktgruppen 
+  
+    
+      
+        222
+        ,
+        
+        m
+        m
+        2
+      
+    
+    {\displaystyle 222,\,mm2}
+  
+ und 
+  
+    
+      
+        m
+        m
+        m
+      
+    
+    {\displaystyle mmm}
+  
+. Sie bilden die orthorhombische Kristallfamilie und können mit dem orthorhombischen Gittersystem beschrieben werden.
+
+
+=== Physikalische Eigenschaften ===
+Zur Beschreibung der orthorhombischen Kristallklassen in Hermann-Mauguin-Symbolik werden die Symmetrieoperationen bezüglich drei vorgegebener Richtungen (Blickrichtungen) im Gittersystem angegeben. Wie im monoklinen Kristallsystem werden die 3 Blickrichtungen wie folgt bezeichnet:
+
+1. Symbol in Richtung der a-Achse (<100>)
+2. Symbol in Richtung der b-Achse (<010>)
+3. Symbol in Richtung der c-Achse (<001>).
+Da hier alle drei Gitterrichtungen Symmetrierichtungen sind, besteht allerdings auch das Hermann-Mauguin-Kurzsymbol aus drei Angaben.
+Charakteristisch für die orthorhombischen Raumgruppen ist, dass im Hermann-Mauguin-Kurzsymbol keine 3, 4 oder 6 vorkommt.
+
+
+== Siehe auch ==
+Für weitere orthorhombisch kristallisierende chemische Stoffe siehe Kategorie:Orthorhombisches Kristallsystem.
+Orthotropie mit der kontinuumsmechanischen Beschreibung der Materialeigenschaften.
+
+
+== Literatur ==
+Theo Hahn (Hrsg.): International Tables for Crystallography Vol. A D. Reidel publishing Company, Dordrecht 1983, ISBN 90-277-1445-2.
+D. Schwarzenbach Kristallographie Springer Verlag, Berlin 2001, ISBN 3-540-67114-5.
+Will Kleber, Hans-Joachim Bautsch, Joachim Bohm, Detlef Klimm: Einführung in die Kristallographie. 19. Auflage. Oldenbourg Wissenschaftsverlag, 2010, ISBN 978-3-486-59075-3. 
+Walter Borchard-Ott Kristallographie 7. Auflage Springer Verlag, Berlin 2009, ISBN 978-3-540-78270-4.

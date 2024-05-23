@@ -1,0 +1,260 @@
+Ein Kernreaktor, auch Atomreaktor oder Atommeiler ist eine Anlage, in der eine Kernspaltungsreaktion kontinuierlich als Kettenreaktion im makroskopischen, technischen Maßstab abläuft.
+Weltweit verbreitet sind Leistungsreaktoren, Kernreaktoranlagen, die durch die Spaltung (englisch fission) von Uran oder Plutonium zunächst Wärme und daraus meist elektrische Energie (siehe Kernkraftwerk) gewinnen. Dagegen dienen Forschungsreaktoren zur Erzeugung von freien Neutronen, etwa für Zwecke der Materialforschung oder zur Herstellung von bestimmten radioaktiven Nukliden für medizinische oder ähnliche Zwecke.
+Im Erdaltertum kam es in wenigen Uran-Lagerstätten zu solcher Kettenreaktion (siehe Naturreaktor Oklo/Naturreaktor Gabun).
+Ein Kernkraftwerk hat oft mehrere Reaktoren. Die beiden Begriffe werden oft ungenau verwendet. Zum Beispiel ist mit der Aussage „in Deutschland liefen bis zum Atomausstieg 17 Kernkraftwerke“ gemeint, dass  an deutlich weniger Standorten insgesamt 17 Kernreaktoren liefen. So etwa bestand das Kernkraftwerk Gundremmingen ursprünglich aus drei Reaktorblöcken; jeder Block besteht aus einem Reaktor mit Dampferzeuger und einem Turbosatz.
+Die meisten Kernreaktoren sind ortsfeste Anlagen. In der Atom-Euphorie der späten 1950er und frühen 1960er Jahre kam der Gedanke an atomgetriebene Straßenfahrzeuge, Flugzeuge oder Raumschiffe auf. Inzwischen gibt es einige Kernreaktoren in U-Booten, Überwasserschiffen und Raumflugkörpern.
+
+Die USA besitzen zehn und Frankreich einen Flugzeugträger mit Atomantrieb,
+Sechs Atommächte besitzen atomgetriebene U-Boote,
+Einige Atomeisbrecher und atombetriebene Frachter sind in Betrieb
+
+
+== Funktionsweise ==
+
+
+=== Die Kernspaltung ===
+
+Zwischen den Protonen und den Neutronen eines Atomkerns wirken sehr starke anziehende Kräfte, die jedoch eine nur sehr begrenzte Reichweite haben. Daher wirkt diese Kernkraft im Wesentlichen auf die nächsten Nachbarn – weiter entfernte Nukleonen tragen zu der anziehenden Kraft nur in geringem Maße bei. Solange die Kernkraft größer ist als die abstoßende Coulombkraft zwischen den positiv geladenen Protonen, hält der Kern zusammen. Kleine Atomkerne sind stabil, wenn sie je Proton ein Neutron enthalten: 40Ca ist das schwerste stabile Nuklid mit gleicher Protonen- und Neutronenzahl. Mit zunehmender Protonenzahl wird ein immer höherer Neutronenüberschuss zur Stabilität erforderlich; die abstoßende Coulombkraft der Protonen untereinander wird durch die anziehende Kernkraft der zusätzlichen Neutronen kompensiert.
+Fängt ein sehr schwerer Kern, etwa des Uranisotops 235U oder des Plutoniumisotops 239Pu, ein Neutron ein, so wird er durch die gewonnene Bindungsenergie zu einem hoch angeregten, instabilen 236U- beziehungsweise 240Pu-Kern. Solche hochangeregten schweren Kerne regen sich mit extrem kurzen Halbwertszeiten durch Kernspaltung ab. Anschaulich gesagt gerät der Kern durch die Neutronenabsorption wie ein angestoßener Wassertropfen in Schwingungen und zerreißt in (meist) zwei Bruchstücke (mit einem Massenverhältnis von etwa 2 zu 3), die mit hoher Bewegungsenergie auseinanderfliegen; außerdem werden etwa zwei bis drei schnelle Neutronen frei. Diese Neutronen stehen für weitere Kernspaltungen zur Verfügung; das ist die Grundlage der nuklearen Kettenreaktion.
+
+
+=== Brutreaktionen ===
+
+Wenn Neutronen auf Kernbrennstoff treffen, finden neben der Kernspaltung unvermeidlich auch andere Kernreaktionen statt. Von besonderem Interesse sind Reaktionen, in denen Bestandteile des Kernbrennstoffs, die selbst nicht spaltbar sind, in spaltbare umgewandelt werden. Solche Reaktionen heißen Brutreaktionen, der Vorgang Brüten oder Konversion. Von einem Brutreaktor spricht man allerdings erst dann, wenn mehr neues spaltbares Material erzeugt wird, als der Reaktor selbst in der gleichen Zeit verbraucht, die Konversionsrate also über 1,0 beträgt.
+Der Brennstoff fast aller Kernreaktoren enthält hauptsächlich Uran. Daher ist die Brutreaktion an dem nicht spaltbaren Uranisotop 238U besonders wichtig. Das 238U wandelt sich durch Neutroneneinfang in 239U um. Dieses geht durch zwei aufeinander folgende Betazerfälle in das spaltbare Plutoniumisotop 239Pu über:
+
+Das 239Pu wird teilweise noch im Reaktor wieder gespalten, teilweise kann es aber durch Aufarbeitung des gebrauchten Brennstoffes abgetrennt und zu anderen Zwecken verwendet werden.
+Falls das abgetrennte Plutonium zu Kernwaffenzwecken dienen soll (Waffenplutonium), muss es isotopisch möglichst rein sein, d. h., es darf nicht zu viel 240Pu enthalten. Dieses nächstschwerere Plutoniumisotop entsteht, wenn der 239Pu-Atomkern ein weiteres Neutron einfängt. Daher erhält man waffenfähiges Plutonium nur aus solchen Brennelementen, die schon nach relativ kurzer Betriebszeit dem Reaktor entnommen werden.
+In entsprechender Weise wie Pu-239 aus U-238 kann das spaltbare U-233 aus Thorium Th-232 „erbrütet“ werden.
+
+
+=== Energiefreisetzung bei der Kernspaltung ===
+Die neu entstandenen Kerne mittlerer Masse, die so genannten Spaltprodukte, haben eine größere Bindungsenergie pro Nukleon als der ursprüngliche schwere Kern. Die Differenz der Bindungsenergien tritt größtenteils als kinetische Energie der Spaltfragmente auf (Berechnung). Diese geben die Energie durch Stöße an das umgebende Material als Wärme ab. Die Wärme wird durch ein Kühlmittel abgeführt und kann beispielsweise zur Stromerzeugung, Heizung oder als Prozesswärme etwa zur Meerwasserentsalzung genutzt werden.
+Etwa 6 % der gesamten in einem Kernreaktor frei werdenden Energie wird in Form von Elektron-Antineutrinos frei, die praktisch ungehindert aus der Spaltzone des Reaktors entweichen und das gesamte Material der Umgebung durchdringen. Diese Teilchen üben keine merklichen Wirkungen aus, da sie mit Materie kaum reagieren. Ihre Energie kann daher nicht technisch genutzt werden. Die verbleibende, nutzbare Energie aus der Spaltung von 1 Gramm U-235 beträgt etwa 0,91 MWd (Megawatt-Tage) oder 21500 Kilowattstunden. Dies entspricht etwa 9,5 Tonnen Braunkohle oder 1,8 Tonnen Heizöl.
+Zusammengenommen erzeugen die rund 440 Kernreaktoren der derzeit 210 Kernkraftwerke, die es weltweit in 30 Ländern gibt, eine elektrische Leistung von etwa 370 Gigawatt. Dies ist ein Anteil von 15 % der gesamten elektrischen Energie weltweit (Stand: 2009).
+
+
+=== Kettenreaktion, thermische Neutronen, Moderator ===
+
+Die Kettenreaktion besteht darin, dass Neutronen Atomkerne des Kernbrennstoffs spalten, wobei außer den energiereichen Spaltfragmenten auch jeweils einige neue Neutronen frei werden; diese können weitere Kerne spalten. Der Wirkungsquerschnitt der Kerne für Spaltung nimmt bei den meistgenutzten Brennstoffen mit abnehmender Energie, also abnehmender Geschwindigkeit des Neutrons zu: Je langsamer das Neutron ist, desto wahrscheinlicher ist es, dass es von einem spaltbaren Kern absorbiert wird und dieser sich anschließend spaltet. Daher bremst man in den meisten Reaktoren die schnellen Neutronen aus der Kernspaltung mittels eines Moderators ab. Dies ist ein Material wie etwa Graphit, schweres oder normales Wasser, das leichte Atomkerne (kleinere Massenzahl) enthält und einen sehr niedrigen Absorptionsquerschnitt für Neutronen hat. In diesem Material werden die Neutronen durch Stöße mit dessen Atomkernen stark abgebremst, aber nur selten absorbiert. Sie stehen also der Kettenreaktion weiter zur Verfügung. Die Neutronen können bis herunter auf die Geschwindigkeiten der Kerne des Moderators abgebremst werden; deren durchschnittliche Geschwindigkeit ist nach der Theorie der Brownschen Bewegung durch die Temperatur des Moderators gegeben. Es findet also eine Thermalisierung statt. Man spricht daher statt von abgebremsten meist von thermischen Neutronen, denn die Neutronen besitzen anschließend eine ähnliche thermische Energieverteilung wie die Moleküle des Moderators.
+
+
+==== Thermische vs. Schnelle Reaktoren ====
+Ein Reaktor, der zur Kernspaltung thermische Neutronen verwendet (und somit auf einen Moderator angewiesen ist), wird als Thermischer Reaktor bezeichnet. Im Gegensatz dazu nutzt ein schneller Reaktor die nicht abgebremsten, schnellen Neutronen zur Spaltung – er benötigt keinen Moderator. Die schnellen Neutronen werden nicht nur direkt zur Kernspaltung für die Energiegewinnung genutzt, sondern auch zum Neutroneneinfang – womit aus nicht spaltbarem Material spaltbarer Kernbrennstoff entsteht („erbrütet“ wird). Wird ein nicht zu vernachlässigender Anteil des Materials mittels Neutronen erbrütet, spricht man von einem Brutreaktor; werden dazu schnelle Neutronen genutzt, von einem Schnellen Brüter. Als Reaktorkonzepte werden Gasgekühlte (Gas-cooled Fast Reactor, GFR), Natriumgekühlte (Sodium-cooled Fast Reactor, SFR) und Bleigekühlte (Lead-cooled Fast Reactor, LFR) Schnelle Reaktoren näher erforscht.
+
+
+=== Einleitung und Steuerung der Kettenreaktion ===
+
+Im abgeschalteten Zustand, d. h. bei eingefahrenen Steuerstäben, ist der Reaktor unterkritisch. Einige freie Neutronen sind zwar stets im Reaktor vorhanden – beispielsweise freigesetzt durch Spontanspaltung von Atomkernen des Kernbrennstoffs – und lösen zum Teil Spaltungen aus, aber das Anwachsen einer Kettenreaktion wird dadurch unterbunden, dass die meisten Neutronen von dem in den Steuerstäben enthaltenen Material (z. B. Bor) absorbiert werden, so dass der Multiplikationsfaktor k unter 1 liegt.
+Um die Kettenreaktion bei einem frisch beladenen Reaktor (noch nie im Betrieb gewesen) in Gang zu setzen, befindet sich meist eine Neutronenquelle im Reaktor, diese besteht meist aus Californium-252 (spontan Spalter).
+Zum Wiederanfahren des Reaktors werden die Steuerstäbe unter ständiger Messung des Neutronenflusses mehr oder weniger weit aus dem Reaktorkern herausgezogen, bis leichte Überkritikalität durch verzögerte Neutronen, also eine selbsterhaltende Kettenreaktion mit allmählich zunehmender Kernreaktionsrate, erreicht ist. Neutronenfluss und Wärmeleistung des Reaktors sind proportional zur Reaktionsrate und steigen daher mit ihr an. Mittels der Steuerstäbe – bei Druckwasserreaktoren auch über die Konzentration von Borsäure im Wasser – wird der Neutronenfluss auf das jeweils gewünschte Fluss- und damit Leistungsniveau im gerade kritischen Zustand eingeregelt und konstant gehalten; k ist dann gleich 1,0. Etwaige Änderungen von k durch Temperaturanstieg oder andere Einflüsse werden durch Verstellen der Steuerstäbe ausgeglichen. Dies geschieht bei praktisch allen Reaktoren durch eine automatische Steuerung, die auf den gemessenen Neutronenfluss reagiert.
+Der Multiplikationsfaktor 1,0 bedeutet, dass durchschnittlich gerade eines der pro Kernspaltung freiwerdenden Neutronen eine weitere Kernspaltung auslöst. Alle übrigen Neutronen werden entweder absorbiert – teils unvermeidlich im Strukturmaterial (Stahl usw.) und in nicht spaltbaren Brennstoffbestandteilen, teils im Absorbermaterial der Steuerstäbe, meist Bor oder Cadmium – oder entweichen aus dem Reaktor nach außen (Leckage).
+Zum Verringern der Leistung und zum Abschalten des Reaktors werden die Steuerstäbe eingefahren, wodurch er wieder unterkritisch wird. Der Multiplikationsfaktor sinkt auf einen Wert unter 1, die Reaktionsrate nimmt ab, und die Kettenreaktion endet.
+Ein verzögert überkritischer Reaktor steigert seine Leistung langsam genug, dass die Regeleinrichtungen dem Vorgang folgen können. Falls die aktive Regelung bei wassermoderierten Reaktoren versagt, also die Kritikalität nicht auf 1 zurückgeregelt wird, steigert sich die Leistung über den Nennwert hinaus. Dabei erwärmt sich der Moderator und dehnt sich in der Folge aus oder verdampft. Da moderierendes Wasser jedoch notwendig ist, um die Kettenreaktion aufrechtzuerhalten, kehrt der Reaktor – sofern nur das Wasser verdampft, aber die räumliche Anordnung des Brennstoffs noch erhalten geblieben ist – in den unterkritischen Bereich zurück. Dieses Verhalten heißt eigenstabil.
+Dieses Verhalten gilt beispielsweise nicht für graphitmoderierte Reaktortypen, da Graphit bei zunehmender Temperatur seine moderierenden Eigenschaften behält. Gerät ein solcher Reaktor durch Versagen der Regelungssysteme in den verzögert überkritischen Bereich, so kommt die Kettenreaktion nicht zum Erliegen, und dies kann zur Überhitzung und ggf. Zerstörung des Reaktors führen. Ein solcher Reaktor ist also nicht eigenstabil. Die Reaktoren aus Tschernobyl gehörten zu dieser Bauweise, die nur noch in Russland vorhanden ist.
+Im Gegensatz zum verzögert überkritischen Reaktor ist ein prompt überkritischer Reaktor nicht mehr regelbar, und es kann zu schweren Unfällen kommen. Der Neutronenfluss und damit die Wärmeleistung des Reaktors steigt exponentiell mit einer Verdopplungszeit im Bereich von 10−4 Sekunden an. Die erreichte Leistung kann die Nennleistung während einiger Millisekunden um mehr als das Tausendfache übersteigen, bis sie durch die Dopplerverbreiterung im so erhitzten Brennstoff wieder gesenkt wird. Die Brennstäbe können durch diese Leistungsexkursion schnell auf Temperaturen über 1000 °C erhitzt werden. Je nach Bauart und den genauen Umständen des Unfalls kann dies zu schweren Schäden am Reaktor führen, vor allem durch schlagartig verdampfendes (Kühl-)Wasser. Beispiele für prompt überkritische Leichtwasserreaktoren und die Folgen zeigen die BORAX-Experimente oder der Unfall im US-Forschungsreaktor SL-1. Der bisher größte Unfall durch einen zumindest in Teilbereichen prompt überkritischen Reaktor war die Nuklearkatastrophe von Tschernobyl, bei der unmittelbar nach der Leistungsexkursion schlagartig verdampfende Flüssigkeiten, Metalle und der anschließende Graphitbrand zu einer weiträumigen Verteilung des radioaktiven Inventars geführt haben.
+Die automatische Unterbrechung der Kettenreaktion bei einer Leistungsexkursion eines wassermoderierten Reaktors ist, anders als gelegentlich behauptet, kein Garant dafür, dass es nicht zu einer Kernschmelze kommt, denn bei zusätzlichem Versagen aller aktiven Kühleinrichtungen reicht die Nachzerfallswärme aus, um diese herbeizuführen. Aus diesem Grunde sind die Kühlsysteme redundant und diversitär ausgelegt. Eine Kernschmelze wird als Auslegungsstörfall seit dem Unfall in Three Mile Island bei der Planung von Kernkraftwerken berücksichtigt und ist prinzipiell beherrschbar. Wegen der durch die Leistungsexkursion eventuell veränderten geometrischen Anordnung des Reaktorkerns ist erneute Kritikalität allerdings nicht grundsätzlich auszuschließen.
+
+
+==== Unterkritisch arbeitende Reaktoren ====
+Eine Kettenreaktion mit gleichbleibender Reaktionsrate kann auch in einem unterkritischen Reaktor erreicht werden, indem man freie Neutronen aus einer unabhängigen Neutronenquelle einspeist. Ein solches System wird manchmal als getriebener Reaktor bezeichnet. Wenn die Neutronenquelle auf einem Teilchenbeschleuniger beruht, also jederzeit abschaltbar ist, bietet das Prinzip verbesserte Sicherheit gegen Reaktivitätsstörfälle. Die Nachzerfallswärme (siehe unten) tritt hier jedoch ebenso wie beim kritisch arbeitenden Reaktor auf; Vorkehrungen zur Beherrschung von Kühlungsverlust-Störfällen sind hier also ebenso nötig wie bei den üblichen Reaktoren.
+Getriebene Reaktoren sind gelegentlich zu Versuchszwecken gebaut und betrieben worden. Sie werden als Großanlagen zur Energiegewinnung und gleichzeitigen Transmutation von Reaktorabfall (siehe Accelerator Driven System) entworfen und in diesem Fall manchmal als Hybridreaktoren bezeichnet. In ihnen könnten die in Reaktoren entstehenden schwereren Actinoide, deren Generationenfaktor für eine kritische Kettenreaktion zu klein ist, als Kernbrennstoffe genutzt werden.
+
+
+=== Emissionen ===
+Durch einen Fortluft-Kamin und das Abwasser werden auch im Normalbetrieb ständig entstehende, radioaktive Verunreinigungen (Tritium, radioaktives Jod) in die Umgebung geleitet. Diesbezüglich wird vermutet, dass Häufungen von Krebs-Fallzahlen ursächlich mit diesen Emissionen zusammenhängen.
+
+
+=== Nachzerfallswärme ===
+Wird ein Reaktor abgeschaltet, so wird durch den radioaktiven Zerfall der Spaltprodukte weiterhin Wärme produziert. Die Leistung dieser so genannten Nachzerfallswärme entspricht anfänglich etwa 5–10 % der thermischen Leistung des Reaktors im Normalbetrieb und klingt in einem Zeitraum von einigen Tagen größtenteils ab. Häufig wird dafür der Begriff Restwärme verwendet, welcher aber irreführend ist, denn es handelt sich nicht um die verbleibende aktuelle Hitze des Reaktorkerns, sondern um zusätzliche Wärmeproduktion, die durch die weiterlaufenden Zerfallsreaktionen hervorgerufen wird.
+Um die Nachzerfallswärme in Notfällen (bei ausgefallenem Hauptkühlsystem) sicher abführen zu können, besitzen alle Kernkraftwerke ein aufwändiges Not- und Nachkühlsystem. Sollten jedoch auch diese Systeme versagen, kann es durch die steigenden Temperaturen zu einer Kernschmelze kommen, bei der Strukturteile des Reaktorkerns und unter Umständen Teile des Kernbrennstoffs schmelzen. Dies war der Fall bei den Kernschmelzen in Fukushima, da dort bedingt durch einen kompletten Ausfall der Stromversorgung sämtliche aktiven Kühlsysteme zum Erliegen kamen.
+
+
+=== Kernschmelze ===
+
+Wenn Brennstäbe niederschmelzen und dadurch eine Zusammenballung von Brennstoff entsteht, nimmt der Multiplikationsfaktor zu, und es kann zu einer schnellen unkontrollierten Aufheizung kommen. Um diesen Prozess zu verhindern oder wenigstens zu verzögern, werden in einigen Reaktoren die im Reaktorkern verarbeiteten Materialien so gewählt, dass ihr Neutronen-Absorptionsvermögen mit steigender Temperatur anwächst, die Reaktivität also abnimmt. Bei Leichtwasserreaktoren, die fast 90 % des gesamten Atomstroms liefern, ist eine Kernschmelze im Betrieb nicht möglich, da die Kernspaltungskettenreaktion nur in Anwesenheit von Wasser stattfindet. Eine Kernschmelze ist jedoch bei mangelnder Kühlung im ausgeschalteten Reaktor aufgrund der Nachzerfallswärme möglich, wenn auch über längere Zeiträume. Der Fall der Kernschmelze wird als größter anzunehmender Unfall (GAU) betrachtet, also als der schwerste Unfall, der bei der Planung der Anlage in Betracht zu ziehen ist und dem sie ohne Schäden für die Umgebung standhalten muss. Solch ein Unfall ereignete sich beispielsweise im Kernkraftwerk Three Mile Island.
+Den schlimmsten Fall, dass zum Beispiel das Reaktorgebäude nicht standhält und eine größere, die zulässigen Grenzwerte weit überschreitende Menge radioaktiver Stoffe austritt, bezeichnet man als Super-GAU. Dies geschah zum Beispiel 1986 bei der Katastrophe von Tschernobyl und 2011 bei der Katastrophe von Fukushima.
+Als inhärent sicher gegen Kernschmelzen gelten beim derzeitigen Stand der Technik nur bestimmte Hochtemperaturreaktoren geringerer Leistung und Leistungsdichte. Ganz allgemein inhärent sicher ist aber dieser Reaktortyp auch nicht, da Unfälle wie Graphitbrand oder Wassereinbruch katastrophale Folgen haben könnten.
+Die Leistungsdichte in MW/m³ (Megawatt thermischer Leistung pro Kubikmeter Reaktorkern) bestimmt, welche technischen Vorsorgen getroffen werden müssen, um nach einer Schnellabschaltung die anfallende Nachzerfallswärme abzuführen. Typische Leistungsdichten sind für gasgekühlte Hochtemperaturreaktoren 6 MW/m³, für Siedewasserreaktoren 50 MW/m³ und für Druckwasserreaktoren 100 MW/m³.
+Der Europäische Druckwasserreaktor (EPR) hat unterhalb des Druckbehälters zur Sicherheit für den Fall einer Kernschmelze ein besonders geformtes Keramikbecken, den Core-Catcher. In diesem soll das geschmolzene Material des Reaktorkerns aufgefangen, aber an einer Zusammenballung gehindert und durch eine spezielle Kühlung abgekühlt werden.
+
+
+== Reaktortypen ==
+
+Die ersten Versuchsreaktoren waren einfache Stapel aus spaltbarem Material. Ein Beispiel ist der Reaktor Chicago Pile, in dem unter der Leitung von Enrico Fermi die erste kontrollierte Kernspaltung stattfand. Moderne Reaktoren werden nach ihrer Bauart, dem verwendeten Brennstoff, der Moderation und der Art der Wärmeabfuhr (Kühlung) unterschieden.
+
+
+=== Nach Funktionsweise ===
+
+
+==== Leichtwasserreaktor ====
+
+Mit normalem leichten Wasser moderierte Reaktionen finden im Leichtwasserreaktor (LWR) statt, der als Siedewasserreaktor (SWR) oder Druckwasserreaktor (DWR) ausgelegt sein kann. Leichtwasserreaktoren erzeugen fast 90 % der Kernenergie weltweit (68 % DWR, 20 % SWR). Eine Weiterentwicklung des Vor-Konvoi, Konvoi (die deutschen DWR) und des N4 ist der Europäische Druckwasserreaktor (EPR). Ein russischer Druckwasserreaktor ist der WWER. Leichtwasserreaktoren benötigen angereichertes Uran, Plutonium oder Mischoxide (MOX) als Brennstoff. Ein Leichtwasserreaktor war auch der Naturreaktor Oklo.
+Wesentliches Merkmal des Leichtwasserreaktors ist der negative Dampfblasenkoeffizient: Wasser ist Kühlmittel und zum Teil Moderator.
+Die Brennelemente des LWR sind empfindlich gegenüber thermodynamischen und mechanischen Belastungen. Um entsprechende Schäden zu vermeiden, sind ausgeklügelte, technische und betriebliche Schutzmaßnahmen erforderlich, welche die Auslegung des Kernkraftwerkes in Gänze prägen. Gleiches gilt für den Reaktordruckbehälter mit seinem Risiko des Berstens. Die verbleibenden Restrisiken der Kernschmelze der Brennelemente aufgrund der Nachzerfallswärme und des Berstens des Reaktordruckbehälters wurden in der Kernenergiewirtschaft wegen der Unwahrscheinlichkeit ihres Eintretens lange Zeit als irrelevant erklärt, zum Beispiel von Heinrich Mandel.
+
+
+==== Schwerwasserreaktor ====
+
+Mit schwerem Wasser moderierte Schwerwasserreaktoren erfordern eine große Menge des teuren schweren Wassers, können aber mit natürlichem, nicht angereichertem Uran betrieben werden. Der bekannteste Vertreter dieses Typs ist der in Kanada entwickelte CANDU-Reaktor.
+
+
+==== Graphit-Gas-Reaktortypen ====
+Gasgekühlte graphitmoderierte Reaktoren (englisch: GCR stehend für: gas-cooled reactor) wurden bereits in den 1950er-Jahren entwickelt, zunächst primär für militärische Zwecke (Plutoniumproduktion). Sie sind ebenfalls die ältesten kommerziell genutzten Kernreaktoren; das Kühlmittel ist in diesem Fall Kohlenstoffdioxid. Als bekannter Vertreter gelten die Magnox-Reaktoren, bei denen die Brennstabhülle aus einer Magnesiumlegierung besteht.
+Am 30. Dezember 2015 wurde Wylfa-1 als letzter der britischen Magnox-Reaktoren stillgelegt. Ähnliche Anlagen (UNGG-Reaktor) wurden auch in Frankreich betrieben, sind aber inzwischen alle abgeschaltet.
+Am 17. Oktober 1969 schmolzen kurz nach Inbetriebnahme des Reaktors 50 kg Brennstoff im gasgekühlten Graphitreaktor des französischen Kernkraftwerks Saint-Laurent A1 (450 MWel). Der Reaktor wurde daraufhin 1969 stillgelegt. Die heutigen Reaktoren des Kernkraftwerks sind Druckwasserreaktoren.
+Ein Nachfolger der Magnox-Reaktoren ist der in Großbritannien entwickelte Advanced Gas-cooled Reactor (AGR). Im Unterschied zu den Magnox-Reaktoren verwendet er leicht angereichertes Urandioxid statt Uranmetall als Brennstoff. Dies ermöglicht höhere Leistungsdichten und Kühlmittelaustrittstemperaturen und damit einen besseren thermischen Wirkungsgrad. AGR haben mit 42 % den höchsten Wirkungsgrad aller bisherigen Kernkraftwerke erzielt.
+Hochtemperaturreaktoren (HTR) nutzen ebenfalls Graphit als Moderator; als Kühlmittel wird Helium-Gas verwendet. Eine mögliche Bauform des Hochtemperaturreaktors ist der Kugelhaufenreaktor nach Farrington Daniels und Rudolf Schulten, bei dem der Brennstoff vollständig in Graphit eingeschlossen ist. Dieser Reaktortyp galt lange als einer der sichersten, da hier bei einem Versagen der Not- und Nachkühlsysteme eine Kernschmelze aufgrund des hohen Schmelzpunktes des Graphits unmöglich ist. Allerdings gibt es eine Reihe anderer schwerwiegender Unfalltypen wie Wassereinbruch oder Lufteinbruch mit Graphitbrand, welche die behaupteten Sicherheitsvorteile in Frage stellen, wie Rainer Moormann herausstellte, der dafür den Whistleblowerpreis 2011 erhielt. Eine Reihe ungelöster praktischer Probleme hat die kommerzielle Umsetzung des Konzepts verhindert. Hinzu kommt, dass die Anlagekosten des HTR höher als die des Leichtwasserreaktors sind. In Deutschland forschte man am Versuchskernkraftwerk AVR (Jülich) und baute das Prototypkraftwerk THTR-300 in Schmehausen, letzteres mit einem Reaktordruckbehälter aus Spannbeton. Beide wurden 1989 stillgelegt.
+Die sowjetischen Reaktoren vom Typ Druckröhrenreaktor (HWCR), dazu zählt der Reaktortyp RBMK, nutzen ebenfalls Graphit als Moderator, jedoch leichtes Wasser als Kühlmittel. Hier liegt der Graphit in Blöcken vor, durch die zahlreiche Kanäle gebohrt sind, in denen sich Druckröhren mit den Brennelementen und der Wasserkühlung befinden. Dieser Reaktortyp ist träge (man braucht viel Zeit zum Regeln) und unsicherer als andere Typen, da der Dampfblasenkoeffizient positiv ist: Anders als bei Leichtwasserreaktoren bedeutet ein Kühlmittelverlust hier nicht Moderatorverlust, verringert aber die Neutronenabsorption durch das Kühlmittel; er erhöht also die Reaktivität, statt sie zu verringern. Die dadurch erhöhte Wärmeleistung ohne genügende Kühlung kann schnell zur Kernschmelze führen. Der havarierte Reaktor in Tschernobyl war von diesem Typ (RBMK). Reaktoren dieser Art sind heutzutage nur noch in Russland zu finden und wurden nach dem Tschernobyl-Unfall um- bzw. aufgerüstet mit dem Ziel, den Void-Koeffizient weiter zu reduzieren. Die Planung der Stilllegung der Anlagen ist laufend.
+
+
+==== Brutreaktor ====
+
+Weiterhin gibt es Brutreaktoren (Schnelle Brüter), in denen zusätzlich zur Energiefreisetzung 238U so in 239Pu umgewandelt wird, so dass mehr neues Spaltmaterial entsteht als zugleich verbraucht wird. Diese Technologie ist sicherheitstechnisch anspruchsvoller als die der anderen Typen. Ihr Vorteil ist, dass auch 238U genutzt wird, statt nur das wesentlich seltenere 235U; die Uranvorräte der Erde können damit 50- bis 100-mal besser ausgenutzt werden. Brutreaktoren arbeiten mit schnellen Neutronen und verwenden flüssiges Metall wie Natrium als Kühlmittel.
+Kleinere nicht brütende Reaktoren mit Flüssigmetallkühlung (Blei-Bismut-Legierung) wurden in sowjetischen U-Booten eingesetzt.
+
+
+==== Flüssigsalzreaktor ====
+
+In einem Flüssigsalzreaktor (englisch MSR für molten salt reactor oder auch LFTR für Liquid Fluoride Thorium Reactor) wird eine Salzschmelze, die den Kernbrennstoff (beispielsweise Thorium und Uran) enthält, in einem Kreislauf umgewälzt. Die Schmelze ist gleichzeitig Brennstoff und Kühlmittel. Dieser Reaktortyp ist jedoch nicht über das Experimentierstadium hinausgekommen.
+Zugunsten von Flüssigsalzreaktoren sind verschiedene Sicherheits- und Nachhaltigkeitsargumente vorgebracht worden: Die verwendeten Fluoridsalze sind nicht wasserlöslich, was eine Kontamination der Umgebung bei Unfällen erschwert. Als Brutreaktoren können die Flüssigsalzreaktoren den Brennstoff sehr effizient verwenden sowie mit einem breiten Spektrum an Brennstoffen betrieben werden. Diese Reaktoren wurden in den 60er Jahren in den USA für den Antrieb für Flugzeuge erforscht. Die Entwicklung wurde etwa 1975 aufgegeben, vor allem wegen Korrosionsproblemen. Erst in den 2000er Jahren wurde das Konzept wieder aufgegriffen, auch in den Generation-IV-Konzepten.
+
+
+==== Sondertypen ====
+Es gibt weiterhin einige Sondertypen für spezielle Anwendungen. So wurden kleine Reaktoren mit hochangereichertem Brennstoff für die Stromversorgung von Raumflugkörpern konstruiert, die ohne flüssiges Kühlmittel auskommen. Diese Reaktoren sind nicht mit den Isotopenbatterien zu verwechseln. Luftgekühlte Reaktoren, die stets hochangereicherten Brennstoff erfordern, zum Beispiel für physikalische Versuche im BREN-Tower in Nevada, wurden gebaut.
+Es wurden Reaktoren für den Antrieb von Raumfahrzeugen konstruiert, bei denen flüssiger Wasserstoff zur Kühlung des Brennstoffes dient. Allerdings kamen diese Arbeiten über Bodentests nicht hinaus (Projekt NERVA, Projekt Timberwind). Ebenfalls nicht über das Versuchsstadium hinaus kamen Reaktoren, bei denen der Brennstoff in gasförmiger Form vorliegt (Gaskernreaktor).
+Derzeit wird weltweit aktiv an neuen Reaktorkonzepten gearbeitet, den Generation-IV-Konzepten, insbesondere mit Blick auf den erwarteten wachsenden Energiebedarf. Diese sollen besondere Kriterien von Nachhaltigkeit, Sicherheit und Wirtschaftlichkeit erfüllen. Insbesondere wird durch Brutreaktoren eine deutlich höhere Effizienz in der Ausnutzung vom Brennstoff erzielt und eine geringere Menge an radioaktivem Abfall. Das Risiko der Kernschmelze durch die Nachzerfallswärme wird mit einer ausreichend starken passiven Kühlung auf Null reduziert. Die ersten Reaktoren der Generation IV sollen nach 2030 zum Einsatz kommen.
+Ein weiterer, zurzeit noch im Experimentalstadium befindlicher Reaktortyp ist der Laufwellen-Reaktor. Dieses Konzept verspricht, sofern die Umsetzung gelingen sollte, eine vielfach effizientere Nutzung des Kernbrennstoffs sowie die massive Reduzierung der Problematik des radioaktiven Abfalls, da ein Laufwellen-Reaktor mit radioaktivem Abfall betrieben werden könnte und diesen dabei systematisch aufbrauchen würde.
+
+	Bilder zu Kernreaktoren
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Naturreaktor Oklo ====
+Eine Kernspaltungs-Kettenreaktion erfordert nicht notwendigerweise komplexe technische Systeme. Sie kann sich unter bestimmten – wenn auch seltenen – Umständen in der Natur entwickeln. 1972 entdeckten französische Forscher in der Region Oklo des westafrikanischen Landes Gabun die Überreste des natürlichen Kernreaktors Oklo, der vor etwa zwei Milliarden Jahren, im Proterozoikum, durch Naturvorgänge entstanden war. Insgesamt wurden bisher in Oklo und einer benachbarten Uranlagerstätte Beweise für frühere Spaltungsreaktionen an 17 Stellen gefunden.
+Eine Voraussetzung für das Zustandekommen der natürlich abgelaufenen Spaltungs-Kettenreaktionen war der im Erdaltertum viel höhere natürliche Anteil an spaltbarem 235U im Uran. Er betrug damals ca. 3 %. Auf Grund der kürzeren Halbwertszeit von 235U gegenüber 238U beträgt der natürliche Gehalt von 235U im Uran derzeit nur noch etwa 0,7 %. Bei diesem geringen Gehalt an spaltbarem Material können neue kritische Spaltungs-Kettenreaktionen auf der Erde nicht mehr natürlich vorkommen.
+Ausgangspunkt für die Entdeckung des Oklo-Reaktors war die Beobachtung, dass das Uranerz aus der Oklo-Mine einen geringfügig kleineren Gehalt des Isotops Uran-235 als erwartet aufwies. Die Wissenschaftler bestimmten daraufhin die Mengen verschiedener Edelgasisotope, die in einer Materialprobe der Oklo-Mine eingeschlossenen waren, mit einem Massenspektrometer. Aus der Verteilung der verschiedenen bei der Uranspaltung entstehenden Xenonisotope in der Probe ergab sich, dass die Reaktion in Pulsen abgelaufen ist. Der ursprüngliche Urangehalt des Gesteins führte mit der Moderatorwirkung des in den Spalten des uranhaltigen Gesteins vorhandenen Wassers zur Kritikalität. Die dadurch freigesetzte Wärme im Gestein erhitzte das Wasser in den Spalten, bis es schließlich verdampfte und nach Art eines Geysirs entwich. Infolgedessen konnte das Wasser nicht mehr als Moderator wirken, so dass die Kernreaktion zum Erliegen kam (Ruhephase). Daraufhin sank die Temperatur wieder ab, so dass frisches Wasser einsickern und die Spalten wieder auffüllen konnte. Dies schuf die Voraussetzung für erneute Kritikalität, und der Zyklus konnte von vorne beginnen. Berechnungen zeigen, dass auf die etwa 30 Minuten dauernde aktive Phase (Leistungserzeugung) eine Ruhephase folgte, die mehr als zwei Stunden anhielt. Auf diese Weise wurde die natürliche Kernspaltung für etwa 500.000 Jahre in Gang gehalten, wobei über fünf Tonnen Uran-235 verbraucht wurden. Die Leistung des Reaktors lag (im Vergleich zu den heutigen Megawatt-Reaktoren) bei geringen 100 Kilowatt.
+Der Naturreaktor von Oklo wurde für die Beurteilung der Sicherheit von Endlagerungen für Radionuklide (Atommüll) herangezogen. Die dort beobachtete geringe Migration einiger Spaltprodukte und des erbrüteten Plutoniums über Milliarden Jahre hinweg wurden von Kernenergiebefürwortern so interpretiert, dass atomare Endlager in einem ähnlichen Gestein möglicherweise über lange Zeiträume hinreichend sicher sind.
+
+
+=== Nach Generationen ===
+
+Leistungsreaktoren werden nach Entwicklungsstand und Inbetriebnahme in Generationen gegliedert.
+
+
+==== Generation I ====
+Sind frühe Prototypen entwickelt in den 1950er und 60er Jahren. i. d. R. nicht kommerzielle Kraftwerke. Der weltweit letzte Generation I Reaktor, Wylfa-1 wurde am 30. Dezember 2015 abgeschaltet.
+Beispiele: Shippingport, Dresden I oder Fermi I
+
+
+==== Generation II ====
+Die meisten, kommerziellen Kraftwerke von ca. 1965 bis Mitte der 1990er Jahre. Hauptsächlich konstruiert und gebaut in Europa, Russland, Japan und USA.
+Die Reaktoren wurden für eine Betriebsdauer von ursprünglich 30 bis 40 Jahren konzipiert und erhielten (abhängig von lokalen Regulierungen) teilweise Laufzeitverlängerungen für 50 bis 60 Jahre.
+Sie sind als Evolutionsstufe der Generation I zu sehen. Bis vor der Nuklearkatastrophe von Fukushima wurden sie als das Rückgrat der Nuklearindustrie angesehen, der Hauptaspekt lag auf passiver Sicherheit, welcher sich in vielen Teilen als mangelhaft herausgestellt hat.
+Beispiele sind verschiedene Typen von Druck- und Siedewasserreaktoren, CANDU oder AGRs.
+
+
+==== Generation III ====
+Kommerzielle Reaktoren ab Mitte der 1990er Jahre bis 2016. Vorrangig evolutionäre Verbesserungen an bestehenden Reaktor-Designs der Generation II.
+Der Fokus lag besonders auf der Standardisierung von Reaktortypen und Reduktion der Investitionskosten und Bauzeit. Zudem wurde ein höherer Lastfaktor und eine längere Lebensdauer (ca. 60 Jahre) angestrebt. Aufgrund der entdeckten Sicherheitsdefizite in Generation II Reaktoren wurden zudem die Fehlerwahrscheinlichkeit verringert, besonders im Hinblick auf Naturkatastrophen, Terroranschläge wie z. B. Flugzeugabstürze.
+Weiters wurde die Brennstoffeffizienz verbessert um höhere Abbrandraten bzw. einen geringeren Anreicherungsgrad zu ermöglichen und zusätzlich die Nutzung von Mischoxidbrennelementen (MOX) zu erleichtern.
+Beispiele sind z. B. der Advanced Boiling Water Reactor sowie das System 80+.
+
+
+==== Generation III+ ====
+Vorrangig Sicherheitsverbesserungen an Generation III (Designs ca. 2017–2021)
+
+
+==== Generation IV ====
+
+Während die Forschung und Entwicklung von Kernkraftwerken früherer Generationen eine weitgehend nationale Aufgabe war, wurde im Jahr 2000 mit dem Generation IV International Forum ein Forschungsverbund gegründet, der die internationale Zusammenarbeit intensiviert. Die Initiative dazu ging vom Amt für Kernenergie, Wissenschaft und Technologie des US-Energieministeriums (englisch: United States Department of Energy) aus. 
+Die Kraftwerke der IV. Generation sollen hohe Anforderungen an Sicherheit, Nachhaltigkeit und Wirtschaftlichkeit erfüllen. Die Anzahl der zukünftigen Reaktortypen wurde auf sechs beschränkt. Ursprünglich war das Ziel, die ersten Prototypen um 2020 in Betrieb zu nehmen. Dieser Termin wurde auf 2030 verschoben, die ersten kommerziellen Anlagen werden nicht vor 2040 bis 2050 erwartet (Stand 2014).
+
+
+== Anwendungen ==
+Die meisten Kernreaktoren dienen der Erzeugung von elektrischer (selten: nur thermischer) Energie in Kernkraftwerken. Daneben werden Kernreaktoren zur Erzeugung von Radionukliden zum Beispiel für die Nutzung in Radioisotopengeneratoren oder in der Nuklearmedizin verwendet. Dabei werden die gesuchten Nuklide
+
+entweder, sofern sie in den Spaltprodukten vorkommen, aus dem abgebrannten Brennstoff extrahiert
+oder gezielt erzeugt, indem stabile Isotope der betreffenden Elemente der im Kernreaktor herrschenden Neutronenstrahlung ausgesetzt werden (siehe Neutroneneinfang).
+Die wichtigste im Reaktor stattfindende Stoffumwandlungs-Reaktion (neben der Erzeugung von Spaltprodukten) ist die Erbrütung von Plutonium-239 aus Uran-238. Sie erfolgt unvermeidlich in jedem Reaktor, weil der eigentliche Kernbrennstoff, z. B. Uran-235, zu wenigen Prozent in den Brennstoffpellets gemischt mit nicht spaltbarem Uran-238 zum Einsatz kommt (vgl. Uran-Anreicherung). Es gibt aber speziell dafür optimierte militärische Reaktoren, die insbesondere auf die Entnahme des Brennstoffs nach nur kurzem Betrieb eingerichtet sind, so dass 239Pu mit nur geringem Gehalt an 240Pu verfügbar wird.
+Kernreaktoren dienen auch als intensive regulierbare Neutronenquellen für physikalische Untersuchungen aller Art.
+Weitere Anwendungen sind der Antrieb von Fahrzeugen (Kernenergieantrieb), neben Schiffen, insbesondere Flugzeugträgern oder U-Boote findet diese Form der Energieerzeugung kaum noch Anwendung.
+Vor allem in den 1960er Jahren wurde Energieversorgung mancher Raumflugkörper über einen Kernreaktor gelöst. Diese wurden heute weitgehend durch Radionuklidbatterien abgelöst. Jüngste Bestrebungen aus dem Jahr 2020 der NASA tendieren jedoch wieder zu Kernreaktor zu entwickeln. Ziel ist hierbei ein 10 kW Kernreaktor zum Einsatz auf dem Mond.
+
+
+== Sicherheit und Politik ==
+
+Das von Kernreaktoren ausgehende Gefahrenpotenzial sowie die bislang ungelöste Frage der Lagerung der anfallenden radioaktiven Abfälle haben nach Jahren der Euphorie seit den 1970er-Jahren in vielen Ländern zu Protesten von Atomkraftgegnern und zu einer Neubewertung der Kernenergie geführt. Während in den 1990er-Jahren vor allem in Deutschland der Ausstieg aus der Kernenergie propagiert wurde, fand etwa 2000 bis 2010 vor dem Hintergrund der verblassenden Erinnerungen an die Risiken (die Katastrophe von Tschernobyl lag 20 Jahre zurück) ein Versuch statt, die Atomkraft wieder gesellschaftsfähig zu machen. Anlass ist die durch internationale Verträge geforderte Reduktion des CO2-Ausstoßes bei der Verbrennung fossiler Energieträger. Dem steht ein wachsender Energiebedarf aufstrebender Volkswirtschaften wie China gegenüber.
+Aus diesen Gründen entschlossen sich einige europäische Staaten, in neue Kernkraftwerke zu investieren. So begannen 2005 der deutsche Konzern Siemens und die französische Gruppe Areva einen Druckwasserreaktor vom Typ EPR im finnischen Olkiluoto zu bauen, der 2022 ans Netz ging. Russland beabsichtigte seine alten Kernkraftwerke zu erneuern und mindestens zehn Jahre lang pro Jahr einen neuen Reaktorbau zu beginnen. Mitte 2022 sind allerdings nur zwei Reaktoren im Bau. In Frankreich wird seit Ende 2004 an einem neuen EPR-Raktor für das Kernkraftwerk Flamanville gebaut. Schweden stoppte seine Pläne zum Atomausstieg. Daneben gibt es kleinere und größere Neubauprojekte im Iran, der Volksrepublik China, Indien, Nordkorea, Türkei und anderen Staaten. (Hauptartikel: Kernenergie nach Ländern). Außerdem sind viele Länder im Forschungsverbund Generation IV International Forum bei der Entwicklung von sechs neuen Reaktortypen, die höhere Nachhaltigkeit, Sicherheit und Wirtschaftlichkeit garantieren sollen.
+Die atomaren Unfälle in dem japanischen Kraftwerk Fukushima-Daiichi in der Folge des Magnitude-9-Erdbebens und darauffolgenden Tsunami vom 11. März 2011 brachten hierzu fast überall neue Überlegungen in Gang. Anders als beim Unfall in Tschernobyl, in einem graphitmoderierten RMBK Reaktor, zeigten die Unfälle in Fukushima eine Schwäche von Leichtwasserreaktoren, der häufigsten Bauart.
+Die Lebensdauer von Kernreaktoren ist nicht unbegrenzt. Besonders der Reaktordruckbehälter ist ständiger Neutronenstrahlung ausgesetzt, die zur Versprödung des Materials führt. Wie schnell das geschieht, hängt unter anderem davon ab, wie die Brennelemente im Reaktor angeordnet sind und welchen Abstand sie zum Reaktordruckbehälter haben. Die Kernkraftwerke Stade und Obrigheim wurden deshalb als erste vom Netz genommen, weil hier dieser Abstand geringer war als bei anderen, neueren Kernreaktoren. Zurzeit versuchen die Betreiber von Kernkraftwerken, durch eine geschickte Beladung mit Brennelementen und zusätzliche Moderatorstäbe die Neutronenbelastung des Reaktordruckbehälters zu reduzieren. Unter anderem das Helmholtz-Zentrum Dresden-Rossendorf erforscht diese Problematik.
+
+
+== Siehe auch ==
+Kernkraftwerk
+Druckröhrenreaktor
+
+
+== Listen ==
+Liste der Kernreaktoren in Deutschland
+Liste der Kernreaktoren in Österreich
+Liste der Kernreaktoren in der Schweiz
+Liste kerntechnischer Anlagen
+Liste der Kernkraftwerke
+Liste von Unfällen in kerntechnischen Anlagen
+Liste meldepflichtiger Ereignisse in deutschen kerntechnischen Anlagen
+
+
+== Literatur ==
+
+
+=== Standardliteratur ===
+Raymond LeRoy Murray, Keith E. Holbert: Nuclear Energy: An Introduction to the Concepts, Systems, and Applications of Nuclear processes. 8th Auflage. Butterworth-Heinemann, Oxford Cambridge, MA 2020, ISBN 978-0-12-812881-7 (englisch). 
+Weston M. Stacey: Nuclear reactor physics. 3rd revised ed Auflage. Wiley-VCH, Weinheim 2018, ISBN 978-3-527-81228-8 (englisch). 
+Serge Marguet: The Physics of Nuclear Reactors. Springer International Publishing, Cham 2017, ISBN 978-3-319-59559-7, doi:10.1007/978-3-319-59560-3 (englisch). 
+Albert Ziegler, Hans-Josef Allelein (Hrsg.): Reaktortechnik. Springer Berlin Heidelberg, Berlin, Heidelberg 2013, ISBN 978-3-642-33845-8, doi:10.1007/978-3-642-33846-5. 
+Günter Kessler: Sustainable and Safe Nuclear Fission Energy: Technology and Safety of Fast and Thermal Nuclear Reactors. Springer, Berlin 2012, ISBN 978-3-642-11990-3, doi:10.1007/978-3-642-11990-3 (englisch). 
+Markus Borlein: Kerntechnik (= Vogel Fachbuch). 2., überarb.  Auflage. Vogel, Würzburg 2011, ISBN 978-3-8343-3253-0. 
+
+
+==== Ältere Fachliteratur ====
+Dieter Emendörfer, Karl-Heinz Höcker: Theorie der Kernreaktoren. BI-Wiss-Verlag, Mannheim/Wien/Zürich 1982, ISBN 3-411-01599-3. 
+Dieter Smidt: Reaktor-Sicherheitstechnik. Springer Berlin Heidelberg, Berlin, Heidelberg 1979, ISBN 3-642-50226-1, doi:10.1007/978-3-642-50225-5. 
+Dieter Smidt: Reaktortechnik. 2 Bände. Karlsruhe 1976, ISBN 3-7650-2018-4. 
+Samuel Glasstone, M. C. Edlund: Kernreaktortheorie. Hrsg.: W. Glaser, H. Grümm. Springer Vienna, Vienna 1961, ISBN 3-7091-7901-7, doi:10.1007/978-3-7091-7900-0. 
+
+
+=== Artikel und andere Beiträge ===
+Julia Mareike Neles, Christoph Pistner (Hrsg.): Kernenergie: Eine Technik für die Zukunft? Springer Vieweg, Berlin, Heidelberg 2012, ISBN 978-3-642-24328-8, doi:10.1007/978-3-642-24329-5. 
+Ulrich Goetz, Georg Fischer (Fotos): Uran: Das Element, das die Welt bewegt. In: Geo-Magazin. Nr. 6. Gruner & Jahr, Juni 1979, ISSN 0342-8311, S. 8–42 (Informativer Sachbericht mit Übersichten: „Kreislaufstörungen“, Argumente für und wider Kernenergie, sowie „Anatomie eines Tauchsieders“). 
+
+
+== Weblinks ==
+
+Suche nach Kernreaktor. In: Deutsche Digitale Bibliothek
+Suche nach Kernreaktor im Katalog der Deutschen Nationalbibliothek
+Suche nach Kernreaktor im Online-Katalog der Staatsbibliothek zu Berlin – Preußischer Kulturbesitz (Achtung: Die Datenbasis hat sich geändert; bitte Ergebnis überprüfen und SBB=1 setzen)
+
+
+=== Andere Informationsquellen ===
+Gibt es natürliche Reaktoren? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 16. Aug. 2006.
+ANS – American Nuclear Society, mit Informationen zur Kernreaktoren
+ARIS – Advanced Reactor Information System, Plattform der IAEA mit Informationen über moderne Reaktortypen
+
+
+== Einzelnachweise ==

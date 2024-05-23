@@ -1,0 +1,40 @@
+Das Relativitätsprinzip besagt, dass die Naturgesetze für alle Beobachter dieselbe Form haben. Einfache Überlegungen zeigen, dass es aus diesem Grund unmöglich ist, einen bevorzugten oder absoluten Bewegungszustand irgendeines Beobachters oder Objekts festzustellen. Das heißt, es können nur die Bewegungen der Körper relativ zu anderen Körpern festgestellt werden, nicht jedoch die Bewegungen der Körper relativ zu einem bevorzugten Bezugssystem.
+In der klassischen Physik wie auch in der 1905 von Albert Einstein entworfenen speziellen Relativitätstheorie (SRT) galt dieses Prinzip vorerst nur in Inertialsystemen, die sich zueinander gleichförmig und unbeschleunigt bewegen. Beschleunigte Bezugssysteme können zwar auch verwendet werden, jedoch haben Naturgesetze in ihnen nicht dieselbe einfache Form wie in Inertialsystemen und sind folglich nicht gleichberechtigt mit Letzteren.
+In der allgemeinen Relativitätstheorie (ART) wird das Relativitätsprinzip auf beschleunigte Bezugssysteme erweitert, wodurch die Gravitation als Folge von Trägheitskräften interpretiert werden kann. Gemäß dieser modernen Sichtweise ist die SRT der Spezialfall der ART, wenn der Einfluss der Gravitation vernachlässigt werden kann, und ist nun ebenfalls gleichermaßen für Inertialsysteme und beschleunigte Bezugssysteme gültig.
+Galileo Galilei (1632) wird als der Erste angesehen, der das Relativitätsprinzip formuliert hat. Er hatte ausschließlich mechanische Vorgänge im Blick und argumentierte damit, dass ein unter Deck eines unbeschleunigten Schiffes befindlicher Beobachter aus den Vorgängen um ihn herum nicht erschließen kann, ob sich das Schiff in Bewegung befindet oder nicht.
+
+
+== Klassische Mechanik ==
+Isaac Newton folgend wurde in der klassischen Mechanik jahrhundertelang die Existenz eines absoluten Raums vorausgesetzt. Newton meinte, die Existenz dieses absoluten Raums mit seinem Eimerexperiment experimentell bewiesen zu haben. Das in dieser Mechanik implizit enthaltene Relativitätsprinzip besagte, dass in gleichförmig bewegten Inertialsystemen die gleichen Gesetze (Kovarianz) der Mechanik gelten wie im absoluten Raum selbst, und dass es nicht möglich sei zu bestimmen, welches System tatsächlich ruhe oder bewegt sei. Das heißt, die Formeln der klassischen Mechanik behalten ihre Gültigkeit, wenn man ein relativ zum absoluten Raum bewegtes System der Galilei-Transformation unterzieht. Newton schrieb in seinen Principia:
+
+Eine innovative Anwendung des Galileischen Relativitätsprinzips machte Christiaan Huygens bei der Ableitung der Stoßgesetze (siehe auch Galilei-Transformation).
+Im 19. Jahrhundert mündete die klassische Physik nach Aufstellung der Maxwellschen Theorie der Elektrodynamik in die Theorie des ruhenden Äthers, der als Übertragungsmedium für das Licht gedacht war und schließlich mit dem absoluten Raum Newtons identifiziert wurde. Von da an wurde versucht, den Bewegungszustand der Erde relativ zum Äther nachzuweisen, womit auch das Relativitätsprinzip widerlegt worden wäre. Jedoch blieben alle entsprechenden Experimente − wie etwa das Michelson-Morley-Experiment − erfolglos.
+
+
+== Spezielles Relativitätsprinzip ==
+Zu Beginn des 20. Jahrhunderts führten diese erfolglosen Experimente dazu, dass dem Relativitätsprinzip eine immer größere Bedeutung eingeräumt wurde, was auch zu klareren Begriffsdefinitionen führte. Henri Poincaré schrieb beispielsweise 1904 in „dem ersten Text, in dem nicht nur die Sache, sondern auch das Wort erscheint“:
+
+Und Albert Einstein definierte 1905 das Relativitätsprinzip so:
+
+Hendrik Antoon Lorentz, Poincaré und Einstein forderten weiter die Kovarianz nicht nur der Mechanik, sondern auch der Elektrodynamik. Dies konnte erreicht werden, indem die Galilei-Transformation durch die Lorentz-Transformation ersetzt wurde. Der Hauptunterschied besteht darin, dass in der neuen Transformation die Lichtgeschwindigkeit eine unüberschreitbare Grenzgeschwindigkeit darstellt.
+Für Geschwindigkeiten, die klein gegenüber der Lichtgeschwindigkeit sind, geht das spezielle Relativitätsprinzip in dasjenige von Galilei über. Newtons absoluter Raum steht jedoch in Widerspruch zum Relativitätsprinzip. Einstein zog deshalb mit der speziellen Relativitätstheorie den Schluss, dass es kein absolutes Bezugssystem gibt. Das bezieht sich sowohl auf den Raum als auch auf die Zeit. Hermann Minkowski führte dies weiter, indem er Raum und Zeit zur vierdimensionalen Raumzeit zusammenfasste.
+Das Relativitätsprinzip gilt in der SRT vorerst nur in Inertialsystemen, denn ausschließlich in ihnen nehmen die Naturgesetze dieselbe einfache Form an. Der Formalismus der SRT kann zwar darüber hinaus erweitert werden, sodass auch beschleunigte Bezugssysteme behandelt werden können, jedoch sind diese nicht gleichberechtigt mit Inertialsystemen.
+
+
+== Allgemeines Relativitätsprinzip ==
+Zusätzlich zum speziellen Relativitätsprinzip führte Einstein die Forderung ein, dass in allen Bezugssystemen, egal ob beschleunigt oder unbeschleunigt, die Gesetze dieselbe Form annehmen müssen (allgemeine Kovarianz). Dies war motiviert durch die Gültigkeit des Äquivalenzprinzips, das besagt, dass kein Experiment feststellen kann, ob man sich in Schwerelosigkeit fernab von Massen befindet oder im freien Fall nahe einer Masse. Einstein nahm zusätzlich an, dass dies in Verbindung mit dem Machschen Prinzip steht, wonach Trägheit und Beschleunigung nur relativ zu den Massen des Universums auftreten. Er schrieb 1916:
+
+Tatsächlich wird allgemeine Kovarianz in der allgemeinen Relativitätstheorie (ART) erreicht. Dabei war die Vorstellung aufzugeben, dass der Raum euklidisch ist, denn die Gravitation wird als Eigenschaft, nämlich als Krümmung der Raumzeit aufgefasst, zu deren Beschreibung eine nichteuklidische Geometrie verwendet werden muss.
+Zum Verständnis der allgemeinen Kovarianz sind jedoch folgende Umstände zu berücksichtigen:
+
+Allgemeine Kovarianz kann als ein mathematisches Prinzip aufgefasst werden, das nicht automatisch ein allgemeines Relativitätsprinzip im Sinne einer Relativität der Beschleunigung nach sich zieht. Denn jede Theorie kann bei entsprechendem mathematischen Aufwand allgemein kovariant formuliert werden, so beispielsweise die SRT und selbst die Newtonsche Mechanik.
+Das Äquivalenzprinzip ist nur lokal gültig, weil über größere Abstände Gezeitenwirkungen auftreten. Lokal gültig ist deswegen auch die SRT als Spezialfall der ART in der „flachen“ oder minkowskischen Raumzeit, wo Gravitation vernachlässigt werden kann („lokale Lorentzinvarianz“) – das heißt in Bereichen, in denen der riemannsche Krümmungstensor überall gleich null ist.
+Auch weitgehend materiefreie Lösungen der ART sind möglich, ohne dass ein einzelner Körper deswegen seine Trägheit verliert, wodurch das Machsche Prinzip verletzt ist.
+Allgemein betrachtet hat das „Gravito-Inertialfeld“, also das Feld, mit dem in der allgemeinen Relativitätstheorie sowohl Beschleunigungs- als auch Gravitationswirkungen beschrieben werden, eine von Körpern unabhängige Existenz. Anhand dieses Feldes kann festgelegt werden, welcher von zwei relativ zueinander beschleunigten Beobachtern sich nun „wirklich“ oder „absolut“ ungleichförmig bewegt. Aufgabe vollständiger Relativierung der Beschleunigung beweist jedoch keineswegs die Existenz eines absoluten Raumes, denn obwohl das „Gravito-Inertialfeld“ wie erwähnt auch ohne Materie existiert, ist es bei Anwesenheit der Materie trotzdem deren Einfluss unterworfen – im Gegensatz zum absoluten Raum Newtons, der von der Materie unbeeinflusst bleibt.
+
+
+== Galileis Schiff ==
+Es folgt ein Auszug aus der Beschreibung, S. 197 ff., von Galilei:
+
+
+== Einzelnachweise ==

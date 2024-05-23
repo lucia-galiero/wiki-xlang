@@ -1,0 +1,228 @@
+Das Kleinhirn oder lateinisch Cerebellum ist ein Teil des Gehirns von Wirbeltieren, der gemeinsam mit dem Brücke (Pons) genannten Bereich des Hirnstamms das Hinterhirn (Metencephalon) bildet. Hinterhirn und Markhirn (Myelencephalon oder Verlängertes Mark) bilden zusammen das Rautenhirn (Rhombencephalon). Das Kleinhirn entwickelt sich über der Rautengrube aus der Kleinhirnplatte und ist bei Wirbeltierarten verschieden stark ausgebildet. Es liegt beim Menschen unterhalb der Okzipitallappen des Großhirns in der hinteren Schädelgrube dem Hirnstamm rückenseits auf.
+Das menschliche Kleinhirn ist dem Volumen nach kleiner als das Großhirn, hat aber eine deutlich höhere Zelldichte. Beim Erwachsenen macht es mit rund 150 g etwa ein Zehntel des durchschnittlichen Hirngewichts aus, doch enthält es mit knapp 70 Milliarden Nervenzellen etwa vier Fünftel, also den Großteil aller zentralnervösen Neuronen. Die Oberfläche der Kleinhirnrinde ist in feine blattförmige Windungen (Folia cerebelli) gefaltet und entspricht etwa 50–75 % der Rindenoberfläche der Großhirnhemispären.
+Das Kleinhirn erfüllt wichtige Aufgaben bei der Steuerung der Motorik: Es ist zuständig für Koordination, Feinabstimmung, unbewusste Planung und das Erlernen von Bewegungsabläufen. Zudem wird ihm neuerdings eine Schlüsselrolle in der kognitiven Evolution des Menschen zugeschrieben und in absoluter Größe und relativ zur Neokortexgröße nahm es zu.
+
+
+== Evolution ==
+Menschen und andere Affen wichen signifikant von dem allgemeinen evolutionären Trend ab, dass Neocortex und Kleinhirn sich gemeinsam veränderten, und hatten im Verhältnis zur Größe des Neokortex ein signifikant größeres Kleinhirn als andere menschenähnliche Primaten.
+
+
+== Lage ==
+
+Das Kleinhirn liegt in der hinteren Schädelgrube. Es ist dem Hirnstamm (Mittelhirn, der Brücke und dem verlängerten Mark) rückenseitig (dorsal) aufgelagert und mit diesem über drei Kleinhirnstiele (Pedunculus cerebellaris inferior, medius und superior) auf jeder Seite verbunden, durch welche die Faserverbindungen verlaufen. Nach oben und unten spannen sich zum Hirnstamm dünne Strukturen aus weißer Substanz aus, das obere und untere Marksegel (Velum medullare superius und inferius, bei Tieren craniale und caudale).
+Zwischen Kleinhirn und Hirnstamm, also bauchseitig (ventral), begrenzt von Medulla oblongata und Pons, seitlich von den Kleinhirnstielen, dorsal von den Marksegeln und dem Kleinhirn, liegt einer der mit Liquor gefüllten Hohlräume des Gehirns, der vierte Ventrikel, dessen Boden als Rautengrube (Fossa rhomboidea) bezeichnet wird.
+Das Kleinhirn wird nach oben (bei anderen Tieren nach vorn) vom Kleinhirnzelt (Tentorium cerebelli), einer Duplikatur der Dura mater, vom Großhirn getrennt, dessen Okzipitallappen direkt darüber (bei Tieren davor) liegt. Das Kleinhirn liegt in der hinteren Schädelgrube, wo es mit den beiden als Kleinhirntonsillen bezeichneten Fortsätzen nach ventral bis kurz vor das Foramen magnum reicht.
+Im Bereich zwischen dem Kleinhirn und dem Unterrand des ventral davor liegenden Pons (Kleinhirnbrückenwinkel) treten nach schräg ventral die beiden Hirnnerven Nervus facialis und Nervus vestibulocochlearis aus. Hier können von der Hülle des Nervus vestibulocochlearis ausgehend Kleinhirnbrückenwinkeltumore (Akustikusneurinome) entstehen.
+
+
+== Aufbau ==
+
+Beim Kleinhirn bezeichnet man wie beim Großhirn die nach außen gewandte, nervenzellhaltige Schicht als Rinde (Cortex), die im Inneren liegende weiße Substanz (nur Faserverbindungen, keine Zellleiber) als Mark (Medulla). Im Mark zu findende Ansammlungen von Nervenzellen sind Kerne.
+Makroskopisch gliedert sich das Kleinhirn in zwei Teile:
+
+Der Wurm (Vermis) ist eine in der Mitte liegende, etwa ein bis zwei Zentimeter breite, sagittal einmal ganz herumlaufende Struktur,
+die zwei Hemisphären wölben sich beiderseits des Wurms vor. Sie sind in jeder Richtung größer und breiter als der Wurm.
+Zusätzlich findet sich vorne unten, an der dem Hirnstamm zugewandten Seite, vom Wurm ausgehend, zu jeder Seite ein armähnlicher Ausläufer, der wie mit zwei Tatzen endet. Das ist der Flocculus, der zusammen mit dem angrenzenden Wurmteil, dem Nodulus, zum sowohl funktionell als auch entwicklungsgeschichtlich deutlich abgrenzbaren Lobus flocculonodularis zusammengefasst wird.
+Deutlich sichtbar ist die Kleinhirnrinde in regelmäßigem Abstand von fast parallel laufenden Furchen durchzogen. Sie dienen wie die Windungen (Gyri) des Großhirns der Oberflächenvergrößerung, verlaufen aber immer transversal (von links nach rechts) und verleihen dem Kleinhirn sein charakteristisches Aussehen. Im Querschnitt ähnelt diese aufgefaltete Anordnung einem Baum (Arbor vitae, Lebensbaum), entsprechend bezeichnet man einen zwischen zwei Furchen vorgewölbten Rindenabschnitt als Folium (lat. für Blatt).
+Sowohl den Wurm als auch die Hemisphären kann man, einmal herumlaufend, in zahlreiche Abschnitte unterteilen, die aber wenig funktionelle Aussage haben. Lediglich die transversale Einteilung in einen oberen Lobus anterior und einen größeren, unteren Lobus posterior wird häufiger verwendet.
+
+Im Mark des Kleinhirns unterscheidet man auf jeder Seite vier Kerne, von innen nach außen:
+
+Nucleus fastigii
+Nucleus globosus (oft zweigeteilt)
+Nucleus emboliformis
+Nucleus dentatus.
+Die Nuclei dentati sind sehr viel größer als die anderen Kerne und auch stammesgeschichtlich am jüngsten. Nucleus globosus und emboliformis werden zusammen auch als Nucleus interpositus bezeichnet.
+
+
+=== Nervenzelltypen der Rinde ===
+
+Die Rinde lässt sich in drei Schichten einteilen, die jeweils eine charakteristische Auswahl der fünf verschiedenen Zelltypen enthalten:
+
+Molekularschicht, Stratum moleculare, ganz außen
+Sternzellen (GABAerg, inhibitorisch)
+Korbzellen (GABAerg, inhibitorisch)
+Purkinjezellschicht, Stratum purkinjense
+Purkinjezellen (GABAerg, inhibitorisch)
+Körnerschicht, Stratum granulosum, nach innen
+Körnerzellen (Glutamaterg, erregend)
+Golgizellen (GABAerg, inhibitorisch).
+Die kleinhirntypische Zelle ist die Purkinjezelle, die als einzige aus der Kleinhirnrinde herausprojiziert. Sie hemmt die Kleinhirnkerne, welche wiederum die zentrale Ausgangsstation des gesamten Kleinhirns darstellen. Sie hat einen klassischen birnenförmigen Zellleib mit einem basalen Axon und einem apikalen Primärdendriten, der sich baumartig verzweigt. Die Verzweigung dieses Dendritenbaumes ist streng in einer Ebene (tangential zur Längsachse der Folia) ausgerichtet, weshalb die Anordnung der Purkinjezellen häufig mit Spalierobst verglichen wird. Die Dendriten ziehen weit in die Molekularschicht bis kurz unter die Kleinhirnoberfläche. Sie sind extrem stark bedornt (stärker noch als die Pyramidenzellen der Großhirnrinde) und gehen demnach eine Vielzahl synaptischer Verbindungen mit anderen Neuronen innerhalb und außerhalb des Kleinhirns ein. Sie ist die einzige Calbindin-positive Zelle des Kleinhirns.
+Die andere typische Zelle der Kleinhirnrinde ist die Körnerzelle, als einzige exzitatorische Zelle der Kleinhirnrinde. Die kleinen, runden Zellkörper liegen dicht und in großer Zahl in der Körnerschicht. Das Axon verläuft nach oben in die Molekularschicht, spaltet sich dort T-förmig auf und verläuft als Parallelfaser längs der Kleinhirnwindungen und somit senkrecht durch die Dendritenbäume der Purkinjezellen. Die ungewöhnliche Form des Körnerzellaxons lässt sich durch ihre Wanderungsbewegung während der Entwicklung erklären, die weiter unten beschrieben wird. Die basalen Dendriten der Körnerzellen bilden mit den basalen Axonen der Golgizellen kleine Geflechte in der Körnerschicht, die Glomeruli cerebellares, an denen auch die extracerebellären Moosfasern (s. u.) endigen.
+Die hemmenden (inhibitorischen) Interneurone der Kleinhirnrinde sind von basal nach apikal:
+
+Die Golgizelle liegt neben der Körnerzelle in der Körnerschicht. Ihre Axone ziehen zu den Glomerula cerebellaria, wo sie die Körnerzellen hemmen. Ihr bedornter Dendritenbaum ist, im Gegensatz zur Purkinjezelle, buschförmig und reicht ebenfalls bis in die Molekularschicht, wo Verbindungen mit den Parallelfasern eingegangen werden.
+Die Korbzellen liegen tief in der Molekularschicht in der Nähe der Purkinjezellen, deren Zellleiber sie mit ihren Axonen umspinnen, um die Purkinjezelle am Initialsegment des Axons zu hemmen. Ihre Dendriten stehen in Verbindung mit Kollateralen der Purkinjezellen und mit den Parallelfasern. Jede Korbzelle hat ein immenses Territorium, sodass eine Korbzelle ungefähr 70 Purkinjezellen hemmen kann.
+Die Sternzellen liegen apikal in der Molekularschicht und ziehen mit ihren Axonen zu den glatten (nicht bedornten) Dendritenabschnitten der Purkinjezellen.
+Zusätzlich zu den Fortsätzen der Zellen des Kleinhirns befinden sich in der Kleinhirnrinde noch zwei verschiedene Fasertypen, die beide erregend sind:
+
+Moosfasern entstammen dem Rückenmark und vielen Kernen des Hirnstamms. Sie endigen an den Glomerula cerebellaria, wo sie die Körnerzellen und somit indirekt die Purkinjezellen erregen. Ihren Namen erhalten die Moosfasern aus ihrer Verbindung mit den Glomerula cerebellaria, die das Stratum granulosum der Kleinhirnrinde im mikroskopischen Bild wie einen vermoosten Rasen erscheinen lassen. Sie verwenden Glutamat als Transmitter.
+Kletterfasern kommen aus dem unteren Olivenkomplex und „klettern“ (daher der Name) an den Dendritenbäumen der Purkinjezellen hoch, wo sie mit den Dornen der Dendriten erregende synaptische Verbindungen eingehen. Einige Quellen sprechen hier von Asparaginsäure als Transmitter, andere von Glutamat.
+
+
+=== Verschaltung ===
+
+Trotz der vielen verschiedenen Zelltypen ist das Verschaltungsprinzip der Kleinhirnrinde relativ einfach. Die Aufgabe des Kleinhirns ist vor allem eine Feinabstimmung der Motorik, sprich eine Hemmung überschwänglicher „Grobmotorik“. Die Informationen über den Bewegungsplan werden der Kleinhirnrinde über die Kletterfasern und Moosfasern zugeleitet (die nebenbei Kollateralen an die Kleinhirnkerne abgeben). Die „Ergebnisse“ der Kleinhirnarbeit werden über die Projektionen der Kleinhirnkerne aus dem Kleinhirn herausgeleitet.
+Der grobe Bewegungsplan wird durch die erregenden Kletter- und Moosfasern (hier indirekt über die Glomerula cerebellaria und die Körnerzellen) zur Purkinjezelle gebracht, deren Aufgabe nun die Hemmung überschwänglicher Motorik ist. Das Ergebnis ist eine absolute Hemmung, sprich keine Motorik. Aufgrund dessen wird nun die Purkinjezelle wiederum selektiv von den Golgizellen, Korbzellen und Sternzellen gehemmt, so dass nun eine feinmotorische Bewegung zu den Kleinhirnkernen und damit aus dem Kleinhirn herausgeschickt wird. Sprich, die Purkinjezelle wird von außerhalb erregt und hemmt die Kleinhirnkerne, wobei sie selber auch selektiv gehemmt wird, damit überhaupt Bewegung stattfindet.
+Neben den geschilderten klassischen Verschaltungen der Rinde finden sich auch monoaminerge Afferenzen aus der Formatio reticularis, insbesondere mit dem Transmitter Serotonin aus den Raphe-Kernen und mit dem Transmitter Noradrenalin aus dem Locus caeruleus. Sie scheinen eher modulatorische Aufgaben zu besitzen.
+
+
+=== Gliazellen in der Rinde ===
+Neben den im gesamten ZNS verbreiteten Oligodendrozyten, Astrozyten und Mikroglia finden sich in der Kleinhirnrinde zusätzlich drei spezielle Gliazelltypen:
+
+Flügelastrozyten haben Flügel- oder Schaufel-förmige Fortsätze, mit denen sie die Glomerula cerebellaria umgeben.
+Die Bergmann-Glia liegt zwischen den Purkinjezellen im Stratum purkinjense. In der Entwicklung des Kleinhirns dienen diese Zellen den auf- und abwandernden Neuronen als Leitstruktur. Im erwachsenen Kleinhirn bilden sie die Membrana gliae limitans superficialis.
+Die gefiederten Glia von Fañanas, die im Stratum moleculare sowie Stratum purkinjense liegen und sich histologisch nur mit einer speziellen Gold-Färbung darstellen lassen. Man unterscheidet dabei nach der Zahl der Ausläufer 3 Typen: Fañanas-Zellen mit einem, mit zwei und mit mehreren Ausläufern.
+
+
+=== Bahnen ===
+Eingänge und Ausgänge des Kleinhirns sind eng mit den jeweiligen Funktionen verwoben, die weiter unter besprochen werden.
+
+
+==== Afferenzen ====
+Für die Bewegungskoordination und -durchführung nötige Informationen kommen aus Rückenmark und Hirnstamm:
+
+Informationen über Beschleunigung und die Lage des Kopfes aus den Hirnstammkernen des Gleichgewichtsorgans (Tractus vestibulocerebellaris)
+über das Rückenmark direkt Informationen über Lage und Stellung der Extremitäten von Muskelspindeln, Gelenkrezeptoren und Golgi-Sehnenorganen (Kleinhirnseitenstrangbahn, Tractus spinocerebellaris anterior und posterior)
+aus der Olive (Tractus olivocerebellaris) Information über die gerade im Augenblick zur Muskulatur laufenden Impulse des Motorkortex und anderer Areale, über vom Kleinhirn selbst ausgesandte Impulse (Rückkopplungsschleife über den Nucleus ruber, der zur Olive projiziert) und über verschiedene Informationen aus dem Hirnstamm.
+Für die Planung von Bewegungen und – falls die Hypothesen zutreffen – auch die Durchführung zahlreicher weiterer kognitiver Prozesse erhält das Kleinhirn zuführende Fasern aus dem Cortex (Tractus corticopontocerebellaris). Diese Afferenzen stammen vor allem aus dem Frontal- und dem Temporallappen, zu kleinen Teilen auch aus Parietal- und Okzipitallappen. Sie verlaufen durch den Pons, den sie mit ihren Fasermassen im Wesentlichen bilden, kreuzen dort auf die Gegenseite, werden in den verstreuten pontinen Kernen umgeschaltet und verlaufen durch den breiten mittleren Kleinhirnstiel zu ihrem Ziel.
+
+
+===== Detaillierte Betrachtung =====
+
+Die pontinen Afferenzen bilden in ihrer Gesamtheit den Pedunculus cerebellaris medius. Als einzige afferente Bahn verläuft der Tractus spinocerebellaris anterior im Pedunculus cerebellaris superior, alle anderen genannten Afferenzen verlaufen im unteren Kleinhirnstiel.
+Im Tractus vestibulocerebellaris laufen nicht nur sekundäre Fasern, die in den Vestibulariskernen umgeschaltet wurden, sondern auch direkte Fasern aus dem Gleichgewichtsorgan. Neben dem Lobus flocculonodularis enden Teile der Bahn auch im Ncl. fastigii und der Uvula, einem Teil des Wurms.
+Die Tractus spinocerebellaris anterior und posterior leiten im Wesentlichen nur Informationen aus der unteren Extremität. Für die obere Extremität gibt es zwei analoge Bahnen. Anteile der Hinterstrangbahn, die in einem Teil des Ncl. cuneatus im Hirnstamm verschaltet werden, dem Ncl. cuneatus accessorius, laufen als Tractus cuneocerebellaris zum Kleinhirn und entsprechen der posterioren Kleinhirnseitenstrangbahn. Analog zur anterioren Bahn gibt es ab dem Zervikalmark noch einen Tractus spinocerebellaris superior. Die posteriore Bahn leitet eher die hochaufgelöste Propriozeption, die Information aus der anterioren Bahn kommt eher von größeren rezeptiven Feldern.
+Propriozeption aus dem Gesichtsbereich verläuft aus den Trigeminuskernen im Hirnstamm als Tractus trigeminocerebellaris zum Kleinhirn.
+
+
+==== Efferenzen ====
+Alle Efferenzen gehen von den Kleinhirnkernen aus (mit Ausnahmen einiger direkter Bahnen vom Lobus flocculonodularis zu den Vestibulariskernen).
+Das Kleinhirn sendet zu vier Hirnregionen Fasern aus:
+
+Thalamus
+Nucleus ruber
+Formatio reticularis
+Vestibulariskerne, die Hirnstammzentren des Gleichgewichtsorgans.
+Alle vier Bahnen haben Bedeutung für die Steuerung der Motorik: Die drei letztgenannten Hirngebiete senden eigene Bahnen zum Rückenmark. Zudem läuft über den Nucleus ruber die oben erwähnte Rückkopplungsschleife zur Olive und zurück zum Kleinhirn.
+Grundsätzlich werden alle zum Cortex des Großhirns laufenden Bahnen im Thalamus umgeschaltet, auch die des Kleinhirns. Der Thalamus dient hier als Integrationszentrum für Impulse auch aus anderen motorischen Zentren (Basalganglien, Cortex selbst) und leitet die integrierten Impulse zu motorischen Cortexarealen, vor allem zum primär-motorischen Cortex weiter. Es konnte aber gezeigt werden, dass die Kleinhirnefferenzen nicht auf motorische Cortexareale beschränkt sind.
+
+
+===== Detaillierte Betrachtung =====
+Die Bahn zu den Vestibulariskernen, die erregende Fasern aus den Ncll. fastigii und – als einzige Ausnahme – auch hemmende Fasern direkt aus der Rinde des Lobus flocculonodularis sendet, verläuft im unteren Kleinhirnstiel. Alle anderen Efferenzen verlaufen im oberen Kleinhirnstiel, kreuzen dann (Decussatio pedunculorum cerebellarium superiorum, Wernekinck) und spalten sich in einen auf- und einen absteigenden Teil auf.
+Der kleinere, absteigende Teil läuft zur Formatio reticularis des Hirnstamms. Die Fasern stammen aus den Ncll. fastigii und globosi. Im aufsteigenden Teil verlaufen die oben geschilderten Bahnen zum Thalamus, Tractus cerebellothalamicus, und die Projektionen zum Ncl. ruber, Tractus cerebellorubralis.
+Die aus den Ncll. globosus und emboliformis stammenden Anteile der cerebellorubralen Bahn enden in einem Teil des Ncl. ruber (Pars magnocellularis), der selbst direkt und indirekt über die Formatio reticularis absteigende Bahnen ins Rückenmark entsendet. Die Anteile des Tractus cerebellorubralis aus dem Ncl. dentatus enden in dem Bereich (Pars parvocellularis), der über die zentrale Haubenbahn mit dem Olivenkern verbunden ist und so die oben erwähnte Rückkopplungsschleife bildet.
+Auch der Tractus cerebellothalamicus entsteht aus Fasern aus diesen drei Kernen, Ncll. globosus, emboliformis und dentatus.
+
+
+== Gliederung ==
+
+Nach verschiedenen Kriterien lässt sich das Kleinhirn in jeweils drei bis vier Abschnitte einteilen. Am naheliegendsten ist die Einteilung nach anatomischen Abschnitten. Die funktionell bedeutendste und gebräuchlichste Unterscheidung ist aber die nach den Afferenzen, bei der das Kleinhirn nach der Herkunft der zuführenden Bahnen in drei Bereiche eingeteilt wird:
+
+Das Vestibulocerebellum, anatomisch der Lobus flocculonodularis, ist mit den Vestibulariskernen, den Hirnstammzentren des Gleichgewichtsorgans, verbunden;
+das Spinocerebellum, anatomisch der Wurm und angrenzende Bereiche, empfängt u. a. Informationen über Körperstellung aus dem Rückenmark;
+das Pontocerebellum, anatomisch den seitlichen Hemisphären entsprechend, empfängt die Fasern, die über die Brücke (Pons) aus dem Großhirn kommen.
+Häufig synonym gebraucht ist die Einteilung nach der Phylogenese, die sich nach der stammesgeschichtlichen Entwicklung des Kleinhirns richtet:
+
+Das Archicerebellum (entspricht dem Vestibulocerebellum) ist der evolutionsgeschichtlich älteste, bei allen Wirbeltieren vorhandene Teil des Kleinhirns,
+das Paläocerebellum (entspricht dem Spinocerebellum), stellt den mit der Entwicklung von Gliedmaßen verbundenen nächsten evolutionären Schritt dar, während
+das Neocerebellum (Pontocerebellum) den Anforderungen an komplexe Bewegungsabläufe geschuldet ist und nur bei höheren Säugern vorhanden bzw. in Ausmaß und Umfang der Faserverbindungen bei Primaten und dann beim Menschen einzigartig ist.
+Ein weiteres mögliches Kriterium unterteilt das Kleinhirn nach den Kleinhirnkernen, in die die jeweiligen Abschnitte projizieren. Dadurch wird das Spinocerebellum in zwei funktionell unterschiedliche Gebiete unterteilt.
+Auch wenn die oben genannten Einteilungen nach den verschiedenen Kriterien synonym gebraucht werden, so sind doch die beschriebenen Gebiete fast nie völlig deckungsgleich. Ausnahme ist das Vestibulocerebellum – Archicerebellum – Lobus flocculonodularis, wo die Übereinstimmung weitgehend vorhanden ist. In den anderen Gebieten kann man oft nur eine Überschneidung in der Größenordnung von achtzig Prozent feststellen.
+
+
+== Blutversorgung ==
+Die Durchblutung des Cerebellums erfolgt über drei paarig angelegte Arterien, diese sind von dorsal nach frontal die Arteria cerebelli posterior inferior (PICA), die Arteria cerebelli anterior inferior (AICA) sowie die Arteria cerebelli superior (SCA). Die Arteria cerebelli posterior inferior entspringt dabei als einzige der drei aus der Arteria vertebralis, sie ist nebenbei deren größter Abgang. Die Arteria cerebelli anterior inferior und die Arteria cerebelli superior sind dagegen Abgänge der Arteria basilaris. Diese etwa 3 bis 3,5 cm lange Arterie entsteht auf dem Clivus der Schädelbasis aus dem Zusammenschluss der rechten und linken Arteria vertebralis, etwa im Übergangsbereich zwischen Medulla oblongata und Pons.
+Jede Arterie steuert dabei zunächst einen bestimmten Teil des Cerebellums an: So kommt die SCA auf der superioren Oberfläche an, die PICA posterior-inferior und frontal von dieser, also anterior-inferior, die AICA. Alle Lagebezeichnungen beziehen sich auf das Cerebellum an sich, der kaudale Teil wird also von zwei Arterien angesteuert, der kraniale von einer. Die Äste der drei Arterien anastomosieren schließlich in der Pia mater und stellen so die Blutversorgung des Cerebellums sicher.
+
+
+== Funktion ==
+Gut untersucht und allgemein anerkannt ist die Rolle des Kleinhirns für Planung, Koordination und Feinabstimmung von Bewegungen, wobei die unterschiedlichen Abschnitte auch verschiedene Funktionen übernehmen.
+Auch bei Lernvorgängen wird dem Kleinhirn eine wichtige Rolle zugeschrieben. Zudem werden seit einiger Zeit Thesen über die Rolle des Kleinhirns bei kognitiven Prozessen diskutiert.
+
+
+=== Motorik ===
+
+
+==== Vestibulocerebellum ====
+Dieser Kleinhirnteil erhält aus dem Gleichgewichtsorgan Informationen über Körperlage und -bewegung. Diese nutzt er zum einen zur Steuerung der Halte- und Stützmotorik. Zum anderen ist er verantwortlich für die Feinabstimmung fast aller Augenbewegungen, die von den verschiedenen okulomotorischen Zentren im Hirnstamm generiert werden.
+
+
+==== Spinocerebellum ====
+Das Spinocerebellum empfängt die Afferenzen aus dem Rückenmark, die Informationen über die Stellung von Gelenken und Muskeln geben. Außerdem erhält es kontinuierliche Rückmeldung über die zum Rückenmark und damit in die Peripherie gesendeten Bewegungssignale.
+Es gliedert sich nach den Efferenzen in zwei funktionell unterschiedliche Zonen. Der Vermis selbst, der in den Nucleus fastigii projiziert, ist vor allem für Stand-, Gang- und Stützmotorik verantwortlich. Die angrenzenden Hemisphärenanteile (intermediäre Zone, Projektion in Nucleus globosus und Nucleus emboliformis) sind entscheidend beteiligt an der Zielmotorik und der Bewegungsdurchführung. Diese Anteile sorgen dafür, dass eine Bewegung wie geplant abläuft, ihr Ziel exakt trifft, und sie sorgen für einen Abgleich von Efferenzen und Afferenzen, also dafür, dass die gesendeten Kommandos der tatsächlichen augenblicklichen Lage der Extremitäten entsprechen und ständig fein an die neue Lage angepasst werden.
+Hierunter fällt auch die für das Sprechen notwendige außerordentlich feine Abstimmung der beteiligten mimischen und Kehlkopfmuskulatur.
+
+
+==== Pontocerebellum ====
+Das Pontocerebellum (auch Cerebrocerebellum) ist funktionell mit dem Großhirnkortex verbunden. Es empfängt Signale aus vielen Bereichen, vor allem den prämotorischen Zentren im Frontallappen (prämotorischer Cortex und supplementärmotorischer Cortex). Dort entstehen Bewegungsentwürfe, die Planung einer Bewegung. Diese eher groben Entwürfe werden zu den lateralen Kleinhirnhemisphären gesendet, wo sie weiter entwickelt, fein abgestimmt, moduliert, korrigiert, mit aus Vorerfahrungen gewonnenen internen Modellen abgeglichen werden und die geplante Aktivität der beteiligten Muskeln koordiniert wird. Hierbei hilft auch der Rückkopplungskreis über den Nucleus ruber und die Olive zurück zum Kleinhirn. Die Ergebnisse dieser Berechnungen gehen zum Thalamus, wo sie (mit den Ergebnissen des anderen großen subkortikalen motorischen Zentrums, der Basalganglien) integriert und zum motorischen Cortex weitergeleitet werden.
+
+
+=== Lernvorgänge ===
+Das Kleinhirn spielt eine Schlüsselrolle beim impliziten Lernen und damit für das prozedurale Gedächtnis. Das bedeutet, dass gut trainierte, automatisierte Bewegungsabläufe ohne ein Nachdenken abrufbar sind, da ihre Wiederholung zu anhaltenden Veränderungen synaptischer Effizienzmuster im Kleinhirn geführt hat. Beispiele dafür sind die Koordination der Gesichtsmuskulatur beim Sprechen und die Bewegung der Finger beim Schreiben oder Spielen von Musikinstrumenten, aber auch die Koordination des gesamten Körpers wie beim Skifahren oder Tanzen.
+Das Kleinhirn ist darüber hinaus ein Ort assoziativen Lernens. Das am besten untersuchte Beispiel hierfür ist die Konditionierung des Lidschlussreflexes, welcher z. B. beim Einsetzen von Kontaktlinsen eine Rolle spielt.
+
+
+=== Kognitive Prozesse ===
+Seit den achtziger Jahren wird vermehrt diskutiert, dass das Kleinhirn auch an zahlreichen kognitiven Prozessen beteiligt ist. Es werden unter anderem folgende Argumente aufgeführt:
+
+Die Hemisphären des Kleinhirns sind beim Menschen so ausgeprägt wie bei keiner anderen Spezies. Evolutionsgeschichtlich geht das Wachstum des Großhirns, in dem die außerordentlichen kognitiven Fähigkeiten des Menschen angesiedelt werden, direkt einher mit dem Wachstum der Hemisphären und des Nucleus dentatus.
+Das Kleinhirn empfängt über die pontinen Fasern eine gewaltige Menge an Informationen. Diese Stränge umfassen 200 Millionen Nervenfasern, während der Nervus opticus zum Beispiel, der die Informationen aus der Netzhaut des Auges bringt und damit gute Teile des Großhirns beschäftigt, nur etwa 1 Million Nervenfasern umfasst.
+Man konnte zeigen, dass die Efferenzen des Kleinhirns nicht etwa nur zu motorischen Cortexarealen gelangen, sondern auch zu vielen anderen Bereichen des Cortex.
+Es gibt Kleinhirnläsionen im Bereich des Lobus posterior, die zu keinerlei klinischen Auffälligkeiten bei der Bewegungskoordination führen.
+Funktionelle Untersuchungen mit modernen bildgebenden Verfahren konnten eine Aktivierung des Kleinhirns bei kognitiven Aufgaben zeigen.
+Nach einer anderen Hypothese ist nur der Lobus anterior wirklich für Bewegungskoordination zuständig, während dem unteren Vermis Einfluss auf Affekt und Verhalten zugeschrieben werden. Die linke Hemisphäre (verbunden mit der rechten Großhirnhemisphäre) spielt eine Rolle im visuell-räumlichen Denken, die rechte Hemisphäre (verbunden mit der linken, sprachdominanten Hemisphäre) ist wichtig für Sprachfunktionen. Dazu passt, dass Dyslexie häufig mit einer Beeinträchtigung der Aktivität in der rechten Kleinhirnhemisphäre korreliert. Im Gegensatz zum Sprechen, was die Koordination der Sprechmuskulatur verlangt, handelt es sich hier um höhere Funktionen zur Sprachbildung wie zum Beispiel Wortfindung. Beiden Hemisphären wird zudem allgemein eine Rolle bei den exekutiven Funktionen zugeschrieben.
+Dennoch ist noch nicht klar, wie wichtig der Einfluss des Kleinhirns tatsächlich ist. An einigen Beispielen wird das Problem deutlich: Bei Untersuchungen mit bildgebenden Verfahren ist es nicht möglich, Kleinhirntätigkeit zur Bewegungskoordination völlig auszuschließen. Gerade beim Sprechen wird das Kleinhirn tätig, so dass Aussagen über Sprachfunktionen schwierig sind. Auch gab es widersprüchliche Experimente.
+Bei Patienten mit Kleinhirnläsionen lassen sich zwar kognitive Veränderungen nachweisen. Diese sind aber nie wirklich schwerwiegend und es bleibt die Frage, ob nicht doch die motorischen Defizite der eigentliche Grund sind. Bei wirklich schwerwiegenden Kleinhirnläsionen ist eine kognitive Prüfung aufgrund der schweren motorischen Defizite wiederum fast nicht möglich.
+
+
+== Entwicklung ==
+
+
+=== Entwicklung der äußeren Form ===
+
+Das Kleinhirn entsteht aus dem Metencephalon, dem vierten Hirnbläschen. Zwischen Metencephalon und Myelencephalon liegt die durch die Absenkung der Brückenbeuge in der sechsten Woche ausgedehnte Rautengrube.
+Die Anlage des Kleinhirns entwickelt sich zu diesem Zeitpunkt im rostralen, dem Mesencephalon zugewandten Teil des Dachs der Rautengrube. Die ganz dorsolateralen Bereiche der Flügelplatte krümmen sich nach medial und bilden die Rautenlippen.
+Kaudal werden die Rautenlippen beider Seiten von der Deckplatte, des sehr dünnen Dachs der Rautengrube, getrennt, nach kranial laufen sie aber aufeinander zu und vereinigen sich direkt unterhalb des Mesencephalon.
+Durch weitere Wachstumsbewegungen, Absenkung der Brückenbeuge, Wachstum und Vorwölben der Rautenlippen nach dorsal verändert sich ihre Form zu einer transversal gestellten Platte, der Kleinhirnplatte.
+In seitlicher Richtung lassen sich nach zwölf Wochen medial der Vermis und lateral die Hemisphären unterscheiden. In Längsrichtung werden als Erstes der Nodulus und der Flocculus durch einen Spalt von Vermis und Hemisphären abgetrennt. Im Verlaufe des weiteren Wachstums treten nach und nach die restlichen charakteristischen Querfurchen auf.
+
+
+=== Entwicklung der Rinde ===
+Im frühen Stadium besteht die Kleinhirnanlage wie alle anderen Abschnitte des Neuralrohrs aus einem innen liegenden Neuralepithel mit teilungsaktiven Zellen, einer Mantelschicht mit aus dem Neuralepithel hervorgegangenen und nach außen gewanderten Proneuronen und einer Marginalzone, die hauptsächlich Zellfortsätze enthält.
+In der Embryonalzeit wandert ein erster Schub von Zellen aus. In der Mantelschicht entstehen aus einem Teil dieser Zellen die Kleinhirnkerne. Der andere Teil erreicht die Marginalzone und bildet dort die äußere Körnerschicht. Diese Schicht ist typisch für die Entwicklung des Kleinhirns. Ihre Zellen bleiben im Gegensatz zur Entwicklung der übrigen Gehirnabschnitte noch bis nach der Geburt teilungsfähig, tatsächlich entstehen hier noch bis zum Ende des zweiten Lebensjahres neue Nervenzellen.
+Im vierten Monat treten zwei wichtige Entwicklungsschritte auf. Ein zweiter Schub an Zellen wandert aus und erreicht die äußere Körnerschicht, bleibt aber auf ihrer Innenseite. Es handelt sich um die Vorläufer der Purkinje-Zellen. Außerdem beginnt nun die Differenzierung der äußeren Körnerschicht. Aus dieser zellreichen Schicht entsteht nach der Geburt die zellarme Molekularschicht, die äußerste Schicht der Kleinhirnrinde, mit ihren Korb- und Sternzellen. Aber es entstehen aus den Zellen der äußeren Körnerschicht auch die Körnerzellen, die Zellen der inneren Körnerschicht.
+Die Zellwanderung im ZNS erfolgt normalerweise von innen nach außen, wobei die Körnerzelle des Kleinhirns hier eine wichtige Ausnahme bildet. Sie wandert tangential unterhalb der Oberfläche des Kleinhirns aus der Rautenlippe ein und bildet auf jeder Seite einen Fortsatz aus, der parallel zum Folium und somit senkrecht zum späteren Dendritenbaum der Purkinjezellen ausgerichtet ist. Nun geht sie in Verbindung mit dem Fortsatz der sog. Bergmann-Gliazelle, an der die anderen Zellen von innen nach außen auswandern, und klettert unter die Purkinjezellschicht, wobei sich die beiden Fortsätze der Körnerzelle zu einem vereinigen, der nun eine T-Form bekommt. Aufgrund dieser speziellen Histogenese lässt sich die ungewöhnliche Form des Körnerzellaxons erklären, der Parallelfaser (von der Körnerzelle hoch und dann T-förmig parallel zum Folium). In vielen Büchern findet man die Angabe, das Axon würde aus der Körnerzellschicht nach oben auswachsen, diese Aussage ist jedoch falsch: Axone wachsen nicht aus, sondern entstehen durch eine Wanderung der jeweiligen Neurone.
+
+
+== Pathophysiologie ==
+Bei einer Schädigung oder Funktionsstörung des Kleinhirns, etwa durch Tumoren, kann je nach Lage und Ausdehnung des betroffenen Areals eine Reihe von charakteristischen Symptomen auftreten.
+Die allgemeinste Bezeichnung und Oberbegriff für die meisten Kleinhirnsymptome ist die Ataxie.
+Im Einzelnen können vorliegen:
+
+bei Läsionen des Vestibulocerebellums
+durch Störung der Koordination der Augenbewegung ein Nystagmus
+durch mangelnde Stützmotorik eine Rumpfataxie, die Unfähigkeit, die für das Stehen und Sitzen nötigen unbewussten Korrekturbewegungen der Rumpfmuskulatur ausreichend durchzuführen;
+bei Läsion der medianen (vermalen) Zone des Spinocerebellums
+eine Stand- und Gangataxie, ein unsicherer, wankender Stand und Gang wie beim Betrunkenen.
+Bei Läsion der intermediären oder paravermalen Zone des Spinocerebellums steht die mangelnde Kontrolle und Koordination der Bewegungsdurchführung im Vordergrund, was sich durch eine Reihe von Symptomen äußert:
+Störungen der Zielmotorik: bei Hypermetrie über das Ziel hinausschießende bzw. bei Dysmetrie am Ziel vorbei treffende Bewegungen, z. B. beim Versuch, mit dem Finger die Nase zu treffen.
+Eng damit verbunden ist das Auftreten eines Intentionstremors, also eines Zitterns, das umso stärker wird, je näher die Hand dem Ziel kommt. Es wird durch nicht koordinierte und somit überschießende Korrekturbewegungen verursacht.
+Die Unfähigkeit, schnell nacheinander und abwechselnd antagonistische Bewegungen durchzuführen, bezeichnet man als Dysdiadochokinese. Das klassische Beispiel ist der Versuch, die Handfläche schnell auswärts und einwärts zu drehen.
+Schließlich verursacht die fehlende Feinabstimmung der komplexen, zum Sprechen nötigen Motorik ein als Dysarthrie bezeichnetes Krankheitsbild, das sich durch eine undeutliche, verwaschene, manchmal unverständliche Sprache auszeichnet. Hier ist aber nur die Sprechmotorik gestört, nicht die höheren sprachverstehenden und -formenden Zentren des Gehirns. Charcot beschreibt die typische cerebelläre Sprache als „skandierend“.
+Die Läsion des Pontocerebellums betrifft die Bewegungsplanung.
+Es kann zu einer Asynergie kommen, bei der der Einsatz der einzelnen Muskeln nicht aufeinander abgestimmt und somit nicht synergistisch ist. Als Kompensation dieses Defizits kann es zur Dekomposition eines Bewegungsablaufs in Einzelbewegungen kommen, so dass zum Beispiel erst das Schultergelenk in die richtige Lage gebracht, dann der Arm gestreckt und erst dann die Hand bewegt wird, statt das parallel in einem fließenden Ablauf durchzuführen.
+Die Rhombencephalosynapsis ist eine seltene Fehlbildung, bei der die beiden Kleinhirnhemisphären verschmolzen sind und der Wurm unterentwickelt ist. Beim Joubert-Syndrom und verwandten Krankheiten ist der Kleinhirnwurm unterentwickelt und die Kleinhirnstiele sind verdickt.
+
+
+== Siehe auch ==
+Zerebralisation
+
+
+== Weblinks ==
+
+Ilka Lehnen-Beyel: Kleinhirn ganz groß. Cerebellum hat mehr mit höheren Gehirnfunktionen zu tun als gedacht, ddp/www.wissenschaft.de, 4. Oktober 2005 (Exzerpt aus: Limperopoulos C et al.: Impaired trophic interactions between the cerebellum and the cerebrum among preterm infants, Pediatrics, Bd. 116, Nr. 4, 844–850)
+Kleinhirn auch für Kognition wichtig, Medical Tribune Nr. 22/2009
+
+
+== Einzelnachweise ==

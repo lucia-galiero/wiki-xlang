@@ -1,0 +1,124 @@
+Il metasomatismo è un processo metamorfico per cui una roccia o porzione di essa, permanendo allo stato solido, è alterata in modo pervasivo attraverso l'introduzione o rimozione di componenti chimici come risultato della sua interazione con fluidi acquosi (soluzioni). Metasomatismo, processo metasomatico e metasomatosi sono sinonimi, sebbene alcuni autori usino metasomatosi per specifiche varietà di metasomatismo (ad es. Na-metasomatosi, Mg-metasomatosi ecc.). Nel processo metasomatico i "vecchi" minerali vengono sostituiti parzialmente o totalmente da nuovi minerali di chimismo differente ed in equilibrio con le nuove condizioni chimico-fisiche in cui si trova la roccia. 
+
+
+== Etimologia ==
+Il termine deriva dal greco μετά (meta = oltre, al di là) e σώματος (somatos = corpo), cioè oltre il corpo, nel senso di fenomeno che si sovrappone ad un corpo roccioso preesistente. È stato introdotto nel 1826 dal mineralogista tedesco  Carl Naumann.
+
+
+== Aspetti chimico-fisici del metasomatismo ==
+I meccanismi di questo processo hanno analogie con quelli del metamorfismo, ma con un ruolo chiave della fase fluida. Essa diviene la causa prima delle reazioni e non più solamente sede delle reazioni. Il fluido, infatti, è responsabile dell'apporto delle nuove specie chimiche e della dissociazione e rimozione delle fasi che divengono instabili a contatto con il fluido. Ne consegue che maggiore sarà l'apporto di fluidi, in termini di quantità e di tempo, maggiore sarà la trasformazione della roccia.Questi fluidi possono essere di origine magmatica o metamorfica. Nel primo caso si tratta di fluidi ricchi in volatili o di liquidi residuali; nel secondo di fluidi interstiziali prodotti da altri processi metamorfici. 
+L'efficacia del metasomatismo è legata alla reattività ed alla permeabilità delle rocce coinvolte. Così per alte reattività e basse permeabilità il fronte metasomatico avanzerà lentamente, producendo una banda stretta con trasformazioni molto spinte; al contrario si produrrà una fascia molto ampia e con leggere trasformazioni se le rocce saranno altamente permeabili e poco reattive.
+Il metasomatismo è distinto dagli altri processi endogeni per i seguenti aspetti (Zharikov et
+al., 1998):
+
+la sostituzione ione-per-ione nei minerali attraverso meccanismi nei quali la dissoluzione di un minerale avviene in sincrono con la precipitazione di un nuovo minerale, in modo da mantenere un volume costante, in conformità con la regola di Lindgren (1925) del volume costante durante il metasomatismo. Un buon esempio di metasomatismo è la sostituzione pseudomorfica di un cristallo di un minerale da parte di un altro minerale (o una miscela di altri minerali), con la conservazione dell'originale forma e volume;
+un gruppo di processi che includono il riempimento di cavità o fratture, la cristallizzazione del magma e l'interazione magma-roccia adiacente, con la conservazione della roccia allo stato solido durante la sostituzione (il volume della soluzione che riempie i pori è trascurabile in confronto al volume totale della roccia). La composizione chimica e mineralogica delle rocce magmatiche è uniforme attraverso gran parte del corpo magmatico, in contrasto con le rocce metasomatiche che presentano una tipica zonatura;
+la trasformazione isochimica o da sostanziali cambiamenti nella composizione chimica per addizione o sottrazione di elementi maggiori diversi da H2O e CO2. Cambiamenti nella concentrazione dell'acqua e/o del diossido di carbonio sono normali nel metamorfismo isochimico, così le reazioni di idratazione/deidratazione o di carbonatazione/decarbonatazione non sono specifiche del metasomatismo e termini come metasomatismo carbonatico o idrometasomatismo sono da abbandonare. Durante il processo metamorfico solo H2O e CO2 sono perfettamente mobili (in senso termodinamico), mentre durante le reazioni metasomatiche altri componenti delle rocce o dei minerali possono essere perfettamente mobili. Il numero di minerali coesistenti nelle zone metasomatiche è normalmente minore che nelle rocce sostituite, a meno che la roccia di partenza non fosse monomineralica;
+la formazione di un insieme regolare di zone. Queste zone formano un caratteristico pattern (colonna metasomatica) attraverso il corpo metasomatico. Il pattern zonale rappresenta la riequilibrazione chimica tra due rocce o tra una roccia e un fluido filtrante (soluzione). Nel caso del metasomatismo di diffusione (vedi più avanti) i cambiamenti attraverso le zone sono transizionali mentre nel caso del metamorfismo di infiltrazione i cambiamenti avvengono a salti. Il numero di zone metasomatiche nella colonna dipende dalle condizioni fisicochimiche dei mezzi che interagiscono. Nel caso più semplice può essere rappresentata da una singola zona. Tutte le zone di una colonna metasomatica sono generate e crescono contemporaneamente, aumentando il loro spessore lungo la direzione del trasporto di massa.
+Una colonna metasomatica (o pattern di zone metasomatiche) è la sequenza completa di zone metasomatiche che caratterizzano una facies metasomatica individuale.
+Le rocce metasomatiche generalmente hanno una  tessitura granofelsica o granoblastica. Possono essere a grana fine o grossolana ed esibire talvolta una zonatura che può essere ritmica.
+
+
+== Tipi di processi metasomatici ==
+La principale distinzione si basa sulla natura prevalente del trasporto in massa; in questo senso esistono due tipi principali di metasomatismo, di diffusione e di infiltrazione, definiti come segue:
+
+Metasomatismo di diffusione o diffusionale: è quello che avviene per diffusione di un soluto attraverso una soluzione stagnante (fluido). La forza che guida la diffusione è il gradiente chimico potenziale nel sistema roccia-pori;
+ Metasomatismo di infiltrazione o infiltrazionale: è quello che avviene per trasferimento di materiale in soluzione che si infiltra attraverso la roccia ospite. Le forze che agiscono sono la pressione e il gradiente di concentrazione tra la soluzione filtrante e la soluzione nei pori della roccia.
+Le rocce metasomatiche diffusionali tendono a formare corpi sottilmente zonati (orli) attorno a fratture, vene, superfici di contatto e la composizione dei minerali può variare gradualmente attraverso ciascuna zona metasomatica. Le rocce metasomatiche infiltrazionali occupano volumi molto più grandi e la composizione dei minerali è costante attraverso ciascuna delle zone metasomatiche. Un metasomatismo infiltrazionale a scala globale opera nelle dorsali medio-oceaniche, dove è l'acqua marina, ricca di sodio, a fluire per gravità all'interno dei basalti altamente fratturati e ancora bollenti, trasformandoli in parte in rocce metasomatiche note con il nome di spiliti.
+Il termine metasomatismo è convenzionalmente limitato alle condizioni idrotermali (sia sub- che super-critiche) collegate a processi endogeni. L'alterazione delle rocce in ambiente esogeno è fortemente dipendente dalle cinetiche chimiche, dalle forze superficiali e dall'attività microbiologica, forze che non si manifestano negli ambienti idrotermali. Pertanto i processi esogeni devono essere collegati a un particolare metasomatismo detto ipergenico.
+Le alterazioni ad alta temperatura e pressione nel mantello sono connesse a liquidi concentrati le cui proprietà sono intermedie tra quelle dei fluidi e quelle dei magmi. Qui i processi sono piuttosto specifici, sebbene i meccanismi non siano del tutto chiariti. Questi processi prendono il nome di metasomatismo mantellico e  producono le rocce madri di magmi particolari come quelli lamprofirici, lamproitici e kimberlitici.
+Korzhinskii (1953) ha sottolineato le relazioni del metasomatismo con il magmatismo e distinto due stadi: metasomatismo dello stadio magmatico e  metasomatismo dello stadio postmagmatico. Il primo stadio è connesso con i fluidi emanati da un corpo magmatico liquido che metasomatizza le rocce solide circostanti. I processi metasomatici dello stadio postmagmatico sono regressivi e connessi con soluzioni idrotermali emanate dal magma in via di raffreddamento e/o da altre sorgenti esogene, a causa per esempio di mescolamento di acqua juvenile con acqua meteorica.
+Relativamente alla loro posizione geologica si possono riconoscere i seguenti tipi di metasomatismo:
+
+ autometasomatismo: è quello che avviene al tetto di un corpo magmatico all'inizio dello stadio postmagmatico. Tipici processi autometasomatici sono, per esempio, l'albitizzazione nei plutoni granitici e la serpentinizzazione delle rocce ultramafiche;
+
+ metasomatismo di confine: è il tipo di metasomatismo che avviene a contatto tra due rocce;
+ metasomatismo di contatto: è il tipo di metasomatismo che avviene al (o vicino al) contatto di un corpo magmatico con un'altra roccia. Può verificarsi a vari stadi dell'evoluzione magmatica. Le zone di endocontatto si sviluppano per sostituzione delle rocce magmatiche e le zone di esocontatto per sostituzione delle rocce contigue;
+ bimetasomatismo: è una varietà di metasomatismo di contatto che causa la sostituzione di entrambe le rocce a contatto a causa di una diffusione nelle due direzioni di componenti diversi attraverso il contatto;
+ metasomatismo presso vene: è un tipo di metasomatismo diffusionale che forma una zonazione simmetrica su entrambi i lati di una vena metasomatica infiltrazionale (o vena di riempimento);
+ metasomatismo regionale: è il metasomatismo che interessa grandi aree e si sviluppa in diverse situazioni geologiche. Comunemente forma rocce metasomatiche alcaline durante gli stadi magmatico e postmagmatico iniziale. Le rocce del metasomatismo regionale a scarsa profondità o anche vicino alla superficie formano la zona più esterna delle associazioni di rocce metasomatiche che accompagnano i depositi minerari, come i greisen, le rocce a quarzo-sericite, le propiliti e alcune altre. Le zone più interne, colpite da un più intenso metasomatismo, sono comunemente orlate da zone di debole alterazione che si estendono su grandi aree. Queste zone possono essere a loro volta inglobate nelle rocce del metamorfismo regionale essenzialmente perché i processi di metamorfismo, metasomatismo e magmatismo sono intimamente correlati.
+
+
+== Classificazione delle rocce metasomatiche ==
+Classificare le rocce metasomatiche è molto più difficile che classificare le rocce magmatiche: la conoscenza della composizione mineralogica e chimica e degli aspetti strutturali sono insufficienti per determinare il tipo di processo metasomatico, perché la composizione di una roccia metasomatica non dipende solo da pressione, temperatura e composizione della roccia sostituita, ma anche dal tipo e dallo stadio del processo metasomatico e dalla composizione del fluido o della soluzione. Alcune difficoltà sorgono dal fatto che rocce metasomatiche di simile composizione possono essere prodotte da differenti processi metasomatici idrotermali con differenti associazioni metallogeniche, così devono essere tenute distinte. Perciò diventa importante determinare gli aspetti distintivi di ciascun processo petrogenetico, che sfociano nella formazione di una specifica associazione di rocce o facies metasomatiche. La natura delle soluzioni metasomatizzanti è uno dei più importanti tra questi aspetti.
+Buona parte dei criteri su cui si basa l'attuale classificazione delle rocce metasomatiche è frutto del lavoro di vari autori della scuola russa nell'arco della seconda metà del XX secolo.
+
+
+=== Lo schema sistematico ===
+Per dare un significato genetico alla classificazione si è costruito un sistema gerarchico basato su tre ordini:
+
+ Zona metasomatica: è l'unità base; è una roccia metasomatica definita da una specifica paragenesi minerale;
+ Facies metasomatica: è una sequenza regolare di zone metasomatiche (una colonna metasomatica) sviluppate in simili condizioni fisico-chimiche (ossia simili composizioni della roccia originale e di quella metasomatica, simili condizioni di pressione e temperatura e simile composizione dei fluidi o soluzioni metasomatizzanti);
+ Famiglia metasomatica: è la totalità delle facies metasomatiche tra loro correlate, tipica di un dato processo petrogenetico. Le facies differiscono l'una dall'altra per la comparsa o scomparsa di una paragenesi minerale o di una zona metasomatica riflettenti una differenza in uno o più dei parametri fisico-chimici.
+Il concetto che inquadra le famiglie metasomatiche è l'interazione acido-basica dei fluidi idrotermali e la loro evoluzione generale, quando si raffreddano nel tempo, da uno stadio alcalino iniziale ad uno acido e quindi a uno tardo nuovamente alcalino. Il relativo processo metasomatico implica un cambiamento del bilancio di massa come risultato di immissione/perdita di componenti acidi (SiO2, F, Cl, SO3, CO2 ecc.) e alcalini/basici (K2O, Na2O, CaO, MgO ecc.). Le rocce metasomatiche acide (o i prodotti della lisciviazione acida) mostrano un normale arricchimento di componenti acidi e un impoverimento di alcali e alcalino-terrosi rispetto alle rocce iniziali. Il metasomatismo alcalino produce l'opposto scambio di massa. Ciascuna delle famiglie metasomatiche che sono state distinte si riferisce a uno specifico campo temperatura-pH, come mostrato in fig. 1. Tutti i campi disegnati nella figura possono essere raggruppati in due gruppi generali e precisamente: quelli con e quelli senza quarzo (cioè acido e neutro-alcalino). Il gruppo acido può essere ulteriormente diviso in tre sottocampi formanti bande di approssimativamente uguale acidità in accordo con la stabilità di (1) minerali delle argille, (2) muscovite-idromiche e (3) feldspati. Allo stesso modo il gruppo alcalino è diviso in sottocampi con paragenesi stabili contenenti (1) feldspati e (2) feldspatoidi (nefelina).
+All'interno di molte famiglie metasomatiche alcune facies possono essere distinte in base alla variazione delle associazioni minerali collegate all'attività dei componenti delle soluzioni idrotermali, i più importanti dei quali sono le variazioni dell'attività chimica di F, Cl, CO2, K2O, Na2O, MgO e CaO.
+
+
+=== Famiglia delle feniti ===
+
+Le feniti sono rocce metasomatiche di alta temperatura, caratterizzate dalla presenza di feldspato alcalino, anfibolo sodico e pirosseno sodico; a questi si possono accompagnare eventualmente nefelina, calcite e biotite/flogopite. Tipici accessori sono la  titanite e l'apatite. Le feniti costituiscono aureole zonate attorno a complessi magmatici alcalini e a carbonatiti e si formano a spese di un'ampia varietà di litologie.
+
+
+=== Famiglia degli skarn ===
+
+Gli skarn sono rocce metasomatiche che si formano a contatto tra una roccia silicatica o un fuso magmatico e una roccia carbonatica. Sono formati principalmente da silicati di calcio-magnesio-ferro-manganese che sono anidri o poveri in acqua (come ossidrile). Sono ulteriormente distinti in skarn magnesiaci, di alta temperatura, e skarn calcici, di media e alta temperatura. Si tratta di rocce economicamente molto importanti perché spesso sede di giacimenti di minerali metalliferi, di boro e terre rare. Formano corpi appiattiti lungo il contatto oppure vene, camini o altre forme che tagliano le rocce carbonatiche e/o silicatiche.
+
+
+=== Famiglia delle rodingiti ===
+
+Le rodingiti sono rocce metasomatiche composte principalmente dal granato grossularia-andradite e da un pirosseno calcico. Accessori caratteristici sono la vesuvianite, la scapolite, l'epidoto e minerali di ferro. La rodingite sostituisce principalmente filoni o inclusioni di rocce basiche all'interno di corpi ultrafemici serpentinizzati. Può anche sostituire altre rocce basiche, come quelle vulcaniche, o anfiboliti associate a corpi ultrafemici.
+
+
+=== Famiglia dei greisen ===
+
+I greisen sono rocce metasomatiche di media temperatura, caratterizzate dalla presenza di quarzo e mica bianca, comunemente associati a topazio, fluorite, tormalina e localmente amazonite, ortoclasio, andalusite e diasporo. Sono quasi sempre associati a leucograniti superficiali tardo-orogenici e sostituiscono i corpi granitici e/o un'ampia tipologia di rocce adiacenti. Possono presentare una zonatura.
+
+
+=== Famiglia delle beresiti ===
+
+Le beresiti sono rocce metasomatiche di bassa temperatura, caratterizzate dall'associazione di quarzo, sericite, carbonati (ankerite) e pirite che si formano per sostituzione di protoliti sia magmatici che sedimentari. Possono essere associate a mineralizzazioni di metalli preziosi, piombo e uranio.
+
+
+=== Famiglia delle propiliti ===
+
+Le propiliti sono dei granofels metasomatici di bassa o media temperatura, formati dall'alterazione di rocce vulcaniche basiche; le varietà di bassa temperatura sono composte principalmente di albite, calcite e clorite, quelle di più alta temperatura da epidoto, actinolite e biotite. Si formano nello stadio post- magmatico.
+
+
+=== Famiglia delle quarziti secondarie (o idrotermali) ===
+
+Le quarziti secondarie sono rocce metasomatiche di bassa o media temperatura composte principalmente da quarzo con quantità subordinate di minerali ricchi in allumina, come pirofillite, diasporo, alunite e caolinite. Comuni accessori sono la fluorite, la dumortierite e la lazulite. Le quarziti secondarie sono associate a rocce vulcaniche e subvulcaniche di composizione da riolitica a andesitica. Normalmente esse si formano come sostituzione di rocce magmatiche acide, più raramente di rocce sedimentarie.
+
+
+=== Famiglia delle gumbeiti ===
+
+Le gumbeiti sono rocce metasomatiche di media e bassa temperatura composte principalmente da quarzo, ortoclasio e carbonati. Si formano dall'alterazione di granodioriti e di sieniti e sono strettamente associate a vene a oro e tungsteno e a oro e uranio.
+
+
+=== Famiglia delle aceiti ===
+
+Le aceiti sono rocce metasomatiche alcaline di bassa temperatura, composte principalmente da albite con quantità subordinate di carbonati e ematite. L'apatite uranifera è un comune accessorio. Le aceiti sono strettamente associate alle mineralizzazioni ad uranio.
+
+
+=== Famiglia delle argillisiti ===
+
+Le argillisiti sono rocce metasomatiche di bassa temperatura composte principalmente da minerali delle argille, ma possono presentare anche minerali silicatici, carbonati e solfuri di ferro. Si formano dall'alterazione idrotermale sia di rocce magmatiche che di rocce sedimentarie.
+
+
+=== Famiglia delle metasomatiti alcaline ===
+
+Le metasomatiti alcaline sono rocce collegate a faglie e si trovano principalmente negli scudi precambrici. Consistono principalmente di albite, egirina e riebeckite. Interessano principalmente graniti, gneiss, rocce quarzifere idrotermali (diasproidi) e albititi collegate a carbonatiti.
+
+
+== Note ==
+
+
+== Voci correlate ==
+autometasomatismo
+luxullianite
+carbonatite
+spilite
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Metasomatismo

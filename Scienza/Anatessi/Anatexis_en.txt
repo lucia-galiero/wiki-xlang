@@ -1,0 +1,50 @@
+Anatexis (via Latin from Greek roots meaning "to melt down") is the partial melting of rocks. Traditionally, anatexis is used specifically to discuss the partial melting of crustal rocks, while the generic term "partial melting" refers to the partial melting of all rocks, in both the crust and mantle.
+Anatexis can occur in a variety of different settings, from zones of continental collision to mid-ocean ridges. It is believed that anatexis is the process largely responsible for the formation of migmatites. Furthermore, scientists have recently discovered that partial melting plays an increasingly important role in active crustal processes, including the advancement of active deformation and the emplacement of crustal granites. As a result, active feedback between crustal shearing, melting, and granite emplacement has become largely accepted in the place of large scale, unreasonable models involving fractional melting of the mantle into granitic batholiths and plutons. Evidence for this can be seen in the physical, mineralogical, and isotopic signatures of countless granites.
+
+
+== Conditions for melting ==
+Crustal anatexis is not restricted to a single tectonic setting, but rather is controlled by four primary parameters: temperature, pressure, volatile content, and rock type/composition. These parameters are highly variable and depend on depth, crustal thickness, and local variations of the Earth's geotherm. The amount and composition of partial melts likely varies locally, reflecting the heterogeneity of the Earth's crust.
+
+
+=== Temperature ===
+In order to induce crustal melting, the temperature must be increased past the normal geotherm. Possible sources of heat include primordial heat originating from the core of the Earth as well as the decay of radioactive elements. This heat is distributed throughout the Earth's crust by a number of different processes, including radiation, conduction, convection, and advection.
+The emplacement of magmatic intrusions is also commonly associated with local increases in temperature. If the increase in temperature is sufficient, this can lead to partial melting of adjacent country rocks. If partial melting does occur, then the degree of melting is controlled by the amount of available heat in the magmatic body.
+
+
+=== Pressure ===
+Beneath the Earth's surface, pressure increases with depth due to the accumulation of overlying rock. At a given temperature, a decrease in pressure can result in localized melting. Melting that is caused by a drop in pressure is referred to as decompression melting. Decompression melting can occur in thickened portions of the Earth's crust and may be the result of a variety of processes, including erosion, tectonic denudation, and lithospheric thinning.
+
+
+=== Volatile content ===
+The amount of water available in the system plays a major role in controlling the degree of melting at a given temperature. Low water availability will suppress melting. Furthermore, the degree of water saturation of a system will affect the composition of any melt generated. Water can be derived from a variety of sources, including from surrounding country rocks (pore water) or from the decomposition of hydrous minerals (e.g. micas, amphiboles). Melting reactions involving water liberated from hydrous minerals are often referred to as dehydration melting reactions or vapour-absent reactions. Over time, dehydration melting reactions will consume all of the hydrous phases in a rock, meaning that the amount of melt generated through these reactions is controlled by the abundance and stability of specific hydrous phases. Depending on the tectonic setting, water can also be introduced to the system through the dehydration of a subducting hydrated oceanic plate or magmatic underplating.
+
+
+=== Rock type ===
+The composition of a parent rock has a direct effect on the composition of the resulting melt. Granitic melts are commonly classified based on the nature of their source rock. One of the more popular classification schemes for granites was first introduced by White and Chappell in 1974. This classification scheme categorizes granites based on whether they are the result of the melting of sedimentary rocks (S-type granites) or the melting of igneous rocks (I-type granites). This genetic difference is reflected in the geochemical signature of the melts themselves.
+
+
+== Syntectonic crustal anatexis ==
+Where partial melting is associated with regional tectonics and differential stresses, the production of melt creates instabilities in pore spaces and eventually along grain-boundaries that localize strain into crustal-scale shear zones. These zones promote melt flow out of the anatectic system as a mechanism to accommodate strain which in turn promotes more partial melting. The feedback loop that develops between the advancement of deformation and partial melting is referred to as syntectonic crustal anatexis. Syntectonic anatectic migmatites at Hafafit region, Eastern Desert, Egypt as a part of the Nubian Shield are a good example of such crustal melts.
+
+
+=== Melt segregation ===
+Segregation of granitic melts from their residual solids begins with the onset of partial melting along the grain boundaries of reactant minerals, namely the ferromagnesian phases of micas and amphiboles. Such reactions produce large positive volume changes within the metamorphic system causing melt enhanced embrittlement. This, coupled with an increasing melt fraction, alters the deformation mechanisms acting among grains and decreases the strength of the rock significantly. Melt filled pores eventually coalesce and melt flow parallel to the elongation lineation of grains (or along planes of foliation) is promoted.
+As a rock partially melts and begins to flow, its rheology changes significantly. Such changes will localize the strain created by regional tectonics and as per Le Chatelier's Principle, the system responds by pumping melt towards zones of dilatancy (lower pressure) thereby segregating the melt from its anatectic source on a local scale. Where this has occurred and been preserved in the rock record, one can expect to see macroscopic melt-rich layers (leucosomes), and macroscopic residual solid layers (melanosomes). These layers will commonly be oriented parallel to the fabric of the host rock. As the amount of accumulated melt in the surrounding rock increases, melt will travel further from its source towards growing transverse structures such as the aforementioned embrittlement fractures. Eventually, this leads to the formation and development of an interconnected accumulation network.
+
+
+=== Emplacement ===
+When the transport of melt occurs on larger scales, anatexis can lead to the ascent and emplacement of large granitic bodies in the upper crust. This transition is generally marked by the change from shear-driven melt migration to buoyancy-driven melt migration. This final step in the extraction process requires an optimal balance between melt fraction and melt distribution in the local rock.
+The ascent of this magma, while previously thought to have occurred as large, slow-rising and buoyant bodies, is now largely attributed to fast-moving narrow conduits and self-propagating dykes. These faster moving models have overcome major thermal and mechanical problems embedded in older theories as well as the granite problem and near surface felsic volcanism. As the flow of rising magma then changes from vertical back to horizontal, emplacement is initiated. This process is episodic and accommodated by both ongoing regional tectonics and emplacement-generated wall rock structures allowing the pluton to spread laterally and thicken vertically. Syntectonic anatectic migmatites at Hafafit region, Eastern Desert, Egypt, Nubian Shield provide an example of the close relation between orogeny (tectonic), metamorphism and granite generation and emplacement.
+
+
+== See also ==
+
+Granite
+Migmatite
+
+
+== References ==
+
+
+== Further reading ==
+M. Dolores Pereira Gómez, etal.: Duality of Cordierite Granites related to Melt-Restite Segregation in the Peña Negra Anatectic Complex, Central Spain. The Canadian Mineralogist. Vol. 38, pp. 1329-1346 (2000)

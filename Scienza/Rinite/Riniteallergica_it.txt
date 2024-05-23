@@ -1,0 +1,77 @@
+La rinite allergica (indicata anche come raffreddore allergico) è una patologia infiammatoria acuta e ricorrente a carico della mucosa nasale dovuta a una reazione di un antigene esogeno (allergene).
+
+
+== Epidemiologia ==
+La rinite allergica rappresenta l'affezione più comune a carico delle alte vie aeree e si ritiene che circa il 20% della popolazione sia affetta da questa patologia. Benché possa verificarsi a tutte le età l'esordio è comune nel periodo puberale e comunque prima dei 20 anni. Tipica della rinite allergica è il profilo evolutivo, con periodi di remissione e riacutizzazioni che tendono a seguire i cicli stagionali. Con il passare degli anni sono possibili mutamenti per quanto riguarda la gravità dei disturbi (pattern in crescendo o in decrescendo, se in quest'ultimo caso la rinite allergica spesso può non verificarsi più) e, pur sempre se ci fossero, il numero di altre sostanze alle quali si è allergici.
+
+
+== Eziologia e patogenesi ==
+Fisiologicamente la mucosa respiratoria è esposta al contatto con molti antigeni presenti nell'aria inspirata: in questo contesto si realizza una reazione immunitaria con produzione di anticorpi che tuttavia non hanno un significato patologico. Patologicamente, una eccessiva reattività del sistema immune o un deficit costitutivo o momentaneo di IgA possono portare a un'esuberante risposta degli anticorpi con produzione di anticorpi della famiglia delle IgE. La porzione Fc delle IgE può legarsi a recettori presenti nella superficie dei mastociti (FcεRI e FcεRII) e, se presente la molecola antigenica, scatenare una trasduzione di segnale intracellulare che ha come conseguenza il rilascio di mediatori primari dell'allergia quali istamina, leucotriene D, fattore chemiotattico eosinofilo e fattore di attivazione piastrinica. Queste sostanze causano:
+
+Vasodilatazione
+Aumento della permeabilità vascolare
+Ipersecrezione di muco da parte delle ghiandole mucipare (in conseguenza all'eccesso di perfusione)
+Stimolazione delle terminazioni nervose.Questi momenti patologici sono responsabili dell'ostruzione nasale, dell'idrorrea, del prurito, degli starnuti e possono innescare anche asma bronchiale. 
+Condizione necessaria affinché si realizzino questi fenomeni è l'alterata produzione di IgE che si realizza in un contesto di inadeguata risposta immune: in questo senso è stato documentato come individui allergici siano caratterizzati da una risposta immune indirizzata verso la componente umorale (linfociti T CD4 Th2) grazie a un pattern citochinico caratterizzato dalla presenza sproporzionata di IL-4, IL-5, IL-6 e IL-10.
+Il profilo clinico-patologico riflette la natura dell'allergene: questo significa che, mentre la rinite allergica dovuta alla presenza di pollini ha un carattere stagionale, la forma dovuta alla presenza di forfora di animali domestici o agli escrementi dell'acaro Dermatophagoides pteronyssinus tende invece a essere perenne.
+
+
+== Anatomia patologica ==
+Nella fase acuto-critica l'epitelio appare iperplastico, con cellule mucipare in intensa attività mitotica e infiltrazione mastocitica. I tessuti appaiono edematosi, con turbinati di colore biancastro e ricoperti da uno strato sieroso translucido: in alcuni casi è possibile osservare lo sviluppo di degenerazione polipoide. Nei periodi intercritici non vi sono alterazioni evidenti.
+
+
+== Profilo clinico ==
+La fase acuto-critica è caratterizzata da:
+
+Senso di ostruzione di grado variabile alla respirazione nasale
+Anosmia (perdita della capacità di percepire gli odori)
+Starnuti in serie
+Prurito nasale (spesso esteso al palato e alle congiuntive)
+Idrorrea, cioè una secrezione sierosa, fluida e senza colore, emessa dalle ghiandole della mucosa nasale
+Cefalea
+Iperemia congiuntivale (oculoretinite allergica), con arrosamento degli occhi dovuto a dilatazione dei vasi sanguigni e lacrimazioneIl soggetto è in grado di riferire la relazione tra gli attacchi e le esposizione a fattori scatenati (pelo di animali domestici, periodi di remissione stagionale). Nel caso di cronicizzazione, l'ostruzione alla respirazione nasale può manifestarsi anche nei periodi intercritici.
+Nel soggetto affetto da rinite allergica cronica è possibile che si presenti un ulteriore sintomo da non sottovalutare, ovvero l'eccessiva sonnolenza diurna. Tale sintomo si manifesta per il fatto che il sonno notturno è frammentato da numerosi microrisvegli; questo fenomeno può essere dovuto all'ostruzione nasale, che provoca a sua volta un disturbo di respirazione nel sonno, ma anche all'infiammazione della mucosa nasale, infatti durante un'infiammazione vengono prodotti numerosi agenti proinfiammatori (come le citochine) che possono agire direttamente a livello centrale. Difatti in questi pazienti è di più frequente riscontro anche la depressione nella quale, secondo le ultime ricerche, sono implicati proprio dei processi neuroinfiammatori.
+
+
+== Profilo diagnostico ==
+In un contesto anamnestico compatibile, la rinoscopia è in grado di dimostrare la tumefazione della mucosa nasale che ricopre i turbinati, di colore pallido e ricoperta da un film sieroso. All'ispezione la cute del volto del soggetto appare edematosa e iperemica, soprattutto a livello periorbitario e perinasale. La dimostrazione della sensibilizzazione allergica avviene tramite un test di cutireazione (prick test) che si allestisce appoggiando su piccole lesioni praticate nella cute del soggetto (si utilizza un ago sterile) una serie di gocce contenenti estratti allergeni diversi. La comparsa di una reazione cutanea (pomfo) localizzata è probativa della sensibilizzazione. Si utilizza una goccia di istamina al fine di valutare l'attendibilità del test (controllo positivo). Ulteriori approfondimenti sono:
+
+Dosaggio delle IgE totali, ricerca del titolo anticorpale delle IgE sieriche totali (un tempo denominato RIST, da Radio Immuno-Sorbent Test, ma attualmente tale metodica è stata sostituita da metodiche che non utilizzano reattivi radiomarcati)
+Dosaggio delle IgE specifiche per allergeni inalanti, test sensibile e specifico (un tempo denominato RAST, da Radio Allergo-Sorbent Test, ma attualmente tale metodica è stata sostituita da metodiche che non utilizzano reattivi radiomarcati). Questo test fornisce informazioni in larga parte sovrapponibili al prick test. Rispetto a quest'ultimo ha lo svantaggio di un costo maggiore e della necessità di inviare il campione al laboratorio, con conseguente maggior tempo di attesa prima di avere la risposta (solitamente giorni, rispetto ai 20 minuti del prick test). Tuttavia ha il vantaggio, sempre rispetto al prick test, di non essere influenzato dalle terapie antistaminiche.
+Studio del secreto nasale, citologia e ricerca di IgE
+
+
+== Terapia ==
+Il primo presidio terapeutico è l'allontanamento degli allergeni, onde diminuire la frequenza delle fasi acute. In queste ultime si rende necessario l'impiego locale di vasocostrittori (agonisti alfa adrenergici), antistaminici e corticosteroidi. Può essere associata una terapia sistemica a base di antistaminici e corticosteroidei. I dati allergometrici possono essere usati per impostare una terapia desensibilizzante specifica basata su microdosi di allergene assunte per via sublinguale: in tal modo si innesca un'intensa risposta anticorpale basata sulle IgA che riduce il rischio di contatto tra l'antigene e le IgE.
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Albera e Rossi, Otorinolaringoiatria - II edizione, Torino, Edizioni Minerva Medica, 2008, ISBN 978-88-7711-583-6.
+ Marina Braga, Valeria Gretter, Rinite allergica, Verona, Edizioni libreria Cortina, 2003, ISBN 9788877491268.
+ Giorgio Ciprandi, La rinite allergica in età pediatrica, Cento, EDITEAM, 2003, ISBN 9788887568714.
+
+
+== Voci correlate ==
+Allergia
+Rinite
+Rinite vasomotoria
+Ozena
+Rinopatia cronica ipertrofica
+Rinopatia cronica atrofica
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su rinite allergica
+
+
+== Collegamenti esterni ==
+
+(EN) hay fever, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Classificazione di riniti, su chirurgianasale.it. URL consultato il 27 settembre 2008 (archiviato dall'url originale il 26 giugno 2008).
+ Rinite allergica, su cyber-medica.org.
+ Rinite allergica - generalità, su allergologo.net.
+Dosaggio delle IgE totali, su allergologo.net

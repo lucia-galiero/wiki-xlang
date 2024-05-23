@@ -1,0 +1,56 @@
+Los ganglios linfáticos, nódulos linfáticos, nodos linfáticos o linfonodos son unas estructuras ovaladas o reniformes (con forma de riñón), encapsuladas, que forman parte estructuralmente del sistema linfático y funcionalmente del sistema inmunitario. Se ubican a lo largo del trayecto de los vasos linfáticos formando cadenas o racimos. Su tamaño es variable desde milímetros hasta un par de centímetros. Se distribuyen por todo el cuerpo, encontrándose en forma más abundante en las axilas, en la ingle, en el cuello, en el abdomen (principalmente en el mesenterio) y en torno a los grandes vasos sanguíneos.[1]​[2]​[3]​[4]​
+La linfa llega al ganglio linfático a través de los vasos linfáticos aferentes, circula lentamente a través de la red o laberinto que conforma su estructura interna de tejido conectivo, que actúa como filtro, permitiendo el contacto estrecho entre los antígenos provenientes de microorganismos (bacterias y virus) u otras sustancias extrañas con los linfocitos B y T, desarrollándose de esta forma una respuesta inmunitaria humoral o celular. Una vez filtrada la linfa por los ganglios, esta sale por los vasos linfáticos eferentes hacia la circulación linfática propagando la respuesta inmunitaria (anticuerpos y células activadas)  a todo el organismo.[2]​[4]​[5]​
+
+
+== Estructura ==
+Los ganglios linfáticos tienen un tamaño generalmente menor a 1 cm de diámetro, pero pueden crecer en caso de mayor actividad, tienen forma de riñón y están conformados por una cápsula de tejido conectivo de la cual emergen trabéculas que dividen al ganglio internamente junto con tejido reticular conformando la integridad estructural del ganglio.  Los vasos linfáticos aferentes entran al ganglio y los vasos linfáticos eferentes salen de él.[2]​[3]​
+El interior del ganglio tiene tres compartimientos funcionales:[5]​
+
+Red de senos linfáticos que son la continuación de los vasos linfáticos aferentes y se continúan con los vasos eferentes.
+Red de vasos sanguíneos por la cual las células sanguíneas (especialmente linfocitos) acceden al ganglio.
+El parénquima del ganglio que se divide en una corteza y una médula.
+
+
+=== Cápsula ===
+Cada ganglio linfático está rodeado de tejido conectivo de colágeno denso irregular, que es más grueso en el lugar donde se encuentra la hendidura o hilio por donde entran y salen los vasos sanguíneos, y por donde salen los vasos linfáticos eferentes en cantidad escasa.  Los vasos linfáticos aferentes entran en forma abundante por diversos puntos de la zona capsular convexa. Desde la cápsula se extienden hacia el interior del ganglio trabéculas en diversa cantidad dependiendo del tamaño del ganglio (mientras más grande más trabéculas), que mantienen su estructura.[4]​[5]​
+
+
+=== Corteza ===
+La corteza es la zona del parénquima del ganglio apegada a la cápsula y se encuentra dividida en compartimientos por trabéculas de tejido conectivo. La corteza se subdivide en dos áreas: la externa y la interna. La corteza externa está conformada por folículos linfoides primarios y secundarios. Los folículos linfoides primarios son redondeados y se componen de linfocitos B vírgenes o de memoria en reposo. Los folículos linfoides secundarios tienen dos zonas: el centro germinal que contiene linfocitos B activados por la presencia de un antígeno, y el manto o zona creciente conformado por linfocitos más pequeños (con poco citoplasma) e inactivos, que se extienden como un manto en torno al centro germinal orientado hacia el lado de la cápsula. Además de linfocitos B, se encuentran macrófagos, células velo (tipo de monocito) y células dendríticas foliculares, que presentan los antígenos a los linfocitos B.[1]​[2]​[4]​[5]​
+La corteza interna o paracorteza, está compuesta por tejido linfoide difuso y es rica en linfocitos T. También se localizan las células dendríticas interdigitales y macrófagos. Las células dendríticas pueden retener muchos antígenos al tener una gran área superficial con numerosas dendritas que son prolongaciones citoplasmáticas.[4]​[5]​[6]​
+
+
+=== Médula ===
+La médula está situada en la parte central del nódulo linfático, está compuesto por cordones medulares de tejido linfático que rodean los senos medulares por donde discurre el líquido linfático que en esta zona van convergiendo para formar los vasos linfáticos eferentes. Los cordones medulares contienen principalmente macrófagos, células plasmáticas y sus precursores, y linfocitos maduros; estas células van pasando a la linfa para entrar posteriormente en la circulación sanguínea.[2]​[5]​
+
+
+=== Circulación linfática y sanguínea ===
+Los vasos linfáticos aferentes, que conducen la linfa, penetran al ganglio por el lado convexo de la cápsula. La linfa llega entonces al seno subcapsular o marginal, (entre la cápsula y el parénquima), continúa por el laberinto de senos corticales, atravesando la corteza en forma paralela a las trabéculas siguiendo luego por a los senos medulares, muy tortuosos, llega al hilio y sale por el vaso linfático eferente.[2]​[5]​
+
+Las arterias ingresan por el hilio del ganglio linfático y se dividen en arteriolas que van por las trabéculas. Algunas las abandonan en forma de capilares que circulan por los cordones medulares. Otras arteriolas llegan hasta la corteza donde forman una red capilar y luego retornan por vénulas postcapilares a través de la paracorteza y luego la médula, donde en los cordones medulares se van uniendo formando vénulas más grandes que acompañan el recorrido arteriolar hacia el hilio.[4]​
+
+
+== Función ==
+La función principal del ganglio linfático es permitir la interacción entre antígenos y linfocitos. Es el lugar principal donde los linfocitos proliferan para lograr la respuesta inmunitaria. Las células presentadoras de antígeno viajan desde el tejido infectado a los ganglios a través de la circulación linfática penetrando al ganglio por los vasos linfáticos aferentes. En el ganglio, los linfocitos son activados por el contacto con los antígenos. Una vez activados, salen por los vasos linfáticos eferentes, volcándose por el ducto torácico a la circulación sanguínea, por donde llegaran hasta el tejido infectado para ejercer su función. Por otro lado, los linfocitos llegan al ganglio principalmente por los vasos sanguíneos, específicamente por las vénulas postcapilares; sólo entre un 10 a un 30 % de los linfocitos llega por los vasos linfáticos aferentes. Transcurridas 12 horas de su llegada, si los linfocitos circulantes no encuentran antígenos vuelven a la circulación por los vasos linfáticos eferentes.[1]​[4]​[5]​
+Otras células presentes en el ganglio también ejercen sus funciones: los macrófagos fagocitan cerca del 90 % de los antígenos que ingresan al ganglio. Si es el primer contacto del antígeno, la respuesta se inicia con la activación de los linfocitos T colaboradores vírgenes ubicados en la paracorteza; 48 horas después se transforman en linfoblastos desde los cuales en cinco días se generan clones de linfocitos T colaboradores efectores y de memoria. Algunos linfocitos B presentes en la paracorteza también se activan y en conjunto con algunos linfocitos T migran a los folículos primarios de la corteza donde generan linfoblastos, de los que posteriormente se seleccionarán aquellos con mayor afinidad por el antígeno, para amplificar la respuesta ante un nuevo contacto.[2]​[4]​
+Cuando el cuerpo está luchando contra una infección, la respuesta inmunológica descrita implica una multiplicación celular al interior del ganglio, aumentando el tamaño de los centros germinales de la corteza.  La reacción es más notable cuando la respuesta es fundamentalmente de predominio celular (por linfocitos T). También aumenta la recirculación celular por el sistema linfático.  Todo esto produce una hinchazón característica de los ganglios.[3]​[4]​
+
+
+== Patologías ==
+Los ganglios linfáticos también pueden aumentar de tamaño cuando contienen metástasis de células cancerosas, llamándose entonces adenopatías metastásicas.
+
+
+== Véase también ==
+Sistema linfático
+Respuesta inmunitaria
+Inmunidad humoral
+Inmunidad mediada por células
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikcionario  tiene definiciones y otra información sobre ganglio linfático.
+ Wikimedia Commons alberga una categoría multimedia sobre Ganglio linfático.
+GangliosLinfaticos.com - Información sobre los nódulos linfáticos

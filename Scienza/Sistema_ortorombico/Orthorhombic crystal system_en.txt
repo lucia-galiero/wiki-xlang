@@ -1,0 +1,72 @@
+In crystallography, the orthorhombic crystal system is one of the 7 crystal systems. Orthorhombic lattices result from stretching a cubic lattice along two of its orthogonal pairs by two different factors, resulting in a rectangular prism with a rectangular base (a by b) and height (c), such that a, b, and c are distinct. All three bases intersect at 90° angles, so the three lattice vectors remain mutually orthogonal.
+
+
+== Bravais lattices ==
+
+There are four orthorhombic Bravais lattices: primitive orthorhombic, base-centered orthorhombic, body-centered orthorhombic, and face-centered orthorhombic.
+
+For the base-centered orthorhombic lattice, the primitive cell has the shape of a right rhombic prism; it can be constructed because the two-dimensional centered rectangular base layer can also be described with primitive rhombic axes. Note that the length 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ of the primitive cell below equals 
+  
+    
+      
+        
+          
+            1
+            2
+          
+        
+        
+          
+            
+              a
+              
+                2
+              
+            
+            +
+            
+              b
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{2}}{\sqrt {a^{2}+b^{2}}}}
+  
+ of the conventional cell above.
+
+
+== Crystal classes ==
+
+The orthorhombic crystal system class names, examples, Schönflies notation, Hermann-Mauguin notation, point groups, International Tables for Crystallography space group number, orbifold notation, type, and space groups are listed in the table below.
+
+
+== In two dimensions ==
+
+In two dimensions there are two orthorhombic Bravais lattices: primitive rectangular and centered rectangular.
+
+
+== See also ==
+Crystal structure
+Crystal system
+Overview of all space groups
+
+
+== References ==
+
+
+== Further reading ==
+Hurlbut, Cornelius S.; Klein, Cornelis (1985). Manual of Mineralogy (20th ed.). pp. 69–73. ISBN 0-471-80580-7.
+Hahn, Theo, ed. (2002). International Tables for Crystallography, Volume A: Space Group Symmetry. International Tables for Crystallography. Vol. A (5th ed.). Berlin, New York: Springer-Verlag. doi:10.1107/97809553602060000100. ISBN 978-0-7923-6590-7.

@@ -1,0 +1,118 @@
+La petrología (del griego Πέτρος [petros] 'piedra'; y λόγος [logos] 'estudio') o litología[1]​ (del griego λίθος [litos] 'piedra') es la rama de la geología que se ocupa del estudio de las rocas, de sus propiedades físicas, químicas, mineralógicas, espaciales y cronológicas, de las asociaciones rocosas y de los procesos responsables de su formación. Es considerada una de las principales ramas de la geología.
+El estudio de la petrología de sedimentos y de rocas sedimentarias se conoce como petrología sedimentaria. La petrografía, disciplina relacionada, trata de la descripción y las características de las rocas determinadas por examen microscópico con luz polarizada.
+La petrología se encarga de tres tipos de rocas específicamente. La primera y más abundante de todas se basa en estudio de las rocas ígneas que deben su origen al enfriamiento lento del magma en el interior de la Tierra (rocas ígneas intrusivas) o a de la lava expulsada por los volcanes (rocas ígneas extrusivas). El segundo tipo son las rocas sedimentarias que se originan por la erosión, desgaste de las rocas por el viento, agua o hielo. El tercer tipo son las rocas metamórficas que se forman cuando los tipos anteriores se ven sometidos a elevadas presiones y temperatura en el interior de la Tierra.
+
+
+== Petrografía ==
+
+
+== Petrología clásica ==
+Diferentes modos de formación rocosa.
+La petrología es clásicamente el estudio de las rocas por observación en el campo y bajo un microscopio ( óptico o electrónico ) y por análisis espectroscópico y químico de las rocas mismas o de sus minerales. Debido a la naturaleza de los fenómenos involucrados, podemos hablar no de una sino de tres disciplinas petrológicas:[3]​
+
+la petrología magmática (a veces también llamada petrología "cristal") está interesada en rocas ígneas como el basalto o el granito. La historia de la formación de una roca magmática puede ser muy compleja: comienza con la génesis de un magma (esquemáticamente, un líquido producido por la fusión de rocas preexistentes) y continúa con la cristalización gradual de este magma, etapa durante y después de lo cual tienen lugar muchas transformaciones químicas. Por abuso del lenguaje, el uso del término "petrología" a menudo se restringe únicamente a la petrología magmática;
+la petrología sedimentaria (o sedimentología) se centra en los mecanismos que gobiernan la formación de rocas sedimentarias como calizas o areniscas. Explora la interacción de los sedimentos y las rocas sedimentarias y volcánicas con la biosfera, la hidrosfera, la atmósfera, la criosfera y la corteza terrestre. La sedimentología implica la descripción, clasificación, modelado e interpretación de sedimentos marinos y no marinos para determinar los procesos físicos, químicos y biológicos por los que se formaron. La petrología sedimentaria estudia la composición mineralógica y geoquímica de los sedimentos y las rocas sedimentarias para determinar los procesos de formación depositacionales y posdeposicionales. El estudio de los sedimentos y las rocas sedimentarias es socialmente relevante porque albergan la mayoría de los recursos agrícolas, combustibles, metálicos y no metálicos del mundo, registran el origen y la evolución de la vida y son el principal sustrato de la geología ambiental.[4]​
+la petrología metamórfica en sí misma es la comprensión objetiva de las transformaciones que conducen a la formación de rocas metamórficas como las lutitas o el gneis. Rocas sedimentarias o magmáticas originalmente simples, estas rocas experimentaron, durante un período de enterramiento profundo en la corteza terrestre, los efectos de una exposición prolongada a altas presiones y altas temperaturas. En virtud de lo cual sus texturas, su mineralogía, también su química, podrían sufrir profundas transformaciones. La disciplina aborda procesos petrogenéticos como la recristalización, reacciones continuas y discontinuas, reacciones mixtas de volátiles y deformación.
+Estos tres campos de estudio se distinguen claramente por las herramientas y métodos que se les prestan. Varios software de sistematización y simulación permiten un enfoque dinámico general, pero los estudios de campo son variados. En general, las tres disciplinas se basan en enfoques petrográficos y se basan en gran medida en las herramientas, métodos y conceptos ofrecidos por otras ciencias (las más importantes son la química, la química orgánica, la física, la química física y el análisis digital) y, más particularmente, las geociencias ( geoquímica, geodesia, geofísica, mineralogía).
+Otras subdisciplinas son:
+
+Una distinción según los métodos de investigación conduce a la petrología experimental, analítica y teórica.
+Áreas que se ocupan del uso económico de las rocas, p. Ej. B. como piedra decorativa, se llama petrología aplicada.
+El área de transición a la geofísica, que se ocupa en particular del comportamiento de las ondas sísmicas en las rocas, se denomina petrofísica.
+
+
+== Petrología experimental ==
+La petrología experimental tiene como objetivo reproducir en el laboratorio las condiciones de temperatura y presión que han sufrido los minerales, rocas o sus precursores ( magmas, fluidos hidrotermales ) en el interior de la corteza o manto terrestre. El objetivo es establecer las propiedades de equilibrio de los materiales terrestres (incluso extraterrestres) en estas condiciones, así como la naturaleza y cinética de su evolución.
+La petrología experimental utiliza dispositivos que permiten alcanzar altas temperaturas (hasta un máximo de aproximadamente 3700 °C) a presión atmosférica o alta o incluso muy alta presión (hasta aproximadamente 600  GPa , o seis millones de atmósferas). El inconveniente es que cuanto más extremas sean las condiciones a alcanzar, menor debe ser el tamaño de la muestra: unos cm³ en los casos más favorables, menos de 1 mm³ en las condiciones más extremas. Los dispositivos de los empleados son típicamente autoclaves, el cilindro-pistón  (adentro) o la celda de yunque de diamante. Se trata del trabajo de la petrología experimental, pionero en Norman Bowen (1887-1956), que permitió establecer los diagramas de fases y las tablas de datos termodinámicos necesarios para la comprensión de los procesos petrogenéticos (los mecanismos formación rocosa responsable).
+
+
+== Petrología metamórfica ==
+
+
+=== Tipos de metamorfismos ===
+Metamorfismo de contacto
+El metamorfismo de contacto se produce junto a intrusiones ígneas y es el resultado de las altas temperaturas asociadas a la intrusión ígnea.
+Dado que el magma sólo calienta una pequeña zona alrededor de la intrusión, el metamorfismo se limita a la zona que rodea a la intrusión, denominada aureola metamórfica o de contacto Fuera de la aureola de contacto, las rocas no se ven afectadas por el evento intrusivo. El grado de metamorfismo aumenta en todas las direcciones hacia la intrusión. Debido a que las diferencias de temperatura entre la roca circundante y el magma intruido son mayores en los niveles poco profundos de la corteza, donde la presión es baja, el metamorfismo de contacto se denomina a menudo metamorfismo de alta temperatura y baja presión[5]​.
+Metamorfismo regional
+El metamorfismo regional se produce en zonas extensas y, por lo general, no guarda relación con los cuerpos ígneos. La mayor parte del metamorfismo regional va acompañado de deformación en condiciones no hidrostáticas o de tensión diferencial.Así, el metamorfismo regional suele dar lugar a la formación de rocas metamórficas fuertemente foliadas, como pizarras, esquistos y gniesses. La tensión diferencial suele ser el resultado de fuerzas tectónicas que producen tensiones de compresión en las rocas, como cuando colisionan dos masas continentales. Así, las rocas metamorfoseadas regionalmente aparecen en los núcleos de los cinturones montañosos de pliegues y cabalgamientos o en cordilleras erosionadas.  Los esfuerzos de compresión provocan el plegamiento de las rocas y el engrosamiento de la corteza, lo que tiende a empujar las rocas hacia niveles más profundos, donde están sometidas a temperaturas y presiones más elevadas[5]​.
+Metamorfismo cataclástico
+El metamorfismo cataclástico se produce como resultado de una deformación mecánica, como cuando dos cuerpos de roca se deslizan uno junto al otro a lo largo de una zona de falla.  El calor se genera por la fricción del deslizamiento a lo largo de una zona de cizalla, y las rocas tienden a deformarse mecánicamente, siendo aplastadas y pulverizadas, debido al cizallamiento[5]​.  El metamorfismo cataclástico no es muy frecuente y se limita a una zona estrecha a lo largo de la cual se ha producido el cizallamiento.
+Metamorfismo hidrotermal
+Las rocas alteradas a altas temperaturas y presiones moderadas por fluidos hidrotermales sufren metamorfismo hidrotermal.  Esto es común en rocas basálticas que generalmente carecen de minerales hidrosos.  El metamorfismo hidrotermal da lugar a la alteración de minerales ricos en Mg-Fe como el talco, la clorita, la serpentina, la actinolita, la tremolita, las zeolitas y los minerales arcillosos[5]​.
+Metamorfismo de enterramiento
+Cuando las rocas sedimentarias se entierran a profundidades de varios cientos de metros, pueden desarrollarse temperaturas superiores a 300 °C en ausencia de tensiones diferenciales. Crecen nuevos minerales, pero la roca no parece metamorfoseada. Los principales minerales producidos son las zeolitas. El metamorfismo de enterramiento se solapa, hasta cierto punto, con la diagénesis, y se gradúa en metamorfismo regional a medida que aumentan la temperatura y la presión.
+Metamorfismo de impacto
+Cuando un cuerpo extraterrestre, como un meteorito o un cometa, impacta contra la Tierra o si se produce una explosión volcánica muy grande, pueden generarse presiones ultraelevadas en la roca impactada.  Estas presiones ultraelevadas pueden producir minerales que sólo son estables a presiones muy elevadas, como los polimorfos de SiO2 coesita y stishovita.  Además, pueden producir texturas conocidas como laminillas de choque en los granos minerales, y texturas como conos de fragmentación en la roca impactada.
+
+
+=== Clasificación de las rocas metamórficas ===
+Conjunto mineral, textura, protolito y composición química de la roca.
+Textura
+En las rocas metamórficas, los minerales individuales pueden o no estar limitados por caras cristalinas. Los que están limitados por sus propias caras cristalinas se denominan idioblásticos. Los que no muestran ninguna de sus caras cristalinas se denominan xenoblásticos[6]​. A partir del examen de las rocas metamórficas, se ha descubierto que los minerales metamórficos se pueden enumerar en una secuencia generalizada, conocida como la serie cristaloblástica, que enumera los minerales en orden de su tendencia a ser idioblásticos. En la serie, cada mineral tiende a desarrollar superficies idioblásticas frente a cualquier mineral que se encuentre más abajo en la serie. Esta serie se enumera a continuación[6]​:
+
+rutilo, esfena, magnetita
+turmalina cianita, estaurolita, granate, andalucita
+epidota, zoisita, lawsonita, forsterita
+piroxenos, anfíboles, wollastonita
+micas, cloritas, talco, estilpnomelano, prehnita
+dolomita, calcita
+escapolita, cordierita, feldespatos
+cuarzo
+Esta serie puede, de manera bastante general, permitir determinar el origen de una roca dada[6]​. Por ejemplo, una roca que presenta cristales euhedrales de plagioclasa en contacto con anfíboles anhedrales, probablemente tuvo un protolito ígneo, ya que una roca metamórfica con los mismos minerales debería presentar anfíboles euhedrales en contacto con plagioclasa anhedral.
+Otro aspecto de la serie cristaloblástica es que los minerales que ocupan los primeros puestos de la lista tienden a formar porfiroblastos (el equivalente metamórfico de los fenocristos), aunque el feldespato K (un mineral que se encuentra más abajo en la lista) también puede formar porfiroblastos[6]​. Los porfiroblastos suelen estar plagados de inclusiones de otros minerales que quedaron envueltos durante el crecimiento del porfiroblasto. Se dice que tienen una textura poiquiloblástica.
+La mayoría de las texturas metamórficas presentan foliación. La foliación suele estar causada por una orientación preferente de los silicatos laminares. Si una roca tiene un clivaje pizarroso como foliación, se denomina pizarra, si tiene una foliación filítica, se denomina filita, si tiene una foliación esquistosa, se denomina esquisto. Una roca que presenta una textura bandeada sin una foliación definida se denomina gneis. Todas ellas pueden ser porfiroblásticas (es decir, pueden contener porhiroblastos)[6]​.
+Una roca que no presenta foliación se denomina hornfels si el tamaño del grano es pequeño, y granulita, si el tamaño del grano es grande y los minerales individuales pueden distinguirse fácilmente con una lupa de mano.
+Protolito
+Protolito hace referencia a la roca original, anterior al metamorfismo. En las rocas metamórficas de bajo grado, a menudo se conservan las texturas originales, lo que permite determinar el protolito probable. A medida que aumenta el grado de metamorfismo, las texturas originales son sustituidas por texturas metamórficas y se utilizan otras pistas, como la composición química de la roca, para determinar el protolito.
+Composición química global
+El conjunto de minerales que se desarrolla en una roca metamórfica depende de:
+
+La presión y la temperatura alcanzadas durante el metamorfismo
+La composición de cualquier fase fluida presente durante el metamorfismo, y
+La composición química global de la roca.
+Al igual que en las rocas ígneas, los minerales sólo pueden formarse si los constituyentes químicos necesarios están presentes en la roca (es decir, el concepto de saturación de sílice y saturación de alúmina también se aplica a las rocas metamórficas). Basándose en el conjunto de minerales presentes en la roca, a menudo se puede estimar la composición química general aproximada de la roca. Algunos términos que describen esta composición química general son los siguientes:
+Pelíticas
+Estas rocas son derivados de rocas sedimentarias aluminosas como pizarras y lodos. Debido a sus altas concentraciones de alúmina se reconocen por la abundancia de minerales aluminosos, como minerales de arcilla, micas, cianita, sillimanita, andalucita y granate.
+Cuarzo-Feldespáticas
+Las rocas que originalmente contenían principalmente cuarzo y feldespato, como las rocas graníticas y las areniscas arcósicas, también contendrán abundante cuarzo y feldespato como rocas metamórficas, ya que estos minerales son estables en una amplia gama de temperaturas y presiones. Las que presentan principalmente cuarzo y feldespato con sólo pequeñas cantidades de minerales aluminosos se denominan cuarzo-feldespáticas.
+Calcáreas
+Las rocas calcáreas son ricas en calcio. Suelen ser derivados de rocas carbonatadas, aunque contienen otros minerales que resultan de la reacción de los carbonatos con minerales detríticos silíceos asociados que estaban presentes en la roca. En grados bajos de metamorfismo las rocas calcáreas se reconocen por su abundancia de minerales carbonatados como la calcita y la dolomita. A medida que aumenta el grado de metamorfismo, éstos son sustituidos por minerales como brucita, flogopita (biotita rica en Mg), clorita y tremolita. En grados incluso superiores, minerales anhidros como diópsido, forsterita, wollastonita, grossularita y plagioclasa cálcica.
+Básicas
+Al igual que en las rocas ígneas, el término básica hace referencia a un bajo contenido en sílice. Las rocas metamórficas básicas son generalmente derivados de rocas ígneas básicas como basaltos y gabros. Tienen abundancia de minerales de Fe-Mg como biotita, clorita y hornblenda, así como minerales cálcicos como plagioclasa y epidota.
+Magnesianas
+Las rocas ricas en Mg y relativamente pobres en Fe se denominan magnesianas. Estas rocas contienen minerales ricos en Mg, como serpentina, brucita, talco, dolomita y tremolita. En general, estas rocas suelen tener un protolito ultrabásico, como la peridotita, la dunita o la piroxenita.
+Ferriginosas
+Las rocas ricas en Fe con poco Mg se denominan ferriginosas. Estas rocas pueden ser derivados de cherts ricos en Fe o ironstones. Se caracterizan por la abundancia de minerales ricos en Fe, como la greenalita (serpentina rica en Fe), la minnesotaita (talco rico en Fe), la ferroactinolita, la ferrocummingtonita, la hematites y la magnetita en los grados bajos, y la ferrosilita, la fayalita, la ferrohedenbergita y el granate almandino en los grados altos.
+Manganíferas
+Las rocas que se caracterizan por la presencia de minerales ricos en Mn se denominan manganíferas. Se caracterizan por minerales como el estilpnomelano y la espesartina.
+
+
+== Véase también ==
+Petrografía
+Litología
+Lámina delgada (geología)
+Petrología metamórfica
+Petrología sedimentaria
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Best, Myron G. (2002), Igneous and Metamorphic Petrology (Blackwell Publishing) ISBN 1-4051-0588-7. (en inglés)
+Blatt, Harvey; Tracy, Robert J.; Owens, Brent (2005), Petrology: igneous, sedimentary, and metamorphic (W. H. Freeman) ISBN 978-0-7167-3743-8. (en inglés)
+Boggs, S., Jr. (2009), Petrology of Sedimentary Rocks (en inglés), Cambridge University Press .
+Dietrich, Richard Vincent; Skinner, Brian J. (2009), Gems, Granites, and Gravels: knowing and using rocks and minerals (Cambridge University Press) ISBN 978-0-521-10722-8 (en inglés)
+Fei, Yingwei; Bertka, Constance M.; Mysen, Bjorn O. (eds.) (1999), Mantle Petrology: field observations and high-pressure experimentation (Houston TX: Geochemical Society) ISBN 0-941809-05-6. (en inglés)
+Philpotts, Anthony; Ague, Jay (2009), Principles of Igneous and Metamorphic Petrology (Cambridge University Press)  ISBN 978-0-521-88006-0 (en inglés)
+Robb, L. (2005). Introduction to Ore-Forming Processes (Blackwell Science)  ISBN 978-0-632-06378-9 (en inglés)
+Tucker, M. E. (2001), Sedimentary Petrology (en inglés), Blackwell Science .
+
+
+== Bibliografía adicional ==
+Jean-François Beaux, Bernard Platevoet, Jean-François Fogelgesang (2016). Atlas de pétrologie (en francés). Éditions Dunod. 
+Bruce W. D. Yardley; Clare Warren (2021). An introduction to metamorphic petrology (en inglés) (2 edición). Cambridge University Press. ISBN 978-1-108-45648-7. 
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Petrología.

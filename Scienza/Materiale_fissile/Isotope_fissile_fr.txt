@@ -1,0 +1,54 @@
+Un isotope fissile est un élément chimique dont le noyau atomique peut subir une fission nucléaire sous l'effet d'un bombardement par des neutrons thermiques ou rapides. Le seul isotope fissile naturel par des neutrons thermiques est l'uranium 235, les autres étant produits artificiellement.
+Le terme « fissible », à l'emploi moins répandu, peut renvoyer soit à des isotopes fissiles, soit à des isotopes susceptibles de fissionner uniquement sous l'effet d'un bombardement de neutrons rapides à l'exclusion des neutrons thermiques, soit à des isotopes susceptibles de fissionner par des neutrons rapides.
+
+
+== Définition ==
+Un isotope est dit fissile si son noyau atomique peut subir une fission nucléaire sous l'effet d'un bombardement par des neutrons thermiques ou rapides. Le seul isotope fissile naturel par des neutrons thermiques est l'uranium 235, les autres étant produits artificiellement (voir liste ci-dessous).
+Un isotope « fissible » est, selon les sources :
+
+soit simplement un isotope fissile ;
+soit un isotope avec lequel il est possible d'obtenir une réaction en chaîne par des neutrons rapides (selon cette définition, l'uranium 238 n'est pas fissible mais le plutonium 240 l'est)[source secondaire souhaitée] ;
+soit un isotope susceptible de fissionner sous l'effet d'un bombardement de neutrons rapides.
+
+
+== Principaux isotopes fissiles ==
+Les principaux isotopes fissiles avec un neutron thermique sont :
+
+protactinium : 23091Pa ;
+thorium : 22790Th ;
+uranium : 23192U, 23292U, 23392U et 23592U ;
+neptunium : 236m93Np et 23893Np ;
+plutonium : 23694Pu, 23794Pu, 23994Pu, 24194Pu et 24394Pu ;
+américium : 24195Am, 242m95Am, 24295Am et 24495Am ;
+curium : 24296Cm, 24396Cm, 24596Cm et 24796Cm ;
+californium : 24997Cf et 25197Cf.
+Lorsque les neutrons sont rapides, d'autres noyaux peuvent fissionner.
+
+
+== Production ==
+
+Seul l'uranium 235 se trouve dans la nature, et constitue de ce fait le point d'entrée du cycle du combustible nucléaire : les autres isotopes sont obtenus par transmutation d'isotope fertile. Ils ne sont pas tous exploitables de manière industrielle.
+
+23392U est produit par le cycle du thorium, dont il constitue l'élément fissile.
+23994Pu et 24194Pu sont produits dans le cycle du plutonium : ils participent à la production d'énergie à partir de l'uranium, mais peuvent également servir de combustibles dans les cycles surgénérateurs. Ces deux isotopes sont des constituants du plutonium qui peut être récupéré par retraitement nucléaire. La demi-vie de 24194Pu, qui n'est que de 14,3 ans, le rend difficilement exploitable de manière autonome.
+24195Am fait également partie du cycle du plutonium ; mais sa demi-vie de 432 ans le rend très radioactif et difficilement exploitable industriellement.
+Le 22790Th a une période de 18,5 jours, le 23893Np a une demi-vie de 2,11 jours, le 24394Pu une demi-vie de moins de cinq heures, 24295Am de 16 h et 24495Am de 10 h : ces demi-vies très faibles les rendent en pratique impropres à un quelconque usage technique.
+Les isotopes 24998Cf et 25198Cf ne sont pas commodément productibles en quantité significative.
+Parmi les isotopes du curium (qui appartiennent tous au cycle du plutonium), seul le 24596Cm a une demi-vie suffisante pour une éventuelle exploitation technique.
+
+
+== Emploi ==
+Dans les filières industrielles actuelles, l'uranium 235 et les isotopes 239Pu et 241Pu du plutonium servent à un usage civil (combustible dans les réacteurs nucléaires) ou militaire (bombe A).
+L'uranium 233 est aussi utilisé dans le cycle du thorium, mais de manière plus confidentielle, principalement pour le programme nucléaire de l'Inde.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Isotope fissible
+Isotope fertile
+ Portail de la physique   Portail de l’énergie   Portail du nucléaire

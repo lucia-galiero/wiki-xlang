@@ -1,0 +1,45 @@
+In ingegneria nucleare un materiale fissile è un materiale che è in grado di sviluppare una reazione a catena di fissione nucleare.
+
+
+== Descrizione ==
+Tutti i materiali fissili sono equamente in grado di sostenere una reazione a catena in cui dominano o i neutroni termici o i neutroni veloci. Cioè possono essere usati come carburante di:
+
+un reattore nucleare con moderatore di neutroni
+un reattore veloce, senza moderatore
+un esplosivo nucleare
+"Fissile" è da distinguere da "Fissionabile": si dice "Fissionabile" di tutti quei materiali con atomi che possono essere posti in fissione mentre "Fissile" significa che sviluppa una reazione a catena con neutroni lenti. "Fissile" inoltre, è più restrittivo di "Fissionabile": sebbene tutti i materiali fissili siano fissionabili, non tutti i materiali fissionabili sono fissili. Alcune autorità spesso utilizzano il termine "fissionabile" per indicare solo materiali non fissili.
+In particolare, l'uranio-238 è fissionabile ma non fissile. La rapida fissione dell'uranio-238 nel terzo stadio delle armi fissione - fusione - fissione contribuisce fortemente al loro rendimento e al loro potere distruttivo. La veloce fissione dell'uranio-238 genera anche un contributo importante per la potenza in uscita di alcuni reattori chiamati reattori a neutroni veloci. Comunque, l'uranio-238 non può realizzare la criticità da sé, quindi gli usi precedentemente descritti sono entrambi dipendenti dalla quantità di materiale fissile presente per sostenere la catena di reazioni.
+I materiali fissili più importanti 
+
+Uranio-235
+Plutonio-239.
+Tutti questi sono usati con successo come combustibile nucleare. Anche il Plutonio-241 e il Nettunio-237 sono importanti elementi fissili, ma non sono usati direttamente come combustibile nucleare, bensì rimangono mischiati agli altri isotopi dopo il riprocessamento. Anche altri isotopi transuranici sono fissili, tutti questi hanno numero atomico pari e numero di massa dispari. Questi sono:
+
+Curio-244
+Americio-241
+Per essere usato come combustibile per una reazione di fissione a catena, il materiale deve:
+
+Essere nella regione della curva dell'energia di legame dove una catena di fissione è possibile (cioè sopra il radio)
+Avere un'alta probabilità di fissione da cattura di neutroni
+Rilasciare due o più neutroni in media per fissione
+Avere una vita media ragionevolmente lunga
+Essere disponibile in quantità adatte
+I materiali fissili possono essere categorizzati [1]:
+
+Classe fissile I: nessun controllo
+Classe fissile II: limite sulla quantità di materiali trasportati
+Classe fissile III: trasporti speciali sono necessari
+
+
+== Note ==
+
+
+== Voci correlate ==
+Materiale fertile
+Prodotti di fissione
+Fusione nucleare
+
+
+== Collegamenti esterni ==
+
+(EN) fissile material / fissile core, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

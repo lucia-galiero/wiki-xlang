@@ -1,0 +1,41 @@
+El sistema cristalino ortorrómbico, o simplemente rómbico, es uno de los siete sistemas cristalinos existentes en cristalografía. Muchos minerales cristalizan en este tipo de red, como por ejemplo el olivino o el topacio.
+
+
+== Forma del cristal ==
+Se caracteriza porque la celda unidad de la red cristalina tiene la forma geométrica con los tres ángulos rectos, mientras que las tres aristas de dicha celda unidad tienen todas longitudes diferentes. Los tres vectores que definen la celda es lo que en matemáticas se denominan mutuamente ortogonales. La característica que lo distingue de los otros seis sistemas cristalinos es que, o bien tiene tres ejes binarios o bien un solo eje binario con dos planos de simetría.
+
+
+== Tipos ==
+Existen cuatro variedades principales de este tipo de cristal:
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Los cristales de este sistema se clasifican en las tres clases siguientes:
+
+Piramidal
+Diesfenoidal
+Dipiramidal
+
+
+== Referencias ==
+Introducción a la cristalografía: sistema ortorrómbico.
+Sistema ortorrómbico en webmineral.com.
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Sistema cristalino ortorrómbico.

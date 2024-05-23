@@ -1,0 +1,69 @@
+La diagenèse, ou diagénèse, désigne l'ensemble des processus physico-chimiques et biochimiques par lesquels les dépôts de sédiments meubles sont transformés en roches sédimentaires. Ces transformations ont généralement lieu à faible profondeur, donc dans des conditions de pression et de température peu élevées et où les interactions eaux-roches jouent un rôle tout à fait prépondérant dans les processus d'induration. Ces transformations engagent des processus variés, notamment : compaction, déshydratation, dissolution, cimentation, épigénisation, métasomatose.
+Les sédiments sont généralement d'origine détritique (débris d'anciennes roches), mais ils peuvent également comporter, en plus ou moins grandes quantités, des restes d'organismes et de fossiles (le plus souvent microscopiques) et des minéraux apparus par transformations chimiques. Selon le pourcentage de chacun de ces divers éléments, on distingue donc trois types de roches : roches détritiques, roches biochimiques et roches chimiques. Les sédiments sont généralement meubles et riches en eau. La diagenèse consiste en leur transformation chimique, biochimique et physique en roches sédimentaires compactes. Cette transformation se fait en plusieurs étapes, plus ou moins respectées selon la nature du sédiment :
+
+En surface on assiste à :
+
+l'action des êtres vivants : les animaux fouisseurs favorisent le mélange des sédiments fins, et les protozoaires et bactéries interviennent dans la dolomitisation, la formation des phosphates, de la pyrite, du pétrole, des charbons ; les algues, les cyanophycées et certaines bactéries encroutantes ou certaines mousses (bryophytes) favorisent la cristallisation de carbonates en solution sursaturée pour former les travertins ; le rôle des êtres vivants est donc loin d'être négligeable dans la diagenèse ;
+la pédogenèse (naissance des sols), qui intervient dans la formation de roches meubles (argile à silex, latérites) et de roches dures (grès, meulières) ; par exemple, la silice dissoute sous climat humide peut cimenter les sables en grès lors des saisons plus sèches ;
+la dissolution, qui concerne les sédiments émergés : les parties superficielles du sédiment sont dissoutes par action de l'eau et entraînées en profondeur (poupées du lœss) ;
+la déshydratation : lorsqu'un sédiment aquatique est asséché, il y a durcissement et modification de ses propriétés physiques ;
+la cimentation précoce, à la surface de la zone supratidale ou côtière, dans le cas d'une plate-forme « bahamienne », comme la vaste plate-forme carbonatée ancienne du Lias moyen au Maroc (Haut Atlas, Moyen Atlas, rides sud rifaines etc.) soit env. 200 x 300 km. La plate-forme carbonatée s'étend en Algérie et en Tunisie jusqu'en Oman, le long de la marge sud-téthysienne. Un bon exemple actuel de sédimentation et de diagenèse est donné par les dépôts côtiers (de marée et de tempêtes) platiers et « chotts » (sédimentaton cyclique) du fond du golfe de Gabès en Tunisie.
+À faible profondeur ont lieu :
+
+la cimentation : les éléments dissous par l'eau peuvent, en précipitant, cimenter les particules de sédiment entre elles ; on parle aussi de lithification ;
+le concrétionnement : les concrétions sont des accumulations de minéraux particuliers qui ont lieu au cours du dépôt sédimentaire, ou ultérieurement ; selon leur forme, elles portent plusieurs noms : les sphérolites, les nodules, les géodes, les septarias ;
+l'épigénisation et la métasomatose : l'épigénisation correspond à la transformation d'un minéral préexistant en un autre de même composition ; il s'agit souvent d'un changement dans la structure du minéral : par exemple, l'aragonite, contenue généralement dans des restes calcaires d'organismes, se transforme en calcite ; la métasomatose a lieu à plus grande échelle et correspond à la substitution d'un minéral par un autre sans changement de volume : par exemple, le carbonate calcique (CaCO3) est parfois remplacé par du sulfate de fer (ammonites pyriteuses) ;
+la compaction : sous l'effet de la pression des sédiments sus-jacents il y a départ d'eau ; dans un premier temps, l'eau tend à fuir en grande quantité sous l'effet de la charge supportée ; dans un second temps, ce sont les grains qui se réarrangent de façon à supporter cette charge, et il y a tassement.
+
+
+== Une classification de la diagenèse ==
+L’éogénèse est aussi appelée diagénèse précoce. Les fluides agissant dans ce domaine sont en contact avec la surface et avec le CO² atmosphérique. Il peut s’agir de fluides de type météorique ou de fluides de type marin. Ici la chimie des fluides interstitiels est directement contrôlée par l’environnement de surface.
+La mésogénèse, ou diagénèse d’enfouissement. Le domaine de l’enfouissement débute lorsque les eaux porales ne sont plus en relation avec le milieu extérieur (marin ou continental). La chimie des fluides interstitiels est contrôlée par les réactions chimiques de précipitation ou de dissolution au sein de l’encaissant. En général, il est considéré que la limite entre l’éogénèse et la mésogénèse est située environ vers la profondeur de 1 à 2 km et autour d'une température de 30 à 70 °C (Morad et al. 2000). Les effets de la diagénèse d’enfouissement sont progressifs et non brutaux. Pour cette raison, il est difficile de relier précisément un processus diagénétique à une profondeur.
+La télogénèse est enfin la diagénèse liée à l’exhumation des roches. On identifie la limite de la télogénèse lorsque les roches sont de nouveau en contact avec des eaux de surface.
+
+
+== Galerie ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Glossaire de géologie
+Cycle géologique
+Néogène
+Néomorphisme
+Tuyaux de Baigong
+
+
+=== Liens externes ===
+Les roches sédimentaires
+ Portail de la géologie

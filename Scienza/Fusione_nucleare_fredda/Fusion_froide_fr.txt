@@ -1,0 +1,241 @@
+« Fusion froide » est une expression médiatique qui désigne des réactions supposées nucléaires à température et pression ambiantes.
+La plus connue est celle qui semble être une fusion nucléaire réalisée selon des techniques dérivées d'une expérience réalisée par Martin Fleischmann et Stanley Pons en mars 1989. Cette expérience se caractérisait par un dégagement de chaleur non explicable par la quantité d'énergie électrique reçue (faisant fondre l'électrode). Mais les conditions expérimentales ne permettaient pas d'exclure une origine extérieure non maîtrisée à cette énergie qui semblait excédentaire.
+Le terme de « fusion froide » apparaît en 1956 dans un article du New York Times décrivant le travail de Luis W. Alvarez sur la catalyse par muon. E. Paul Palmer de l'université Brigham Young a aussi utilisé le terme en 1986 dans son investigation sur la « géo-fusion », la possible existence de la fusion dans le cœur des planètes. Les phénomènes de ce domaine de recherche sont aussi appelés low-energy nuclear reactions (LENR, pour « réactions nucléaires à basse énergie »), CANR, LANR, CMNS, BL, Sonofusion, Bubble fusion, CNT ou « transmutations biologiques ».
+L'expression « fusion froide » n'est pas admise par la majorité de la communauté scientifique, parce que l'expérience de Pons et Fleischman est difficilement reproductible et a déclenché une polémique mondiale sur la vérification effectuée par les comités de lecture. Le principe même de la fusion froide reste controversé, certains n'hésitant pas à assimiler ces expériences à celles de l'alchimie et des tentatives de transmutation du plomb en or ; les processus physiques reconnus permettant d'aboutir de façon avérée à des réactions de fusion nucléaire, utilisables pour la production d'énergie, nécessitant en effet des pressions et des températures extrêmement élevées.
+Toutefois, des processus de réaction nucléaire à faible énergie peuvent faire l'objet de recherches scientifiques,, financés par des institutions publiques, universités et groupes industriels. L'International Society for Condensed Matter Nuclear Science (ISCMNS) est l'organisation de référence dans ce domaine. Elle organise des conférences périodiques, telles que les International Conference on Condensed Matter Nuclear Science (en) (ICCF), rencontres annuelles controversées et les workshops on anomalies in hydrogen loaded metals (« ateliers sur les anomalies au sein de métaux chargés en hydrogène »).
+
+
+== Domaine de la fusion froide ==
+Pour les chercheurs en fusion nucléaire standard, le mot « fusion » désigne la formation d'un noyau atomique à partir de deux autres projetés violemment l'un contre l'autre à une vitesse très élevée (qui peut être issue par exemple d'une température très élevée, de l'ordre de plusieurs millions de degrés). Une autre méthode connue concerne la fusion nucléaire par catalyse muonique.
+L'expression « fusion froide » est plus généralement utilisée par la presse et le grand public pour parler d'expériences provoquant un dégagement inexpliqué de chaleur, qui serait provoqué par une réaction nucléaire encore inconnue, à température ambiante et sans radiations ionisantes. Les chercheurs de ce domaine utilisent diverses expressions pour caractériser des sous-domaines, :
+
+LENR : (en anglais : Low Energy Nuclear Reactions) réactions nucléaires à faible énergie, quelquefois appelées fusion froide.
+CANR : (en anglais : Chemically Assisted Nuclear Reactions) réactions nucléaires chimiquement assistées.
+LANR : (en anglais : Lattice Assisted Nuclear Reactions) réactions nucléaires assistées par un réseau cristallin.
+CMNS : (en anglais : Condensed Matter Nuclear Science) science nucléaire dans la matière condensée, par opposition avec les réactions nucléaires étudiées dans le vide des accélérateurs de particules.
+BL, Sonofusion, Bubble fusion : (en anglais : Ball-Lightning) fusion par onde de choc ultra-sonique, ou cavitation.
+CNT : (en anglais : Cold Nuclear Transmutation) transmutation nucléaire à froid.
+Transmutations biologiques : réactions nucléaires provoquées et contrôlées par les organismes biologiques.
+Ces divers concepts sont étudiés dans un rapport titré La fusion froide n'est ni l'une ni l'autre.
+
+
+== Conférences internationales ==
+Depuis 1989, des conférences internationales se sont réunies sur le sujet, ainsi que des réunions moins solennelles soit sur la fusion froide proprement dite, soit sur le thème plus général des nouvelles énergies, ignorées par la presse scientifique.
+L’Académie des sciences de la fédération de Russie organise tous les ans les conférences RCCNT (Russian Conferences on Cold Nuclear Transmutation of Chemical Elements).
+
+Des équipes américaines, italiennes et japonaises continuent à travailler depuis plus de vingt ans sur le sujet et elles estiment avoir obtenu des résultats confirmant qu'un tel phénomène existe (on ne le nomme toutefois plus « fusion froide », mais Réactions Nucléaires dans la Matière Condensée ou réactions nucléaires à basse température ou réactions nucléaires chimiquement assistées). Ces équipes revendiquent la réalité du dégagement de chaleur (supérieur de 25 à 70 % à l'énergie fournie). Certaines affirment avoir mis en évidence la production d'hélium. Certains physiciens, comme Peter L. Hagelstein du MIT (Cambridge, États-Unis) ou Widom et Larsen, en ont proposé une théorie.
+En 2012, l'Agence internationale de l'énergie renouvelable a intégré à des groupes de travail les LENR et les CMNS à la recherche de solutions pour des énergies renouvelables.
+En 2017, la conférence internationale IWAHLM a été organisée et sponsorisée par Airbus, HERA et autres.
+
+
+== Origines ==
+Le terme de « fusion froide » est devenu commun par la controverse entourant l'expérience de Fleischmann et Pons en mars 1989. Plusieurs équipes de recherche ont alors tenté de reproduire leurs résultats, sans y parvenir. Un comité organisé par le département de l'Énergie des États-Unis a alors conclu qu'il n'y avait pas de preuves convaincantes qu'une source d'énergie utile pourrait résulter de ces recherches. Cinq ans plus tard, la plupart des gouvernements et des chercheurs déclaraient ne plus poursuivre de recherches sur le phénomène.
+Indépendamment, en 1989, en observant des échantillons de matière organique, des gangliosides placés dans une atmosphère d'hydrogène sur un support de nickel, le professeur italien Francisco Piantelli a remarqué une production de chaleur anormale. Avec Sergio Focardi et Roberto Habel, il a alors étudié ce phénomène et ils affirment être arrivés à une expérience parfaitement vérifiable, dont le développement a conduit en 2011 à la réalisation du catalyseur d'énergie de Rossi et Focardi. Ils ont toujours estimé que ce phénomène était différent de celui de Fleischmann et Pons et le désignaient plutôt comme une « réaction nucléaire à basse énergie » (LENR).
+Quelques chercheurs ont cependant continué les recherches et organisé des conférences internationales sur la fusion froide. Leurs travaux, publiés dans des revues scientifiques réputées,,, confirmaient un dégagement d'énergie non expliqué, ou parfois des effets nucléaires. La précision des calorimètres a progressé, conclut en 2004 un second comité du département de l'Énergie des États-Unis, et les indices de génération anormale d'énergie semblent moins contestables qu'en 1989. Cependant, selon son rapport, de nombreuses expériences sont mal documentées, l'amplitude du phénomène n'a pas augmenté, il est difficile à reproduire, et une origine nucléaire reste généralement exclue. Le comité s'est donc opposé au financement d'un programme de recherche majeur, et a identifié différents domaines de recherche susceptibles de résoudre la controverse scientifique.
+
+
+== Expérimentations ==
+
+
+=== Palladium ===
+
+Le 23 mars 1989, la une du Financial Times déclenche une onde de choc : deux électrochimistes, Stanley Pons et Martin Fleischmann de l'université d'Utah, y déclarent avoir réussi à obtenir une réaction de fusion nucléaire lors d'une relativement banale expérience d'électrolyse effectuée avec une simple paire d'électrodes (dont une de palladium) reliées à une batterie et immergées dans de l'eau lourde.
+Lors de cette expérience, ils auraient mesuré un important dégagement de chaleur excédentaire qu'ils interprètent comme la résultante d'un phénomène de fusion nucléaire contrôlée. Ce type de réaction nucléaire, au cours de laquelle des noyaux atomiques fusionnent en générant une très grande quantité d'énergie, est en quelque sorte le Graal des physiciens qui s'efforcent depuis plus de cinquante ans de contrôler les mécanismes à l'origine du fonctionnement des étoiles, mais également des bombes thermonucléaires. La maîtrise de cette source d'énergie quasi illimitée libérerait l'humanité des contraintes liées à l'exploitation de ressources énergétiques non renouvelables ou générant des déchets dangereux, comme c'est le cas actuellement pour le nucléaire « classique » reposant sur le principe de la fission des noyaux atomiques.
+L'annonce du Financial Times arrive dans un contexte bien particulier : trois ans auparavant, Tchernobyl a signifié à l'ensemble de la planète que l'énergie nucléaire de fission peut présenter des dangers considérables et les programmes électro-nucléaires engagés au lendemain du premier choc pétrolier de 1973 commencent à être de plus en plus critiqués par l'opinion publique des principaux pays industrialisés.
+Les travaux sur la fusion thermonucléaire contrôlée marquent toujours le pas depuis 50 ans, malgré les milliards de dollars investis et, après les chocs pétroliers des années 1970, les consommations énergétiques ont repris leur progression. Malgré l'implosion du Bloc de l'Est, le contexte géopolitique reste incertain, avec la montée des fondamentalismes religieux et du nationalisme dans les principaux pays producteurs de pétrole.
+Dans ce contexte, la perspective ouverte par Pons et Fleischmann de produire des quantités d'énergie quasi-illimitées à partir de l'eau, tombe à point nommé.
+Le débat dépasse donc le cadre feutré des publications scientifiques : l'information est reprise par la plupart des quotidiens et chaînes de télévision du monde et présentée comme ce qui peut être, à juste titre, une découverte scientifique majeure, mais également la promesse d'un nouvel âge pour l'Humanité.
+Quand la découverte de cette « fusion froide » est publiée, de nombreux scientifiques contestent, sinon la réalité du dégagement de chaleur décrit par les deux électrochimistes, du moins leur hypothèse concernant une fusion thermonucléaire. Ils rappellent qu'il n'est théoriquement pas possible de vaincre par des moyens « électro-chimiques », tels que l'électrolyse décrite par Pons et Fleischmann, les forces électriques qui font que deux noyaux atomiques se repoussent.
+Selon les théories scientifiques admises depuis plusieurs décennies, deux noyaux atomiques exigent en effet pour fusionner une énergie permettant de franchir la barrière coulombienne. La fusion « à chaud » permet d'obtenir cette énergie, mais sauf effet nucléaire comparable à la catalyse en chimie, cette barrière ne peut être franchie à froid.
+Trois jours après la publication du Financial Times, Steven E. Jones de l'université Brigham Young n'observe pas de dégagement de chaleur, mais l'émission de neutrons pouvant indiquer une réaction nucléaire, qui confirmerait indirectement l'hypothèse de Pons et Fleishmann.
+Certains scientifiques, dont le prix Nobel de physique Julian Schwinger, prennent l'hypothèse au sérieux. Quelques-uns déclarent même confirmer également des dégagements inexplicables alors qu'ils tentent de reproduire l'expérience des deux électrochimistes.
+L'Energy Research Advisory Board du département américain pour l'énergie réunit ainsi une commission scientifique afin d'enquêter sur la fusion froide. Celle-ci ne peut reproduire la fusion froide en question.
+Le débat s'intensifie entre les tenants d'un phénomène encore inexpliqué mais devant faire l'objet de travaux approfondis, et les opposants pour lesquels, dans le meilleur des cas, le dégagement de chaleur est imputable à un mauvais protocole opératoire, et dans la pire hypothèse, à un coup monté par des chercheurs à la recherche de notoriété et de budget. Les cours du palladium, quant à eux, montent et descendent au gré des annonces et contre-annonces.
+Le fait que Pons et Fleischmann aient annoncé leur découverte par le biais de la presse grand public plutôt que dans une revue scientifique avec évaluation par les pairs, procédure habituelle en matière de communication scientifique d'importance, leur est reproché. Il est en effet d'usage d'annoncer les résultats de travaux scientifiques dans des revues qui soumettent l'article en premier lieu à un ou plusieurs experts scientifiques chargés de vérifier que la description de l'expérience, l'analyse des résultats et les conclusions qui en découlent répondent aux critères de la démarche scientifique. Les revues scientifiques d'audience internationale, telles que Nature, s'attendent à ce protocole, et les scientifiques qui espèrent obtenir pour leurs travaux une reconnaissance internationale se soumettent à cette règle importante pour l'obtention de crédits, la notoriété de leur laboratoire et éventuellement la suite de leur carrière (selon la doctrine « publish or perish » conditionnant depuis quelques années, avec la quête de financement, le quotidien des chercheurs). Dans les faits, Pons et Fleischmann ont bien soumis à Nature un article relatant leur découverte, mais son comité de lecture a constaté qu'il ne pouvait pas être publié avant que certaines erreurs ne soient corrigées. Fleischmann et Pons ont dit qu'ils n'avaient pas le temps de corriger ces erreurs, et l'article n'est jamais ressoumis.
+Dix ans après les faits, la « précipitation médiatique » dont ont fait preuve les deux scientifiques est encore citée comme exemple de manque de sérieux. L'expérience décrite par eux manquait de robustesse : ils ne précisent pas s'ils ont observé la formation de neutrons et d'hélium, normalement présents lors d'une réaction de fusion thermonucléaire (on les qualifie de « cendres » de la réaction de fusion), et les conditions mêmes de mesure des températures lors de l'expérience pourraient être cause d'erreurs.
+Les « pères fondateurs » Pons et Fleischmann se voient offrir par Toyota la possibilité de poursuivre en France leurs travaux dans un laboratoire abrité au sein de l'Institut Minoru de Recherches Avancées (IMRA) de Sophia Antipolis et ce jusqu'à la retraite de Pons qu'il prend en France en 1999 (Fleischmann l'a prise deux ans auparavant en Angleterre). Les enjeux industriels étant considérables, très peu d'informations filtrent de ce laboratoire. Cependant, en 1993, à ICCF4 à Maui, les deux chercheurs annoncent pouvoir produire vers la fin de l’année jusqu'à 200 kW, annonce qui n'est pas suivie de preuves.
+Lorsque l'eau est électrolysée dans un vase entouré d'un calorimètre, il est possible de vérifier la loi de conservation de l'énergie en utilisant les théories de l'électricité, de la thermodynamique et de la chimie : l'énergie électrique en entrée, la chaleur accumulée dans le vase, l'énergie chimique stockée et la chaleur s'échappant du vase s'équilibrent parfaitement. Lorsque la cathode est constituée de palladium et lorsque l'eau est remplacée par de l'eau lourde, on s'attend aux mêmes transferts d'énergie.
+Fleischmann et Pons observent dans leurs expériences que, dans certains cas, la quantité de chaleur mesurée par le calorimètre semble plus grande que prévu. Lorsqu'ils calculent la densité de puissance sur base du volume de la cathode, ils obtiennent une valeur trop grande pour être explicable par une réaction chimique. Ils en concluent provisoirement que l'effet peut être nucléaire, malgré l'absence de preuves expérimentales.
+D'autres scientifiques essayent de reproduire ces résultats. Beaucoup échouent, mais quelques-uns réussissent et publient leurs résultats dans des journaux scientifiques comme le Japanese Journal of Applied Physics[source insuffisante] et le Journal of Electroanalytical Chemistry[source insuffisante],. Certains chercheurs pensent qu'il y a suffisamment de preuves expérimentales pour établir la validité scientifique du phénomène, tandis que d'autres rejettent ces preuves : en 2004, le comité d'évaluation du département de l'énergie américain est divisé de façon égale sur cette question (changement significatif par rapport aux conclusions du comité équivalent de 1989).
+La recherche de produits de fusion nucléaire donne des résultats contradictoires, ce qui amène deux tiers du comité de 2004 à rejeter la possibilité de réactions nucléaires lors de ces expériences. Les théories physiques actuelles n'expliquent pas comment la fusion nucléaire pourrait survenir dans ces expériences où l'énergie générée serait convertie en chaleur (plutôt qu'en rayonnement ou particules).
+En 2006, Mosier-Boss et Szpak, chercheurs à la marine américaine, annoncent des indices non ambigus de réactions nucléaires, qui devront être confirmées de façon indépendante par d'autres chercheurs.
+Le bureau américain des brevets accorde en 2001 un brevet concernant la fusion froide. La connaissance actuelle du phénomène, s'il est réel, ne permet pas d'envisager des applications commerciales dans un avenir proche. Le comité de 2004 a identifié plusieurs domaines de recherche à conduire par la méthode scientifique : la recherche continue.
+D'autres métaux que le palladium peuvent, selon plusieurs rapports d'expérimentateurs et sous couvert de l'affirmation de l'existence de la réaction, servir à la fusion froide : typiquement, la famille des métaux précieux, tel que l'iridium, l'osmium, le platine, le rhodium et le ruthénium est suspectée d'avoir les propriétés suffisantes pour entretenir cette réaction. Des expériences, néanmoins jamais reproduites par la communauté, ont aussi mis en cause le nickel ou le fer. Dans le cadre d'une possible utilisation industrielle, le remplacement du palladium cher par un métal plus abondant est primordial.
+Les expérimentateurs affirment que la fusion s'accompagne aussi d'une transmutation au niveau de la cathode. De l'or, de l'argent, du chrome, du fer et du cuivre auraient ainsi été découverts, ce qui alimente les théories ésotériques de la proximité de l'alchimie et de la fusion froide, même si les scientifiques apprécient peu ce rapprochement. De plus, il aurait été détecté aux abords d'un réacteur à fusion froide près de 1 000 fois le bruit de fond neutronique. Toutes les expériences ne produisent cependant pas des neutrons, ou alors en trop faible quantité pour être significative.
+Malgré le scepticisme de la communauté scientifique internationale, Science et Vie discute en 2004 des expériences peu connues qui tentent d'obtenir de véritables réactions nucléaires à température ambiante. Antonella De Nino travaillant à l'ENEA affirme que son équipe a montré, dans une expérience qui s'est terminée fin 2002, qu'à partir d'une certaine concentration de deutérium dans le palladium, on observe un excès de chaleur et une production d'hélium 20 fois supérieure au « bruit de fond » lié aux contaminations extérieures. Selon Giuliano Preparata (en) et Martin Fleischmann, il convient d'utiliser la théorie quantique des champs qui conçoit les interactions elles-mêmes en termes de particules.
+Le magazine New Scientist annonce dans son édition en ligne le 27 avril 2005 qu'une réaction de fusion tiède, par fusion pyroélectrique, aurait été obtenue à l'université de Californie. En utilisant des cristaux de tantalate de lithium et l'effet pyroélectrique (il faut réchauffer de −33 °C à +7 °C en quelques minutes ces cristaux plongés dans un bain de gaz de deutérium afin de produire un champ électrique local), ils auraient réussi à produire un flux, faible mais mesurable, de neutrons[réf. nécessaire].
+Les auteurs soulignent à grands traits qu'ils n'ont pas mis au point une nouvelle source d'énergie : leur expérience aurait produit quelques centaines de neutrons par seconde, alors qu'un réacteur nucléaire commercial aurait besoin d'en produire des dizaines de millions par seconde.
+Le 22 mai 2008, Yoshiaki Arata, un physicien nucléaire japonais, a fait publiquement une expérience de ce qu'il appelle la « fusion de la matière condensée » avec une méthode dérivée de Pons et Fleischmann.
+
+
+=== Nickel ===
+
+Le catalyseur d'énergie, ou E-Cat (pour Energy Catalyzer), est un appareil inventé en 2010 par Andrea A. Rossi et le professeur Sergio Focardi. Cet appareil serait le premier équipement destiné à l'usage domestique de fusion froide du nickel, bien que la communauté scientifique n'y voie qu'une pseudo-science.
+
+
+=== Fusion froide par cavitation ===
+
+Depuis 2002, des chercheurs explorent les possibilités de la cavitation pour réaliser la fusion froide et pour mieux comprendre les conditions de production de neutrons et d'énergie par cette voie,.
+Dans de l'acétone au deutérium, une radioactivité de tritium a été detectée, l'émission de neutrons de 2,5 MeV a été observée et la température au centre d'implosion des bulles a atteint 106 à 107 K, ce qui correspond aux conditions requises pour des réactions de fusion nucléaire.
+Une autre expérience de base consiste à injecter un liquide sous haute pression dans un tuyau de 1 mm de diamètre, ce qui provoque à la sortie une cavitation où les atomes sont fortement projetés les uns contre les autres. On observe alors des fusions ou fissions nucléaires, des effets thermiques, l'émission de lumière et des décharges électriques :
+
+en 2005, une équipe américano-canadienne observe un jet à 70 bars qui produit des étincelles électriques et une lueur bleue caractéristique d'une température de 5 000 K ;
+en 2009, A. A. Kornilova et V. I. Vysotskii observent des émissions optiques et rayons X corrélées à la cavitation d'un jet d'eau supersonique entre 200 et 3 000 atmosphères. Sur une surface d'argent pur, par cavitation à 3 000 atmosphères, des atomes transmutent en C, O, Na, Al, S, K, Ca,.
+
+
+=== Transmutations par effondrement électrons-noyaux ===
+En 2003, une équipe russe découvre un nouveau processus physique en sur-compressant un faisceau d'électrons sur une cathode de métal pur. Ils sur-compressent un faisceau d'électrons de 0,5 MeV sur une zone de moins d'un angström d'une cathode de métal pur, pendant 30 ns. Une masse de 0,5 à 1 mg d'atomes se transforme sur la cathode et sur des plaques de métal pur distantes de 1 à 10 cm. Les produits émis par la zone active (électrons, positrons, ions, particules nucléaires et paquets (clusters), chargés et neutres) sont analysés en temps réel et, après chaque expérimentation, des analyses mesurent les éléments chimiques, isotopiques, la répartition spatiale des atomes et les rayonnements visibles, micro-ondes et gamma.
+Presque tous les atomes qui se forment dans les plaques distantes sont situés dans quelques petites zones, dans certaines directions précises par rapport au faisceau et à la cathode, aux mêmes profondeurs et avec la même dispersion pour tous les éléments. Ce positionnement des atomes n'est pas compatible avec la décélération de Coulomb d'atomes ionisés déjà formés.
+Ces chercheurs interprètent ainsi ces observations :
+
+globalement, les électrons à faible énergie s'effondrent avec les noyaux en un plasma à faible énergie ;
+de grosses particules composées de quelques milliers de nucléons se forment ;
+ces grosses particules sont projetées vers les plaques, y sont décélérées et finissent par se décomposer en atomes. Cela :
+surtout en surface sur 20 nanomètres d'épaisseur ;
+puis pour 25 % vers 0,3 micromètre de profondeur avec une masse de particule de l'ordre de 5 700 nucléons, selon l'amortissement du mouvement des particules ;
+puis un résidu vers 7 micromètres de profondeur avec une masse de particule de l'ordre de 100 000 nucléons.
+Globalement, ils ont réalisé plus de 15 000 analyses et observent :
+
+pendant le processus d'effondrement et ses suites pendant 100 ns, une intense radiation X et gamma ;
+une synthèse de noyaux atomiques tous stables, de l'hydrogène H au plomb Pb (avec 1 ≤ A ≤ 240) ;
+une fusion d'éléments transuraniens super-lourds (avec 250 ≤ A ≤ 500), surtout A = 271, 272, 330, 341, 343, 394, 433 ;
+les éléments formés n'ont pas la même composition isotopique que les éléments naturels, souvent dans un rapport de 5 à 100 en plus ou en moins.
+
+
+=== Transmutations biologiques ===
+En biologie, Louis-Nicolas Vauquelin aurait observé en 1799, et mesuré précisément, qu'une poule nourrie d'avoine avec très peu de calcium en produit assez pour former une coquille d'œuf dure. Corentin Louis Kervran n'a pas reproduit, mais a précisément transmis cette observation en 1975.
+En 1959, avec le Professeur Pierre Baranger et d'autres, il a émis l'hypothèse des transmutations biologiques, donnant ainsi naissance au champ de recherche de la transmutation biologique,,,.
+En 1993, Louis Kervran a reçu le prix parodique Ig Nobel de physique (après sa mort et après avoir été proposé au Prix Nobel par trois universités) pour sa conclusion que le calcium des coquilles d'œufs de poule est créé par un processus de fusion froide.
+Louis Kervran avait remarqué, dans sa jeunesse en Bretagne, que les poules dans un environnement faible en calcium picoraient des graines de mica.
+En 1975, il attribue cette modification de silice en calcium à une transmutation de potassium en calcium dans ce cas (K+H:=:Ca).
+
+
+=== Autres expérimentations ===
+En France, le débat fut très vite clos : Jean Teillac, alors haut-commissaire à l'énergie atomique (CEA), refusa d'engager des recherches sur la question.
+On engagea cependant un rapide programme d'expériences à la centrale du Bugey, autant pour démontrer qu'en France il n'y avait pas d'interdit sur la fusion froide au CEA, que pour tenter de démontrer l'inanité de recherches en ce domaine. Peu de temps après, Michel Martinot, son directeur de cabinet, expliqua dans les colonnes du Figaro du 9 juin 1993 que rien ne s'opposait à ce que les chercheurs du CEA travaillassent sur la question de la fusion froide, pourvu qu'ils le fissent chez eux, le week-end et sur leurs propres ressources financières.
+Cependant, quelques scientifiques français, tel Jean-Paul Bibérian à Marseille, s'engagèrent sur cette voie. D'autres purent bénéficier d'un financement de la part de certaines compagnies pétrolières attentives aux développements d'une possible découverte majeure pour l'humanité.
+Michel Rambaut, ancien du CEA, développa à partir de 1994 un modèle théorique faisant intervenir des clusters d'électrons, mais pointa les limites de puissance qui empêchaient, selon lui, toute possibilité d'application industrielle.
+Jacques Dufour, du Laboratoire des sciences nucléaires du Conservatoire national des arts et métiers de Paris, aurait réussi à faire financer ses recherches sur le sujet par Shell.
+En 2009, Pamela Mosier-Boss, chercheuse à la marine américaine, place des électrodes soit en nickel soit en or dans un électrolyte obtenu par codéposition de dichlorure de palladium et de chlorure de deutérium. En quelques secondes, l'électrolyse produit des neutrons détectés par leurs traces dans du plastique CR-39,.
+
+
+== Théories ==
+
+
+=== Hypothèse de Ernest J. Sternglass ===
+D'après Max Fomitchev-Zamilov, Ernest J. Sternglass (en)aurait réalisé en 1951 une synthèse de neutrons (à partir de protons et électrons et d'arcs électriques) et proposé une théorie, encouragé par Einstein.
+Dans une lettre à Einstein du 26 août 1951, il aurait écrit : avec « un tube capable de dissiper 1 200 watts plein d'hydrogène… et des courants jusqu'à 40 mA… Le neutron induit des activités bêta… 10 à 20 neutrons par seconde à 38 mA et 25 kV… ce qui appuie la vue que le neutron est une entité purement électromagnétique composée d'un proton et d'un électron fortement « déformé ». »
+
+
+=== Hypothèse de Widom-Larsen ===
+En 2006, Lewis Larsen et Allan Widom présentent une hypothèse de transmutation en quatre étapes pour les réactions LENR. Ils expliqueraient ainsi les effets collectifs dans ces réactions et comment le domaine des produits chimiques s'interface avec le domaine nucléaire pour créer des réactions nucléaires à énergie réduite,,, LENR (en anglais Low-Energy Nuclear Reactions) signifie réactions nucléaires à faible énergie (par comparaison aux réactions nucléaires dites fortes qui ne se produisent qu'à des millions de degrés).
+
+Les électrons se déplacent très vite par rapport aux noyaux et se comportent comme s'ils en étaient découplés. Dans les hydrures métalliques, Lewis Larsen envisage une mer d'électrons polarisés à la surface des masses métalliques et formant un plasma. Ce plasma d'électrons collectifs à la surface des hydrures métalliques permet de créer des sortes d'électrons lourds (très énergétiques) sous l'influence de champs électromagnétiques.
+
+Étape 1 : Ainsi, des champs électromagnétiques formeraient des électrons lourds dans le plasma d'électrons, en surface des hydrures métalliques.
+Étape 2 : Les électrons peuvent alors fusionner avec des protons de l'hydrogène, former des neutrons, et l'énergie en excès est emportée par des neutrinos.
+Étape 3 : Un neutron peut être capturé par un noyau métallique proche qui produit soit un isotope stable soit un isotope instable.
+Étape 4 : Si le noyau est instable, un de ses neutrons se décompose en un proton, un électron énergétique et un anti-neutrino électronique. L'électron énergétique provoque une décomposition béta.
+L'étape 2 peut concerner de l'hydrogène normal (proton p+) ou de l'hydrogène lourd (deutérium d+).
+Les étapes 1, 2 et 4 ne comportent que des interactions faibles.
+L'étape 3, une capture de neutron, est une interaction forte mais n'est pas une fusion nucléaire du modèle standard. Il ne s'agit donc pas de « fusion froide » au sens de la fusion thermonucléaire, mais de LENR, un des sous-domaines de ce que la presse a nommé fusion froide.
+Pour le centre de recherche Langley de la NASA, « l'avènement de la LENR a été la publication de la théorie de l'interaction faible de Widom-Larsen. Elle est en cours d'évaluation au centre Langley. Elle semble expliquer à peu près tous les aspects des expérimentations de ce domaine, par des effets collectifs dans la matière condensée et sans aucun « miracle ». »
+Le Dr Joseph Zawodny, Senior Research Scientist de la NASA, indique dans une discussion informelle que ce nouveau type de réactions nucléaires « a la capacité démontrée de produire des quantités excessives d'énergie, propre, sans rayonnements ionisants dangereux, et sans produire de déchets agressifs. », et il a déposé un brevet dans ce domaine.
+
+
+==== Réfutation ====
+En 2013, Einar Tennfors publie une réfutation de cette hypothèse, expliquant que dans le modèle proposé par Widom et Larsen, l'augmentation de la masse des électrons est bien trop faible pour pouvoir produire des neutrons.
+
+
+=== Hypothèse de réduction de la barrière de Coulomb ===
+
+La barrière de Coulomb est la répulsion électrostatique entre un noyau atomique et les protons qui pourraient l'approcher. Dans le vide, elle oblige les protons à disposer d'une très grande énergie cinétique pour la franchir.
+Dans la matière dense ordinaire sa grandeur est déterminée par l'équation de Schrödinger, habituellement calculée par rapport à l'état fondamental du noyau. Mais le noyau n'est jamais dans cet état, ne serait-ce que parce qu'il a été créé et qu'il est donc perturbé dès l'origine, mais aussi parce qu'il est soumis en permanence à de nombreuses interactions internes et externes.
+Vladimir I. Vysotskii étudie l'exemple d'une quasi-molécule (MnD)+ située dans un trou de la matière dense classique. Dans ce cas et pour l'ensemble des niveaux d'énergie possibles, Vladimir I. Vysotskii arrive à l'hypothèse suivante :
+
+« Le mécanisme proposé en est capable de fournir à court terme une élimination de la barrière de Coulomb dans les trous de micro-potentiel, avec une structure quasi-parabolique » ;
+pour la première fois la désactivation de l'isotope 137Cs est accélérée 35 fois par rapport à la période de désintégration classique ;
+l'énergie d'interaction du noyau est une fonction à signe variable de la distance au centre du noyau Mn ;
+la situation s'améliore sensiblement quand les paramètres du trou varient lentement et passent alors inévitablement par des valeurs optimales pour l'annulation de la barrière de Coulomb et les réactions nucléaires ;
+ces variations lentes se produisent dans les cultures micro-biologiques, lors la reproduction de l'ADN, de la formation des membranes, des cellules et d'autres objets biomoléculaires ;
+une association optimale de divers types de microbes est 20 fois plus efficace qu'un seul type « pur » ;
+« Nous croyons que tous les effets isotopiques observés peuvent être caractérisés comme le processus « régulier » de la transmutation des isotopes et des éléments qui se produit dans des systèmes biologiques. »
+Selon l'hypothèse de réduction de la barrière de Coulomb du Dr Vladimir I. Vysotskii, :
+
+les réseaux cristallins ou les molécules biologiques guident les électrons et les protons ;
+les réseaux cristallins ou les molécules biologiques sont lentement ou cycliquement légèrement modifiés par les défauts, la température, les micro-ondes sonores ou la diversité biologique ;
+ce qui modifie la résonance et la probabilité de l'effet tunnel pour les particules ;
+la probabilité des sauts quantiques à travers la barrière de Coulomb est multipliée par 1040 à 10100 et plus ;
+la durée de formation de l'état corrélé, favorable à la transition, diminue quand la profondeur de la modulation de fréquence lors des déformations augmente ;
+ainsi, les réactions entre les électrons et les protons sont beaucoup plus probables et les effets de la fusion froide ou des transmutations biologiques peuvent se produire ;
+cette hypothèse n'est en fait qu'une étude plus complète de l'effet tunnel dans le modèle standard. Elle étend sans contradiction, expérimentalement et théoriquement, le modèle standard aux phénomènes dits de fusion froide, LENR, transmutations biologiques et autres.
+
+
+== Historique ==
+La capacité du palladium à absorber l'hydrogène était connue dès le XIXe siècle par Thomas Graham.
+En 1926, les chercheurs autrichiens Friedrich Paneth et Kurt Peters ont exposé une transformation d'hydrogène en hélium par une catalyse spontanée, quand l'hydrogène était absorbé par du palladium finement divisé, à température ambiante. Cependant, les auteurs se sont plus tard rétractés, informant que l'hélium qu'ils avaient mesuré provenait de l'air,.
+En 1927, le chercheur suédois J. Tandberg a rapporté une fusion d'hydrogène en hélium dans une cellule d'électrolyse avec des électrodes en palladium et déposé un brevet suédois pour « une méthode de production d'hélium et une réaction énergétique très utile ». Après la découverte du deutérium en 1932, Tandberg a continué ses expérimentations avec de l'eau lourde mais l'application de son brevet a été refusée à cause des rétractations de Paneth et Peters, parce qu'il ne pouvait expliquer le processus physique.
+En 1956 enfin, toujours dans le domaine des « réactions nucléaires à basse énergie », Luis Walter Alvarez explore la catalyse par muon.
+En 2015, l'Université Tohoku, à Sendaï, Japon, crée un Centre commun de recherche sur les Réactions nucléaires en matière condensée, en partenariat avec l'entreprise Clean Planet - "Condensed Matter Nuclear Reaction Division".
+En 2017, la chaîne d'information télévisée CNews présente la fusion froide au grand public, et mentionne le livre de Jean-Paul Bibérian.
+
+
+=== Ronald Richter en 1950 ===
+Au début des années 1950, un docteur en physique autrichien appelé Ronald Richter (en) avait persuadé le général Perón, président argentin, que l'énergie de fusion était maîtrisable à l'échelle de laboratoire. Il se basait sur le fait que sur une population d'atomes, il y avait statistiquement une fraction (très petite) d'atomes possédant une énergie suffisante pour obtenir la fusion.
+Perón lui alloua un budget qui permit à Richter de s'équiper avec le matériel le plus avancé de l'époque, et il lui confia la construction de ses installations sur une île d'un lac des Andes patagonien, près de la ville de Bariloche, une colonie suisse fondée en 1904. Le projet fut appelé « projet Huemul », selon le nom de l'île.
+À la suite d'une erreur d'interprétation dans une expérience de Richter, ce dernier annonça l'obtention de la fusion nucléaire. Malgré cette annonce, qui suscita beaucoup de controverses, une commission d'enquête à la charge de physiciens argentins arriva à la conclusion que Richter n'avait pas obtenu de fusion, et Richter dut quitter le pays. Le projet fut arrêté en 1952.
+En 1955, Perón quitta le pouvoir en raison d'un putsch militaire. Le nouveau gouvernement donna ce qui restait de l'équipement du laboratoire de Richter à un jeune physicien argentin formé en Angleterre et membre de la commission d'enquête, José Antonio Balseiro. Avec cet équipement, et une poignée de professeurs, il créa en 1955 l'institut de physique qui porte aujourd'hui son nom.
+Un livre du Dr Mario Mariscotti narre comme dans un roman les faits dans son livre El secreto atómico de Huemul.
+
+
+== Controverse ==
+Les annonces de résultats positifs de fusion froide en dehors des publications scientifiques à évaluation par les pairs sont controversées et sont sujettes à caution. Néanmoins, échaudées par la polémique de 1989, la plupart des revues à comité de lecture, dont Nature, considèrent que la fusion froide n'appartient pas au domaine scientifique et refusent toute publication à son sujet,,. L'éditorial de Nature publié en janvier 1990 par John Maddox, qui marque un jalon important dans l'histoire de la controverse, considère pour sa part que la fusion froide était une affaire classée car toutes les expériences sérieuses se sont avérées négatives. Dans ce contexte, la plupart des articles publiés depuis 1990 dans des revues scientifiques à comité de lecture sur la thématique de la fusion froide ont évité ce terme, préférant la référence à des thématiques telles que : réactions hydrogène métal ou réactions thermiques anormales dans des nano-métaux.
+
+
+== Notes et références ==
+(en) William L. Laurence, « Cold Fusion of Hydrogen Atoms; A Fourth Method Pulling Together », The New York Times,‎ 30 décembre 1956, E7 (lire en ligne)
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+(en) Edmund Storms, Science of Low Energy Nuclear Reaction: A Comprehensive Compilation of Evidence and Explanations, World Scientific Publishing Company, 2007
+(en) Hideo Kozima, The Science of the Cold Fusion Phenomenon, Elsevier, 2006
+(en) David Adam, article dans The Guardian, le 24 mars 2005 In from the cold [1]
+S. Krivit, N. Winocur, The rebirth of cold fusion, Pacific Oak Press, 2004
+Science et Vie no 1040 de mai 2004 : le magazine de vulgarisation scientifique a consacré sa une à la fusion froide (« Alchimie, les physiciens commencent à y croire »). La revue a mené une enquête très fouillée de 18 pages sur la question. Conclusion : des dégagements de chaleur anormaux ont bien été répliqués par quelques équipes indépendantes de par le monde mais, échaudées par l'affaire Pons et Fleischmann et le manque de confirmation, les revues scientifiques comme Science et Nature refusent de publier la moindre ligne sur le sujet. Des crédits de recherche supplémentaires sont demandés pour apporter la preuve du phénomène.
+Savants maudits et chercheurs exclus, tome 2, Pierre Lance
+(en) Charles G. Beaudette, Excess Heat: Why Cold Fusion Research Prevailed, Oak Grove Press, 2002
+(en) Robert L. Park, Voodoo Science: The Road from Foolishness to Fraud, New York: Oxford University Press, 2000
+Michel de Pracontal : L'Imposture scientifique en dix leçons
+(ja) & (en) Tadahiko Mizuno,  Nuclear Transmutation: The Reality of Cold Fusion, Concord (New Hampshire), Infinite Energy Press, 1998
+(en) Charles Seife, Sun in a Bottle: The Strange History of Fusion and the Science of Wishful Thinking, New York: Viking,
+(en) John O'M. Bockris et Amulya K. N. Reddy, Modern Electrochemisty, Plenum Press, 1998
+(en) Antony Cyril Sutton, Cold Fusion: Secret Energy Revolution, 1997.
+(en) Frank Close, Too Hot to Handle: The Race for Cold Fusion, Princeton Univ Pr, 1991
+(en) Eugene Mallove, Fire from Ice: Searching for the Truth Behind the Cold Fusion Furor, 1991.
+(es) Mario Mariscotti, 1985, El Secreto Atómico de Huemul: Crónica del Origen de la Energía Atómica en la Argentina, Sudamericana/Planeta, Buenos Aires, Argentine  (ISBN 950-37-0109-0).
+
+
+=== Articles connexes ===
+Fusion catalysée par muons
+Catalyseur d'énergie de Rossi et Focardi
+Transmutations biologiques ?
+
+
+=== Liens externes ===
+
+En date du 3 septembre 2004, le département de l'Énergie des États-Unis annonce la publication d'un nouveau rapport sur le sujet pour la fin septembre : communiqué de l'IEEE Spectrum en date du 3/9/2004
+Le rapport est consultable en ligne à partir de la page du DoE [2]
+Le site officiel de la 12e conférence internationale sur la matière nucléaire condensée, nouvelle appellation des conférences internationales sur la fusion froide, qui s'est tenue à Yokohama (Japon), du 27 novembre au 2 décembre 2005.
+Le site officiel de la 11e conférence internationale sur la matière nucléaire condensée, qui s'est tenue à Marseille, du 31 octobre au 5 novembre 2004. Les actes peuvent être commandés auprès de Jean-Paul Bibérian.
+Projet de première année à l'ESIEE (École supérieure d'ingénieurs en électronique et électrotechnique)
+entretien avec Jean-Paul Biberian (recherche, vulgarisation)
+« Fusion froide : les chercheurs en rêvent toujours », sur futura-sciences.com (consulté le 29 août 2020)
+http://www.radio-canada.ca/emissions/decouverte/2009-2010/Reportage.asp?idDoc=96152
+Actes de la conférence ICCF 14 de Washington
+Programme de la 17e conférence russe sur les transmutations nucléaires à basse températures et la foudre en boule (17th RCCNT-BL)
+Actes de la conférence ICCF 15 de Rome
+
+ Portail de la physique   Portail du nucléaire   Portail de l’énergie

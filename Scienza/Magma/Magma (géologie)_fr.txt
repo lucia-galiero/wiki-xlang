@@ -1,0 +1,48 @@
+Un magma est une roche entièrement ou partiellement fondue. Il comporte nécessairement une phase liquide, généralement composée de silicates et contenant des gaz dissous. Il comporte souvent aussi, en suspension dans le liquide, une phase gazeuse (des bulles) et une ou plusieurs phases solides (des cristaux), qui proviennent respectivement de l'exsolution partielle des gaz dissous et de la solidification partielle du liquide par décompression et refroidissement.
+Le magma peut aussi comporter des éléments solides provenant des roches à travers lesquelles le magma est remonté : fragments de roches mantelliques ou crustales (xénolithes) et/ou cristaux isolés (xénocristaux).
+Les magmas se forment à haute température et sous haute pression par fusion partielle de la croûte terrestre ou du manteau. Moins denses que les roches solides de la lithosphère, ils sont entraînés vers le haut par la poussée d'Archimède, sous forme de dykes ou de diapirs. Selon le contraste entre leur densité et celle des roches traversées, les magmas s'arrêtent à une certaine profondeur (plutons) ou s'épanchent en surface (laves). Leur refroidissement complet conduit à la formation de roches magmatiques (roches plutoniques pour les plutons, roches volcaniques pour les laves).
+
+
+== Remontées magmatiques ==
+
+Les magmas résultent directement (volcanisme) ou indirectement (intrusion) de l'évacuation de la chaleur terrestre (en). Pour évacuer une chaleur centrale avoisinant 5 000 °C, les seuls mécanismes de la conduction et le rayonnement sont insuffisants. L'évacuation est ainsi assurée principalement par le phénomène de la convection mantellique qui brasse le manteau terrestre en mettant en mouvement du matériel solide rendu ductile par les températures très élevées. Cette convection « est la cause première de toutes les manifestations d'activité de la Terre solide (volcanisme, tectonique des plaques, orogenèse, champ magnétique) ». Aux limites supérieures des cellules de convection, au terme de leur lente remontée diapirique vers la surface, les péridotites du manteau supérieur subissent une décompression adiabatique au niveau des dorsales océaniques, ce qui entraîne leur fusion partielle qui se produit à une profondeur relativement faible (20 à 30 km) et la formation de magmas basaltiques. La dispersion de chaleur est réalisée aussi au niveau des points chauds ou du mouvement des plaques lithosphériques dont la collision ou la subduction produit la fusion partielle des roches enfouies, et la formation de magmas primaires ou différenciés. Sur Terre, la dissipation d'énergie thermique se fait ainsi à 95 % au niveau des limites de plaques (dorsales, subduction et collision) et seulement pour 5 % par les points chauds. « Il en résulte que le magmatisme de la Terre est également une expression des transferts de la chaleur interne. De cette façon, le magmatisme participe au refroidissement général et inéluctable du globe ».
+Lors de la remontée de la roche ductile vers la surface, le magma se refroidit et peut cristalliser sans émerger pour former une roche plutonique dans des réservoirs (chambre magmatique, pluton), des dykes lorsqu'il reste confiné dans des fissures discordantes, ou encore des sills lorsque le magma s'insère dans une fissure en concordance avec les structures encaissantes. Si le magma atteint la surface, il jaillit par les cratères des volcans sous forme de lave dont la composition détermine le caractère plus ou moins fluide ou visqueux.
+La température de ces laves varie de 500 à 550 °C, pour la carbonatite (au Kenya), à 1 200 °C, par exemple pour les volcans d'Hawaï.
+
+
+== Caractéristiques chimiques ==
+Un magma est considéré comme acide, intermédiaire, basique ou ultrabasique en fonction de sa teneur en silice (%pds SiO2) :
+
+riche en silice (plus de 65 %), le magma est « acide » et sa viscosité est élevée ;
+avec une teneur intermédiaire entre 52 et 65 %, le magma est dit « intermédiaire » ;
+pauvre en silice (moins de 52 % mais plus de 45), le magma est « basique » et sa viscosité est faible,
+très pauvre (moins de 45 % de silice), il est « ultrabasique ».
+Cette teneur en silice aura donc une incidence sur le comportement du magma lors de sa remontée (vitesse de déplacement, et caractère effusif ou explosif de l'éruption volcanique si le magma parvient en surface).
+Les gaz contenus dans le magma peuvent être de la vapeur d'eau (qui peut diminuer la température de fusion jusqu'à 100 °C) ou le dioxyde de carbone.
+
+
+== Principales zones de formation ==
+
+Dans le manteau terrestre : entre 50  et   150 km de profondeur, les conditions de pression et de température permettent la fusion partielle du manteau. Cette zone a été découverte grâce à sa faculté de ralentir la propagation des ondes sismiques et a été appelée zone à faible vitesse, en anglais low velocity zone, acronyme LVZ. Le taux de fusion du manteau est de l'ordre de 5 à 15 %, en masse, du matériau mantellique, rarement plus de 20 %.
+Dans un environnement géodynamique de subduction d'une plaque océanique sous une plaque continentale, se forme une chaîne de montagne de type cordillère. Un magma primaire se forme par interaction entre des fluides de déshydratation de la plaque plongeante et le matériau péridotitique du coin de manteau. Lors de sa remontée, notamment à travers une lithosphère continentale potentiellement sur-épaissie tectoniquement (prisme d'accrétion, écaillage de la croûte, compression), le magma évolue chimiquement par cristallisation fractionnée et assimilation, aboutissant à une série différenciée de roches magmatiques typiques, dite de volcanisme andésitique.
+Dans un environnement géodynamique de subduction d'une plaque océanique sous une autre plaque océanique, le processus de magmatogenèse primaire est essentiellement le même. Mais la lithosphère que traversent ces magmas, de type océanique est donc moins épaisse (typiquement 30 km contre le double dans le cas précédemment décrit). Les magmas qui en résultent forment la série dite calco-alcaline, et les édifices volcanique s'organisent en un arc volcanique insulaire.
+Au niveau des rides médio-océaniques, les lithosphères s'écartent, la croûte basaltique est amincie et fracturée et la pression dans le manteau diminue. Le magma sort en formant une nouvelle croûte océanique. Sous la mer, le magma s'épanche en pillow lava (ou lave en coussin).
+Au niveau de points chauds (en anglais hot spots) : même si leur origine reste assez énigmatique, certains chapelets d'îles volcaniques en sont les effets très visibles. À l'une des extrémités du chapelet, un volcan actif est dû au percement de la lithosphère qui le porte, par le magma ascendant dans le point chaud. La plaque se déplaçant sous l'effet de la tectonique des plaques, alors que la position du point chaud reste « fixe », les volcans sont emportés loin de la zone volcanique et deviennent inactifs. L'alignement de ces volcans éteints à partir d'un volcan actif forme le chapelet symptomatique des points chauds. Plusieurs chaînes d'îles de l'océan Pacifique (dont Hawaï) sont des témoignages de ce mécanisme.
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Roche magmatique
+Cycle géologique
+ Portail de la géologie   Portail du volcanisme

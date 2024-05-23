@@ -1,0 +1,49 @@
+La pétrologie (ou « science des roches ») s'intéresse aux mécanismes (physiques, chimiques et biologiques) qui sont à l'origine de la formation et de la transformation des roches. Le spécialiste qui applique ou développe la pétrologie est un pétrologue.
+La pétrologie, dans un sens plus large, inclut la pétrographie et la pétrogenèse ou lithogenèse (étude des processus pétrogénétiques ou lithogénétiques à l'origine des roches).
+
+
+== De la pétrographie à la pétrologie ==
+Les deux termes de pétrographie et de pétrologie reflètent surtout le développement historique de la science des roches : historiquement, la première discipline est la pétrographie qui depuis la fin du XVIIIe siècle décrit ces roches (en ce qui a trait aux structures, textures, compositions…) et leurs relations avec l'environnement géologique, alors que la pétrologie est une science qui se développe au XXe siècle et se démarque de la première par sa démarche phénoménologique, en expliquant les processus pétrogénétiques à l'origine des roches. Ainsi la distinction entre pétrographie et pétrologie est-elle parfois considérée comme dépassée :
+
+« […] le nouveau nom était un anglicisme, ou plutôt un américanisme, puisque le terme de « petrology » a été créé en 1902, pour qualifier la chaire attribuée à Joseph Paxon (1857-1920) par l'université de Chicago. En fait, cette différence entre description et interprétation […] est parfaitement spécieuse : tout scientifique cherche à interpréter ce qu'il a décrit, en fonction des connaissances de l'époque et des données dont il dispose. Mais, dans le cas présent, les deux noms, consacrés par l'usage, se justifient. »
+
+— Jacques Touret, L'essor de la géologie française.
+
+Depuis les années 1950, l'observation au microscope est complétée par des techniques d'analyse issues de la physique (microscope électronique à balayage, micro-sonde électronique ou l'analyseur en micro-fluorescence X…), de la géochimie (méthode de datation absolue des roches en géochronologie), de l'informatique (accroissement des capacités de calcul), ainsi que par les progrès de l'expérimentation (cellules à enclumes de diamant qui permettent d'atteindre de très hautes pressions et températures).
+
+
+== Pétrologie classique ==
+La pétrologie est classiquement l'étude des roches par l'observation sur le terrain et au microscope (optique ou électronique) et par l'analyse spectroscopique et chimique des roches elles-mêmes ou de leurs minéraux. Du fait de la nature des phénomènes impliqués, on peut parler non pas d'une mais de trois disciplines pétrologiques :
+
+la pétrologie magmatique (parfois aussi dénommée pétrologie « cristalline ») s'intéresse aux roches magmatiques, telles que les basaltes ou les granites. L'histoire de la formation d'une roche magmatique peut être très complexe : elle débute par la genèse d'un magma (schématiquement, un liquide produit de la fusion de roches préexistantes) et se poursuit par la cristallisation progressive de ce magma, étape pendant et après laquelle se déroulent maintes transformations chimiques. Par abus de langage, on restreint souvent l'usage du terme « pétrologie » à la seule pétrologie magmatique ;
+la pétrologie sédimentaire (ou sédimentologie) s'intéresse aux mécanismes présidant à la formation des roches sédimentaires, telles que les calcaires ou les grès ;
+la pétrologie métamorphique se donne pour objectif la compréhension des transformations qui conduisent à la formation de roches métamorphiques, telles que les schistes ou les gneiss. À l'origine simples roches magmatiques ou sédimentaires, ces roches ont connu, lors d'une période d'enfouissement à grande profondeur dans la croûte terrestre, les effets d'une longue exposition à de fortes pressions et à de hautes températures. En vertu de quoi leur textures, leur minéralogie, leur chimie aussi, ont pu connaître de profondes transformations.
+Ces trois champs d'étude se distinguent nettement par les outils et méthodes qui s'y prêtent. Divers logiciels de systématisation et de simulation permettent une approche dynamique générale, mais les études de terrain sont variées. Globalement, les trois disciplines s'appuient sur des approches pétrographiques et puisent largement dans les outils, méthodes et concepts proposés par d'autres sciences (aux premiers rangs desquelles la chimie, la chimie organique, la physique, la physico-chimie et l'analyse numérique), et plus particulièrement des géosciences (géochimie, géodésie, géophysique, minéralogie).
+
+
+== Pétrologie expérimentale ==
+La pétrologie expérimentale vise à reproduire au laboratoire les conditions de température et de pression que les minéraux, les roches ou leurs précurseurs (magmas, fluides hydrothermaux) ont subies à l'intérieur de la croûte ou du manteau terrestres. L'objectif est d'établir les propriétés d'équilibre des matériaux terrestres (voire extraterrestres) dans ces conditions, ainsi que la nature et la cinétique de leur évolution .
+La pétrologie expérimentale emploie des appareils permettant d'atteindre de hautes températures (jusqu'à un maximum de 3 700 °C environ) à pression atmosphérique ou bien haute voire très haute pression (jusqu'à 600 GPa environ, soit six millions d'atmosphères). L'inconvénient est que, plus les conditions à atteindre sont extrêmes, plus la taille des échantillons doit être réduite : quelques cm3 dans les cas les plus favorables, moins d'un mm3 dans les conditions les plus extrêmes. Les appareils employés sont typiquement des autoclaves, des pistons-cylindre (en) ou des cellules à enclumes de diamant. Ce sont les travaux de pétrologie expérimentale, dont le pionnier fut Norman Bowen (1887-1956), qui ont permis d'établir les diagrammes de phases et les tables de données thermodynamiques (en) nécessaires à la compréhension des processus pétrogénétiques (les mécanismes responsables de la formation des roches).
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+Jean-François Beaux, Bernard Platevoet, Jean-François Fogelgesang, Atlas de pétrologie, Éditions Dunod, 2016, 180 p. (lire en ligne)
+(en) Bruce W. D. Yardley et Clare Warren, An introduction to metamorphic petrology, Cambridge University Press, 2021, 2e éd. (ISBN 978-1-108-45648-7)
+(en) Anthony R. Philpotts et Jay J. Ague, Principles of Igneous and Metamorphic Petrology, Cambridge University Press, 13 janvier 2022, 3e éd., 700 p. (ISBN 1108492886 et 978-1108492881, lire en ligne  [PDF])
+
+
+=== Articles connexes ===
+Glossaire de géologie
+Lithologie
+Pétrographie
+
+
+=== Liens externes ===
+
+ Portail des minéraux et roches   Portail de la chimie

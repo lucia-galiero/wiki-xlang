@@ -1,0 +1,63 @@
+L'aphasie expressive (aphasie non fluente), également appelée aphasie de Broca en neuropsychologie clinique et aphasie agrammatique en neuropsychologie cognitive.
+Cette dernière est due à une lésion ou une perturbation du développement des régions antérieures du cerveau, plus précisément le gyrus frontal inférieur postérieur gauche (pour les droitiers) connu sous le nom de l'aire de Broca (correspondant aux aires 44 et 45 de Broadmann),,. L'aphasie expressive fait partie de la catégorie plus générale des aphasies s'exprimant par divers troubles. Il en résulte une altération ou perte du langage acquis, (verbal ou écrit).  L'aphasie expressive se distingue de la dysarthrie,. L'aphasie expressive s'oppose classiquement à l'aphasie réceptive ou de Wernicke, qui est caractérisée par des troubles de compréhension écrite ou orale.  
+Tout comme l'aire de Wernicke, les limites de l'aire de Broca peuvent différer d'un individu à un autre.
+
+
+== Historique ==
+En 1840,, Monsieur Leborgne, admis à l'hôpital Bicêtre présentait un trouble du langage sévère malgré des capacités cognitives normales. En effet, alors qu'il semblait comprendre ce qu'on lui disait, il était connu dans le service pour ne produire qu'une seule et unique syllabe : « tan » répétée le plus souvent deux fois de suite. Les autres patients de l'hôpital l'avaient alors surnommé « Tan ». En 1861, Paul Broca, chirurgien et anthropologue français fut amené à le rencontrer à la suite d'une apparition de gangrène qui s'était développé au niveau de son membre inférieur droit, paralysé. Le patient en mourut quelques jours plus tard. Paul Broca étudia alors le cerveau de M. Leborgne et y découvrit de multiples régions qui étaient grandement « ramollies ». Le lobe frontal gauche était largement atteint, en dehors de la région orbitaire, ainsi que des structures profondes comme les corps striés.  Broca remarqua toutefois que la partie moyenne du lobe frontal gauche, plus précisément la troisième circonvolution frontale était la plus touchée. Il associe donc cette partie du cerveau au trouble du langage qu'avait Monsieur « Tan ». Cette région sera nommée « aire de Broca ». C'est le 18 avril 1861 que Paul Broca fit un communiqué à propos de ce patient, à la Société d'anthropologie de Paris, nommé « Perte de parole, ramollissement chronique et destruction partielle du lobe antérieur gauche du cerveau ». Il donne à ce trouble le nom d'aphémie : « Ce qui a péri en eux, ce n'est pas la faculté du langage, ce n'est pas la mémoire des mots, ce n'est pas non plus l'action des nerfs et des muscles de la phonation et de l'articulation, c'est la faculté de coordonner les mouvements propres au langage articulé ».
+
+Le cerveau de M. Leborgne est conservé dans les collections du Musée Dupuytren à Paris.
+
+
+== Causes ==
+Cette altération peut être précédée d'un accident vasculaire cérébral (AVC), traumatisme crânien, ou tout autre phénomène de dégradation neuronale.
+
+AVC,,, : L'accident vasculaire le plus important est une ischémie cérébrale, plus particulièrement les zones irriguées par l'artère sylvienne. Des AVC répétés peuvent conduire à une démence vasculaire et donc à la destruction progressive de ces régions.
+Maladies neurodégénératives, : des démences comme la maladie d'Alzheimer ou maladie de Pick peuvent entraîner des altérations dans ces régions cérébrales. L'accumulation de plaques séniles et de dégénérescences neurofibrillaires peut être responsable d'une aphasie.
+Cependant, une dégénérescence ou une modification d'une région avoisinant la zone de Broca peut tout aussi bien conduire à une aphasie dite générale, menant à un plus large éventail de symptômes. Dans le cas de tentatives de suicide, la prise excessive de certains médicaments peut endommager une ou plusieurs zones du cerveau, tout comme les asphyxies qui privent le cerveau d'oxygène, menant à une mort neuronale irréversible.
+Remarque : Bien que les tumeurs (bénignes ou malignes) peuvent être une des causes d'une aphasie générale, elles ne sont pas spécifiquement à l'origine d'une aphasie expressive.
+
+
+== Symptômes ==
+
+
+=== Expression orale ===
+Cette aphasie est aussi appelée aphasie motrice à cause du trouble de production du langage. La compréhension est variable en fonction de la complexité de la phrase : plus il y aura de mots, plus la compréhension sera mauvaise. Les sujets présentant une aphasie de Broca sont atteints d'anomie, ou incapacité à trouver leurs mots : ce manque du mot est constant. On observe des difficultés articulatoires,, qui peuvent disparaître lors d'énonciation automatique (chant, récitation, jours de la semaine...). De plus, l'aire de Broca est proche de l'aire motrice sur le plan anatomique qui contrôle la bouche. C'est ce qui a amené Wernicke à penser que les régions lésées dans la région de Broca contenaient des informations acquises permettant d'articuler le son d'un mot. Le trouble phonologique n'est pas physiologique mais bien psychologique, le sujet étant dans l'incapacité à contrôler intentionnellement les muscles interagissant dans la production de discours.  Il est fréquent que les patients révèlent une apraxie bucco-faciale. 
+Pour le discours, il est à la fois difficile et souvent syllabique et dysprosodique,. Cette déformation de prosodie peut entraîner un syndrome de l'accent étranger avec une modulation émotionnelle (tristesse, gaîté; pour les cérébrolésés droits) ou fonctionnelle (interrogation, affirmation ; pour les cérébrolésés gauches).
+La réduction de l'expression orale peut aller jusqu'au mutisme, ou bien se limiter à des stéréotypies.
+Les aphasiques lésés dans l'aire de Broca peuvent avoir des troubles de la fluence. Une personne normale énumère en moyenne 20 mots par minute, c'est la fluence. À ne pas confondre avec la fluence verbale, qui est la récupération en mémoire d'un lexique (ex. : « dites moi le plus de  nom d'animaux commençant par B en 2 minutes »). Un aphasique aura un débit de mots inférieur à la normale.
+L’agrammatisme,, est aussi observé chez les aphasiques. C'est un non-respect involontaire de la grammaire dans la construction de phrases.
+
+
+=== Expression écrite ===
+Suivant les sujets, on peut observer une agraphie ou des troubles de l'écriture. Dans ces cas, ces personnes ont les mêmes problèmes qu'à l'oral : on constate un agrammatisme ainsi que des altérations paragraphiques. Un trouble de compréhension écrite atteint plus particulièrement les phrases complètes, les sujets ne réussissant à déchiffrer que les mots concrets, les mots fonctionnels comme « pour » ou « et », étant pour eux presque impossibles à lire.
+Remarque : Les troubles de l'expression écrite chez ces personnes sont de degrés variables ou inexistants.
+
+
+== Évolution ==
+L'aphasie de Broca débute par une lésion cérébrale. La personne est dans un premier temps atteinte d'un mutisme total d'une durée variable, accompagné ou non d'un trouble de la compréhension globale. Vient ensuite la forme principale de l'aphasie de Broca. La suspension du langage tend vers une production morcelée du langage oral, dysprosodique et agrammatique. Une évolution est notée vers un enrichissement du vocabulaire et une dissociation automatico-volontaire ; le sujet accomplira des tâches volontaires mais pas sur demande ou consigne. Cependant, l'agrammatisme reste dans le langage s'il n'est pas remédié.
+
+
+== Évaluation et prise en charge ==
+Pour une meilleure prise en charge, une batterie de tests généraux permet le dépistage d'une aphasie précise chez le patient. Le test le plus utilisé reste l'Examen Diagnostique d'Aphasie de Boston (BDAE). Ce test permet d'analyser les capacités linguistiques des aphasiques et d'observer les évolutions au cours de la rééducation. Le « Protocole Montréal-Toulouse 86 » (MT-86) est aussi utilisé pour dépister le type d'aphasie ou aiguiser le diagnostic. S'ensuit une analyse du mécanisme des symptômes en référence aux modèles de la neuropsychologie cognitive : on fait passer une série de tests plus spécifiques pour établir les points forts et les points faibles du patient pour avoir une aide personnalisée. Une fois que le type d'aphasie est diagnostiqué, on évalue l'impact de cette pathologie sur l'environnement du sujet, sa vie quotidienne grâce à des questionnaires portant sur sa qualité de vie. 
+Un suivi avec un orthophoniste et éventuellement un psychologue peut durer plusieurs mois voire plusieurs années pour une rééducation et une réadaptation souhaitées.
+
+
+== Les dernières recherches ==
+Grâce au développement des techniques d'imagerie cérébrale, notamment l'IRMf, les recherches se sont affinées, et ont permis de mieux cerner l'anatomie des régions impliquées. Une anatomiste allemande a récemment avancé le fait qu'il y aurait une douzaine de sous-régions dans la zone de Broca. Cependant, le rôle de chacune de ces régions n'est toujours pas connu. Des études ultérieures permettront certainement de mieux comprendre ce trouble, notamment au niveau anatomo-clinique.
+
+
+== Références ==
+
+
+== Annexes ==
+
+
+=== Articles connexes ===
+Débit syllabique
+
+
+=== Liens externes ===
+« Fédération nationale des aphasiques de France », sur aphasie.fr, 2004 (consulté le 31 août 2012)
+[vidéo] « Moments forts : privé de parole », 36.9°, sur rts.ch, Radio télévision suisse, 29 août 2012 
+ Portail de la médecine   Portail des neurosciences   Portail de la psychologie

@@ -1,0 +1,89 @@
+Als Singularität bezeichnet man in der Physik und Astronomie Orte, an denen die Gravitation so stark ist, dass die Krümmung der Raumzeit divergiert, umgangssprachlich also „unendlich“ ist. Das bedeutet, dass an diesen Orten die Metrik der Raumzeit ebenfalls divergiert und die Singularität kein Bestandteil der Raumzeit ist. Physikalische Größen wie die Massendichte, zu deren Berechnung die Metrik benötigt wird, sind dort nicht definiert.
+Geodätische Linien, die auf die Singularität treffen, haben eine endliche Länge, die Raumzeit ist daher kausalgeodätisch unvollständig.
+Nach der allgemeinen Relativitätstheorie gibt es unter sehr allgemeinen Voraussetzungen Singularitäten in der Raumzeit, wie Stephen Hawking und Roger Penrose in den 1960er Jahren zeigten (Singularitäten-Theorem). Die Singularitäten sind als mathematische Singularitäten formulierbar und hängen u. a. von speziellen Massenwerten 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+, Drehimpulsen 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+  
+ oder anderen Parametern ab. Dabei ist das fragliche physikalische Gesetz für den Grenzwert 
+  
+    
+      
+        r
+        →
+        
+          r
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle r\to r_{\mathrm {c} }}
+  
+, wobei 
+  
+    
+      
+        
+          r
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle r_{\mathrm {c} }}
+  
+ ein kritischer Parameterwert ist, nicht definiert, ungültig und ungeeignet, die Verhältnisse zu beschreiben. Singularitäten können punktförmig, also unendlich klein, oder nicht-punktförmig sein, wobei sich die Raumzeit so sehr um das Objekt krümmt, dass Größenangaben nicht in ein sinnvolles Verhältnis zur Metrik des umgebenden Raumes gesetzt werden können.
+Es wird angenommen, dass Singularitäten die Grenzen der allgemeinen Relativitätstheorie aufzeigen und zur Beschreibung ein anderes Modell (zum Beispiel Quantengravitation) verwendet werden muss.
+
+
+== Arten von Singularitäten ==
+Die in diesem Artikel behandelten Singularitäten werden auch echte, intrinsische oder Krümmungs-Singularitäten genannt, um herauszustellen, dass es sich um physikalische Eigenschaften der Raumzeit handelt. In ihnen divergiert eine koordinatenunabhängige Größe, die Krümmung der Raumzeit. Sie sind zu unterscheiden von sogenannten Koordinatensingularitäten, die lediglich eine mathematische Eigenschaft der gewählten Koordinaten sind. Letztere lassen sich durch eine geeignete Koordinatentransformation „wegtransformieren“. Für echte, wesentliche Singularitäten ist dies nicht möglich, hier wird eine neue Theorie (ein neues physikalisches Gesetz) gebraucht.
+Singularitäten, beispielsweise innerhalb eines normalen Schwarzen Lochs, sind von einem Ereignishorizont umgeben, der prinzipiell das Objekt der Beobachtung entzieht. Ob auch Singularitäten ohne Ereignishorizont (sogenannte Nackte Singularitäten) existieren, ist unklar. Dass Singularitäten durch Ereignishorizonte abgeschirmt werden, es also keine nackten Singularitäten gibt, ist Gegenstand der Hypothese des kosmischen Zensors von Roger Penrose. Sie ist unbewiesen und stellt eines der großen offenen Probleme der allgemeinen Relativitätstheorie dar.
+
+
+== Astrophysik und Kosmologie ==
+In Astrophysik und Kosmologie wird der Begriff Singularität oft synonym für Schwarzes Loch oder in den Urknalltheorien für die Anfangssingularität benutzt.
+In beiden Fällen sind die einsteinschen Feldgleichungen die zur Erklärung herangezogenen physikalischen Gesetze. Die diesen Gleichungen zugrunde liegende Theorie (Albert Einsteins allgemeine Relativitätstheorie) ist jedoch eine „klassische Theorie“, keine Quantentheorie. Daher verliert sie auf sehr kleinen Längenskalen (Plancklänge) ihre Gültigkeit und dort beginnt der Bereich einer Theorie der Quantengravitation. Über den inneren Zustand oder den Aufbau von Singularitäten im Rahmen einer solchen Theorie ist jedoch nur sehr wenig bekannt.
+
+
+=== Anfangssingularität ===
+
+In den Urknalltheorien „startet“ die Raumzeit in einer mathematischen Singularität. Den ersten physikalisch beschreibbaren Zeitpunkt legt man auf den kürzest möglichen Zeitabstand von dieser Singularität, nämlich die Planck-Zeit von ca. 10−43 Sekunden. Die Urknalltheorien beschreiben also nicht den Urknall selbst, sondern nur die Entwicklung des Universums seit diesem Weltalter. In der mathematischen Anfangssingularität sind Raum und Zeit noch nicht vorhanden. Angaben über Ausdehnung oder Dauer sind somit aus der Physik hinausdefiniert.
+In der Anfangssingularität können die uns bekannten Naturgesetze nicht gültig gewesen sein. Die Anfangssingularität war kein Schwarzes Loch. Sie hatte keinen Ereignishorizont und keinen sie umgebenden Außenraum. Alternative Modelle wie zum Beispiel die des zyklischen Universums versuchen, diese Problematik zu umgehen.
+
+
+=== Schwarze Löcher ===
+
+Schwarze Löcher lassen sich durch ihre Wirkung auf die sie umgebende Raumzeit charakterisieren. Viele Eigenschaften der Singularität im Innern eines Schwarzen Lochs, wie etwa ihre Dichte, sind jedoch ähnlich undefiniert wie die der Anfangssingularität.
+Karl Schwarzschild war der Erste, der eine Lösung (äußere Schwarzschild-Lösung) für die Feldgleichungen angeben konnte. Seine Lösung beschreibt ungeladene nichtrotierende, d. h. statische Schwarze Löcher, die in Wirklichkeit nicht existieren, und wird im zentralen Punkt singulär (Punktsingularität). In den Kruskal-Koordinaten wird aus der Punktsingularität eine durch ein Hyperboloid beschriebene Mannigfaltigkeit. So sieht man explizit, dass hier am Ereignishorizont selbst keine Singularität auftritt.
+Erst im Jahr 1963 fand der neuseeländische Mathematiker Roy Kerr eine weitere Lösung (Kerr-Lösung) für rotierende Schwarze Löcher, die in einem eindimensionalen Ring in der Äquatorebene singulär wird. Der Radius der Ringsingularität entspricht dem Kerr-Parameter. Eine noch allgemeinere Lösung mit einer zusätzlichen elektrischen Punktladung führt zur Kerr-Newman-Metrik.
+Die äußere Schwarzschild-Lösung ist ein Spezialfall der Kerr-Lösung (Kerr-Parameter a = Jc/(GM²) = 0, d. h. keine Rotation). Für maximal rotierende Schwarze Löcher, d. h., wenn der Ereignishorizont mit Lichtgeschwindigkeit rotiert, wird dagegen a = 1. Objekte mit einem Spin von a > 1 müssen daher eine Ausdehnung besitzen, die höher als der ihrer Masse entsprechende Gravitationsradius ist, da sich der Ereignishorizont sonst auflösen und eine nackte Singularität an den Polen und am Äquator von außen sichtbar würde. Dass nackte Singularitäten durch Ereignishorizonte gegenüber Beobachtern von außen abgeschirmt sind, ist Gegenstand der Cosmic Censorship Hypothesis. Sie ist im Allgemeinen unbewiesen und erfordert möglicherweise eine Erweiterung bekannter physikalischer Theorien, es gibt aber Hinweise auf ihre Gültigkeit aus numerischen Simulationen, mathematischen Analysen und Gedankenexperimenten.
+
+
+== Literatur ==
+Singularität. In: Lexikon der Physik. Spektrum Akademischer Verlag, abgerufen am 8. April 2018. 
+Stephen Hawking: Eine kurze Geschichte der Zeit. Rowohlt, 1988, ISBN 3-498-02884-7 (eingeschränkte Vorschau in der Google-Buchsuche). 
+Stephen Hawking: Das Universum in der Nussschale. Hoffmann und Campe, 2002, ISBN 3-455-09400-7 (eingeschränkte Vorschau in der Google-Buchsuche). 
+
+
+== Einzelnachweise ==

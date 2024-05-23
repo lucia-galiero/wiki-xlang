@@ -1,0 +1,49 @@
+Una enana roja es una estrella pequeña y relativamente fría de la secuencia principal, ya sea de tipo espectral K tardío o M. Este tipo lo forman la mayor parte de las estrellas, siendo sus valores de masa y diámetro inferiores a la mitad de los del Sol (por debajo de 0,08 masas solares se denominan enanas marrones) y una temperatura superficial de menos de 4000 K.
+Las enanas rojas son, hasta la fecha, el tipo más común de estrellas de la Vía Láctea, por lo menos en la vecindad del Sol, pero debido a su baja luminosidad las enanas rojas individuales no pueden ser observadas fácilmente. Desde la Tierra, ninguna es visible a simple vista. Próxima Centauri, la estrella más cercana al Sol, es una enana roja de Tipo M5 y magnitud aparente 11.05, al igual que veinte de las treinta estrellas más cercanas. De acuerdo con algunas estimaciones, las enanas rojas representan las tres cuartas partes de las estrellas en la Vía Láctea.
+Modelos estelares indican que las enanas rojas con menos de 0.35 Masas solares son completamente convectivas. De ahí a que el helio producido por la fusión termonuclear se vuelva a mezclar constantemente a lo largo de la estrella, evitando una acumulación en el núcleo. Por lo tanto, las enanas rojas se desarrollan muy lentamente, albergando una luminosidad y un tipo espectral constantes, por lo que —en teoría— su combustible tardará algunos billones de años en agotarse. Debido a la relativamente corta edad del universo, no existen enanas rojas en etapas evolutivas avanzadas.
+
+
+== Características físicas ==
+
+Las enanas rojas son estrellas de muy baja masa, inferior al 40 % de la masa del Sol.[1]​ Su temperatura interior es relativamente baja y la energía se genera a un ritmo lento por la fusión nuclear de hidrógeno a helio a través de la cadena protón-protón (pp). Por consiguiente, estas estrellas emiten poca luz, con una luminosidad que en algunos casos apenas alcanza 1/10.000 de la luminosidad solar. Incluso la enana roja más brillante tiene solo un 10 % de la luminosidad del Sol.[2]​
+En general, en las enanas rojas el transporte de energía desde el interior a la superficie tiene lugar por convección. Esto ocurre porque la radiación es muy difícil debido a la opacidad del interior, que tiene una densidad relativamente alta comparada con la temperatura y es más difícil para los fotones viajar hacia la superficie, de modo que la convección resulta ser un proceso más eficiente para la transmisión de la energía.[3]​
+Al ser las enanas rojas totalmente convectivas, el helio no se acumula en el núcleo y, en comparación con estrellas más grandes, como el Sol, pueden quemar una proporción más grande de su hidrógeno antes de abandonar la secuencia principal. El resultado es que la vida estimada de las enanas rojas supera la edad estimada del universo, posiblemente de 200 000 millones a varios billones de años, por lo que las estrellas con menos de 0,8 masas solares no han tenido tiempo de dejar la secuencia principal. Las enanas rojas de menor masa tienen vidas aún más largas, lo que implica que su evolución ha de estudiarse mediante modelos matemáticos al no disponer de suficientes datos por observación.
+Tales modelos sugieren que la masa mínima de las estrellas que pueden convertirse en gigantes rojas es de 0,25 masas solares; las de masa inferior aumentan su temperatura superficial —y por tanto su luminosidad— sin aumentar su tamaño, convirtiéndose en enanas azules, y de ahí finalmente en enanas blancas. Este proceso es muy lento y tanto más cuanto menor sea la masa de la estrella, estimándose que, por ejemplo, una de 0,25 masas solares permanece un billón de años en la secuencia principal, y las menores existentes en la actualidad, de 0,08 masas solares, 12 billones de años.[4]​
+Para una estrella de 0,16 masas solares (el caso de la cercana estrella de Barnard), por ejemplo, se calcula que la fase de enana azul llegaría tras algo más de 2,5 billones de años en la secuencia principal, y duraría alrededor de 5000 millones de años, durante los cuales la estrella tendrá 1/3 de la luminosidad del Sol y una temperatura superficial que llegará hasta alrededor de 8500 kelvins al final de esta fase, por lo que si hubiera planetas en órbita alrededor de esta y que hasta entonces han tenido temperaturas frías, podrían descongelarse y dar de nuevo una oportunidad a que la vida floreciera.[4]​    
+El hecho de que las enanas rojas y otras estrellas de masa baja permanezcan en la secuencia principal mientras las estrellas más masivas la han abandonado, permite estimar la edad de cúmulos estelares encontrando la masa a partir de la cual las estrellas han dejado la secuencia principal. Esto proporciona un límite inferior para la edad del Universo y también permite colocar escalas de tiempo de formación en las estructuras existentes dentro de la Vía Láctea, tales como el halo galáctico y el disco galáctico.
+Un misterio que no ha sido solucionado desde 2007 es la ausencia de enanas rojas sin metales, entendiendo por metal cualquier elemento más pesado que hidrógeno o helio. El modelo del Big Bang predice que la primera generación de estrellas solo debería tener hidrógeno, helio y trazas de litio. Si entre estas estrellas existieron enanas rojas, estas todavía deberían ser observables hoy, pero ninguna ha sido identificada aún. La explicación preferida consiste en que, sin elementos pesados, solo pueden formarse estrellas grandes de Población III (aún no descubiertas), que rápidamente fusionan elementos pesados que luego son incorporados en la formación de enanas rojas. Otras explicaciones alternativas, como que las enanas rojas de edad cero en la secuencia principal son tenues y muy escasas, se consideran mucho menos probables, ya que parece que entran en conflicto con los modelos de evolución estelar.
+Las enanas rojas son la clase de estrellas más común en la galaxia, al menos en la vecindad del sistema solar. Próxima Centauri, la estrella más cercana al Sol, es una enana roja de tipo espectral M5 y magnitud aparente 11,05; de las treinta estrellas más cercanas, veinte son enanas rojas (*). Sin embargo, debido a su baja luminosidad, las enanas rojas no puede ser observadas fácilmente a las distancias interestelares en las que sí observamos otras clases de estrellas; de hecho, ninguna enana roja es visible a simple vista.[5]​
+
+
+=== Ejemplos de enanas rojas ===
+En la tabla siguiente figuran las características principales de algunas enanas rojas, ordenadas según su tipo espectral.
+
+
+== Sistemas planetarios ==
+
+Aunque la mayor parte de los planetas extrasolares descubiertos orbitan alrededor de enanas amarillas similares al Sol, se conocen sistemas planetarios alrededor de enanas rojas.
+Al ser tan tenues en el espectro visible, las enanas rojas son objetivos difíciles para obtener velocidades Doppler precisas; por ello suponen solo el 5% de los objetivos actuales en la búsqueda de planetas. Se especula que pueden albergar menos planetas que las estrellas de tipo G o que estos pueden ser menos masivos, como consecuencia del menor tamaño de sus discos protoplanetarios.[6]​
+Sin embargo, debido a su pequeña masa y baja temperatura superficial, esta clase de estrellas constituyen los objetivos más prometedores a la hora de buscar planetas terrestres potencialmente habitables.
+Al ser las estrellas menos masivas, experimentan las mayores aceleraciones como respuesta a la presencia de un planeta orbitando en torno a ellas.
+Ello ha llevado al descubrimiento del primer planeta extrasolar con una masa comparable a la de Neptuno —Gliese 436 b— así como al de la primera «supertierra», alrededor de Gliese 876.
+La zona habitable en torno a estas estrellas se sitúa a distancias comprendidas entre 0,1 y 0,2 UA, correspondiendo a períodos orbitales entre 20 y 50 días.[7]​
+En la siguiente tabla se recogen aquellas enanas rojas cercanas al sistema solar en donde se han descubierto planetas extrasolares.
+
+* Gliese 317 podría ser una estrella subenana de muy baja metalicidad.
+Gliese 876 b, descubierto en 1999, fue el primer planeta extrasolar conocido orbitando alrededor de una enana roja. Gliese 581 alberga al menos cuatro planetas; dos de ellos, Gliese 581 g y Gliese 581 d, orbitan en la zona de habitabilidad de la estrella y, entre los planetas extrasolares descubiertos hasta ahora, son probables candidatos a ser habitables.[8]​
+
+
+== Véase también ==
+Clasificación estelar
+Diagrama de Hertzsprung-Russell
+Enana naranja
+Estrella subenana
+Habitabilidad en sistemas de enanas rojas
+Lista de estrellas más cercanas
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+(Artículo sobre la evolución de este tipo de estrellas. Archivo PDF en inglés)

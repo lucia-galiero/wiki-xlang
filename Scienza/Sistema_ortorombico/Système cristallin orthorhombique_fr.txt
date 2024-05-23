@@ -1,0 +1,23 @@
+En cristallographie, le système cristallin orthorhombique est l'un des sept systèmes cristallins dans lesquels on classe les cristaux selon leurs propriétés de symétrie. Tout cristal orthorhombique possède comme opération de symétrie une rotation binaire ou une réflexion, voire les deux, selon trois directions perpendiculaires qui sont choisies comme axes du référentiel.
+
+
+== Classes cristallines ==
+Le tableau ci-dessous donne les numéros des groupes d'espace des tables internationales de cristallographie du système cristallin orthorhombique, les noms des classes cristallines, les notations Schoenflies, internationales, orbifold (en) et Coxeter (en) des groupes ponctuels, des exemples, le type et les groupes d'espace.
+
+
+== Références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Structure cristalline
+Système réticulaire orthorhombique
+Présentation de tous les types de groupes d'espace
+
+
+=== Bibliographie ===
+(en) Cornelius S. Hurlbut et Cornelis Klein, Manual of Mineralogy, New York/Chichester/Brisbane etc., J. Wiley and sons, 1985, 20e éd., 69 – 73 p. (ISBN 0-471-80580-7)
+
+ Portail de la chimie   Portail des sciences des matériaux   Portail des minéraux et roches

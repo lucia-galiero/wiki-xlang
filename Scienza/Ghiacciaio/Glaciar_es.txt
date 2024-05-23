@@ -1,0 +1,297 @@
+Un glaciar (del francés glacier) es una gruesa masa de hielo y nieve originada en la superficie terrestre por acumulación, compactación y recristalización de la nieve,[1]​[2]​ mostrando evidencias de flujo en el pasado o en la actualidad. Su existencia es posible cuando la precipitación anual de nieve supera la fusionada en verano, por lo cual la mayoría se encuentra en zonas cercanas a los polos, aunque existen en otras zonas, como en montañas. El proceso del crecimiento y establecimiento del glaciar se llama glaciación, aunque este término se suele reservar para describir periodos fríos de la historia de la Tierra en los que se formaron abundantes masas de hielo y glaciares. Los glaciares del mundo son variados y se pueden clasificar según su forma ya sea de valle, de nicho, campo de hielo o por régimen climático como el tropical, temperado o polar, o condiciones térmicas de base fría, base caliente o politermal.[3]​
+Un 10 % de la Tierra está cubierta de glaciares, y en tiempos geológicos recientes ese porcentaje llegó al 30 %.[4]​ Los glaciares del mundo acumulan más del 75 % del agua dulce del planeta.[4]​ En la actualidad 91 % del volumen y 84 % del área total de glaciares está en la Antártida, 8 % del volumen y 14 % del área en Groenlandia sumando el resto de los glaciares 4 % del área y menos del 1 % del volumen.[5]​
+Los casquetes polares, glaciares continentales o inlandsis, son los glaciares más importantes que existen actualmente sobre la Tierra. Ocupan en total 15 millones de km², lo que significa el 90 % las áreas cubiertas por el hielo. El casquete de la Antártida es el más extenso.[6]​
+
+
+== Formación ==
+
+Los glaciares son producto del clima[7]​ y están permanentemente intercambiando masa con otras partes del sistema hidrológico.[8]​ Los glaciares crecen con la adición de nieve y otros tipos de hielo y pierden masa por fusión de hielo en agua, evaporación (sublimación) y el desmembramiento de témpanos de hielo.[8]​ La diferencia entre ganancias y pérdidas de masa de un glaciar se llama balance glaciar.[8]​ Cuando el balance de masa da negativo el glaciar pierde masa y cuando es positivo gana masa creciendo.[8]​ A la adición de masa de un glaciar se le llama acumulación y a la pérdida ablación.[9]​
+Las principales formas de acumulación son la precipitación directa de nieve, la escarcha, el congelamiento de agua líquida, nieve transportada por vientos, nieve y hielo traídos por avalanchas, cencelladas y el congelamiento de agua en las capas basales.[9]​ En los glaciares se suele trazar una línea imaginaria llamada línea de equilibrio la cual divide al glaciar en cuestión en dos zonas, una de acumulación y una de ablación en términos netos.[8]​
+
+
+=== Formación de hielo glaciar ===
+En los lugares de un glaciar donde la acumulación de nieve es mayor a la ablación se va acumulando nieve de año a año y las capas más profundas de la nieve se van transformando en hielo glaciar.[8]​[10]​ La transformación en hielo glaciar se debe a dos procesos, uno de compactación y otro de metamorfismo.[7]​ La velocidad de la transformación depende de la humedad y la temperatura.[11]​ Los cristales de nieve que precipitan sobre un glaciar tienen formas que van desde hexágonos y agujas a otras más complicadas, pero estas formas son inestables al acumularse ya sea en un glaciar o en otra parte y se evaporan en áreas de alta exposición y reciben condensación en lugares más protegidos, lo que termina por darles un aspecto más redondo.[11]​ Antes de convertirse en hielo glaciar la nieve se torna en neviza, que esencialmente es nieve que ha sobrevivido un año por lo menos.[8]​
+En los glaciares, donde la fusión se da en la zona de acumulación de nieve, la nieve puede convertirse en hielo a través de la fusión y el recongelamiento (en períodos de varios años). En la Antártida, donde la fusión es muy lenta o no existe (incluso en verano), la compactación que convierte la nieve en hielo puede tardar miles de años. La enorme presión sobre los cristales de hielo hace que éstos tengan una deformación plástica, cuyo comportamiento hace que los glaciares se muevan lentamente bajo la fuerza de la gravedad como si se tratase de un enorme flujo de tierra. A este casquete de hielo en la Antártida se lo clasifica como polar o frío por estar totalmente refrigerado, por estar ubicado en el polo y por no pasar por una estación estival de fusión ya que el verano es casi inexistente.
+
+El tamaño de los glaciares depende del clima de la región en que se encuentren. El balance entre la diferencia de lo que se acumula en la parte superior con respecto a lo que se derrite en la parte inferior recibe el nombre de balance glaciar. En los glaciares de montaña, el hielo se va compactando en los circos, que vendrían a ser la zona de acumulación equivalente a lo que sería la cuenca de recepción de los torrentes. En el caso de los glaciares continentales, la acumulación sucede también en la parte superior del glaciar pero es un resultado más de la formación de escarcha, es decir, del paso directo del vapor de agua del aire al estado sólido por las bajas temperaturas de los glaciares, que por las precipitaciones de nieve. El hielo acumulado se comprime y ejerce una presión considerable sobre el hielo más profundo. A su vez, el peso del glaciar ejerce una presión centrífuga que provoca el empuje del hielo hacia el borde exterior del mismo donde se derrite; a esta parte se la conoce como zona de ablación. Cuando llegan al mar, forman los icebergs al fragmentarse sobre el agua oceánica, como puede verse en una imagen de satélite de Google maps correspondiente a la Bahía de Melville, al noroeste de Groenlandia. En los glaciares de valle, la línea que separa estas dos zonas (la de acumulación y la de ablación) se llama línea de nieve o línea de equilibrio. La elevación de esta línea varía de acuerdo con las temperaturas y la cantidad de nieve caída y es mucho mayor en las vertientes o laderas de solana que en las de umbría. También es mucho mayor en las de sotavento que en las de barlovento.
+
+Los glaciares de Groenlandia y de la Antártida resultan mucho más difíciles de medir, ya que los avances y retrocesos del frente pueden estar compensados por una mayor o menor acumulación de hielo en la parte superior, presentándose una especie de ciclos de avance y retroceso que se retroalimentan mutuamente dando origen a una compensación dinámica en las dimensiones del glaciar. En otras palabras: un descenso de la altura del glaciar de la Antártida, por ejemplo, podría generar un mayor empuje hacia afuera, y al mismo tiempo, un mayor margen para que se acumule de nuevo una cantidad de hielo similar a la que existía previamente: recordemos que esta altura (unos 3 km) está determinada por el balance glaciar, que tiene una especie de techo determinado sobre el cual no se puede acumular más hielo por la escasa cantidad de vapor de agua que tiene el aire a gran altura (por lo general, a más de 3000 m).
+
+
+== Clasificación ==
+Existen varias formas de clasificar a los glaciares.[5]​ Respecto a los glaciares de roca existe una disputa en si deben ser considerados glaciares o no.[12]​
+
+
+=== Según temperatura ===
+
+El hielo de los glaciares suele ser distinguido en hielo temperado que esta a la temperatura de fusión y hielo frío que está por debajo de esta temperatura. Esta clasificación se ha extrapolado a glaciares enteros con las siguientes categorías como resultado:[13]​ 
+
+Glaciar temperado: es aquel que está, con excepción de las capas superficiales, a la temperatura de fusión (aproximadamente).
+Glaciar subpolar: son los que son templados en sus partes interiores pero fríos en sus bordes.
+Glaciar polar: son los que están enteramente bajo la temperatura de fusión. En este caso, es la elevada presión que se deriva del propio peso del hielo, lo que mantiene el agua congelada.
+En realidad, esta clasificación de los glaciares no resulta muy funcional porque se trata de un fenómeno más complejo de lo que parece. Por ejemplo, los glaciares polares no son los únicos en los que la temperatura de la masa glaciar está por debajo del punto de fusión. También en los glaciares de montaña, incluso de la zona intertropical, se encuentran en esa situación, aunque su masa, espesor y presión que soportan sea mucho menor que en los glaciares polares. Todo ello hay que tenerlo muy en cuenta, porque en este último caso han dado origen a aludes o avalanchas de enormes proporciones y de trágicas consecuencias, como sucedió en los aluviones de Ranrahirca y Yungay en Perú y de Armero en Colombia. En el caso del Perú, las catástrofes de Ranrahirca (10 de enero de 1962) y de Yungay (31 de mayo de 1970) tuvieron motivos sísmicos, ya que los terremotos fueron los causantes del desprendimiento violento de grandes masas del glaciar del Huascarán. Y en el caso de Armero, el motivo fue una erupción volcánica del Nevado del Ruiz el 13 de noviembre de 1985. Durante cierto tiempo antes de la tragedia de Armero, el volcán estuvo en erupción, lo que motivó el progresivo calentamiento de la base del glaciar, que conservó su estado sólido (por el motivo ya señalado de que el hielo es mal conductor del calor) pero que, al derretirse dicha base actuó como un lubricante y se produjo el catastrófico aluvión o desprendimiento de hielo, agua, tierra, rocas y árboles (lahar) que arrasaron a la ciudad de Armero causando más de 20 000 muertos.
+
+
+=== Según morfología ===
+Una forma es clasificar a los glaciares por su morfología aunque es preciso tener en cuenta que existe un continuo entre las diversas morfologías y que cada glaciar es único.[14]​ Basándose en clasificaciones morfológicas anteriores los glaciólogos Douglas Benn y David Evans han clasificado a los glaciares en:[14]​ 
+
+Mantos de hielo y casquetes de hielo. Este tipo de glaciares cubre todo el paisaje por lo menos en sus partes centrales y su flujo es en gran medida independiente de la topografía que haya debajo.
+Domo de hielo
+Glaciar exhutorio: Morfológicamente, los glaciares efluentes ocupan depresiones del lecho glaciar y valles encajonados, labrando la base rocosa por efectos de la acción del hielo en las márgenes de los campos de hielo y son limitados por terrenos libres de hielo.
+Corriente de hielo
+Glaciares controlados por la topografía.
+Campo de hielo
+Glaciar de valle
+Glaciares de transección
+Glaciar de circo
+Lóbulo de piedemonte
+Glaciarete
+Apron de hielo (Delantal de hielo)
+Franja de hielo
+Glaciares marinos. Estos glaciares se forman cuando un glaciar es forzado a flotar sobre agua o cuando hielo marino se engruesa producto de acumulación superficial o acreción por debajo.
+Elevación de hielo
+Plataforma de hielo de glaciar
+Plataforma de hielo marina
+
+
+== Hidrología ==
+Dado que los glaciares están compuestos por agua forman parte del ciclo hidrológico. Los glaciares actúan como reservas de agua que retienen parte de las precipitaciones.[15]​ Los glaciares del mundo albergan 68,7 % del agua dulce de la Tierra.[16]​ El agua líquida de los glaciares puede provenir de dos fuentes: de la fusión de nieve o hielo o directamente de lluvia. El sistema hidrológico interno de un glaciar es complejo variando de lugares de percolación a sistemas de túneles, grietas y cuevas.[17]​
+Existen varias formas en las que agua líquida puede ser almacenada dentro de un glaciar como en nieve y firn, en crevasses, en lagunas supraglaciales, cavidades englaciales y subglaciales aparte del sistema de drenaje subglacial y englacial así como también en los sedimentos subglaciales.[18]​ 
+Los glaciares afectan la hidrología de las hoyas hidrográficas aún en cuencas donde la superficie glaciarizada es reducida.[18]​ La descarga de agua de un glaciar suele ser estacional siendo más alta en verano.[18]​
+En el caso de glaciares temperados estos están en la primavera tardía cubiertos por nieve a la temperatura de fusión.[15]​ En los glaciares temperados el agua de fusión percola a través del firn hasta llegar a un nivel donde el firn se encuentra saturado de agua líquida.[18]​ Esta agua se encuentra impedida de seguir percolando por el hielo que hay debajo del firn en los glaciares el cual es prácticamente impermeable.[18]​ Esto termina por forma un acuífero abierto en el firn.[18]​ El grosor del acuífero va a depender de la eficiencia del drenaje englacial y también de la gradiente hidráulica.[18]​ En los estos del firn aproximadamente 40 % del espacio de los poros puede ser ocupado por agua siendo el 60 % restante ocupado por aire atrapado.[18]​
+
+
+== Movimiento ==
+
+El hielo se comporta como un sólido quebradizo hasta que su acumulación alcanza los 50 metros de espesor. Una vez sobrepasado este límite, el hielo se comporta como un material plástico y empieza a fluir. El hielo glaciar consiste en capas de moléculas empaquetadas unas sobre otras. Las uniones entre las capas son más débiles que las existentes dentro de cada capa, por lo que cuando el esfuerzo sobrepasa las fuerzas de los enlaces que mantienen a las capas unidas, éstas se desplazan unas sobre otras.
+Otro tipo de movimiento es el deslizamiento basal. Este se produce cuando el glaciar entero se desplaza sobre el terreno en el que se encuentra. En este proceso, el agua de fusión contribuye al desplazamiento del hielo mediante la lubricación. El agua líquida se origina como consecuencia de que el punto de fusión disminuye a medida que aumenta la presión. Otras fuentes para el origen del agua de fusión pueden ser la fricción del hielo contra la roca, lo que aumenta la temperatura y por último, el calor proveniente de la Tierra.
+El desplazamiento de un glaciar no es uniforme ya que está condicionado por la fricción y la fuerza de gravedad. Debido a la fricción, el hielo glaciar inferior se mueve más lento que las partes superiores. A diferencia de las zonas inferiores, el hielo ubicado en los 50 metros superiores, no están sujetos a la fricción y por lo tanto son más rígidos. A esta sección se la conoce como zona de fractura. El hielo de la zona de fractura viaja encima del hielo inferior y cuando este pasa a través de terrenos irregulares, la zona de fractura crea grietas que pueden tener hasta 50 metros de profundidad, donde el flujo plástico las sella. La rimaya es un tipo especial de grieta que suele formarse en los circos glaciares y tiene una dirección transversal al movimiento por gravedad del glaciar. Podría decirse que es una grieta que se forma en los puntos donde se separa la nieve del fondo del circo del hielo que todavía está bien adherido en la parte superior.
+
+
+== Velocidad ==
+
+ 
+La velocidad de desplazamiento de los glaciares está determinada por la fricción y la pendiente. Como se sabe, la fricción hace que el hielo de fondo se desplace a una velocidad menor que las partes superiores. En el caso de los glaciares alpinos, esto también se aplica para la fricción de las paredes de los valles, por lo que las regiones centrales son las que presentan un mayor desplazamiento. Esto fue confirmado en experimentos realizados en el siglo XIX en los que se utilizaron estacas alineadas en glaciares alpinos y se analizó su evolución. Posteriormente se confirmó que las regiones centrales se habían desplazado mayores distancias, además de tener mayor profundidad. Sucede exactamente lo mismo, aunque a menor velocidad, que el agua de los ríos moviéndose en sus cauces. Es el caso del Glaciar de Malaespina, donde vemos las capas centrales que indican un mayor espesor, crecimiento y velocidad en esa parte central, desarrollando  así, una forma típicamente redondeada como sucede en los deltas o conos de deyección fluviales. Sin embargo, esta idea dista de ser algo absoluto, ya que existen glaciares que al llegar al nivel del mar presentan dos tipos de comportamientos: en el primer caso, el glaciar que termina sobre una morrena terminal lo cual le confiere una forma redondeada (glaciar pata de elefante) y dicha zona que descansa sobre la propia morrena se mantiene aislada sobre las aguas marinas, por lo que conserva la masa terminal de hielo. El segundo caso se presenta cuando el frente del glaciar termina en un mar donde las corrientes marinas y las propias mareas mantienen todo el año unas aguas relativamente cálidas (superior a los 0º y hasta los 10.º) con lo que el frente del glaciar hace sucumbir rápidamente al avance del hielo, lo que le da una forma particular cóncava hacia adelante porque el agua oceánica, que tiene mayor temperatura y velocidad funde de manera efectiva el frente del glaciar a pesar de ser la parte de mayor espesor y de mayor rapidez de movimiento, como sucede en el glaciar Columbia de Alaska. Como resulta obvio, el agua oceánica durante el pleamar tiene mayor velocidad cuando choca con el glaciar, al que derrite en el frente de choque que se produce donde la marea alcanza su nivel máximo de penetración en el valle glaciar.
+Las velocidades medias varían. Algunos presentan velocidades tan lentas que los árboles pueden establecerse entre los derrubios depositados. En otros casos, sin embargo, se desplazan varios metros por día. Tal es el caso del glaciar Byrd, un glaciar de desbordamiento en la Antártida que, de acuerdo a estudios satelitales, se desplazaba de 750 a 800 metros por año (unos dos metros por día).
+El avance de muchos glaciares puede estar caracterizado por períodos de avance extremadamente rápidos llamados oleadas. Los glaciares que exhiben oleadas, se comportan de una manera normal hasta que repentinamente aceleran su movimiento para después volver a su estado anterior. Durante las oleadas, la velocidad de desplazamiento es hasta 100 veces mayor que bajo condiciones normales.
+En realidad, el avance o retroceso de un glaciar tanto si es de valle como continental depende del balance glaciar. Ello significa que algo que no se suele citar es que en la ecuación de la velocidad y volumen del hielo que se funde hay que tomar en cuenta, no solo la pérdida del hielo que se funde sino la alimentación, que resulta mucho más difícil de medir y abarca períodos mucho más largos, difíciles de cuantificar, no solo en términos meteorológicos sino también en términos climáticos.
+
+
+== Erosión ==
+Las rocas y los sedimentos son incorporados al glaciar por varios procesos. Los glaciares erosionan el terreno principalmente de dos maneras: la abrasión y arranque.
+
+
+=== Abrasión y arranque ===
+A medida que el glaciar fluye sobre la superficie fracturada del lecho de roca, ablanda y levanta bloques de roca que incorpora al hielo. Este proceso conocido como arranque glaciar, se produce cuando el agua de deshielo penetra en las grietas y las diaclasas del lecho de roca y del fondo del glaciar y se hiela recristalizándose. Conforme el agua se expande al congelarse, actúa como una palanca que suelta la roca levantándola. De esta manera, sedimentos de todos los tamaños entran a formar parte de la carga del glaciar.[19]​
+
+La abrasión ocurre cuando el hielo y la carga de fragmentos rocosos se deslizan sobre el lecho de roca y funcionan como un papel de lija que alisa y pule la superficie situada debajo. La roca pulverizada por la abrasión recibe el nombre de harina de roca. Esta harina está formada por granos de roca de un tamaño del orden de los 0,002 a 0,00625 mm. A veces, la cantidad de harina de roca producida es tan elevada que las corrientes de agua de fusión adquieren un color grisáceo.
+Una de las características visibles de la erosión y abrasión glaciar son las estrías glaciares producidas sobre las superficies rocosas del lecho; fragmentos de roca con afilados bordes contenidos en el hielo marcan surcos a modo de arañazos finos. Cartografiando la dirección de las estrías se puede determinar el desplazamiento del flujo glaciar, lo cual es una información de interés en el caso de antiguos glaciares.[20]​
+
+
+=== Velocidad de erosión ===
+La velocidad de erosión de un glaciar es muy variable. Esta erosión diferencial llevada a cabo por el hielo está controlada por cuatro factores importantes:
+
+Velocidad del movimiento del glaciar.
+Espesor del hielo.
+Forma, abundancia y dureza de los fragmentos de roca contenidos en el hielo en la base del glaciar.
+Erosionabilidad de la superficie por debajo del glaciar.
+
+
+=== Derrubios y detritos ===
+
+En ambientes de alta montaña, los glaciares pueden presentar una cobertura detrítica superficial continua, conocida con el nombre de debris covered glacier. Esta capa produce, tanto en la zona de acumulación, como en la zona de ablación, un proceso progresivo de adelgazamiento de masa que genera una importante acumulación de detritos en ambientes supraglaciales.[21]​ Este tipo de glaciares recubiertos representan la fase intermedia dentro del continuum de los sistemas glaciales (dependientes del flujo de detritos y del hielo dentro del sistema), desde glaciares descubiertos a glaciares rocosos.[22]​
+El origen de los detritos supraglaciales se asocia a la existencia de una secuencia: cara libre, talud en laderas con escarpes rocosos, que presentan alta sensibilidad a la meteorización y descargan detritos en forma directa sobre la superficie glacial.[23]​ La acumulación de detritos supraglaciales influye directamente sobre los procesos de ablación y de flujo de hielo, debido a alteraciones en el albedo y en la conductividad térmica del glaciar. En este sentido, Strem (1959), Naakawo & Yonng (1981, 1982) (en Ferrando, 2003) y Benn & Evans (1998) definen un umbral inferior a 1 cm en la capa de detritos como el espesor que favorece la fusión del hielo y una capa de detritos de 1 cm o más como aislante del hielo subyacente. Los procesos de fusión del hielo pueden favorecer el aumento en la capa detrítica supraglacial, debido a la incorporación de material intraglaciar al manto del debris covered glacier o cobertura detrítica glaciar. Esta situación, puede generar fenómenos de ablación diferencial, generando procesos de inversión del relieve, caracterizados por la fusión «in situ» del hielo intersticial de la cobertura detrítica en las zonas recubiertas del glaciar; este proceso es conocido con el nombre de Karst glacial o Criokarst.
+El incremento de detritos sobre la superficie glacial, puede provocar en casos extremos, procesos de ablación con tasas que tienden a cero, generando, en consecuencia, una ineficiente evacuación de los detritos y un proceso cada vez mayor de control topográfico en la dinámica del sistema, además de un mayor desarrollo de morrenas medianas y centrales.
+Una vez que el material es incorporado al glaciar, puede ser transportado varios kilómetros antes de ser depositado en la zona de ablación. Todos los depósitos dejados por los glaciares reciben el nombre de derrubios glaciares. Los derrubios glaciares se dividen por los geólogos en dos tipos distintos:
+
+Materiales depositados directamente por el glaciar, que se conocen como tilles o barro glaciar.
+Los sedimentos dejados por el agua de fusión del glaciar, denominados derrubios estratificados.
+Los grandes bloques que se encuentran en el till o libres sobre la superficie se denominan erráticos glaciares si son diferentes al lecho de roca en el que se encuentran (esto es, su litología no es la misma que la roca encajada subyacente). Los bloques erráticos de un glaciar son rocas acarreadas y luego abandonadas por la corriente de hielo. Su estudio litológico permite averiguar la trayectoria del glaciar que los depositó.
+
+
+=== Morrenas ===
+
+Morrena es el nombre más común para los sedimentos descabalados de los glaciares. El término tiene origen francés y fue acuñado por los campesinos para referirse a los rebordes y terraplenes de derrubios encontrados cerca de los márgenes de glaciares en los Alpes franceses. Actualmente, el término es más amplio, porque se aplica a una serie de formas, todas ellas compuestas por till. En muchos glaciares de valle se pueden distinguir los siguientes tipos de morrenas: 
+
+Morrena terminal
+Una morrena terminal es un montículo de material removido previamente y que se deposita al final de un glaciar. Este tipo de morrena se forma cuando el hielo se está fundiendo y evaporando cerca del hielo del extremo del glaciar a una velocidad igual a la de avance hacia delante del glaciar desde su región de alimentación. Aunque el extremo glaciar está estacionario, el hielo sigue fluyendo depositando sedimento como una cinta transportadora.
+Morrena de fondo
+Cuando la ablación supera a la acumulación, el glaciar empieza a retroceder; a medida que lo hace, el proceso de sedimentación de la cinta transportadora continúa dejando un depósito de till en forma de llanuras onduladas. Esta capa de til suavemente ondulada se llama morrena de fondo. Las morrenas terminales que se depositaron durante las estabilizaciones ocasionales del frente de hielo durante los retrocesos se denominan morrenas de retroceso'.
+Morrena lateral
+Los glaciares alpinos producen dos tipos de morrenas que aparecen exclusivamente en los valles de montaña. El primero de ellos se llama morrena lateral. Este tipo de morrena se produce por el deslizamiento del glaciar respecto a las paredes del valle en el que está confinado; de esta manera los sedimentos se acumulan en forma paralela a los laterales del valle.
+Morrena central
+El otro tipo son las morrenas centrales. Este tipo de morrenas es exclusivo de los glaciares alpinos y se forma cuando dos glaciares se unen para formar una sola corriente de hielo. En este caso las morrenas laterales se unen para formar una franja central oscura.
+Morrena superficial
+están situadas en la superficie del glaciar.
+Morrena de frente
+se sitúan en la parte delantera del glaciar.
+
+
+== Transformación del terreno ==
+
+
+=== Valles glaciares ===
+
+Sin el efecto de las glaciaciones los valles de montaña tienen una característica forma de V, producida por la erosión del agua en la vertical. Sin embargo, durante las glaciaciones esos valles se ensancharon y ahondaron, lo que dio lugar a la creación de un valle glaciar en forma de U. Además de su profundización y ensanchamiento, el glaciar también alisa los valles gracias a la erosión. De esta manera va eliminando los espolones de tierra que se extienden en el valle. Como resultado de esta interacción se crean acantilados triangulares llamados espolones truncados, debido a que muchos glaciares profundizan sus valles más de lo que hacen sus afluentes pequeños.
+Por consiguiente, cuando los glaciares acaban retrocediendo, los valles de los glaciares afluentes quedan por encima de la depresión glaciar principal debido a su menor poder erosivo, y se los denomina valles suspendidos. Las partes del suelo que fueron afectadas por el arranque y la abrasión, pueden ser rellenadas por los denominados lagos paternoster, nombre del latín (Padre nuestro) que hace referencia a una estación de las cuentas del rosario.
+En la cabecera de un glaciar hay una estructura muy importante, se llama circo glaciar y tiene una forma de cubeta con paredes escarpadas en tres lados, pero con un lado a veces semiabierto que desciende hacia el valle. En los circos se da la acumulación del hielo. Estos empiezan como irregularidades en el lado de la montaña que luego van aumentando de tamaño por el acuñamiento del hielo. Después de que el glaciar se derrite, estos circos suelen ser ocupados por un pequeño lago de montaña denominado tarn. Los lagos formados en un antiguo glaciar de montaña pueden deberse a dos motivos: cuando son represados por las morrenas laterales y la morrena terminal, la cual termina siendo abierta por la erosión del río que emana del lago glaciar, como sucede en la laguna de Mucubají en Venezuela y los que se deben a la sobreexcavación del glaciar al encontrar atravesada en el valle una roca muy dura (gneiss y granito en los Andes venezolanos, como puede verse en la Laguna Negra). En este caso, lo mismo que sucede con los ríos de lava, el hielo puede acumularse en el fondo del valle y ascender cuando encuentra una roca muy dura, desparramándose valle abajo después de salvar el obstáculo.
+A veces cuando hay dos glaciares separados por una divisoria, y ésta, ubicada entre los circos, es erosionada se crea una garganta o paso. A esta estructura se le denomina collado, paso, abra o brecha, como sucede en la Brecha de Rolando en los Pirineos, entre el circo de Gavarnie en Francia y el de Ordesa en España.
+Los glaciares también son responsables de la creación de fiordos, ensenadas profundas y escarpadas que se encuentran en las altas latitudes. Con profundidades que pueden superar el kilómetro, son provocados por la elevación postglacial del nivel del mar y, por lo tanto, a medida que este aumentaba, las aguas marinas iban penetrando hacia el interior del valle glaciar. El fiordo escandinavo más largo es el de Sogne, con más de 200 km tierra adentro.
+En latitudes más bajas, el aumento postglacial del nivel del mar produjo también un fenómeno similar que se denomina ría: un valle, en este caso fluvial, ocupado por las aguas marinas después del último período glacial del Pleistoceno, por el propio aumento del nivel del mar al haberse derretido los grandes glaciares continentales de Eurasia y América del Norte.
+
+
+=== Aristas y horns ===
+Además de las características que los glaciares crean en un terreno montañoso, también es probable encontrar crestas sinuosas de bordes agudos que reciben el nombre de aristas y picos piramidales y agudos llamados horns.
+Ambos rasgos pueden tener el mismo proceso desencadenante: el aumento de tamaño de los circos producidos por arranque y por la acción del hielo. En el caso de los horns, el motivo de su formación son los circos que rodean a una sola montaña.
+Las aristas surgen de manera similar; la única diferencia se encuentra que en los circos no están ubicados en círculo, sino más bien en lados opuestos a lo largo de una divisoria. Las aristas también pueden producirse con el encuentro de dos glaciares paralelos. En este caso, las lenguas glaciares van estrechando las divisorias a medida que se erosionan y pulen los valles adyacentes.
+
+
+=== Rocas aborregadas ===
+Son formadas por el paso del glaciar cuando esculpe pequeñas colinas a partir de protuberancias del lecho de rocas. Una protuberancia de roca de este tipo recibe el nombre de roca aborregada. Las rocas aborregadas son formadas cuando la abrasión glaciar alisa la suave pendiente que está en el frente del hielo glaciar que se aproxima y el arranque aumenta la inclinación del lado opuesto a medida que el hielo pasa por encima de la protuberancia. Estas rocas indican la dirección del flujo del glaciar.
+
+
+=== Colinas asimétricas o Drumlins ===
+
+Las morrenas no son las únicas formas depositadas por los glaciares. En determinadas áreas que en alguna ocasión estuvieron cubiertas por glaciares de casquete continentales existe una variedad especial de paisaje glaciar caracterizado por colinas lisas, alargadas y paralelas llamadas colinas asimétricas.
+Las colinas asimétricas son de perfil aerodinámico compuestas principalmente por till. Su altura oscila entre 15 a 50 metros y pueden llegar a medir hasta 1 km de longitud. El lado empinado de la colina mira la dirección desde la cual avanzó el hielo, mientras que la pendiente más larga sigue la dirección de desplazamiento del hielo.
+Las colinas asimétricas no aparecen en forma aislada, por el contrario, se encuentran agrupados en lo que se denomina campos de colinas. Uno de ellos se encuentra en Rochester, Nueva York, y se calcula que contiene unas 10 000 colinas.
+Aunque no se sabe con certeza cómo se forman, si se observa el aspecto aerodinámico, se puede inferir que fueron moldeadas en la zona de flujo plástico de un glaciar antiguo. Se cree que muchas colinas se originan cuando los glaciares avanzan sobre derrubios glaciares previamente depositados, remodelando el material.
+
+
+=== Derrubios glaciares estratificados ===
+El agua que surge de la zona de ablación se aleja del glaciar en una capa plana que transporta fino sedimento; a medida que disminuye la velocidad, los sedimentos contenidos empiezan a depositarse y entonces el agua de fusión empieza a desarrollar canales anastomosados. Cuando esta estructura se forma en asociación de un glaciar de casquete, recibe el nombre de llanura aluvial y cuando está fundamentalmente confinada en un valle de montaña, se la suele denominar tren de valle.
+
+Las llanuras de aluvión y los trenes de valle suelen estar acompañados de pequeñas depresiones conocidas como kettles o marmitas de gigante, como se les denominan en español (término adoptado del francés), aunque es una forma menor del relieve que se forma en las corrientes fluviales, por lo que no debería considerarse en sentido estricto como un término relacionado con los glaciares, aunque son muy frecuentes en terrenos fluvioglaciares. Sin embargo, hay que tener en cuenta que un molino glaciar puede producir marmitas de gigante en el fondo de los glaciares y quedar al descubierto tras el retroceso de los mismos. Las depresiones de glaciar se producen también en depósitos de till. Las depresiones mayores se producen cuando enormes bloques de hielo quedan estancados en el derrubio glaciar y después de derretirse dejan huecos en el sedimento, dando origen, casi siempre, a un sistema formado por numerosos lagos interconectados entre sí con formas alargadas y paralelas entre sí, con una dirección más o menos coincidente con la dirección del avance del hielo durante los períodos glaciales que se sucedieron en el Pleistoceno. Es una morfología glaciar muy frecuente en Finlandia (que suele denominarse «el país de los 10 000 lagos»), en Canadá y en algunos de los estados de Estados Unidos como Alaska, Wisconsin y Minnesota. La amplitud de estas depresiones, por lo general, no supera los 2 km, salvo en Minnesota y otras partes, aunque en algunos casos llegan a alcanzar los 50 km de diámetro. Las profundidades oscilan entre los 10 y los 50 metros.
+
+
+=== Depósitos en contacto con el hielo ===
+Cuando un glaciar disminuye su tamaño hasta un punto crítico, el flujo se detiene y el hielo se estanca. Mientras tanto, las aguas de fusión que corren por encima, en el interior y por debajo del hielo dejan depósitos de derrubios estratificados. Por ello, a medida que el hielo va derritiéndose, va dejando depósitos estratificados en forma de colinas, terrazas y cúmulos. A este tipo de depósitos se los conoce como depósitos en contacto con el hielo.
+Cuando estos depósitos tienen la forma de colinas de laderas empinadas o montículos se los llama kames. Algunos kames se forman cuando el agua de fusión deposita sedimentos a través de aberturas en el interior del hielo. En otros casos, solo son el resultado de abanicos o deltas hacia el exterior del hielo, producidos por el agua de fusión.
+Cuando el hielo glaciar ocupa un valle pueden formarse terrazas de kame a lo largo de los lados del valle.
+
+Un tercer tipo de depósito en contacto con el hielo está caracterizado por sinuosas crestas largas y estrechas compuestas fundamentalmente de arena y grava. Algunas de estas crestas tienen alturas que superan los 100 metros y sus longitudes sobrepasan los 100 km. Se trata de los eskers, crestas depositadas por los ríos de aguas de fusión que fluyen por debajo de una masa de hielo glaciar que avanza lentamente. Estos ríos sirven de aliviadero al agua de fusión que forma el glaciar en contacto con el suelo y ocupan una especie de cuevas muy alargadas bajo el glaciar. El origen de estas colinas alargadas se encuentra en la distinta capacidad de arrastre de sedimentos entre el hielo (que es mucho mayor) y el agua: en el cauce de estos ríos subterráneos se van acumulando materiales arrastrados por el glaciar que el agua no puede seguir transportando. De aquí que los eskers sean colinas alargadas por donde pasaron los ríos internos de un glaciar. Son muy frecuentes en Finlandia y suelen presentar una dirección en el mismo sentido de desplazamiento del glaciar.
+
+
+== Causas de las glaciaciones ==
+A pesar del conocimiento adquirido durante los últimos años, poco se sabe acerca de las causas de las glaciaciones.
+Las glaciaciones generalizadas han sido raras en la historia de la Tierra. Sin embargo, la Edad de Hielo en el pleistoceno no fue el único evento de glaciación ya que se han identificado depósitos denominados tilitas, una roca sedimentaria formada cuando se litifica el till glacial.
+Estos depósitos encontrados en estratos de edades diferentes presentan características similares como fragmentos de roca estriada, algunas superpuestas a superficies de lecho de roca pulida y acanalada o asociadas con areniscas y conglomerados que muestran rasgos de depósitos de llanura aluvial.
+Se han identificado dos episodios glaciares Precámbricos, el primero hace aproximadamente 2000 millones de años y el segundo hace unos 600 millones de años. Además, en rocas del Paleozoico Superior, de una antigüedad de unos 250 millones de años se encontró un registro bien documentado de una época glacial anterior.
+Aunque existen diferentes ideas científicas acerca de los factores determinantes de las glaciaciones las hipótesis más importantes son dos: la tectónica de placas y las variaciones de la órbita terrestre.
+
+
+=== Tectónica de placas ===
+Debido a que los glaciares se pueden formar solo sobre tierra firme, la idea de la tectónica de placas sugiere que la evidencia de glaciaciones anteriores se encuentra presente en latitudes tropicales debido a que las placas tectónicas a la deriva han transportado a los continentes desde latitudes tropicales hasta regiones cercanas a los polos. La evidencia de estructuras glaciares en Sudamérica, África, Australia y la India avalan esta idea, debido a que se sabe que experimentaron un período glacial cerca del final del Paleozoico, hace unos 250 millones de años.
+La idea de que las evidencias de glaciaciones encontradas en las latitudes medias está estrechamente relacionada al desplazamiento de las placas tectónicas y fue confirmada con la ausencia de rasgos glaciares en el mismo período para las latitudes más altas de Norteamérica y Eurasia, lo que indica, como es obvio, que sus ubicaciones eran muy diferentes de las actuales. En otro orden de ideas, el que actualmente se exploten minas de carbón en el archipiélago de Svalbard también sirve para corroborar la idea del desplazamiento de las placas tectónicas, ya que no existe actualmente en dicho archipiélago una vegetación suficiente como para explicar estos yacimientos de carbón mineral.
+Los cambios climáticos también están relacionados con las posiciones de los continentes, por lo que han variado en conjunto con el desplazamiento de placas que, además, afectó los patrones de corrientes oceánicas lo que a su vez llevó a cambios en la transmisión del calor y la humedad. Debido a que los continentes se desplazan muy despacio (cerca de 2 centímetros al año), semejantes cambios probablemente ocurren en períodos de millones de años.
+
+
+=== Variaciones en la órbita terrestre ===
+Debido a que el desplazamiento de las placas tectónicas es muy lento, esta explicación no puede utilizarse para explicar la alternancia entre climas glacial e interglacial que se produjo durante el Pleistoceno. Por tal motivo, los científicos creen que tales oscilaciones climáticas del Pleistoceno deben estar ligadas a variaciones de la órbita terrestre. Esta hipótesis fue formulada por el yugoslavo Milutin Milankovitch y se basa en la premisa de que las variaciones de la radiación solar entrante constituyen un factor fundamental en el control del clima terrestre.
+El modelo está basado en tres elementos:
+
+Variaciones en excentricidad de la órbita de la Tierra alrededor del Sol;
+cambios en la oblicuidad, es decir, los cambios en el ángulo que forma el eje con el plano de la órbita terrestre, y
+La fluctuación del eje de la Tierra, conocido como precesión.
+A pesar de que las condiciones de Milankovitch no parecen justificar grandes cambios en la radiación incidente, el cambio se hace sentir porque cambia el grado de contraste de las estaciones.
+Un estudio de sedimentos marinos que contenían ciertos microorganismos climáticamente sensibles hasta hace cerca de medio millón de años atrás fueron comparados con estudios de la geometría de la órbita terrestre, el resultado fue contundente: los cambios climáticos están estrechamente relacionados con los períodos de oblicuidad, precesión y excentricidad de la órbita de la Tierra.
+En general, con los datos recogidos se puede afirmar que la tectónica de placas es solo aplicable para períodos muy largos, mientras que la propuesta de Milankovitch, apoyada por otros trabajos, se ajusta a las alternancias periódicas de los episodios glaciales e interglaciales del Pleistoceno. Debe tenerse en cuenta que estas proposiciones, están sujetas a críticas. Todavía no se sabe con certeza si hay otros factores involucrados.
+
+
+== La glaciación del Cuaternario ==
+
+En 1821, un ingeniero suizo, Ignaz Venetz, presentó un artículo en el que sugería la presencia de rasgos de paisaje glaciar a distancias considerables de los Alpes. Esta idea fue negada por otro científico suizo, Louis Agassiz, pero cuando se encaminó a demostrar su invalidez, en realidad terminó acreditando las presunciones de este colega y otros que le siguieron, como De Saussure, Esmark y Charpentier. En efecto, un año más tarde de su excursión con Charpentier (1836), Agassiz planteó la hipótesis de una gran época glacial que habría tenido efectos generales y de largo alcance. Su contribución a la llamada Teoría Glacial consolidó su prestigio como naturalista.
+Con el tiempo, y gracias al refinamiento del conocimiento geológico, se comprobó que hubo varios períodos de avance y retroceso de los glaciares y que las temperaturas reinantes en la Tierra eran muy diferentes de las actuales.
+Se ha establecido una división cuádruple de la glaciación cuaternaria para Norteamérica y Europa. Estas divisiones se basaron principalmente en el estudio de los depósitos glaciares. En América del Norte, cada una de estas cuatro etapas fue denominada por el estado en el que se encontraban depósitos de esa etapa eran patentes. En orden de aparición esos períodos glaciales («glaciaciones») de la glaciación cuaternaria son los siguientes: Günz (Nebrasquiense en Norteamérica), Mindel (Kansaniense en Norteamérica), Riss (Illinoisiense en Norteamérica), y Würm (Wisconsinense en Norteamérica). Esta clasificación fue refinada gracias al estudio detallado de los sedimentos del fondo oceánico. Gracias a que los sedimentos del fondo oceánico, a diferencia de los continentales, no están afectados por discontinuidades estratigráficas, sino que resultan de un proceso continuo, son especialmente útiles para determinar los ciclos climáticos del planeta.
+De esta manera, las divisiones identificadas han pasado a ser unas veinte y la duración de cada una de éstas es de aproximadamente 100 000 años. Todos estos ciclos están ubicados en lo que se conoce como la glaciación cuaternaria.
+Durante su auge, el hielo dejó su marca en casi el 30 % de la superficie continental cubriendo por completo unos 10 millones de km² de América del Norte, 5 millones de km² de Europa y 4 millones de km² de Siberia. La cantidad de hielo glaciar en el hemisferio norte fue el doble que en el sur. Esto se justifica porque en el hemisferio sur, el hielo no encontró para cubrirlo más territorio que el continente antártico.
+En la actualidad se considera que la glaciación empezó entre hace 2 y 3 millones de años, definiendo lo que se conoce como Pleistoceno.
+Los glaciares del Pleistoceno, así como su influencia sobre la aparición y expansión territorial de los seres humanos se explica en el libro de Gwen Schultz Glaciers and the ice age. Earth and its inhabitants during the Pleistocene[24]​ 
+
+
+=== Algunos efectos de la glaciación cuaternaria ===
+
+Los efectos de la glaciación cuaternaria todavía se evidencian. Se sabe que especies de animales y plantas se vieron obligadas a emigrar mientras que otras no pudieron adaptarse. No obstante, la evidencia más importante es el actual levantamiento que experimentan Escandinavia y Norteamérica. Por ejemplo, se sabe que la bahía de Hudson en los últimos miles de años se elevó unos 300 metros. El motivo de este ascenso de la corteza se debe a un equilibrio isostático. Esta teoría sostiene que cuando una masa, como un glaciar, pandea la corteza terrestre, esta última se hunde por la presión, pero una vez que el glaciar se derrite, la corteza empieza a elevarse hasta su posición original, es decir, a su nivel de equilibrio, al liberarse del peso del propio glaciar. A esta especie de rebote también se le denomina movimiento eustático.
+
+
+== Vida microbiana en los glaciares ==
+A pesar de las condiciones ambientales extremas que hay en los glaciares, como bajas temperaturas, altos niveles de radiación solar, ciclos periódicos de congelación-descongelación y limitación de nutrientes, las superficies de los glaciares contienen una gran diversidad microbiana, incluyendo bacterias, algas, arqueas, hongos y otros microeucariotas. Estos microorganismos que habitan en los glaciares son capaces de adaptarse a las condiciones extremas de los mismos, así como contribuir a procesos ecológicos vitales, como el ciclo de carbono y del nitrógeno. Además, los glaciares contienen el mayor reservorio de microorganismos ancestrales, con una antigüedad de más de 10.000 años, por lo que estos ambientes suponen una cronología muy valiosa de la vida microbiana de nuestro planeta.[25]​.
+
+
+=== Derretimiento de los glaciares. ¿Cómo se ve afectada la vida microbiana? ===
+En las últimas cinco décadas, el calentamiento global ha estado y sigue provocado el derretimiento de los glaciares tanto en zonas de alta latitud como de alta altitud. 
+Por una parte, el derretimiento de los glaciares favorece la presencia de microbios invasivos y generalistas, mientras que los microbios especialistas de los glaciares corren el riesgo de desaparecer, afectando negativamente a la biodiversidad microbiana. 
+Por otra parte, la liberación de microorganismos patógenos que actualmente están atrapados en el hielo podría provocar epidemias locales e incluso pandemias, ya que estos microorganismos podrían tener nuevos factores de virulencia que podrían afectan a humanos, animales o plantas. Además, dichos factores de virulencia podrían ser transmitidos horizontalmente a otros microorganismos por medio de elementos genéticos móviles, como plásmidos o fagos. Dado que la meseta tibetana constituye el principal suministro de agua en Asia y suministra agua a varios de los ríos más largos del mundo, la liberación de microorganismos patógenos de la meseta tibetana afectaría en primer lugar a los dos países más poblados del mundo: China e India.[25]​
+
+
+== Véase también ==
+Antártida
+Calentamiento global
+Cambio climático
+Firn
+Glaciar de roca
+Glaciología
+Groenlandia
+Inlandsis
+Molino glaciar
+Retroceso de los glaciares desde 1850
+
+
+== Referencias ==
+
+
+== Galería de imágenes ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Bibliografía complementaria ==
+DERRUAU, Max. «El sistema de erosión glacial.» En Geomorfología. Sección 3, capítulo 2. Barcelona: Ariel, 2ª ed., 1991.
+KASER, Georg; OSMASTON, Henry. Tropical Glaciers. Cambridge University Press, 2001. ISBN 0-521-63333-8.
+HAMBREY, Michael; ALEAN, Jürg. Glaciers. Cambridge University Press, 2004. ISBN 0-521-82808-2.
+MATTERN, Joanne. Antártida: El glaciar más grande del mundo. The Rosen Publishing Group, 2004. ISBN 0-8239-6874-X.
+STRAHLER, Arthur N. «Landforms made by glaciers». En Physical Geography, chapter 26. New York: John Wiley and Sons, 1960.
+STRAHLER, Arthur N. (1992, reimpresión 1997) Geología Física, cap. 18: Glaciares y Glaciaciones del Pleistoceno, Barcelona: Ed. Omega ISBN 84-282-0770-4.
+Tarbuck, E., 1999, Ciencias de la Tierra: una introducción a la geología física, Madrid, Prentice Hall.
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una galería multimedia sobre Glaciar.
+ Wikcionario  tiene definiciones y otra información sobre glaciar.
+Los glaciares no se tocan.
+Protección Glaciares.

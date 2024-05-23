@@ -1,0 +1,47 @@
+Una singolarità gravitazionale è un punto in cui la curvatura dello spaziotempo tende a un valore infinito. Secondo alcune teorie fisiche l'universo potrebbe avere avuto inizio e finire con singolarità gravitazionali, rispettivamente il Big Bang e il Big Crunch.
+
+
+== Descrizione ==
+Le singolarità sono possibili configurazioni dello spazio-tempo previste dalla teoria della relatività generale di Albert Einstein nel caso in cui la densità della materia raggiunga valori così elevati, ed il volume valori così ridotti, da provocare un collasso gravitazionale dello spaziotempo. Ogni buco nero, al suo centro, conterrebbe una singolarità circondata da un orizzonte degli eventi dal quale nessun corpo potrebbe uscire.
+Ai fini della dimostrazione dei teoremi sulle singolarità di Penrose–Hawking, uno spaziotempo con una singolarità si definisce come quello che contiene una geodetica che non si può estendere in maniera liscia. Si ritiene che la fine di tale geodetica sia appunto la singolarità. Questa è una diversa definizione, utile per le dimostrazioni dei teoremi.
+I due tipi più importanti di singolarità spaziotemporali sono le singolarità di curvatura e le singolarità coniche. Le singolarità si possono dividere anche in base alla copertura dell'orizzonte degli eventi oppure no (singolarità nude). Secondo la relatività generale, lo stato iniziale dell'universo, al principio del Big Bang, era una singolarità. Né la relatività generale, né la meccanica quantistica riescono a descrivere il Big Bang, ma, in generale, la meccanica quantistica non ammette che le particelle occupino uno spazio più piccolo delle loro lunghezze d'onda.
+Un altro tipo di singolarità prevista dalla relatività generale è quella all'interno di un buco nero: qualsiasi stella che collassi oltre un certo punto (raggio di Schwarzschild) formerebbe un buco nero, dentro al quale sarebbe formata una singolarità (coperta da un orizzonte degli eventi), mentre tutta la materia affluirebbe in un certo punto (o in una certa linea circolare, se il buco nero sta ruotando). Questo sempre secondo la relatività generale, senza la meccanica quantistica, che vieta alle particelle simili a onde di entrare in uno spazio più piccolo della loro lunghezza d'onda. Queste singolarità ipotetiche sono conosciute anche come singolarità di curvatura.
+Un qualsiasi astronauta che cadesse in un buco nero non potrebbe evitare di essere trasportato nella singolarità una volta attraversato l'orizzonte degli eventi. Appena si raggiunge la regione singolare si viene schiacciati a densità infinita e la propria massa viene aggiunta alla massa totale del buco nero.
+Tante ipotesi fantascientifiche sono nate attorno alle singolarità ed al loro comportamento: comunicazione con altri universi paralleli, scorciatoie per raggiungere distanze incommensurabili, macchine del tempo.
+Molti ricercatori ritengono che una teoria unificata della gravitazione e della meccanica quantistica (la gravità quantistica) permetterà in futuro di descrivere in modo più appropriato i fenomeni connessi con la nascita di una singolarità nel collasso gravitazionale delle stelle massicce e l'origine stessa dell'universo.
+
+
+== Note ==
+
+
+== Bibliografia ==
+Hermann Bondi, La relatività e il senso comune, Bologna, Zanichelli, 1963
+Sean M. Carroll, Spacetime and Geometry: An introduction to General Relativity. Spacetime and Geometry, Addison-Wesley, 2004. ISBN 0-8053-8732-3
+Arthur Stanley Eddington, Spazio, tempo e gravitazione: la teoria della relatività generale, Torino, Bollati Boringhieri, 2003. ISBN 88-339-0287-0
+Albert Einstein, Come io vedo il mondo. La teoria della relatività, Collana Grandi Tascabili Newton Compton, Bologna, Newton Compton Editore, 1975
+Misner, Thorne, & Wheeler: Gravitation, Freeman, 1973
+Wolfgang Pauli, Teoria della relatività, Torino, Bollati Boringhieri, 2008. ISBN 978-88-339-1864-8
+Tullio Regge, Spazio, tempo e universo: passato, presente e futuro della teoria della relatività, Torino, Utet, 2005. ISBN 88-7750-945-7
+Bertrand Russell, L'ABC della relatività, prefazione di Piergiorgio Odifreddi, Milano, Tea, 2008. ISBN 978-88-502-0648-3
+Bernard F. Schutz, A First Course in General Relativity, Cambridge University Press, 1985. ISBN 0-521-27703-5
+John Stewart, Advanced General Relativity, Cambridge University Press, 1993. ISBN 0-521-44946-4
+Kip S. Thorne, Charles W. Misner, John A. Wheeler, Gravitation, San Francisco, W. H. Freeman, 1973. ISBN 0-7167-0344-0
+Robert M. Wald, General Relativity (1984), University of Chicago Press. ISBN 0-226-87033-2
+Steven Weinberg, Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity, J.Wiley, 1972. ISBN 0-471-92567-5
+Clifford M. Will, Theory and Experiment in Gravitational Physics, Cambridge University Press, 1993. ISBN 0-521-43973-6
+
+
+== Voci correlate ==
+Buchi neri
+Relatività Generale
+Gravità quantistica
+
+
+== Collegamenti esterni ==
+(EN)  Generalised cosmological friedmann equations without gravitational singularity, articolo di A. V. Minkevich, 1980.
+(EN) Stuart L. Shapiro, Teukolsky, Saul A., Formation of naked singularities: The violation of cosmic censorship, in Physical Review Letters, vol. 66, n. 8, 1991,  pp. 994–997, Bibcode:1991PhRvL..66..994S, DOI:10.1103/PhysRevLett.66.994, PMID 10043968.
+(EN) Robert M. Wald, General Relativity, University of Chicago Press, 1984, ISBN 0-226-87033-2.
+(EN) Charles W. Misner, Kip Thorne & John Archibald Wheeler, Gravitation, W. H. Freeman, 1973, ISBN 0-7167-0344-0. §31.2 The nonsingularity of the gravitational radius, and following sections; §34 Global Techniques, Horizons, and Singularity Theorems
+(EN)  Roger Penrose(1996)"Chandrasekhar, Black Holes, and Singularities"
+(EN)  Roger Penrose(1999)"The Question of Cosmic Censorship"
+(EN)  Τ. P. Singh"Gravitational Collapse, Black Holes and Naked Singularities"

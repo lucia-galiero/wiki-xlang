@@ -1,0 +1,109 @@
+Als Lagerstätte werden in der angewandten Geologie und dem Bergbau bestimmte Bereiche der Erdkruste bezeichnet, in denen sich natürliche Konzentrationen von festen, flüssigen oder gasförmigen Rohstoffen befinden, deren Abbau sich wirtschaftlich lohnt (bauwürdige Lagerstätte) oder in der Zukunft lohnen könnte (nutzbare Lagerstätte). 
+Primäre Lagerstätten sind solche, die sich an ihrem Standort erstmals gebildet haben, sekundäre Lagerstätten sind solche, die sich nach Verwitterung, Erosion und Verfrachtung des Inhalts einer Lagerstätte durch erneute Abscheidung (Immobilisierung, Sedimentation) gebildet haben.
+
+
+== Allgemeines ==
+Natürliche Anhäufungen von nutzbaren Erzen, Mineralien und Gesteinen, deren Abbau unwirtschaftlich ist, nennt man Vorkommen. Im juristischen Kontext spricht man von Bodenschätzen. Die Lagerstätte ist eine „ungewöhnlich hohe, lokale Konzentration von einem oder mehreren chemischen Elementen in der Erdkruste“.
+Folgende drei grundlegend verschiedene Lagerstättengruppen werden unterschieden:
+
+Erzlagerstätten,
+Kohlelagerstätten und
+Erdöl- und Erdgaslagerstätten.
+Alle drei Gruppen beinhalten feste, flüssige und gasförmige Materie.
+
+
+== Grundlagen ==
+Die Lagerstättenkunde ist einerseits eine Naturwissenschaft, die die geologischen Prozesse erforscht, die zur Anreicherung von Rohstoffen in der Erdkruste führen, andererseits ist der Begriff Lagerstätte rein marktwirtschaftlich bzw. technisch definiert. Rohstoffmärkte werden in der Regel als Weltmärkte betrachtet.
+Im englischen Sprachraum ist das deutsche Wort Lagerstätte als Fremdwort geläufig, jedoch bezeichnet es dort eine besonders reiche Fossillagerstätte. Die korrekte Übersetzung von Lagerstätte in das Englische lautet stattdessen: mineral deposit (wobei diese Bezeichnung aber zuweilen auf Erzlagerstätten begrenzt ist). Der wirtschaftlich interessante Teil einer Lagerstätte wird als Vorrat oder Ressource (englisch resource) bezeichnet. Genauer wäre jedoch „nicht erneuerbare Vorräte“ (englisch non-renewable resources).
+
+
+== Allgemeine Bewertungsfaktoren ==
+Wie auf den meisten Weltmärkten üblich ergibt sich der Preis von Rohstoffen aus dem Wechselspiel von Angebot und Nachfrage. Die Nachfrage nach einem bestimmten Rohstoff wird durch seine Einsatzmöglichkeiten bestimmt. Wenn es günstige Verfahren zur Produktion der gewünschten Endprodukte gibt, so steigt die Nachfrage. Kann der Rohstoff jedoch leicht durch andere Stoffe ersetzt, oder aus Abfällen recycelt werden, so sinkt sie. Die Rohstoff-Ressourcen, die zum Angebot stehen, lassen sich im McKelvey-Diagramm darstellen: hierbei wird die Wirtschaftlichkeit eines Vorkommens gegen dessen Grad an geologischer Sicherheit aufgetragen. Die Beurteilung dieser Sicherheit geschieht nach bestimmten Vorratskategorien; siehe unten.
+Der Mindestgehalt (englisch cut-off-grade), bei dem sich der Abbau einer Lagerstätte noch lohnt, hängt dabei nicht allein von der Qualität der Rohstoffe ab, sondern auch von vielen wirtschaftlichen, technischen und sogar politischen Faktoren.
+
+Die Erschließungskosten können sich zum Beispiel durch abgelegene Lage des Vorkommens, extreme Klimabedingungen oder mangelhafte Infrastruktur deutlich erhöhen.
+Die Abbaukosten hängen unter anderem von der Tiefenlage in der Erdkruste (Teufe), der Menge des anfallenden Berg- und Grundwassers, dem Energiebedarf der Produktion und den technischen Eigenschaften der Rohstoffe ab. Zuweilen kann eine ungünstige Metallurgie den Abbau sogar ganz verhindern. So konnte das 1956 entdeckte polymetallische Vorkommen McArthur River in Australien trotz seines hohen Metallgehaltes bis heute nicht ausgebeutet werden, weil die Minerale wegen der extrem kleinen Korngröße nicht metallurgisch aufbereitet werden können.
+Die Vermarktungskosten einer Lagerstätte werden besonders durch die Länge der Transportwege zu den Kunden bestimmt.
+In dicht bebauten und industriell entwickelten Gebieten sind oft die konkurrierenden Interessen der Anrainer (Bauland, Wasserrechte, Naturschutz usw.) ausschlaggebend für die behördliche Verweigerung des Abbaus.
+In manchen Ländern erhebt der Staat so hohe Steuern auf die Gewinnung von Rohstoffen, dass ein wirtschaftlicher Abbau nicht mehr möglich ist. Auch in Ländern, in denen politische Unruhen herrschen, oder die für ihre Enteignungs-Politik bekannt sind, siedelt sich selten eine bedeutende Bergbauindustrie an. Andere Länder versuchen den Bergbau jedoch mit Steueranreizen zu fördern. In den 1960er Jahren gewährte zum Beispiel die Republik Irland den ausländischen Investoren völlige Steuerfreiheit für die ersten Betriebsjahre. In einigen Fällen führte dieses zu intensivem Raubbau und zu extrem kurzen Betriebszeiten der neuen Bergwerke, bevor sich die Investoren wieder aus dem Land zurückzogen.
+Da es sich beim Bergbau um ein besonders kapitalintensives Gewerbe handelt, sind die Betreiber auf umfangreiche Investitionen angewiesen. So führte 1997 der Skandal um die kanadische Explorationsfirma Bre-X Minerals zu einem enormen Vertrauensverlust der Investoren in die Rohstoffbranche. In der Folge kam es zu einer Welle von Insolvenzen kleinerer Explorations- und Bergbaufirmen auf der ganzen Welt.
+Alle diese Faktoren müssen ins Verhältnis zum erzielbaren Marktpreis gesetzt werden. Andererseits können technische Neuerungen unrentable Vorkommen unvermutet in Lagerstätten verwandeln. So konnten die Nchaga Consolidated Kupferminen in Sambia nach Einführung eines Metallextraktionsverfahrens aus neun Millionen Tonnen Abraum noch 80.000 Tonnen Kupfer gewinnen.
+
+
+== Klassifizierung ==
+
+
+=== Rohstoffkategorien ===
+Lagerstätten werden meistens nach ihrem wirtschaftlich wichtigsten Bestandteil in drei Gruppen eingeteilt:
+
+Elementrohstoffe:
+Erze für die Metallurgie (Hüttenwesen): Anreicherungen von metall­haltigen Mineralen wie Eisenerz (Magnetit, Hämatit und Siderit), Kupfer­kies (Chalkopyrit), Blei­glanz (Galenit), Zink­blende (Sphalerit), Zinn­stein (Kassiterit), Silber­glanz (Akanthit), Mangan­oxid (Braunstein), Zinnober (Quecksilber­sulfid) sowie Anreicherungen von gediegen vorkommenden Elementen wie Gold, Silber oder Schwefel. Eine Untergruppe sind Spatlagerstätten (Fluss- und Schwerspat), aus denen man Fluor und Barium gewinnen kann.
+Salze für die (Agrar-)Chemie: z. B. Kaliumchlorid, Magnesiumsulfat, Salpeter (Nitrate), Borate, Steinsalz (Halit) etc. sowie Auftausalz
+Energierohstoffe
+Kohlenwasserstoffe wie Erdöl und Erdgas zur Gewinnung fossiler Energie. Mit diesen sind oft kerogenhaltige Sedimentgesteine (Ölschiefer) und weitere Rohstoffe wie Asphalt, Erdwachs (Ozokerit) und Bitumen verbunden.
+Fossile Brennstoffe aus brennbaren biogenen Sedimenten und Sedimentgesteinen (Kaustobiolithe, von griechisch καύσης, Verbrennung): z. B. Braun- und Steinkohle (Anthrazitkohle) sowie Torf
+Ein Spezialfall ist der Uranbergbau zur Gewinnung von Uranerzen als Ausgangsmaterial zur Herstellung von Brennelementen für Kernkraftwerke bzw. spaltbarem Material für Kernwaffen
+Im weitesten Sinn gehört auch die Geothermalenergie als natürliche Ressource in diese Gruppe.
+Eigenschaftsrohstoffe
+Industrieminerale: z. B. Kaolin (Tonerde), Feld- und Bitterspat (Magnesit), Quarz, Graphit, Talk, Asbest, Glimmer, Alaune, Vitriole sowie Korund und Diamanten minderer Qualität zur Schleifmittel­herstellung
+sogenannte „Steine und Erden“: nutzbares Gestein wie Granit, Kalkstein, Gips, Ton, Kieselgur, Bentonit, Dolomit, Trass, Farberden, Phosphate sowie Massenrohstoffe zur Herstellung von Baustoffen, wie z. B. der Kiestagebau zur Gewinnung von Kies, Sand und Schotter – Überschneidungen mit der vorherigen Gruppe kommen vor.
+Schmucksteine: z. B. Diamant, Smaragd, Rubin/Saphir, Granat, Bernstein etc.
+Wegen seiner Bedeutung rechnet man auch das Grundwasser (Thermalquellen, Mineralwasser, Trinkwasser) zu den Lagerstätten.
+
+
+=== Vorratskategorien ===
+Die Summe aller Lagerstätten und Vorkommen in einer bestimmten Region bildet die dortigen Vorräte oder Ressourcen. Die Grundlage für die Ressourcenberechnung, sowohl für ganze Länder, als auch für einzelne Lagerstätten, bildet ein Schema von Vorratskategorien, das den ungefähren Kenntnisstand über die jeweiligen Vorräte beschreibt. Die Kennziffern sind dabei die Fehlergrenze (FG) und die Aussagesicherheit (AS). Damit zum Beispiel eine Ressource als sicher bezeichnet werden kann, müssen so viele Daten vorliegen, dass die Fehlergrenze nicht mehr als etwa 10 % beträgt und eine Aussagewahrscheinlichkeit von mehr als 80 % vorliegt. Das heißt, wenn man zum Beispiel aus Probenahmen, Bohrungen, Kartierungen usw. in einer Lagerstätte einen Vorrat von 100.000 Tonnen Erz berechnet hat, dann sollte die wirklich vorhandene Menge zwischen 110.000 und 90.000 Tonnen liegen, und die Wahrscheinlichkeit, dass diese Mengen über- oder unterschritten werden, sollte weniger als 20 % betragen. Je spärlicher die zur Verfügung stehenden Daten sind, umso höher liegt die Fehlergrenze, und umso kleiner ist die Aussagesicherheit.
+Die übliche Einteilung bezeichnet die Vorräte als:
+
+Sicher (englisch proven): (FG: etwa 10 %; AS: > 80 %) Ausdehnung und Form der Ressource (zum Beispiel ein Erzgang oder ein Ölfeld) sind bekannt.
+Wahrscheinlich (englisch probable): (FG: etwa 20 %; AS: 60 bis 80 %) Der Umfang der Ressource ist nur lückenhaft bekannt, aber es besteht eine Verbindung zu einer sicheren Ressource.
+Möglich, angedeutet (englisch possible, indicated): (FG: etwa 40 %; AS: 40 bis 60 %) Die Ressource ist durch Aufschlüsse in weitem Abstand bekannt, durch verlässliche geophysikalische Messungen oder durch Probebohrungen erkundet.
+Vermutet (englisch inferred): (FG: etwa 60 %; AS: 20 bis 40 %) Die Ressource ist nur durch wenige Aufschlüsse erkundet, oder ihr Vorhandensein wird auf Grund von Messdaten der Geophysik oder Geochemie vermutet.
+Prognostisch (englisch undiscovered). Hierbei handelt es sich um die noch unentdeckten Lagerstätten, deren Entdeckung man aber, durch Vergleiche mit der Geologie anderer, gut bekannter Gebiete in der Zukunft erwarten kann. Die prognostischen Vorräte können noch in hypothetisch (AS: 10 bis 20 %) und spekulativ (AS: < 10 %) unterteilt werden.
+Nach nordamerikanischem Vorbild werden die Vorratskategorien sicher und wahrscheinlich als gemessen (englisch measured) zusammengefasst. Zusammen mit den möglichen Ressourcen bilden sie die erkannten (englisch demonstrated) Ressourcen. Wenn man noch die vermuteten Ressourcen hinzuzählt, so erhält man alle entdeckten (englisch identified) Ressourcen. Die entdeckten Ressourcen umfassen somit alle Vorräte, deren Lage, Gehalt, Qualität und Menge durch spezifische geologische Befunde bekannt sind, oder geschätzt werden kann. Dem stehen die prognostischen Vorräte gegenüber.
+Daneben existieren noch zahlreiche andere Einteilungen von Ressourcen, sowohl in den verschiedenen Ländern, als auch für die unterschiedlichen Lagerstättentypen, als auch von den einzelnen Lagerstättenkundlern. Zuweilen werden die Reserven von den Ressourcen unterschieden. Die Bedeutung der beiden Begriffe ist aber in den verschiedenen Sprachen so unterschiedlich, dass ein konsequenter Gebrauch des Begriffs Reserve fast unmöglich ist. Im Deutschen bezeichnet er meistens den Teil einer Ressource, dessen wirtschaftlicher Abbau zum Bewertungszeitpunkt möglich ist. Oft wird dann der Begriff Ressource mit unbauwürdigen Vorräten gleichgesetzt. Bei fallenden Weltmarktpreisen können somit aus bauwürdigen Lagerstätten mit Reserven unbauwürdige Vorkommen mit Ressourcen werden, und umgekehrt.
+Die nationale Bergbaubehörde der USA (United States Geological Survey) bietet folgende Definition:
+
+Vorratsbasis (englisch reserve base): Jener Teil einer identifizierten Ressource, welche die spezifischen physikalischen und chemischen Mindestkriterien für die gegenwärtigen Bergbau- und Produktionspraktiken erfüllt, einschließlich jener für Gehalt, Qualität, Mächtigkeit und Teufe. Die Vorratsbasis beinhaltet sowohl derzeit wirtschaftliche Reserven, wie auch Reserven, die innerhalb eines bestimmten Planungszeitraumes möglicherweise wirtschaftliche abgebaut werden können.
+Reserven (englisch reserves): Jener Teil der Vorratsbasis, der zum Zeitpunkt der Bestimmung wirtschaftlich gewonnen oder produziert werden könnte. Der Begriff muss nicht bedeuten, dass Gewinnungsanlagen installiert sind und arbeiten. Reserven beinhalten nur extrahierbare Stoffmengen.
+
+
+== Aufsuchung und Untersuchung von Lagerstätten ==
+Nach vorbereitenden Literaturrecherchen und der ersten Vorerkundung (Reconnaissance) im Gelände beginnt zunächst die Phase der Prospektion. Wenn die Anzeichen eine Lagerstätte vermuten lassen, geht man zu Spezialkartierungen über, schürft an der Oberfläche, oder führt erste flache Erkundungsbohrungen durch.
+Nachdem ein Höffigkeitsgebiet lokalisiert wurde, folgt die Abgrenzung. Die Detailuntersuchungen (geologische Kartierung, Probennahme in Schürfen und Bohrungen, geochemische und mineralogisch-petrographische Analysen) werden systematisch fortgesetzt und ausgedehnt. In dieser Phase werden auch vermehrt geophysikalische Methoden wie Gravimetrie, Seismik, Magnetik, elektrische und Radar­verfahren angewandt.
+Am Ende dieser Phase der Exploration sollte die Abschätzung der Dimensionen des Vorkommens sowie eine erste Berechnung der Vorräte möglich sein.
+Im günstigen Fall folgt die eigentliche Erschließung. Die Explorationsarbeiten werden mit technischen Versuchen ergänzt und finden mit der Machbarkeits­studie (englisch feasability-study) ihren vorläufigen Abschluss. Danach kann der eigentliche Bergbau beginnen.
+
+
+== Konfliktpotential und Bergrecht ==
+
+Die Erschließung und Ausbeutung von Lagerstätten ist sehr zeitaufwendig und kostenintensiv, führt zu außerordentlich hohen Erträgen, aber auch Aufwendungen in der Nachsorge und hat erhebliche Aus- und Nachwirkungen auf Umwelt und Umgebung. Sie kann damit zu erheblichen Konflikten auf regionaler, nationaler und internationaler Ebene führen. Für globale Bergbaufirmen und deren Beschäftigte ist die Vertrags- und Investitionssicherheit von großem Belang, staatliche Institutionen sind an möglichst hohen Steuern und Abgaben aus dem Bergbaugeschäft interessiert, Kunden und Empfängerländer wünschen sich Versorgungssicherheit und niedrige Preise. 
+Bezüglich der lokalen Eigentumsverhältnisse an natürlichen Ressourcen gibt es zwei grundlegende Rechtsauffassungen und Konfliktlösungsmechanismen.
+
+das Prinzip der Bergfreiheit: das heißt, der Staat hat das Verfügungsrecht über die Bodenschätze. Diese Rechtstradition herrscht besonders im deutschen Bergrecht sowie in vielen Ländern, deren Wirtschaft wesentlich auf dem Export von Rohstoffen basiert, vor.
+der Grundsatz des Eigentümerbergbaus. Hier ist prinzipiell der Grundeigentümer der Besitzer der Bodenschätze. Auf öffentlichem Land erwirbt der Finder Ansprüche auf seinen Fund. Diese Auffassung stammt aus dem englischen Common Law. Der französische Code civil und die angelehnten Rechtssysteme vertreten einen vermittelnden Standpunkt. Die oberirdischen Lagerstätten gehören dem Grundeigentümer und die unterirdischem dem Staat, welcher an entsprechende Firmen Abbaulizenzen vergeben kann. In der Bundesrepublik Deutschland wurde entsprechend in Abgrabungsgesetz und Bundesberggesetz unterschieden, wobei die Bergaufsicht Ländersache bleibt. Die DDR hingegen hatte eine zentrale Oberste Bergbehörde.
+Je nach Lage, Verlauf und Erschließung von Vorkommen und Lagerstätten ergeben sich damit auch Konflikte unterschiedlicher Rechtstraditionen, Gebietskörperschaften und vertraglicher Regelungen. Die Entdeckung bzw. mögliche Erschließung umfangreicher Rohstoffvorkommen kann bestehende territoriale Konflikte und problematische Grenzziehungsfragen verschärfen wie auch zu neuen Rechtsinstrumenten wie bei der 200-Meilen-Zone bei Küstenstaaten beitragen. Umgekehrt sind erfolgreiche grenzüberschreitende Konfliktregelungen – wie etwa bei der EGKS als Vorläuferorganisation der EU, dem Nordseeöl oder dem Spitzbergenvertrag – eine stabile Grundlage für internationale Zusammenarbeit.
+
+
+== Siehe auch ==
+Erzlagerstätte
+Kohlelagerstätten
+Erdöl- und Erdgaslagerstätten
+Ressourcenfluch
+Holländische Krankheit
+
+
+== Literatur ==
+F. Neukirchen, G. Ries: Die Welt der Rohstoffe: Lagerstätten, Förderung und wirtschaftliche Aspekte, Springer Spektrum, Berlin 2014, ISBN 978-3-642-37738-9.
+W. L. Pohl: Mineralische und Energie-Rohstoffe: Eine Einführung zur Entstehung und nachhaltigen Nutzung von Lagerstätten, 5. Aufl., Schweizerbartsche Verlagsbuchhandlung, Stuttgart 2005, ISBN 3-510-65212-6.
+F.W. Prokop, W. Streck, M. Sagher, R.W. Tschoepke, H.W. Walther, H. Pietzner, G. Stadler, H. Vogler, H. Werner: Untersuchung und Bewertung von Lagerstätten der Erze, nutzbarer Minerale und Gesteine (Vademecum 1), 2. Aufl., Geologisches Landesamt Nordrhein-Westfalen, Krefeld 1981.
+Helmut Schröcke (1984) Geotektonik und Lagerstättenbildung. Geowissenschaften in unserer Zeit; 2, 3; 82–89; doi:10.2312/geowissenschaften.1984.2.82.
+
+
+== Weblinks ==
+
+Geologisches Porträt über Lagerstätten im Mineralienatlas Wiki
+Vorlesung Elektrizitätswirtschaft TU Clausthal (PDF; 250 kB)
+
+
+== Einzelnachweise ==

@@ -1,0 +1,361 @@
+La energía de  fusión es la energía  liberada al realizarse una reacción  de fusión nuclear. En este tipo de reacción, dos núcleos atómicos ligeros se fusionan para formar un núcleo más pesado, liberándose gran cantidad de energía en el proceso, que puede ser empleada en la bomba de  hidrógeno y en un  futuro en la producción de energía eléctrica en un hipotético reactor. La mayoría de estudios existentes para el  diseño de una central nuclear de fusión usan las reacciones de fusión para generar calor, que hará funcionar una turbina de vapor que a su vez activarán los generadores para producir electricidad, de forma similar a como ocurre actualmente en la centrales térmicas que usan combustibles fósiles o en las centrales nucleares de fisión, pero con la gran ventaja de que el impacto ambiental será considerablemente menor ya que por ejemplo, medio kilo de hidrógeno (muy abundante en la naturaleza, ya que forma parte del agua) produciría unos 35 millones de kilovatios hora.[1]​[2]​
+La investigación sobre los reactores de fusión comenzó en la década de 1940, pero hasta la fecha, ningún diseño ha producido más salida de energía de fusión que la entrada de energía eléctrica.[3]​ El mayor experimento actual es el Joint European Torus (JET). En 1977 el JET produjo un pico de 16,1 MW de energía de fusión (el 65% de la energía suministrada) con una potencia de más de 10 MW sostenida durante más de 0,5 s. En junio de 2005 se anunció la construcción del reactor experimental ITER, diseñado para producir de forma continuada más energía de fusión que la energía que se le suministra en forma de plasma.
+Los procesos de fusión requieren combustible y un entorno confinado con suficiente temperatura, presión y tiempo de confinamiento para crear un plasma en el que se pueda producir la fusión. La combinación de estas cifras que da como resultado un sistema productor de energía se conoce como criterios de Lawson. En las estrellas, el combustible más común es el hidrógeno, y la gravedad proporciona tiempos de confinamiento extremadamente largos que alcanzan las condiciones necesarias para la producción de energía de fusión. Los reactores de fusión propuestos suelen utilizar isótopos de hidrógeno pesado como el deuterio y el tritio (y especialmente una mezcla de los dos), que reaccionan más fácilmente que el protio (el isótopo de hidrógeno más común), para poder alcanzar los requisitos del criterio de Lawson con condiciones menos extremas. La mayoría de los diseños pretenden calentar su combustible a unos 100 millones de grados, lo que supone un gran reto a la hora de producir un diseño exitoso.
+Como fuente de energía, se espera que la fusión nuclear tenga muchas ventajas sobre la fisión. Entre ellas se incluyen una menor radiactividad durante el funcionamiento y pocos residuos nucleares de alto nivel, amplias reservas de combustible y una mayor seguridad. Sin embargo, la combinación necesaria de temperatura, presión y tiempo de confinamiento ha demostrado ser difícil de producir de forma práctica y económica. Un segundo problema que afecta a las reacciones comunes es la gestión de los neutroness que se liberan durante la reacción, que con el tiempo degradan muchos materiales comunes utilizados dentro de la cámara de reacción y producen su activación, generando residuos radiactivos.
+Los investigadores de la fusión han estudiado varios conceptos de confinamiento. Al principio se hizo hincapié en tres sistemas principales: z-pinch, stellarator y espejo magnético. Los principales diseños actuales son el tokamak y el confinamiento inercial por láser. Ambos diseños se están investigando a muy gran escala, sobre todo en el ITER, en Francia, donde se está construyendo un tokamak, y en el National Ignition Facility (NIF), en Estados Unidos, donde se investiga el confinamiento inercial por láser. Los investigadores también están estudiando otros diseños que pueden ofrecer enfoques más baratos. Entre estas alternativas, hay un interés creciente por la fusión de blancos magnetizados y el confinamiento electrostático inercial, así como por nuevas variaciones del stellarator.
+
+
+== Descripción de la fusión nuclear ==
+
+
+=== Mecanismo ===
+Las reacciones de fusión se producen cuando dos o más núcleos atómicos se acercan lo suficiente durante el tiempo suficiente como para que la fuerza nuclear que los atrae supere a la fuerza electrostática que los repele, fusionándose en núcleos más pesados. Para núcleos más pesados que el hierro-56, la reacción es endotérmica, requiriendo un aporte de energía.[4]​ Los núcleos pesados mayores que el hierro tienen muchos más protones, lo que resulta en una mayor fuerza de repulsión. Para los núcleos más ligeros que el hierro-56, la reacción es exotérmica, liberando energía al fusionarse. Como el hidrógeno tiene un solo protón en su núcleo, es el que requiere menos esfuerzo para lograr la fusión y el que produce más energía neta. Además, como tiene un electrón, el hidrógeno es el combustible más fácil de ionizar.
+La interacción electrostática repulsiva entre los núcleos opera a distancias mayores que la fuerza nuclear fuerte, que tiene un alcance de aproximadamente un femtómetro, esto es, aproximadamente, el diámetro de un protón o neutrón. Para que se inicie la fusión, los átomos del combustible deben recibir suficiente energía cinética para acercarse lo suficiente como para que la fuerza fuerte supere la repulsión electrostática. La "barrera de Coulomb" es la cantidad de energía cinética necesaria para que los átomos superen esta repulsión electrostática. Los átomos pueden calentarse a temperaturas extremadamente altas o acelerarse en un acelerador de partículas para alcanzar esta energía.
+
+
+=== Sección eficaz ===
+
+La sección eficaz de una reacción, representada habitualmente como 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+, mide la probabilidad de que se produzca una reacción de fusión. Depende, entre otros factores, de la velocidad relativa de los dos núcleos. Las velocidades relativas más altas generalmente aumentan la probabilidad, pero la probabilidad comienza a disminuir de nuevo a energías muy altas.[5]​
+En un plasma, la velocidad de las partículas puede caracterizarse mediante una distribución de probabilidad. Si el plasma está Termalizado, la distribución se parece a una curva de Gauss, o distribución de Maxwell-Boltzmann. En este caso, es útil utilizar la sección transversal media de las partículas sobre la distribución de velocidades. Esto se introduce en la tasa de fusión volumétrica:[6]​
+
+  
+    
+      
+        
+          P
+          
+            fusión
+          
+        
+        =
+        
+          n
+          
+            A
+          
+        
+        
+          n
+          
+            B
+          
+        
+        ⟨
+        σ
+        
+          v
+          
+            A
+            ,
+            B
+          
+        
+        ⟩
+        
+          E
+          
+            fusión
+          
+        
+        ,
+      
+    
+    {\displaystyle P_{\text{fusión}}=n_{A}n_{B}\langle \sigma v_{A,B}\rangle E_{\text{fusión}},}
+  
+
+donde:
+
+  
+    
+      
+        
+          P
+          
+            fusión
+          
+        
+      
+    
+    {\displaystyle P_{\text{fusión}}}
+  
+ es la energía hecha por fusión, por tiempo y volumen;
+
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ es la densidad numérica de cada una de las especies A o B, esto es, la cantidad de partículas por unidad de volumen;
+
+  
+    
+      
+        ⟨
+        σ
+        
+          v
+          
+            A
+            ,
+            B
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \langle \sigma v_{A,B}\rangle }
+  
+ es la sección transversal de esa reacción, promediada sobre todas las velocidades de las dos especies A y B;
+
+  
+    
+      
+        
+          E
+          
+            fusión
+          
+        
+      
+    
+    {\displaystyle E_{\text{fusión}}}
+  
+ es la energía liberada por esa reacción de fusión.
+Un átomo pierde sus electrones cuando se calienta por encima de su energía de ionización. Se denomina ion al núcleo resultante, ahora con carga eléctrica positiva. El resultado de esta ionización es el plasma, que es una nube conformada por los núcleos ionizados y los electrones libres que antes estaban ligados a ellos. Como ambos componentes están eléctricamente cargados, pese a que la carga total sea neutra, los plasmas son conductores eléctricos y tienen propiedades magnéticas. Esto es utilizado por varios dispositivos de fusión para confinar las partículas calientes.
+
+
+=== Criterio de Lawson ===
+Los criterios de Lawson muestran cómo varía la producción de energía con la temperatura, la densidad y la velocidad de colisión para cualquier combustible dado. Esta ecuación fue fundamental para el análisis de John Lawson de la fusión trabajando con un plasma caliente. Lawson asumió el siguiente balance energético:[6]​
+
+  
+    
+      
+        
+          P
+          
+            out
+          
+        
+        =
+        
+          η
+          
+            captura
+          
+        
+        
+          (
+          
+            
+              P
+              
+                fusión
+              
+            
+            −
+            
+              P
+              
+                conducción
+              
+            
+            −
+            
+              P
+              
+                radiación
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle P_{\text{out}}=\eta _{\text{captura}}\left(P_{\text{fusión}}-P_{\text{conducción}}-P_{\text{radiación}}\right)}
+  
+
+donde:
+
+  
+    
+      
+        
+          P
+          
+            out
+          
+        
+      
+    
+    {\displaystyle P_{\text{out}}}
+  
+ es la potencia neta de fusión;
+
+  
+    
+      
+        
+          P
+          
+            captura
+          
+        
+      
+    
+    {\displaystyle P_{\text{captura}}}
+  
+ es la eficiencia de captura de la salida de la fusión;
+
+  
+    
+      
+        
+          P
+          
+            fusión
+          
+        
+      
+    
+    {\displaystyle P_{\text{fusión}}}
+  
+ es la tasa de energía generada por las reacciones de fusión;
+
+  
+    
+      
+        
+          P
+          
+            conducción
+          
+        
+      
+    
+    {\displaystyle P_{\text{conducción}}}
+  
+ son las pérdidas por conducción térmica a medida que el plasma pierde energía;
+
+  
+    
+      
+        
+          P
+          
+            radiación
+          
+        
+      
+    
+    {\displaystyle P_{\text{radiación}}}
+  
+ son las pérdidas por radiación cuando la energía sale en forma de radiación electromagnética.
+Las nubes de plasma pierden energía por conducción y radiación.[6]​ La conducción se produce cuando los iones, electrones u otras partículas presentes en el plasma impactan con otras sustancias, normalmente con la superficie del dispositivo donde ocurre la reacción, proceso por el cual transfieren una parte de su energía cinética. La radiación es la energía que abandona la nube en forma de onda electromagnética. Las pérdidas por radiación aumentan con la temperatura.
+
+
+=== Triple problema: densidad, temperatura, tiempo ===
+
+Los criterios de Lawson sostienen que una máquina que mantenga un plasma termalizado y cuasi-neutro debe generar suficiente energía como para superar sus pérdidas energéticas. La cantidad de energía liberada en un volumen dado es función de la temperatura y, por tanto, de la velocidad de reacción por partícula, de la densidad de partículas dentro de ese volumen y, por último, del tiempo de confinamiento, esto es, el tiempo que la energía permanece dentro del volumen.[6]​[8]​ Esto se conoce como el "triple producto": la densidad del plasma, la temperatura y el tiempo de confinamiento.[9]​.
+En confinamiento magnético, la densidad es baja, del orden de un "buen vacío". Por ejemplo, en el dispositivo ITER la densidad del combustible es de aproximadamente 1,0 × 1019 m-3, que es aproximadamente una millonésima parte de la densidad atmosférica.[10]​ Esto significa que la temperatura y/o el tiempo de confinamiento deben ser altos para mantenerse la reacción de fusión. Las temperaturas relevantes para la fusión se han alcanzado utilizando una variedad de métodos de calentamiento que se desarrollaron a principios de la década de 1970. En las máquinas modernas, el principal problema pendiente es el tiempo de confinamiento. Los plasmas en campos magnéticos fuertes están sujetos a una serie de inestabilidades inherentes, que deben suprimirse para alcanzar tiempos de confinamiento útiles. Una forma de hacerlo es simplemente aumentar el volumen del reactor, lo que reduce la tasa de fuga debida a la difusión clásica; por eso ITER es tan grande.
+Por el contrario, los sistemas de confinamiento inercial se aproximan a los valores útiles de triple producto mediante una mayor densidad, y tienen intervalos de confinamiento cortos. En NIF, la carga inicial de combustible de hidrógeno congelado tiene una densidad inferior a la del agua que se incrementa hasta unas 100 veces la densidad del plomo. En estas condiciones, la velocidad de fusión es tan alta que el combustible se funde en los microsegundos que tarda el calor generado por las reacciones en hacer estallar el combustible. Aunque el NIF también es grande, esto es debido al diseño del láser empleado, no es un requisito inherente al proceso de fusión que tiene lugar allí.
+
+
+=== Captura de energía ===
+Se han propuesto múltiples enfoques para capturar la energía que produce la fusión. El más sencillo consiste en calentar un fluido. La reacción D-T, que suele ser el objetivo, libera gran parte de su energía en forma de neutrones de movimiento rápido. El neutrón, eléctricamente neutro, no se ve afectado por el sistema de confinamiento. En la mayoría de los diseños, se captura en una capa de litio que rodea el núcleo del reactor llamada breeding blanket o manto regenerador. Cuando recibe el impacto de un neutrón de alta energía, el manto se calienta. A continuación, se enfría activamente con un refrigerante que transporta el calor hasta una turbina donde se produce energía.
+Otro diseño propuso utilizar los neutrones para producir combustible de fisión en un manto de residuos nucleares, un concepto conocido como híbrido de fisión-fusión. En estos sistemas, la potencia de salida se ve reforzada por los eventos de fisión, y la energía se extrae utilizando sistemas como los de los reactores de fisión convencionales.[11]​
+Los diseños que utilizan otros combustibles, en particular la reacción de fusión aneutrónica protón-boro, liberan mucha más energía en forma de partículas cargadas. En estos casos, son posibles sistemas de extracción de energía basados en el movimiento de estas cargas. La conversión directa de energía se desarrolló en el Lawrence Livermore National Laboratory (LLNL) en la década de 1980 como método para mantener una tensión utilizando directamente los productos de la reacción de fusión. Esto ha demostrado una eficiencia de captura de energía del 48 por ciento.[12]​
+
+
+== Comportamiento del plasma ==
+El plasma es un gas ionizado que conduce la electricidad.[13]​ A granel, se modela utilizando la magnetohidrodinámica, que es una combinación de las ecuaciones de Navier-Stokes que rigen los fluidos y las ecuaciones de Maxwell que rigen cómo se comportan el magnético y el campo eléctrico.[14]​ La fusión aprovecha varias propiedades del plasma, entre ellas:
+
+El plasma autoorganizado conduce campos eléctricos y magnéticos. Sus movimientos generan campos que a su vez pueden contenerlo.[15]​
+El plasma diamagnético puede generar su propio campo magnético interno. Esto puede rechazar un campo magnético aplicado externamente, convirtiéndolo en diamagnético.[16]​
+Espejo magnéticos pueden reflejar plasma cuando se mueve de un campo de baja a alta densidad.[17]​:24
+
+
+== Métodos ==
+
+
+=== Confinamiento magnético ===
+
+Tokamak: el método más desarrollado y más financiado. Este método hace circular plasma caliente en un toroide confinado magnéticamente mediante bobinas electromagnéticas externas y mediante la inducción de una corriente interna. Cuando esté terminado, el ITER se convertirá en el tokamak más grande del mundo. En septiembre de 2018 se estimaba que había 226 tokamaks experimentales planificados, clausurados o en funcionamiento (50) en todo el mundo.[18]​
+Tokamak esférico: también conocido como toro esférico. Una variación del tokamak con forma esférica.
+Stellarator: En un stellarator se intenta crear una trayectoria natural de plasma, utilizando imanes externos, evitando la inducción de una corriente como en los tokamaks, pero a costa de una mayor complejidad de las bobinas magnéticas. Los stellerators fueron desarrollados por Lyman Spitzer en 1950 y evolucionaron en cuatro diseños: Torsatron, Heliotron, Heliac y Helias. Ejemplos de ellos son el Wendelstein 7-X, un dispositivo alemán que es el stellerator más grande del mundo, y el TJ-II ubicado en el CIEMAT, en Madrid.[19]​
+Anillos internos: Los stellarators crean un plasma retorcido utilizando imanes externos, mientras que los tokamaks lo hacen utilizando una corriente inducida en el plasma. Varios tipos de diseños proporcionan esta torsión utilizando conductores dentro del plasma. Los primeros cálculos mostraron que las colisiones entre el plasma y los soportes de los conductores eliminarían la energía más rápido de lo que las reacciones de fusión podrían reemplazarla. Las variaciones modernas, incluido el Experimento Dipolo Levitado (LDX), utilizan un toroide superconductor sólido que se hace levitar magnéticamente dentro de la cámara del reactor.[20]​
+Espejo magnético: Desarrollado por Richard F. Post y equipos del  LLNL en la década de 1960.[21]​ Los espejos magnéticos reflejan el plasma de un lado a otro en una línea. Las variaciones incluyeron el Espejo en tándem, la botella magnética y la cúspide bicónica.[22]​ El gobierno estadounidense construyó una serie de máquinas de espejos en los años setenta y ochenta, principalmente en el LLNL.[23]​ Sin embargo, los cálculos de la década de 1970 estimaron que era poco probable que alguna vez fueran comercialmente útiles.
+Toroide irregular: Una serie de espejos magnéticos se disponen de extremo a extremo en un anillo toroidal. Los iones combustibles que se escapan de uno de ellos quedan confinados en un espejo vecino, lo que permite elevar arbitrariamente la presión del plasma sin pérdidas. En la década de 1970 se construyó y probó en el Laboratorio Nacional de Oak Ridge (ORNL) una instalación experimental, el toroidal ELMO Bumpy Torus o EBT.
+Configuración de campo invertido: Este dispositivo atrapa plasma en una estructura cuasi estable autoorganizada; donde el movimiento de las partículas crea un campo magnético interno que luego se atrapa a sí mismo.[24]​
+Spheromak: Similar a una configuración de campo invertido, una estructura de plasma semiestable hecha utilizando el campo magnético autogenerado de los plasmas.  Un esferomaco tiene campos toroidales y poloidales, mientras que una configuración de campo invertido no tiene campo toroidal.[25]​
+Dynomak es un esferomak que se forma y se mantiene mediante la inyección continua de flujo magnético.[26]​[27]​[28]​
+Rayado de campo invertido: Aquí el plasma se mueve dentro de un anillo. Este tiene un campo magnético interno. Saliendo del centro de este anillo, el campo magnético invierte su dirección.
+
+
+== Ciclo de fusión ==
+El concepto básico de una reacción de fusión nuclear es acercar dos o más núcleos atómicos lo suficiente como para que la interacción nuclear fuerte (la fuerza que mantiene unidos protones y neutrones en un núcleo) los una para formar un núcleo mayor. Si dos núcleos ligeros se fusionan, formarán un solo núcleo con algo menos de masa que la suma de sus masas originales. La diferencia de masa se libera como energía de acuerdo a la fórmula de la equivalencia entre masa y energía E = mc2. Si los núcleos originales son suficientemente masivos, el producto resultante de la fusión será más pesado que la suma de sus masas, en cuyo caso la reacción requerirá una fuente externa de energía. La línea divisoria entre ambos tipos de fusiones, exotérmicas y endotérmicas, la establece el hierro-56. Sobre esta masa atómica, la energía será liberada por fisión nuclear; bajo ella, por fusión.[29]​
+
+
+=== Reacción D-T ===
+
+De acuerdo a los criterios de Lawson, la más sencilla y prometedora reacción de fusión es:
+
+21D + 31T → 42He + 10n
+
+El Hidrógeno-2 (Deuterio) es isótopo encontrado y disponible en la naturaleza. La gran diferencia de masa entre los dos principales isótopos de Hidrógeno (Protio y el propio Deuterio) hace fácil su separación comparada con la dificultad del proceso de enriquecimiento de uranio. El Hidrógeno-3 (Tritio) también es un isótopo del Hidrógeno, pero su ocurrencia natural es insignificante. Debido a ello, se hace necesario recurrir a la reproducción desde el litio usando alguna de las siguientes reacciones:
+
+10n + 63Li → 31T + 42He
+10n + 73Li → 31T + 42He + 10n
+El neutrón reactante es suministrado por la reacción D-T anterior. La reacción con 6Li es exotérmica, suministrando una pequeña ganancia de energía al reactor. La reacción con 7Li es endotérmica pero no consume el neutrón. Se requieren al menos algunas reacciones con 7Li para reemplazar los neutrones perdidos por la absorción de otros elementos. La mayoría de los diseños de reactores se aprovechan de la ocurrencia natural de una mezcla de isótopos de litio.
+
+
+=== Reacción D-D ===
+Aunque más difícil de producir que la reacción Deuterio-Tritio, la fusión puede realizarse a través de la fusión del Deuterio consigo mismo. Esta reacción produce dos ramas que ocurren con casi la misma probabilidad:
+
+21D + 21D → 31T + 11H
+21D + 21D → 32He + 10n
+La cantidad óptima de energía para iniciar esta reacción es 15 MeV, sólo ligeramente mayor que la óptima para la reacción D-T. La primera rama no produce neutrones, pero sí Tritio, por lo que un reactor D-D no estará totalmente libre de Tritio, incluso pese a no requerir una entrada de tritio o litio. La mayoría del tritio producido se consumirá antes de dejar el reactor, lo que reducirá la cantidad de tritio a manejar, pero producirá más neutrones, algunos de los cuales serán bastante energéticos. Los neutrones de la segunda rama tienen una energía de sólo 2.45 MeV (0.393 pJ), mientras los neutrones de la reacción D-T tendrán una energía de 14.1 MeV (2.26 pJ), resultando en una mayor producción de isótopos y deterioro de material.
+Suponiendo que se consuma todo el tritio del reactor, la reducción en la fracción de la energía de fusión llevada por los neutrones sería de solo un 18%, así que la principal ventaja del ciclo de combustión D-D es que no necesita producción de tritio. Otras ventajas son la independencia del escaso abastecimiento de litio y una algo más suave radiación de neutrones durante el proceso. La desventaja de la D-D comparada con la D-T es que el tiempo de confinamiento (a una presión determinada) será 30 veces más largo y la potencia producida (a una presión y volumen dados) sería 68 veces menor.
+
+
+== Véase también ==
+ Portal:Energía. Contenido relacionado con Energía.
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Clery, Daniel (2014). A Piece of the Sun: The Quest for Fusion Energy. The Overlook Press. ISBN 978-1-4683-1041-2. 
+Cockburn, Stewart; Ellyard, David (1981). Oliphant, the life and times of Sir Mark Oliphant. Axiom Books. ISBN 9780959416404. 
+Dean, Stephen O. (5 de enero de 2013). Search for the Ultimate Energy Source: A History of the U.S. Fusion Energy Program. Springer Science & Business Media. ISBN 978-1-4614-6037-4. 
+Hagelstein, Peter L.; McKubre, Michael; Nagel, David; Chubb, Talbot; Hekman, Randall (2004). «New Physical Effects in Metal Deuterides». 11Th Condensed Matter Nuclear Science (Washington: US Department of Energy) 11: 23-59. Bibcode:2006cmns...11...23H. ISBN 978-981-256-640-9. doi:10.1142/9789812774354_0003. Archivado desde el original el 6 de enero de 2007.  (manuscript)
+Hutchinson, Alex (8 de enero de 2006). «The Year in Science: Physics». Discover Magazine (Online). ISSN 0274-7529. Consultado el 20 de junio de 2008. 
+Nuttall, William J., Konishi, Satoshi, Takeda, Shutaro, and Webbe-Wood, David (2020). Commercialising Fusion Energy: How Small Businesses are Transforming Big Science. IOP Publishing. ISBN 978-0-750-32717-6.
+Molina, Andrés de Bustos (29 de agosto de 2013). Kinetic Simulations of Ion Transport in Fusion Devices. Springer International Publishing. ISBN 978-3-319-00421-1. 
+Nagamine, Kanetada (2003). «Muon Catalyzed Fusion». Introductory Muon Science. Cambridge University Press. ISBN 978-0-521-03820-1. 
+Pfalzner, Susanne (2006). An Introduction to Inertial Confinement Fusion. USA: Taylor & Francis. ISBN 978-0-7503-0701-7. 
+
+
+== Enlaces externos ==
+Web sobre La Energía Nuclear
+Fusión como fuente de energía
+EURATOM/UKAEA Fusion Association Archivado el 19 de marzo de 2021 en Wayback Machine.
+ITER
+IFMIF
+FIRE
+FUSION FAQ
+European Fusion Development Agreement
+Glosario Plasma/Fusion
+Charla técnica en Google

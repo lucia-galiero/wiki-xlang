@@ -1,0 +1,940 @@
+La maladie à coronavirus 2019, communément appelée la ou le Covid-19 (acronyme de l'anglais coronavirus disease 2019), est une maladie infectieuse émergente majeure de type zoonose virale causée par la souche de coronavirus SARS-CoV-2. Les symptômes les plus fréquents sont la fièvre, la toux, la fatigue et la gêne respiratoire. Dans les formes les plus graves, l'apparition d'un syndrome de détresse respiratoire aiguë peut entraîner la mort, notamment chez les personnes plus fragiles du fait de leur âge ou en cas de comorbidités. Une autre complication mortelle est une réponse exacerbée du système immunitaire inné (choc cytokinique).
+Une perte brutale de l'odorat (anosmie), associée ou non à une perte du goût (agueusie), est une manifestation relativement fréquente et à l'origine révélatrice de l'infection par le SARS-CoV-2. La diffusion des tests PCR permet en 2022 un diagnostic fiable.
+La transmission interhumaine se fait surtout par gouttelettes respiratoires et aérosolisation,, lorsqu'une personne respire dans un même lieu clos ou à proximité immédiate d'autres personnes. La transmission augmente en intérieur mal ventilé et lorsque la personne infectée tousse, éternue, parle ou chante. La transmission indirecte par surface contaminée, bien que possible, n'a pas été formellement démontrée. La période d'incubation est en moyenne de 5 à 6 jours, avec des extrêmes pouvant aller de deux à quatorze jours.
+Le taux de formes asymptomatiques est estimé à près de 20 % des personnes infectées. Une proportion importante de personnes infectées, notamment d'enfants, peu symptomatiques ou asymptomatiques peuvent néanmoins transmettre la maladie. De plus, chez les personnes symptomatiques, la contagiosité peut précéder les symptômes de 2 à 3 jours et apparait maximale durant les premiers jours de la maladie.
+La mortalité concerne principalement les personnes âgées, l'âge moyen des décès dus à la Covid-19 étant de 81 ans au début de l'épidémie, et les personnes présentant des comorbidités (diabète, obésité, etc.). Le taux de létalité, initialement estimé à environ 0,5 % en moyenne, varie de 0,01 % pour les moins de 15 ans à 17,4 % pour les plus de 90 ans.
+Au début des années 2020, la maladie à coronavirus 2019 est une pandémie, qui bouleverse l'activité humaine sur la totalité de la planète, à travers des confinements généraux, de strictes mesures sanitaires, la fermeture des frontières, et le ralentissement ou l'annulation dans de nombreux secteurs économiques ou événementiels. Plusieurs types de vaccins anti-covid sont fabriqués, notamment à ARN messager qui à partir de 2021, sont administrés à une grande partie de la population dans les pays riches, en Europe, Amérique du Nord et du Sud, Asie et Océanie, pour tenter de freiner la pandémie.[réf. nécessaire]De nombreux variants apparus successivement depuis le début de la pandémie compliquent le tableau, concernant notamment les risques de réinfection et l'efficacité à terme des différents vaccins.
+
+
+== Nom de la maladie ==
+
+
+=== Dénomination par l'OMS ===
+Le 11 février 2020, l'OMS nomme officiellement la maladie dans plusieurs langues, dont la langue française, où le terme retenu est : « maladie à coronavirus 2019 (COVID-19) ». La désignation COVID-19, donnée de façon identique à toutes les langues, est un mot-valise formé par amuïssement des termes du syntagme en langue anglaise (coronavirus disease 2019),. L'organisation, dans la version du texte en langue française, emploie majoritairement l'acronyme au féminin : « La COVID-19 est la maladie infectieuse causée par le dernier coronavirus qui a été découvert ».
+
+
+=== Europe francophone ===
+
+
+==== Dénominations institutionnelles ====
+L'acronyme Covid-19 est repris en France et en Belgique avec la typographie Covid-19 et un genre masculin, y compris dans les communications gouvernementales malgré quelques exceptions. Dans les textes législatifs et réglementaires français instaurant l'état d'urgence sanitaire en mars 2020, le mot est utilisé au masculin, mêlant l'épidémie et le virus,. Dans la législation suisse en français et dans les communications gouvernementales en français au niveau fédéral,,, il est écrit en majuscules et utilisé au masculin.
+Dans le décret français no 2020-545 du 11 mai 2020 « prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans le cadre de l'état d'urgence sanitaire », le mot est écrit en minuscule covid-19 avec un emploi au masculin mais sert indifféremment à désigner la maladie et le virus, comme dans d'autres textes ultérieurs,. On retrouve le même genre d'usage dans des textes officiels belges.
+Début mai 2020, le site de l'Académie française écrit sa préférence pour l'emploi du féminin pour Covid-19,, son noyau étant un équivalent du nom français féminin « maladie »,. Dans ses échos à cet avis, la presse européenne doute de son impact,, sur des usages bien ancrés, observant qu’il ne s’agit pas d’une position collégiale de l’Académie mais qu’il s’agirait d'une décision d'Hélène Carrère d'Encausse seule, son secrétaire perpétuel, en raison de la difficulté à réunir les académiciens en période de confinement.
+
+
+==== Usages ====
+Un sondage réalisé en France par l'Ifop en mars 2021 montre que 56 % des Français emploient le mot « Covid » exclusivement au masculin, contre 19 % au féminin et 25 % aux deux genres, bien que, dans le même temps, seuls 23 % de Français considère le genre masculin comme le genre correct,.
+La recommandation de l’Académie française a eu peu d’effet sur les médias français.
+
+
+==== Dictionnaires ====
+Le 4 juin 2020, le nom « covid » entre dans le dictionnaire en ligne du Robert qui le considère masculin ou féminin, en raison des usages différents en France et au Québec. Dans la version 2022 du Petit Robert, le mot « Covid-19 » fait également son entrée au masculin ou féminin.
+En 2021, le nom « COVID-19 » (avec la graphie « Covid-19 » comme variante) entre également dans l’édition 2022 du Petit Larousse qui le considère féminin ou masculin,.
+
+
+=== Canada francophone ===
+Au Canada, le nom est repris avec la typographie COVID-19. Si l'usage du masculin pour COVID-19 l'emporte dans un premier temps, l’Office québécois de la langue française se prononce rapidement pour un emploi au féminin,. Début mars, le média national Radio-Canada recommande l'emploi du féminin sur son antenne. Par la suite, le Bureau de la traduction du gouvernement canadien précise également le même genre. Ces démarches aboutissent à un usage beaucoup plus fréquent du féminin au Canada que dans le reste de la francophonie. Dans leurs allocutions, les premiers ministres Justin Trudeau, du Canada, et François Legault, du Québec, emploient le féminin.
+Une étude a montré que 100 % des médias canadiens francophones suivent la recommandation d’utiliser le féminin.
+
+
+== Historique de la maladie ==
+
+Bien que l'origine exacte du virus soit encore inconnue, la première éclosion officiellement reconnue a eu lieu à Wuhan en Chine en novembre 2019. Néanmoins, en mars 2022, une analyse publiée dans la revue médicale BMJ Global Health, rédigée par un groupe de scientifiques italiens et co-écrite par Sergei Pond, cite un nombre croissant d'études indiquant que le virus pourrait s'être propagé dans le monde entier des semaines, voire des mois, avant la date de début officiellement reconnue de novembre/décembre 2019,. Un mois plus tard, quelques dizaines de cas sont recensés, incluant plusieurs personnes qui, travaillant au marché de gros de fruits de mer de Huanan, sont hospitalisées à l'hôpital de Wuhan dans la région du Hubei, pour pneumopathie. Des médias ont par la suite rapporté qu'un premier cas aurait été un patient de 55 ans tombé malade le 17 novembre 2019 en Chine.
+Le 21 décembre, un kit diagnostic ciblant vingt-deux germes pathogènes respiratoires (dix-huit virus et quatre bactéries) donnant un résultat négatif, les médecins réalisent qu'ils sont en présence d'un nouvel agent pathogène respiratoire.
+Le 31 décembre 2019, l'Organisation mondiale de la santé (OMS) est officiellement informée par les autorités chinoises de la survenue de cas de cette pneumonie d'origine inconnue dans la ville de Wuhan. Au 3 janvier 2020, un total de 44 cas sont signalés.
+Le 7 janvier 2020, les autorités chinoises confirment qu'il s'agit bien d'un nouveau virus de la famille des coronavirus, baptisé temporairement « 2019-nCoV » et isolent un nouveau type de coronavirus : le SARS-CoV-2 (deuxième coronavirus lié au syndrome respiratoire aigu sévère). Le coronavirus de Wuhan, désigné internationalement sous le terme « 2019 novel Coronavirus » abrégé 2019-nCov, parfois appelé « virus de la pneumonie du marché aux fruits de mer de Wuhan », est le coronavirus à l'origine de l’épidémie de « pneumonie de Wuhan », nom provisoire repris par l'Institut Pasteur. La Chine a annoncé la nommer provisoirement « pneumonie à nouveau coronavirus », lui donnant le sigle anglais officiel de NCP (pour novel coronavirus pneumonia).
+Le 23 janvier, l'OMS annonce que la maladie est transmissible entre humains. Dans la semaine qui suit, elle indique que les modes de transmission de la maladie sont probablement les mêmes que pour d'autres coronavirus. La Commission nationale de la santé de Chine annonce que le nouveau virus a une période d’incubation pouvant aller jusqu’à deux semaines, et surtout que la contagion est possible durant la période d’incubation. De ce fait, s'il ne fait pas l'objet d'une politique de détection systématique et précoce, il est susceptible de se répandre avec une croissance exponentielle.
+Le 30 janvier, l'OMS déclare que l'épidémie constitue une urgence de santé publique de portée internationale (USPPI). Certains évoquent la « maladie X », nom donné en 2018 par l'OMS à une maladie susceptible de causer un danger international,,.
+Le 11 février, l'OMS nomme officiellement la maladie : « maladie à coronavirus 2019 (Covid-19) »,. Le virus est lui nommé : « coronavirus 2 du syndrome respiratoire aigu sévère (SARS-CoV-2) ».
+Le 11 mars 2020, le directeur général de l'OMS qualifie la Covid-19 de pandémie, soulignant que c'est la première fois qu'une pandémie est causée par un coronavirus.
+Fin 2021, il apparait qu'en 2020-2021, entre le 31 décembre 2019 et la semaine 52 de 2021, le nombre de décès par continent se répartit comme suit : Amérique : 2 417 863 ; Europe : 1 650 836 ; Asie : 1 148 634 ; Afrique : 228 801 ; Océanie : 4 818 ; autre : 6. Sur cette période, 290 613 933 cas ont été détectés dont 5 450 958 décès. Dans l'union européenne, cela correspond à 56 969 698 de cas et 908 731 décès.
+Officiellement les principaux pays et territoires touchés par ordre décroissant sont :
+
+Espace économique européen : 910 142 décès dont 908 731 décès dans l’Union européenne ;
+États-Unis : 826 065 ;
+Brésil : 618 534 ;
+Inde : 481 893 ;
+Russie : 311 353 ;
+Mexique : 299 544 ;
+Pérou : 202 818 ;
+Royaume-Uni : 148 851 ;
+Indonésie : 144 097 ;
+Iran : 131 680 ;
+Colombie : 130 061.
+
+
+== Agent causal ==
+
+La maladie infectieuse Covid-19 est provoquée par le coronavirus SARS-CoV-2.
+
+
+=== Pénétration dans l'organisme et physiopathologie ===
+Les virus infectent généralement les cellules en y entrant via une endocytose médiée par un récepteur auquel chaque virus doit d'abord se lier. Le récepteur utilisé par le SARS-CoV-2 est une protéine de surface cellulaire : l'enzyme de conversion de l'angiotensine 2 (ACE2), la même que pour le SARS-CoV mais avec une affinité 10 à 20 fois plus importante que le SARS-CoV. Le virus se lie avec le récepteur ACE2 par ses protéines présentes dans les épines (spicules) de sa couronne (protein spike).
+L'ACE2 est une enzyme de conversion des récepteurs cellulaires de l'angiotensine II. Elle est présente sur les « cellules épithéliales alvéolaires AT2 » situées dans les alvéoles pulmonaires, mais aussi dans l'œsophage (dans les cellules épithéliales supérieures et stratifiées), dans les entérocytes absorbants de l'iléon et du côlon, et dans le pancréas (de légères pancréatites sont d'ailleurs observées, via analyses d'amylase et de lipase et via l'imagerie médicale, chez les malades légèrement ou sévèrement atteints par la Covid-19). Les « cellules à AT2 » sont connues pour être sujettes aux infections virales.
+Le virus, en utilisant l'ACE2, empêche l'élimination naturelle de l'angiotensine II. Cette accumulation d'angiotensine II pourrait entraîner une stimulation des récepteurs AT1R présents sur les lymphocytes TCD8 entraînant une libération de cytokines pouvant, en l'absence de régulation, entraîner un choc cytokinique.
+L'implication du système rénine-angiotensine, régulant la pression artérielle dans la réponse immunitaire innée, a fait l'objet de nombreuses publications (plus de 15). Ce système agit par l'intermédiaire du récepteur AT1R présent sur les lymphocytes T CD8+ (12 publications).
+Le virus pourrait s'introduire dans le liquide cérébrospinal des personnes contaminées.
+Les lymphocytes cytotoxiques sont chargés de détruire les cellules dans lesquelles un virus commence à se répliquer : ce sont d'abord les cellules tueuses naturelles (éléments de l'immunité innée), et les lymphocytes T cytotoxiques qui viennent compléter le travail des précédentes et le poursuivre dans la durée. Ces cellules du système immunitaire permettent de bloquer en quelques heures ou quelques jours une infection virale en cours.
+Une équipe médicale chinoise constate qu'au début de la maladie, l'organisme des patients (panel de 68 malades, âge médian de 47 ans) n'arrive pas à produire les cellules NK et les lymphocytes T CD8+ nécessaires pour combattre le virus. Le nombre moyen de ces cellules a même chuté sous la moyenne normale. Ceci a été révélé par le suivi des niveaux d'expression du récepteur NKG2A, « récepteur inhibiteur » déjà connu comme indicateur d'« épuisement » de ces types cellulaires lors d'autres infections virales chroniques. Et, le jour de leur admission, la leucocytose et la lymphopénie des patients est proportionnelle à la gravité de la maladie (atteignant surtout les LT CD8+). Autrement dit : la phase de progression du virus dans les cas sévères de Covid-19 correspondait à un « épuisement fonctionnel des lymphocytes cytotoxiques », avec un nombre total de cellules tueuses naturelles et de LT CD8+ qui s'effondrait quand le SARS-CoV-2 se développait, alors que l'expression de NKG2A augmentait. Par contre, chez les convalescents, on voyait le nombre de cellules tueuses NK et de LT CD8+ se restaurer, pendant que l'expression de NKG2A diminuait. Ceci laisse penser que dans les cas les plus graves, le SARS-CoV-2 peut bloquer précocement, efficacement (et durablement) notre immunité antivirale. Les auteurs de l'article estiment que le récepteur NKG2A pourrait être une cible thérapeutique à étudier.
+Une caractéristique commune à de nombreux coronavirus est que « la gravité de la maladie augmente lors de la phase d'élimination du virus, suggérant que la réponse immunitaire de l'hôte est à la fois protectrice et pathogène. De plus, l'inhibition d'aspects spécifiques de la réponse immunitaire entraîne une maladie moins grave et moins de destruction des tissus, sans diminuer la cinétique de la clairance virale ».
+
+
+=== Répartition dans l'organisme ===
+Elle pourrait varier selon les souches virales ; par exemple chez un patient de Wuhan, « des populations de virus à séquence distincte ont été systématiquement détectées dans des échantillons de gorge et de poumon du même patient, prouvant une réplication indépendante » (réplication démontrée par des ARN réplicatifs viraux).
+La première synthèse basée sur 1 070 échantillons prélevés en hôpital en Chine en janvier-février 2020 a montré que l'ARN viral était fortement présent dans les lavages bronchoalvéolaires (14 cas sur 15 ; soit 93 %). Venaient ensuite les expectorations (72 cas sur 104 ; 72 %), les écouvillons nasaux (5 cas sur 8 ; 63 %), la biopsie par fibroscopie bronchique (6 cas sur 13 ; 46 %), le pharynx (126 cas sur 398 ; 32 %), les matières fécales (44 cas sur 153 ; 29 %) et enfin dans le sang (3 cas sur 307 ; 1 %).
+Le virus infectieux n'a jamais été retrouvé dans l'urine. Mais il a été trouvé dans les selles, dont chez deux patients sans diarrhées.
+En avril, on découvre, comme pour les virus du SRAS et du MERS, que le virus peut infecter le système nerveux central : un patient de 56 ans atteint de la Covid-19 à l'hôpital Ditan de Pékin présente des troubles neurologiques (contractions de muscles du visage après quelques jours de traitement), des coronavirus sont retrouvés dans son liquide cérébrospinal et il développe une encéphalite.
+Le virus semble aussi affecter le foie et les reins (la métabolisation des médicaments administrés peut de ce fait être modifiée).
+Les sécrétions vaginales et la voie vaginale ne semblent pas être une voie d'infection.
+Fin avril 2020, le virus a été détecté dans les cellules épithéliales alvéolaires de type II, les monocytes, les cellules épithéliales du tube digestif, les cellules tubulaires rénales distales, les cellules des glandes sudoripares cutanées, les éosinophiles parathyroïdes et hypophysaires, les cellules du cortex surrénalien, les cellules pariétales gastriques, les cellules pancréatiques, les cellules acineuses et les cellules de la glande séreuse trachéale. Différent du SARS-CoV-1, le SARS-CoV-2 a été principalement détecté dans les cellules épithéliales alvéolaires de type II et les macrophages pulmonaires, et en partie dans les ganglions lymphatiques hilaires, la rate et les testicules.
+Fin octobre 2020, une prépublication américaine, encore à confirmer par les pairs, a recherché, parmi les cellules épithéliales, mésenchymateuses et immunitaires de la bouche, celles qui expriment le plus l’ACE2 (récepteur du virus) ; ce sont les glandes salivaires, la langue et les amygdales. Les autopsies ont confirmé cette spécificité, qui pourrait expliquer que la Covid-19 induit non seulement une perte de l’odorat, mais aussi du goût et une sécheresse persistante de la bouche chez certains patients. Un essai clinique a aussi conclu que les cellules épithéliales de la bouche peuvent effectivement être infectées par le SARS-CoV-2. Le taux de virus dans la salive des patients était positivement corrélé aux changements de goût et d’odeur ressentis. La dynamique d'excrétion virale était distincte pour les zones buccale et nasale et les patients en guérison ont présenté des anticorps salivaires contre les protéines du SARS-CoV-2. Le SARS-CoV-2 installé dans les glandes salivaires pourrait contribuer à une prolongation ou évolution de la maladie, quand la salive infectée est avalée (induisant un risque d’infection intestinale) ou aspirée vers les poumons (avec alors un risque de pneumonie) ou expulsés lors des crachats, éternuements, postillons, d’une manière « peut-être sous-estimée » et parfois asymptomatique. Ceci confirme, s'il en était besoin, l’enjeu du port du masque facial correctement ajusté  et de la distanciation physique.
+
+
+== Transmission ==
+
+La première étude (portant sur les 425 premiers cas) dans The New England Journal of Medicine, montre que la transmission inter-humaine date au moins de la mi-décembre 2019.
+Pour éviter la contagion, une distance supérieure à un mètre semble généralement suffisante. Par précaution 2 mètres, voire plus, sont parfois proposés ou imposés. Une étude publiée le 26 mars 2020 dans le JAMA montre qu'en cas de toux ou d'éternuement, la diffusion du virus est possible lors de l’expiration jusqu'à une distance pouvant atteindre 8 mètres, très loin des deux mètres recommandés par le CDC. En présence d'aérosols et non de gouttelettes, un masque FFP2 est efficace.
+L’existence de patients totalement asymptomatiques, en grand nombre (20 % des individus infectés et contagieux), semble se confirmer et modifie les recommandations initiales de l'OMS de ne pas porter de masque.
+Toutefois, Antoine Flahault, épidémiologiste et directeur de l’Institut de santé globale de l'université de Genève, considère que la communication sur la transmission est un échec, car elle se focalise sur des points secondaires et oublie l'aération des milieux fermés. Selon lui, de nombreuses études scientifiques ont démontré que la transmission par aérosols était le mode de transmission quasi exclusif du SARS-Cov-2, les autres modes de transmission étant considérés comme secondaires.
+
+
+=== Contagiosité ===
+La contagiosité du SARS-CoV-2 serait notamment due à sa capacité à être clivé par la furine (protéine présente dans de nombreux tissus), ce qui n'était pas le cas des deux autres coronavirus hautement pathogènes pour l'humain,.
+
+
+==== Établir la contagiosité ====
+Mesurer la contagiosité du virus n'est pas simple. Le test-diagnostic RT-PCR n'indique que la présence d'ARN viral (en fait d'un fragment qui diffère selon les tests), il ne peut pas différencier l'ARN de virus activement infectieux de celui de restes de virus inactivés par le système immunitaire. Il ne mesure donc pas le degré de contagiosité du patient. La réplication active du virus peut cependant être démontrée par l'analyse d'intermédiaires réplicatifs sous-génomiques viraux, mais ce n'est pas une pratique de routine en laboratoire.
+Un bon moyen d'établir le pouvoir infectieux et la contagiosité est la culture virale (in vitro), mais elle n'est pas utilisable en pratique, car elle est longue, non représentative de la vitesse de reproduction du virus in vivo, et de faible sensitivité (beaucoup d'échec de culture). Pour la grippe, il existe une corrélation entre la quantité de copies retrouvée par RT-PCR et la quantité de virus retrouvée par culture virale. Il n’existe aucune donnée pour le SARS-CoV-2.
+Le 11 avril 2020, le South China Morning Post cite une étude post-mortem de l’université de Hong-Kong sur la multiplication du SARS-CoV-2 (par rapport au SARS-Cov, responsable du SARS) dans le tissu pulmonaire. Le SARS-CoV-2 se multiplie de 5 à 10 fois plus que le SARS-Cov dans la même unité de temps, aboutissant à une production de virus 3 fois supérieure au SARS-Cov. Cette multiplication importante s'accompagne d'une réponse immunitaire plus faible de l'organisme.
+
+
+==== Durée de la période d'excrétion virale ====
+C'est le temps durant lequel un malade est potentiellement contagieux. Elle commence dans les heures qui suivent la contamination, donc avant toute manifestation perceptible de la maladie.
+En général :
+
+lors de l'incubation : avant les premiers symptômes, avant que le système immunitaire ne soit déjà bien activé, le futur malade est déjà contagieux. Mi-avril 2020, dans Nature, une étude a confirmé qu'il est particulièrement contagieux en fin d'incubation (c'est peut-être le moment où il le sera le plus). La contagiosité commence 2,3 jours avant les premiers symptômes, et elle culminerait à 0,7 jour avant l'apparition de ces symptômes ; une autre étude a trouvé que l'excrétion pharyngée était très élevée la première semaine de symptômes (pic à  7,11 × 108 copies d'ARN par prélèvement de gorge au jour 4) ;
+pendant la phase clinique (symptomatique) : le malade est contagieux ; après l'apparition des signes cliniques, la moyenne de la durée de contagiosité serait de 20 jours pour les personnes de moins de 65 ans et de 22 jours pour les personnes de plus de 65 ans ;
+durant la convalescence : certains malades excrètent encore le virus après disparition des symptômes. De l'ARN viral est retrouvé dans les expectorations et les selles après disparition totale des symptômes.À la mi-mars 2020, peu de données concernent les porteurs asymptomatiques et/ou non hospitalisés, mais chez les patients hospitalisés, la durée médiane d'excrétion virale était de 20 jours environ chez les survivants. Et le SARS-CoV-2 était détectable jusqu'à la mort chez tous les non-survivants. Il est probable que ces patients sont ceux qui excrètent le plus de virus, et le plus longtemps. La durée la plus longue d'excrétion virale observée parmi près de 200 cas étudiés a été (parmi les survivants) de 37 jours.
+Cette excrétion, plus précoce et plus longue qu'attendue, est à prendre en compte dans les modélisations épidémiologiques. Elle confirme la nécessité d'isoler les patients infectés et de rechercher des antiviraux plus efficaces. La contagiosité ne disparaît pas nécessairement quand l’excrétion du virus disparaît de la gorge, notamment chez l'enfant qui peut encore excréter le virus via l'intestin jusqu'à 8 à 20 jours après que le virus n'est plus présent dans la gorge.
+
+
+===== Chez les enfants =====
+
+L'enfant ne présente souvent que des symptômes bénins (ou aucun symptôme) mais tout en excrétant le virus et pouvant alors être contagieux. De plus, l'excrétion virale dans les selles persiste même après la disparition du virus dans les excrétions nasales ou dans les écouvillonages de la gorge, avec des écarts constatés de 8 à 20 jours. Ce fait évoque des mécanismes différents de ceux constatés chez l'adulte,.
+
+
+==== Taux de contagion ====
+Selon de premiers travaux de recherche, le taux de reproduction de base (noté R0) qui est un indice de contagiosité se situerait entre 2,2 et 3,5,. Il est de 2,2 (intervalle de confiance 95 %, de 1,4 à 3,9) sur les 425 premiers cas confirmés.
+Une revue de la littérature publiée entre le 1er janvier 2020 et le 7 février 2020 indique une médiane du taux de reproduction de base à 2,79.
+En avril 2020, le taux de contagiosité est réévalué fortement à la hausse, entre 3,8 et 8,9, avec une médiane à 5,7,.
+
+
+==== Taux d’attaque secondaire ====
+Ce taux décrit le nombre de foyers secondaires apparaissant à partir d'un foyer primaire. Il indique la facilité d'une infection à se propager dans un lieu clos (foyer...). Une publication du 27 février dans le Lancet, estime ce taux d'attaque secondaire à 35 %.
+
+
+==== Survie du virus hors de l'organisme ====
+Elle a dans un premier temps été estimée comprise entre trois heures (en milieu sec) et trois jours (en milieu humide), mais, comme pour la plupart des virus, elle varie beaucoup selon les conditions de température, d'humidité, de lumière (les UV solaires le détruisent), et selon le type de surface sur laquelle le virus, ou le résidu sec de gouttelettes en contenant, se sont déposés.
+En février 2020, on estimait que le pouvoir infectieux du virus disparaissait en quelques heures. On notait cependant que le virus de la Covid-19 se montrait bien plus contagieux que celui du SRAS et encore bien plus que celui du MERS, surtout pour le personnel soignant, surexposé, et ce malgré les masques chirurgicaux utilisés.
+Une étude américaine parue le 10 mars dans le NEJM a mesuré le temps de « survie » des virus SARS-Cov-1 et SARS-CoV-2 dans différentes conditions :
+
+En aérosol (en suspension sèche, dans l'air — c'est-à-dire hors de gouttelettes) ;
+Sur quatre types de surfaces.Les résultats peuvent être résumés ainsi :
+
+Important : trois heures est la durée maximale testée ci-dessus pour les aérosols (virus en suspension dans l'air) ; trois heures après l'aérosolisation, le taux de SARS-CoV-2 viables était encore très significatif (le titre infectieux n'était passé que de 103,5 à 102,7 TCID50/mL). Il en allait de même pour le SARS-CoV-1 qui en 3 heures passait de 104,3 à 103,5 TCID50/mL.
+Remarque : cette étude visait à « prévenir le milieu hospitalier et les chercheurs qui manipulent le virus en laboratoire — qui sont en contact étroit avec les agents infectieux — sur différentes surfaces, pour minimiser les risques de contamination et d'infections nosocomiales ». Les quantités de virus (charge virale) utilisées pour ces tests en laboratoire étaient très élevées, non représentatives de contaminations accidentelles en milieu ordinaire. L'étude américaine précisait d'ailleurs que le virus résiste moins de 5 minutes en dessous de 10 000 particules (contre 100 millions de copies pour test).
+
+Toutefois, en cas de toux ou d'éternuement, les gouttelettes exhalées se diffusent dans l'air sous la forme d'un nuage chaud et humide dont la cinétique retarde l'évaporation de ces gouttelettes ; l'aérosol (résidu sec après leur évaporation) pourrait rester dans l'atmosphère ambiante pendant plusieurs heures, et dans des conditions propices se diffuser via les systèmes de ventilation, ce qui serait alors une source potentielle d'infections nosocomiales.
+Le 7 juillet 2020, après que plus de 200 scientifiques ont consigné une lettre ouverte dans la revue Oxford Clinical Infectious Diseases, exhortant l’OMS et la communauté médicale à « reconnaître le potentiel de transmission aérienne de la Covid-19 » (l'OMS a alors reconnu qu'une transmission aérienne n'est pas à exclure), Joshua Santarpia et son équipe (à l'université du Nebraska) ont confirmé que des particules virales expirées sous forme d'aérosols (dans leur étude, captées à 30 centimètres au-dessus des pieds de cinq malades alités dans leur chambre d'hôpital, dans des microgouttelettes de moins de 1 à cinq microns de diamètre, issues de l'expiration des malades) semblent bien capables de se répliquer chez un autre individu et de provoquer une infection. Pour 3 de 18 échantillons de gouttelettes d'un micron le virus a pu se reproduire in vitro. Selon la professeure Linsey Marr (experte en contamination virale aéroportée), qui évoque à ce sujet « des preuves solides », « il y a du virus infectieux dans l'air ». On ignore encore la concentration à inhaler pour être infecté.
+
+
+==== Saisonnalité ====
+
+Une étude chinoise sur la température et le taux d'humidité dans la transmission du virus conclut que celle-ci semble peu influencée par ces paramètres.
+Le chef du service de virologie du CHU de Caen, le Dr Astrid Vabret, rappelle que l'épidémie de SRAS s'est produite de novembre 2002 à juillet 2003, puis de septembre 2003 à mai 2004. De l'automne au printemps, voire à l'été, donc. Et « on ne sait pas quel a été le rôle de la saisonnalité sur le SRAS ». Certes, « les virus sont tués par les hautes températures, mais on parle là de plus de 56 °C », insiste la virologue. « Si l'organisme d'un humain atteint cette température-là, s'il ne peut pas se refroidir, lui aussi meurt. C'est déjà compliqué de survivre à 43 °C ».
+Le directeur de l'Institut de santé globale au sein de la faculté de médecine de l'université de Genève, Antoine Flahault, estime que, « sous les latitudes tempérées, les virus respiratoires, comme ceux de la grippe ou les coronavirus, sont sensibles aux saisons et l'hiver est leur saison de prédilection ».
+
+
+=== Lieux de transmission du virus ===
+Les entreprises sont les lieux où l'on a le plus de chances de se faire contaminer (une contamination sur quatre). Viennent ensuite le milieu scolaire, universités en tête, et les établissements de santé.
+Selon une étude américaine basée sur de la modélisation, et réalisée en mars 2020, les lieux clos et mal aérées, qui accueillent beaucoup de monde, ont un taux de contamination plus fort qu'ailleurs. Cette étude pointe ainsi les restaurants, les salles de sports, les cafés et les hôtels comme étant des hauts lieux de contamination, sachant toutefois qu'à l'époque, aucun protocole sanitaire n'était respecté, et aucun masque n'était porté dans ces lieux. Pour des raisons pratiques, les entreprises n'ont pas été incluses dans cette étude.
+En France, un collectif de six médecins estime que l'on se contamine surtout lors de rassemblements privés, et appelle donc la population à limiter ces rassemblements.
+Selon « Santé Publique France », la majorité des clusters de contamination en France viennent des milieux universitaires, des EHPAD, et des entreprises.
+En Espagne, les discothèques sont considérées comme des lieux propices à la transmission, en raison d'une moindre aération, du non port du masque durant la consommation des boissons, du non-respect des distances physiques, et du parler fort nécessaire pour couvrir une sonorisation bruyante.
+Ces discothèques ne génèrent pas de nombreux foyers de contagion, mais les foyers de contagion générés par les discothèques touchent une plus grande population.
+
+
+==== Environnement de transmission ====
+L'environnement peut jouer un rôle dans la transmissibilité du virus et ou de la maladie :
+
+la transmission de Covid-19 est commune dans les lieux fermés.
+malgré l'existence de deux clusters attribués à des mécanismes de ventilation/climatisation, il n'y a pas de preuve d'infection humaine par SARS-CoV-2 via la distribution d'aérosols infectieux avec des ventilations HVAC (anglais : Heating ventilation air-conditioning) système contrôlant la température de chauffage, la ventilation et l'air conditionné) : le risque est considéré/supposé très faible par l'ECDC (Centre européen de prévention et de contrôle des maladies).
+les systèmes HVAC bien entretenus peuvent filtrer sûrement des grosses gouttelettes contenant du SARS-CoV-2, mais des aérosols Covid-19 peuvent se propager à travers des HVAC de bâtiments ou de véhicules lorsque l'air circule en circuit fermé.
+les flux d'air de ventilation/climatisation peuvent faciliter l’épandage des gouttelettes sur de plus longues distances dans des espaces fermés.
+les HVAC peuvent jouer un rôle complémentaire pour réduire la transmission intérieure en changeant l'air intérieur par de l'air extérieur.En avril 2021, en France, avant l'arrivée du variant anglais/delta, il est estimé que « Le virus comme on le sait maintenant se transmet via les postillons à une distance de moins d’un mètre, les surfaces contaminées par ces postillons, le contact physique direct, ou les aérosols en suspension dans les espaces clos. Le fait que les lieux à risque - les réunions privées, les bars, les restaurants, les salles de sport en intérieur, et les voitures partagées - soient des lieux clos où les gestes barrières ne peuvent pas, ou ont pu ne pas, être complètement respectés va dans le sens de ce que l’on sait sur la physiopathologie de la transmission du virus. »
+
+
+==== Environnement de transmission à l'été 2021 en France ====
+En 2021, une étude menée entre le 23 mai et le 31 aout a été réalisée en France.
+
+Cette étude confirme que les bars et les lieux festifs sont des lieux qui augmentent le risque d'infection.
+Cette étude  indique que les parents de moins de 40 ans ayant des enfants en daycare, en kindergarden, en école primaire ou en école moyenne, ont un risque accru d'infection.La réouverture des terrasses extérieures des bars et restaurants  n'a pas créé de sur-risque, sans doute en raison de la faible capacité et de la bonne aération.
+L'augmentation du covid a coïncidé avec trois possible facteur:
+
+la réouverture des espaces intérieurs des bars et restaurants
+quelques matches d'un championnat de football de l'UEFA
+la prédominance du variant deltaLe 9 juillet, l'ouverture des clubs de nuit en a fait un lieu de haute contamination, prenant le dessus sur les autres lieux de contamination.
+
+
+=== Voies de transmission ===
+
+
+==== Transmission interhumaine ====
+Au 14 mars, les modalités précises de transmission sont encore mal cernées. Certaines personnes infectées n'ont pas transmis le virus, tandis que d'autres l'ont transmis à plusieurs personnes.
+Plusieurs voies de transmission semblent coexister :
+
+la voie respiratoire directe : c'est la plus commune. Une étude publiée le 26 mars dans le JAMA montre que la diffusion du virus est possible lors de l’expiration jusqu'à une distance pouvant atteindre 8 mètres en cas de toux ou d'éternuement, très loin des deux mètres recommandés par le CDC ;
+la parole est suffisante pour émettre un nombre important de gouttelettes de salive. Une personne prononçant trois fois la phrase « Stay healthy » pendant vingt-cinq secondes, émet environ 350 gouttelettes avec une courte pause entre les phrases, au cours de la première phrase et 230 à la troisième. Ce résultat a été obtenu par étude utilisant une lumière laser verte, le virus stagne alors dans l'air d'un espace confiné pendant environ dix à douze minutes, ou, selon une autre étude, entre 8 et 14 minutes ; en extérieur, la propagation des gouttelettes après un éternuement sans masque dépend beaucoup de la vitesse et de la direction du vent ;
+par contact avec une surface ou un objet infecté : les doigts qui se sont contaminés sur une surface, s'ils sont ensuite portés à la bouche, près des narines ou sur l'œil, peuvent être vecteurs du virus. Les virus du SRAS et du MERS pouvaient rester infectieux sur des surfaces lisses et certains objets (dits fomites) : ceci est aussi démontré depuis février 2020 pour le SARS-CoV-2. Mi-mars, on estime qu'à l'intérieur d'une pièce, un coronavirus reste infectieux 9 jours sur des substrats lisses non poreux, sauf sur le cuivre ou les métaux à base de cuivre (laiton, bronze) qui sont naturellement biocides. La demi-vie du virus (temps nécessaire pour que la moitié des virus soient inactivés) est d'environ treize heures sur de l'inox et seize heures sur du polypropylène ; En juillet 2020, dans un commentaire envoyé au Lancet, l'américain Emanuel Goldman (Microbiologiste et biochimiste en génétique moléculaire à la New Jersey Medical School - de l'université Rutgers) considère que ce risque existe surtout à court terme (pour quelques heures) et quand une personne a directement éternué ou toussé sur un objet, mais que le risque a pu être surestimé par le titre élevé de virus caractérisant les inoculums faites pour évaluer la durée d'infectiosité du virus sur divers types de surface (ex : 105 à 107 particules virales infectieuses par ml dans les aérosols, 104 particules virales infectieuses sur les surfaces) ; selon Emanuel Goldman : en situations réelles, le nombre de virus contaminant les fomites est bien moindre (par exemple sur le latex des gants ou sur d'autres surfaces) ; remarque : il n'évoque pas les fomites contaminés par d'autres fluides corporels que les gouttelettes expectorées (vomi, excréments de malades notamment).
+par aérosolisation d'un inoculum viral: une transmission par aérosols a été pétitionnée par des scientifiques,, puis acceptée par l'OMS et confirmée (le virus pouvant alors rester infectieux deux à trois heures dans l'air, sans doute plus si l'hygrométrie est très élevée) ;
+par des particules ou gouttelettes fécales ; la Covid-19 induit souvent des diarrhées, et une modélisation récente a montré qu'activer la chasse d'eau (lors d'un rinçage « à entrée unique », et pire encore lors d'un « rinçage annulaire »), entraîne un « transport ascendant et massif de particules virales aérosolisées » (avec 40 à 60 % de ces particules s'élevant au-dessus du niveau du siège des toilettes). Une vitesse ascendante atteignant 5 m/s dans la cuvette permet une propagation du virus à grande échelle dans l'air intérieur de la pièce, avec « 0 à 60% du nombre total de particules pouvant s'élever (...) à 106,5 cm au-dessus du sol ». Le risque est atténué si le couvercle du W-C est rabattu au moment de la chasse d'eau. Le risque est fortement diminué si le contenu des toilettes est désinfecté et si on y ajoute un surfactant de type ammonium quaternaire (mais le temps de contact doit être d'au moins quinze minutes). Les personnes se lavant mal les mains après être passées aux toilettes sont donc potentiellement vectrices du virus, ce qui a d'abord été suggéré en février par deux laboratoires d'État chinois puis confirmé dans JAMA le 12 mars 2020, et qui est cohérent avec le fait que le récepteur de surface utilisé par le virus pour pénétrer dans une cellule est aussi présent dans les entérocytes de l'iléon et dans les colonocytes du tube digestif,, ;
+par le réseau des eaux usées (en cas d'assèchement de siphons et/ou de fuites…) : lors de la pandémie de SRAS de 2002-2003, une flambée majeure de SARS-CoV a concerné 321 personnes infectées dans un même immeuble de grande hauteur, au même moment, à Hong Kong. La conduite d'eau usée qui descendait à l'extérieur à proximité d'une rangée verticale de climatiseurs et de fenêtres a été jugée responsable de cette brutale contagion ;
+par les systèmes de climatisation,.Une étude de septembre 2020 suggère que le port régulier de lunettes réduit le risque de contamination, confirmant ainsi que les yeux sont un point d'entrée possible pour le virus.
+
+
+==== Transmission humain-animal ====
+En mars 2020, un cas de transmission de l'humain vers l'animal semble documenté à Hong Kong. Il s'agit d'un spitz nain testé faiblement positif après que son propriétaire a développé la Covid-19. Selon le ministère de l'Agriculture, des Pêches et de la Conservation de Hong Kong, les experts pensaient unanimement que ce chien avait « un faible niveau d'infection et qu'il s'agirait probablement d'un cas de transmission d'humain à animal ». Des experts médicaux, notamment de l'OMS, enquêtent pour déterminer si le chien a été directement infecté ou s'il s'agit d'une contamination acquise via un objet porteur du virus. Pour l'OMS, il n'y avait pas encore de preuve que des animaux, comme les chiens ou les chats, puissent être infectés par ce coronavirus. Les autorités locales recommandent cependant de ne plus embrasser les animaux de compagnie. Le chien est mort 7 jours après avoir été testé et le propriétaire a refusé l'autopsie.
+Un deuxième cas de transmission de l'humain vers l'animal a été recensé en Belgique ; il s'agit d'un chat qui a été contaminé par son maître testé positif à la Covid-19.
+En avril 2020, une étude d'une équipe de scientifiques de l'Institut de recherche vétérinaire de Harbin, foyer de la seconde vague de Covid-19 en Chine, montre que le chat peut être infecté par le virus mais sans présenter de symptôme ; son rôle semble néanmoins très minime dans la propagation du virus, mais les scientifiques chinois ont toutefois constaté que la transmission entre chats pouvait être possible par crachats et que les chatons étaient plus gravement atteints que les adultes, avec « des lésions massives dans la muqueuse nasale et trachéale, ainsi que les poumons ». Par contre, le furet serait plus sensible au virus, puisque certains d'entre eux auraient perdu l’appétit et eu de la fièvre. Les autres animaux étudiés, dont le chien, le porc, le poulet ou le canard, ne semblent pas être atteints par le virus,.
+Selon une étude pré-publiée sur BioRxiv l'inoculation expérimentale sur la conjonctive de l'œil du singe macaque s'est montrée infectieuse.
+En novembre 2020, un variant dit « Cluster 5 » du SARS-CoV-2 est identifié chez des visons d'élevage. « A ce jour, six pays, à savoir le Danemark, les Pays-Bas, l'Espagne, la Suède, l'Italie et les États-Unis ont rapporté des cas de SARS-CoV-2 chez des élevages de visons auprès de l'Organisation mondiale de la santé animale » déclare l'OMS. La France rapporte à son tour un cas le 22 novembre dans un élevage d'Eure-et-Loir et ordonne l'abattage immédiat des mille bêtes de l'exploitation.
+Début 2021, il a été relevé que les espèces suivantes étaient susceptibles d'être infectées par le SARS-CoV-2 : les chauves-souris, les chats, les chiens, les lions et les tigres (du zoo de New-York), les visons d'élevage, les furets sauvages, les hamsters, les macaques, le cerf de Virginie… Une étude publiée par Sean King et Mona Singh en novembre 2021 suggère que les rongeurs seraient résistants aux coronavirus et pourraient être d'importants porteurs asymptomatiques du Covid-19,.
+
+
+=== Phases de transmission ===
+
+
+==== Transmission en phase d'incubation ====
+Elle est prouvée par des tests faits systématiquement chez des sujets ayant eu un contact avec un cas « index ». Ont été ainsi mis en évidence :
+
+la présence du SARS-CoV-2 dans des frottis nasopharyngés au moyen de la technique de PCR quantitative par transcriptase inverse (qRT-PCR) ; une étude de la charge virale des écouvillons nasaux et de la gorge obtenus auprès des 17 patients symptomatiques en fonction du jour d'apparition de tout symptôme est publiée le 19 février ;
+une charge virale élevée (environ 100 000 000 de copies (du virus) par millilitre de crachat).
+
+
+==== Transmission durant la maladie ====
+Des charges virales plus élevées sont détectées peu après l'apparition des symptômes, avec des valeurs plus fortes dans le nez que dans la gorge. Le schéma d'excrétion virale par les malades symptomatiques semble plus proche de celui des sujets grippés que de celui observé chez les patients infectés par le SARS-CoV-2.
+
+
+==== Transmission par des sujets asymptomatiques ====
+En novembre 2020, les preuves suggèrent qu'environ une personne infectée sur cinq ne présentera aucun symptôme et qu'elle transmettra le virus à beaucoup moins de personnes qu'une personne présentant des symptômes. Une méta-analyse publiée en octobre 2020 a calculé un taux d'infections asymptomatiques à 17 %. Cette analyse révèle également que les personnes asymptomatiques étaient 42 % moins susceptibles de transmettre le virus que les personnes symptomatiques (le risque qu'une personne asymptomatique transmette le virus à d'autres personnes chez elle serait, lui, d'environ un quart du risque de transmission par une personne symptomatique).
+Un programme de dépistage de masse de plus de 10 millions d'habitants de Wuhan, en Chine, réalisé après la maîtrise du SRAS-CoV-2, a identifié 300 cas asymptomatiques de covid-19, dont aucun n'était infectieux. Les chercheurs n'ont trouvé aucun « virus viable » dans les cultures d'échantillons asymptomatiques. Ils ont néanmoins déclaré que leurs découvertes ne montraient pas que le virus ne pouvait pas être transmis par des porteurs asymptomatiques, et n’ont pas suggéré que leurs résultats étaient généralisables.
+
+
+=== Incubation ===
+La période d'incubation de la Covid-19 serait d'environ cinq jours, le plus souvent comprise entre trois et sept jours. Exceptionnellement, pour un peu plus de 1 % des cas, le temps d'incubation dépasse quatorze jours et très exceptionnellement pourrait durer jusqu'à 24 jours.
+Quatorze jours est donc considéré comme un bon délai de sécurité pour savoir si une personne est symptomatiquement infectée, et pour éviter qu'elle ne contamine d'autres gens hors de sa zone de confinement.
+Historiquement, fin janvier, l'OMS, en se basant notamment sur les observations anciennes faites sur le MERS, a estimé la durée d'incubation à en moyenne cinq jours (entre deux et dix jours). On savait aussi déjà qu'« on peut être contagieux avant que les signes cliniques soient là », voire sans symptômes, comme avec la grippe ; et « que les cas secondaires sont de plus en plus fréquents ».
+Le 6 février 2020, une étude chinoise supervisée par Zhong Nanshan (médecin ayant découvert le SRAS en 2003), menée sur près de 1 100 patients conclut à une incubation de 0 à 24 jours, avec une durée médiane de trois jours,.
+Le 10 mars, une étude internationale estime la durée médiane d'incubation à 5,1 jours (5,5 jours en moyenne), et que 97,5 % des personnes seront malades 11,5 jours après le contact infectieux.
+Même si dans 101 cas sur 10 000 (99e percentile), les 14 jours sont dépassés, les auteurs principaux, le docteur Lauer et Ms. Grantz, jugent qu'il n'y a pas lieu de remettre en cause la durée de 14 jours de quarantaine.
+
+
+== Symptômes et manifestations cliniques ==
+Une étude française publiée le 27 mars 2020 décrit trois types de malades :
+
+patients présentant peu de signes cliniques mais avec une charge virale nasale élevée et étant très contagieux ;
+patients ayant des symptômes légers au départ mais subissant une aggravation vers le dixième jour avec apparition d'un syndrome respiratoire aigu sévère malgré une charge virale qui diminue ; la réaction immunitaire au niveau pulmonaire ne serait plus régulée ;
+patients avec une aggravation rapide vers un syndrome respiratoire aigu avec persistance d'une charge virale élevée dans le nez et dans la gorge et apparition d'une virémie sanguine à SARS-CoV-2 provoquant une défaillance multiviscérale conduisant au décès. Ce troisième type de malade concerne surtout les personnes âgées.Dans certains cas, la maladie peut durer de 30 à 60 jours.
+
+
+=== Formes cliniques (la plus fréquente étant respiratoire) ===
+L’installation des symptômes se fait progressivement sur plusieurs jours, contrairement à la grippe qui débute brutalement.
+
+
+==== Signes cliniques ====
+En avril 2020, les signes cliniques sont, selon le British Medical Journal, en fonction de leur fréquence :
+
+signes cliniques principaux :
+la fièvre (sauf chez l'enfant) chez 77 % à 98 % des patients, qui peut parfois apparaître après la toux ;
+la toux, le plus souvent sèche, chez 57 % à 82 % des patients ;
+une anosmie (perte totale de l'odorat) chez 70 % à 86 % des patients (d'autres études ont obtenu des taux différents,,) ;
+une agueusie (perte du goût) chez 54 % à 88 % des patients (d'autres études ont obtenu des taux différents,) ;
+la dyspnée (gêne respiratoire) chez 18 % à 57 % des patients ;
+signes secondaires :
+la fatigue chez 29 % à 69 % des patients,
+une perte d'appétit chez 40 % des patients ;
+des crachats chez 26 % à 33 % des patients,
+les douleurs musculaires chez 11 % à 44 % des patients,
+des maux de gorge chez 5 % à 17 % des patients.D'autres signes cliniques ont été peu à peu rapportés :
+
+Les « orteils Covid » : ce sont des symptômes dermatologiques passant souvent inaperçus. Ils touchent les doigts de main ou surtout de pied et seraient présents dans 20 % des cas (exanthème ou pseudo-engelures),. Selon le Massachusetts General Hospital, le syndrome dit « orteil covid » pourrait persister à long terme chez certains patients,. Ces lésions « acrales » semblent toucher de jeunes individus, qui ont été fortement exposé au virus, mais qui sont restés asymptomatiques (pour l'échantillonnage par écouvillon nasopharyngé et/ou via la sérologie) malgré une exposition importante au virus. Ces personnes ont un taux (sanguin et intratissulaire) anormalement élevé de cytokines antivirales (IFN de type I), lequel serait la cause de ce symptôme inhabituel (qui peut aussi apparaitre après une vaccination contre la Covid). Mi 2022, les origines moléculaires et génétiques de ce symptomes ne sont pas encore comprise mi-2022, mais le mécanisme pourrait être proche de celui des engelures du Lupus érythémateux disséminé,,,. Les preuves clinicopathologiques analysées durant les trois années de pandémie montrent que ces pseudo-engelures liées au Covid-19 ne sont pas liées à une coagulopathie systémique et ne sont pas des lésions thrombotiques (ni livedo racemosa, ni purpura réticulaire ni nécrose acrale ischémique). Dans le cadre des mesures barrières anti-pandémie, « les personnes présentant des lésions acrales doivent être isolées ». Quelques cas de lésions de ce type ont aussi été signalés sur d'autres parties du corps (ex. : genoux).des symptômes oculaires. Lors des pandémies de SRAS de 2002-2003 puis de MERS (2012), quelques études avaient détecté le virus dans les larmes de patients,, et une autre non (dans le cas du SRAS), mais des signes et symptômes oculaires ont été rétrospectivement retrouvés. Ainsi, une première étude (février 2020) notait une « congestion conjonctivale » chez certains malades. Une autre étude parmi 38 patients chinois hospitalisés pour Covid-19 dans le Hubei du 9 au 15 février 2020, 28 (soit 73,7 %) ont été testés positifs et 12 (soit 31,6 % ; environ un tiers) ont manifesté des troubles oculaires associés à une conjonctivite (dont hyperémie conjonctivale, chémosis, épiphora ou sécrétions anormalement abondantes). Ces troubles sont plus marqués chez ceux qui ont été les plus gravement malades. La RT-PCR était positive SARS-CoV-2 pour 28 écouvillons nasopharyngés et également pour des écouvillons conjonctivaux chez deux d'entre eux (soit 5,2 %). Une conjonctivite (éventuellement avec kératoconjonctivite) peut être le premier symptôme de la maladie. Les anomalies sanguines étaient les plus marquées chez les patients ayant ces troubles oculaires. Ces troubles ont une valeur diagnostique ; les connaître peut contribuer à prévenir la transmission de la maladie. L'œil est une cible possible du virus car l'ACE2 (cible du SRAS-CoV-2) est présente dans la rétine humaine, la choroïde de l'épithélium pigmentaire rétinien vascularisé et la cornée ainsi que sur l'épithélium conjonctival. Bien que le virus soit peu présent dans les larmes « il est possible de le transmettre par les yeux ». En avril, des informations et préconisations pour les ophtalmologistes ont été publiées. La tomographie par cohérence optique (ou PTOM) permet l'observation non invasive de la rétine ; elle avait déjà montré des changements rétiniens discrets (infracliniques) en cas de diabète, maladie de Parkinson et maladie d'Alzheimer, et pour beaucoup d'infections virales. En 2020, elle a montré que le SARS-CoV-2 induit aussi de discrets changements rétiniens (dans un panel de patients hospitalisés, mais n'ayant pas nécessité de soins intensifs et dont les paramètres sanguins étaient normaux au moment de l'évaluation ophtalmologique). Tous ces patients présentaient des lésions hyper-réfléchissantes au niveau des cellules ganglionnaires et des couches plexiformes internes de la rétine, plus visibles au niveau du faisceau papillomaculaire. Ni leur acuité visuelle ni leurs réflexes pupillaires n'étaient dégradés, et aucun signe d'inflammation intraoculaire n'était visible ; l'angiographie OCT et de l'analyse des cellules ganglionnaires semblaient normales chez tous ces patients, mais quatre d'entre eux présentaient de subtiles taches cotonneuses et des microhémorragies le long de l'arc rétinien (visible lors de l'examen du fond d'œil, à la photographie couleur du fond d'œil, et à l'imagerie sans rouge). « Les implications oculaires doivent également être prises en compte pour le traitement. Car un traitement potentiel est la chloroquine et ses dérivés, y compris l'hydroxychloroquine. Or l'hydroxychloroquine peut induire une toxicité rétinienne ».Les critères de gravité sont les suivants :
+
+Une fréquence respiratoire supérieure à 30 par minute ;
+Une saturation en oxygène au repos inférieure à 93 % (SaO2) ;
+Un rapport pression en oxygène sur concentration en oxygène inférieur à 300 mm de mercure (PaO2/FiO2).
+
+
+==== Dégâts pulmonaires ====
+Les études en microscopie électronique et sur coupes histologiques de tissus pulmonaires (faites après autopsies) ont montré que les virions sont dans le poumon essentiellement localisés dans les pneumocytes.
+Comme dans le cas du SARS, puis du MERS, la Covid se traduit dans l'arbre respiratoire par des lésions alvéolaires diffuses, caractérisées par des phases exsudatives et prolifératives de ces lésions, avec une congestion des vaisseaux capillaires et une nécrose systématique des pneumocytes, et très souvent une atteinte des membranes hyalines, un œdème interstitiel et intra-alvéolaire.
+Les autopsies ont aussi révélé de fréquents événements thromboemboliques (« parfois cliniquement insoupçonnés au décès »). Outre une hyperplasie pneumocytaire de type 2, on a souvent observé une métaplasie squameuse avec atypie et micro-thrombus plaquettaire-fibrine,,,,.
+L'infiltrat inflammatoire est toujours majoritairement composé de macrophages, souvent présents dans la lumière alvéolaire, souvent accompagnés de lymphocytes dans l'interstitium. Des membranes hyalines se forment fréquemment, et une hyperplasie atypique des pneumocytes est également fréquemment constatée post-mortem. Le thrombus plaquettaire-fibrine des petits vaisseaux artériels peut être relié à une coagulopathie apparemment fréquente chez les malades de Covid-19 et qui selon Carsana & al (2020) devrait être l'une des principales cibles du traitement.
+
+
+=== Formes extra-respiratoires ===
+Quatre mois après l’apparition de la maladie, celle-ci fait l'objet de plusieurs nouvelles descriptions.
+
+
+==== Manifestations gastro-intestinales ====
+Dès décembre 2019, des symptômes gastroentériques sont épisodiquement signalés chez les malades,, suivis de preuves éparses d'atteintes entériques,,,,,,.
+Ces études laissaient penser que les symptômes gastro-intestinaux ne survenaient qu'au cours de la maladie, mais une autre étude a signalé que des patients atteints de Covid-19 avaient déjà des diarrhées 1–2 jours avant apparition d'une fièvre et/ou de dyspnée.
+Début avril 2020, une analyse virologique détaillée de 9 malades conclut que dans ces 9 cas, des virus infectieux était abondants dans la gorge et les poumons, mais pas dans les échantillons de sang, d'urine ou de selles (malgré une forte concentration en ARN viral dans les selles).
+Mi-avril 2020, la fréquence d'atteintes gastroentériques est rétrospectivement confirmée par une étude multicentrique, menée en Chine dans la province du Hubei, où les cas de 232 patients testés positifs au SARS-CoV-2 entre le 19 janvier et le 6 mars 2020 ont été étudiés. Ces malades se répartissaient en 129 hommes et 101 femmes ; ils étaient âgés de 7 à 90 ans (âge médian : 47,5 ans). Des diarrhées ont été signalées chez 49 (21 %) patients, plutôt chez les plus âgés, et chez les plus susceptibles d'avoir des comorbidités et plus souvent touchés par une pneumonie grave (par rapport à la moyenne des malades).
+Singulièrement, plus l'épidémie avançait dans le temps, plus la part des malades souffrant de diarrhée augmentait ; ainsi 43 % des patients accueillis entre le 12 février et le 6 mars 2020 présentaient des diarrhées contre 19 % des malades accueillis dans le mois précédent (entre le 19 janvier et le 11 février 2020). Les auteurs n'ont pas trouvé de corrélation entre le risque de diarrhée et la supplémentation en oxygène. Mais chez les patients souffrant de diarrhée, la part de ceux ayant nécessité des soins intensifs et une assistance respiratoire a été significativement plus élevée. Les résultats aux tests de laboratoire, de même que la part des patients ayant reçu un traitement antibiotique et/ou antiviral, étaient globalement identiques chez les patients avec ou sans diarrhée. Dans quelques cas (4 % des 230 malades du panel), des problèmes hémorragiques ont été signalés (selles sanglantes) et 1 % des cas ont manifesté des douleurs abdominales, mais en aucun cas (dans ce panel) les symptômes gastroentériques n'étaient seuls. Les auteurs notent que parmi les malades du SRAS en 2003, on avait déjà noté que les patients diarrhéiques avaient été plus nombreux à nécessiter des soins intensifs et une ventilation (par rapport aux non-diarrhéiques).
+Expliquer ces diarrhées et ces corrélations, et pourquoi le nombre de maladies diarrhéiques augmente entre janvier et mars (passage de 2 à 3 % avec diarrhée à 21 %), pourrait selon Yunle Wan et al. (en avril 2020) « aider à identifier de nouvelles stratégies d'intervention pour réduire ou prévenir les conséquences graves de COVID-19 ».
+Le taux apparent d'atteintes gastroentériques signalées intrigue car ayant plus que doublé en un mois. Il pourrait en partie s'expliquer par une sous-estimation de ces symptômes par les cliniciens en début d'épidémie, et/ou refléter des différences géographiques entre les populations humaines ou virales étudiées (car les premières études portent sur des malades de Wuhan et le panel a ensuite été élargi à quatre autres villes de la province). Le manque de données sur le nombre de cas asymptomatiques a pu faire surestimer la part des patients présentant des troubles gastro-intestinaux. Et par ailleurs, le lopinavir et le ritonavir ici utilisés comme antiviraux contre le SARS-CoV-2 ont comme effet secondaire fréquent des diarrhées, il aurait pu être source de quelques biais, mais l'étude n'a rétrospectivement pas constaté chez les malades de corrélation entre diarrhée et utilisation d'antiviraux ou d'antibiotiques. Il est donc possible que le virus ait muté en modifiant son tropisme, en l'élargissant aux intestins, ce qui invite à des travaux approfondis. Le virus étant présent dans les diarrhées, ces excrétas devraient faire l'objet d'une gestion adaptée (déchet à risque infectieux).
+Une hypothèse, testée par deux études à partir d'avril 2020, est qu'une faible diversité du microbiote intestinal facilite l'infection,.
+
+
+==== Manifestations neurologiques ====
+On sait que le virus du SRAS ou celui du MERS peuvent infecter les cerveaux des souris, notamment le thalamus et le tronc cérébral. Il en va de même pour l'humain, et les cellules gliales du cerveau ont bien des récepteurs ACE2 (utilisés par le virus pour pénétrer les cellules qu'il infecte, respiratoires notamment).
+Une seconde porte d'entrée dans le système nerveux central (SNC) peut être la circulation périphérique via le franchissement des barrières qui séparent la circulation du cerveau et la circulation générale.
+Une troisième voie possible est sa dispersion des poumons dans le nerf vague, via les récepteurs d'étirement pulmonaire, atteignant éventuellement le tronc cérébral (d'autres coronavirus peuvent infecter le cerveau via une voie synaptique vers le centre respiratoire situé dans la moelle allongée, par le biais de mécanorécepteurs comme les récepteurs pulmonaires extensibles et les chimiorécepteurs (principalement les chimiorécepteurs centraux) dans les poumons).
+Dans tous les cas, un dysfonctionnement du centre respiratoire pourrait aggraver le syndrome de détresse respiratoire aigüe observé chez beaucoup de patients Covid-19.
+Les manifestations neurologiques signalées chez des patients Covid-19 concernent :
+
+le système nerveux central (maux de tête, vertiges, troubles de la conscience, ataxie, maladie cérébrovasculaire aiguë et épilepsie). Un délire peut être causé par l'inflammation du cerveau et/ou à l'apparition d'hémorragies et/ou de caillots privant certaines partie du cerveau d'oxygène (AVC/IVC) ; ainsi une confusion mentale survient chez environ 80 % des patients Covid-19 admis en soins intensifs, peut être à cause d'une réaction inflammatoire systémique induite par le SARS-CoV-2 (comme pour la tempête de cytokine) ; les femmes y seraient plus à risque selon une étude et les hommes selon une autre (peut être car la COVID-19 affecte principalement les hommes,,). Chez les patients touchés, l'état délirant est maximal durant 4 à 17 jours, une dizaine en moyenne ; il se caractérise par un délire combinant des troubles aigus de l'attention, de la conscience et de la cognition. S'y ajoute fréquemment une agitation, en dépit de traitements sédatifs et de neuroleptiques, avec des signes corticospinaux. Des troubles cognitifs (délire, dépression) persistent parfois après sortie de l'hôpital,. La Covid-19 est plus sévère et sa guérison plus longue chez les patients atteints de délires. L'incidence du délire induit par la COVID-19 est probablement très sous-estimée car beaucoup de malades ont été intubés avant l'admission en réanimation et en étant déjà sous bloquants neuromusculaires ; chez eux un délire n'est au mieux repéré qu'au moment du sevrage de sédation quand ils se remettent de la période d'insuffisance respiratoire ;
+le système nerveux périphérique (anosmie, agueusie, névrite optique),. Une encéphalite aigüe par pénétration directe du virus dans le cerveau est rapportée le 1er avril 2020.Depuis avril 2020, quelques encéphalopathies (alors éventuellement accompagnés de convulsions ou des signes extrapyramidaux) et/ou méningites ont été observées chez certains patients (et confirmée par imagerie), avec certains rapports de détection du virus par ponction lombaire. La présence de bandes oligoclonales semble être un point commun à tous ces patients.
+Une étude australienne invite les autorités de santé à exercer une vigilance sur les manifestations neurologiques consécutives à la Covid-19, notamment en recherchant la présence de neurofilaments dans les prélèvements sanguins,.
+Le 12 janvier 2021, une étude parue dans le Journal of Experimental Medicine démontre la capacité du SARS-CoV-2 à infecter les neurones, avec des effets divers : maux de tête, perte d'odorat, perte de conscience ou accident vasculaire cérébral.
+En octobre 2021, les chercheurs mettent au jour l'impact de la maladie sur les cellules endothéliales vasculaires cérébrales, « composantes essentielles de la barrière hémato-encéphalique qui protège le cerveau ». En infectant ces cellules, le SARS-CoV-2 leur fait produire un ciseau moléculaire dégradant la protéine NEMO indispensable à leur survie. La mort de ces cellules conduit à dégrader la barrière hémato-encéphalique avec deux effets opposés : soit une sous-irrigation du cerveau, soit des microhémorragies. Heureusement l'effet de la maladie sur ces vaisseaux sanguins est réversible,.
+
+
+==== Manifestations cardiovasculaires ====
+Les complications cardiovasculaires aiguës sont une partie du tableau clinique de la Covid-19, comme l'a montré une vaste étude basée sur 86 742 patients atteints de Covid-19 en Suède entre le 1er février et le 14 septembre 2020 (patients comparés à 348 481 sujets-témoins). L'étude a montré un triplement du risque d'infarctus aigu du myocarde (et d'accident vasculaire cérébral ischémique) lors des 15 jours suivant le diagnostic de Covid-19, si l'on comptabilise les cas survenus à partir du jour suivant le diagnostic, et ceci « même après ajustement pour les facteurs de risque » ; le risque diminue (0,60 fois plus) les 3e et 4e semaines après le diagnostic. Par contre si l'on prend en compte le jour même de l'exposition, l'incidence de l'infarctus est encore plus importante (risque 8,44 fois plus élevé lors de la 1re semaine, 2,56 fois plus la 2e semaine, et 0,62 fois plus les 3e et 4e semaines). En incluant le jour d'exposition, l'incidence de l'AVC ischémique est multipliée par 6,18 au cours de la 1re semaine, par 2,85 lors de la 2e semaine et par 2,14 les semaines 3 et 4.
+Remarques : 1) l'étude avait exclu les personnes ayant déjà subi un infarctus du myocarde et/ou un AVC car le risque d'une récidive est accru après un premier incident de ce type. 2) Ces chiffres valent pour 2020, le risque peut avoir diminué depuis le début de la pandémie, à la suite de l'amélioration des traitements, et il peut ensuite encore diminuer avec la généralisation de la vaccination.
+
+
+=== Formes critiques ===
+Les principales complications sont une détresse respiratoire aiguë dans 30 % des cas, une myocardite dans 10 % des cas et une surinfection bactérienne dans 10 % des cas ou une libération importante de cytokine responsable d'une lymphohistiocytose hémophagocytaire secondaire qui est une forme particulière de choc cytokinique.
+Ces complications peuvent entraîner la mort spécialement, mais pas exclusivement, chez les personnes rendues fragiles par l'âge ou par des comorbidités.
+
+
+==== Dysfonctionnement de la coagulation ====
+Le risque thrombo-embolique est une complication des formes critiques. Ces dernières s'accompagnent d'un état d'hypercoagulabilité, et on observe une corrélation entre le taux de D-dimère et le risque de mortalité. L'embolie massive est une cause majeure de mortalité, surtout chez les sujets jeunes et chez les patients sévèrement atteints. Un temps de prothrombine prolongé et des niveaux élevés de protéine C-réactive à l'admission à l'hôpital sont associés au déroulement sévère du COVID-19 et au transfert en unité de soins intensifs (USI),.
+Mi-avril, une étude sur 183 patients de Wuhan estimait qu'environ 71 % des morts de Covid-19 ont présenté une thrombose et une hémostase répondant aux critères de diagnostic d'une coagulation intravasculaire disséminée (CID).
+On avait déjà montré (2013) que le virus du SRAS, via une voie anormale d'urokinase, pouvait induire une lésion du poumon par le SARS-CoV, ce qui évoquait une interaction complexe entre les nouveaux coronavirus, la coagulation et les systèmes fibrinolytiques.
+En avril 2020, la Chine a publié un consensus d'experts sur les troubles de la coagulation liés à la Covid-19 sévère, sur les tests de coagulation, le traitement anticoagulant, un traitement de remplacement et sur un traitement de soutien et la prévention, avec 18 recommandations cliniques. L'effet inflammatoire multi-organes endommage aussi le système microvasculaire, ce qui suractive le système de coagulation, avec comme manifestation une vascularite généralisée des petits vaisseaux et une microthrombose largement répartie,,.
+
+
+==== Rhabdomyolyse ====
+La rhabdomyolyse est une complication sous-estimée car se manifestant principalement par des douleurs musculaires mais qui persiste et se focalise. Le diagnostic de cette complication est facile car elle se fait par le dosage de la créatine-kinase et de la myoglobine. Mais ces examens ne font pas partie des examens biologiques de routine.
+
+
+==== Cause des décès plus cardiovasculaire que pulmonaire ====
+Plusieurs articles avaient signalé en Chine et à Singapour un aspect cardiovasculaire chez des patients, mais sans les étudier systématiquement,.
+Le 25 mars 2020, un article scientifique confirme que de nombreux patients sévèrement touchés avaient une maladie cardiovasculaire sous-jacente et/ou des facteurs de risque cardiovasculaires et cérébrovasculaires. Une lésion cardiaque aiguë (notamment démontrée par des taux élevés de troponine) est fréquente dans les cas graves et très associée à la mortalité. Les auteurs estiment que la Covid-19 induit plus souvent qu'on ne le pensait initialement une inflammation vasculaire, une myocardite et des arythmies cardiaques, ce qui invite à mieux étudier les facteurs de risque, cardiovasculaires.
+Le 10 avril 2020, Sandro Giannini, professeur de médecine à l'université de Bologne estime que les décès dus à la Covid-19 qu'il a observés ont une cause cardiovasculaire plutôt que respiratoire. La Covid-19 induit un affolement du système immunitaire où l'inflammation induit aussi une embolie pulmonaire (caillots sanguins). Ceci expliquerait l'efficacité des anti-inflammatoires et l'inefficacité de la ventilation assistée,. Le Dr Cameron Kyle-Sidell (médecin urgentiste du centre médical Maïmonide de New York) pense de même : les poumons des patients sont sains et remplis d'air, mais le niveau d'oxygène sanguin est insuffisant. 50 % des patients soignés par Luciano Gattinoni (professeur au service d’anesthésie-réanimation de l’université de Göttingen en Allemagne, et expert renommé en ventilation mécanique) étaient dans ce cas,.
+
+
+=== Pronostic et létalité ===
+Avertissements :
+
+Deux indicateurs sont à ne pas confondre :
+taux de létalité = ratio du nombre de décès sur nombre de personnes malades (ce qui est différent du nombre de personnes testées positives sauf si on teste l’ensemble des personnes concernées),
+taux de mortalité = ratio du nombre de décès sur l’ensemble d’une population concernée ;
+Ces taux sont incertains, car mesurer le nombre total de malades et de morts par le virus est en début d'épidémie impossible, faute de moyens de test suffisants. Le nombre de guérisons et de décès, et donc le vrai taux de létalité, ne seront connus de façon définitive qu'après la fin de l'épidémie,,,. Si les cas pas et peu symptomatiques sont moins détectés, cela biaise les taux vers le haut. Si les morts sont attribués à la Covid-19 sur des critères restrictifs en ne comptant par exemple que les morts constatés à l'hôpital, cela biaise les taux vers le bas.
+
+
+==== Taux de létalité de l'épidémie de coronavirus de 2019-2020 ====
+Au 27 janvier 2020, le taux de létalité provisoire (nombre de morts rapporté au nombre de cas positifs) calculé par l'OMS d'après les chiffres fournis par les différents pays, était de 3 % environ (80 décès sur 2 800 infections). Cette valeur provisoire est bien plus faible que celles des épidémies de SRAS en 2002-2003 (9,6 %) et de MERS en 2009 (34,4 %) mais néanmoins beaucoup plus élevée que la plupart des virus grippaux touchant les humains.
+Au 11 février 2020, le taux de létalité recalculé par le CDC chinois (« Chinese Center for Disease Control and Prevention ») sur près de 45 000 cas confirmés, était de 2,3 %, restant bien plus élevé que celui des grippes saisonnières typiques ; il est supérieur à celui de la pandémie grippale de 1957 (0,6 %) qui fit entre 1 et 4 millions de morts, et même à celui de la pandémie de grippe espagnole (1918) (2 %),.
+Au 28 février 2020, sur la base du nombre de pneumonies hospitalisées confirmées, une étude chinoise portant sur les 421 premiers cas donne un taux de létalité d'environ 2 %, suggérant des conséquences proches de celles d'une épidémie de grippe saisonnière sévère, ou d'une grippe pandémique modérée (comme celles de 1957 et 1968), plutôt que de celles d'une épidémie type SRAS ou MERS.
+Ces taux de létalité sont souvent calculés sur le nombre de cas déclarés et ne tiennent pas compte des cas asymptomatiques ou peu symptomatiques qui sont pourtant la majorité des cas.
+Le 22 mars 2020, un étude française se basant sur un couplage entre une approche statistique et un modèle épidémiologique calcule un taux de létalité de 0,8 % en France (0,5 % si l'on ne tient compte que des données hospitalières).
+Une étude du 30 mars parue dans le Lancet permet d'affiner la létalité de cette maladie : le taux de létalité en Chine serait de 1,38 % chez les moins de 60 ans, de 6,4 % chez les plus de 60 ans et jusqu'à 13,4 % après 80 ans.
+Le 9 avril, une étude allemande menée dans la commune de Gangelt a consisté notamment à détecter les personnes immunisées en recherchant chez un échantillon représentatif de la population des anticorps anti-SARS-CoV-2. Les résultats montrent que 14 % de la population a été infectée par le virus. Dans cette commune le taux de létalité de la maladie a été déterminé à 0,37 % lors de l’étude (à comparer au taux de létalité de près de 2 % pour la totalité du pays pour la même période). Le taux de mortalité était de 0,06 % calculé sur la population de Gangelt.
+Le 21 avril une modélisation de l'Institut Pasteur indique notamment que le « taux de létalité  chez les personnes infectées est de l’ordre 0,5 % (13 % chez les hommes de plus de 80 ans) » sur la base des données hospitalières, confirmant ainsi la valeur obtenue le 22 mars et indiquant une stabilité de ce taux dans le temps. D'après cette étude, au 11 mai « près de 6 % des Français devraient avoir été infectés par le SARS-CoV-2 ».
+Le 23 avril 2020, une étude sérologique à grande échelle conduite à New York donne un taux de létalité de 0,6 %.
+Le 20 mai 2020, le Centers for Disease Control and Prevention publie un taux de létalité de 0,4 % des patients symptomatiques, et 35 % d'infections asymptomatiques.
+Selon une étude de l'Imperial College London, le taux de létalité serait d'environ 1 % avec des variations entre pays, liées  à l'âge de leur population (le taux de létalité variant de 0,01 % pour les moins de 15 ans à 17,4 % pour les plus de 90 ans),.
+
+
+==== Taux de létalité par âges ====
+En décembre 2020, la maladie tue principalement les personnes âgées, 78 % des victimes de la Covid-19 en France ayant 75 ans et plus. Ce taux monte à 92 % pour les personnes de 65 ans et plus. L'âge moyen des décès liés à la Covid-19 est de 81 ans, et l'âge médian de 84 ans. Les moins de 50 ans ne représentent que 1,9 % des décès liés à la maladie.
+
+Selon une étude réalisée sur 540 667 adultes hospitalisés avec COVID-19 entre mars 2020 et mars 2021 par les Centres pour le contrôle et la prévention des maladies, 94,9 % d'entre eux avaient au moins un problème de santé sous-jacent, c'est-à-dire qu'ils avaient, en plus de la Covid-19, une autre maladie susceptible d'avoir causé leur hospitalisation. Les facteurs de risque de décès les plus importants étaient l'obésité, les troubles liés à l'anxiété et à la peur et le diabète avec complication.
+Le taux médian de létalité chez les plus jeunes serait beaucoup plus faible qu'estimé initialement. Il serait de 1 sur 333 333 (0,0003 %) entre 0 et 19 ans, 1 sur 50 000 (0,002 %) entre 20 et 29 ans, 1 sur 9000 (0,011 %) entre 30 et 39 ans, 1 sur 3000 (0,035 %) entre 40 et 49 ans, 1 sur 800 (0,123 %) entre 50 et 59 ans et 1 sur 200 (0,506 %) entre 60–69 ans ; soit 1 sur 1500 (0,07 %) entre 0 et 69 ans.
+
+
+==== Taux de létalité en fonction des pathologies existantes ====
+Source : Centre chinois pour le contrôle et la prévention des maladies. Données au 11 février.
+
+L'hypertension artérielle (HTA) semble être le facteur de risque le plus important dans une étude du 24 mars. Les coronavirus SARS et SARS-CoV-2 utilise le récepteur ACE2 pour pénétrer dans l'épithélium respiratoire. Plusieurs hypothèses sont avancées notamment la perturbation du fonctionnement des ACE2 par un traitement antagoniste des récepteurs de l'angiotensine II ou les enzymes impliquées dans le fonctionnement de ces récepteurs. Un autre mécanisme évoqué est la surexpression des ACE2 chez les patients atteints d'hypertension ou de diabète. Le Dr Karol Watson, éditeur associé du NEJM Journal Watch Cardiology indique qu'il n'y a aucune donnée actuelle qui laisse penser à un risque supplémentaire chez les patients prenant un antagoniste des récepteurs de l'angiotensine II ou un inhibiteur de l'enzyme de conversion,. Au contraire, une étude rétrospective sur 511 patients montre que la prise d'antagoniste des récepteurs de l'angiotensine II pour HTA s’accompagne d'une mortalité diminuée par rapport aux hypertendus ne prenant pas ce traitement. L'effet est net après 65 ans. Ce caractère protecteur du traitement anti-HTA est spécifique des antagonistes des récepteurs de l'angiotensine II. Il n'est pas retrouvé dans les autres catégories d'anti-hypertenseurs (bêta-bloquant, inhibiteur calcique).
+Ce même mécanisme pourrait être à l'origine de l'effet délétère de l'ibuprofène sur la maladie.
+
+
+==== Selon le sexe ====
+Le nombre de malades est égal entre les sexes, mais parmi les personnes sévèrement touchées, les hommes survivent moins à la maladie. Ainsi :
+
+la seconde semaine d’avril 2020 selon l'OMS, 50 % des cas de Covid-19 déclarés sur le continent européen était des hommes, mais les hommes comptaient pour 60 % des décès (alors qu'il y a moins d'hommes âgés que de femmes âgées) ; les hommes sont aussi beaucoup plus nombreux que les femmes à être envoyés en soins intensifs, mais avec des différences importantes selon l'âge ;
+l'ONG Global Health 5050, qui travaille sur les inégalités de santé entre hommes et femmes, a montré que là où des données sont disponibles, les décès sont toujours plus nombreux chez les hommes que chez les femmes (que les hommes soient plus souvent infectés ou pas) ; en France au 15 mars 2020, 47 % des cas et 58 % des décès étaient des hommes ;
+du 16 mars au 16 avril, en un mois 2 806 cas graves de Covid-19 ont été enregistrés par Santé publique France (par 144 services de réanimation du réseau sentinelle) ; parmi les malades envoyés en réanimation (âgés en moyenne de 61 ans), 73 % étaient des hommes. Et les hommes restent aussi très sur-représentés parmi les morts. En outre, quand les femmes mettent quatre jours pour éliminer le virus, les hommes en mettent six (temps de 50 % plus long) ;
+en Lombardie, 82 % des 1 591 patients envoyés en unités de soins intensifs (du 20 février au 18 mars) étaient des hommes (âge moyen : 63 ans).Causes de surmortalité masculine 
+Cette surmortalité masculine est particulièrement marquée chez les 40-70 ans (d'après les statistiques OMS). Elle pourrait s'expliquer par :
+
+une consommation en moyenne plus élevée d'alcool et de tabac chez les hommes ;
+de nombreux gènes régulant l'immunité se trouvent sur le chromosome X (et les hommes n'en possèdent qu'un seul) ;
+des origines hormonales :
+deux hormones féminines, les œstrogènes et la progestérone, sont connues pour stimuler l'immunité innée et acquise ;
+le poumon du nourrisson garçon est plus immature à la naissance que celui de la fille, faisant que le nourrisson garçon est, en moyenne, plus vulnérable au syndrome de détresse respiratoire aiguë ; il répond en outre également moins bien à la « corticothérapie prénatale » prescrite contre la détresse respiratoire ;
+le récepteur des androgènes (RA) inhibe la production de surfactant pulmonaire ; or il est peu exprimé chez les femmes (toute leur vie), et il l'est également peu chez l'enfant (jusqu'à l'adolescence), ce qui pourrait expliquer que les enfants et les femmes soient moins gravement touchés par les manifestations respiratoires aiguës de la Covid-19 (détresse respiratoire notamment) ;
+le SARS-CoV-2 (comme les autres coronavirus humains) cible principalement les pneumocytes de type II dans le poumon humain. On sait que le processus d'entrée du virus SARS-CoV-2 dans la cellule doit être amorcé par le lien entre la protéine de pointe de la surface virale et l'enzyme de conversion de l'angiotensine 2 (ACE2), que l'on sait influencée par des hormones sexuelles). De plus, la protéase transmembranaire à sérine 2 (TMPRSS2) de l'hôte joue aussi un rôle,. Or, dans les pneumocytes de type II, l'expression de la TMPRSS2 s'accompagne d'une augmentation de l'expression du récepteur des androgènes (RA). Ceci lie donc l'expression du RA au SARS-CoV-2. Début avril 2020, des chercheurs ont proposé qu'une étude épidémiologique s'intéresse aux personnes prédisposées (ethniquement, génétiquement ou pathologiquement) à une surexpression ou à une sous-expression du récepteur des androgènes (ex : hommes souffrant d'alopécie androgénétique, d'hypertrophie bénigne de la prostate ; femmes souffrant du syndrome des ovaires polykystiques. Car, si ce récepteur est en cause, on dispose de plusieurs classes de médicaments le ciblant (les antagonistes de la RA, les inhibiteurs de la synthèse des androgènes et les antigonadotrophines).
+
+
+=== Mortalité ===
+En juillet 2021, l'ECDC indique que la maladie a tué 3 986 982 personnes dans le monde, dont 740 809 dans l'union européenne et l'espace économique européen, 605 526 aux États-Unis, 524 417 au Brésil, 402 728 en Inde, 233 689 au Mexique, 193 389 au Pérou, 137 925 en Russie et 128 231 au Royaume-Uni entre le 31 décembre 2019 et la semaine 26 de l'année 2021.
+Au 24 novembre 2021, le nombre de morts officiellement dues au Covid-19 est de 5,2 millions, mais sur la période prise en compte, l'excès de morts par rapport aux années précédentes est de 20,1 millions ; l'écart entre ces deux nombres est variable selon les pays : +20% dans l'Union Européenne et en Amérique du Nord, +700% en Asie, +800% en Afrique.
+L'OMS estime que l'excès de mortalité dû à la Covid-19 dans le monde en 2020 et 2021 est de 15 millions.
+
+
+==== Causes ====
+La détresse respiratoire aiguë (SDRA) est la cause physiologique principale de la mortalité de la Covid-19. D'apparition particulièrement brutale et sévère, la mortalité induite par le SDRA se situe entre 30 et 50 % selon le site European Lung. Le pronostic du SDRA dépend de l'état de santé initial du patient. Il peut entraîner des séquelles à long terme dans la plupart des cas.
+Selon F. Zhou et ses collègues (mars 2020) environ la moitié des morts de la Covid-19 résultent de coinfections ou surinfections (dites sur infections secondaires), le plus souvent bactériennes, mais dès février 2020 Chen et ses collègues avaient noté que la coinfection est parfois à la fois bactérienne et fongique.
+Une réaction immunitaire trop importante connue responsable d'une lymphohistiocytose hémophagocytaire secondaire, une forme particulière de choc cytokinique, est aussi un facteur majeur de mortalité.
+
+
+==== Facteurs de risque ====
+Connaître les facteurs favorisant ou non l'infection, le développement des symptômes et le diagnostic aide les cliniciens à mieux identifier, et précocement trier les patients à risque.
+Selon une étude portant sur 540 667 adultes hospitalisés avec la COVID-19 entre mars 2020 et mars 2021, les facteurs de risques de mortalité sont :
+
+
+===== Personnes à risque =====
+En France, le ministère des Solidarités et de la Santé informe, le 24 mars 2020, que, dans le cadre de la procédure d’arrêt de travail simplifiée, sont considérés comme « à risque » au regard de la Covid-19 et susceptibles de développer une forme grave d’infection, les cas suivants :
+
+« Les personnes âgées de 70 ans et plus (même si les patients entre 50 ans et 70 ans doivent être surveillés de façon plus rapprochée) ;
+Les patients présentant une insuffisance rénale chronique dialysée, insuffisance cardiaque stade NYHA III ou IV ;
+Les malades atteints de cirrhose au stade B au moins ;
+Les patients aux antécédents (ATCD) cardiovasculaires : hypertension artérielle, ATCD d’accident vasculaire cérébral ou de coronaropathie, chirurgie cardiaque ;
+Les diabétiques insulinodépendants ou présentant des complications secondaires à leur pathologie (micro ou macro angiopathie) ;
+Les insuffisants respiratoires chroniques sous oxygénothérapie ou asthme ou mucoviscidose ou toute pathologie chronique respiratoire susceptible de décompenser lors d’une infection virale ;
+Les personnes avec une immunodépression :
+
+médicamenteuses : chimiothérapie anti cancéreuse, immunosuppresseur, biothérapie et/ou une corticothérapie à dose immunosuppressive ;
+infection à VIH non contrôlé avec des CD4 < 200 par minute ;
+consécutive à une greffe d’organe solide ou de cellules souche hématopoïétiques ;
+atteint d’hémopathie maligne en cours de traitement ;
+présentant un cancer métastasé ;
+Les femmes enceintes ;Les personnes présentant une obésité morbide (indice de masse corporelle > 40 kg m−2) : par analogie avec la grippe A(H1N1). »
+
+
+===== Obésité =====
+Les personnes avec un IMC supérieur à 30 sont plus à risque d'avoir une forme grave de la maladie et celles avec un IMC supérieur à 40 sont plus à risque d'en décéder,.
+
+
+===== Perception du risque chez les femmes enceintes =====
+Une étude réalisée en Chine montre que les femmes enceintes ou venant juste d'accoucher ont une perception juste des risques liés au coronavirus: la contamination est inférieure à celle de la grippe mais les complications peuvent être supérieures aux autres évènements malencontreux que peuvent rencontrer une femme enceinte, elles sont vigilantes sur les possibles contaminations de leurs proches. Elles sont mieux renseignées sur les risques que l'ensemble de la population éduquée.
+La covid accroît le risque d'enfant mort-né, particulièrement le variant delta.
+
+
+===== Effets « paradoxaux » du tabac =====
+De premières études estimaient un risque plus élevé de 50 % chez les fumeurs de développer une forme grave (notamment en raison des effets nocifs du tabac sur les poumons et/ou le système cardiovasculaire). Mais alors que le fumeur double son risque de déclarer une grippe, qu'il n'est pas protégé pour le SRAS et alors qu'il semblait nettement plus vulnérable au MERS, des faisceaux d'indices statistiques plaident pour une moindre vulnérabilité à la Covid-19 : 
+
+En Chine 6 % des 191 malades hospitalisé à Wuhan étaient fumeurs. 30 % des chinois adultes sont réputés fumeurs, mais seuls 12,6 % de 1 099 malades étudiés étaient fumeurs ;
+Aux États-Unis où 13,4 % de la population fume, seuls 1 % de 7 162 patients U.S. étaient signalés comme fumeurs ;
+En France dans l'étude du cluster du lycée de Crépy-en-Valois, 7,2 % des fumeurs présentaient des anticorps contre le virus, contre 28 % des non-fumeurs, ce qui laisse penser que le risque d'être infecté était ici de 75 % moindre pour les fumeurs (à moins qu'ils ne soient faiblement infectés et qu'ils n'aient pas produit d'anticorps). Par ailleurs, la Pitié-Salpétrière a noté que pour 350 malades hospitalisés et 130 patients plus légers accueillis en ambulatoire, tous testés positifs à la Covid-19, les non-fumeurs étaient largement sur-représentés. Selon Zahir Amoura, dans ce dernier cas, « on a trouvé seulement 5 % de fumeurs chez ces patients, ce qui est très bas. En gros, chez les patients Covid-19 , les fumeurs ne sont représentés qu'à 20% dans une  population générale de même sexe et de même âge ».On a pensé au début de la pandémie que la nicotine pouvait protéger de la Covid-19.
+
+Une hypothèse d'explication est que la nicotine interagirait avec le système rénine-angiotensine (SRA) chez les fumeurs, comme l'avait déjà montré en 2018 Joshua M. Robert et ses collègues ; la nicotine bloquerait peut-être l'accès à l'ACE2 (récepteur SARS-CoV-2) pour le virus. Les experts restent prudents, estimant que ces résultats doivent être reproduits, compris et « être soigneusement examinés à la lumière du risque accru de forme grave de COVID-19 chez les fumeurs une fois infectés » et des conséquences néfastes à long terme du tabagisme, qui par ailleurs tue des millions de personnes dans le monde ;
+seconde hypothèse (pré-publiée le 21 avril 2020) : le récepteur nicotinique de l'acétylcholine (nAChR) pourrait avoir une fonction essentielle lors de l'infection Covid-19 ; fonction qui serait inhibée par la nicotine ; le SARS-CoV-2 pourrait aussi être un bloqueur du récepteur nAChR (tout comme l'ivermectine qui fait aussi partie des molécules testées) ;
+autre hypothèse (non exclusive des précédentes) : la nicotine pourrait atténuer la réponse immunitaire très anormalement excessive dans les cas les plus sévères.Plusieurs des études citées ci-dessus présentent de possibles biais. Par exemple, le personnel soignant et enseignant (moins susceptibles de fumer) y est sur-représenté. Ou (dans l'étude de la Pitié-Salpétrière) les patients viennent d'Île-de-France, une région où l'on compte moins de fumeurs qu'ailleurs en France. Mais au moins deux de ces études laissent fortement penser que les fumeurs sont mieux protégés du virus.
+Une pré-étude (du 8 mai 2020) rappelle que d'après les bases de données disponibles, les tissus pulmonaires et rénaux des fumeurs (tout comme ceux des patients souffrant d'hypertension artérielle pulmonaire, d'insuffisance rénale chronique et de néphropathie diabétique) expriment plus que la normale la protéine ACE2 (consensuellement considérée comme principale voie d'entrée pour le virus dans les cellules qu'il infecte).
+Des études utilisant des patchs nicotiniques (ou contenant d'autres « agents nicotiniques ») sont prévues ; ces patchs seront testés sur du personnel soignant, et en essai thérapeutique sur des patients hospitalisés (dont en réanimation). Ils doivent permettre de confirmer ou infirmer que le produit actif est bien dans ce cas la nicotine (sachant que la chimie de la fumée de tabac est particulièrement complexe).
+Finalement, en mai 2021 la principale étude concluant à un « effet protecteur du tabac » est rétractée par la revue The European Respiratory Journal, à la suite de la mise en évidence de nombreux biais (notamment par une contre-étude publiée dans le British Medical Journal), et surtout à la révélation que les deux principaux auteurs de l'article avaient « oublié » de déclarer qu'ils travaillaient pour le lobby du tabac,. Le consensus scientifique penche donc très clairement pour un rôle aggravateur du tabagisme sur la COVID-19.
+
+
+==== Le paradoxe avec l'asthme et la maladie pulmonaire obstructive chronique ====
+On a d'abord craint que l'asthme et la maladie pulmonaire obstructive chronique (MPOC), et d'autres maladies respiratoires chroniques, prédisposeraient à l'infection par le SARS-CoV-2 et/ou à développer les formes les plus sévères de Covid-19. Contre toute attente et au contraire, lors des trois premiers mois de pandémie, ces deux maladies ont été sous-représentées dans les comorbidités signalées. Une même tendance, non expliquée, avait concerné le SRAS.
+Il y a plusieurs hypothèses expliquant pourquoi elles sont sous-représentées :
+
+Ces deux maladies pourraient avoir été méconnues chez les premiers patients chinois atteints de Covid-19. C'est peu probable car en Italie au 23 mars 2020, par exemple, pour 355 patients morts de la Covid-19 (à 79,5 ans en moyenne), l’un était diabétique et un diabète a été signalé chez 20,3 % des patients ayant survécu, alors qu'aucune BPCO ne figurait parmi les comorbidités. De même aux États-Unis (au 31 mars 2020), pour 7 162 parmi 74 439 cas signalés documentés, les maladies respiratoires chroniques et le diabète étaient respectivement signalés chez 8,5 % et 10,2 % de ces cas (à comparer aux taux mondiaux de 11,3 % pour les maladies respiratoires chroniques et de 10,2 % pour le diabète).
+avoir une maladie respiratoire chronique protégerait contre la Covid-19, peut-être en calmant la réponse immunitaire ; si c’est le cas, ce n'est pas encore expliqué, et cette protection ne vaudrait pas pour les patients néanmoins entrés en phase aiguë de la maladie, car parmi ces derniers, avoir une BPCO comme comorbidité est associé à un risque accru de mourir, comme cela était attendu.
+les médicaments pris pour ces deux maladies diminueraient le risque d’infection, et/ou d'émergence des symptômes permettant le diagnostic. Cependant seuls 50 % des MPOC sont en Chine traités par les traitements standard européens et nord-américains alors que près de 75 % des asthmatiques chinois inhalent des corticostéroïdes. In vitro, des corticostéroïdes non seulement suppriment la réplication des coronavirus, mais atténuent ou bloquent la production de cytokines (impliquées dans la « tempête de cytokines » qui tue de nombreux patients sévèrement atteints),. Par un mécanisme encore incompris, des corticostéroïdes inhalés semblent, chez ces patients, pouvoir empêcher ou freiner le développement d'une infection symptomatique ou diminuer la sévérité de la Covid-19. L’exemple suivant n'a pas valeur de preuve statistique (peu de cas, pas de groupe témoin), mais il est cité par la littérature médicale : l'état de trois malades de Covid-19 (nécessitant de l'oxygène, mais pas d'assistance ventilatoire) s'est amélioré après inhalation de ciclésonide.Depuis le début de la pandémie, les experts et l’OMS recommandent aux victimes de MPOC et d'asthme de ne pas changer leur traitement. Une revue systématique faite après la pandémie de SRAS avait conclu que les corticostéroïdes systémiques ne présentaient aucun avantage et parfois un préjudice.Début avril 2020, les chercheurs ayant fait ce constat invitent à documenter avec précision les comorbidités, et les traitements antérieurs des malades de Covid-19, pour préciser les facteurs favorisant ou non l'infection, le développement des symptômes et le diagnostic, et pour définir les avantages/inconvénients du traitement de l'asthme et de la MPOC lors de la pandémie de Covid-19.
+
+
+==== Effets des antihypertenseurs ====
+Parmi les plus utilisés au monde, surtout chez des gens âgés, ces médicaments peuvent exacerber le risque de septicémie et d'hypotension (en modifiant l'homéostasie et notamment le système nerveux sympathique, l'équilibre sodique et/ou le système rénine-angiotensine-aldostérone (RAS) qui est impliqué dans la Covid-19). Malgré une préoccupation théorique concernant une expression accrue de l'ACE2 par blocage du système Rénine-Angiotensine-Aldostérone (RAS), début mai 2020, on n'a pas démontré que les antihypertenseurs soient nuisibles lors d'une infection à Covid-19 (sur le modèle animal, ils semblent même bénéfiques). Sur ces bases, le 7 mai 2020, un groupe de spécialité de l'hypertension (Sungha Park & al.) a recommandé de maintenir le blocage RAS chez les hypertendus lors de la pandémie de Covid-19.
+
+
+==== Facteur génétique ====
+En octobre 2020, un facteur génétique de comorbidité est découvert. Il augmente (jusqu'à trois fois) le risque d'insuffisance respiratoire aiguë après infection par le SRAS-CoV-2 ; et chez les moins de 65 ans, il double le risque de mourir de complication.
+Il s'agit d'un cluster de gènes situé sur le Chromosome 3 humain (et plus précisément  dans la région 3p21.31).
+Une étude distincte, sur 3 199 patients hospitalisés et un groupe témoin, a confirmé que ce cluster est le principal facteur de risque génétique pour les symptômes graves post-hospitalisation,.
+Cette séquence de gènes est héritée du génome de l'Homme de Néandertal, il y a environ entre 50 000 et 60 000 ans en Europe du Sud.
+Elle est très inégalement répartie dans le monde : en Asie du Sud, environ 50 % de la population en est porteuse, contre 16 % en Europe alors qu'elle est presque absente en Asie de l'Est,. Lors de la publication de l'étude on ignorait comment et pourquoi ces gènes augmente le risque de forme grave de la malade.
+Une autre étude (pré-impression, décembre 2020), a pointé un enzyme dit dipeptidyl peptidase-4 (DPP4). Le gène à l'origine du risque accru de forme grave de Covid-19 a ensuite été identifié comme étant le « facteur de transcription leucine zipper like 1 » (LZTFL1), un gène encore peu connu,.
+
+
+== Diagnostic et tests ==
+
+La méthode standard de diagnostic consiste à effectuer une réaction en chaîne par polymérase à transcription inverse (rRT-PCR) à partir d'un écouvillon nasopharyngé,. Au début de l’épidémie, des critères avaient été définis[Par qui ?] pour réaliser les tests diagnostiques. Au 6 mars 2020, devant la diffusion mondiale du virus et l’apparition de plusieurs foyers importants, ces critères sont devenus de plus en plus obsolètes. Le fait de revenir d'un séjour dans une région infectée est suffisant pour justifier une recherche par RT-PCR et/ou la réalisation d'un CT scan des poumons si un patient présente les signes décrits ci-dessus.
+Les CDC définissent un « contact étroit » comme le fait d'être à moins de deux mètres d'un malade suspecté ou confirmé ou dans une pièce ou une zone de soins pendant une période prolongée sans équipement de protection individuelle ou exposé directement aux sécrétions d'une personne infectée par le SARS-CoV-2.
+En complément du test PCR, un oxymètre peut également être utilisé pour détecter une contamination au COVID-19 ou pour surveiller une personne contaminée afin d'être alerté en cas de détresse respiratoire.
+
+
+=== Biologie ===
+
+
+==== Preuve de l'infection virale ====
+
+
+===== RT-PCR =====
+Le test-diagnostic le plus utilisé est la mise en évidence du génome du virus par la technologie RT-PCR (amplification génique après transcription inverse) sur des frottis nasopharyngés. Cependant, ce diagnostic n'est pas à la portée de tous les systèmes de santé. De plus, des faux négatifs sont possibles en RT-PCR, ce pourquoi l'imagerie médicale reste essentielle pour le bon diagnostic des patients.
+La spécificité de ce test est de 100 % mais on ignore sa sensibilité cependant tout dépend de la charge virale du prélèvement laquelle est variable selon le moment (primo-infection) selon l’état immunitaire du sujet (risque élevé chez les sujets immunodéprimés). L'existence de faux négatifs est connue. La RT-PCR a été largement déployée en virologie diagnostique et a donné peu de résultats faussement positifs. Les valeurs prédictives positive et négative ne sont pas actuellement connues avec précision, car, pour les calculer il faut avoir le chiffre exact de l'incidence et de la prévalence de la maladie. Le 22 janvier 2020, le ministère français des Solidarités et de la Santé annonce qu'un test diagnostic développé par le centre national de référence des virus respiratoires, à savoir l'Institut Pasteur, est disponible en France.
+La sensibilité du test dépend aussi de son lieu et mode de prélèvement. Ainsi la sensibilité de la RT-PCR est meilleure pour les prélèvements faits dans le nez que dans la bouche. Pour échantillonner l'ARN du SARS-CoV-2, on a d'abord recommandé d'analyser le mucus de fond de gorge par écouvillonnage. Les gouttelettes d'expectorations ont été jugées ensuite plus représentatives de la charge virale. En cas de RT-PCR négative au niveau nasopharyngés chez un patient suspect de maladie à coronavirus 2019, il est préférable d'effectuer des prélèvements par lavage bronchoalvéolaire (lavage bronchique au cours d'une fibroscopie pulmonaire), mais cette méthode (recommandée pour toute maladie respiratoire à risque) est impossible à appliquer en contexte épidémique.
+La RT-PCR nécessite du temps, or le nombre d'appareils et leur capacité sont limités. Des diagnostics rapides sont donc proposés, par exemple en s'appuyant sur l'âge, le sexe, la température, les images radiologiques et le rapport neutrophile sur lymphocyte.
+Une étude rétrospective chinoise, publiée le 11 avril 2020 dans le Journal of Clinical Virology, portant sur 301 malades hospitalisés présentant des formes moyennes ou sévères (mais dont aucune n'a nécessité un transfert en U.S.I.), 1 113 RT-PCT  ont été effectuées chez ces patients sur des prélèvements nasaux ou laryngés (nez et bouche). Cette étude permet d'établir la dynamique de la RT-PCR :
+
+Une méta-analyse publiée le 13 mai 2020 dans le Annals of Internal Medicine évoque aussi des faux négatifs évoluant de 38 % à J5 (jour moyen de début des symptômes) à 20 % à J8 pour remonter à 21 % à J9 puis 66 % à J21,.
+
+
+===== Charge virale =====
+Il existe une certaine confusion sur la notion de charge virale pour la maladie à coronavirus 2019 comme le rappelle Alexandre Bleibtreu, infectiologue à l'hôpital de la Pitié-Salpêtrière à Paris. La charge virale est la quantité de virus dans une unité de volume. Le test RT-PCR dose la quantité de génome virale c'est-à-dire après destruction de l’enveloppe et de la membrane du virus.
+La persistance d'une excrétion virale par l'épithélium nasal est aussi un facteur de risque. Toutes les personnes dans une étude comprenant 171 personnes admises en USI avec 53 décès ont gardé une charge virale jusqu'à la fin. Une lettre adressée à l’éditeur de la revue Lancet rappelle que la charge virale dans le cas du SARS restait positive jusqu'à 1 mois après la guérison alors que la culture virale se négativait plus rapidement relativisant la charge virale dans la contagiosité.
+La présence d'une charge virale sanguine (assez fréquente lors de maladies à coronavirus) semblerait être un facteur de gravité. Elle invite aussi à une bonne gestion des dons de sang faits pour les transfusions.
+
+
+===== Réponse sérologique =====
+Une première étude s'intéresse à la présence des anticorps IgG et IgM. La recherche des IgG et IgM est beaucoup plus simple et rapide que le RT-PCR. Elle permettrait de rattraper les faux positifs (par pollution d'ARN dans le laboratoire) et les faux négatifs (mauvais prélèvement) mais le faible nombre de cas ne permet pas de conclure définitivement.
+Une autre étude sur 173 patients porte sur la réaction sérologique à l'infection à SARS-CoV-2 : le taux de séroconversion (passage de l'absence d'anticorps spécifique à la présence d'anticorps spécifiques) pour les anticorps IgG et IgM étaient de 93,1 % (161/173) 82,7 % (143/173) avaient des IgM sans IgG et 64,7 % (112/173) des IgG sans IgM ; La séroconversion est apparue séquentiellement pour anticorps IgG et IgM, IgM puis IgG, avec un temps médian respectivement de onze, douze et quatorze jours. Moins de 40 % de patients avaient des anticorps les sept premiers jours de la maladie puis ce pourcentage a rapidement augmenté à 100,0 %, 94,3 % et 79,8 % pour IgG et IgM, IgM et IgG respectivement quinze jours après le début de la maladie. En revanche, le taux positif du RT-PCR est passé de 66,7 % (58/87) dans les échantillons prélevés avant le 7e jour à 45,5 % (25/55) entre J15 et J39. La combinaison de la détection d’ARN et d’anticorps a amélioré la sensibilité du diagnostic (p < 0,001), même en phase précoce (première semaine).
+Une autre étude a conclu que chez la moitié des patients, la séroconversion se produit après une semaine (parfois au 14e jour), et elle n'est pas suivie d'une baisse rapide de la charge virale.
+Une étude remarque que les IgG apparaissent un ou deux jours seulement après les IgM, soit de façon beaucoup plus rapide qu’habituellement.
+Un titre anticorps IgG et IgM élevé serait indépendamment associé à une gravité de la maladie.
+Début mai, la HAS rappelle que les tests sérologiques ne permettent pas de statuer sur une potentielle immunité protectrice ni a fortiori sur sa durée. Et ils n’apportent pas d’information sur la contagiosité. Outre leur intérêt épidémiologique, elle précise les indications dans le diagnostic de la maladie :
+
+En diagnostic initial pour les patients symptomatiques graves hospitalisés, dont la RT-PCR est négative mais chez qui les symptômes cliniques ou le scanner sont évocateurs d’une Covid-19.
+En diagnostic de rattrapage de patients symptomatiques graves hospitalisés mais qui n’ont pas eu un test RT-PCR dans les sept premiers jours.
+En diagnostic initial de patients symptomatiques sans signes de gravité suivis en ambulatoire dont le test RT-PCR est négatif mais dont le tableau clinique est évocateur.
+En diagnostic de rattrapage de patients symptomatiques sans signes de gravité suivis en ambulatoire mais chez qui un test RT-PCR n’a pu être réalisé avant 7 jours.
+En diagnostic différé des patients symptomatiques sans signes de gravité diagnostiqués cliniquement mais n’ayant pas fait l’objet d’une RT-PCR et ce depuis la mise en place de la phase 2 (à partir du 2 mars 2020).
+En détection d’anticorps chez les professionnels soignants non symptomatiques, en complément du dépistage et de la détection de personne-contact par RT-PCR selon les recommandations en vigueur, si la RT-PCR est négative.
+En détection d’anticorps chez du personnel d’hébergement collectif (établissements sociaux et médico-sociaux, prisons, casernes, résidences universitaires, internats…) non symptomatiques en complément du dépistage et de la détection de personne-contact par RT-PCR selon les recommandations en vigueur, si la RT-PCR est négative.
+
+
+===== Culture virale =====
+Ce virus peut se cultiver par culture virale (faite le 27 janvier 2020 à l'Institut Pasteur de Paris ; par contre, c'est une équipe australienne qui isole le virus par culture pour la première fois), mais celle-ci n'est pas utilisée en pratique clinique.
+
+
+===== Auto-Test de recherche de protéine virale =====
+Un premier essai d'un test à faire chez soi a été publié dans la revue Journal of Clinical Virology le 20 avril. Ce test, bien qu'ayant une sensibilité de 100 % et une spécificité de 97 %, se montre pas assez spécifique lors de l'essai, puisque sa valeur prédictive positive n'est que de 55 % (donc, si ce test est positif, le virus détecté sera le SARS-CoV-2 une fois sur deux et une fois sur deux un autre virus), mais sa valeur prédictive négative est de 100 % : s'il est négatif, vous êtes sûr de ne pas avoir le virus.
+
+
+==== Examens courants ====
+Les signes biologiques les plus importants car semblant en rapport avec la gravité de la maladie sont :
+
+lymphopénie (inférieure à 1 500 lymphocytes par ml) est retrouvée dans 83 % des cas ; une lymphopénie est très souvent présente chez des patients en état critique. La lymphopénie est une caractéristique importante des patients gravement malades infectés par le SARS-CoV, car une invasion ciblée des lymphocytes par des particules virales du SARS-CoV endommage la composante cytoplasmique du lymphocyte et provoque sa destruction. La lymphopénie était également courante chez les patients gravement malades infectés par le MERS-CoV, qui est le résultat de l'apoptose des lymphocytes. Il semblerait que la gravité de la lymphopénie reflète la gravité de l'infection par le SARS-CoV-2 ;
+thrombopénie (inférieure à 150 000 plaquettes par ml) existe dans 36 % des cas ;
+leucopénie (inférieure à 1 500 leucocytes par ml) retrouvée dans 33 % des cas ;
+dans la mesure où 50 % des décès résultent d'une surinfection opportuniste ou provenant de bactérioses ou de mycoses sous-jacentes, une recherche de bactéries ou micro-champignons infectieux est à faire, idéalement par les moyens de la métagénomique ou la recherche de génomes entiers, (qui sont encore peu disponibles, notamment dans les pays pauvres).Les autres anomalies évaluent le retentissement de l'infection virale sur les différents organes (cœur, rein, foie) : on peut retrouver une cytolyse hépatique modérée (transaminase légèrement augmentée) ; le taux de procalcitonine est normal ; les lactates déshydrogénases et la créatine kinase peuvent être augmentées.
+Une aggravation de la maladie se traduit par l'aggravation de la lymphopénie avec aggravation de la leucocytose.
+
+
+==== Marqueurs biologiques pronostiques ====
+
+Les taux de 13 cytokines sont significativement corrélés avec le risque de développer une forme grave nécessitant une prise en charge en unité de soins intensifs. Un bon marqueur pronostique est constitué de deux d'entre elles :
+
+la CXCL13 ;
+le facteur de croissance des hépatocytes (HGF).
+
+
+===== Marqueurs de la réponse immunitaire =====
+
+Des indicateurs d'inflammation ont été recherchés chez des patients légers, graves et critiques, pour discriminer rapidement ceux dont la pneumopathie pourrait évoluer vers une forme sévère ou mortelle. Les critères associés à la gravité de la maladie étaient l'âge, le récepteur de l'interleukine 2, de l'interleukine 6 (IL-6), de l'interleukine 8, de l'interleukine 10, le facteur de nécrose tumorale α, la protéine C réactive (CRP), la ferritine, la procalcitonine, la numération des globules blancs, la numération des lymphocytes, la numération des neutrophiles et la numération des éosinophiles, avec en conclusion un risque maximal pour les plus de 67 ans, avec un taux d'interleukine 2 supérieure à 793,5 U/mL, de CRP supérieure à 30,7 ng/mL, de ferroprotéine supérieure à 2 252 μg/L, une leucocytose supérieure à 95 × 108 L-1 ou un nombre de neutrophiles dépassant 7 305 × 106 L-1. Un niveau élevé d'IL-6 à l'admission serait associé à une manifestation clinique sévère. La diminution de l'IL-6 semble indiquer l'efficacité du traitement, tandis que son augmentation indique une progression de la maladie. L'évolution du niveau d'IL-6 est donc un marqueur utile pour la surveillance de la maladie chez les patients atteints de Covid-19 sévère. Une étude montre une présence de l'ARN viral dans le sang et que la charge virale est directement corrélée avec le taux sanguin d'interleukine 6, ce qui fait de cette molécule un marqueur pronostique important. Cette augmentation associée à un taux de fer sanguin élevée doit faire rechercher une lymphohistiocytose hémophagocytaire secondaire. Le taux de CRP semble être en rapport avec une réaction inflammatoire inappropriée du foie.
+Une étude semble montrer que le taux de lymphocytes est un moyen efficace et un indicateur fiable pour la classification et le pronostic de la maladie : durant le passage d'une forme bénigne vers une forme grave, le taux de lymphocyte sanguin diminue et reste bas. Au moment où l'état du malade s’améliore, le taux de lymphocyte sanguin remonte vers des taux normaux. Les patients ayant moins de 5 % de lymphocytes par rapport aux normes, avaient souvent un mauvais pronostic. Une autre étude confirme l'existence d'une corrélation élevée entre le taux des lymphocytes sanguins et la progression de la maladie. Pour les auteurs de cette étude, le lymphocyte est la cellule clé de la pathologie du SARS-CoV-2.
+
+
+===== Marqueurs de la coagulation =====
+L'augmentation des D-dimères est un signe de gravité ainsi que l'augmentation de la créatinémie. Ce marqueur est aussi retrouvé dans cette publication qui a été étudié les facteurs de risque chez les patients décédés de Covid-19 pour un taux supérieur à 1 microgramme par ml.
+
+
+=== Imagerie médicale ===
+
+			
+			
+		
+		
+			
+			
+		
+Comme le fait remarquer le professeur Christine Jenkins, responsable de la Fondation australienne des maladies pulmonaires et expert en pneumologie, la particularité des pneumopathies virales est leur propension à atteindre tout le poumon alors que les pneumopathies bactériennes sont souvent localisées à un lobe pulmonaire. La Covid-19 atteint très rapidement ensemble des deux poumons.
+Une équipe chinoise décrit en février 2020 l’évolution de la pneumopathie chez des patients peu sévères en la divisant en quatre stades selon l’aspect au scanner :
+
+stade 1, dit précoce (jusqu'aux quatre premiers jours) : les opacités en verre dépoli c’est-à-dire des changements de densité des tissus en forme de halo, courants dans les affections virales.sont la principale anomalie pulmonaire, sont sous-pleurales et touchent les lobes inférieurs des poumons ;
+stade 2, dit progressif (cinq à huit jours) : les opacités en verre dépoli deviennent bilatérales et multilobaires, des plages de condensation et de crazy paving apparaissent ;
+stade 3, dit du pic (dix à treize jours) ; les anomalies s’intensifient, notamment la condensation alvéolaire ;
+stade 4, dit de résorption (après quatorze jours) : régression des anomalies, résorption de la condensation, disparition complète du crazy paving et persistance de verre dépoli.Les mêmes auteurs concluent que les patients présentant une pneumonie modérée (sans détresse respiratoire sévère), les anomalies pulmonaires au scanner thoracique sont maximales environ dix jours après l'apparition initiale des symptômes, et régresse à partir de quatorze jours.
+Généralement, plus la maladie avance, plus les opacités linéaires, un motif de pavage fou » et/ou un signe de « halo inversé sont présents sur l’image.
+Chez les sujets asymptomatiques ou encore symptomatiques (c'est-à-dire à un stade infraclinique) le scanner (tomodensitométrie ou TDM) montre néanmoins des changements précoces dans les poumons (opacités en verre dépoli unilatérales). Le scanner peut donc contribuer au diagnostic de la Covid-19, associé à un test RT-PCR concordant, voire en cas de faux-négatif de ce test.
+Le 23 avril l'équipe du Pr Delabrousse du Centre hospitalier régional universitaire de Besançon publie un article dans la revue internationale RADIOLOGY qui fait figure d'avancée majeure dans la prise en charge des patients atteints de Covid-19. Cette étude établit que 23 % des patients atteints présentent une embolie pulmonaire détectée par angioscanner (qui utilise une injection de produit de contraste). « Le diagnostic d'embolie pulmonaire chez les patients COVID-19 est impératif et impose la réalisation d'un angioscanner pulmonaire au lieu du scanner thoracique sans injection actuellement recommandé ». Cette nouvelle recommandation est aussitôt suivie par le CHU de Strasbourg.
+
+
+=== Nouvelles technologies ===
+
+
+==== Prise en charge et diagnostic par télémédecine ====
+La télémédecine a montré son intérêt dans plusieurs situations de crises sanitaires. Elle pourrait permettre de trier les cas nécessitant une hospitalisation et pour les autres une surveillance à domicile. Le recueil des données associées avec un programme d'intelligence artificielle permet de trier et d'évaluer le risque. En cas d'hospitalisation, l'équipe médicale peut isoler et prendre en charge le patient de façon plus rapide, protégeant aussi les autres patients attendant dans le service des urgences.
+
+
+==== Diagnostic par intelligence artificielle ====
+Une étude scientifique semble montrer l'intérêt d'utiliser des logiciels d'IA, qui en analysant les anomalies pulmonaires visibles au scanner initial permettent de prédire avec de bonnes performances la durée d'hospitalisation des patients.
+Des chercheurs de l'EPFL ont développé une application web, CoughVid, ayant pour objectif de diagnostiquer la Covid-19 en analysant le son produit par la toux.
+
+
+==== Outil de diagnostic en ligne ====
+L'Institut Pasteur met en ligne un outil de diagnostic tout public qui comprend 22 questions.
+
+
+==== Dépistage par les composés organiques volatils ====
+Les composés organiques volatils excrétés par l'organisme, notamment exhalés par la respiration, pourraient devenir un moyen de diagnostic de la Covid-19.
+Une start-up de Singapour propose de détecter la Covid-19, entre autres maladies, en faisant souffler le patient dans un appareil.
+L’École nationale vétérinaire d’Alfort, quant à elle, travaille au dépistage canin de la Covid-19. C'est alors le flair de l'animal qui détecterait des signaux olfactifs marqueurs du coronavirus.
+
+
+=== Diagnostic différentiel ===
+L'utilisation d'un kit permettant de détecter plusieurs agents pathogènes responsables des maladies respiratoires a révélé un taux élevé d'infections par le virus de la grippe, représentant 28,5 % de tous les cas suspects d'infection par le SARS-CoV-2.
+
+
+=== Classification de la maladie ===
+La classification de la gravité de la Covid-19 est très importante. Lors du déclenchement d'une épidémie les ressources médicales sont relativement rares. Une classification en optimise l’utilisation permettant de limiter le sur-traitement ou le sous-traitement. Le guide du Centre national de contrôle des maladies chinois classe la maladie principalement sur des critères radiologiques en quatre types. Une étude suggère d'utiliser le taux de lymphocytes pour classer la maladie.
+
+
+=== Chiens renifleurs ===
+Dès le début de la pandémie, les chiens « renifleurs » sont rapidement envisagés pour dépister les patients atteints de Covid-19.
+Le professeur Dominique Grandjean de l'École nationale vétérinaire d’Alfort est à l’initiative du projet EnvA Equipe Nosaïs après avoir constaté « que la signature olfactive du virus est forte et très spécifique ». Aussi, une étude est lancée dans le cadre de Salicov AP-PH et les résultats donnés le 19 mai 2021 sont très positifs : l'analyse olfactive est rapide, non invasive, ne « nécessite qu’une fraction de seconde par prélèvement avec un résultat instantané » et ne coûte « que quelques millions d’euros pour le déploiement des chiens », « par rapport aux milliards engendrés par les tests de RT-PCR ». Aussi, le professeur assure se battre « avec l’OMS pour que cette technique soit développée à bas coût dans des pays comme Madagascar, le Mali, le Rwanda, ou au Congo, par exemple… » et envisage « de créer une plateforme de formateurs à Dubaï qui inviterait des personnes de pays plus pauvres à se former ».
+
+
+== Anatomopathologie, autopsies ==
+Peu de données issues d'un examen microscopique sont disponibles sur la Covid-19,. Les principales constations anatomopathologiques à l'autopsie sont :
+
+macroscopie : épanchement pleural, péricardite, pneumopathie et œdème pulmonaire ;
+quatre niveaux de sévérité de pneumonie virale peuvent être observés :
+pneumonie légère : exsudat de plasma ou de fibrine dans les alvéoles pulmonaires,
+pneumonie modérée : œdème pulmonaire modérée, hyperplasie des pneumocytes, présence de grands pneumocytes atypiques, inflammation interstitielle avec infiltrat lymphocytaire des septas interalvéolaires, formation de cellules géantes multinucléées (pneumonie à cellules géantes),
+pneumonie sévère : dommage alvéolaire diffus (Diffuse alveolar damage, DAD) avec membranes hyalines pulmonaires (membranes de fibrine, exsudat fibrineux), qui est à l'origine du syndrome de détresse respiratoire aiguë (SDRA) et de l'hypoxémie observée dans 5 à 10 % des cas de cette maladie,
+pneumonie d'organisation : forme de cicatrisation pulmonaire après le stade inflammatoire, et fibrose pulmonaire ;
+coagulation intravasculaire disséminée (CIVD) ;
+plasmocytose au lavage bronchoalvéolaire ;
+foie : stéatose microvésiculaire.La médecine légale ou toute pratique d'autopsie nécessite des précautions particulières en période de risque pandémique. Le Collège royal des pathologistes a publié des recommandations sur la pratique de l'autopsie sur des corps pouvant être infectés à la Covid-19.
+
+
+== Traitement ==
+
+En septembre 2021, il n'existe pas de traitement efficace ou de cure spécifique contre le SARS-CoV-2, reconnu par l'OMS. « Les soins de soutien les plus efficaces sont l’oxygénothérapie pour les patients dans un état grave et ceux qui risquent de développer une forme grave de la maladie, ainsi qu’une assistance respiratoire plus poussée, comme la ventilation pour les patients dans un état critique. La dexaméthasone est un corticostéroïde qui peut contribuer à réduire la durée de placement sous respirateur et à sauver des patients dans un état grave ou critique ».
+Le 4 novembre 2021, le Royaume-Uni devient le premier pays au monde à commercialiser le molnupiravir, un antiviral contre la COVID-19, pris sous forme de comprimés et destiné aux malades présentant un risque de forme grave. Ce traitement a été développé par le laboratoire américain Merck, commercialisé sous le nom de Lagevrio.
+
+
+== Vaccination ==
+Les objectifs de la vaccination contre le SARS-CoV-2 sont divers : protéger chaque individu de la maladie, protéger les personnes particulièrement à risque, stopper une vague pandémique, maintenir la liberté individuelle, protéger l'économie, protéger les moins menacés des effets secondaires de la vaccination, justice mondiale . Ces objectifs en partie divergents impliquent différentes stratégies possibles concernant la distribution et la priorité des vaccins, l'intervalle entre la première et la deuxième vaccination, le nombre de vaccinations de rappel et la sélection de la dose.
+
+
+=== Vaccins ===
+Les vaccins contre la maladie à coronavirus 2019 (Covid-19) font l'objet de recherches dès le début de la pandémie de maladie à coronavirus 2019, dans plusieurs pays. Ainsi, le cofondateur de BioNTech a expliqué en novembre 2020, que son vaccin a été conçu en quelques heures dès janvier 2020,.
+Différentes approches sont explorées pour forcer l'organisme à développer une réponse immunitaire permettant d'éliminer le virus SARS-CoV-2 : l'utilisation de formes atténuées ou inactivées du coronavirus, de virus anodins modifiés génétiquement pour exprimer une protéine du coronavirus, de protéines du coronavirus, ou d'acides nucléiques insérés dans des cellules humaines pour y produire des protéines virales,.
+En janvier 2021, selon l'Organisation mondiale de la santé (OMS), il y aurait soixante vaccins contre le coronavirus SARS-CoV-2 autorisés ou en phase d'étude clinique, ainsi que 172 vaccins potentiels à l'étude.
+La Russie, la Chine et Cuba sont les premières à injecter à grande échelle un vaccin et à le commercialiser. Le vaccin russe Spoutnik V est le premier au monde à être homologué, son nom faisant référence au premier satellite envoyé dans l'espace. La Chine aurait déjà vacciné 350 000 personnes début octobre 2020.
+Le 9 novembre 2020, Pfizer, qui mène la course dans l'industrie occidentale, annonce que le candidat vaccin contre la Covid-19 qu'il prépare en partenariat avec BioNTech (le Tozinaméran) est efficace à 90 %. Cette nouvelle provoque un envol des bourses mondiales. Le 17 novembre 2020, Moderna annonce à son tour que son vaccin est efficace à 94,5 %. Le 2 décembre, le vaccin Pfizer-BioNTech est approuvé par le MHRA (en) pour le Royaume-Uni, et la vaccination y débute le 8 décembre. Le 11 décembre 2020, ce vaccin est autorisé aux États-Unis par la Food and Drug Administration et la campagne de vaccination commence à New York le 14 décembre. Les homologations de ce 1er vaccin ont lieu en décembre 2020 au Royaume-Uni, aux États-Unis, au Canada, en Israël, en Arabie saoudite, aux Émirats arabes unis et en Union européenne,,.
+Le 27 décembre 2020, Mauricette M. âgée de 78 ans, devient la première personne vaccinée sur le territoire français.
+3 milliards de dose de vaccin ont été administré dans le monde entre le début des campagnes de vaccination et juin 2021.
+40 millions de français ont reçu leur première dose de vaccin avant la fin du mois de juillet 2021.
+À l'été 2023, 54,7 millions de français avaient reçu une dose de vaccin, 53,7 millions en ont reçu deux, 41 millions ont reçu leur première dose de rappel, 10,2 millions ont reçu leur deuxième dose de rappel.
+En janvier 2024, l'OMS annonce qu'au moins 1,4 million de personnes ont été sauvées en Europe grâce aux vaccins contre le Covid-19.
+
+
+=== Vaccination et variants ===
+La vaccination doit toucher un public suffisamment large pour que l'immunité collective soit atteinte. Dans le cas contraire, le virus continue à circuler et à muter dans la population non vaccinée ce qui peut aboutir à l'apparition de variants de nature à compromettre l'efficacité des vaccins. Une étude montre que ce risque est maximal avec une couverture vaccinale de l'ordre de 60 % (situation de beaucoup de pays développés à l'été 2021),.
+
+
+== Typologie des malades ==
+
+
+=== Facteurs de prédisposition ===
+L'un des aspects marquants de la Covid-19 porte sur les grandes différences d'intensité d'expression clinique de la maladie ; allant de l'asymptomatisme complet à des formes rapidement mortelles, note le généticien Kári Stefánsson, selon qui des prédispositions génétiques pourraient expliquer certaines de ces différences.
+
+
+==== Prédispositions génétiques ====
+En juillet 2020, dans le cadre de la « COVID-19 Host Genetics Initiative » (consortium international de chercheurs partageant des données utiles pour l'étude des liens entre génome humain et COVID-19), les données génomiques acquises chez 4 000 patients (tombés malades en Italie et en Espagne) ont mis en évidence de premiers liens génétiques solides entre la sévérité de la Covid-19 et certaines caractéristiques du génome des malades.
+Le risque d'insuffisance respiratoire était nettement accru chez les porteurs de deux variantes génétiques :
+
+l'une est située à proximité de plusieurs gènes, dont l'un codant une protéine interagissant avec le récepteur utilisé par le virus pour pénétrer dans les cellules humaines, et deux autres codant des molécules liées à la réponse immunitaire ;
+l'autre est située dans la région du génome déterminant le type sanguin ABO. Remarque : précédemment une typologie par groupe sanguin avait été soupçonnée par un preprint (du 16 mars 2020) en Chine à partir de différents hôpitaux (Wuhan, Shenzhen), qui semblait montrer que les personnes de groupe sanguin A présentent un risque plus élevé que les autres groupes, tandis que les personnes de groupe O présentent un risque moins élevé que les autres groupes. Dans cette étude la répartition des patients de groupe B et AB atteints de la Covid-19 est la même que dans un échantillon sain de population, étude qui avait été mise en relation avec une autre sur le SARS-CoV de 2001-2002 par France Inter, évoquant une corrélation in vitro pour un virus cousin du SARS-CoV-2.Ces deux variantes ne joueraient cependant qu'un rôle modeste dans le caractère fatal ou non de la maladie (des immunologistes, tels Jean-Laurent Casanova à l'université Rockefeller de New York, recherchent d'autres mutations jouant un rôle plus significatif.
+Des études de septembre 2020 et août 2021 indiquent que « 20 à 25% des formes sévères de Covid-19 » s’expliquent par des anomalies génétiques et immunologiques :
+
+environ 4 % des formes graves seraient dues à un « défaut de production ou d'action des interférons de type I » causé par des anomalies génétiques (mutations concernant 8 gènes dont le gène TLR7 situé sur le chromosome X) ; un dosage sérique des IFN de type I permettrait de détecter certains sujets à risque ;
+15 à 20 % des formes graves seraient dues à des auto-anticorps ciblant les interférons de type I du patient (cf. ci-dessous).
+
+
+==== Composante auto-immune (dans certaines formes graves et/ou longues) ====
+15 à 20 % des formes graves seraient dues à une composante auto-immune conduisant à une production importante d'anticorps dirigés contre les interférons de type I du patient (contre 0,33 % dans la population générale). Les patients à risque pourraient bénéficier d'une plasmaphérèse ou de traitements de nature à réduire la production de ces auto-anticorps par les lymphocytes B,.
+Ceci semble confirmé par une étude prépubliée le 11 décembre 2020, avant relecture par des pairs, par des chercheurs de l'Université de Yale (Ring, et l’immunobiologiste Akiko Iwasaki, qui étudie la réponse immunitaire contre le SARS-CoV-2, déjà auteur de plusieurs découvertes sur le virus) : le système immunitaire de certains patients infectés par le SARS-CoV-2 se retourne contre eux, causant alors une maladie grave et de longue durée, « post-Covid-19 » ; plus de 5 % des hospitalisés testés par cette étude produisaient des auto-anticorps affaiblissant le rôle des interférons. Des dizaines de types d’autoanticorps aberrants ont été trouvés chez ces malades, expliquant des symptômes persistants alors même qu’on ne trouve plus de traces du virus dans leur organisme. Ces anticorps ciblent divers tissus et organes (cerveau, vaisseaux sanguins, foie, tissu conjonctif, tube digestif) du patient supposé guéri, mais aussi — parfois — le système immunitaire du malade (ex : anticorps s’attaquant à certains globules blancs importants : lymphocyte B et/ou T (Cellule tueuse naturelle) chargés de nous protéger contre le virus et d'autres infections). Les malades de la Covid-19 présentaient « des augmentations spectaculaires de la réactivité des auto-anticorps » (par rapport à 30 travailleurs hospitaliers en bonne santé n’ayant pas été infectés par le virus).
+
+Plus ces « auto-anticorps » sont nombreux dans le sang, plus la maladie auto-immune est grave (les patients Covid-19 présentaient plus d'autoanticorps que des patients victimes de lupus, autre maladie auto-immune causée par de type d’anticorps) ;
+Certains de ces malades avaient probablement des autoanticorps avant cette infection, mais d'autres autoanticorps sont apparus, au fur et à mesure que la maladie progressait.« La somme agrégée de ces réponses multiples peut expliquer une partie importante de la variation clinique chez les patients ». 10 % des 18 à 49 ans touchés pourraient développer une post-Covid longue (et un sur cinq chez les plus de 70 ans). Chez la souris, certains de ces auto-anticorps augmentent la sensibilité à l'infection et le risque de mourir.
+Des autoanticorps de ce type ont déjà été soupçonnés de causer des « symptômes à long terme » après des viroses de type Ebola ou Chikungunya, certains cas de maladie de Lyme (alors que le pathogène n’est plus détectable). De même chez des patients cancéreux ayant subi une immunothérapie. Des traitements immunosuppresseurs existent (par ex utilisés contre certaines maladies rhumatologiques) mais ils rendent vulnérables à d’autres infections,.
+
+
+==== Ratio homme/femme (caractère sexo-dépendant) ====
+En 2020, au sein de la population générale, « exactement la moitié » des personnes confirmées infectées par le SARS-CoV-2 sont des hommes. Mais de nombreuses études ont montré que l'homme est souvent plus gravement touché,,,,. Selon les données disponibles en décembre 2020, l'homme a statistiquement près de trois fois plus (2,84 fois exactement) de risques qu'une femme d'être admis en soins intensifs ; avec également un risque significativement plus élevé de mourir de la maladie (+ 39 %). Cette différence a été confirmée par une méta-analyse britannique publiée en décembre 2020 ayant porté sur 3 111 714 cas signalés entre le 1er janvier et le 1er juin 2020 dans 46 pays et 44 États des États-Unis.
+On sait que le système immunitaire (inné et adaptatif) diffère légèrement selon le sexe :
+
+Le système immunitaire adaptatif féminin produit plus de lymphocytes T CD4+,,,, ;
+les lymphocytes T CD8+ des femmes sont plus cytotoxiques, et donc plus efficaces ;
+les femmes produisent plus d'immunoglobulines de lymphocytes B que les hommes,.
+en réponse à la vaccination trivalente inactivée contre la grippe saisonnière (TIV pour Trivalent Inactivated flu Vaccine), les femmes présentent aussi des titres d'anticorps plus hauts (avec en revanche un inconvénient : les effets secondaires de type réactions locales et systémiques sont souvent plus exacerbés), ainsi qu'à la plupart des autres vaccins « pathogènes ». Les femmes produisent en moyenne des titres d'anticorps protecteurs équivalents à ceux des hommes pour une dose de vaccin TIV deux fois moindre (ce que la différence de poids ne peut expliquer), les taux sériques de testostérone étant inversement corrélés aux titres d'anticorps anti-TIV.
+Les femmes produisent naturellement plus d'interféron de type 1,,,,,,, ce qui limite chez elles le risque d'orage cytokinique qui semble expliquer de nombreuses formes graves de Covid-19.
+Les femmes pourraient être protégées par certaines hormones sexuelles féminines (œstrogènes (progestérone, et l'alloprégnanolone, un sous-produit de la progestérone), qui auraient un effet favorable sur la production d'anticorps, et contribuent à inhiber le récepteur ACE2, point d’entrée du coronavirus pour infecter les cellules,.
+L'oestradiol tendrait à protéger des formes graves de la maladie, en stimulant la réponse des lymphocytes T et en augmentant la production d'anticorps... alors que la testostérone inhiberait la réponse immunitaire masculine.
+Les cellules B des femmes produisent aussi plus d'IgG spécifiques de l'antigène en réponse au TIV, suggérant que la femme a une meilleure immunité humorale que l'homme.
+
+
+==== Perturbateurs endocriniens ====
+L'exposition aux perturbateurs endocriniens pourrait favoriser l'apparition de formes graves.
+
+
+==== Patients carencés en vitamine D ====
+Selon une étude espagnole, 8 patients sur 10 hospitalisés pour cause de Covid-19 étaient carencés en vitamine D,, mais on manque d'études randomisées pour attester une éventuelle causalité.
+
+
+==== Patients vaccinés contre les oreillons ====
+Le vaccin contre les oreillons pourrait réduire le risque de formes graves de la maladie. Jeffrey E. Gold constate « une corrélation inverse entre les niveaux d'anticorps IgG des oreillons et la gravité de la Covid-19 chez les personnes de moins de 42 ans vaccinées avec le ROR ». Ce fait expliquerait pourquoi les jeunes enfants vaccinés sont moins touchés par la maladie. Les auteurs préconisent de revacciner les personnes de plus 40 ans.
+
+
+=== Covid-19 et grossesse ===
+
+La grossesse n'induit pas de risque supplémentaire d'attraper la maladie. En revanche, elle peut augmenter le risque d'aggravation, notamment lors du troisième trimestre, ce risque étant comparable à celui d'une femme plus âgée de 15 ans. Cette aggravation peut s'expliquer par la baisse de l'immunité et une sollicitation plus forte du système cardiovasculaire. Par ailleurs, en fin de grossesse, l'utérus exerce une pression sur les poumons, ce qui ne facilite pas la ventilation. Certaines femmes placées en coma artificiel et proches du terme ont dû être césarisées.
+Cependant une étude de 2021 suggère que la grossesse permettrait une meilleure résistance face au virus par une modification du système immunitaire chez la femme enceinte. En effet, un des problèmes majeurs lors d’une infection au SARS-CoV-2, est la surproduction de cytokines, pouvant causer plus de dégâts à la personne que l’infection virale. Les femmes pourraient contrebalancer cette production exagérée de cytokines (interleukine-6) avec des molécules anti-inflammatoires produites naturellement lors de grossesses. Ces molécules anti-inflammatoires ont normalement pour but d’éviter que le système immunitaire maternel attaque le fœtus.
+
+
+==== Historique des connaissances ====
+Le SRAS pendant la grossesse était associé à une incidence élevée de complications maternelles et fœtales telles que fausse couche spontanée, accouchement prématuré, retard de croissance intra-utérine, insuffisance rénale et coagulation intravasculaire disséminée,. L'admission en unité de soins intensifs (USI) et la ventilation mécanique assistée peuvent aussi interférer avec le déroulement de la grossesse.
+Une infection périnatale par le SARS-CoV-2 peut être acquise auprès de l'entourage, des soignants (éventuellement de manière nosocomiale) ou via la mère (transmission verticale in utero ou postnatale).
+La transmission verticale in utero du virus est décrite mais survient très rarement. Le taux d'infection néonatale est de moins de 2 %.
+Une étude publiée le 12 février 2020 dans The Lancet sur neuf femmes enceintes présentant une pneumonie Covid-19 contractée au dernier trimestre de la grossesse est plutôt rassurante. Le tableau clinique de la pneumonie Covid-19 était identique chez les personnes non enceintes. Six patientes ont reçu des antiviraux. Elles ont toutes accouché par césarienne d'indication obstétricale (prééclampsie, utérus cicatriciel, etc.).
+Une nouvelle étude du 13 mars confirme cette impression sur 16 femmes enceintes confirmées et 18 cas suspects tout en soulignant qu'elles ont des signes radiologiques type de la maladie, les manifestations cliniques sont moins importantes que chez les femmes non enceintes.
+
+
+==== Transmission du virus par allaitement maternel ====
+Après environ un an de pandémie, en décembre 2020 aucune transmission mère-enfant certaine du virus par le lait maternel n'a pu être démontrée (et pour le SARS, un seul cas de PCR positif avait été rapporté dans le lait maternel, mais dans du colostrum, avant l'accouchement.
+Quelques échantillons de lait maternel ont été positifs au test recherchant l'ARN du SRAS-CoV-2, mais aucun virus infectieux n'a pu y être trouvé,,,,.
+En septembre 2020, The Journal of Perinatology publie un article montrant qu'une majorité d'échantillons de lait collectés lors de la pandémie chez des mères (non infectieuses au moment du prélèvement) contenaient des niveaux élevés d'IgA et de certaines IgG et IgM dans le lait ; ces anticorps réagissant aux sous-unités S1 et S2 de la protéine de pointe du virus SARS-CoV-2.
+En novembre 2020, une autre étude confirme que le lait de femmes rétablies du COVID-19 peut contenir des anticorps ciblant la protéine de pointe du virus. Ces anticorps (immunoglobuline G, immunoglobuline M, mais surtout IgA et d'IgG) sont transmis au bébé via l'allaitement et sous une forme favorisant l'immunité des muqueuses ; allaiter durant la pandémie est donc a priori sans danger, et serait même encore plus protecteur pour le nourrisson.
+Remarques : 
+
+Ces études ont toutes porté sur un petit nombre d'échantillons, mais elles semblent concorder. Fin 2020, elles demandent encore à être confirmées par des recherches élargies, dont, au fur et à mesure des mutations du virus, par des recherches d'anticorps ou de virus dans les banques de lait.
+Rebecca Powell (coauteur de l'étude, immunologiste à l'École de médecine Icahn du mont Sinaï) a proposé d'utiliser le lait maternel comme source d'anticorps thérapeutique (alors qu'on utilise aujourd'hui du sérum de convalescents), ajoutant que d'autres antiviraux pourraient être extraits de laits maternels, à condition de dépasser un tabou concernant d'autres utilisations de cette sécrétion que l'allaitement.
+
+
+==== Perception du risque chez les femmes enceintes ====
+Une étude réalisée en Chine montre que les femmes enceintes ou venant juste d'accoucher ont une perception juste des risques liés au coronavirus Covid-19: la contamination est inférieure à celle de la grippe ou du virus H1N1 mais les complications peuvent être supérieures aux autres évènements malencontreux que peuvent rencontrer une femme enceinte, elles sont vigilantes sur les possibles contaminations de leurs proches. Elles sont mieux renseignées sur les risques que l'ensemble de la population éduquée .
+
+
+=== Nouveau-né ===
+Dans une étude chinoise du 12 février 2020 publiée dans The Lancet et réalisée sur 9 femmes enceintes contaminées, tous les enfants nés étaient en bonne santé. Le sang fœtal, le liquide amniotique, des prélèvements au niveau de la gorge du nouveau-né et du lait maternel ont été effectués sur six des neuf patientes. Tous les résultats d'analyse étaient négatifs pour le SARS-CoV-2. Deux cas n'ont pu être prélevés car la césarienne a été effectuée la nuit. Le dernier cas n'a pas été prélevé car le résultat (positif) du test maternel SARS-CoV-2 n'est parvenu qu'après la césarienne. Selon les chercheurs, le cas positif du 5 février 2020 serait dû à une contamination maternelle post-naissance.
+Une autre étude chinoise, publiée en février 2020 dans la revue Translational Pediatrics, est moins rassurante et concerne dix nouveau-nés de Wuhan, issus de neuf mères infectées ayant présenté des symptômes avant l'accouchement dans quatre cas, le jour même dans deux cas et après l'accouchement dans trois cas. Huit bébés étaient des garçons et deux des filles ; quatre sont nés à terme et six prématurément ; deux étaient petits pour leur l'âge gestationnel (SGA) et un était macrosome ; six avaient un score PCIS (Pediatric Critical Illness Score) inférieur à 90. Six ont présenté un essoufflement comme premier symptôme, mais deux ont d’abord eu de la fièvre. Deux ont présenté une thrombocytopénie avec fonction hépatique anormale ; un avait une fréquence cardiaque rapide, un vomissait et un a fait un pneumothorax ; cinq nouveau-nés ont guéri, un est mort et quatre sont restés hospitalisés dans un état stable. Cette étude ne donne aucune explication sur le décès du nouveau-né. Seuls des prélèvements nasaux ont été faits. Ils étaient tous négatifs.
+Dans l'étude du 13 mars citée plus haut, il n'y a pas de différences significatives chez les nouveau-nés des cas confirmés ou suspects par rapport à un groupe témoin de 121 cas notamment pour ce qui concerne le score d'Apgar à la naissance.
+Une autre étude chinoise datant du 24 mars, et effectuée sur 33 nouveau-nés, confirme le pronostic généralement bon des enfants nés de mère PCR positif. Mais 3 des 33 enfants, tous nés par césarienne, présentent une pneumopathie typique de la Covid-19 survenant entre 2 et 4 jours après la naissance. Les prélèvements anaux et de la gorge étaient positifs au SARS-CoV-2. Aucune recherche n'a été effectuée dans le sang de cordon ou le liquide amniotique. Le seul enfant ayant nécessité une prise en charge en soins intensifs avait une hémoculture positive à Enterobacter. Aucun enfant n'est décédé. Les auteurs de l'étude concluent que la transmission du virus s'est produite après la naissance.
+Étant donné le faible risque d'infection néonatale chez les nouveau-nés d'une mère infectée, il n'est pas suggéré de séparer la mère infectée et son bébé à la naissance.
+
+
+== Critères de guérison ==
+Les critères de guérison selon la Commission chinoise de la santé sont :
+
+température normale durant plus de trois jours ;
+disparition des symptômes respiratoires ;
+amélioration nette des images de tomodensitométrie thoracique ;
+deux résultats consécutifs du test RT-PCR négatifs, séparés par au moins un jour.En France les critères de guérison et de sortie de confinement des personnes infectées sont précisés par le HCSP.
+
+
+== Immunisation ==
+En avril 2020, l'OMS reste prudente : « Il n'y a actuellement aucune preuve que les personnes qui se sont remises de la Covid-19 et qui ont des anticorps sont protégées contre une deuxième infection » ; à ce jour la présence d'anticorps dans le sang signifie simplement que la personne a été en contact avec le virus. L'OMS alerte les États qui — comme le Chili — envisagent de délivrer des « certificats d'immunité » aux personnes supposées guéries. Faute de preuves acquises entre janvier et avril 2020 que l'immunisation existe bien, ces certificats ou passeports pourraient ne pas être fiables, et alors aggraver la propagation virale (des personnes guéries s'exposeraient en pensant être protégées du virus, et une fois infectées seraient à nouveau contagieuses).
+Toutefois, la durée de l'immunité des anticorps peut être limitée à trois mois. Des études montrent qu'une personne contaminée pourrait être immunisé de 6 mois à plusieurs années.
+
+
+=== Connaissances ===
+Chez des singes macaques ré-exposés au coronavirus après une première infection, la maladie n'a pas récidivé, sans que l'on sache si ceci est transposable à l'homme et si cette protection est systématique.
+91 personnes ont été testées positives au SARS-CoV-2 en Corée du Sud, après avoir réuni les critères de guérison. Mais il se pourrait que plutôt qu'une réinfection, il s'agisse d'une réactivation du virus déjà présent dans l'organisme (ce que seule l'étude du génome viral pourrait prouver). Une autre explication pourrait être de faux négatifs lors de la supposée guérison et/ou de faux positifs lors du test fait après guérison,. En avril 2020, des études sont encore en cours en Allemagne où de nombreux tests ont été faits.
+
+
+==== Après infection par le SARS-CoV-1 ou le MERS-CoV ====
+La récurrence et l'ampleur des épidémies de SRAS et de MERS sont trop faibles pour permettre d'observer une possible immunité chez les personnes qui auraient été infectées dans le passé. Par ailleurs, aucune recherche basée sur l'inoculation n'a été tentée en raison du caractère hautement pathogène des virus du SRAS et du MERS. Une étude montrerait que les anticorps provoqués par le SRAS disparaissent au bout de trois ans.
+
+
+===== Après une infection par le SARS-CoV-2 (épidémie de Covid-19) =====
+Dans les premiers mois qui suivent le démarrage de la pandémie,on constate que les malades guéris de la Covid-19 semblent développer une certaine immunité au SARS-CoV-2, mais on ignore pour combien de temps, dans quelle mesure, et à quelles conditions , et on ignore s'il y a des exceptions à cette immunisation.
+Les coronavirus sont des virus à ARN qui mutent rapidement, ce qui est succeptible de faire fluctuer la qualité des défenses immunitaires développées à la suite d'une infection. L’hypothèse est avancée qu'une souche constitutive d'une nouvelle vague épidémique pourrait être assez différente des précédentes pour infecter des gens ayant guéri antérieurement de la Covid-19.
+Le 25 avril 2020, l'OMS avertit qu'il n'existe à cette date aucune preuve que les anticorps produits par le SARS-CoV-2 permet une protection efficace contre une réinfection. Par la suite, le recul permettra de dire que l’infection avec la souche originale protège largement d’une réinfection, jusqu’à la propagation, début 2022, d’un variant appelé Omicron.
+Le 22 juin 2020, des chercheurs chinois annoncent dans Science avoir découvert, dans le sang de 10 patients guéris de la Covid-19, l'anticorps 4A8 efficace contre le coronavirus SARS-CoV-2, qui neutralise ce coronavirus en empêchant sa protéine Spike (indispensable au virus pour infecter des cellules) de fonctionner.
+En juillet 2020, l’idée est avancée que les taux d'anticorps neutralisants contre le SRAS-CoV-2 sont élevés durant quelques semaines puis déclinent. Mais ils semblent persister plus longtemps et à des taux plus élevés chez les patients plus sévèrement touchés ; selon l'immunologiste George Kassiotis (du Francis Crick Institute de Londres) « Plus il y a de virus, plus il y a d'anticorps et plus ils dureront », comme dans le cas du SRAS (pour lequel la plupart des malades perdaient leurs anticorps neutralisants dès les premières années, hormis pour ceux qui avaient été sévèrement atteints, lesquels possédaient encore des anticorps 12 ans après).
+En septembre 2020, alors que des suspicions de réinfections circulent depuis plusieurs mois, jusqu'alors sans preuves que la nouvelle infection n'était pas une simple continuation de la première, un premier cas documenté de réinfection prouvée est publié, la seconde infection étant cependant asymptomatique. Un autre cas est ensuite commenté, et dans ce cas le patient a présenté des symptômes plus graves que lors de sa première infection. Une hypothèse selon laquelle le système immunitaire pourrait protéger contre le virus tout en aggravant les choses est alors évoquée et relayée par les médias, une crainte étant que certains patients ayant vécu une tempête de cytokines lors de leur première infection répondent de manière disproportionnée en cas de nouvelle infection. Une autre crainte est que le SRAS-CoV-2 puisse continuer à circuler dans le monde, même là où une immunité collective existe (qu'elle soit naturelle ou créée par la vaccination).La seconde vague de Covid-19 apporte de nouveaux éléments pour évaluer la prévalence de ces réinfections (bénignes ou graves) face à ce qui est à présent compris comme une émergence de variants successifs. Le risque d'être réinfecté pourrait varier selon de nombreux facteurs : la charge virale initiale, les variants impliqués et leur proximité génomique, l’état général de santé général du patient, etc.. Avec deux années de recul et la compréhension du phénomène des variants, on voit à mi-2022 que le risque de réinfection est particulièrement déterminé par l’émergence de variants successifs.
+
+
+== Séquelles ==
+Début septembre 2020, un nombre croissant d'indices ou preuves invitent à penser que l'infection par le SRASC-CoV-2 peut provoquer des dérèglements durables, dont le syndrome de Guillain-Barré, le syndrome de Miller Fisher, l'encéphalite nécrosante aiguë, la myélite, l'encéphalomyélite aiguë disséminée, la myasthénie ou des troubles neurologiques,,, rapportés après une Covid-19. L'immunothérapie a semblé avoir parfois un effet bénéfique.
+
+
+=== Atteinte psychiatrique ===
+Plus de la moitié des hospitalisés survivant présenteraient des symptômes de troubles psychiatriques (para ou post-infectieux) : TSPT, anxiété, insomnie, dépression, ou TOC à un mois de l'hospitalisation.
+Des alertes sur des temps de récupération longs ont aussi été émises.
+
+
+=== Atteinte génétique ===
+Une recherche menée fin 2020 au MIT (Massachusetts Institute of Technology) et publiée en mai 2021 dans la revue scientifique PNAS montre la possibilité d’une intégration de fragments du virus dans l'ADN du malade.
+
+
+=== Questions sur la transmission sexuelle et l'infertilité masculine ===
+Le testicule est un réservoir pour plusieurs virus, dont le virus Zika comme démontré chez l'homme et le VIH,, le virus étant alors sexuellement transmissible s'il passe dans le sperme. Dans une prépublication publiée sur MedRxiv, des chercheurs de New York et de Bombay notent que dans le panel qu'ils ont suivi, les femmes se sont rétablies plus vite que les hommes. Les auteurs pensent que le virus peut être relativement à l'abri du système immunitaire dans les testicules, comme cela a pu être montré pour d'autres virus. Ils notent aussi que la protéine ACE2 est aussi présente en grande quantité dans le testicule, alors qu'elle est presque absente du tissu ovarien. L'ACE2 est notamment présente dans les spermatogonies (cellules inactives jusqu'à la puberté), dans les cellules de Leydig et dans les cellules de Sertoli ; cependant, ces résultats issus de base de données n'ont pas été vérifiés expérimentalement et l'ACE2 seule ne permet pas l'entrée du virus dans les cellules. D'autres facteurs sont nécessaires telle que la protéase TMPRSS2. Or une autre étude montre que ces facteurs additionnels ne sont pas exprimés par les cellules testiculaires qui expriment ACE2. Il n'est donc pas acquis que le SARS-CoV-2 puisse infecter les cellules testiculaires, mais si le virus peut infecter les testicules, le système immunitaire perturbé au sein de l'appareil reproducteur masculin, par des médiateurs inflammatoires notamment, pourrait altérer la barrière hémato-testiculaire et faciliter l'excrétion de virions dans le sperme.
+Une autre prépublication, mi-avril, indique que le SARS-CoV-2 perturbe le système hormonal, avec notamment une augmentation significative de l'hormone lutéinisante [LH] observée dans le sang, alors que le ratio T/LH (c'est-à-dire entre testostérone [T] et l'hormone lutéinisante [LH]) de même que le ratio entre l'hormone folliculo-stimulante [FSH] et l'hormone lutéinisante [LH] est diminué. Les auteurs en déduisent que la fonction gonadique des patients guéris devrait faire l'objet d'une attention particulière chez les hommes en âge de procréer. Cette hypothèse est toutefois controversée par plusieurs scientifiques. La Covid-19 pouvant donc peut-être altérer la fécondité masculine, en altérant le fonctionnement endocrinien, une étude massive a été envisagée car les études précédentes ne portaient que sur 81 sujets masculins âgés de 20 à 54 ans. Cette étude sera basée sur plusieurs recherches préalables qui postulent que toutes les cellules exprimant des récepteurs pour SARS-CoV-2. Or, les testicules montrent le niveau d'expression le plus élevé de cette enzyme principalement liée aux spermatogonies, et aux cellules de Sertoli. Tous les résultats suggèrent un risque du testicule humain face à l'attaque du SARS-CoV-2.
+La revue JAMA rapporte plusieurs cas de patients chinois ayant contracté la Covid-19, dont en rémission, chez lesquels le virus a été retrouvé dans le sperme. « Les banques de sperme doivent-elles interrompre la cryogénisation de dons de sperme durant la pandémie de Covid-19 ? » s'interrogaient Bright & Woodward en avril 2020. On sait en effet que certains patients virémiques (éventuellement asymptomatiques) excrètent des virus dans leur sperme — ceci était en 2017, déjà prouvé pour 27 virus différents — et parfois longtemps (par exemple le virus Zika était encore présent dans le sperme d'hommes réputés guéris ou ne présentant plus de symptômes « jusqu'à 1 an après la guérison »).
+Selon Michael Bright Yakass et Bryan Woodward, les hommes atteint de Covid-19 excrètent a priori peu de virus dans leur sperme car « seuls des titres très faibles de SARS-CoV-2 ont été détectés dans des sites non respiratoires » de l'organisme humain (y compris dans les selles humaines selon Holshue et al., 2020). « Cependant, « faible » est-il un risque acceptable si nous devons cryoconserver des échantillons de sperme pendant la pandémie ? », d'autant que la plupart des virus à ARN se conservent parfaitement durant des décennies aux températures de cryoconservation s'ils ont été stockés séchés, dans des concentrations de protéines appropriées,. On n'a pas de cas documentés de contamination clinique par coronavirus à partir de sperme cryoconservé, ce qui invite à penser que le risque est négligeable, mais en 2019-2020 au moins le SARS-CoV-2 pourrait être présent dans les échantillons de sperme congelés dans le monde entier. Bright & Woodward (2020) recommandent de remonter le niveau de biosécurité et de conserver les échantillons de la période pandémique dans des cryovaisseaux séparés en renforçant la traçabilité des échantillons cryoconservés envoyés entre cliniques et banques de spermes pendant et après la pandémie.
+Mi-avril une revue d'étude basée sur 79 rapports, a porté sur la liaison de la « protéine de pointe » S1 du SARS-CoV-2 aux récepteurs présents sur les cellules des cellules reproductrices humaines (ces récepteurs étaient notamment l'ACE2, le CD26, l'ezrine et les cyclophilines (en)). Cette étude a conclu que le SARS-CoV-1 peut provoquer une orchite grave (avec destruction de cellules germinales) ; les données alors disponible indiquent une diminution de la concentration et de la motilité des spermatozoïdes durant 72 à 90 jours après une Covid-19. Une expression d'ACE2 (dépendante de la gonadotrophine a été constatée dans les ovaires, mais sans preuve que le SARS-CoV-2 nuise à la gamétogenèse.
+Le 8 mai 2020, sur la base d'une analyse bio-informatique des bases de données de génome, protéome et transcriptome, une prépublication mise en ligne par 13 chercheurs chinois spécialistes en urologie et santé reproductive insiste sur l'ACE2 et TMPRSS2, deux protéines jugées nécessaires au virus pour qu'il puisse s'arrimer à une cellule et la pénétrer. Selon les bases de données, ces deux protéines sont effectivement fortement exprimés dans les organes génitaux masculins et le système urinaires associé. L'ACE2 est particulièrement présent à la surface des gamétocytes dans les testicules ; et il est aussi très présent dans les tubules rénaux proximaux. De plus les récepteurs des cytokines pro-inflammatoires (IL-6 ST en particulier) étaient remarquablement concentrés dans les cellules endothéliales, les macrophages et les cellules souches spermatogoniales dans les testicules et les cellules endothéliales rénales, évoquant des attaques auto-immunes (des endothélites sont d'ailleurs suspectées à échelle plus systémique). Correctement traiter la Covid-19 implique d'intégrer ces aspects de la maladies.
+
+
+=== COVID longue ===
+
+La COVID longue, également connue sous le nom de syndrome COVID chronique (SCC),, est utilisé pour nommer la condition caractérisée par des séquelles à long terme — persistant après la période de convalescence typique — de la maladie à coronavirus 2019. Les symptômes persistants comprennent la fatigue , les maux de tête, la dyspnée (essoufflement), l'anosmie (perte d'odorat), la parésie (faiblesse musculaire), une faible fièvre et les troubles cognitifs (agueusie, anosmie, troubles de l'attention...).
+Des études sont en cours sur divers aspects de la COVID longue, y compris chez l'enfant (Covid longue pédiatrique) mais en avril 2021, il est trop tôt pour tirer des conclusions, bien qu'une étude ait suggéré des facteurs de risque pour développer la maladie. Les systèmes de santé publiques de certains pays comme le NHS au Royaume-Uni, ont créé des structures spécialisées, et prodigué des conseils pour traiter ce genre de patients.
+Une étude préliminaire de juillet 2021 relève la présence d'anticorps du virus d'Epstein-Barr (EBV) chez 73 % de patients souffrant de « Covid long ». Ce virus de la même famille que l'herpès et responsable de la mononucléose infectieuse est fréquemment contracté à l'adolescence et reste latent chez 95 % des adultes. L'affaiblissement général et l'inflammation causés par la Covid-19 pourrait, chez certains patients, réactiver ce virus dormant. Les symptômes du « Covid long » ne seraient alors pas imputables directement au coronavirus mais à l'EBV.
+
+
+==== Prévalence des patients souffrant de COVID longue ====
+Pour une étude publiée dans le British Medical Journal, environ 10 % des personnes testées positives pour le SRAS-CoV-2 présentent une gamme de symptômes qui perdurent au-delà de trois semaines. Environ 2 % des personnes testées positives déclarent avoir des symptômes qui perdurent au-delà de 12 semaines, ce que l'on appelle la COVID longue ou syndrome COVID chronique.
+75 à 80 % des patients hospitalisés pour des formes graves, éprouvent des problèmes à long terme, notamment fatigue et dyspnée (essouflement),,,.
+Les patients avec une infection initiale sévère, en particulier ceux qui ont besoin d'une assistance respiratoire, sont également susceptibles de souffrir du syndrome de soins post-intensifs après la guérison.
+Un rapport de cas et une revue systématique réalisée en Suède estiment qu'une COVID longue peut également survenir chez les enfants,. Les symptômes courants chez les enfants étaient la fatigue, la dyspnée, les palpitations cardiaques ou les douleurs thoraciques, et il semblait y avoir une prédominance féminine.
+Une étude de septembre 2020 du King's College de Londres, a dénombré 60 000 patients alors concernés par des symptômes relevant de la COVID longue au Royaume-Uni. Les statistiques publiées en décembre par l'Office for National Statistics suggèrent que 21 % des patients souffrent de symptômes à long terme. (Bien que ces statistiques ne rapportent que l'incidence post-COVID et non pré-COVID de ces symptômes, qui peuvent avoir été préexistants),.
+
+
+==== Facteurs de risque ====
+Selon une étude du King's College de Londres initialement publiée le 21 octobre 2020, les facteurs de risque les plus observés chez les patients souffrant d'une COVID longue sont,:
+
+Âge supérieur à 50 ans
+Surpoids (IMC>30)
+Asthme
+Présenter plus de cinq symptômes (par exemple plus de toux, fatigue, maux de tête, diarrhée, perte de l'odorat) au cours de la première semaine de l'infection au COVID-19; cinq est le nombre médian relevé.
+
+
+==== Symptômes observés ====
+Les symptômes rapportés par les personnes atteintes d'une COVID longue comprennent,:
+
+
+== Prévention ==
+
+Le virus est sensible à tous les désinfectants habituels, solution hydroalcoolique, et au savon.
+
+
+=== Mesures ===
+La prévention vise essentiellement à éviter la contagion en suspendant tout contact proche avec une personne infectée confirmée et en limitant très fortement les autres contacts. Ceci passe notamment par l'instauration de mesures-barrières comme la distanciation physique, l'arrêt des embrassades et des échanges manuels, le lavage fréquent des mains, l'utilisation de mouchoirs jetables ou encore la pratique de tousser dans son coude pour éviter la production d'aérosols, la désinfection des surfaces potentiellement contaminées telles que des poignées de portes, boutons d'ascenseurs, etc. L'aération des locaux s'ajoute à ces comportements-barrière.
+Il est vivement conseillé aux personnes présentant un état grippal de surveiller leur température. L'ingestion de viande ou d'œuf mal cuits est déconseillée,.
+La London School of Hygiene and Tropical Medicine publie une étude le 6 février 2020 montrant que les détecteurs thermiques des aéroports détectent moins de 40 % des personnes infectées en se basant notamment sur cette publication.
+
+
+=== Port du masque ===
+
+Initialement, l'OMS ne recommandait pas le port du masque systématiquement, craignant qu'il procure un faux sentiment de sécurité. Le masque n'était recommandé que si on toussait ou éternuait, ou si on s'occupait d’une personne présumée infectée par le SARS-CoV-2.
+Depuis l'été 2020, l'OMS recommande  le port du masque dans les lieux très fréquentés, lorsqu’il est impossible de garder une distance d’au moins un mètre avec les autres à l'intérieur ou à l'extérieur, et dans les endroits mal ventilés ou dont on ignore la manière dont ils sont ventilés.
+L'OMS rappelle en outre que le port du masque est sans intérêt s'il ne s’accompagne pas d'un lavage régulier des mains et son utilisation exige des précautions particulières.
+Le port du masque diminue considérablement la transmission des gouttelettes émises au cours de la parole. La bonne manipulation du masque lors de sa mise en place et son retrait suivi d'un lavage des mains est primordiale.
+Les masques avec valve sont des masques qui facilitent l'expiration pour des raisons de confort. Les masques avec valves sont surtout utilisés dans les professions dont l'activité physique nécessite une bonne ventilation du porteur (métier du bâtiment par exemple), et ne sont pas recommandés comme protection par l'OMS.
+
+
+==== Masque chirurgical ====
+Le masque chirurgical est conçu pour retenir les germes sortant des poumons de la personne qui le porte : il est porté par un chirurgien (d'où le qualificatif de ce masque) pour éviter surtout d'infecter son patient opéré. Le port de ce masque peut apporter parfois un faux sentiment de sécurité.
+
+
+==== Masque FFP2 ====
+Le masque de protection individuel (de type FFP2) est équipé d'un filtre qui empêche les germes de pénétrer dans l'organisme. Son efficacité dure de trois à huit heures. Ce masque sert à protéger les personnels de santé lors de leurs soins aux personnes infectées. Ce masque porte le qualificatif de "bec de canard".
+Pour éviter la confusion entre les masques FFP1, FFP2 et FFP3, les élastiques sont jaunes pour les FFP1, blancs ou bleus pour les FFP2 et rouges pour les FFP3.
+
+
+==== Masques alternatifs ====
+Début avril 2020, les dirigeants de plusieurs pays changent de discours et recommandent de se couvrir le visage, avec un simple foulard ou un masque fait maison si besoin. En France, l’Académie nationale de médecine estime qu’un masque « grand public » devrait être rendu obligatoire pour toute sortie pendant et après le confinement.
+
+
+==== Opposition au port du masque ====
+
+Différents mouvements d'opposition au port du masque obligatoire et aux mesures de confinement ou de restrictions des libertés durant la pandémie de Covid-19 ont vu le jour dans divers pays du monde.
+
+
+=== Port de gants ===
+Hormis si l'on est un soignant en contact avec un patient potentiellement infecté et que l'on a été au préalable formé aux bonnes pratiques, l'OMS précise que le port de gants est inutile et que « le fait de se laver les mains régulièrement protège mieux contre la Covid-19 que le port de gants en caoutchouc ».
+
+
+=== Lavage des mains ===
+Se laver régulièrement les mains avec du savon ou d’une solution hydroalcoolique est la plus importante des mesures de protection contre le SARS-CoV-2. Pour être efficace, le lavage au gel hydroalcoolique doit se faire en manches courtes, les ongles courts (1 mm ou moins) sans vernis, sans aucun bijou (ni alliance ni montre…) et les mains sèches et macroscopiquement propres (on ne désinfecte que ce qui est propre).
+
+
+=== Eau potable ===
+Face à la pandémie de Covid-19 qui sévit en France, de nombreux gestionnaires d'approvisionnement en eau potable ont répondu à l’appel des Agences régionales de santé, suivant en cela les recommandations de l’Organisation mondiale de la santé. Elles leur demandent de modifier la chloration de l'eau, avec une augmentation du taux de 0,3 mg/l à 0,5 mg/l en sortie de station de traitement, avec une exposition au chlore libre pendant au moins 30 minutes. C'est le cas en particulier à Rennes, Strasbourg, Toulouse, dans la région parisienne, etc.
+
+
+=== Vitamine D ===
+La supplémentation régulière en vitamine D chez les personnes carencées pourrait avoir un effet bénéfique pour la prévention de la Covid-19. Par contre, malgré des recommandations allant dans ce sens, une supplémentation massive ou au-delà des seuils de carence n'a pas d'effet bénéfique démontré.
+
+
+=== Inactivation par la chaleur ===
+De premiers travaux avaient montré que les CoV ne résistent pas à des températures de 200 °C durant une à vingt minutes. Puis une étude a montré qu'à 75 °C durant 15 minutes, il était également inactivé. Ce type de désinfection est long et très consommateur d'énergie.
+Une étude américaine plus récente (mars 2021) a montré que chauffer une solution contaminée par le betacoronavirus de l'hépatite murine à environ 72 °C durant une demi-seconde seulement permettait de réduire de 100 000 fois la concentration du fluide en virus actif. Ce taux de réduction est estimé suffisant par les chercheurs pour que le risque d'infection soit alors proche de zéro pour un hôte humain. Selon les auteurs, un tel traitement thermique de l'air contaminé limiterait la transmission aérienne à longue distance. 83,4 °C durant 1,03 seconde, désactive la totalité des coronavirus de l'hépatite murine.
+
+
+== Désinformation ==
+
+De nombreuses théories concernant les causes du virus, la propagation de celui-ci ou les traitements sont diffusées sur les médias sociaux, et s'avèrent être liées aux théories du complot, aux infox ou d'être de la désinformation. Elles sont, pour certaines, entretenues par des affirmations contradictoires émises par des dirigeants politiques, des autorités de santé et des scientifiques.
+L’incertitude scientifique sur ce nouveau virus voyant le jour dans un monde où les modes de fonctionnement, ainsi que la pression médiatique, sont différents des précédentes pandémies, amènent une sollicitation accrue de l’opinion de divers experts, qui ne sont parfois pas nécessairement qualifiés pour intervenir en cette situation de crise. Il faut prendre en compte l'importance des biais cognitifs et rhétoriques visibles dans les prises de position de certains « experts » dans cette crise sanitaire qui restent encore largement à étudier. L'expertise décroît en raison du nombre important d'experts sollicités. L'entropie des connaissances scientifiques complexifie la tâche des journalistes dans leur rôle de distributeurs d'informations sur le sujet, puisque la ligne de distinction entre informations prouvées et non fiables devient de plus en plus floue. La science étant à la base des sociétés modernes et communément perçue comme un vecteur de certitude, la confusion au sein de la sphère scientifique, explique le scepticisme de certains publics en lien avec le virus de la Covid-19.
+En outre, la modernité de la crise qui ne permet pas toujours l'accès à des études scientifiques solides, de long terme et évaluées par des pairs (garantie habituelle de fiabilité de la source), pour ainsi permettre aux individus d'exercer un jugement critique sur la qualité de l'information transmise. Les scientifiques ignorant volontairement les règles scientifiques élémentaires sont également une source d'alimentation des théories du complot. L'information et son contraire continuent donc de monopoliser les médias, créant sur leur passage la perplexité du public en quête de réponses. De plus, une mauvaise compréhension de la démarche scientifique, avec la perception que des résultats mouvants au fil du temps seraient des signes de mensonge, facilite la relativisation de son rôle et le recours à des pseudo-sciences.
+L'importance et la gravité de la pandémie ont suscité la publication de nombreuses études scientifiques. Quelques-unes ont réussi à être publiées en dépit de problèmes méthodologiques, ce qui a alimenté la désinformation, notamment sur les vaccins. Quatre revues scientifiques réputées ont dû retirer en juillet 2021 des articles précédemment publiés mais insuffisamment validés.
+
+
+== Infographie ==
+Gildas Des Roseaux, « Comment fonctionnent les différents tests de dépistage du virus ? », sur Le Figaro, 2 avril 2020 (consulté le 11 avril 2020)
+Marc Cherki, « Coronavirus: de nombreux freins à l’accélération des tests PCR », sur Le Figaro, 22 avril 2020 (consulté le 25 avril 2020)
+Guillaume Balavoine, « Cinq cartes pour visualiser les disparités régionales face au Covid-19 », sur Le Figaro, 24 avril 2020 (consulté le 25 avril 2020)
+Dossier : « Coronavirus : notre dossier spécial sur la pandémie de Covid-19 », sur La Croix (consulté le 25 avril 2020)
+Jonathan Parienté, Pierre Breteau, Maxime Ferrer et Léa Sanchez, « Coronavirus : âge, sexe, département… la hausse de la mortalité française en six graphiques », sur Le Monde, 24 avril 2020 (consulté le 25 avril 2020)
+« En direct - Déconfinement : des réponses concrètes en début de semaine », sur Les Échos, 25 avril 2020 (consulté le 25 avril 2020)
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+Philippe Sansonetti, « Covid-19, chronique d’une émergence annoncée », La Vie des idées,‎ 19 mars 2020 (lire en ligne, consulté le 21 mars 2020)
+Pascal Marichalar, « Savoir et prévoir : Première chronologie de l’émergence du Covid-19 », La Vie des idées,‎ 25 mars 2020 (lire en ligne, consulté le 25 mars 2020).
+Philippe Grandcolas et Jean-Lou Justine, « Covid-19 ou la pandémie d’une biodiversité maltraitée », The Conversation,‎ 25 mars 2020 (DOI https://doi.org/10.6084/m9.figshare.12040623.v1, lire en ligne , consulté le 30 mars 2020)
+Ressources pour la Covid-19, sur worldcat.org
+Jad Hatem, Petite théologie de la pandémie, Paris, éd. du Cygne, 2020.
+Ludovic Desjardins, « Clinique du COVID. Transfert et écriture à l’épreuve de la crise », Topique,‎ 14 décembre 2020 (lire en ligne, consulté le 27 décembre 2020)
+Julien Bokilo Lossayi, «Analyse comparative des mises en œuvre  des politiques de lutte contre la pandémie du Covid-19 et d’anticipation de l’après crise», revue Polis, vol. 22, no 1 et 2, décembre 2020, p. 157-189.
+Korstanje M. E & George B. Mobility and Globalization in the Aftermath of COVID-19: Emerging New Geographies in a Locked World. Basingstoke, UK: Palgrave Macmillan, 2021.
+Collectif (Christopher Bollas, Antonino Ferro, Bernard Chervet, Joshua Durban, Serge Frisch, Daniel Kupermann...), Psychanalyse et vie covidienne. Détresse collective, expérience individuelle, sous la direction d’Ana de Staal et Howard B. Levine, éditions d'Ithaque, 2021,  (ISBN 2490350161), présentation sur le site de l'éditeur [lire en ligne]
+Jean-Michel Hirt, « Psychanalyse et vie covidienne. Détresse collective, expérience individuelle, sous la direction d’Ana de Staal et Howard B. Levine », Revue française de psychanalyse, 2021/4 (Vol. 85), p. 1053-1056. DOI : 10.3917/rfp.854.1053. [lire en ligne]
+
+
+=== Articles connexes ===
+
+
+=== Liens externes ===
+Liste des publications scientifiques relatives à la Covid-19 et Sars-CoV-2 de medRxiv, arXiv, JAMA network, New England Journal of Medecine sur Coronavir.org
+Comparateur des courbes épidémiques nationales (sources ECDC)
+Guide de bonnes pratiques: (en) Alhazzani, W. Møller, M. H. Arabi, M. Loeb et al., Surviving sepsis campaign: guidelines on the management of critically ill adults with Coronavirus Disease 2019 (COVID-19) - Un-edited accepted proof, European Society of Intensive Care Medicine and the Society of Critical Care Medicine, 2020 (DOI 10.1007/s00134-020-06022-5, lire en ligne)
+
+Ressources relatives à la santé : Diseases Ontology DiseasesDB Héritage mendélien chez l'humain Héritage mendélien chez l'humain ICD-10 Version:2016 MalaCards Medical Dictionary for Regulatory Activities Terminology Medical Subject Headings MedlinePlus NCI Thesaurus PatientLikeMe Store medisinske leksikon  
+
+ Portail de la maladie à coronavirus 2019   Portail des risques majeurs

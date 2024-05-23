@@ -1,0 +1,468 @@
+La radioattività, o decadimento radioattivo, è un insieme di processi fisico-nucleari attraverso i quali alcuni nuclei atomici instabili (radionuclidi) trasmutano in un certo lasso di tempo, detto tempo di decadimento, in nuclei di energia inferiore emettendo radiazioni ionizzanti. I nuclei prodotti si trovano in uno stato di maggiore stabilità in accordo con il principio di conservazione della massa-energia e della quantità di moto.
+Il processo di decadimento continua più o meno velocemente nel tempo finché gli elementi via via prodotti, eventualmente a loro volta radioattivi, non raggiungono una condizione di stabilità attraverso la cosiddetta catena di decadimento. La radioattività ha consentito lo sviluppo di numerose tecnologie nucleari impiegate principalmente in ambito medico (medicina nucleare), industriale, militare e agricolo.
+
+
+== Storia ==
+
+La scoperta dei raggi X avvenne da parte di Wilhelm Conrad Röntgen nel 1895. Nel 1896 Antoine Henri Becquerel, durante uno studio sulle relazioni intercorrenti tra fosforescenza e raggi X, scoprì la radioattività naturale dell'uranio. Nel 1898 Marie Curie e Pierre Curie scoprirono, selezionando la pechblenda, in italiano nota come uraninite, gli elementi radioattivi polonio e radio.
+Gli esperimenti di Becquerel consistevano nell'esporre alla luce del sole una sostanza fosforescente disposta su un involucro di carta opaco in cui vi era una lastra fotografica destinata a rivelare l'emissione non luminosa della sostanza. La scelta cadde sul solfato di uranio, che sviluppava una fosforescenza molto viva. Gli esperimenti mostravano che la lastra fotografica veniva impressionata dopo una debita illuminazione, il che confermava l'ipotesi di Becquerel. Ben presto, però, Becquerel osservò un fenomeno del tutto nuovo e inatteso: si accorse che la lastra veniva impressionata anche al buio. Becquerel ipotizzò che la sostanza continuasse ad emettere radiazioni derivate dall'illuminazione anche dopo la fine dell'esposizione ai raggi solari. Dopo ripetuti esperimenti con materiali diversi, si verificò che le radiazioni non dipendevano dalla caratteristica della fosforescenza della sostanza, ma dall'uranio.
+Questa scoperta aprì un nuovo filone di ricerca orientata a determinare l'eventuale presenza in natura di altri elementi che presentassero la stessa proprietà dell'uranio e, soprattutto, la natura di ciò che veniva emesso.
+Fu Marie Curie che iniziò a misurare la radiazione dell'uranio mediante la piezoelettricità, scoperta dal marito Pierre in collaborazione con il fratello Jacques, facendo ionizzare l'aria tra due elettrodi e provocando il passaggio di una piccola corrente, di cui misurava l'intensità in rapporto alla pressione su un cristallo necessaria a produrre un'altra corrente di intensità tale da bilanciare la prima. Il sistema ideato funzionò, tanto che Pierre Curie abbandonò il suo lavoro per affiancare la moglie  in tali ricerche. Fu proprio Marie a proporre il termine radioattività per indicare la capacità dell'uranio di produrre radiazioni e dimostrò la presenza di tale radioattività anche in un altro elemento: il torio. Con il marito Pierre, saggiando il contenuto di uranio della pechblenda al fine di raffinare tale elemento, rilevò che alcuni campioni erano più radioattivi di quanto lo sarebbero stati se costituiti di uranio puro e ciò implicava che nella pechblenda fossero presenti elementi in quantità minime non rilevate dalla normale analisi chimica e che la loro radioattività fosse molto elevata.
+Il passo successivo fu quello di esaminare tonnellate di pechblenda (delle miniere di Joachimstal in Cecoslovacchia), che vennero stipate in una baracca nella quale era stata installata un'officina e, nel 1898, si isolò una piccola quantità di polvere nera avente radioattività pari a circa 400 volte quella di un'analoga quantità di uranio. In tale polvere era contenuto un nuovo elemento dalle caratteristiche simili al tellurio (sotto il quale venne successivamente sistemato nella tavola periodica), che fu chiamato polonio in onore della Polonia, paese natale di Marie. La scoperta fu annunciata dal suo amico Gabriel Lippmann con una nota all'Accademia delle Scienze di Parigi. L'ulteriore lavoro conseguente al rilievo che quest'ultimo elemento, il polonio, non potesse giustificare gli alti livelli di radioattività rilevati, condusse, sempre nel 1898, alla scoperta di un elemento ancor più radioattivo del polonio, avente proprietà simili al bario e dal quale fu separato mediante cristallizzazioni frazionate, che fu chiamato radio, dal latino radium, ovvero "raggio". Anche tale scoperta fu oggetto di una nota scritta in collaborazione con Gustave Bémont, che aveva lavorato con i coniugi Curie. Il resoconto di tale lavoro divenne nel 1903 la tesi di dottorato di Marie Curie.
+Agli inizi di questa scoperta non si conoscevano gli effetti nocivi sulla salute delle radiazioni, e agli inizi del secolo furono reclamizzati tanti prodotti additivati con radio, decantandone proprietà salutari. La stessa Marie Curie negò sempre la sua pericolosità, mentre oggi gli stessi suoi abiti, libri e strumenti sono visitabili dagli studiosi solo con dovute protezioni radiologiche.
+
+
+== Descrizione ==
+
+
+=== Stabilità ===
+Ogni atomo è formato da un nucleo contenente protoni, neutroni e da un numero di elettroni che gli orbitano intorno, equivalente a quello dei protoni. Essendo tutti carichi positivamente i protoni tendono a respingersi per via della forza di Coulomb e, se non ci fossero altre forze a tenerli uniti, i nuclei non sarebbero stabili. A rendere invece stabili i nuclei atomici è la cosiddetta forza nucleare forte.
+Quando le forze all'interno del nucleo non sono però perfettamente bilanciate (ovvero il nucleo è instabile) questo tende spontaneamente a raggiungere uno stato stabile attraverso l'emissione di una o più particelle.
+Molti degli isotopi esistenti in natura sono stabili, però alcuni isotopi naturali e buona parte degli isotopi artificiali sono instabili. Tale instabilità induce la spontanea trasformazione in altri isotopi che si accompagna con l'emissione di particelle atomiche. Questi isotopi sono chiamati isotopi radioattivi, radionuclidi, o radioisotopi. La disintegrazione (o decadimento radioattivo) è la trasformazione di un atomo radioattivo che decade in un altro atomo, il quale può essere anch'esso radioattivo oppure stabile.
+La maggior parte degli isotopi teoricamente possibili è instabile, solo una stretta fascia di rapporti Z/A (numero atomico su numero di massa, cioè numero di protoni su somma di neutroni e protoni) risulta invece stabile. In particolare, per numeri atomici bassi (fino a circa Z=20) sono stabili gli isotopi che hanno un rapporto Z/A di circa ½ (cioè hanno lo stesso numero di protoni e neutroni); per atomi più pesanti il numero di neutroni deve eccedere leggermente in numero di protoni. Per Z>82 non ci sono isotopi stabili.
+
+
+=== Meccanismo ===
+
+Storicamente (in seguito agli studi di Ernest Rutherford) i decadimenti nucleari sono stati raggruppati in tre classi principali:
+
+decadimento alfa
+decadimento beta
+decadimento gamma
+A questa prima classificazione, in seguito a ulteriori investigazioni sul fenomeno, si sono aggiunte l'emissione di neutroni, l'emissione di protoni e la fissione spontanea. Mentre il decadimento alfa e il decadimento beta cambiano il numero di protoni nel nucleo e quindi il numero di elettroni che vi orbitano attorno (cambiando così la natura chimica dell'atomo stesso), il decadimento gamma avviene fra stati dello stesso nucleo e comporta solo la perdita di energia.
+
+
+=== Tempo di decadimento ===
+
+Il momento esatto in cui un atomo instabile decadrà in uno più stabile è ritenuto casuale e impredicibile. Ciò che si può fare, dato un campione di un particolare isotopo, è notare che il numero di decadimenti rispetta una precisa legge statistica. L'attività, cioè il numero di decadimenti che ci si aspetta avvenga in un intervallo dt, è proporzionale al numero N di atomi (o nuclei) presenti.
+Sia 
+  
+    
+      
+        N
+        (
+        t
+        )
+      
+    
+    {\displaystyle N(t)}
+  
+ un elevato numero di nuclei radioattivi (radionuclidi) di una data sostanza al tempo 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+, la funzione 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ di nuclei che decade nell'intervallo di tempo infinitesimo 
+  
+    
+      
+        d
+        t
+      
+    
+    {\displaystyle dt}
+  
+ è data da
+
+  
+    
+      
+        f
+        =
+        λ
+        
+        
+          d
+        
+        t
+      
+    
+    {\displaystyle f=\lambda \,\mathrm {d} t}
+  
+
+dove 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ è detta costante di decadimento; è caratteristica della sostanza in questione e rappresenta il numero medio di decadimenti del singolo nucleo nell'unità di tempo. La variazione del numero 
+  
+    
+      
+        N
+        (
+        t
+        )
+      
+    
+    {\displaystyle N(t)}
+  
+ di nuclei nell'intervallo 
+  
+    
+      
+        d
+        t
+      
+    
+    {\displaystyle dt}
+  
+ è data da
+
+  
+    
+      
+        
+          d
+        
+        N
+        =
+        −
+        λ
+        N
+        (
+        t
+        )
+        
+        
+          d
+        
+        t
+      
+    
+    {\displaystyle \mathrm {d} N=-\lambda N(t)\,\mathrm {d} t}
+  
+
+da cui l'attività risulta essere
+
+  
+    
+      
+        
+          
+            
+              N
+              ˙
+            
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            |
+          
+        
+        
+          
+            
+              
+                d
+              
+              N
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+          
+            |
+          
+        
+        =
+        λ
+        N
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\dot {N}}(t)={\Bigl |}{\frac {\mathrm {d} N}{\mathrm {d} t}}{\Bigr |}=\lambda N(t)}
+  
+
+che è un'equazione differenziale del primo ordine. La soluzione fornisce il numero di nuclei non ancora decaduti al tempo 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+,
+
+  
+    
+      
+        N
+        (
+        t
+        )
+        =
+        
+          N
+          
+            0
+          
+        
+        exp
+        ⁡
+        (
+        −
+        λ
+        t
+        )
+      
+    
+    {\displaystyle N(t)=N_{0}\exp(-\lambda t)}
+  
+
+che rappresenta un decadimento esponenziale. Bisogna notare che questa rappresenta solamente una soluzione approssimata, in primo luogo perché rappresenta una funzione continua, mentre l'evento fisico reale assume valori discreti, poiché descrive un processo casuale, solo statisticamente vero. Comunque, poiché nella gran parte dei casi N è estremamente grande, la funzione fornisce un'ottima approssimazione.
+Oltre alla costante di decadimento λ il decadimento radioattivo è caratterizzato da un'altra costante chiamata vita media. Ogni atomo vive per un tempo preciso prima di decadere e la vita media rappresenta appunto la media aritmetica sui tempi di vita di tutti gli atomi della stessa specie. La vita media viene rappresentata dal simbolo τ, legato a λ dalla:
+
+  
+    
+      
+        τ
+        =
+        
+          
+            1
+            λ
+          
+        
+      
+    
+    {\displaystyle \tau ={\frac {1}{\lambda }}}
+  
+.
+Un altro parametro molto usato per descrivere un decadimento radioattivo è dato dalla emivita o tempo di dimezzamento t½. Dato un campione di un particolare radionuclide, il tempo di dimezzamento ci dice dopo quanto tempo saranno decaduti un numero di atomi pari alla metà del totale ed è legato alla vita media dalla relazione:
+
+  
+    
+      
+        
+          t
+          
+            
+              1
+              2
+            
+          
+        
+        =
+        
+          
+            
+              ln
+              ⁡
+              2
+            
+            λ
+          
+        
+      
+    
+    {\displaystyle t_{\frac {1}{2}}={\frac {\ln 2}{\lambda }}}
+  
+.
+Queste relazioni ci permettono di vedere che molte delle sostanze radioattive presenti in natura sono ormai decadute, e quindi non sono più presenti in natura, ma possono essere prodotte solo artificialmente. Per avere un'idea degli ordini di grandezza in gioco, si può dire che la vita media dei vari radionuclidi può variare da 109 anni fino a 10−12 secondi.
+L'insieme degli elementi ottenuti per decadimenti successivi costituisce una famiglia radioattiva. In natura esistono tre famiglie radioattive principali: la famiglia del radio (di cui fa parte l'U-238 e per questo talvolta chiamata anche serie dell'uranio), quella dell'attinio e quella del torio.
+
+
+=== Misura della radioattività ===
+La radioattività si misura mediante l'attività dell'isotopo che la genera. L'attività si misura in:
+
+Becquerel
+Rutherford
+Curie (obsoleto)
+GRapi (mineralogia)
+Sievert
+Gray (unità di misura)
+Rad (unità di misura)
+Röntgen (unità di misura)
+
+
+== Fonti di radioattività ==
+
+La radioattività presente nell'ambiente può essere di natura sia artificiale che naturale: il contributo principale alla dose assorbita annualmente mediamente da ciascun individuo deriva dalla radioattività naturale, che è responsabile di circa l'80% della dose totale. Di questa, circa il 30% è dovuta al potassio (isotopo 40K, generato per irraggiamento del potassio naturale dai raggi cosmici che riescono ad arrivare al suolo): il 15% al gas radon emanato dal sottosuolo, il 15% dai materiali da costruzione e il 13% (al livello del mare) dalla radiazione cosmica. Più si sale in quota, più la radiazione cosmica aumenta, perché si assottiglia lo strato di aria che ne assorbe la maggior parte: a 5500 metri di altitudine la dose annuale assorbita sale a circa il doppio di quella al livello del mare. Il potassio 40 è responsabile di quasi tutta la radioattività naturale presente all'interno del corpo umano.
+Le fonti artificiali (o tecnologiche) a cui si può venire in contatto volontariamente sono principalmente legate all'impiego dei radioisotopi in medicina a scopo diagnostico (scintigrafia) o terapeutico (Brachiterapia, cobaltoterapia, Terapia radiometabolica) , mentre eventuali contatti involontari possono essere causati con fonti radioattive usate in attività militari, od eventuali fughe radioattive legate all'uso civile nelle centrali nucleari.
+Esistono tre forme distinte di radioattività classificate per modo di decadimento: sono i raggi alfa, i raggi beta e i raggi gamma. A queste tre forme si aggiungono i neutroni liberi derivanti dalla fissione spontanea degli elementi più pesanti. Ognuno di questi tipi di radioattività ha proprietà e pericolosità diverse. La tabella elenca le forme di radioattività, le particelle coinvolte, la distanza percorsa, la capacità di provocare fissione e trasmutazione.
+
+I raggi alfa e beta sono composti di particelle con carica elettrica, perciò interagiscono quasi immediatamente con la materia circostante, e vengono assorbiti quasi tutti entro una determinata distanza: i raggi gamma e i neutroni invece, elettricamente neutri, vengono assorbiti solo per urto diretto contro un atomo o un nucleo atomico, e percorrono distanze molto maggiori. Inoltre non esiste una distanza limite per il loro assorbimento ma vengono assorbiti esponenzialmente: cioè, all'aumentare del cammino percorso dal fascio, "sopravvive" una frazione sempre più piccola (per l'impossibilità pratica attuale di misurarla, ma stimata sempre diversa da zero) delle particelle originarie.
+
+
+=== Radiazione secondaria ===
+Quando una particella radioattiva viene assorbita, essa trasferisce la sua energia al nucleo o all'atomo che l'ha catturata, eccitandolo: l'atomo catturatore poi riemette questa energia sotto forma di una nuova radiazione (raggi gamma o raggi X) o altre particelle (raggi beta o neutroni termici) di minore energia rispetto a quelle assorbite; inoltre l'impatto di particelle cariche di alta energia provoca l'emissione di raggi X (per bremsstrahlung, radiazione di frenamento) nel materiale di assorbimento. Nel progetto di schermature contro le radiazioni è sempre necessario tenere conto di quali tipi di particelle si debbono fermare e di quali emissioni secondarie si avranno.
+
+
+=== Schermature antiradiazioni ===
+Quanta più massa è concentrata in un dato spazio tanto più sarà probabile che abbia luogo l'assorbimento di una data particella vagante in quello spazio: questo è il motivo per cui in genere si usa un rivestimento di piombo, molto denso e assorbente, per schermare oggetti, contenitori e quant'altro dalla radioattività. Il piombo ha inoltre il vantaggio di essere l'elemento finale del decadimento dell'uranio e della sua famiglia, quindi nuclearmente molto stabile e poco soggetto a trasmutarsi, in tempi "umani", in altri elementi.
+Fermare completamente emissioni di raggi alfa e beta è molto semplice e richiede pochi millimetri di un qualunque materiale solido o qualche decina di centimetri di aria; un efficace schermo contro i fotoni costituenti dei raggi X e gamma deve essere più spesso, e di materiale molto denso, come acciaio o piombo. Più complesso invece schermare una radiazione neutronica, poiché queste particelle penetrano e vanno molto in profondità: i neutroni, a seconda della loro energia e del materiale, possono reagire con i nuclei in diversi modi e per progettare uno schermo efficace si usano schermature multistrato; la parte interna è costruita con materiali pesanti (ad esempio il ferro), mentre la parte esterna con materiali leggeri.
+
+
+== Effetti della radioattività ==
+L'effetto delle radiazioni nucleari su materiale non vivente è dovuto sostanzialmente a due cause: la ionizzazione e conseguente rottura dei legami chimici e la trasmutazione di alcuni nuclei in altri elementi. 
+
+
+=== Simbolo di pericolo ===
+
+Il simbolo di radiazione ionizzante è costituito dal trifoglio caratteristico. Luoghi con livelli pericolosi di radiazioni ionizzanti sono indicati da cartelli con questo simbolo. I cartelli sono generalmente posizionati al limite di un'area controllata di radiazioni o in qualsiasi luogo dove i livelli di radiazione sono significativamente superiori a causa dell'intervento umano.
+
+
+=== Effetti sui materiali ===
+La trasmutazione rende necessaria una attenta scelta degli acciai e delle altre leghe metalliche destinate a operare in ambienti radioattivi, perché l'accumulo radioattivo ne cambia la composizione chimica e fisica e può far loro perdere le necessarie caratteristiche di resistenza meccanica, stabilità e durata nel tempo, chimica e fisica; anche il cemento va incontro agli stessi inconvenienti, seppure in modo meno marcato. Inoltre, i nuclei trasmutati sono in parte anch'essi radioattivi; perciò il materiale, se esposto in via permanente alle radiazioni, con il passare del tempo accumula al suo interno isotopi instabili e diventa sempre più radioattivo. Questo è il motivo principale per cui le centrali nucleari hanno un limite di vita operativa prefissato (alcuni decenni), al termine del quale devono essere smantellate.
+Inoltre la radioattività è in grado di rendere inutilizzabile un circuito elettronico basato su semiconduttori, trasmutando gli atomi di silicio e alterando le deboli concentrazioni di elementi droganti da cui tali componenti elettronici derivano le loro capacità.
+
+
+=== Effetti biologici ===
+L'effetto biologico è dovuto invece in massima parte alle proprietà ionizzanti: distruggendo i legami fra molecole, le radiazioni danneggiano le cellule generando radicali liberi. Ma soprattutto alterano le grandi macromolecole del DNA e dell'RNA, causando danni somatici e genetici; tale effetto è prodotto principalmente dalle radiazioni gamma, più energiche e penetranti delle particelle alfa e beta. Inoltre alterano le funzioni e gli apporti degli oligoelementi nel metabolismo organico.
+Il momento in cui le cellule sono più vulnerabili in rapporto alle radiazioni, è quello della riproduzione (mitosi o meiosi), in cui il DNA è in fase di duplicazione, le strutture del nucleo sono dissolte e gli enzimi che assicurano l'integrità del materiale genetico non possono operare. L'effetto macroscopico più vistoso della radioattività sulle cellule, quindi, è il rallentamento della velocità di riproduzione: le popolazioni di cellule che si riproducono molto rapidamente sono più vulnerabili di quelle che lo fanno lentamente. In virtù di questo fatto, gli organi più sensibili alle radiazioni sono il midollo osseo emopoietico e il sistema linfatico.
+A livello dell'intero organismo invece, sia nell'uomo che negli animali superiori si nota un precoce invecchiamento dell'organismo correlato alla dose totale di radiazione assorbita, sia con forti dosi istantanee che con l'esposizione prolungata a bassi livelli di radioattività.
+
+
+==== Midollo osseo e sangue ====
+È il tessuto del corpo umano più colpito. La prima conseguenza dell'irraggiamento è la diminuzione dei globuli bianchi nel sangue (leucopenia), seguita dalla diminuzione delle piastrine, che causa le emorragie e, se il danno è molto grave, da quella dei globuli rossi (anemia). Se il danno non stermina completamente le cellule staminali emopoietiche questo tessuto si riprende più in fretta dopo l'irraggiamento.
+
+
+==== Sistema linfatico ====
+Nel sistema linfatico la conseguenza principale della radiazione è l'infezione dei linfonodi e della milza conseguente alla morte dei linfociti presenti.
+
+
+==== Sistema digerente ====
+L'intestino tenue è la porzione del tratto gastrointestinale radiosensibile, mentre l'esofago e lo stomaco lo sono meno. Con un danno lieve, le cellule della mucosa intestinale iniziano a riprodursi in modo discontinuo e a secernere più muco, che insieme alle cellule morte può dare origine a occlusioni. Con l'aumentare della dose compaiono ulcerazioni che, per il ridotto numero di globuli bianchi, si infettano facilmente.
+
+
+==== Organi genitali ====
+Il danno può essere sia somatico (sterilità, permanente o meno) che genetico. Le femmine sono più sensibili dei maschi. Il danno genetico consiste in mutazioni che possono essere trasmesse alle generazioni successive.
+
+
+==== Sistema nervoso ====
+Il sistema nervoso centrale è tra i tessuti meno radiosensibili, mentre la colonna vertebrale e i nervi periferici lo sono di più. Con forti dosi assorbite si può avere una ischemia, per via del danno subito dai capillari cerebrali.
+
+
+==== Tiroide e sistema endocrino ====
+La tiroide, la ghiandola pituitaria, le surrenali e le altre ghiandole non sono particolarmente radiosensibili. Per motivi metabolici però la tiroide concentra in sé quasi tutto lo iodio presente nell'organismo; essendo l'isotopo radioattivo 131I molto comune, quest'organo può assorbire dosi massicce di radioattività se si respira aria o si ingeriscono alimenti contaminati.
+
+
+==== Occhio ====
+La retina non è molto radiosensibile, ma il cristallino, composto di cellule morte e che quindi non può ripararsi, perde rapidamente la sua trasparenza all'aumentare della dose assorbita, sviluppando una cataratta.
+
+
+==== Polmoni ====
+Il polmone, venendo a contatto con l'aria esterna, è colpito direttamente da particelle radioattive inalate con la respirazione che si depositano nei suoi alveoli: per questo è certamente necessario indossare maschere antigas durante l'operazione in aree contaminate da sostanze, polveri, vapori o gas radioattivi. La principale fonte di contaminazione polmonare è il Radon, che essendo un gas radioattivo, può facilmente essere inspirato e depositarsi (esso o i suoi prodotti di decadimento) nei polmoni.
+
+
+==== Fegato, reni, cuore e sistema circolatorio ====
+Sono tutti organi molto poco radiosensibili. Il fegato e la cistifellea possono ricevere danni in caso di contaminazione con particolari isotopi radioattivi, come l'oro; ma in generale si registra un danno solo con dosi di radiazione molto elevate.
+
+
+==== Pelle e capelli ====
+La pelle ha una vulnerabilità particolare poiché, se non protetta, riceve tutti e tre i tipi di radiazione (alfa, beta e gamma). Il danno che riceve è tanto più elevato quanto meno le radiazioni sono penetranti: viene danneggiata poco dai raggi gamma e molto di più dalle radiazioni alfa e beta. Per bassi livelli di radiazioni si sviluppa un eritema; se l'irraggiamento aumenta può formarsi una neoplasia epiteliale. La capacità di riparazione del danno subìto è comunque molto elevata.
+La crescita dei capelli si arresta completamente; quelli presenti cadono in maggiore o minore quantità in base alla dose assorbita. Dopo alcune settimane ricominciano a crescere, talora con caratteristiche diverse da quelle che avevano prima.
+
+
+==== Apparato muscoloscheletrico ====
+I muscoli e lo scheletro in genere sono in complesso i tessuti meno danneggiati dalle radiazioni; tuttavia alcuni isotopi dello stronzio o del plutonio si concentrano proprio nel midollo osseo, nel qual caso il danno può essere molto grave e portare a leucemia o altre neoplasie.
+Da notare che non tutte le specie animali e vegetali hanno la stessa suscettibilità alle radiazioni: per esempio gli scarafaggi possono sopportare senza gravi danni tassi di radioattività molto al di sopra di quelli letali per l'uomo, e un batterio, il Deinococcus radiodurans, sopravvive a dosi di radiazioni 1000 volte superiori alla dose letale per l'uomo
+
+
+=== Effetti negli esseri umani ===
+
+Gli effetti delle radiazioni ionizzanti si suddividono in "Effetti Deterministici" ed "Effetti Stocastici" (ICRP 60 International Commission on Radiological Protection), a seconda se sono correlati direttamente o meno alla dose assorbita. Per via della suscettibilità al cancro al seno, le donne hanno un 40% di probabilità in più di accusare effetti stocastici rispetto agli uomini.
+
+
+==== Effetti deterministici ====
+Sono attribuibili direttamente all'irraggiamento (c'è una relazione diretta causa-effetto);
+Derivano dalla inattivazione delle strutture vitali della cellula;
+Si manifestano subito dopo l'irradiazione;
+Si manifestano solo se l'assorbimento supera una dose ben precisa detta "dose soglia",
+La loro gravità cresce al crescere della dose assorbita (perciò detti anche "effetti graduati").
+Gli effetti deterministici sono eritemi cutanei, particolari dermatiti (dermatiti da radiazioni appunto), cataratta, anemia e leucopenia. Nei casi più gravi si hanno emorragie delle mucose e del tratto intestinale, perdita di capelli e peli. Se la dose assorbita non era letale, gli effetti deterministici regrediscono nel giro di alcune settimane, con sopravvivenza e guarigione più o meno completa.
+
+
+==== Effetti stocastici ====
+Non dipendono dalla dose assorbita;
+Derivano da danni al nucleo cellulare e in particolare al DNA;
+Non si manifestano subito; possono verificarsi o meno, in un futuro imprecisato;
+Dopo l'irraggiamento, il DNA potrà essere danneggiato in maniera reversibile o irreversibile; nel caso in cui la struttura del DNA non venisse riparata (o riparata in modo errato) la cellula darebbe vita a una progenie di cellule geneticamente modificate che dopo un certo periodo di latenza potranno dar luogo a patologie come tumori o leucemie. Aumenta pertanto la probabilità che il paziente, prima o poi, venga colpito da certi tipi di tumore.
+Per via degli effetti gravi provocati da forti dosi di radiazione, alcune persone soffrono di radiofobia: hanno cioè una paura sproporzionata anche nei confronti di dosi di radiazione relativamente modeste, vicine al fondo naturale. 
+
+
+== Medicina nucleare ==
+
+La radioterapia comprende quei trattamenti medici che fanno uso di radiazioni ionizzanti per curare tumori. A titolo di esempio, la tomografia a emissione di positroni, o PET, fa uso di particelle beta, mentre i raggi X vengono utilizzati per le radiografie utilizzando la proprietà di queste radiazioni di penetrare in modo diverso i tessuti con minor o maggiore densità.
+
+
+== Il radio nella società ==
+
+Nel periodo immediatamente successivo alla prima guerra mondiale, caratterizzato da un fiorente sviluppo industriale e tecnologico, l’attenzione pubblica si concentrò particolarmente su un nuovo campo della scienza, la radioattività. Quest’ultima fu scoperta in una serie di esperimenti condotti da Röntgen, Becquerel e Marie Curie tra il 1895 e il 1898, e poco dopo iniziò a svilupparsi l’idea secondo cui il radio avesse straordinarie proprietà curative, ma anche rivitalizzanti. Il primo che giunse a tale conclusione fu Joseph Thomson che ipotizzò che il potere curativo delle fonti termali fosse dovuto alla presenza di bassi livelli di radioattività. Nonostante fosse noto che alte esposizioni a sostanze radioattive fossero altamente nocive, sempre più medici iniziarono a concordare con la conclusione di Thomson, a tal punto che all’inizio del Novecento l’ormesi da radiazione era una verità indiscussa. Ecco quindi che la radioattività inizia ad avere un ruolo centrale in ambito medico, ma anche e soprattutto in quello sociale: il radio inizia ad essere diluito in sostanze di vario tipo con il fine di ottenere creme per il viso, tonici, cosmetici, preservativi, sali da bagno, vernici, ma anche abiti che risplendevano all’oscurità. Ne sono esempi la “Créme Activa” e il tonico per i capelli “Curie”; la prima presumeva di donare vitalità alla pelle, preservandone la giovinezza, il secondo veniva utilizzato nella speranza di mantenere una chioma folta. A questi si aggiungono la “Borsa Cosmos” utilizzata come rimedio contro l’artrite e il dentifricio al radio per lo sbiancamento dentale. Per concludere, era possibile acquistare “Revigorator” e “Radithor”, due bevande contenenti rispettivamente radio e sali di radio, assunte con l’obiettivo di curare il cancro allo stomaco, malattie mentali o per ripristinare il vigore sessuale. La propaganda giocò un ruolo fondamentale nella diffusione di tali articoli che nel giro di pochissimo tempo divennero i prodotti prediletti dell'alta società a tal punto che alcune aziende spacciavano per “radioattive” merci che in realtà non lo erano.
+
+Gli svariati usi in campo medico ed industriale tuttavia, iniziarono a rivelarsi pericolosi, comportando un incremento nel tasso di mortalità tra radioterapisti, ricercatori ed il pubblico in generale. Ne sono un esempio le Radium girls, termine utilizzato per indicare tutte quelle donne che attorno agli anni venti del Novecento vennero assunte alla United States Radium Corporation, un'azienda che realizzava orologi radio luminescenti, quindi luminosi al buio, forniti ai militari durante la prima guerra mondiale; tali operaie erano solite affilare il pennello con le labbra in modo da ottenere una maggiore precisione nel loro lavoro, assorbendo in questo modo piccole quantità di sostanze radioattive contenute nella vernice. La maggior parte di queste donne svilupparono diverse forme di cancro, proprio a causa della radioattività delle vernici da loro utilizzate, evidenziando così il rischio della sostanza allora così popolare. Molti altri furono coloro che morirono o si ammalarono a causa dell'utilizzo di prodotti contenenti radio, come Irène Joliot-Curie, figlia dei coniugi Curie e la stessa Marie Curie ammise, nella sua autobiografia, che tale sostanza potesse nuocere alla salute.
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Giorgio Bendiscioli, Fenomeni Radioattivi. Dai nuclei alle stelle, Springer, 2013, ISBN 978-88-470-5452-3.
+ Gian Paolo Parodi, Marco Ostili e Guglielmo Mochi Onori, L'Evoluzione della Fisica-Volume 3, Paravia, 2006, ISBN 88-395-1611-5.
+ Maurizio Pelliccioni, Fondamenti Fisici della Radioprotezione, Pitagora Editrice Bologna, 1993, ISBN 88-371-0470-7.
+ Ugo Amaldi, Fisica delle Radiazioni, Bollati Boringhieri, 1971, ISBN 88-339-5063-8.
+
+
+== Voci correlate ==
+Chimica nucleare
+Catena di decadimento
+Decadimento alfa
+Decadimento beta
+Dose assorbita
+Dose equivalente
+Dose efficace
+Gray (unità di misura)
+Isola di stabilità
+Radiochimica
+Radiazione
+Rad (unità di misura)
+Raggi gamma
+Röntgen (unità di misura)
+Röntgen equivalent man
+Sievert
+Tecnologia nucleare
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «radioattività»
+ Wikimedia Commons contiene immagini o altri file sulla radioattività
+
+
+== Collegamenti esterni ==
+
+(EN) Ellis P. Steinberg e John O. Rasmussen, radioactivity, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) decay rate, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) IUPAC Gold Book, "radioactive", su goldbook.iupac.org.

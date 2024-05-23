@@ -1,0 +1,65 @@
+Si definisce encefalite un processo infiammatorio che colpisce l'encefalo. Quando vi sono associati processi infiammatori a carico del midollo spinale (mieliti), si parla di “encefalomielite”; quando il processo infiammatorio coinvolge anche le meningi, si parla di “meningoencefalite” o “meningoencefalomielite”.
+
+
+== Classificazioni ==
+I processi infiammatori dell'encefalo possono essere determinati da numerosi fattori morbigeni (batteri, virus, miceti, parassiti, sostanze tossiche, ipersensibilità, ecc.); ugualmente, i caratteri anatomo-patologici con cui sono originati tali processi possono essere molto differenti per estensione, per sede, per tendenza a produrre (o meno) lesioni emorragiche o necrotiche o suppurative, oppure per la partecipazione di altre componenti del sistema nervoso. La difficoltà di una classificazione unitaria delle encefaliti dipende dal fatto che i criteri eziologici non coincidono sempre con quelli anatomopatologici, né con quelli clinici.
+Sono state pertanto tentate varie classificazioni delle encefaliti:
+
+in base all'eziologia (encefaliti da virus, da batteri, ecc.)
+in base alla patogenesi (encefaliti primitive o encefaliti secondarie)
+in base alla via di propagazione e alla diffusione del processo infiammatorio (encefaliti a focolai, metastatiche, diffuse, ecc.)
+in base all'interessamento della sostanza bianca o della sostanza grigia (leucoencefaliti, polioencefaliti)
+a seconda delle alterazioni anatomo-patologiche associate (encefaliti perivenose, emorragiche, suppurative, ecc.)
+
+
+== Clinica ==
+
+
+=== Sintomatologia ===
+Le encefaliti possono presentarsi con segni e sintomi molto differenti: 
+
+Disturbi dello stato di coscienza (obnubilamento o confusione mentale con torpore psichico oppure, al contrario, stati di eccitamento con confusione mentale)
+Segni di focolaio (aprassie, afasie, agnosie, epilessia)
+Disturbi della motilità, della sensibilità, segni cerebellari, segni extrapiramidali
+Segni meningei (dolore, rigidità nucale) e sintomi midollari
+
+
+=== Diagnosi ===
+È basata su:
+
+Sintomatologia neurologica polifocale, specie se sul fondo di uno stato infettivo
+Esame del liquido cefalorachidiano
+Esame elettroencefalografico
+Neuroradiologica (imaging TC con e senza contrasto; RM dopo una prima valutazione)
+
+
+=== Terapia ===
+Le terapie sono in funzione dell'eziologia o della patogenesi. Si somministreranno, per esempio, antibiotici nel caso delle encefaliti batteriche o purulente; cortisonici o specifici agenti antivirali nel caso delle encefaliti virali ecc. Si ricorrerà inoltre a mezzi di supporto quali la respirazione artificiale nei casi in cui siano compromesse le condizioni vitali.
+
+
+== Note ==
+
+
+== Bibliografia ==
+Ludovico Bergamini, «Encefaliti». In: Manuale di neurologia clinica, II edizione aggiornata ed ampliata, I ristampa, Torino: Libreria editrice scientifica Cortina, aprile 1986, pp. 343–365
+Mario Gozzano, «ENCEFALITI». In: Mario Gozzano, Trattato delle malattie nervose, VIII edizione, Padova: Piccin, 1991, ISBN 88-299-0285-3, ISBN 978-88-299-0285-9, pp. 231 e segg. (Google libri, Anteprima)
+Michael Jacewicz, «Encephalitis». Neurologic Disorder, Merck Manuals, 2009 (on-line)
+Joseph C. Segen, Dizionario di medicina moderna (Concise dictionary of modern medicine), Milano, McGraw-Hill, 2007. ISBN 978-88-386-3917-3.
+ Harrison, Principi di Medicina Interna - Il manuale, 16ª ed., New York-Milano, McGraw-Hill, 2006, ISBN 88-386-2459-3.
+
+
+== Voci correlate ==
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «encefalite»
+ Wikimedia Commons contiene immagini o altri file su encefalite
+
+
+== Collegamenti esterni ==
+
+(EN) encephalitis, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Descrizione: Encefalite, su who.int. URL consultato il 14 novembre 2007 (archiviato dall'url originale il 12 dicembre 2012).
+eMedicine-1  e eMedicine-2 Informazioni sui sintomi le cause e il trattamento per l'encefalite - in inglese.
+ Sito sull'encefalite - in inglese, su encephalitisglobal.com.

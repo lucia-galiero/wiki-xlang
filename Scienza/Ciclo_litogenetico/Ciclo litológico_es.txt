@@ -1,0 +1,58 @@
+El ciclo litológico o ciclo de las rocas es un concepto de geología que describe las transiciones de material en el tiempo geológico que permiten que toda roca pueda transformarse en uno de estos tres tipos: Rocas sedimentarias, Rocas metamórficas y rocas ígneas.[1]​cuando se expone a la atmósfera, o volver a fundirse al millón de años
+
+
+== Desarrollo histórico ==
+El concepto original del ciclo de las rocas es habitualmente atribuido al que se considera «el padre de la geología», James Hutton (1726-1797). El ciclo de las rocas fue una parte del  uniformismo y su famosa cita: «no hay vestigio del valles divergentes.
+
+
+== El ciclo ==
+
+
+=== Transición a ígneas ===
+Cuando las rocas son levantadas del interior de la Tierra hasta la superficie, éstas suelen estar fundidas en magma. Si las condiciones para que el magma permanezca líquido no perduran, el magma se enfriará y solidificará en una roca ígnea. Una roca que se enfría en el interior de la Tierra se denomina intrusiva o plutónica y su enfriamiento será muy lento, produciendo una estructura cristalina de granos gruesos. Como resultado de la actividad volcánica el magma puede llegar a enfriarse en la superficie de forma muy rápida, dando lugar a las rocas extrusivas o rocas volcánicas. Estas rocas tienen unos granos muy finos y algunas veces se enfrían tan rápido que no forman cristales visibles, como el caso de la obsidiana (vidrio) o el basalto (microcristalino). Cualquiera de los tres tipos de roca tiene su origen en magma fundido y enfriado.
+
+
+==== Cambios post-volcánicos ====
+Las  masas de rocas de origen ígneo empiezan a cambiar tan pronto como empiezan a enfriarse. Los gases que se encuentran mezclados en el magma empiezan a disiparse lentamente y los flujos de lava pueden tardar muchos años en enfriarse. Estos gases atacan los componentes de las rocas y depositan minerales en las cavidades y fisuras. La zeolita es muy conocida por este origen. Incluso antes de los procesos postvolcánicos hayan cesado la descomposición atmosférica y la meteorología empieza a reaccionar con el mineral volcánico, especialmente aquellos que no sean estables con nuestra atmósfera. La lluvia, el frío, el ácido carbónico, el oxígeno y otros agentes operan continuamente sobre las rocas, arrastrando aquellos minerales solubles en agua o produciendo nuevos productos (como por ejemplo oxidando el hierro). En la clasificación de rocas estos cambios son considerados generalmente no esenciales: las rocas son clasificadas y descritas como si estuvieran frías, lo que es habitual en la naturaleza.
+
+
+==== Cambios secundarios ====
+El cambio epigenético (procesos secundarios) pueden ser tratados de diversas maneras, cada una dependerá del grupo de rocas o de los minerales constituyente, además usualmente hay más de un proceso involucrado en la alteración de la roca. La solificación, que es reemplazar minerales por cristales o silicatos, es muy común en materiales félsicos, como la riolita o la serpentinita. La caolinización es la descomposición del feldespato en rocas más comunes como el caolín (además de cuarzo con arcillas). También el granito y la sienita sufren procesos similares. La serpentinización es la alteración del olivino al grupo de la serpentina (con magnetita), es típica de las peridotitas, pero ocurre sobre todo en rocas máficas. En la uralitización secundaria la hornblenda remplaza la augita. La cloritización es la alteración de la augita hasta el grupo de las cloritas y dioritas. La epidotización ocurre también en rocas de este grupo y consiste en el desarrollo de epidotita desde biotita, hornblenda, augita o plagioclasa de feldespato.
+
+
+=== Transición a metamórfico ===
+
+Las rocas expuestas a altas temperaturas y presiones pueden cambiar física o químicamente para formar rocas diferentes, llamadas metamórficas. Los metamorfismos regionales se refieren a los efectos sobre grandes masas de rocas en una región amplia, generalmente asociada con la formación de cordilleras en procesos orogénicos. Estas rocas pueden exhibir laminación planar por la deformación tectónica debida a altas presiones, llamada foliación, de la que pueden superponerse varias fases diferentes según la evolución geológica del orógeno. Otro tipo de metamorfismo está causado cuando un cuerpo de roca entra en contacto con una intrusión ígnea que calienta la roca que lo rodea. Este metamorfismo de contacto da como resultado una roca recristalizada por el calor extremo, o incluso con minerales añadidos por los fluidos del magma que puede cambiar la química de la roca, lo que se denomina metasomatismo.
+
+
+=== Transición a sedimentaria ===
+
+Las rocas expuestas a la atmósfera terrestre están sujetas a procesos erosivos y meteorológicos. El agua, el viento, la nieve, la contaminación o la biología pueden cambiar su química o su forma. La erosión y la meteorología rompen la roca original en trozos más pequeños y lo acarrean hasta otros lugares, donde pueden ir disolviéndolos poco a poco, disgregándolos. Este material disgregado puede volver a asentarse en estratos y formar de nuevo una roca, es el caso de la arenisca que está formada por granos de arena compactados. Hay veces que la fusión puede ser tan fuerte que no parece claro que el material venga de un disgregado, son el caso de lutitas. Otra fuente importante de rocas sedimentarias son la actividad biológica (por acumulación de restos, precipitación química o formación de fango por bioerosión), que pueden formar rocas sedimentarias cementadas, como el travertino. Todas las rocas calizas provienen de procesos de sedimentación, generalmente biológica y las cuevas son lugares de nueva formación continua de rocas sedimentarias.
+
+
+== Fuerzas que mueven el ciclo de las rocas ==
+
+
+=== Placas tectónicas ===
+
+En 1967, J. Tuzo Wilson publicó un artículo en Nature describiendo el proceso cíclico de apertura y cierre de las cuencas oceánicas, especialmente enfocado al área del Océano Atlántico. Este concepto, como parte de la revolución de la tectónica de placas, se llegó a denominar Ciclo de Wilson. El ciclo de Wilson ha tenido unos efectos profundos en la interpretación del ciclo de la rocas, así como el papel que juega la tectónica de placas en la generación y destrucción de material.
+
+
+=== El papel del agua ===
+
+La presencia de gran cantidad de agua en la Tierra es de gran importancia para el ciclo de las rocas. Más allá de los procesos de transporte y meteorización, el agua es capaz de disolver los ácidos del suelo para descomponer las rocas a través del agua subterránea. Quizás sea mucho más importante este proceso que el desgaste producido en las rocas marinas o los procesos de sedimentación. El agua es capaz de arrastrar iones disueltos que rompen los enlaces que conforman los compuestos de la rocas. El agua de escorrentía puede transportar estos materiales y depositarlos en otros sitios o en determinadas cuencas, como en los fenómenos kársticos.
+Otro papel del agua poco conocido es en los procesos metamórficos que ocurren en las rocas volcánicas en el fondo del mar. Algunas veces se introducen flujos de agua que se abren camino entre las fracturas de la roca. Este proceso se le denomina serpentinización.
+El agua y otros compuestos volátiles son fundamentales para la fusión de la corteza oceánica existente en las zonas de subducción, uno de los puntos fundamentales del ciclo. En estas zonas el agua en presencia del dióxido de carbono y calizas es una importante fuente de componentes volátiles. Este proceso además involucra al ciclo del carbono.
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+The Six Fundamental Concepts about the Earth's Geology - NASA
+Wilson cycle - a detailed Plate Tectonics rock cycle Archivado el 8 de abril de 2011 en Wayback Machine.
+The Rock Cycle Song
+Modelling the rock cycle with STELLA
+Wilson cycle
+A circular Wilson cycle? Archivado el 30 de agosto de 2005 en Wayback Machine.
+ Wikimedia Commons alberga una categoría multimedia sobre Diagramas del ciclo litológico.

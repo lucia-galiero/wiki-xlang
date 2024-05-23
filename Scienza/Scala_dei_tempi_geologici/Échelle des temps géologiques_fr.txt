@@ -1,0 +1,167 @@
+L'échelle des temps géologiques est le système de classement chronologique utilisé en géologie, climatologie et paléontologie pour attribuer les événements survenus durant l'histoire de la Terre. Si son origine remonte au XVIIIe siècle, elle prend une forme précise en 1913, lorsque Arthur Holmes, reconnu aujourd'hui comme le père de l'échelle des temps géologiques, publie la première. Les techniques de datation, la science de la chronostratigraphie ne cessent de s'améliorer. L'échelle doit être ainsi périodiquement mise à jour, grâce à des datations toujours plus précises.
+Tous les quatre ans, l'Union internationale des sciences géologiques (UISG) organise le Congrès géologique international, à l'occasion duquel la Commission internationale de stratigraphie, qui dépend de l'UISG, statue officiellement sur la dénomination et le calibrage des différentes divisions et subdivisions des temps géologiques. Les dernières échelles publiées intègrent notamment les magnétochrones (inversions du champ magnétique terrestre) et comportent cinq à six niveaux et sous-niveaux normalisés. D'anciennes nomenclatures, notamment celles des ères Primaire, Secondaire, Tertiaire et Quaternaire, ont été abandonnées au profit d'autres dénominations.
+L'échelle des temps géologiques débute avec l'âge estimé de la Terre, soit environ 4,6 milliards d'années.
+
+
+== Histoire ==
+
+Au cours des XVIe et XVIIe siècles, les mineurs commencent à exprimer le besoin de comprendre les relations entre les différentes unités lithologiques. En 1669, le géologue danois Niels Stensen énonce le principe de superposition, selon lequel une couche sédimentaire est toujours plus récente que les couches sous-jacentes (sauf remaniement ultérieur). Ce nouveau principe permet aux travailleurs de commencer à reconnaître les différentes successions de roches, mais la description des roches, basée à l'époque sur des critères d'observation tels que la couleur, la texture ou l'odeur, ne permet pas de faire des comparaisons entre les séquences de différentes zones géographiques. La découverte de fossiles un peu partout sur la planète permet de faire un travail de corrélation entre des zones géographiques distinctes. En 1795, James Hutton énonce le principe d'uniformitarisme (aussi appelé principe d'actualisme), qui suppose que les processus géologiques sont uniformes dans le temps en termes de fréquence et de magnitude.
+Le géologue britannique William Smith publie en 1815 une carte géologique détaillée de l'Angleterre, du Pays de Galles et d'une partie de l'Écosse, lui permettant de découvrir les fossiles stratigraphiques, régissant l'approche biostratigraphique. Ce nouveau principe, nommé principe de succession faunistique, indique que les fossiles découverts dans une séquence stratigraphique le sont de manière ordonnée, ce qui permet de mettre en place une échelle de temps relative.
+Au XIXe siècle, les géologues et plus spécialement les stratigraphes ont relevé, sur un même affleurement, des ensembles de couches sédimentaires partageant des caractéristiques géologiques ou paléontologiques communes. Ces affleurements types, naturels ou artificiels (carrières), appelés stratotypes, sont devenus des sites de référence pour définir les limites des âges, dont les noms proviennent généralement des sites où ces formations ont été décrites pour la première fois, auxquels on ajoute le suffixe -ien (exemples : Hettangien, Oxfordien, Bajocien).
+Les premières descriptions des géologues et paléontologues, limitées à des bassins sédimentaires ou à des pays, ont abouti à une multiplication des noms d'âges ou d'étages. Il s'est vite avéré que plusieurs d'entre eux pouvaient recouvrir tout ou partie d'un même intervalle de temps. Au cours du XXe siècle, la tendance dominante a donc été de simplifier l'échelle stratigraphique des étages (mis en synonymie, avec des suppressions ou même des créations sur de nouveaux stratotypes plus représentatifs de l'intervalle de temps considéré.
+À partir des années 1980, la Commission internationale de stratigraphie (ICS) et l'Union internationale des sciences géologiques (UISG) se sont appliquées à définir une échelle stratigraphique universelle des étages géologiques. Dans ce but, des points stratotypiques mondiaux (PSM ; en anglais : Global Boundary Stratotype Section and Point, GSSP) ont été définis sur les stratotypes. Ils déterminent les limites existantes entre deux étages géologiques sans laisser la possibilité de lacune ou de chevauchement entre eux. La définition des points stratotypiques mondiaux est toujours en cours mais la majorité des étages sont déjà encadrés par ces PSM. D'anciens noms subsistent dans l'usage pour certains pays ou régions en fonction de l'histoire locale de la géologie.
+
+
+== Nomenclature ==
+
+
+=== Terminologie ===
+L'échelle des temps géologiques est subdivisée en plusieurs unités : les unités chronostratigraphiques, géochronologiques et magnétostratigraphiques. Les unités chronostratigraphiques sont définies à partir des méthodes lithostratigraphiques et biostratigraphiques et organisent les couches sédimentaires de la croûte terrestre en une échelle temporelle relative. Les unités géochronologiques correspondent à des intervalles de temps, dont les âges sont obtenus par les méthodes de datation absolue. Ces deux catégories d'unités utilisent différents termes qui sont équivalents et suivent une hiérarchie précise :
+
+
+=== Définitions et limites ===
+
+
+==== Éons ====
+L'éon est l'intervalle de temps géochronologique correspondant à la plus grande subdivision chronostratigraphique de l'échelle des temps géologiques, l'éonothème. Le terme « éon » est également utilisé dans le cadre de la planétologie pour permettre de décrire l'histoire des planètes.
+L'histoire de la Terre est découpée en quatre éons. Les trois premiers, qui couvrent les quatre premiers milliards d'années de l'histoire de la Terre, sont parfois regroupés au sein d'un superéon nommé le Précambrien. Pour un même intervalle de temps géologique, les éons et les éonothèmes portent des noms identiques.
+Les quatre éons terrestres sont les suivants, du plus ancien au plus récent :
+
+l'Hadéen (de −4,6 à −4 milliards d'années) ;
+l'Archéen (de −4 à −2,5 milliards d'années) ;
+le Protérozoïque (de −2,5 à −0,542 milliards d'années) ;
+le Phanérozoïque (depuis le début du Cambrien, il y a 542 millions d'années, jusqu'à nos jours).
+
+	Position et durée des 4 éons sur la représentation en horloge de 24h de l'histoire de la Terre
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Les subdivisions de l'échelle des temps géologiques correspondent à des ruptures paléo-environnementales, paléontologiques ou sédimentologiques.
+
+
+==== Ères ====
+Les ères sont définies selon des arguments paléontologiques et géodynamiques, bien que les premiers l'emportent sur les seconds dans la limitation des ères du fait de leur antériorité par rapport aux études géodynamiques.
+Le début du Paléozoïque, première ère du Phanérozoïque, se caractérise par les grandes biodiversifications cambrienne et ordovicienne et par l'apparition et la prolifération des fossiles à carapaces et coquilles. Cette ère est marquée par la présence du taxon des trilobites et est marquée par deux cycles orogéniques : le calédonien et l'hercynien. La fin du Paléozoïque voit la formation du supercontinent Pangée et une discordance stratigraphique dans plusieurs régions du monde (Amériques, Sibérie…). La limite Paléozoïque / Mésozoïque est définie par l'extinction Permien-Trias (la plus sévère des cinq grandes extinctions, qui voit la disparition de taxons caractéristiques de l'ère Paléozoïque comme les trilobites et les fusulines). Elle est marquée par la fin du cycle hercynien et le début du cycle alpin.
+L'ère Mésozoïque est marquée par la présence des dinosaures non-aviens, des ammonites et des nummulites. Les mammifères, apparus au début du Jurassique, sont alors de taille modeste (les plus grands ont la taille d'un blaireau) mais sont numériquement fort nombreux et plus divers qu'aujourd'hui du point de vue de la phylogénie. L'ère est marquée par une série d'orogenèses à l'origine de la ceinture alpine, et s'achève par une phase d'extinction massive qui voit disparaître des taxons comme les ammonites, les dinosaures non aviens ou les ptérosaures : c'est l'extinction Crétacé-Paléogène, abrégée en K/P, qui inaugure le Cénozoïque.
+L'aube de l'ère Cénozoïque voit d'abord de grands oiseaux terrestres occuper les niches écologiques terrestres libérées, mais ensuite et rapidement, en mer comme sur terre et dans les airs, les mammifères se diversifient et certains acquièrent à leur tour des dimensions imposantes. L'ère est marquée en son milieu par la grande coupure Éocène-Oligocène. Il y a environ 2,6 Ma commence un cycle de glaciations entrecoupées de périodes interglaciaires.
+Les chercheurs n'utilisent plus les termes anciens de « Précambrien » pour les périodes antérieures à 542 Ma avant le présent, de « Primaire » pour le Paléozoïque, de « Secondaire » pour le Mésozoïque, ni de « Tertiaire » et « Quaternaire » pour le Cénozoïque. Le « Quaternaire » ne désigne plus une ère mais la dernière période du Cénozoïque. Ces anciennes dénominations, plus mnémoniques et accessibles, ont cependant tant circulé dans les sources qu'elles réapparaissent encore fréquemment dans les publications et les documentaires, même récents.
+
+
+==== Périodes ====
+Les géologues utilisent de plus en plus le terme de « système » plutôt que celui de « période » car ils se réfèrent à des formations géologiques et des ensembles de fossiles plutôt qu'à une séquence de temps.
+Le Cénozoïque est divisé en trois périodes : Paléogène, Néogène et Quaternaire.
+
+
+==== Époques ====
+Le Pléistocène et l'Holocène sont les deux époques du Quaternaire.
+
+
+==== Âges ====
+En géologie et paléontologie, l'âge ou étage est l'unité de temps de base de l'échelle des temps géologiques : sa durée est en général de l'ordre de quelques millions d'années. Il est la subdivision d'une époque ou série géologique basée sur la chronostratigraphie, la biostratigraphie et la lithostratigraphie.
+S'il est utilisé comme nom propre, le nom d'un âge commence par une majuscule, mais employé en tant qu'adjectif, il commence par une minuscule (exemples : « niveau hettangien » ou « fossile oxfordien »).
+
+
+=== Étymologies ===
+L'étymologie des éons, ères et périodes géologiques est celle des noms donnés aux subdivisions de l'échelle des temps géologiques basés sur la géochronologie. Ces noms proviennent soit des lieux où leurs roches ont été étudiées pour la première fois, soit d'une signification gréco-latine. Le nom d'une subdivision est souvent lié à un stratotype, affleurement-type (étalon) qui permet de définir une subdivision de l'échelle des temps géologiques, dans un travail coordonné par la Commission internationale de stratigraphie et l'Union internationale des sciences géologiques. Le mot stratotype associe la racine latine stratum (« couche, couverture ») et la racine grecque typos (« empreinte, marque ») qui en latin a donné tipus (« modèle, symbole »).
+Du passé vers le présent, la liste suivante décrit l'étymologie des dénominations géologiques des subdivisions stratigraphiques de l'échelle des temps géologiques que sont les éons (ou « éonothèmes »), les ères (ou « érathèmes »), les périodes, les époques et les étages (ou « âges »).
+
+Hadéen : de l'Hadès (enfer) en grec. Cette période de la formation de la Terre est ainsi nommée en raison des conditions extrêmement variables qui y régnèrent, dépassant largement la fourchette de températures compatible avec la « chimie de la vie », sans compter des chocs majeurs comme celui entre Gaïa et Théia, à l'origine de la Lune.
+Archéen : très ancien en grec.
+Éoarchéen : aube du très-ancien en grec.
+Paléoarchéen : ancien très-ancien en grec.
+Mésoarchéen : moyen très-ancien en grec.
+Néoarchéen : nouveau très-ancien en grec.
+Protérozoïque : vie première en grec.
+Paléoprotérozoïque : ancienne vie première en grec.
+Sidérien : ferreux (épais dépôts de fer rubané).
+Rhyacien : torrent [de lave] (du grec ῥύαξ / rhyax, « ruisseau, rivière »).
+Orosirien : chaîne de montagnes en grec (surrection de chaînes).
+Stathérien : stabilisé en grec (il s'agit des socles continentaux).
+Mésoprotérozoïque : moyenne vie première en grec.
+Calymmien : couvert en grec (sédimentation par-dessus les socles).
+Ectasien : étendu en grec (extension des sédiments).
+Sténien : étroit en grec (étroites ceintures métamorphiques).
+Néoprotérozoïque : nouvelle vie première en grec.
+Tonien : étiré en grec (fragmentation du continent Rodinien).
+Cryogénien : engendrant du froid en grec (« terre boule de neige »).
+Édiacarien : d'Ediacara (site australien).
+Phanérozoïque : vie visible en grec (fossiles visibles à l'œil nu).
+Paléozoïque : vie ancienne en grec (jadis appelé Primaire : on pensait initialement que l'histoire de la Terre commençait par cette ère, il y a ~ 541 Ma).
+Cambrien : de Cambrie (ancien nom du Pays de Galles).
+Ordovicien : des Ordovices (ancienne tribu galloise).
+Silurien : des Silures (ancienne tribu galloise).
+Dévonien : du Devon (comté anglais des Cornouailles).
+Carbonifère : porteur de charbon (présence de nombreux dépôts de charbon).
+Permien : de Perm (ville russe).
+Mésozoïque : vie moyenne en grec (jadis appelé Secondaire).
+Trias : triple (en référence à ses 3 époques).
+Jurassique : du Jura (Massif du Jura).
+Crétacé : crayeux (aux épais dépôts de craie).
+Cénozoïque : vie récente en grec (regroupe les anciennes ères « Tertiaire » et « Quaternaire »).
+Paléogène : anciennement engendrée en grec.
+Paléocène : anciennement récente en grec.
+Éocène : aube du récent en grec.
+Oligocène : peu de nouveau en grec,.
+Néogène : nouvellement engendrée en grec.
+Miocène : moins récente en grec.
+Pliocène : suite du récent en grec.
+Quaternaire : le statut du Quaternaire a changé en 2009 ; considéré auparavant comme une ère, il a été rétrogradé à celui de période. Malgré son étymologie qui le rattache aux anciennes appellations des ères du Phanérozoïque, le terme a été conservé, pour des raisons de notoriété.
+Pléistocène : en grande partie récente en grec.
+Holocène : entièrement récente en grec.
+
+
+== Tableaux de l'échelle des temps géologiques ==
+L'échelle des temps géologiques présentée repose sur celle de la Commission internationale de stratigraphie (ICS). Les dates et incertitudes sont celles de l'échelle publiée en août 2018 par l'ICS. Ces incertitudes sont le fait des méthodes de mesure liées à la datation.
+Le nuancier des couleurs est conventionnel, s'enracine initialement dans la cartographie géologique britannique du début du XIXe siècle et a été largement remanié et précisé depuis : il assigne à chaque étage et époque une nuance dérivée de la couleur de sa période respective, mais n'a pas de rapport avec la couleur, sur le terrain, des roches elles-mêmes.
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+Stephen Giner, Miroirs de la Terre, éd. Presses du Midi, (ISBN 978-2-8127-0188-7), p. 32, 33
+(en) Arthur Holmes, The Age of the Earth, Londres, Harper, 1913, 196 p. (lire en ligne)
+[Cotillon 1988] Pierre Cotillon (préf. Jean Aubouin), Stratigraphie, Paris, Dunod, coll. « Géosciences », juin 1988, 1re éd., 185 p. (ISBN 2-04-012338-5)
+[Aubouin et al. 1978] Jean Aubouin, Robert Brousse et Jean-Pierre Lehman, Précis de géologie : Stratigraphie, t. 3, Paris, Dunod, 1978 (réimpr. 1975), 3e éd. (1re éd. 1967), 685 p. (ISBN 2-04-016420-0)
+
+
+=== Articles connexes ===
+Point stratotypique mondial (PSM)
+Commission internationale de stratigraphie
+Stratigraphie
+Série stratigraphique
+Log géologique
+Géochronologie
+
+
+=== Liens externes ===
+(en) « International Commission on Stratigraphy ».
+(en) « Chart ».
+« Charte chronostratigraphique internationale » [PDF], mai 2019.
+(en) « Interactive international chronostratigraphic chart » [« Charte chronostratigraphique internationale interactive »]
+Échelle des temps géologiques du BRGM de 2006 avec inventaire des termes obsolètes
+
+ Portail de la géologie   Portail origine et évolution du vivant   Portail de la paléontologie   Portail du temps

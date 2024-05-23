@@ -1,0 +1,146 @@
+Los leucocitos (del griego λευκός [leukós] ‘blanco’, y κύτος [kytos] ‘bolsa’, de ahí que también sean llamados glóbulos blancos) son un conjunto heterogéneo de células sanguíneas que son ejecutoras de la respuesta inmunitaria, interviniendo así en la defensa del organismo contra sustancias extrañas o agentes infecciosos (antígenos). Se originan en la médula ósea y en el tejido linfático. Los leucocitos son producidos y derivados de unas células multipotenciales en la médula ósea, conocidas como células madre hematopoyéticas. Los glóbulos blancos (leucocitos) son las únicas células sanguíneas que se encuentran en todo el organismo[1]​.
+Existen cinco[2]​  tipos diferentes de leucocitos, divididos en granulocitos y agranulocitos, y varios de ellos (incluyendo monocitos y neutrófilos) son fagocíticos. Estos tipos se distinguen por sus características morfológicas y funcionales.
+El número de leucocitos en la sangre suele ser un indicador de enfermedad. El recuento normal de glóbulos blancos fluctúa entre 4 y 11 x 109/L, y suele expresarse como 4000-11 000 glóbulos blancos por microlitro.[3]​ Conforman, aproximadamente, el 1% del volumen sanguíneo total de un adulto sano.[4]​ Al aumento del número de leucocitos por arriba del límite superior se le llama leucocitosis, y al decrecimiento por debajo del límite inferior se le llama leucopenia.
+
+
+== Etimología ==
+Los leucocitos, del griego λευκός [leukós] ‘blanco’, y κύτος [kytos] ‘bolsa’, también son llamados glóbulos blancos. El término “glóbulo blanco” deriva de la apariencia de una muestra de sangre después de ser centrifugada. Los leucocitos se encuentran en el “buff”,[5]​ una capa delgada y típicamente blanca de células nucleadas que está entre las células rojas y el plasma sanguíneo. Si en la muestra sanguínea hay un gran número de neutrófilos, el “buffy coat” puede aparecer verde, debido a que estos producen una enzima que contiene hemo llamada mieloperoxidasa.
+
+
+== Características ==
+Los leucocitos (glóbulos blancos) son células móviles que se encuentran en la sangre transitoriamente, así, forman la fracción celular de los elementos figurados de la sangre. Son los representantes hemáticos de la serie blanca. A diferencia de los eritrocitos (glóbulos rojos), no contienen pigmentos, por lo que se les califica de glóbulos blancos.
+Son células con núcleo, mitocondrias y otros orgánulos celulares. Son capaces de moverse libremente mediante pseudópodos. Su tamaño oscila entre los 8 y 20 μm (micrómetros). Su tiempo de vida varía desde algunas horas hasta meses y años. Estas células pueden salir de los vasos sanguíneos a través de un mecanismo llamado diapédesis (prolongan su contenido citoplasmático). Esto les permite desplazarse fuera del vaso sanguíneo y poder tener contacto con los tejidos del interior del cuerpo humano.
+
+
+== Clasificación ==
+Todos los leucocitos son células nucleadas, pero, por otra parte, distintos en forma y función. 
+Los leucocitos se dividen en dos grandes clases: 
+
+Granulocitos (neutrófilos, eosinófilos y basófilos)
+Agranulocitos, que carecen de gránulos específicos, son mononucleares y tienen el núcleo más grande que los granulocitos. Son los  monocitos y linfocitos.Por su linaje, los glóbulos blancos se dividen en: el mieloide (compuesto de los granulocitos y monocitos) y el linfoide (linfocitos T, linfocitos B y las células natural killer (células NK).[6]​
+Asimismo, 
+
+
+=== Generalidades ===
+
+
+=== Neutrófilos ===
+Los neutrófilos defienden al organismo contra infecciones viricas, bacterianas o por hongos. Usualmente son los primeros en responder a una infección microbiana; su actividad y muerte en gran número forman el pus. Comúnmente se refiere a los neutrófilos como leucocitos polimorfonucleares (PMN), aunque, en el sentido técnico, PMN se refiere a todos los granulocitos (que incluyen neutrófilos, eosinófilos y basófilos). Tienen un núcleo multilobulado que puede asemejar múltiples núcleos, de ahí se deriva el nombre leucocito polimorfonuclear.[9]​ El citoplasma puede parecer transparente debido a los gránulos que se tiñen color lila pálido. Los neutrófilos se encargan de fagocitar bacterias y están presentes en grandes cantidades en el pus. Estas células no son capaces de renovar sus lisosomas (utilizados durante la digestión de microbios) y mueren después de haber fagocitado unos cuantos patógenos.[10]​ Los neutrófilos son el tipo celular más encontrado en las fases tempranas de la inflamación aguda. Conforman del 60 al 70% de los leucocitos totales en la sangre del ser humano.[4]​ La vida media de un neutrófilo circulante es de, aproximadamente, 5.4 días.[11]​
+
+
+=== Eosinófilos ===
+Los eosinófilos, ante todo, lidian con las infecciones parasitarias. También son las células inflamatorias predominantes durante una reacción alérgica. Las causas más importantes de eosinofilia incluyen alergias como: asma, rinitis alérgica y urticaria; así como infecciones parasitarias. En general, su núcleo es bi-lobulado. El citoplasma está lleno de gránulos que, con tinción de eosina, asumen un color 
+anaranjado característico.
+
+
+=== Basófilos ===
+Los basófilos son principalmente ante esto responsables de las respuestas alérgicas, ya que liberan histamina, provocando vasodilatación. Su núcleo es bi- o trilobulado, pero es difícil de detectar, ya que se oculta por el gran número de gránulos gruesos, estos gránulos son característicamente azules bajo la tinción HyE.[12]​
+
+
+=== Linfocitos ===
+Los linfocitos son más comunes en el sistema linfático que en el torrente sanguíneo. Se distinguen por un núcleo que se tiñe fuertemente y cuya localización puede o no ser excéntrica, y por tener poco citoplasma. Los linfocitos incluyen: 
+
+Células B, que producen anticuerpos capaces de unir, bloquear, y promover la destrucción de patógenos así como de activar complemento.
+Células T:
+CD4+ cooperadoras: son células T que expresan el co-receptor CD4 y son conocidas como linfocitos T CD4+. Estas células tienen receptores de células T (TCR) y moléculas CD4+ que, en conjunto, reconocen péptidos antigénicos presentados en moléculas del complejo mayor de histocompatibilidad (CMH) clase-II por células presentadoras de antígeno (CPA). Las células T cooperadoras producen citoquinas y llevan a cabo otras funciones que ayudan a coordinar una respuesta inmune adecuada. En una infección por VIH, el conteo de estas células T son el índice principal para identificar la integridad del sistema inmune del individuo.[13]​
+CD8+ citotóxicas: son células T que expresan el co-receptor CD8 y son conocidas como linfocitos T CD8+. Estas células se unen a antígenos presentados en moléculas del CMH clase-I en células infectadas por virus o células tumorales. Casi todas las células nucleadas presentan CMH clase-I. IgE.
+Células T γδ: poseen un receptor de células T alternativo (diferente al receptor de células T αβ que se encuentra en células T CD4 y CD8 convencionales). Se encuentran más comúnmente en tejidos que en sangre. Las células γδ T comparten características con las células cooperadoras, las citotóxicas y las células natural killer.
+Células Natural Killer: son células capaces de matar células del organismo que no presentan moléculas del CMH clase-I, o que presentan marcadores de estrés como MIC-A (MHC class I polypeptide-related sequence A). La disminución de la expresión de CMH clase-I y la regulación positiva de MIC-A se puede llevar a cabo cuando células del organismo están infectadas por un virus o son cancerosas.
+
+
+=== Monocitos ===
+Los monocitos comparten la función de “aspiradora” (fagocitosis) con los neutrófilos, pero son más longevos y además, una función extra: presentar partes de patógenos a linfocitos T para que estos puedan ser reconocidos de nuevo y ser eliminados. Los monocitos abandonan el torrente sanguíneo (Diapédesis) para convertirse en macrófagos de tejido , que se encargan de remover restos de células muertas y de atacar microorganismos. A diferencia de los neutrófilos, los monocitos son capaces de reemplazar su contenido lisosomal y se cree que su vida activa es mucho más larga. Su núcleo tiene forma de riñón y no tienen gránulos y contienen abundante citoplasma. 
+Una vez que los monocitos abandonan el torrente sanguíneo y entran a algún tejido corporal, pasan por cambios que permiten la fagocitosis (se diferencian) y se convierten en macrófagos.
+
+
+== Leucocitos fijos ==
+Algunos leucocitos migran a los tejidos del organismo para residir ahí permanentemente y no en la circulación sanguínea. A menudo, estas células tienen nombres específicos dependiendo de en qué tejido se instalen; un ejemplo son los macrófagos fijos de hígado, conocidos como células de Kupffer. Estas células siguen jugando un papel importante en el sistema inmune.
+
+Histiocitos
+Células dendríticas (aunque estas suelen migrar a nódulos linfáticos locales al ingerir antígenos)
+Mastocitos
+Microglia
+
+
+== Trastornos ==
+Hay dos principales categorías de trastornos que involucran glóbulos blancos: los trastornos proliferativos y las leucopenias.[14]​ En los trastornos proliferativos hay un aumento en el número de leucocitos; este aumento es comúnmente reactivo (por ejemplo, cuando se debe a una infección), pero puede ser canceroso, también. En las leucopenias hay un decremento en el número de leucocitos. Ambos trastornos son cuantitativos. Se ha observado que los procesos apoptóticos en leucocitos podría estar relacionado con generación de radicales libres en la mitocondria a partir de un cambio en la homeostasis del calcio intracelular.[15]​ Los trastornos cualitativos de los glóbulos blancos entran en una categoría distinta; en estos el número de leucocitos es normal, pero las células no funcionan adecuadamente.[16]​
+
+
+=== Leucopenias ===
+Una gama de trastornos puede causar una disminución en los glóbulos blancos de la sangre. El tipo celular disminuido usualmente es el neutrófilo. En este caso, el decremento puede ser llamado neutropenia o granulocitopenia. En casos más raros, se puede encontrar una reducción del número de linfocitos (llamada linfocitopenia o linfopenia).[14]​
+
+
+==== Neutropenia ====
+La neutropenia puede ser adquirida o intrínseca.[17]​ Una disminución de los niveles de neutrófilos una prueba de laboratorio se puede deber al descenso de la producción o a un aumento de la remoción de la circulación sanguínea de las mismas células.[14]​ A continuación, se enlistan varias posibles causas de neutropenia (la lista no es exhaustiva). 
+
+Medicamentos - quimioterapia, sulfas u otros antibióticos, fenotiazidas, benzodiacepinas, antitiroideos, anticonvulsivantes, quininas, quinidinas, indometacinas, procainamida, tiazidas.
+Radiación.
+Toxinas - alcohol, bencenos.
+Trastornos intrínsecos - síndrome de Fanconi, síndrome de Kostmann, neutropenia cíclica, Chediak-Higashi.
+Inmunodeficiencia - trastornos de la colágena, SIDA, artritis reumatoide.
+Disfunción de células sanguíneas - anemia megaloblástica, mielodisplasia, fallo medular, reemplazo medular, leucemia aguda.
+Cualquier infección grave.
+Misceláneo - inanición, hiperesplenismo.Los síntomas de la neutropenia se asocian con la causa subyacente del decremento de neutrófilos. Por ejemplo, la neutropenia inducida por drogas es la causa más común de neutropenia adquirida, por lo que el paciente, además, puede presentar síntomas de sobredosis o toxicidad al medicamento. El tratamiento también se enfoca a manejar la causa subyacente de la neutropenia.[18]​ Una de las consecuencias más graves de la neutropenia es que eleva el riesgo de adquirir infecciones.[16]​
+
+
+==== Linfocitopenia ====
+Se define como una cuenta linfocitaria total menor a 1.0x109/L, las células más comúnmente afectadas son las T CD4+. Como en la neutropenia, la linfocitopenia puede ser de origen adquirido o intrínseco y pueden existir varias causas[16]​ (la lista no es exhaustiva). 
+
+Inmunodeficiencia heredada - inmunodeficiencia combinada grave, inmunodeficiencia variable común, ataxia-telangiectasia, síndrome de Wiskott-Aldrich, inmunodeficiencia con enanismo de extremidades cortas, inmunodeficiencia asociada a timoma, deficiencia en la purina fosforilasa de nucleósido, polimorfismo genético.
+Disfunción de médula ósea - anemia aplásica.
+Enfermedades infecciosas - virales (SIDA, SARS, encefalitis del Nilo, hepatitis, herpes, otras), bacterianas (tuberculosis, fiebre tifoidea, neumonía, rickettsiosis, sepsis), parasitarias (fase aguda de malaria).
+Medicamentos- quimioterapia.
+Radiación.
+Cirugías mayores.
+Misceláneo - oxigenación por membrana extracorpórea (OMEC), trasplante de riñón o médula ósea, hemodiálisis, falla renal, quemaduras graves, enfermedad celiaca, pancreatitis severa aguda, enteropatía, ejercicio vigoroso, carcinoma.
+Inmunopatología - artritis, lupus eritematoso sistémico, síndrome de Sjögren, miastenia gravis, vasculitis sistémica, dermatomiositis, granulomatosis de Wegener.
+Nutrición/dieta - abuso de alcohol, deficiencia de zinc.Como en la neutropenia, los síntomas y el tratamiento de la linfocitopenia se dirigen a la causa subyacente del cambio de la cuenta celular.
+
+
+=== Trastornos proliferativos ===
+Un aumento en el número de glóbulos blancos en la circulación sanguínea es conocido como leucocitosis. Este incremento es causado comúnmente por inflamación. Existen cuatro causas principales: sobreproducción celular en la médula ósea, aumento en la liberación de células almacenadas en la médula ósea, disminución de la capacidad de adhesión a la pared de vasos sanguíneos, disminución de captura por los tejidos. La leucocitosis puede afectar una o varias líneas celulares y puede ser neutrofílica, eosinofílica, basofílica, monocitosis o linfocitos.
+
+
+==== Neutrofilia ====
+La neutrofilia es el incremento de la cuenta total de neutrófilos en la circulación periférica. Los valores normales varían de acuerdo a la edad. La neutrofilia puede ser causada por una afección directa a las células sanguíneas (enfermedad primaria). También puede ocurrir como consecuencia de una patología subyacente (secundaria). La mayoría de los casos de neutrofilia son secundarios a inflamación.
+Causas primarias
+
+Condiciones con neutrófilos funcionales - neutrofilia hereditaria, neutrofilia crónica idiopática.
+Anomalía de Pelger-Huet.
+Síndrome de Down.
+Deficiencia de adhesión leucocitaria.
+Urticaria familiar.
+Leucemia.Causas secundarias
+
+Infecciones.
+Inflamación crónica - especialmente artritis reumatoide juvenil, artritis reumatoide, enfermedad de Still, enfermedad de Crohn, colitis ulcerativa, infecciones granulomatosas (como la tuberculosis), y hepatitis crónica.
+Tabaquismo.
+Estrés - ejercicio, postquirúrgico.
+Inducida por medicamentos - corticoesteroides.
+Cáncer - por factores de crecimiento secretados por el tumor o por la invasión de la médula ósea.
+La destrucción aumentada en la circulación periférica puede estimular la médula ósea. Esto puede ocurrir en la anemia hemolítica y la púrpura trombocitopénica idiopática.
+
+
+==== Eosinofilia ====
+La cuenta eosinofílica normal es considerada como menor a 0.65×109/L. La cuenta es mayor en recién nacidos y varía con la edad, la hora (es menor en la mañana y mayor en la noche), el ejercicio, el ambiente y la exposición a alérgenos. La eosinofilia nunca es un hallazgo normal en los estudios de laboratorio. A continuación, se enlistan algunas de las causas de eosinofilia. 
+
+Infecciones - bacterianas, parasitarias y micóticas
+Reacciones alérgicas - asma
+Dermopatías autoinmunes - pénfigo, psoriasis
+Hemopatías - leucemia mieloide crónica
+Iatrogénica - estreptomicina, sulfamidas
+Idiopática
+Familiar - síndrome de Wiskott-Aldrich, síndrome de hiper-IgE
+
+
+== Cuantificación y rangos de referencia ==
+La biometría hemática con diferencial es un panel sanguíneo que incluye la cuenta total de leucocitos y varias subclasificaciones como la cuenta total de neutrófilos. Los rangos de referencia para los exámenes de sangre especifican los valores normales en individuos sanos.
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikcionario  tiene definiciones y otra información sobre leucocito.
+Sangre, células de la sangre y coagulación (en portugués).
+Células inmunitarias y la respuesta inmunitaria.

@@ -1,0 +1,397 @@
+La diabetes mellitus (DM) es un conjunto de trastornos metabólicos, cuya característica común principal es la presencia de concentraciones elevadas de glucosa en la sangre de manera persistente o crónica, debido ya sea a un defecto en la producción de insulina, a una resistencia a la acción de ella para utilizar la glucosa, a un aumento en la producción de glucosa o a una combinación de estas causas. También se acompaña de anormalidades en el metabolismo de los lípidos, proteínas, sales minerales y electrolitos.[7]​[8]​[9]​[10]​[11]​[12]​[13]​
+La diabetes se asocia con la aparición de complicaciones en muchos sistemas orgánicos, siendo los más evidentes la  pérdida de la visión (retinopatía diabética) que puede llegar a la ceguera, el compromiso de los riñones (nefropatía diabética) con deterioro funcional progresivo, requiriendo diálisis y trasplante, el compromiso de vasos sanguíneos que pueden significar la pérdida (por amputación) de extremidades inferiores (vasculopatía diabética), el compromiso del corazón con enfermedad coronaria e infarto agudo de miocardio, el compromiso cerebral y la irrigación intestinal; sin embargo, las complicaciones más prevalentes afectan al sistema nervioso periférico y autónomo. Todo esto significa una carga muy pesada para el paciente que la padece y para todo el sistema de salud pública.[7]​[9]​[12]​
+Los síntomas principales de la diabetes mellitus son la emisión excesiva de orina (poliuria), el aumento anormal de la necesidad de comer (polifagia), el incremento de la sed (polidipsia) y la pérdida de peso sin razón aparente.[14]​ En ocasiones se toman como referencia estos tres síntomas: poliuria, polifagia y polidipsia (regla de las tres "P") para poder sospechar diabetes mellitus tipo 2 o diabetes insulinorresistente, ya que son los más comunes en la población. Además de estos síntomas, también está el cansancio, el dolor de cabeza, el mareo y vista borrosa.
+Es importante tener en cuenta que no todas las personas con diabetes experimentan estos síntomas, especialmente en el caso de diabetes tipo 2, que puede desarrollarse lentamente en el tiempo. Por esta razón es recomendable realizarse chequeos regulares para detectar y tratar la diabetes de forma temprana además de llevar una dieta saludable, realizar actividad física regular y manter un peso adecuado, ya que estos hábitos pueden ayudar a prevenir está enfermedad.
+
+
+== Etimología ==
+La palabra diabetes proviene del latín diabētēs, que a su vez proviene del griego antiguo διαβήτης (diabētēs), que literalmente significa "un paso a través, un sifón".[15]​ El antiguo médico griego Areteo de Capadocia usó esa palabra, con el significado de "descarga excesiva de orina", como el nombre de la enfermedad.[16]​[17]​ La palabra "diabetes" se registra por primera vez en inglés, en un texto médico escrito alrededor de 1425.
+Como término para referirse a la enfermedad caracterizada por la eliminación de grandes cantidades de orina (poliuria), empieza a usarse en el siglo I en el sentido etimológico de «paso», aludiendo al «paso de orina» de la poliuria. 
+La palabra mellitus (latín mel, ‘miel’) se agregó en 1675 por Thomas Willis cuando notó que la orina de un paciente diabético tenía sabor dulce (debido a que la glucosa se elimina por la orina).[16]​
+
+
+== Clasificación ==
+Actualmente existen dos clasificaciones principales. La primera, correspondiente a la Organización Mundial de la Salud, en la que reconocen tres formas de diabetes mellitus: tipo 1, tipo 2 y diabetes gestacional (ocurre durante el embarazo), cada una con diferentes causas y con distinta incidencia[7]​[10]​ y la segunda, propuesta por el comité de expertos de la Asociación Americana de Diabetes (ADA) en 1997. Según la ADA, los diferentes tipos de DM se clasifican en cuatro grupos:[9]​[12]​[18]​[8]​
+
+La diabetes mellitus tipo 1, en la que existe una destrucción total (mayor del 90 %) de las células β, lo que conlleva una deficiencia absoluta de insulina. Representa entre un 5 a un 10 % de las DM.
+La diabetes mellitus tipo 2, generada como consecuencia de un defecto progresivo en la secreción de insulina, de un aumento de la resistencia periférica a la misma y de un aumento de la producción de glucosa. Representa entre un 90 a un 95 % de las DM.
+La diabetes gestacional, que es diagnosticada durante el segundo o tercer trimestre del embarazo, donde muchas veces es transitoria y la propia cura es el parto.
+Diabetes producida por otras causas:
+Defectos genéticos de la función de las células β (por ejemplo, distintos tipos de diabetes monogénica o diabetes tipo MODY, diabetes neonatal).
+Defectos genéticos en la acción de insulina.
+Prediabetes no controlada.
+Enfermedades del páncreas exocrino (por ejemplo, fibrosis quística).
+Endocrinopatías (por ejemplo, acromegalia, síndrome de Cushing).
+Inducida por fármacos o químicos (por ejemplo, pentamidina, ácido nicotínico, glucocorticoides).
+Infecciones.
+Causas poco comunes mediadas por mecanismos inmunes.
+Otros síndromes genéticos asociados con diabetes.
+
+
+=== Diabetes mellitus tipo 1 ===
+
+La diabetes mellitus tipo 1 (DM1) corresponde a la llamada antiguamente diabetes insulino-dependiente o tipo I (DMID), diabetes de comienzo juvenil o diabetes infantojuvenil. No se observa producción de insulina debido a la destrucción de las células β de los Islotes de Langerhans del páncreas. La destrucción suele ocurrir en plazos relativamente cortos, especialmente en los más jóvenes, predisponiendo a una descompensación grave del metabolismo llamada cetoacidosis. Es más frecuente en personas jóvenes (por debajo de los 25 años) y afecta a cerca de 4,9 millones de personas en todo el mundo, con una alta prevalencia reportada en América del Norte. Representa entre un 5 a un 10 % de las DM.[9]​
+El origen de la DM1 es la destrucción autoinmune de las células β de páncreas, aunque en un 10 % de los casos no se han encontrado marcadores de inmunidad y se denominan "idiopáticos". Esta última situación se ha visto en la casuística de DM1 de África y Asia.[8]​[9]​ 
+Dentro de las DM1 se incluye la diabetes autoinmune latente del adulto o LADA, que si bien epidemiológica y clínicamente se asemeja a la DM2, la causa es autoinmune y el tratamiento necesario es insulina. Entre un 2 a un 12 % de las diabetes en adultos corresponde a esta variante.[19]​[20]​[21]​
+Aproximadamente un 6 % de los pacientes con diabetes tipo 1 padece enfermedad celíaca asociada,[22]​ si bien la mayoría de los casos de enfermedad celíaca permanecen sin reconocer ni diagnosticar, debido a que suele cursar sin síntomas digestivos, que son leves o se atribuyen erróneamente al mal control de la diabetes, a una gastroparesia o a una neuropatía diabética.[23]​ La diabetes y la celíaca comparten genética común, y la inflamación o las deficiencias nutricionales causadas por la enfermedad celíaca no tratada aumentan el riesgo de desarrollar diabetes tipo 1.[22]​ Las personas que presentan ambas enfermedades asociadas tienen peor control de los niveles de glicemia y un aumento del riesgo de complicaciones, como los daños en la retina y en el riñón, y la mortalidad.[24]​ La dieta sin gluten, cuando se realiza estrictamente, mejora los síntomas de la diabetes y tiene un efecto protector contra el desarrollo de complicaciones a largo plazo.[24]​
+
+
+=== Diabetes mellitus tipo 2 ===
+
+La diabetes mellitus tipo 2  (DM2) representa entre un 90 a un 95 % de las diabetes. Se caracteriza por una resistencia a la insulina y, al menos inicialmente, en una deficiencia relativa en la secreción de insulina, cuya cantidad, si bien es elevada en comparación con una persona normal, es insuficiente en relación con los niveles elevados de glucemia. A medida que la enfermedad avanza, el páncreas puede llegar a producir menos insulina y fallar las células beta. A diferencia de la DM1, no hay un componente autoinmune presente, si bien se mantiene un ambiente inflamatorio a nivel del tejido adiposo.[9]​[8]​
+Se presenta principalmente en mayores de 40 años aunque ya cada vez generaciones más jóvenes la presentan, la mayoría de los cuales presenta obesidad abdominal como parte del patrón de exceso de depósito de grasa que presentan las personas con resistencia insulína. Se acompaña frecuentemente de otras anormalidades, como hipertensión arterial, dislipidemia, disfunción del endotelio vascular y elevación del PAI-1. Este conjunto de anormalidades se ha denominado «síndrome de resistencia a la insulina» o síndrome metabólico.[9]​[8]​
+El diagnóstico suele hacerse transcurridos varios años desde el inicio de la enfermedad, ya que la hiperglicemia se desarrolla gradualmente y en su período inicial no produce síntomas notables.  Sin embargo, durante este período los pacientes pueden desarrollar cualquiera de las complicaciones macrovasculares o microvasculares de la enfermedad. Durante este período inicial se presenta una condición denominada intolerancia a la glucosa.[7]​[18]​
+
+
+=== Diabetes mellitus gestacional ===
+
+La diabetes mellitus gestacional o DMG es aquella que aparece en el segundo o tercer trimestre del embarazo en mujeres sin el diagnóstico previo de DM. Se presenta generalmente en mujeres mayores, hispanoamericanas, afroamericanas, asiático-americanas, indígenas pima o nativas de las islas del Pacífico.[9]​
+Es el nivel más alto de azúcar en la sangre que se presenta en cualquier momento del embarazo de una mujer que no tiene diabetes.[25]​
+Cabe destacar que la DMG es el único tipo de diabetes potencialmente reversible, puesto que el parto o cesárea pueden llevar a la resolución total de la condición orgánica. En caso de transitar un nuevo embarazo posterior, la probabilidad de padecer DMG es mayor con respecto a la población de madres que no lo han hecho.
+La DMG representa riesgos para la madre y el recién nacido, siendo el aumento de la glicemia entre las 24 y 28 semanas del embarazo un indicador de mayor probabilidad de complicaciones.[18]​
+Durante el embarazo se producen grandes cambios en el metabolismo, puesto que el feto utiliza la energía de la madre para alimentarse, oxígeno, entre otros. Esto conlleva a tener disminuida la insulina, provocando esta enfermedad.[26]​
+"Cabe mencionar que se tiene mayor riesgo de padecer este tipo de diabetes si se tiene más de 25 años al quedar embarazada, antecedentes familiares de diabetes, hipertensión arterial, demasiado líquido amniótico, si ha tenido un aborto espontáneo o mortinato de manera inexplicable, sobrepeso antes del embarazo, o aumento excesivo de peso durante el embarazo".[27]​
+
+
+=== Otros tipos de diabetes mellitus ===
+Otros tipos de diabetes mellitus menores (< 6 % de todos los casos diagnosticados):
+Tipo 3A, 3B, 3C, 3D, 3E, 3F, 3G.
+
+
+== Historia ==
+La diabetes se reconoció por primera vez alrededor del 1500 a. C. por los antiguos egipcios, quienes observaron a personas que orinaban mucho y perdían peso. En el papiro de Ebers descubierto en Egipto se describen los síntomas y el tratamiento que se les proporcionaba: una dieta de cuatro días que incluía decocción de huesos, trigo, granos, arena, plomo verde y tierra (o bien: agua de charco de pájaro, bayas de sauco, leche fresca, cerveza, flores de pepino y dátiles verdes). Fue Areteo de Capadocia, médico griego,  quien, entre los años 80 y 138, le dio a esta afección el nombre de diabetes, que significa en griego correr a través, refiriéndose al signo más llamativo que es la eliminación exagerada de agua, que atribuyó a una falla en los riñones, expresando que el agua entraba y salía del organismo del diabético sin fijarse en él. Creía que el origen de la enfermedad, «fría y húmeda», radicaba en una fusión entre la carne y los músculos que se transformaba en orina.[28]​[29]​[30]​[31]​[32]​[33]​
+En el siglo II, Galeno también se refirió a la diabetes, denominándola diarrhoea urinosa y dipsakos haciendo referencia a sus síntomas cardinales: la poliuria y la polidipsia (dipsa: sed).[28]​[29]​[32]​
+La asociación entre la poliuria y el sabor dulce en la orina está reportada en la literatura sánscrita de los siglos V y VI por parte de dos médicos indios: Súsruta y Cháraka. La orina de los pacientes poliúricos se describe dulce como la miel, pegajosa al tacto y fuertemente atrayente para las hormigas. La enfermedad se denominó «madhumeha» (enfermedad de la orina dulce). Se reconocían dos variantes de la enfermedad, una que afectaba a las personas mayores y obesas y otra a jóvenes delgados que fallecían prontamente. El tratamiento consistía en aportar a los enfermos cereales recién cosechados preparados en una composición aceitosa que contenía benzoatos y sílice. En la misma era, los médicos chinos y japoneses reconocen a los diabéticos y destacan la dulzura de su orina que aparentemente atraía a los perros. En sus escritos mencionan que estos enfermos son susceptibles de padecer de forúnculos y una afección respiratoria que probablemente se trataba de tuberculosis.[28]​[32]​
+En los siglos IX al XI, la asociación de la diabetes con la dulzura de la orina fue enfatizada en los textos de medicina árabes. Avicena habla con clara precisión de esta afección en su famoso Canon de medicina. Menciona dos complicaciones específicas de la enfermedad: la gangrena y el «colapso de la función sexual».[28]​
+En Europa, la asociación entre la orina dulce y la diabetes tardó más tiempo en ser reconocida. En el siglo XVI, el médico suizo Paracelso observó que la orina de los diabéticos dejaba un polvo blanco como residuo después de su evaporación. Sin embargo, concluyó que esta sustancia era sal y que, por lo tanto, la enfermedad se desarrollaba por el depósito de sal en los riñones, causándoles «sed» y ocasionando la poliuria.[28]​[33]​
+En el año 1675, Thomas Willis, médico inglés del hospital de Guy de Londres, hizo una descripción de la orina dulce de los diabéticos, además de una serie de otras observaciones muy adecuadas a lo que corresponde la sintomatología reconocida de esta entidad clínica.[28]​ Fue él quien, refiriéndose al sabor dulce de la orina, le dio el nombre de diabetes mellitus (sabor a miel).[32]​[33]​
+Otro médico inglés del siglo XVII, Thomas Sydenham, especulaba que la diabetes era probablemente una enfermedad sistémica ocasionada por la falta de digestión del quilo, con la consiguiente acumulación de residuos que debían ser eliminados por el riñón.[28]​[33]​
+En 1772, Mathew Dobson, médico inglés, realizó una serie de observaciones y experimentos con un paciente diabético, Peter Dickinson, publicando sus resultados en la publicación «Medical Observations and Inquiries» del año 1776. En dicho texto, Dobson explica que el residuo blanco que deja la orina al evaporarse es azúcar; así mismo, se refiere al sabor dulce de la sangre, siendo la primera descripción conocida de la hiperglicemia propia del diabético. Dobson concluye que el azúcar eliminado por la orina no es producido por el riñón, sino que corresponde principalmente a residuos en la sangre provenientes de la alimentación, no asimilados de forma normal por el organismo y que llegan al riñón, donde son eliminados. Dobson realizó numerosos experimentos terapéuticos con los pacientes diabéticos que atendía, siendo el más conocido la infusión de sena con ruibarbo.[28]​[30]​[31]​[32]​[33]​
+Johann Peter Frank, médico alemán, publicó el año 1792 la primera parte de su obra De curandis hominum morbis epitome, donde clasifica la diabetes en dos tipos: diabetes vera (equivalente a la diabetes mellitus) y diabetes insípida (porque no presentaba la orina dulce).[32]​[34]​
+En 1788, Thomas Cawley observó cálculos y signos de daño en el páncreas durante una necropsia realizada a un diabético publicada en el “London Medical Journal”. Casi en la misma época, el cirujano escocés John Rollo atribuyó la diabetes a una causa gástrica y desarrolló una dieta de «comida animal» (carne y grasa) y «restringida en materia vegetal» (granos y panes). Con esta dieta alta en proteínas y baja en carbohidratos logró alivio en dos pacientes.[29]​[30]​
+En el año 1812, la diabetes fue reconocida como una entidad clínica en la primera publicación de la revista New England Journal of Medicine and Surgery.[31]​
+Los primeros trabajos experimentales relacionados con el metabolismo de los glúcidos fueron realizados por Claude Bernard, quien descubrió, en 1848, el glucógeno hepático y provocó la aparición de glucosa en la orina excitando los centros bulbares.[31]​
+En la segunda mitad del siglo XIX, el gran clínico francés Bouchardat señaló la importancia de la obesidad y de la vida sedentaria en el origen de la diabetes y marcó las normas para el tratamiento dietético, basándolo en la restricción de los glúcidos y en el bajo valor calórico de la dieta.[32]​
+Los trabajos clínicos y anatomopatológicos adquirieron gran importancia a fines del siglo pasado, en manos de Frerichs, Cantani, Naunyn, Lanceraux, etc. y culminaron con las experiencias de pancreatectomía en el perro, realizadas por Josef von Mering y Oskar Minkowski en 1889. En sus experimentos, encontraron que la extirpación del páncreas producía una diabetes fatal, de tal forma que se estableció la primera pista de que el páncreas jugaba un rol en la regulación de la glucosa sanguínea.[31]​[32]​
+En 1900, Eugene Opie, patólogo estadounidense, observó la relación entre la diabetes y la destrucción de los islotes pancreáticos descubiertos en el año 1869 por Paul Langerhans.[30]​
+Entre 1906 y 1908, George Ludwig Zuelzer, médico alemán, trabajó en Berlín con extractos pancreáticos, investigando la relación entre la función suprarrenal y pancreática en conejos. Luego, midió la reducción de la glucosuria en perros pancreatectomizados, con buenos resultados. Finalmente, realizó pruebas en pacientes diabéticos, con un éxito parcial, debido a los efectos adversos derivados de las impurezas de la sustancia.[30]​[35]​
+En 1909,  J. Forschbach repitió los experimentos de Zuelzer en la Clínica de Breslau, confirmando las observaciones publicadas por Zuelzer, pero interrumpió la investigación por los efectos colaterales. No obstante, en 1911 Zuelzer tramitó el registro del extracto pancreático para el tratamiento de la diabetes con el nombre de «acomatol», ayudado por la industria química Hoffmann-La Roche.[35]​[36]​
+En 1910, Edward Albert Sharpey-Schafer planteó la hipótesis de que la diabetes se producía por la deficiencia de algún producto químico elaborado en el páncreas. Llamó a esta sustancia insulina, del latín insula, refiriéndose a los islotes pancreáticos o de Langerhans.[31]​[32]​
+En 1911, Ernest Lyman Scott, para obtener su maestría en la Universidad de Chicago, experimentaba con perros a los que les extraía el páncreas, intentando obtener extracto de dichos órganos. Observó que la orina de los perros contenía altos niveles de azúcar, así como su sangre. La inyección de extractos de páncreas en base acuosa (en alcohol no funcionaba) resultaba en una disminución de los niveles de azúcar en la sangre y en el volumen de orina.[30]​
+En 1916, Joslin propuso el tratamiento de la diabetes con dieta y ejercicio.[32]​
+En 1921, los médicos canadienses Frederick Banting y Charles Best consiguieron aislar la insulina y demostrar su efecto sobre la glucemia, revirtiendo la diabetes en perros a los que se les había extirpado el páncreas. Junto con James Collip y John Macleod, purificaron la insulina de páncreas bovinos y fueron los primeros en usarla en Leonard Thompson, un paciente diabético que tuvo excelente respuesta al segundo intento, después de una mejora en el proceso de purificación del extracto pancreático. Rápidamente la producción de insulina y la terapia con ella se extendió universalmente, trayendo un inmenso beneficio para los diabéticos en todo el mundo.[31]​[32]​[33]​[35]​
+Estos descubrimientos permitieron ganar el Premio Nobel de Medicina el año 1923 a Banting y Macleod, quienes lo compartieron con Best y Collip, respectivamente. Sin embargo, hubo reclamaciones por parte de George Ludwig Zuelzer, Ernest Lyman Scott, John Raymond Murlin y el rumano Nicolae Constatin Paulescu, todos los cuales se atribuían la primacía en el descubrimiento.[35]​[37]​
+En 1936, Harold Himsworth propuso que varios pacientes diabéticos presentaban resistencia a la insulina en vez de deficiencia de ella.[31]​
+En 1947 Bernardo Houssay recibe el Premio Nobel de medicina por su trabajo de la influencia del lóbulo anterior de la hipófisis en la distribución de la glucosa en el cuerpo, de importancia para el desarrollo de la diabetes. Desde el privado Instituto de Biología y Medicina Experimental. 
+El año 1958 se descubre el primer fármaco para tratar la diabetes vía oral, la sulfonilurea, por Janbon y Colleague.[32]​
+En 1959, Jean Sterne confirma que la metformina disminuye el azúcar en la sangre.[32]​
+El año 1979, el National Diabetes Data Group (NDDG) publicó en la revista Diabetes un artículo titulado «Clasificación y diagnóstico de la diabetes mellitus y otras categorías de la intolerancia a la glucosa», en el que acuñaba el concepto de diabetes mellitus insulinodependiente (DMID) o diabetes tipo 1 y diabetes mellitus no insulinodependiente (DMNID) o diabetes tipo 2. Separadamente se dejaron los conceptos de diabetes gestacional, la intolerancia a la glucosa y un último grupo denominado otros tipos de diabetes. Esta clasificación fue acogida y adaptada por la Organización Mundial de la Salud en 1980.[9]​
+En 1985, la OMS decidió retirar los apelativos «tipo 1» y «tipo 2» y mantener los DMID y DMNID además de añadir la diabetes relacionada con la malnutrición. Esta clasificación fue aceptada internacionalmente.[9]​
+En 1997, después de dos años de revisión entre expertos de la OMS y la Asociación Americana de Diabetes (ADA), se dio a conocer una nueva clasificación: DM tipo 1, DM tipo 2, diabetes gestacional y otros tipos específicos.[9]​
+
+
+== Epidemiología ==
+
+En 2017, 425 millones de personas tenían diabetes en todo el mundo,[38]​ frente a un estimado de 382 millones de personas en 2013[39]​ y de 108 millones en 1980.[40]​ Teniendo en cuenta la estructura cambiante por edades de la población mundial, la prevalencia de diabetes es del 8,8 % entre los adultos, casi el doble de la tasa del 4,7 % en 1980.[38]​[40]​ El tipo 2 representa aproximadamente el 90 % de los casos.[41]​[42]​ Algunos datos indican que las tasas son aproximadamente iguales en mujeres y hombres,[43]​ pero se ha encontrado un exceso de diabetes en varones en muchas poblaciones con mayor incidencia de tipo 2, posiblemente debido a diferencias relacionadas con el sexo en la sensibilidad a la insulina, las consecuencias de la obesidad y la deposición de grasa corporal regional, y otros factores contribuyentes como la presión arterial alta, el tabaquismo y la ingesta de alcohol.[44]​[45]​
+Este padecimiento causa diversas complicaciones y daña frecuentemente a los ojos, riñones, nervios y vasos sanguíneos. Sus complicaciones agudas (hipoglucemia, cetoacidosis, coma hiperosmolar no cetósico) son consecuencia de un control inadecuado de la enfermedad, mientras que sus complicaciones crónicas (cardiovasculares, nefropatías, retinopatías, neuropatías y daños microvasculares) son consecuencia del progreso de la enfermedad. El Día Mundial de la Diabetes se conmemora el 14 de noviembre.
+Según datos de la OMS, es una de las 10 principales causas de muerte en el mundo.[46]​
+Entre los riesgos mayores y más frecuentes que provoca la diabetes está la conducción. El tratamiento con insulina o antibióticos orales puede tener repercusiones en el sistema nervioso que derivarían en complicaciones microvasculares, generando problemas de visión, como cataratas o glaucoma; pero sobre todo son las bajadas del nivel de azúcar o la hipoglucemia la que puede provocar mareos, desubicación, falta de concentración y descoordinación, y pérdida de conciencia,[47]​ por lo que existe un mayor riesgo entre los automovilistas diabéticos a tener un accidente. En 2014, la Dirección General de Tráfico de España (DGT) publicó un estudio en el que se comparaba el riesgo de accidentes de la población diabética respecto a la población general, y este riesgo relativo oscilaba entre un 12 % y un 19 % más.[48]​
+
+
+== Etiología ==
+En un principio se pensaba que el factor que predisponía para la enfermedad era un consumo alto de hidratos de carbono de rápida absorción. Pero después se vio que no había un aumento de las probabilidades de contraer diabetes mellitus respecto al consumo de hidratos de carbono de asimilación lenta.
+Una revisión de 2018 sugiere que entre entre los factores de riesgo para desarrollar tanto diabetes tipo 1 como diabetes tipo 2 se encontraría el consumo de gluten, presente en el trigo, el centeno, la cebada y la avena, aunque faltan estudios más concluyentes.[49]​ El gluten provoca un aumento de la permeabilidad intestinal, independientemente de la predisposición genética, es decir, tanto en celíacos como en no celíacos.[50]​[51]​ Contiene péptidos citotóxicos que atraviesan la barrera intestinal y provocan inflamación sistémica. Estos péptidos penetran en el páncreas, afectan su morfología y pueden inducir estrés de las células beta, que son las responsables de sintetizar y segregar la insulina.[49]​
+
+
+=== Diabetes mellitus tipo 1 ===
+La mayoría de los casos de diabetes mellitus tipo 1, aproximadamente un 95 %,[52]​ son el resultado de una compleja interacción entre factores ambientales y genéticos,[53]​ que provocan el desarrollo de un proceso autoinmune, dirigido contra las células beta productoras de insulina de los islotes de Langerhans del páncreas. Como resultado, estas células son progresiva e irreversiblemente destruidas. El paciente desarrolla la deficiencia de insulina cuando el 90 % aproximadamente de las células de los islotes han sido destruidas.[52]​
+
+
+==== Factores genéticos ====
+
+La DM1 está especialmente influenciada por determinados alelos de los genes del complejo mayor de histocompatibilidad (CMH) dentro del grupo de HLA de clase I. En el grupo de los HLA de clase II, presentan mayor riesgo de desarrollarla los portadores de varios alelos de los loci DR3 y DR4, siendo los heterocigotos DR3/DR4 más susceptibles de padecer esta enfermedad. Los individuos portadores del alelo DR32 también están en riesgo de desarrollar otras enfermedades, como endocrinopatías autoinmunes y enfermedad celíaca (EC).[54]​[55]​
+
+
+==== Factores ambientales ====
+Se han propuesto varios factores desencadenantes de la aparición de la enfermedad, entre los cuales destacan:
+
+Ciertas infecciones por virus, tales como enterovirus, citomegalovirus, paperas, rubeola y rotavirus, pero las evidencias no son concluyentes.[56]​ Diversos estudios han demostrado resultados opuestos, sugiriendo algunos que incluso en lugar de desencadenar un proceso autoinmune, las infecciones por enterovirus (tales como el virus coxsackie B) podrían proteger contra la aparición y el desarrollo de la diabetes tipo 1.[56]​
+"Hipótesis de la higiene". Según esta teoría, la falta de exposición a patógenos en el niño favorece el desencadenamiento de la autoinmunidad.[57]​[58]​ Una revisión de 2013 desestima esta hipótesis.[59]​
+El gluten. Los datos actuales concluyen que la gliadina (fracción proteica del gluten) parece estar implicada en la aparición y desarrollo de la diabetes mellitus tipo 1 en personas genéticamente predispuestas.[55]​[60]​ La eliminación del gluten de la dieta puede proteger contra el desarrollo de la diabetes.[61]​ Los estudios en animales y un estudio en humanos han demostrado que la dieta sin gluten durante el embarazo reduce el riesgo de que el bebé desarrolle diabetes tipo 1; se produce un cambio en la morfología del páncreas, incluyendo un mayor número de islotes pancreáticos.[49]​
+La leche de vaca. Los resultados de los estudios son contradictorios.[56]​
+
+
+=== Diabetes mellitus tipo 2 ===
+La diabetes mellitus tipo 2 tiene varios fenotipos que se pueden identificar según el tipo de persona en el que la enfermedad está. No obstante, en término generales, los factores de riesgo en común son genéticos y ambientales.[62]​
+
+
+==== Factores genéticos ====
+Las bases genéticas y moleculares de la diabetes mellitus tipo 2 siguen estando poco definidas, pero se sabe que esta enfermedad se debe en su base a factores genéticos (concordancia en gemelos monocigóticos del 69-90 % frente al 33-50 % en la diabetes mellitus tipo I y en gemelos dicigóticos de 24-40 % frente al 1-14 % en la diabetes mellitus tipo 1) aunque estos están estrechamente relacionados en cuanto a su grado de expresividad con los factores ambientales ligados al estilo de vida. Algunos de los muchos loci que aumentan la susceptibilidad para esta enfermedad son: 2q24.1, 2q32, 5q34-q35.2, 6p12, 6q22-q23, 11p12-p11.2, 12q24.2, 13q12.1, 13q34, 17cen-q21.3, 17q25, 19p13.2, 19q13.1-q13.2 o 20q12-13.1
+Diversos estudios han relacionado determinados polimorfismos de nucleótido único (SNPs) en el locus TCF7L2 con el desarrollo de esta patología y una menor secreción de insulina estimulada por glucosa por parte de las células β pancreáticas.[63]​[64]​ Por otro lado, en un estudio reciente se identificó un SNP cercano al locus LRMDA (leucine rich melanocyte differentiation associated) que aumentaba el riesgo de desarrollo de diabetes asociada a obesidad en una cohorte de pacientes suecos (ANDIS).[64]​
+
+
+==== Factores ambientales ====
+Actualmente se piensa que los factores más importantes en la aparición de una diabetes tipo 2 son, además de una posible resistencia a la insulina e intolerancia a la glucosa, el exceso de peso, la ingesta exagerada de alimentos, la relación de polisacáridos de absorción rápida o de absorción lenta consumidos, el consumo de gluten y la falta de ejercicio.[9]​[8]​[49]​ El consumo de tabaco en sus diferentes formatos (pipas, puros y cigarros o cigarrillos) aumentan las posibilidades de padecer diabetes tipo 2 por la nicotina que contienen. De hecho, la obesidad abdominal se asocia con elevados niveles de ácidos grasos libres, los que podrían participar en la insulinorresistencia y en el daño a la célula beta-pancreática. Al contrario de lo que ocurre con la diabetes del tipo 1, no se han identificado procesos autoinmunitarios.[9]​[8]​
+La evidencia de la mejoría de la diabetes tipo 2 con la dieta sin gluten es menos clara y se necesitan más estudios. Los estudios en humanos son escasos, pero los estudios en animales han demostrado mejorías tanto de la obesidad como de la diabetes tipo 2.[49]​
+Actualmente está demostrada la relación entre la obesidad infantil y el desarrollo de la diabetes tipo 2.[65]​
+La diabetes mellitus tipo 2 se considera una de las enfermedades crónicas con mayor impacto en la calidad de vida de la población mundial y constituye un verdadero problema de salud; pertenece al grupo de las enfermedades que producen invalidez física por sus variadas complicaciones multiorgánicas, con un incremento indudable en la morbilidad y mortalidad en los últimos años, independientemente de las circunstancias sociales, culturales y económicas de los países [66]​
+
+
+== Patogenia ==
+El proceso de patogenia de la Diabetes incluye los factores que contribuyen no solo a la aparición, sino también a su progresión y mantenimiento.
+
+Todas las células del organismo metabolizan la glucosa para convertirla en energía útil; el organismo necesita recibir glucosa (a través de los alimentos mediante la digestión) y absorberla para que circule en la sangre. Que la glucosa finalmente pase al interior de las células y pueda ser utilizada, solo ocurre bajo los efectos únicos de la insulina, la hormona secretada por las células beta del páncreas endócrino . 
+En la diabetes mellitus (DM) las células beta del páncreas no producen o producen muy poca insulina (DM Tipo I), o las células del cuerpo no responden normalmente a la insulina que se produce (DM Tipo II). 
+Esta falta evita o dificulta la entrada de glucosa en la célula, aumentando sus niveles en la sangre (hiperglucemia).
+La hiperglucemia crónica que se produce en la diabetes mellitus, tiene un efecto tóxico que deteriora los diferentes órganos y sistemas y puede llevar al coma y la muerte.
+La diabetes mellitus es un trastorno endocrino-metabólico crónico, que afecta la función de todos los órganos y sistemas del cuerpo, el metabolismo, los vasos sanguíneos (arterias, venas y capilares) y la circulación de la sangre, el corazón, los riñones, y el sistema nervioso (cerebro, retina, sensibilidad cutánea y profunda, etc.).
+La diabetes mellitus puede ocasionar complicaciones microvasculares (enfermedad de los vasos sanguíneos finos del cuerpo, incluyendo vasos capilares) y cardiovasculares (relativo al corazón y los vasos sanguíneos) que incrementan sustancialmente los daños en otros órganos (riñones, ojos, corazón, nervios periféricos) reduce la calidad de vida de las personas e incrementa la mortalidad asociada con la enfermedad.
+
+
+== Cuadro clínico ==
+
+
+=== En humanos ===
+
+En el caso de que todavía no se haya diagnosticado la DM ni comenzado su tratamiento, o que no esté bien tratada, se pueden encontrar los siguientes signos (derivados de un exceso de glucosa en sangre, ya sea de forma puntual o continua).
+Signos y síntomas más frecuentes:
+
+Poliuria, polidipsia y polifagia.
+Pérdida de peso a pesar de la polifagia. Se debe a que la glucosa no puede almacenarse en los tejidos debido a que éstos no reciben la señal de la insulina.
+Fatiga o cansancio.
+Cambios en la agudeza visual.
+Signos y síntomas menos frecuentes:
+
+Vaginitis en mujeres, balanitis en hombres.
+Aparición de glucosa en la orina u orina con sabor dulce.
+Ausencia de la menstruación en mujeres.
+Aparición de impotencia en los hombres.
+Dolor abdominal.
+Hormigueo o adormecimiento de manos y pies, piel seca, úlceras o heridas que cicatrizan lentamente.
+Debilidad.
+Irritabilidad.
+Cambios de ánimo.
+Náuseas y vómitos.
+Mal aliento.
+
+
+=== En animales ===
+En animales algunos síntomas son similares a los humanos, pero se diferencian en algunos aspectos:
+Signos y síntomas más frecuentes:
+
+Poliuria, polidipsia y polifagia.
+Adelgazamiento y cansancio.
+Signos y síntomas menos frecuentes:
+
+Debilidad.
+Cetonuria.
+Cataratas (muy frecuente en perros, poco frecuente en gatos).
+Neuropatía diabética. Más frecuente en el gato que en el perro.
+Deshidratación.
+Taquipnea.
+Vómitos.
+Olor a acetona.
+Debilidad muscular.
+Hipotermia.
+Coma.
+
+
+== Complicaciones ==
+Retinopatía diabética.
+Neuropatía diabética.
+Nefropatía diabética.
+Angiopatía diabética.
+Mastopatía diabética.
+Pie diabético.
+
+
+== Diagnóstico ==
+Se basa en la medición única o continua (hasta dos veces) de la concentración de glucosa en plasma (glucemia). La Organización Mundial de la Salud (OMS) estableció los siguientes criterios en 1999 para establecer con precisión el diagnóstico:[7]​
+
+Síntomas clásicos de la enfermedad (poliuria, polidipsia, polifagia y pérdida de peso) más una toma sanguínea casual o al azar con cifras mayores o iguales de 200 mg/dL (11,1 mmol/L).
+Medición de glucosa en plasma (glucemia) en ayunas mayor o igual a 126 mg/dL (7,0 mmol/L). «Ayuno» se define como no haber ingerido alimentos en al menos 8 horas.
+La prueba de tolerancia a la glucosa oral (curva de tolerancia a la glucosa). La medición en plasma se hace dos horas posteriores a la ingesta de 75g de glucosa en 375 ml de agua; la prueba es positiva con cifras mayores o iguales a 200 mg/dL (11,1 mmol/L).
+Hemoglobina Glucosilada HbA1c con cifras mayores o iguales a 6,5 % —equivalente a que hubo niveles entre 120-150 mg/dL en los últimos 120 días—.
+
+
+=== Detección ===
+
+Instrumentos para la detección integrada.
+En el mundo existen varias encuestas de factores de riesgo validados, con objetivos específicos como la búsqueda de casos de diabetes, estados preclínicos, riesgo cardiovascular, de infarto, adicciones, pero muy pocas de ellas integran otras enfermedades en un solo instrumento. En México, se cuenta con varios instrumentos validados de acuerdo con la normativa de ese país. Dichas encuestas son, además, valiosas herramientas para el personal de salud y de educación para la salud, ya que forman parte de un sistema de información y evaluación para las autoridades sanitarias del país.
+
+El cuestionario de “Detección Integrada” para factores de riesgo, es un instrumento de auto-aplicación o para ser utilizado por el personal de salud en estudios poblacionales, validado por las autoridades sanitarias de México. Dicho cuestionario en su anverso se lee “Cuestionario de Factores de Riesgo” y en su reverso “¿Tiene hipertensión arterial y no lo sabe?”.
+Glucemia Capilar, tira reactiva leída por glucómetro (determinación por carga de electrones).
+Para una adecuada toma de la presión arterial se recomienda utilizar un esfigmomanómetro de columna de mercurio. En caso de que esto no sea posible, se puede utilizar un esfigmomanómetro aneroide recientemente calibrado o un equipo electrónico validado.
+Para tomar peso/talla se requiere una báscula con estadímetro integrado.
+El registro de la circunferencia de la cintura requiere de uso de una cinta métrica.
+La detección integrada se realiza en 2 etapas, en primer lugar se aplicará el cuestionario de “Detección Integrada”, y posteriormente se realizará la toma de glucemia capilar a las personas que obtengan una calificación mayor de 10 puntos.
+Si la detención es positiva para cualquiera de estos factores, el personal de salud que la realiza, recogerá el cuestionario anexándolo al expediente clínico; asimismo, se encargará de hacer el correspondiente seguimiento, hasta que el caso sea o no confirmado.
+Si la glucemia es en ayuno, menor de 100 mg/dL o, de manera casual menor de 140 mg/dL, se considerara negativa, pero con factores de riesgo, por lo que se informará a los encuestados que, aun cuando no padezcan la enfermedad, pueden desarrollarla. Los individuos que manifiesten una glucemia capilar en ayuno mayor que 100 mg/dL o de tipo casual mayor que 140 mg/dL serán considerados, para fines de la detección, como casos probables de alteración de la glucosa o diabetes; se procederá al estudio clínico y de laboratorio para confirmar o descartar el diagnóstico de intolerancia a la glucosa o diabetes.
+
+
+=== Seguimiento ===
+Además de un estudio médico adecuado, existen exámenes de laboratorio para monitorizar los órganos afectados en la diabetes mellitus (mediante control del nivel de glucosa, función renal, dislipidemia, etc.):
+
+Pruebas de laboratorio de rutina de seguimiento y para monitorizar complicaciones en órganos blanco:
+- Determinación de micro albuminuria en orina de 24 horas.
+- Hemoglobina glucosilada.
+- Determinación de colesterol y triglicéridos en sangre.
+- Creatininemia, uremia, electrolitos plasmáticos.
+- En el caso de la diabetes tipo 1, debido a la elevada asociación, despistaje anualmente de enfermedad autoinmune asociada, incluyendo anticuerpos de enfermedad celíaca (anticuerpos antigliadina y anticuerpos antiendomisio y/o antitransglutaminasa) y de tiroiditis autoinmune (anticuerpos antiperoxidasa).[67]​
+Revisiones por especialistas que también ayudan a evitar complicaciones:
+- Revisión anual por oftalmología, preferentemente revisión del fondo de ojo con pupila dilatada.
+- Revisión del plan de alimentación por experto en nutrición.
+- Revisión por podología por onicomicosis, tiña, uñas encarnadas (onicocriptosis).
+Hemoglobina glucosilada
+Este examen ofrece un resultado muy valioso en cuanto al control del paciente con diabetes. Su principio básico es el siguiente: la hemoglobina es una proteína que se encuentra dentro de los glóbulos rojos de la sangre y de lo que se ocupa es del transporte de oxígeno, el cual lo toma a nivel pulmonar, y por esta vía la lleva al resto del cuerpo pulmones hacia todas las células del organismo. Pero esta afinidad no es precisamente nada más con el oxígeno. La glucosa se une también a ella sin la acción de insulina.
+La misma fisiopatología de la diabetes nos indica que la glucosa se encontrará en niveles muy elevados en sangre, por la deficiencia de insulina o por la incapacidad de esta para poderla llevar a las células (resistencia a la insulina). Esa glucosa en exceso entra a los glóbulos rojos y se une con moléculas de hemoglobina, glucosilándola. En sentido de proporción, a mayor glucosa, mayor hemoglobina glucosilada o glicosilada. Aunque la hemoglobina glucosilada tiene varias fracciones (HbA1a, HbA1b, y HbA1c), la más estable (la que tiene una unión con la glucosa más específica) es la fracción HbA1c.
+El tiempo de vida de los glóbulos rojos es aproximadamente de 120 días. Esta medición expresa el nivel de azúcar en promedio de 2 a 3 meses atrás, por lo que es un parámetro aceptable para seguir el control de un paciente. Por este motivo se recomienda solicitar dicho examen tres o cuatro veces al año. Esto es sumamente útil en el control de los pacientes, debido a que usualmente estos mejoran su dieta en los días previos al control de la glicemia, falseando los resultados. El valor de la hemoglobina glucosilada es una herramienta eficaz para ver el control metabólico en los últimos meses.
+
+Conversión de las unidades de glucemia
+Las unidades de los resultados de exámenes de glucosa en la sangre pueden presentarse en mmol/L o en mg/dL, dependiendo del laboratorio donde se ejecuten.
+Las fórmulas para la conversión de las unidades de glucemia son:
+
+de mmol/L a mg/dL: Y (en mg/dL) = 17,5*X (en mmol/L) + 3,75
+de mg/dL a mmol/L: X (en mmol/L) = [ Y (en mg/dL) - 3,75] / 17,5
+
+
+== Tratamiento ==
+
+Tanto en la diabetes tipo 1 como en la tipo 2, y en la gestacional, el objetivo del tratamiento es restaurar los niveles glucémicos normales. En la diabetes tipo 1 y en la diabetes gestacional se aplica un tratamiento sustitutivo de insulina o análogos de la insulina. En la diabetes tipo 2 puede aplicarse un tratamiento sustitutivo de insulina o análogos, o bien, un tratamiento con antidiabéticos orales.
+El tratamiento también puede aplicarse a la prediabetes.
+Para determinar si el tratamiento está dando resultados adecuados se realiza una prueba llamada hemoglobina glucosilada (HbA1c o A1c). Una persona No-diabética tiene una HbA1c < 6 %. El tratamiento debería acercar los resultados de la A1c lo máximo posible a estos valores en la DM-1.
+Un amplio estudio denominado DDCT demostró que buenos resultados en la A1c durante años reducen o incluso eliminan la aparición de complicaciones tradicionalmente asociadas a la diabetes: insuficiencia renal crónica, retinopatía diabética, neuropatía periférica, etc.
+Para conseguir un buen control de la diabetes mellitus, en todos sus tipos, es imprescindible la educación terapéutica en diabetes que impartida por profesionales sanitarios (médicos, nutricionistas, enfermeras o farmacéuticos) persigue el adiestramiento de la persona con diabetes y de las personas cercanas a ella, para conseguir un buen control de su enfermedad, modificando los hábitos que fuesen necesarios, para el buen seguimiento del tratamiento (dieta + ejercicio físico + tratamiento medicamentoso —si precisa—).
+
+
+=== Intervenciones en el estilo de vida ===
+Los principales factores ambientales que incrementan el riesgo de diabetes tipo 2 son la ingesta excesiva de alimentos y una forma de vida sedentaria, con el consiguiente sobrepeso y obesidad.
+Una pérdida de peso mínima, incluso de 4 kg, con frecuencia mejora la hiperglucemia. En la prevención de la enfermedad, una pérdida similar reduce hasta en un 60 % el riesgo.
+Un tratamiento completo de la diabetes debe incluir no solo una dieta especial para el tratamiento de la patología y ejercicio físico moderado y habitual, sino también un control médico constante. Asimismo conviene eliminar otros factores de riesgo cuando aparecen al mismo tiempo, como la hipercolesterolemia.
+Efectuando estos cambios de estilo de vida, gozará de beneficios para su salud, como por ejemplo:
+
+Bajar el nivel de glucosa en la sangre y la presión arterial.
+Bajar el nivel de colesterol LdL (colesterol malo) y aumentar el nivel de colesterol HdL (colesterol bueno)
+Mejorar la capacidad del cuerpo para usar la insulina.
+Mantener las articulaciones flexibles y con esto reducir el riesgo de caídas.
+Ayuda a bajar de peso y así se reduce la cantidad de grasa corporal.
+Se aumenta la energía y se reducen los niveles de estrés.
+
+
+==== Dieta ====
+Mantener una dieta especial es una de las mejores maneras que se puede tratar la diabetes. Ya que no hay ningún tratamiento que cure la diabetes, en cuanto la persona es diagnosticada de diabética debe empezar a mantener una dieta adecuada. Se debe cuidar la cantidad de gramos de carbohidratos que come durante el día, adaptándola a las necesidades de su organismo y evitando los alimentos con índice glucémico alto. Lo que significa es que el diabético no debe hacer muchas comidas con contenido de harina blanca; elegir panes y pastas hechas de harina integral ayudará a la persona a controlar mejor la insulina que el cuerpo produce.
+En el mercado hay productos hechos para los diabéticos, denominados “sin azúcar”. Estos productos tienen contenidos de azúcar artificial que no tiene calorías, pero le da el sabor dulce a la comida. Se debe, no obstante, tener mucho cuidado con estos productos, ya que “sin azúcar” (o sin carbohidratos con índice glucémico alto), no es lo mismo que “sin carbohidratos”. Unas galletas en las que figure “sin azúcar” pueden contener muy pocos hidratos de carbono con índice glucémico alto, pero sí muchos hidratos de carbono (procedentes del cereal de las galletas) que es necesario controlar.
+Una alimentación equilibrada consiste de 50 a 60 % de carbohidratos, 10 a 15 % de proteínas y 20 a 30 % de grasas. Esto es válido para todas las personas, y es también la composición alimenticia recomendable para los diabéticos del tipo 2.
+Una “dieta reductiva común” consiste de la alimentación con una menor cantidad de calorías. La cantidad de calorías debe establecerse para cada individuo. Ha dado buenos resultados que se fijen consumos calóricos totales semanales y no se esclavice a límites calóricos diarios. También ha dado buenos resultados la conducción de un registro diario de alimentación para mantener el control.
+La “nutrición balanceada” es un elemento indispensable para el tratamiento de la diabetes mellitus. Un buen régimen alimentario se caracteriza por ser individual. Para ello se debe tener en cuenta la edad, el sexo, el peso, la estatura, el grado de actividad física, clima en que habita, el momento biológico que se vive (por ejemplo una mujer en embarazo, un recién nacido, un niño en crecimiento, un adulto o un anciano), así como también la presencia de alteraciones en el nivel de colesterol, triglicéridos o hipertensión arterial.
+
+Alimentos muy convenientes
+Son los que contienen mucha agua y pueden comerse libremente. Se encuentran en la acelga, apio, alcachofa, berenjena, berros, brócoli, calabaza, calabacín, cebolla cabezona, pepino cohombro, coliflor, espárragos, espinacas, habichuela, lechuga, pepinos, pimentón, rábanos, repollo, palmitos y tomate.
+
+Alimentos convenientes
+Son los alimentos que pueden ser consumidos por la persona diabética sin exceder la cantidad recomendada por el nutricionista. En estos se encuentran las harinas: Arroz, pastas, papa, yuca (mandioca), mazorca, plátano, avena, cebada, fríjol, lenteja, garbanzo, soya, arvejas, habas, panes integrales y galletas integrales o de soja.
+En las frutas son convenientes las curubas, fresas, guayabas, mandarina, papaya, patilla, melón, piña, pitaya, pera, manzana, granadilla, mango, maracuyá, moras, naranja, durazno, zapote, uchuvas, uvas, banano, tomate de árbol, mamey y chirimoya.
+En cuanto a los lácteos son convenientes la leche descremada, cuajada, kumis y yogur dietético.
+También son saludables las grasas de origen vegetal como el aceite de canola, de maíz, la soya, el aceite de girasol, sésamo y de oliva. Las verduras como zanahoria, auyama, etc.
+
+Alimentos inconvenientes
+Carbohidratos simples como el azúcar, la panela, miel, melazas, chocolates, postres endulzados con azúcar, helados, bocadillos, mermeladas, dulces en general y gaseosas corrientes. También son inconvenientes las grasas de origen animal como las carnes grasas, embutidos, mantequilla, crema de leche, mayonesas, manteca, tocino de piel de pollo y quesos doble crema.
+
+Distribución horaria de las comidas
+Hay que comer cada 3 a 4 horas (alimentación fraccionada) ya que de esta manera se evita una hipoglucemia o baja en nivel de glucosa en la sangre.
+El alimento se ajusta a la acción de los medicamentos para el tratamiento de la diabetes, sean estos hipoglicemiantes orales como son las tabletas o la acción de la insulina inyectada.
+Ejemplo de dieta de la "Sociedad Española para el Corazón" y "Fundación para el Corazón": PDF [1]
+
+
+==== Ejercicio físico ====
+El ejercicio es otro factor muy importante en el tratamiento de la diabetes, ya que la persona debe bajar de peso y la actividad física es necesaria en este procedimiento. El ejercicio también afecta los niveles de insulina que produce el cuerpo y sensibiliza los tejidos a la insulina. La recomendación para personas con diabetes tipo 2, es por lo menos 150 minutos de ejercicio aeróbico moderado a vigoroso en una semana con 3 días mínimo de ejercicio, y con no más de 2 días consecutivos sin hacer ejercicio. Además, entrenamiento de fuerza es necesario.[68]​
+
+
+==== Automonitoreo de los pies ====
+Es muy importante que los pacientes con diabetes revisen sus pies a diario para identificar heridas, callos y úlceras. Prácticas más exhaustivas incluyen aplicar lubricantes en los pies, limar los callos, y cortarse las uñas.[69]​
+
+
+=== Medicamentos ===
+Biguanidas. Como la metformina. Su principal rol es el de disminuir la gluconeogénesis hepática y no el de insulinosensibilizador, como se cree popularmente. Es el fármaco oral controlador de la glicemia por excelencia, y el que debería utilizar todo paciente DM2 idealmente, salvo que exista alguna contraindicación.
+Sulfonilureas. Como la clorpropamida y glibenclamida. Reducen la glucemia intensificando la secreción de insulina. En ocasiones se utilizan en combinación con metformina.
+Meglitinidas. Como la repaglinida y nateglinida. Estimulan la secreción de insulina.
+Inhibidores de α-glucosidasa. Como la acarbosa. Reducen el índice de digestión de los polisacáridos en el intestino delgado proximal, disminuyendo principalmente los niveles de glucosa posprandial.
+Tiazolidinediona. Como la pioglitazona. Incrementan la sensibilidad del músculo, la grasa y el hígado a la insulina.
+Insulina. Es el medicamento más efectivo para reducir la glucemia aunque presenta hipoglucemia como complicación frecuente.
+Agonistas del péptido similar al glucagón tipo 1 (GLP-1). Como la exenatida. El GLP-1 es un péptido de origen natural producido por las células L del intestino delgado, potencia la secreción de insulina estimulada por la glucosa.
+Agonistas de amilina. Como la pramlintida. Retarda el vaciamiento gástrico, inhibe la producción de glucagón de una manera dependiente de la glucosa.
+Inhibidores de la Di-Peptidil-Peptidasa-IV. Como la sitagliptina. Intensifican los efectos de GLP-1.
+Inhibidores del cotransportador Sodio-Glucosa Tipo2 (iSGLT2). Como la canagliflozina. Inhiben el cotransportador SGLT2 ubicado a nivel renal en el túbulo contorneado proximal, encargados de la reabsorción de glucosa. Mediante esta inhibición se reduce la reabsorción de glucosa a nivel renal, generando glucosuria. Los iSGLT2 eliminan desde 70 g/día hasta 119 g/día de glucosa. Adicional a la mejora en el control glucémico estos fármacos inducen pérdida de peso y reducción de la presión arterial.
+
+
+== Pronóstico ==
+
+Independiente del tipo de diabetes mellitus, un mal nivel de glucemia (concentración de glucosa en la sangre) conduce a sufrir enfermedades agudas y enfermedades crónicas.
+
+
+=== Complicaciones agudas ===
+Estados hiperosmolares: llamados de manera coloquial «coma diabético», comprenden dos entidades clínicas definidas: la cetoacidosis diabética (CAD) y el coma hiperosmolar no cetósico (CHNS).
+Ambos tiene en común —como su nombre lo dice—, la elevación patológica de la osmolaridad sérica. Esto es resultado de niveles de glucosa sanguínea por encima de 250 mg/dL, llegando a registrarse, en casos extremos más de 1.000 mg/dL. La elevada osmolaridad sanguínea provoca diuresis osmótica y deshidratación, la cual pone en peligro la vida del paciente.
+La cetoacidosis diabética (CAD) y el estado hiperglucémico hiperosmolar (EHH) son las complicaciones metabólicas agudas y más graves de la diabetes mellitus. La incidencia anual en Estados Unidos es de 4 a 6 personas por cada 1000 diagnosticadas con DM que presentan episodios de cetoacidosis y solo el 1 % con EHH. Sin embargo, la mortalidad es menor en CAD 5 % y Aproximadamente el 11 % para EHH.
+La cetoacidosis suele evolucionar rápidamente, se presenta en pacientes con DM tipo 1 y presenta acidosis metabólica; en cambio el coma hiperosmolar evoluciona en cuestión de días, se presenta en ancianos con DM tipo 2 y no presenta cetosis. Tienen en común su gravedad, la presencia de deshidratación severa y alteraciones electrolíticas, el riesgo de coma, convulsiones, insuficiencia renal aguda, choque hipovolémico, falla orgánica múltiple y muerte.
+Fisopatologia
+El mecanismo fisiopatológico básico en ambas es la reducción de la insulina asociada a la elevación de hormonas contrarreguladoras (glucagón, catecolaminas, cortisol y hormona de crecimiento). Estas alteraciones hormonales incrementan la gluconeogénesis e hiperosmolaridad en el espacio extra celular. Estas alteraciones favorecen la lipólisis e incrementan la formación de cuerpos cetónicos.
+Diagnóstico
+Las manifestaciones clínicas de pacientes con CAD incluyen poliuria, polidipsia, vómito, dolor abdominal y alteraciones del estado mental, los hallazgos bioquímicos son característicos la cetoacidosis sérica y urinaria y acidosis metabólica.
+En el EHH se caracteriza por la cambios del estado mental y signos clínicos de deshidratación, hiperglucemia mayores de 600 mg/dL.
+Tratamiento
+Al igual que otras enfermedades, la valoración inicial deberá incluir la evaluación general de ventilación, estado circulatorio y permeabilidad de la vía área. Después corregir el trastorno hiperglucémico con insulina en infusión, una apropiada hidratación y corregir los trastornos electrolíticos que se desencadenen.
+Complicaciones
+Las complicaciones más comunes de la CAD Y EHH incluyen la hipoglucemia, y la hipocalcemia por el uso agresivo de la insulina.
+El edema cerebral es una complicación rara, pero fatal observándose principalmente en niños.
+Otra complicación es el edema agudo de pulmón secundario al exceso de líquidos. Por lo que la motorización intensiva termodinámica es imprescindible.
+Los factores que los desencadenan suelen ser: errores, omisiones o ausencia de tratamiento, infecciones agregadas —urinarias, respiratorias, gastrointestinales—, cambios en hábitos alimenticios o de actividad física, cirugías o traumatismos, entre otros.
+
+Hipoglucemia: Disminución del nivel de glucosa en sangre por debajo de los 50 mg/dL. Puede ser consecuencia de ejercicio físico no habitual o sobreesfuerzo, sobredosis de insulina, cambio en el lugar habitual de inyección, ingesta insuficiente de hidratos de carbono, diarreas o vómitos, etc.
+
+
+=== Complicaciones crónicas ===
+Daño de los pequeños vasos sanguíneos (microangiopatía).
+Daño de los nervios periféricos (polineuropatía).
+Pie diabético: heridas difícilmente curables y la mala irrigación sanguínea de los pies, puede conducir a laceraciones y en ocasiones a la amputación de las extremidades inferiores.
+Daño de la retina (retinopatía diabética).
+Daño renal Desde la nefropatía incipiente hasta la Insuficiencia renal crónica terminal.
+Hígado graso o Hepatitis de Hígado graso (esteatosis hepática).
+Daño de los vasos sanguíneos grandes (macroangiopatía): trastorno de las grandes Arterias. Esta enfermedad conduce a infartos, apoplejías y trastornos de la circulación sanguínea en las piernas. En presencia simultánea de polineuropatía y a pesar de la circulación sanguínea crítica pueden no sentirse dolores.
+Daño cerebrovascular: causados por una inflamación en la sangre lo que provoca un coágulo sanguíneo, esto obstruye una arteria y puede provocar necrosis en la zona afectada del cerebro.
+Cardiopatía: Debido a que el elevado nivel de glucosa ataca el corazón ocasionando daños y enfermedades coronarias.
+Coma diabético: Sus primeras causas son la diabetes avanzada, hiperglucemia y el sobrepeso.
+Dermopatía diabética: o daños a la piel.
+Hipertensión arterial: Debido a la cardiopatía y problemas coronarios, consta que la hipertensión arterial y la diabetes son enfermedades “hermanadas”.
+Enfermedad periodontal: Uno de los mecanismos para explicar la relación entre diabetes mellitus y periodontitis sugiere que la presencia de enfermedad periodontal puede perpetuar un estado de inflamación crónica a nivel sistémico, que se hace patente por el incremento de proteína C reactiva, IL-6, y altos niveles de fibrinógeno. La infección periodontal puede elevar el estado de inflamación sistémica y exacerbar la resistencia a la insulina. El nivel elevado de IL-6 y TNF-α es similar a la obesidad cuando induce o exacerba resistencia a la insulina. La lesión periodontal es capaz de producir alteraciones en la señalización de insulina y sensibilidad a la insulina, probablemente debido a la elevación de TNF-α en la concentración plasmática.
+La retinopatía diabética es una complicación ocular de la diabetes, causada por el deterioro de los vasos sanguíneos que irrigan la retina del fondo del ojo. El daño de los vasos sanguíneos de la retina puede tener como resultado que estos sufran una fuga de fluido o sangre. Cuando la sangre o líquido que sale de los vasos lesiona o forma tejidos fibrosos en la retina, la imagen enviada al cerebro se hace borrosa.
+La neuropatía diabética es consecuencia de la lesión microvascular diabética que involucra los vasos sanguíneos menores que suministra los nervios de los vasos. Los estados relativamente comunes que se pueden asociar a neuropatía diabética incluyen tercera parálisis del nervio; mononeuropatía; mononeuropatía múltiple; amiotrofia diabética; polineuropatía dolor; neuropatía autonómica; y neuropatía toracoabdominal.
+La angiopatía diabética es una enfermedad de los vasos sanguíneos relacionada con el curso crónico de la diabetes mellitus, la principal causa de insuficiencia renal a nivel mundial. La angiopatía diabética se caracteriza por una proliferación del endotelio, acúmulo de glicoproteínas en la capa íntima y espesor de la membrana basal de los capilares y pequeños vasos sanguíneos.
+Ese espesamiento causa tal reducción de flujo sanguíneo, especialmente a las extremidades del individuo, que aparece gangrena que requiere amputación, por lo general de los dedos del pie o el pie mismo. Ocasionalmente se requiere la amputación del miembro entero. La angiopatía diabética es la principal causa de ceguera entre adultos no ancianos en los Estados Unidos. En Cuba, la tasa de angiopatías periféricas en la población diabética alcanzan los 19,5 por cada 100 mil habitantes.
+
+El pie diabético tiene una “base etiopatogénica neuropática”, porque la causa primaria está en el daño progresivo que la diabetes produce sobre los nervios, lo que se conoce como “Neuropatía”. Los nervios están encargados de informar sobre los diferentes estímulos (nervios sensitivos) y de controlar a los músculos (nervios efectores). En los diabéticos, la afectación de los nervios hace que se pierda la sensibilidad, especialmente la sensibilidad dolorosa y térmica, y que los músculos se atrofien, favoreciendo la aparición de deformidades en el pie, ya que los músculos se insertan en los huesos, los movilizan y dan estabilidad a la estructura ósea.
+El hecho de que una persona pierda la sensibilidad en el pie implica que si se produce una herida, un roce excesivo, una hiperpresión de un punto determinado o una exposición excesiva a fuentes de calor o frío no se sientan. El dolor es un mecanismo defensivo del organismo que incita a tomar medidas que protejan de factores agresivos. Los diabéticos pueden sufrir heridas y no darse cuenta. Además, la pérdida de control muscular favorece la aparición de deformidades y éstas pueden, al mismo tiempo, favorecer roces, cambios en la distribución de los apoyos del pie durante la marcha y, en definitiva, predisponer a determinados puntos del pie a agresiones que, de no ser atajadas a tiempo, pueden originar gangrena y por tanto ser necesario la amputación.
+
+
+=== Trastornos alimenticios relacionados ===
+Recientemente se ha presentado un nuevo fenómeno conocido como diabulimia. En la diabulimia, al igual que en la bulimia y anorexia, el paciente realiza actividades contraproducentes para su salud con la finalidad de perder peso. En este caso la persona con diabulimia suele omitir o reducir las dosis de insulina para adelgazar.[70]​ La diabulimia tiene una mayor incidencia, al igual que otros trastornos alimentarios, en adolescentes.
+
+
+== Bibliografía ==
+World Health Organization, Department of Noncommunicable Disease Surveillance. Definition, Diagnosis and Classification of Diabetes Mellitus and its Complications. Geneva: WHO; 1999.
+Löe H. Periodontal Disease, The sixth complication of diabetes mellitus. Diabetes Care. 1993; 16(Suppl 1).
+Zerón Agustín. La enfermedad periodontal y la Diabetes, Conceptos actuales. Rev Diabetes Hoy, Para el Médico. 1998; 15:80-3.
+Correlación entre el resultado de hemoglobina glucosilada y la glucemia de 3 a 4 meses. Practice Recommendations.
+Diabetes, libro de D Figuerola
+
+
+== Véase también ==
+Hipoglucemia reactiva
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una galería multimedia sobre Diabetes mellitus.
+En MedlinePlus hay más información sobre Diabetes mellitus

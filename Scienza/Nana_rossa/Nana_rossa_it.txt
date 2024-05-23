@@ -1,0 +1,78 @@
+In astronomia, una nana rossa (o stella M V) è una stella piccola e relativamente fredda (Teff ≤ 3500 K), di tipo spettrale M (colorazione fotosferica in media gialla intensa-arancione), posta sulla sequenza principale del diagramma Hertzsprung-Russell.
+Si tratta della tipologia stellare più diffusa nell'universo: le nane rosse costituiscono infatti almeno il 67,5% di tutte le stelle presenti nella Via Lattea e recenti studi indicano che possano essere anche l'80%.  Hanno masse comprese tra 0,4 e 0,08 masse solari, che costituisce il limite minimo perché una stella possa dirsi tale: al di sotto di questo limite infatti non si creano le condizioni di temperatura e pressione tali da innescare le reazioni di fusione dell'idrogeno in elio. Al di sotto di questa massa limite si trovano le nane brune, oggetti che possiedono una massa troppo piccola per compiere la fusione nucleare, ma comunque nettamente superiore a quella di un pianeta.
+
+
+== Caratteristiche ==
+
+Si ritiene che le nane rosse, data la loro abbondanza nella nostra galassia (o per lo meno nelle vicinanze del Sole), siano la tipologia stellare più diffusa nell'universo. Proxima Centauri, la stella più vicina al sistema solare, è una nana rossa (classe M5, magnitudine apparente 11,05), così come venti delle trenta stelle più vicine alla Terra. Tuttavia, a causa della loro bassa luminosità, le singole nane rosse non sono facilmente osservabili, tanto da risultare completamente invisibili ad occhio nudo. Anche nelle vicinanze del Sole, non tutte le nane rosse sono state finora scoperte.
+Le nane rosse sono stelle con massa piccola, generalmente non superiore al 40% della massa della nostra stella, il Sole. Di conseguenza, possiedono delle temperature nucleari relativamente basse, appena sufficienti perché abbia luogo la fusione dell'idrogeno in elio tramite la catena protone-protone. Per questo motivo le nane rosse emettono una debole quantità di luce, spesso inferiore a un decimillesimo della quantità di radiazione emessa dal Sole; anche le nane rosse più grandi arrivano a possedere al massimo il 10% della luminosità solare.
+In generale, le nane rosse trasportano l'energia prodotta nel nucleo verso la superficie tramite moti convettivi. La convezione risulta infatti avvantaggiata rispetto ad altri metodi di trasporto energetico (come la conduzione o l'irraggiamento) a causa dell'opacità degli strati interni dell'astro, che possiedono una densità relativamente alta per quella temperatura.
+
+Poiché dunque le nane rosse sono completamente convettive, l'elio non si accumula immediatamente in un nucleo inerte e quindi, rispetto ad altre stelle più massicce, come proprio il Sole, arrivano a fondere una quantità di idrogeno proporzionalmente maggiore prima di lasciare la sequenza principale. Di conseguenza, la durata del ciclo vitale di una nana rossa sarebbe di gran lunga superiore all'età dell'Universo; pertanto, le stelle con masse inferiori a 0,8 M☉ non hanno ancora avuto il tempo di lasciare la sequenza principale. Infatti, quanto più piccola è la massa della nana rossa, tanto più lunga sarà la durata del suo ciclo vitale. Si ritiene che la durata dell'evoluzione di una nana rossa sia superiore a quella del Sole di un fattore pari alla terza o alla quarta potenza del rapporto tra la massa del Sole e la massa della nana rossa; sicché, la sequenza principale di una nana rossa di 0,1 M☉ può durare per 10 bilioni (1013, 10 000 miliardi) di anni. Man mano che diminuisce la quantità di idrogeno all'interno della stella, la velocità delle reazioni nucleari rallenta progressivamente mentre il nucleo inizia a contrarsi. L'energia gravitazionale generata da questa contrazione è convertita in energia termica, la quale viene portata in superficie dalla convezione.
+
+Il fatto che le nane rosse e le altre stelle di piccola o media massa (come le nane arancioni o le nane gialle) rimangano nella sequenza principale mentre le stelle più massicce proseguano la propria evoluzione nel ramo delle giganti consente di stimare l'età degli ammassi stellari determinando preliminarmente la massa delle singole stelle. Tali stime consentono di datare anche alcune strutture della Galassia, come l'alone o il piano galattico.
+Un mistero che non è ancora stato risolto riguarda l'assenza delle nane rosse povere di metalli (gli elementi più pesanti di idrogeno ed elio). I modelli fisico-matematici sviluppati sull'evoluzione cosmica suggeriscono che la prima generazione di stelle fosse costituita solamente da idrogeno, elio e tracce di litio (elementi prodotti nella nucleosintesi primordiale). Se tra queste stelle primitive vi fossero state le nane rosse, esse sarebbero ancor'oggi osservabili; tuttavia, nessuna di esse è ancora stata identificata. Una possibile spiegazione a tale mancanza è che in tali condizioni di abbondanza di elementi potessero svilupparsi solo stelle molto massicce, le cosiddette stelle di popolazione III, che bruciarono molto velocemente le proprie riserve di idrogeno rilasciando, dopo la loro fine, gli elementi pesanti che permisero la formazione delle prime nane. Delle spiegazioni alternative, come quella che vorrebbe le nane rosse povere in metalli molto più deboli e rare dal punto di vista numerico, sono ritenute molto meno verosimili, in quanto sembrano andare contro i modelli dell'evoluzione stellare.
+
+
+== Evoluzione post-sequenza principale ==
+
+Finché la fusione, all'interno della nana rossa, procede lentamente ed i moti convettivi rimescolano la materia all'interno dell'astro, la stella permane nella sequenza principale.
+Le stelle aumentano di luminosità man mano che invecchiano, e una stella più luminosa necessita di irradiare la propria energia più velocemente ed intensamente per mantenere l'equilibrio. Per fare questo le stelle più grandi rispetto alle nane rosse espandono il proprio volume e la propria superficie radiante evolvendo in giganti rosse. Si ritiene però che le nane rosse, anziché espandersi in giganti, incrementino la velocità delle reazioni nucleari con il conseguente aumento delle proprie temperature superficiali, assumendo di conseguenza una colorazione più tendente al blu. Le nane blu evolverebbero poi in nane bianche non appena il loro idrogeno si fosse completamente esaurito.
+
+
+== Sistemi planetari ==
+
+Agli inizi del XXI secolo sono stati scoperti diversi pianeti extrasolari in orbita attorno a delle nane rosse. Nel 2005 è stato scoperto attorno alla stella Gliese 581 un pianeta di massa paragonabile a Nettuno (Gliese 581 b, circa 17 M⊕), che le orbita ad una distanza media di appena 6 milioni di km (0,04 UA); data la vicinanza e nonostante la debolezza della stella, il pianeta possiede una temperatura superficiale di 150 °C. Nel 2006 è stato scoperto un pianeta ancora meno massiccio (OGLE-2005-BLG-390Lb, solamente 5,5 M⊕) intorno alla nana OGLE-2005-BLG-390L; orbita attorno all'astro ad una distanza di circa 390 milioni di km (2,6 UA) e possiede una temperatura superficiale molto bassa, corrispondente a −220 °C (56 K).
+Nel 2007 è stato scoperto un secondo pianeta in orbita attorno a Gliese 581 potenzialmente abitabile, Gliese 581 c. Con una massa stimata dagli scopritori (un gruppo di astrofisici guidato da Stéphane Udry), corrispondente a 5,03 M⊕, a quel tempo Gliese 581 c era l'esopianeta meno massiccio in orbita attorno ad una stella di sequenza principale. Gli scopritori hanno stimato per il pianeta un raggio 1,5 volte quello del nostro pianeta.
+Il pianeta si trova all'interno della cosiddetta "zona abitabile" di Gliese 581, ovvero ad una distanza tale perché l'acqua, eventualmente presente sulla superficie del pianeta, possa presentarsi allo stato liquido.
+Dopo il lancio del telescopio spaziale Kepler e il progressivo aumento della tecnologia dei telescopi da Terra numerosi pianeti sono stati scoperti attorno a nane rosse; essendo numerose, la maggior parte di pianeti terrestri è stata scoperta attorno a questo tipo di stelle. Nel 2019 è stato scoperto Teegarden b, un pianeta con una massa solo del 5% superiore a quella terrestre che orbita attorno a una piccola nana rossa, la stella di Teegarden.
+
+
+=== Abitabilità ===
+
+L'abitabilità dei sistemi delle nane rosse è oggetto di dibattito presso gli astrofisici e gli astrobiologi. A dispetto del loro grande numero e della grande durata del loro ciclo vitale, vi sono diversi fattori che pregiudicherebbero lo sviluppo della vita in un pianeta orbitante attorno ad una nana rossa. In primis, i pianeti nella zona abitabile di una nana rossa dovrebbero essere così vicini alla stella da risentire delle interazioni mareali dell'astro, che bloccherebbero il pianeta su una rotazione sincrona; ciò significherebbe che un emisfero del pianeta sarebbe eternamente illuminato mentre l'emisfero opposto sarebbe sempre al buio. Per questo motivo potrebbero venirsi a creare delle enormi variazioni termiche tra la zona in ombra e la zona illuminata del pianeta che renderebbe difficoltosa l'evoluzione di forme di vita simili a quelle terrestri. D'altro canto, recenti teorie suggeriscono che anche una debole atmosfera o un oceano planetario potrebbero potenzialmente far circolare il calore sul pianeta. Un altro problema, sempre legato alla presenza di un'orbita sincrona, potrebbe portare il pianeta a non avere una magnetosfera utile a proteggere l'atmosfera, così come avviene sulla Terra. Nel corso di milioni di anni il seppur limitato vento solare di questo tipo di stella potrebbe asportare totalmente l'atmosfera del pianeta, rendendolo sterile e arido come è accaduto su Marte.
+
+Inoltre, le nane rosse emettono gran parte della propria radiazione alle lunghezze d'onda degli infrarossi, mentre sulla Terra i vegetali si servono principalmente delle lunghezze d'onda del visibile. L'attività magnetica della stella può inoltre avere delle ripercussioni negative sullo sviluppo della vita. Le nane rosse sono spesso coperte da vaste macchie, che arrivano a ridurre la quantità di radiazione emessa dalla fotosfera anche del 40%. Vi sono anche alcune nane rosse, dette stelle UV Ceti (dal prototipo UV Ceti), che emettono dei colossali flare, che arrivano anche a raddoppiare in un istante la luminosità della stella. Tale variabilità può allo stesso modo pregiudicare lo sviluppo della vita nelle immediate vicinanze della stella. Gibor Basri, della University of California, Berkeley, ritiene che un pianeta in orbita stretta attorno ad una nana rossa possa mantenere la propria atmosfera anche se la stella manifesta un'elevata attività di flare.
+Il 22 febbraio 2017 ha destato molto clamore la notizia della scoperta di un sistema composto da sette esopianeti di dimensioni terrestri orbitanti attorno a TRAPPIST-1, una nana rossa ultrafredda di classe spettrale M8, distante 39,5 anni luce dal sistema solare, osservabile nella costellazione dell'Aquario. La scoperta è stata effettuata tramite il metodo del transito.
+
+
+== Note ==
+
+
+== Bibliografia ==
+(EN) Martin Schwarzschild, Structure and Evolution of the Stars, Princeton University Press, 1958, ISBN 0-691-08044-5.
+(EN) Robert G. Aitken, The Binary Stars, New York, Dover Publications Inc., 1964.
+(EN) Victor G. Szebehely, Richard B. Curran, Stability of the Solar System and Its Minor Natural and Artificial Bodies, Springer, 1985, ISBN 90-277-2046-0.
+(EN) C. J. Lada, N. D. Kylafits, The Origin of Stars and Planetary Systems, Kluwer Academic Publishers, 1999, ISBN 0-7923-5909-7.
+ H. Reeves, L'evoluzione cosmica, Milano, Rizzoli–BUR, 2000, ISBN 88-17-25907-1.
+(EN) Cliff Pickover, The Stars of Heaven, Oxford, Oxford University Press, 2001, ISBN 0-19-514874-6.
+ A. De Blasi, Le stelle: nascita, evoluzione e morte, Bologna, CLUEB, 2002, ISBN 88-491-1832-5.
+ AA.VV, L'Universo - Grande enciclopedia dell'astronomia, Novara, De Agostini, 2002.
+ M. Hack, Una vita tra le stelle, 3ª ed., Roma, Di Renzo Editore, 2006, ISBN 88-8323-163-5.
+ J. Gribbin, Enciclopedia di astronomia e cosmologia, Milano, Garzanti, 2005, ISBN 88-11-50517-8.
+ W. Owen, et al, Atlante illustrato dell'Universo, Milano, Il Viaggiatore, 2006, ISBN 88-365-3679-4.
+ J. Lindstrom, Stelle, galassie e misteri cosmici, Trieste, Editoriale Scienza, 2006, ISBN 88-7307-326-3.
+ C. Abbondi, Universo in evoluzione dalla nascita alla morte delle stelle, Sandit, 2007, ISBN 88-89150-32-7.
+
+
+== Voci correlate ==
+Stella a brillamento (variabili UV Ceti)
+Nana blu (fase evolutiva)
+Stella di classe O V
+Stella di classe B V
+Stella di classe A V
+Stella di classe F V
+Nana gialla
+Nana arancione
+Nana bianca
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su nana rossa
+
+
+== Collegamenti esterni ==
+(EN) Stelle variabili, su aavso.org. URL consultato l'11 ottobre 2008 (archiviato dall'url originale il 5 marzo 2004).
+(EN) Stellar Flares, su ucm.es.
+(EN) Red Dwarfs, su jumk.de.

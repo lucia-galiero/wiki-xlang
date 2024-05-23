@@ -1,0 +1,877 @@
+Le principe de relativité affirme que les lois physiques s'expriment de manière identique dans tous les référentiels inertiels : les lois sont « invariantes par changement de référentiel inertiel ».
+
+Cela implique que pour deux expériences préparées de manière identique dans deux référentiels inertiels, les mesures faites sur l'une et l'autre dans leur référentiel respectif sont identiques : si je laisse tomber une balle, je constate la même trajectoire, que je réalise l'expérience sur le quai d'une gare ou dans un train en mouvement rectiligne uniforme.
+Cela ne signifie pas que les mesures au cours d'une expérience sont les mêmes pour les différents observateurs, chacun mesurant depuis son référentiel inertiel respectif, mais cela implique que les mesures faites par les différents observateurs vérifient les mêmes équations (un changement de référentiel pour l'observation intervenant sous la forme de la variation d'un ou plusieurs paramètres dans les équations) : si du quai d'une gare j'observe tomber une balle lâchée dans un train en mouvement, je n'observe pas la même trajectoire (une courbe) que celle observée par l'expérimentateur situé dans le train (une droite), mais ces deux trajectoires dépendent de la même équation.
+Une généralisation à la base de la relativité générale, et appelée « principe de covariance » ou « principe de relativité générale, », affirme que les lois physiques s'expriment de manière identique dans tous les référentiels (inertiels ou non). On dit alors que les lois sont « covariantes ».
+D'une théorie à l'autre (physique classique, relativité restreinte ou générale), la formulation du principe a évolué et s'accompagne d'autres hypothèses sur l'espace et le temps, sur les vitesses, etc. Certaines de ces hypothèses étaient implicites ou « évidentes » en physique classique, car conformes à toutes les expériences, et elles sont devenues explicites et plus discutées à partir du moment où la relativité restreinte a été formulée.
+
+
+== Exemples en physique classique ==
+Première situation
+Supposons que dans un train roulant à vitesse constante (sans les accélérations, petites ou grandes, perceptibles dans le cas d'un train réel), un voyageur se tient debout, immobile par rapport à ce train, et tient un objet dans la main. S'il lâche l'objet, celui-ci tombe à la verticale de la main qui le tenait (vitesse initiale par rapport au train nulle) et selon une certaine loi en fonction du temps.
+Le principe de relativité ne dit pas que le mouvement de cet objet sera le même si, après l'avoir rapporté à un référentiel lié au train, on le rapporte à un référentiel lié au sol : l'expérience montre que ce serait erroné puisque, vu du train, l'objet décrit une droite verticale, tandis que, vu du sol, il décrit une parabole.
+Vues depuis l'un ou l'autre de ces référentiels, les conditions initiales de l'expérience ne sont pas les mêmes : l'attraction gravitationnelle est identique dans les deux, mais par rapport au référentiel lié au train, la vitesse initiale de l'objet lâché est nulle, tandis que par rapport au référentiel lié au sol, elle ne l'est pas.
+Toutefois, une même loi mathématique pour chacun des deux référentiels permet de décrire cette expérience ; cette loi tient compte de la vitesse initiale par rapport au référentiel.
+
+Deuxième situation
+En revanche, si quelqu'un lâche un objet qu'il tient dans la main, les conditions générales ainsi que les conditions initiales sont identiques pour l'expérience faite au sol et celle faite dans le train. Selon le principe de relativité, l'objet doit tomber de manière identique que ce soit dans le cas où il est lâché dans le train (et l'observation faite depuis le train aussi) ou au sol (et l'observation faite depuis le sol aussi) : c'est bien ce que l'expérience confirme.
+
+Conclusion
+Dans les deux cas exposés, le principe de relativité s'applique différemment : pour l'expérience vue depuis deux référentiels différents, les observations sont différentes mais une même loi mathématique les décrit toutes les deux (où il est tenu compte de la vitesse initiale, nulle ou non) ; pour les deux expériences faites dans deux référentiels distincts, où les conditions de l'expérience sont identiques, les observations sont rigoureusement identiques (aux imprécisions de mesures près).
+
+
+== Formulations ==
+
+
+=== En mécanique classique ===
+
+
+==== Définition ====
+En mécanique classique, un référentiel galiléen (ou inertiel) est un référentiel dans lequel tout corps libre (non influencé par l'extérieur) qui est au repos y reste indéfiniment, et tout corps libre en mouvement reste à vecteur vitesse constant (et donc aussi à moment angulaire constant).
+
+
+==== Principe de relativité de Galilée ====
+Selon le principe de relativité de Galilée, toutes les lois de la mécanique sont identiques dans tous les référentiels galiléens.
+
+
+==== Hypothèses sur l'espace physique ====
+L'espace physique, supposé homogène et isotrope, est identifié à un espace affine de dimension 3 ; on utilise alors l'espace vectoriel associé, le temps (supposé indépendant du référentiel de l'observateur, de manière évidente), paramétrant les trajectoires et les états du système étudié.
+
+
+==== Propriété ====
+Soit (
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+) un référentiel galiléen : si (
+  
+    
+      
+        
+          R
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle R_{*}}
+  
+) est un référentiel se déplaçant par translation à vitesse constante V par rapport à (
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+), alors (
+  
+    
+      
+        
+          R
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle R_{*}}
+  
+) est lui aussi galiléen.
+Remarque : la réciproque de la propriété n'est pas vraie, contrairement à ce qui a semblé évident à tous jusqu'à ce qu'Albert Einstein élabore le principe d'équivalence.
+
+
+==== Commentaire ====
+Le principe a deux significations (comme expliqué au paragraphe précédent) :
+
+une même expérience vue depuis deux référentiels galiléens différents (
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+) et (
+  
+    
+      
+        
+          R
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle R_{*}}
+  
+) suit une loi qui s'exprime de la même manière quand elle est formulée dans les coordonnées de l'un ou de l'autre des référentiels ;
+une expérience faite à l'identique dans deux référentiels galiléens quelconques suit, dans chacun, la même loi et donne exactement les mêmes observations.
+
+
+==== Hypothèse pour les changements de référentiel : les transformations de Galilée ====
+Si 
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}}
+  
+ est le vecteur coordonnées d'un point dans (
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+) et 
+  
+    
+      
+        
+          
+            
+              
+                r
+                →
+              
+            
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}_{*}}
+  
+ est le vecteur coordonnées du même point dans (
+  
+    
+      
+        
+          R
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle R_{*}}
+  
+), alors on a :
+
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                r
+                →
+              
+            
+          
+          
+            ∗
+          
+        
+        +
+        t
+        .
+        
+          
+            
+              V
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}={\vec {r}}_{*}+t.{\vec {V}}}
+  
+ et 
+  
+    
+      
+         
+        t
+        =
+        
+          t
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \ t=t_{*}}
+  
+.
+Remarque : cette hypothèse a été tellement longtemps en parfait accord avec toutes les expériences qu'elle a été une évidence jusqu'à la formulation de la relativité restreinte. Par ailleurs, elle implique qu'il n'y a pas de vitesse maximale, ce qui était en accord avec les observations sur la vitesse infinie (semblait-il) de la transmission de l'influence gravitationnelle.
+Le principe de relativité de Galilée s'exprime aussi bien comme la nécessité de l'invariance des équations du mouvement par rapport aux transformations de Galilée.
+
+La deuxième égalité signifie que le temps est le même dans les deux référentiels.
+La première égalité est équivalente à la loi de composition des vitesses : 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            ∗
+          
+        
+        +
+        
+          
+            
+              V
+              →
+            
+          
+        
+        ⟺
+        
+          
+            
+              
+                d
+              
+              
+                
+                  
+                    r
+                    →
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+              
+              
+                
+                  
+                    
+                      r
+                      →
+                    
+                  
+                
+                
+                  ∗
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        +
+        
+          
+            
+              V
+              →
+            
+          
+        
+        ⟺
+        
+          d
+        
+        
+          
+            
+              r
+              →
+            
+          
+        
+        =
+        
+          d
+        
+        
+          
+            
+              
+                r
+                →
+              
+            
+          
+          
+            ∗
+          
+        
+        +
+        
+          
+            
+              V
+              →
+            
+          
+        
+        .
+        
+          d
+        
+        t
+        ⟺
+        
+          
+            
+              r
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                r
+                →
+              
+            
+          
+          
+            ∗
+          
+        
+        +
+        
+          
+            
+              V
+              →
+            
+          
+        
+        .
+        t
+      
+    
+    {\displaystyle {\vec {v}}={\vec {v}}_{*}+{\vec {V}}\Longleftrightarrow {\frac {\mathrm {d} {\vec {r}}}{\mathrm {d} t}}={\frac {\mathrm {d} {\vec {r}}_{*}}{\mathrm {d} t}}+{\vec {V}}\Longleftrightarrow \mathrm {d} {\vec {r}}=\mathrm {d} {\vec {r}}_{*}+{\vec {V}}.\mathrm {d} t\Longleftrightarrow {\vec {r}}={\vec {r}}_{*}+{\vec {V}}.t}
+  
+ (à un vecteur constant près).
+Elle est aussi équivalente à l'indépendance de l'accélération (et donc de la force 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        m
+        
+          
+            
+              
+                
+                  r
+                  →
+                
+              
+              ¨
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}=m{\ddot {\vec {r}}}}
+  
+ s'exerçant sur le corps) par rapport au référentiel inertiel de l'observateur : 
+  
+    
+      
+        
+          
+            
+              
+                
+                  r
+                  →
+                
+              
+              ¨
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  
+                    r
+                    →
+                  
+                
+                ¨
+              
+            
+          
+          
+            ∗
+          
+        
+        ⟺
+        
+          
+            
+              
+                
+                  d
+                
+                
+                  2
+                
+              
+              
+                
+                  
+                    r
+                    →
+                  
+                
+              
+            
+            
+              
+                d
+              
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  d
+                
+                
+                  2
+                
+              
+              
+                
+                  
+                    
+                      r
+                      →
+                    
+                  
+                
+                
+                  ∗
+                
+              
+            
+            
+              
+                d
+              
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        ⟺
+        
+          
+            
+              
+                d
+              
+              
+                
+                  
+                    r
+                    →
+                  
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+              
+              
+                
+                  
+                    
+                      r
+                      →
+                    
+                  
+                
+                
+                  ∗
+                
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        +
+        
+          
+            
+              V
+              →
+            
+          
+        
+        ⟺
+        
+          
+            
+              r
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                r
+                →
+              
+            
+          
+          
+            ∗
+          
+        
+        +
+        
+          
+            
+              V
+              →
+            
+          
+        
+        .
+        t
+      
+    
+    {\displaystyle {\ddot {\vec {r}}}={\ddot {\vec {r}}}_{*}\Longleftrightarrow {\frac {\mathrm {d} ^{2}{\vec {r}}}{\mathrm {d} t^{2}}}={\frac {\mathrm {d} ^{2}{\vec {r}}_{*}}{\mathrm {d} t^{2}}}\Longleftrightarrow {\frac {\mathrm {d} {\vec {r}}}{\mathrm {d} t}}={\frac {\mathrm {d} {\vec {r}}_{*}}{\mathrm {d} t}}+{\vec {V}}\Longleftrightarrow {\vec {r}}={\vec {r}}_{*}+{\vec {V}}.t}
+  
+ (à un vecteur constant près).
+
+
+=== En relativité restreinte ===
+La définition d'un référentiel galiléen est la même qu'en mécanique classique.
+Le principe de relativité voit son domaine d'application s'élargir :
+Principe de relativité : toutes les lois de la physique, hormis la gravitation, sont identiques dans tous les référentiels galiléens.
+On y joint un postulat conforme à l'électromagnétisme de Maxwell : « la vitesse de la lumière dans le vide ne dépend pas de la vitesse de sa source », que l'on peut aussi exprimer « la valeur de la vitesse de la lumière dans le vide est la même dans tous les référentiels galiléens ».
+
+La gravitation : jusqu'à la relativité générale, la loi universelle de la gravitation de Newton et l'avance du périhélie de Mercure ne furent pas compatibles avec le postulat sur la vitesse de la lumière et les hypothèses sur l'espace.
+Remarque : Les mathématiques proposent, avec le seul principe de relativité (dans un espace affine), d'avoir une vitesse inchangée d'un référentiel galiléen à l'autre et indépassable, cette vitesse étant, au choix, finie ou infinie. Les propriétés de la vitesse de la lumière, qui est finie dans la théorie de l'électromagnétisme, permettent son identification avec la vitesse limite de la théorie.
+Hypothèses sur l'espace physique : l'espace physique est supposé homogène et isotrope et est identifié, pour chaque référentiel galiléen, à un espace affine (avec l'espace vectoriel associé) de dimension 3, et un temps paramétrant les trajectoires et les états du système étudié : la mesure du temps est propre à chaque référentiel et les changements de référentiels indiquent aussi le changement de cette mesure. L'hypothèse sur la vitesse de la lumière impliquant que chaque référentiel galiléen a son propre temps, l'espace physique peut aussi être identifié à un espace-temps de quatre dimensions (trois d'espace et une de temps) : l'espace-temps de Minkowski.
+La propriété est toujours vraie :
+Propriété : soit (
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+) un référentiel galiléen, on a : si (
+  
+    
+      
+        
+          R
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle R_{*}}
+  
+) est un référentiel se déplaçant par translation à vitesse constante V par rapport à (
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+), alors (
+  
+    
+      
+        
+          R
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle R_{*}}
+  
+) est lui aussi galiléen.
+
+Remarque : la réciproque de la propriété est implicitement admise. En relativité restreinte les référentiels étudiés sont ceux qui sont inertiels et qui sont supposés en translations à vitesse constante les uns par rapport aux autres. La gravitation n'est pas traitée par cette théorie.
+Commentaire : pour le principe de relativité, idem au commentaire fait dans le paragraphe ci-dessus de la mécanique classique. Pour le second principe : on peut en comprendre la nécessité si on considère que la vitesse de la lumière est une mesure de deux expériences identiques (émission de lumière) faites dans deux référentiels galiléens différents : sa mesure doit être la même dans les deux (mais pour admettre cela il faut s'être convaincu que l'éther n'a pas sa place en physique).
+Conséquences : la vitesse de la lumière dans le vide est une vitesse indépassable dans tout référentiel; deux évènements simultanés dans le référentiel (
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+) peuvent ne pas l'être dans (
+  
+    
+      
+        
+          R
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle R_{*}}
+  
+); les mesures des intervalles de temps, des longueurs, des vitesses et des accélérations changent d'un référentiel à l'autre; etc.
+Transformations de Lorentz : ces transformations, déductibles des hypothèses, expriment les changements des mesures des intervalles de temps, des longueurs et des vitesses d'un référentiel inertiel à l'autre; le principe de relativité, en relativité restreinte, s'exprime aussi comme la nécessité de l'invariance des équations de la physique par ces transformations.
+Le diagramme de Minkowski permet de visualiser les différents effets de la relativité en évitant de manipuler trop de formules mathématiques.
+
+
+=== En relativité générale ===
+Vérifier le principe de covariance générale et bien modéliser la gravitation sont les principales raisons d'être de cette théorie.
+Principe de relativité ou de covariance générale : les lois de la physique sont identiques dans tous les référentiels, inertiels ou non.
+Définition : Un référentiel inertiel est un référentiel dans lequel tout corps libre (non influencé par l'extérieur) qui est au repos y reste indéfiniment, et tout corps libre en mouvement reste à vitesse constante (et donc aussi à moment angulaire constant). Du fait des autres contraintes indiquées ci-dessous, un tel référentiel ne peut être défini que localement et temporairement.
+Commentaire : 
+
+Ici, le principe signifie qu'une expérience vérifie une loi qui s'exprime de la même manière (même formule) pour tous les référentiels (galiléens ou non) des différents observateurs.
+Dans les référentiels galiléens, on observe toujours exactement les mêmes résultats pour des expériences identiques; et de manière plus générale, dans deux référentiels soumis exactement au même champ de gravitation et ayant une expérience identiquement faite dans chacun, la loi de l'expérience sera rigoureusement la même dans les deux référentiels, les observations de l'expérience et les mesures aussi.
+Dans des référentiels ayant des contraintes gravitationnelles différentes, les mesures d'une expérience seront influencées par le champ gravitationnel de chaque référentiel, suivant la même loi.
+Principe d'équivalence : la gravitation est localement équivalente à une accélération du référentiel, tout référentiel en chute libre dans un champ de gravitation est un référentiel inertiel où les lois physiques sont celles de la relativité restreinte.
+Remarque : partant de l'hypothèse qu'il doit y avoir continuité des propriétés avec la relativité restreinte, une expérience par la pensée faite par Einstein lui fit comprendre que dans un référentiel accéléré les mesures des longueurs ne sont pas compatibles avec une géométrie euclidienne, c'est-à-dire avec un espace plat.
+Structure mathématique utilisée : variété riemannienne de dimension 4 (une « surface de dimension 4 » déformée, avec une métrique localement définie), les lois étant écrites avec des égalités tensorielles pour assurer leur validité en tout point de la variété et pour tout référentiel.
+Propriété : 
+
+Là où l'espace est courbe (courbure principale non nulle), les seuls référentiels inertiels sont les référentiels en chute libre dans le champ de gravitation, et ils ne sont inertiels que sur une étendue d'espace-temps localement plate (ce qui n'est jamais qu'une approximation). Dans une telle étendue, la relativité restreinte s'applique et tout référentiel translaté du référentiel inertiel est lui-même inertiel (avec des limitations semblables).
+Là où l'espace est courbe, la notion de translation est remplacée par le déplacement le long d'une géodésique. Mais la notion de distance n'est que locale en relativité générale (hors du cadre local, deux points distincts peuvent être joints par deux géodésiques de longueurs différentes), et il est délicat de vouloir connaitre l'évolution dans le temps (lié à un référentiel) de la distance entre deux référentiels inertiels joints par une géodésique : à priori, la variation d'une telle distance n'est pas proportionnelle au temps écoulé.
+Là où l'espace est plat (pseudo-euclidien), ce qui à priori n'est jamais parfaitement réalisé, la théorie de la relativité restreinte s'applique, mais on peut choisir un référentiel accéléré et ainsi avoir toutes les manifestations locales d'un champ de gravitation.
+Conséquences : la gravitation est la manifestation de la déformation de l'espace-temps, déformation réelle si elle est due à l'énergie d'un corps, apparente si elle est due au choix d'un référentiel accéléré, sans qu'un observateur ne puisse distinguer ces deux cas par des données locales; les trajectoires suivies par les particules dans le champ de gravitation sont des géodésiques; les lois de la relativité restreinte, toujours vraies dans les référentiels inertiels, peuvent être généralisées à tous les référentiels en étant exprimées avec des égalités tensorielles et en utilisant le principe de correspondance adéquat.
+
+
+=== En physique quantique ===
+
+Le principe de relativité n'est pas un principe explicite de la physique quantique, mais toute la construction de cette théorie l'utilise, plus ou moins implicitement.
+Ainsi, l'équation de Schrödinger est construite à partir de l'équivalence des principes de moindre action et de Fermat (pour la physique non relativiste), donc elle respecte le principe de relativité dans le cadre non relativiste.
+Les équations de Klein-Gordon et de Dirac ont été construites à partir d'équations de la relativité restreinte, et respectent donc le principe de relativité dans le cadre relativiste (voir Mécanique quantique relativiste).
+En physique quantique les symétries et invariances des équations étant écrites à l'aide des notions de groupe de Lie et d'algèbre de Lie, le principe de relativité (invariance par rapport à certaines transformations de l'espace-temps) s'y exprime par l'invariance des équations par le groupe de Poincaré qui est un groupe de Lie.
+
+
+== Historique ==
+Plusieurs étapes importantes jalonnent l'histoire de ce principe :
+
+
+=== Sa découverte par Galilée ===
+
+En 1543 est publié l'ouvrage de Nicolas Copernic, De revolutionibus orbium coelestium, qui fonde l'héliocentrisme. Son influence est dans un premier temps assez limitée. En effet, la préface, rédigée par Andreas Osiander, présente le point de vue de Copernic comme un artifice mathématique visant à améliorer les méthodes de calcul des tables astronomiques. Les choses évoluent rapidement au début du XVIIe siècle, avec Kepler qui, en 1609, énonce ses premières lois sur le mouvement des planètes, et avec Galilée, convaincu à partir de 1610 du mouvement de la Terre autour du Soleil. Les conceptions de ce dernier s'opposent à la fois aux dogmes religieux et philosophiques, qui font de la Terre le centre fixe du monde, lieu privilégié de la révélation divine.
+Se basant sur des observations, Galilée s'oppose aux partisans d'Aristote, pour lesquels tout mouvement de la Terre est impossible. En effet, selon la physique d'Aristote, si la Terre bougeait, un objet lancé verticalement en l'air ne retomberait pas au lieu d'où il a été lancé, les oiseaux seraient entraînés vers l'ouest, etc. Galilée développe alors un discours visant à réfuter les arguments des aristotéliciens. Il énonce les principes qui fonderont la relativité galiléenne. Plusieurs passages de son ouvrage Dialogue sur deux grands systèmes du monde, publié en 1632, sont consacrés à cette réfutation. Ainsi, selon Galilée, le mouvement n'existe que par rapport à des objets considérés comme immobiles, que de manière comparative : « Le mouvement est mouvement et agit comme mouvement pour autant qu'il est en rapport avec des choses qui en sont dépourvues ; mais pour toutes les choses qui y participent également, il n'agit pas, il est comme s'il n'était pas ».
+De plus, les résultats d'une expérience ne changent pas, qu'elle se passe sur la terre ferme ou dans la cabine d'un bateau naviguant sans heurt ni ballotage.
+
+En langage moderne, le mouvement uniforme (inertiel) du bloc expérience+observateur n'a aucun effet sur l'expérience observée. Ainsi, même si la Terre se déplace, la pierre jetée verticalement retombe aux pieds du lanceur, et les oiseaux volent normalement dans toutes les directions. Ce point de vue constitue une révolution dans les conceptions mécaniques de l'époque. Selon la physique d'Aristote alors communément enseignée, le mouvement et le repos sont deux états différents, et le mouvement nécessite un moteur. Selon Galilée, mouvement et repos sont un même état, différent l'un de l'autre par simple changement de référentiel. Cette conception est à la base du principe d'inertie. Galilée note ainsi que « les corps graves sont indifférents au mouvement horizontal, pour lequel ils n'ont ni inclination (car il n'est pas dirigé vers le centre de la Terre), ni répugnance (car il ne s'éloigne pas du même centre) : en raison de quoi, et une fois écartés tous les obstacles extérieurs, un grave placé sur une surface sphérique et concentrique à la Terre sera indifférent au repos comme au mouvement dans quelque direction que ce soit, et il demeurera dans l'état où il aura été placé ». Signalons également que Galilée, ayant réfuté les arguments aristotéliciens contre le mouvement de la Terre, cherchera quel phénomène observable peut rendre compte de ce mouvement. Il pensera le trouver, de façon erronée, dans une explication des marées. Il faudra plus de deux siècles pour que soient imaginées des expériences mécaniques montrant le mouvement de la Terre par rapport à un référentiel galiléen.
+À la suite de Galilée, une des premières utilisations d'un référentiel fictif (non représenté dans l'expérience par un corps quelconque) peut être attribuée à Christiaan Huygens, dans son ouvrage de Motu corporum ex percussione. Ayant pris conscience en 1652 des erreurs de Descartes sur les lois des chocs, il conçoit un repère mobile par rapport auquel on fait une expérience. Cherchant quelles sont les vitesses de deux corps identiques après un choc, alors qu'initialement le premier corps se déplace à la vitesse V et le second à la vitesse V' par rapport au sol, il imagine un observateur se déplaçant à la vitesse (V+V')/2. Cet observateur voit les deux corps se rapprocher à la vitesse (V-V')/2, se heurter, et, étant de même masse, s'éloigner avec la même vitesse. Revenant au référentiel terrestre, Huygens en conclut qu'après le choc, les deux corps ont échangé leur vitesse.
+Il est à remarquer que l'additivité des vitesses, utilisée par Huygens et tous ses successeurs lors d'un changement de référentiel, ne découle pas du principe de relativité de Galilée. Cette règle d'additivité sera remise en cause par Einstein, lors de l'invention de la relativité restreinte.
+
+
+=== L'absolu et le relatif aux XVIIe et XVIIIe siècles ===
+Isaac Newton, lecteur assidu de Descartes et de Galilée, en prolonge les observations quantitatives et amplifie la mathématisation de la physique, et place la loi d'inertie comme sa première loi de la physique, en y définissant au passage la notion de force.
+Cette loi de l'inertie (en l'absence de force appliquée au corps, son accélération est nulle) n'est valable que dans certains repères (appelés aujourd'hui repères galiléens), et Newton en introduisant les termes « absolu » et « relatif »[réf. nécessaire] pour qualifier les mouvements (qui pour lui prennent le sens de « vrai » et « apparent »), privilégie un repère galiléen particulier, « l'espace absolu », qui est le bon repère où on détermine le « mouvement absolu » des corps (et où il n'y a pas de force centrifuge ou autre force imputable au choix du référentiel). Les autres repères galiléens étant considérés comme des espaces relatifs privilégiés par rapport à ceux qui ne sont pas galiléens[réf. nécessaire].
+Pour justifier en même temps la pesanteur et la propagation de la lumière Huygens était opposé à l'idée de l'existence d'un espace absolu, et Leibniz aussi pour des raisons philosophiques. Dans une lettre à Samuel Clarke, adjoint de Newton, Leibniz tente de démontrer que la notion d'espace absolu est incompatible avec son principe de la raison suffisante.
+Ces considérations resteront admises jusqu'à Einstein, l'observateur pouvant toujours (semblait-il) détecter s'il est ou non dans un repère galiléen (en expérimentant la loi de l'inertie) et effectuer mathématiquement le changement de repère nécessaire, même si « l'espace absolu » restera toujours difficile à déterminer comme le regrettait déjà Newton.
+
+L'influence majeure de Newton et la notion d'espace absolu firent que, pendant le XVIIIe siècle, le développement de la mécanique porta davantage sur les conséquences mathématiques de l'analyse dynamique du mouvement, plutôt que sur l'étude des repères en mouvement ou des changements de référentiels. Clairaut aborda certes cette dernière question en 1742, avec l'introduction de forces d'inertie d'entraînement, mais de manière imparfaite. La solution complète à la question du changement de référentiels fut apportée par Coriolis à partir de 1832. En 1833, Ferdinand Reich mit en évidence la déviation vers l'est d'un corps en chute libre, résultant du fait qu'un référentiel lié à la Terre n'est pas inertiel. Les forces d'inertie d'entraînement et de Coriolis permirent également d'expliquer l'expérience du pendule de Foucault, réalisée en 1851.
+
+
+=== Son utilisation comme principe par Einstein dans la relativité restreinte ===
+
+Il revient à Poincaré d'avoir désacralisé le choix de Newton dans son livre La Science et l'Hypothèse (1902) : il rejette « l'espace absolu » de Newton en montrant qu'il n'est nullement nécessaire à la physique, et constate même que la notion de référentiel galiléen et de mouvement rectiligne uniforme se définissent l'un par rapport à l'autre, et que la notion de ligne droite n'est pas une réalité mais une interprétation toute mathématique des expériences. Ainsi, il énonce la relativité de Galilée comme un principe issu de l'expérience mais l'interprétant.
+Einstein, lecteur de Poincaré, cherche à concilier le principe de relativité de Galilée (formulé : les lois sont les mêmes dans tous les référentiels galiléens) et le fait que la vitesse de la lumière est la même dans tous les référentiels galiléens (c'est un résultat de la théorie de l'électromagnétisme de Maxwell, interprété bien différemment jusque-là avec « l'espace absolu » de Newton et l'éther). Sa conclusion est la relativité restreinte, publiée en 1905.
+L'ancien professeur de mathématiques d'Einstein, Hermann Minkowski, réinterprétera cette théorie dans le cadre d'un espace plat de dimension 4 ayant une mesure des distances particulière et où le principe de relativité de Galilée s'applique : l'espace-temps de Minkowski.
+
+
+=== Sa généralisation par Einstein pour la relativité générale ===
+
+Soucieux de cohérence intellectuelle, Einstein ne conçoit pas que la science privilégie des référentiels par rapport à d'autres : les lois de la physique changeraient-elles pour une même expérience suivant qu'elle est observée depuis un référentiel galiléen ou d'un référentiel non galiléen ? Il cherche donc une théorie généralisant le principe de Galilée à tous les référentiels, et aussi une loi de la gravitation compatible, autre objectif d'envergure.
+Par sa découverte du principe d'équivalence, la gravitation devient (localement) un effet équivalent au choix d'un référentiel accéléré : la généralisation du principe de relativité, sous forme d'équations différentielles, suffira donc.
+Imaginant un disque en rotation autour de son centre, il comprend que, d'après la relativité restreinte, une personne placée sur le disque et tournant avec verrait le rayon du disque 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ inchangé mais mesurerait un périmètre supérieur à 
+  
+    
+      
+        2
+        π
+        R
+      
+    
+    {\displaystyle 2\pi R}
+  
+ : cela ne correspond pas à la géométrie euclidienne. La solution de son problème devait donc passer par la géométrie différentielle (qui englobe les géométries euclidiennes et non euclidiennes) et le calcul tensoriel qui va avec, et que, par bonheur, son ami Marcel Grossmann avait étudié dans le cadre de son doctorat.
+Le calcul tensoriel est l'outil permettant d'établir des égalités vraies quel que soit le référentiel utilisé. Le principe de relativité ainsi généralisé porte aussi le nom de « principe de covariance générale ».
+Après tâtonnements et hésitations face à cet outillage mathématique assez lourd, Einstein finit sa théorie de la relativité générale en 1915.
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Références ===
+
+
+== Annexes ==
+
+
+=== Bibliographie ===
+Françoise Balibar, Galilée, Newton lus par Einstein, PUF, 1984
+Albert Einstein, La Théorie de la relativité restreinte et généralisée, Gaulthier-Villards, 1921, traduit par Mlle J. Rouvière et préfacé par M. Émile Borel.
+Banesh Hoffmann (avec la collaboration de Helen Dukas), Albert Einstein, créateur et rebelle, 1975, Éditions du Seuil, coll. Points Sciences, trad. de l'américain par Maurice Manly. (ISBN 2-02-005347-0)
+Lev Landau et Evgueni Lifchits, Physique théorique [détail des éditions]
+James H. Smith, Introduction à la relativité , 1965; pour la France : Masson éditeur, traduction depuis l'américain par Philippe Brenier en 1997, préface de Jean-Marc Lévy-Leblond. (ISBN 2-225-82985-3)
+
+
+=== Articles connexes ===
+Vitesse relative
+Relativité d'échelle
+
+
+=== Liens externes ===
+
+Poincaré et le principe de relativité par Michel Paty, 1994
+Une vidéo pratique sur la théorie de la relativité
+Vidéoconférence sur le thème « La Relativité générale » (intervention de Thibault Damour)
+Histoire d'une théorie : la relativité
+
+ Portail de la physique

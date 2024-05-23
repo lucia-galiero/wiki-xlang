@@ -1,0 +1,46 @@
+En el marco de la tectónica de placas, la subducción es el proceso de hundimiento de una placa litosférica bajo el borde de otra placa, formándose los llamados límites convergentes entre placas. La placa subducida, la que se hunde, suele estar formada por corteza oceánica, más delgada y densa que la continental.[1]​ La subducción ocurre a lo largo de amplias zonas de subducción que en el presente se concentran especialmente en el entorno del océano Pacífico, en el llamado cinturón de fuego del Pacífico,[2]​ pero también hay zonas de subducción en partes del mar Mediterráneo, las Antillas, las Antillas del Sur y la costa índica de Indonesia.
+La subducción es causada por dos fuerzas tectónicas, una que proviene del empuje de las dorsales meso-oceánicas  y otra que deriva de las fuerzas que tiran de los bloques.[3]​
+La subducción provoca muchos terremotos[1]​ de gran magnitud los cuales se originan en la zona de Benioff. La subducción también causa la fusión parcial de parte del manto terrestre generando magma que asciende, dando lugar a intrusiones plutónicas y volcanes.[4]​
+El ángulo de subducción, el ángulo que forma el plano de la zona de Benioff con la superficie terrestre, puede variar de cerca de 90° en las Marianas a tan solo 10° en Perú.[5]​
+La corteza oceánica que está en camino de ser subducida en la fosa de las Marianas es la corteza oceánica más antigua de la Tierra sin contar ofiolitas. La subducción más inclinada está asociada a una mayor extensión del retroarco,[6]​ provocando la migración de corteza de los arcos volcánicos y fragmentos de corteza continental, dejando detrás un mar marginal.
+
+
+== Fuerzas que promueven la subducción ==
+Hay que tener en cuenta varios factores a la hora de estudiar la dinámica de la subducción. 
+
+
+=== Fuerza de empuje ===
+La fuerza de empuje es la principal causante de la subducción; se genera por la acción de los límites constructivos interplaca (las dorsales oceánicas). La fuerza generada por el empuje de las rocas jóvenes en las dorsales lleva a las rocas más antiguas (más alejadas de la dorsal) a chocar contra la corteza continental y así mismo la placa continental genera una fuerza opuesta a la placa oceánica.
+
+
+=== Fuerzas gravitatorias ===
+Uno de los principales factores que favorece la subducción es la diferencia de las fuerzas gravitatorias, debida a la diferente densidad de las placas. La flotabilidad, que depende directamente de esta, es opuesta a la dirección de la fuerza gravitatoria; por lo tanto, a mayor fuerza gravitatoria menor será la flotabilidad. En general la corteza oceánica es más densa que la continental, debido a su composición química. La corteza oceánica, constituida por rocas básicas y ultrabásicas como gabros, dunitas y basaltos (rocas ricas en hierro, magnesio, cromo y diferentes elementos pesados), es mucho más pesada que la continental, formada por rocas intermedias y ácidas como andesitas, granitos y riolitas (rocas ricas en sodio, potasio y aluminio).
+No todas los márgenes convergentes son zonas de subducción: si la densidad entre las dos placas es muy parecida, en vez de subducción habrá obducción.
+
+
+== El ángulo de subducción ==
+El ángulo de subducción dependerá mucho de las características de la corteza que subduce y generará diferentes características en superficie. Se podría decir que un ángulo normal de subducción es de 30 grados (muy parecido al de la subducción tipo Chile), pero cuando varía este ángulo tendremos: 
+
+
+=== Ángulos altos de subducción ===
+Ángulos altos de subducción, hasta de incluso de 90 grados en algunas partes del mundo, generarán condiciones superficiales muy específicas. El mejor de los ejemplo es el choque entre la placa del Pacífico y la placa de Filipinas. Aquí la velocidad de descenso es mayor a la velocidad horizontal generada por el empuje; esto causa que la placa del Pacífico retroceda generando un esfuerzo en dirección opuesta a la dirección del empuje generado por la dorsal. Esto genera una cuenca tras-arco, un ambiente distensivo que es la que causa la subducción entre la placa de Filipinas y la placa euroasiática. El límite activo justo en esta zona de alto ángulo de subducción adquiere una forma convexa; quiere decir que podemos definir la forma del límite para predecir el ángulo de subducción (por ejemplo la subducción entre la placa escocesa y la suramericana). En estas zonas es posible diferenciar arcos remanentes.
+
+
+=== Ángulos bajos de subducción ===
+Los ángulos bajos de subducción son causados por protuberancias de la placa que subduce, por ejemplo, las existentes entre la placa de Nazca y la placa suramericana. Las crestas oceánicas en la primera, formadas por antiguos puntos calientes ahora inactivos, son subducidas y generan la disminución del ángulo de subducción en cierta parte del límite activo. Los bajos ángulos de subducción originan el engrosamiento del arco magmático, como ocurre en los Andes Centrales, llegando a generar altiplanos (como el altiplano andino).
+
+
+== Sismicidad y vulcanismo en zonas de subducción ==
+El roce generado por el contacto y movimiento entre placas genera una acumulación de energía potencial elástica, que se libera en forma de movimientos relativos entre dos bloques separados por un plano (fallas). Los márgenes convergentes son las zonas de mayor actividad sísmica del mundo. Si se mapea la actividad sísmica entre límites convergentes, se tendrá la zona de Wadati-Benioff, que es la que define directamente la amplitud superficial de acción de la subducción. Los sismos debidos a la subducción afectan intensamente a países como Japón, Chile, Haití y a regiones como el noreste de Rusia.
+Los volcanes que tienen su génesis en zonas de subducción son muy grandes y empinados, debido a la composición del magma que asciende y que causa erupciones de gran violencia por la viscosidad de la lava. Al delinear en un mapamundi volcanes con estas características, se encuentran lineamientos muy claros que son paralelos a las cordilleras; es decir, que se puede definir una zona de subducción por el vulcanismo presente. Este vulcanismo difiere mucho del vulcanismo intraplaca, cuyas condiciones y características son muy diferentes: lavas más fluidas, de composición básica, y volcanes muy extensos y de laderas muy suaves, como los de Hawái.
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Artimeva, I. (2011). The Lithosphere: An Interdisciplinary Approach. Cambridge University Press (en inglés).
+
+
+== Enlaces externos ==
+ Wikcionario  tiene definiciones y otra información sobre subducción.

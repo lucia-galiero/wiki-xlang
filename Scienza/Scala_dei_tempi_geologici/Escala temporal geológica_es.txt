@@ -1,0 +1,97 @@
+La escala temporal geológica, escala de tiempo geológico o tabla cronoestratigráfica internacional es el marco de referencia para representar los eventos de la historia de la Tierra y de la vida ordenados cronológicamente. Establece divisiones y subdivisiones de las rocas según su edad relativa y del tiempo absoluto transcurrido desde la formación de la Tierra hasta la actualidad, en una doble dimensión: estratigráfica (superposición de rocas) y cronológica (transcurso del tiempo). Estas divisiones están basadas principalmente en los cambios faunísticos observables en el registro fósil y han podido ser datadas con cierta precisión por métodos radiométricos. La escala compila y unifica los resultados del trabajo sobre geología histórica realizado durante varios siglos por naturalistas, geólogos, paleontólogos y otros muchos especialistas. Desde 1974 la elaboración formal de la escala se realiza por la Comisión Internacional de Estratigrafía de la Unión Internacional de Ciencias Geológicas y los cambios, tras algunos años de estudios y deliberaciones por subcomisiones específicas, han de ser ratificados en congresos mundiales.[2]​
+
+
+== Criterios de elaboración ==
+
+La escala está compuesta por la combinación de:
+
+Unidades cronoestratigráficas (piso, serie, sistema, eratema, eonotema), que responden a conjuntos de rocas, estratificados o no, formados durante un intervalo de tiempo determinado. Se basan en las variaciones de los registros fósil (bioestratigrafía) y estratigráfico (litoestratigrafía). Son las unidades con las que se han establecido las divisiones de la escala cronoestratigráfica estándar para el Fanerozoico (y el Ediacárico y el Criogénico del Precámbrico). Sirven de soporte material de referencia.
+Unidades geocronológicas (edad, época, periodo, era, eón), unidades de tiempo equivalentes una a una con las cronoestratigráficas. Son la referencia temporal relativa de la escala para el Fanerozoico.
+Unidades geocronométricas, definidas por edades absolutas (tiempo en millones de años). Son las unidades con las que se han establecido las divisiones de la escala para el Precámbrico (excepto el Ediacárico y el Criogénico).[2]​[3]​ Las dataciones absolutas que se muestran en la escala para el Fanerozoico y el Ediacárico están en revisión, y las que no tienen estratotipo de límite inferior formalizado son aproximadas,[4]​ por lo que no pueden considerarse unidades geocronométricas.
+La unidad básica de la escala es el piso (y su edad equivalente), definido normalmente por cambios detectados en el registro fósil y, ocasionalmente, apoyados por cambios paleomagnéticos (inversiones de polaridad del campo magnético terrestre), litológicos debidos a cambios climáticos, efectos tectónicos o subidas o bajadas del nivel del mar. Las unidades de rango superior reflejan los cambios más significativos en las faunas del pasado inferidos del registro fósil (Paleozoico o Mesozoico), características litológicas de la región donde se definieron (Carbonífero, Triásico o Cretácico) y más raramente aspectos paleoclimáticos (Criogénico). Muchos nombres se refieren al lugar donde se establecieron las sucesiones estratigráficas de referencia o se estudiaron inicialmente (Pérmico o Maastrichtiense).[5]​
+Para determinadas subdivisiones de la escala se usan «Inferior» y «Superior» si se hace referencia a unidades cronoestratigráficas (cuerpos de roca) o «Temprano» y «Tardío» si se hace referencia a unidades geocronológicas (tiempo). En ambos casos se añade delante el nombre de la unidad correspondiente de rango superior, como en Triásico Superior (serie) y Triásico Tardío (época).
+
+
+== Historia y nomenclatura de la escala del tiempo ==
+
+
+=== Historia temprana ===
+En la antigua Grecia, Aristóteles (384-322 a. C.) observó que los fósiles de las conchas marinas en las rocas se parecían a las que se encontraban en las playas: infirió que los fósiles en las rocas estaban formados por organismos, y razonó que las posiciones de la tierra y del mar habían cambiado durante muchos períodos de tiempo. Leonardo da Vinci (1452-1519) estuvo de acuerdo con la interpretación de Aristóteles de que los fósiles representaban los restos de la vida antigua.[6]​ 
+El geólogo persa Avicena del siglo XI (Ibn Sina, muerto en 1037) y el obispo dominico del siglo XIII, Albertus Magnus (fallecido en 1280) extendieron la explicación de Aristóteles a una teoría de un fluido petrificante.[7]​ Avicena también propuso por primera vez uno de los principios subyacentes a las escalas de tiempo, la ley de superposición de estratos, mientras discutían los orígenes de las montañas en El libro de la curación (1027).[8]​[9]​  El naturalista chino Shen Kuo (1031–1095) también reconoció el concepto de "tiempo profundo".[10]​
+
+
+=== Establecimiento de principios primarios ===
+A finales del siglo XVII, Nicolas Steno (1638-1686) pronunció los principios subyacentes a las escalas de tiempo geológicas. Steno argumentó que las capas de roca (o estratos) se colocaron en sucesión, y que cada una representa una «porción» de tiempo. También formuló la ley de superposición, que establece que cualquier estrato dado es probablemente más antiguo que los que están arriba y más joven que los que están debajo. Si bien los principios de Steno eran simples, su aplicación resultó ser un desafío. Las ideas de Steno también llevaron a otros conceptos importantes que los geólogos usan hoy en día, como la datación relativa. A lo largo del siglo XVIII, los geólogos se dieron cuenta de que:
+
+Las secuencias de los estratos a menudo se erosionan, se distorsionan, se inclinan o incluso se invierten después de la deposición.
+Los estratos establecidos al mismo tiempo en diferentes áreas podrían tener aspectos totalmente diferentes.
+Los estratos de cualquier área dada representaban solo una parte de la larga historia de la Tierra.
+Las teorías neptunistas populares en ese momento (expuestas por Abraham Werner (1749-1817) a fines del siglo XVIII) propusieron que todas las rocas se habían precipitado a partir de una enorme inundación. Un cambio importante en el pensamiento se produjo cuando  James Hutton (1726-1797) presentó su Theory of the Earth; or, an Investigation of the Laws Observable in the Composition, Dissolution, and Restoration of Land Upon the Globe[11]​ [Teoría de la Tierra; o una Investigación de las leyes observables en la composición, disolución y restauración de la tierra en el Globo] ante la Royal Society of Edinburgh en marzo y abril de 1785.  John McPhee afirma que «tal como aparecen las cosas desde la perspectiva del siglo XX, James Hutton en esas lecturas se convirtió en el fundador de la geología moderna».[12]​ : 95–100  Hutton propuso que el interior de la Tierra estaba caliente, y que ese calor era el motor que impulsaba la creación de nueva roca: la tierra era erosionada por el aire y el agua y se depositaba como capas en el mar; el calor consolidaba el sedimento en piedra y lo elevaba a nuevas tierras. Esta teoría, conocida como "plutonismo", contrastaba con la teoría «neptunista» orientada a las inundaciones.
+
+
+=== Formulación de la escala de tiempo geológico ===
+Los primeros intentos serios de formular una escala de tiempo geológico que pudiera aplicarse en cualquier lugar de la Tierra se realizaron a fines del siglo XVIII. El más influyente de esos intentos tempranos (defendido por Abraham Gottlob Werner, entre otros) dividió las rocas de la corteza terrestre en cuatro tipos: primarias, secundarias, terciarias y cuaternarias. Cada tipo de roca, según la teoría, se formaba durante un período específico en la historia de la Tierra. De este modo, era posible hablar de un «período terciario» y de «rocas terciarias». De hecho, «Terciario» (ahora Paleógeno y Neógeno) se mantuvo en uso como nombre de un período geológico hasta bien entrado el siglo XX y «Cuaternario» sigue siendo de uso formal como el nombre del período actual.
+La identificación de los estratos por los fósiles que contenían, iniciada por William Smith, Georges Cuvier, Jean d'Omalius d'Halloy y Alexandre Brongniart a principios del siglo XIX, permitió a los geólogos dividir la historia de la Tierra con mayor precisión. También les permitió correlacionar estratos a través de fronteras nacionales (o incluso continentales). Si dos estratos (aunque distantes en el espacio o diferentes en composición) contuvieran los mismos fósiles, había muchas posibilidades de que se hubieran depositado al mismo tiempo. Los estudios detallados entre 1820 y 1850 de los estratos y fósiles de Europa produjeron la secuencia de los períodos geológicos que todavía se utilizan en la actualidad.
+
+
+=== Nombramiento de períodos, eras y épocas geológicas ===
+Los primeros trabajos sobre el desarrollo de la escala de tiempo geológico fueron dominados por los geólogos británicos, y los nombres de los períodos geológicos reflejan ese dominio. El «Cámbrico» (el nombre clásico de la región de Gales) y el «Ordovícico» y el «Silúrico», que llevan el nombre de las antiguas tribus galesas, se definieron mediante secuencias estratigráficas de Gales.[12]​: 113–114  El «Devónico» fue nombrado por el condado inglés de Devon, y el nombre «Carbonífero» era una adaptación de «the Coal Measures» [las medidas del carbón], el término que los antiguos geólogos británicos usaban para el mismo conjunto de estratos. El «Pérmico» fue nombrado por la región de Perm, en Rusia, porque fue definido usando estratos en esa región por el geólogo escocés Roderick Murchison. Sin embargo, algunos periodos fueron definidos por geólogos de otros países. El «Triásico» fue nombrado en 1834 por un geólogo alemán Friedrich Von Alberti por las tres capas distintas (en latín: trias, que significan 'tríada') —areniscas rojas, tapadas con tiza, seguidas por lutitas negras—, que se encuentran por toda Alemania y el noroeste de Europa, llamadas el 'Trias'. El «Jurásico» fue nombrado por un geólogo francés Alexandre Brongniart por las extensas exposiciones de piedra caliza marina de las montañas Jura. El «Cretácico» (del latín creta, que significa 'tiza') fue definido por primera vez como un período separado por el geólogo belga Jean d'Omalius d'Halloy en 1822, utilizando estratos de la cuenca de París[13]​ y recibió el nombre de los extensos lechos de tiza (carbonato cálcico depositado por las conchas de invertebrados marinos que se encuentran en Europa occidental.
+Los geólogos británicos también fueron responsables de la agrupación de los períodos en eras y de la subdivisión de los períodos Terciario y Cuaternario en épocas. En 1841, John Phillips publicó la primera escala de tiempo geológico global basada en los tipos de fósiles encontrados en cada era. La escala de Phillips ayudó a estandarizar el uso de términos como Paleozoico ('vida antigua') que extendió para cubrir un período más extenso que el que tenía en el uso anterior, y Mesozoico ('vida media') que acuñó.[14]​
+
+
+=== Datación de escalas de tiempo ===
+
+Cuando William Smith y Charles Lyell reconocieron por primera vez que los estratos de roca representaban períodos de tiempo sucesivos, las escalas de tiempo solo podían estimarse de manera muy imprecisa, ya que las estimaciones de las tasas de cambio eran inciertas. Mientras que los creacionistas habían estado proponiendo fechas de alrededor de seis o siete mil años para la edad de la Tierra basándose en la Biblia, los primeros geólogos sugirieron millones de años para los períodos geológicos, y algunos incluso sugirieron una edad virtualmente infinita para la Tierra.  Los geólogos y paleontólogos construyeron la tabla geológica en función de las posiciones relativas de los diferentes estratos y fósiles, y estimaron las escalas de tiempo en función de las tasas de estudio de diversos tipos de meteorización, erosión, sedimentación y litificación. Hasta el descubrimiento de la radiactividad en 1896 y el desarrollo de sus aplicaciones geológicas a través de la datación radiométrica durante la primera mitad del siglo XX, las edades de varios estratos de roca y la edad de la misma Tierra fueron objeto de un debate considerable.
+La primera escala de tiempo geológico que incluía fechas absolutas fue publicada en 1913 por el geólogo británico Arthur Holmes.[15]​ Amplió en gran medida la recién creada disciplina de geocronología  y publicó el libro de renombre mundial The Age of the Earth [La Edad de la Tierra] en el que estimó que la edad de la Tierra debía de ser de por lo menos de unos 1600 millones de años.[16]​
+En 1977, la Global Commission on Stratigraphy [Comisión Global de Estratigrafía] (ahora la International Commission on Stratigraphy, Comisión Internacional de Estratigrafía) comenzó a definir referencias globales conocidas como GSSP (Sección estratotipo y punto de límite global, por Global Boundary Stratotype Section and Point) para periodos geológicos y etapas de fauna. El trabajo de la comisión se describe en la escala de tiempo geológico de 2012 de Gradstein et al.[17]​ También está disponible un modelo UML sobre cómo está estructurada la escala de tiempo, relacionándola con los GSSP.[18]​
+
+
+=== El Antropoceno ===
+
+El Antropoceno fue una propuesta para crear una nueva época geológica para describir la época actual, en la que los humanos tienen un enorme impacto en el medio ambiente. El término fue acuñado por Paul Crutzen y Eugene Stoermer en 2000. En general, se caracterizó por las emisiones de carbono antrópicas y la producción y el consumo de productos plásticos acumulables en la naturaleza.[19]​ Sin embargo, la Unión Internacional de Ciencias Geológicas y la Comisión Internacional de Estratigrafía, y tras valorar los resultados alcanzados en 15 años de estudios por un grupo multidisciplinar de especialistas en el Cuaternario, rechazaron formalmente en 2024 el Antropoceno como nueva época geológica.[20]​[21]​[22]​
+
+
+== Estandarización ==
+Las unidades, divisiones y dataciones que se presentan están basados en la Tabla cronoestratigráfica internacional (versión de 2016)[4]​ elaborada por la Comisión Internacional de Estratigrafía. Con el símbolo del «clavo de oro» (el casi oficializado «golden spike») se marcan aquellas unidades cuyo límite inferior está definido formalmente en una sección estratotipo y punto de límite global (GSSP, de sus siglas en inglés).[23]​ Para el Precámbrico las divisiones son estrictamente geocronométricas, definidas directamente por tiempo absoluto (en millones de años), excepto para el Ediacariense, para el que hay estratotipo de límite inferior y el Criogénico, que lo tiene pendiente de definir. 
+Los colores usados (formato RGB) son los estándares propuestos en 2006 por la Comisión del Mapa Geológico del Mundo.[24]​. Las actualizaciones y añadidos posteriores se realizan por la Comisión Estratigráfica Internacional en colaboración con la Comisión del Mapa Geológico del Mundo.[25]​
+Hasta 2013, la Tabla cronoestratigráfica internacional se publicó únicamente en inglés. Desde entonces se publican traducciones oficiales a otros idiomas: chino, español (en dos versiones: de España y de América), portugués (igualmente en dos versiones, una de ellas para el portugués brasileño), noruego, lituano, euskera, catalán, francés, japonés, italiano, checo, finés, coreano, neerlandés (en versiones holandesa y belga), esloveno, turco y ruso.[4]​
+
+
+=== Doble nomenclatura formal en español ===
+Tradicionalmente la mayoría de los nombres de los pisos o edades se terminan con el sufijo «-iense» en España y Venezuela y con el sufijo «-iano» en casi todos los países de América de habla castellana, ambas formas son sinónimas y perfectamente válidas. P. ej. Aptiense y Aptiano o Priaboniense y Priaboniano.[26]​
+La primera versión en español de la tabla oficial de la Comisión Internacional de Estratigrafía fue la de España, publicada en 2013,[27]​ pero en 2016 se publicó un borrador con la primera versión en español reflejando la tradición americana. Esta versión provisional para América fue elaborada por los servicios geológicos de Colombia, con aportaciones de diferentes instituciones y profesionales de México, Argentina, Chile, Perú, Ecuador y Uruguay. Sin embargo, en Venezuela se sigue la versión de la nomenclatura española.[28]​
+En la tabla que sigue aparecen reflejadas las dos terminologías (las de la versión americana en letras cursivas para su correcta identificación). Cuando solo aparece un término es porque ambos sistemas de nomenclatura coinciden. Hay que tener en cuenta que la versión americana se basa en un borrador, lo que indica que no hay aún consenso unánime para todos los nombres de la escala.
+
+
+== Escala global estándar del tiempo geológico ==
+
+
+== Cronograma a escala ==
+
+En la imagen, a modo de ejemplo, se observa, de abajo arriba:
+
+el supereón Precámbrico dividido en sus tres eones (Hadeano, Arqueano y Proterozoico);
+el eón Fanerozoico se divide en tres eras: Paleozoico, Mesozoico y Cenozoico;
+la era cenozoica dividida en tres periodos: Paleógeno, Neógeno y Cuaternario
+
+
+== Véase también ==
+Geología histórica
+Historia de la Tierra
+Escala de tiempo geológico lunar
+Escala de tiempo geológica de Marte
+Sección y punto de estratotipo de límite global
+Gran Historia
+Tiempo histórico
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Escala temporal geológica.
+ Wikimedia Commons alberga una galería multimedia sobre Reloj geológico con los periodos y eventos más importantes. (terminología).
+U.S. Geological Survey Geologic Names Committee (2007). «Divisions of geologic time—Major chronostratigraphic and geochronologic units:». U.S. Geological Survey Fact Sheet 2007-3015 (en inglés). Consultado el 14 de marzo de 2010. 
+«The Paleobiology Database» (en inglés). Archivado desde el original el 11 de febrero de 2006. Consultado el 19 de marzo de 2006.  Extensa base de datos.
+Comisión Internacional de Estratigrafía. «Tabla estratigráfica internacional» (en inglés). Consultado el 14 de abril de 2013. 
+Comisión Internacional de Estratigrafía. «Lista de secciones y puntos de estratotipos de límite globales» (en inglés). Consultado el 21 de agosto de 2023.

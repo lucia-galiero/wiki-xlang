@@ -1,0 +1,221 @@
+Una singularidad gravitacional o espaciotemporal, de modo informal y desde un punto de vista físico, puede definirse como una zona del espacio-tiempo donde no se puede definir alguna magnitud física relacionada con los campos gravitatorios, tales como la curvatura, u otras. Numerosos ejemplos de singularidades aparecen en situaciones realistas en el marco de la relatividad general en soluciones de las ecuaciones de Einstein,[1]​ entre los que cabe citar la descripción de agujeros negros (como puede ser la métrica de Schwarzschild) o a la descripción del origen del universo (métrica de Robertson-Walker).
+Desde el punto de vista matemático, adoptar una definición de singularidad puede ser complicado,[2]​ pues si pensamos en puntos en que el tensor métrico no está definido o no es diferenciable, estaremos hablando de puntos que automáticamente no pertenecen al espacio-tiempo. Para definir una singularidad debemos buscar las huellas que estos puntos excluidos dejan en el tejido del espaciotiempo. Podemos pensar en varios tipos de comportamientos extraños:[3]​
+
+Geodésicas temporales (o nulas) que tras un tiempo propio (o parámetro afín) no pueden prolongarse (lo que se llama incompletitud de geodésicas causales).
+Valores de curvatura que se hacen arbitrariamente grandes cerca del punto excluido (lo que se denomina singularidad de curvatura).
+
+
+== Tipos de singularidades ==
+Las singularidades pueden ser, en sus aspectos más generales:
+
+De coordenadas. Son el resultado de haber escogido un mal sistema de coordenadas. Algunas de estas singularidades de coordenadas indican lugares físicos que son especiales, por ejemplo, en la métrica de Schwarzschild la singularidad de coordenadas en 
+  
+    
+      
+        r
+        =
+        2
+        G
+        M
+        
+          /
+        
+        
+          c
+          
+            2
+          
+        
+        
+        
+      
+    
+    {\displaystyle r=2GM/c^{2}\,\!}
+  
+ representa el horizonte de sucesos.
+Físicas. Son singularidades espaciotemporales de pleno derecho. Se diferencia de las de coordenadas porque en algunas de las contracciones del tensor de curvatura, este diverge (
+  
+    
+      
+        
+          R
+          
+            μ
+            ν
+            ρ
+            λ
+          
+        
+        
+          R
+          
+            μ
+            ν
+            ρ
+            λ
+          
+        
+        
+        
+      
+    
+    {\displaystyle R_{\mu \nu \rho \lambda }R^{\mu \nu \rho \lambda }\,\!}
+  
+,
+  
+    
+      
+        
+          R
+          
+            μ
+            ν
+          
+        
+        
+          R
+          
+            μ
+            ν
+          
+        
+        
+        
+      
+    
+    {\displaystyle R_{\mu \nu }R^{\mu \nu }\,\!}
+  
+, etc.)
+Geométricamente las singularidades físicas pueden ser:
+
+Hipersuperficies abiertas: Este tipo de singularidad podemos encontrarlas en agujeros negros que no han conservado el momento angular como es el caso de un agujero negro de Schwarzschild o un agujero negro de Reissner-Nordstrøm.
+Hipersuperficies cerradas: Como la singularidad toroidal o en forma de anillo, que normalmente hace su aparición en agujeros negros que han conservado su momento angular, como puede ser el caso de un agujero negro de Kerr o un agujero negro de Kerr-Newman, aquí la materia, debido al giro, deja un espacio al medio formando una estructura parecida a la de una rosquilla.
+Según su carácter las singularidades físicas pueden ser:
+
+Singularidades temporales, como la que se encuentra en un agujero de Schwarzschild en la que una partícula deja de existir por cierto instante de tiempo; dependiendo de su velocidad, las partículas rápidas tardan más en alcanzar la singularidad mientras que las más lentas desaparecen antes. Este tipo de singularidad es inevitable, ya que tarde o temprano todas las partículas deben atravesar la hipersuperficie temporal singular.
+Singularidades espaciales, como la que se encuentra en agujeros de Reissner-Nordstrom, Kerr y Kerr-Newman. Al ser hipersuperficies espaciales una partícula puede escapar de ellas y por tanto se trata de singularidades evitables.
+En relación con la visibilidad para observadores asintóticamente inerciales alejados de la región del agujero negro (espacio-tiempo de Minkowski), hay que tener en cuenta la posibilidad de que haya singularidades desnudas. Estas son un caso especial de singularidad puesto que en condiciones normales no transmiten información al resto del universo. De acuerdo a la relatividad general, existen casos en donde debido a altas cargas o a velocidades de giro, la zona que rodea a la singularidad desaparece (en otras palabras el horizonte de sucesos) dejando a esta visible en el universo que conocemos. Se supone que este caso está prohibido por la hipótesis de censura cósmica, que establece que toda singularidad debe estar separada del espacio.
+
+
+== Teoremas de singularidades ==
+Los teoremas sobre singularidades, debidos a Stephen Hawking y Roger Penrose, predicen la ocurrencia de singularidades bajo condiciones muy generales sobre la forma y características del espacio-tiempo.[4]​
+
+
+=== Expansión del universo y Big Bang ===
+El primero de los teoremas, que se enuncia a continuación, parece aplicable a nuestro universo; informalmente afirma que si tenemos un espacio-tiempo globalmente hiperbólico en expansión, entonces el universo empezó a existir a partir de una singularidad (Big Bang) hace un tiempo finito:
+
+El teorema anterior por tanto es el enunciado matemático que bajo las condiciones observadas en nuestro universo, en el que es válida la ley de Hubble, y admitiendo la validez de la teoría de la Relatividad general el universo debió empezar en algún momento.
+
+
+=== Agujeros negros y singularidades ===
+El siguiente teorema relaciona la ocurrencia de "superficies atrapadas" con la presencia de singularidades. Puesto que en un agujero negro de Schwarzschild, y presumible agujeros con geometrías similares, ocurren superficies atrapadas, el siguiente teorema predice la ocurrencia de singularidades en el interior de una clase muy amplia de agujeros negros.
+Una superficie atrapada una variedad riemanniana de dos dimensiones compacta que tiene la propiedad de que tanto su futuro causal como su pasado causal tiene en todo punto una expansión negativa. No es complicado probar que cualquier esfera, de hecho cualquier superficie cerrada contenida en una esfera, dentro de la región de agujero negro de un espacio-tiempo de Schwarzschild es una superficie atrapada, y por tanto en dicha región debe aparecer una singularidad. El enunciado de este teorema, debido a Roger Penrose (1965), es el siguiente:
+
+La existencia de una geodésica de tipo luz inextensible, implica que existirá un fotón que saliendo de dicha superficie tras un tiempo de viaje proporcional a 2/c|θ0| se topará con una singularidad temporal futura. Aunque desconocemos la naturaleza física real de las singularidades por carecer de una teoría cuántica de la gravedad el fotón o bien "desaparecerá" o bien experimentará algún fenómeno asociado a dicha teoría de la gravedad cuántica cuya naturaleza desconocemos. Además de poder neutralizar una singularidad en su más mínimo tamaño  con una fuerza equivalente o superior a dicha singularidad y una vez con esa fuerza intentando revertir el sentido de la fuerza gravitatoria se necesita una fusión (nuclear) dentro del núcleo antes de ser absorbido.
+Para la cual, la traza de la curvatura intrínseca satisface K < C < 0, donde C es una cierta constante. Entonces ninguna curva temporal partiendo de Σ y dirigida hacia el pasado puede tener una longitud mayor que 3/|C|. En particular, todas las geodésicas temporales hacia el pasado son incompletas.
+
+
+=== Conservación del área de agujero negro ===
+Aunque sin ser estrictamente teoremas de singularidades existen una colección de resultados probados por Hawking (1971) que establecen que, en el marco de la teoría general de la relatividad:
+
+Un agujero negro conexo no puede desaparecer o dividirse en dos. Por tanto si dos agujeros negros colisionaran, tras su interacción necesariamente quedarían fusionados.
+El área total de agujeros negros del universo es una función monótona creciente, más concretamente el área del horizonte de sucesos de dos agujeros en colisión es mayor o igual que la suma de áreas originales.
+La evolución temporal de una superficie atrapada en una región de agujero negro, quedará por siempre contenida en dicho agujero negro.
+Los teoremas anteriores son importantes porque garantizan, que aun en situaciones reales donde los cálculos exactos resultan complicados o imposibles, las propiedades topológicas de un espacio-tiempo que contiene agujeros negros garantizan ciertos hechos, por complicada que sea la geometría. Naturalmente sabemos que en una teoría cuántica de la gravedad los dos primeros resultados, probablemente no se mantienen. El propio Hawking sugirió que la emisión de radiación Hawking es un proceso mecano-cuántico a través del cual un agujero negro podría perder área o evaporarse; por lo que, los resultados anteriores son solo las predicciones de la teoría general de la relatividad.
+
+
+== Ocurrencia de singularidades ==
+La descripción del espacio-tiempo y de la materia que hace la teoría de la relatividad general de Einstein no puede describir adecuadamente las singularidades. De hecho, la teoría general de la relatividad solo da una descripción adecuada de la gravitación y espacio-tiempo a escalas mayores que la longitud de Planck lP:
+
+  
+    
+      
+        
+          l
+          
+            P
+          
+        
+        =
+        
+          
+            
+              
+                ℏ
+                G
+              
+              
+                c
+                
+                  3
+                
+              
+            
+          
+        
+        ≈
+        
+          10
+          
+            −
+            33
+          
+        
+        
+          
+            cm
+          
+        
+      
+    
+    {\displaystyle l_{P}={\sqrt {\frac {\hbar G}{c^{3}}}}\approx 10^{-33}{\mbox{cm}}}
+  
+
+Donde:
+
+  
+    
+      
+        ℏ
+      
+    
+    {\displaystyle \hbar }
+  
+ es la constante de Planck reducida, 
+  
+    
+      
+        G
+        
+      
+    
+    {\displaystyle G\,}
+  
+ constante de gravitación universal, 
+  
+    
+      
+        c
+        
+      
+    
+    {\displaystyle c\,}
+  
+ es la velocidad de la luz.
+De ese límite cuántico se debe esperar que igualmente la teoría de la relatividad deje de ser adecuada cuando predice una curvatura espacial del orden de lP-2 cosa que sucede muy cerca de las singularidades de curvatura como las existentes dentro de los diversos tipos de agujeros negros.
+
+
+== Véase también ==
+Agujero blanco
+Diagrama de Penrose-Carter
+Agujero negro
+Agujero negro de Schwarzschild
+Agujero negro de Kerr
+Agujero negro de Reissner-Nordström
+Agujero negro de Kerr-Newman
+Ergosfera
+Singularidad desnuda
+Anexo:Glosario de relatividad
+
+
+== Referencias ==

@@ -1,0 +1,3288 @@
+La teoría de la relatividad[1]​[2]​ incluye tanto a la teoría de la relatividad especial como la de la relatividad general, formuladas principalmente por Albert Einstein a principios del siglo XX, que pretendían resolver la incompatibilidad existente entre la mecánica newtoniana y el electromagnetismo.[3]​
+La teoría de la relatividad especial, publicada en 1905, trata de la física del movimiento de los cuerpos en ausencia de fuerzas gravitatorias, en el que se hacían compatibles las ecuaciones de Maxwell del electromagnetismo con una reformulación de las leyes del movimiento. En la teoría de la relatividad especial, Einstein, Lorentz y Minkowski, entre otros, unificaron los conceptos de espacio y tiempo, en un ramado tetradimensional al que se le denominó espacio-tiempo. La relatividad especial fue una teoría revolucionaria para su época, con la que el tiempo absoluto de  Newton quedó relegado y conceptos como la invariabilidad en la velocidad de la luz, la dilatación del tiempo, la contracción de la longitud y la equivalencia entre masa y energía fueron introducidos. Además, con las formulaciones de la relatividad especial, las leyes de la Física son invariantes en todos los sistemas de referencia inerciales; como consecuencia matemática, se encuentra como límite superior de velocidad a la de la luz y se elimina la causalidad determinista que tenía la física hasta entonces. Hay que indicar que las leyes del movimiento de Newton son un caso particular de esta teoría donde la masa, al viajar a velocidades muy pequeñas, no experimenta variación alguna en longitud ni se transforma en energía y al tiempo se le puede considerar absoluto.
+La teoría de la relatividad general, publicada en 1915, es una teoría de la gravedad que reemplaza a la gravedad newtoniana, aunque coincide numéricamente con ella para campos gravitatorios débiles y velocidades «pequeñas». La teoría general se reduce a la teoría especial en presencia de campos gravitatorios. La relatividad general estudia la interacción gravitatoria como una deformación en la geometría del espacio-tiempo. En esta teoría se introducen los conceptos de la curvatura del espacio-tiempo como la causa de la interacción gravitatoria, el principio de equivalencia que dice que para todos los observadores locales inerciales las leyes de la relatividad especial son invariantes y la introducción del movimiento de una partícula por líneas geodésicas. La relatividad general no es la única teoría que describe la atracción gravitatoria, pero es la que más datos relevantes comprobables ha encontrado. Anteriormente, a la interacción gravitatoria se la describía matemáticamente por medio de una distribución de masas, pero en esta teoría no solo la masa percibe esta interacción, sino también la energía, mediante la curvatura del espacio-tiempo y por eso se necesita otro lenguaje matemático para poder describirla, el cálculo tensorial. Muchos fenómenos, como la curvatura de la luz por acción de la gravedad y la desviación en la órbita de Mercurio, son perfectamente predichos por esta formulación. La relatividad general también abrió otro campo de investigación en la física, conocido como cosmología y es ampliamente utilizado en la astrofísica.[4]​
+El 7 de marzo de 2010, la Academia Israelí de Ciencias exhibió públicamente los manuscritos originales de Einstein (redactados en 1905). El documento, que contiene 46 páginas de textos y fórmulas matemáticas escritas a mano, fue donado por Einstein a la Universidad Hebrea de Jerusalén en 1925 con motivo de su inauguración.[5]​[6]​[7]​
+
+
+== Conceptos principales ==
+
+El supuesto básico de la teoría de la relatividad es que la localización de los sucesos físicos, tanto en el tiempo como en el espacio, son relativos al estado de movimiento del observador: así, la longitud de un objeto en movimiento o el instante en que algo sucede, a diferencia de lo que sucede en mecánica newtoniana, no son invariantes absolutos, y diferentes observadores en movimiento relativo entre sí diferirán respecto a ellos (las longitudes y los intervalos temporales, en relatividad son relativos y no absolutos).
+
+
+=== Relatividad especial ===
+
+La teoría de la relatividad especial, también llamada teoría de la relatividad restringida, fue publicada por Albert Einstein en 1905 y describe la física del movimiento en el marco de un espacio-tiempo plano. Esta teoría describe correctamente el movimiento de los cuerpos incluso a grandes velocidades y sus interacciones electromagnéticas, se usa básicamente para estudiar sistemas de referencia inerciales (no es aplicable para problemas astrofísicos donde el campo gravitatorio desempeña un papel importante).
+Estos conceptos fueron presentados anteriormente por Poincaré y Lorentz, que son considerados como precursores de la teoría. Si bien la teoría resolvía un buen número de problemas del electromagnetismo y daba una explicación del experimento de Michelson y Morley, no proporciona una descripción relativista adecuada del campo gravitatorio.
+Tras la publicación del artículo de Einstein, la nueva teoría de la relatividad especial fue aceptada en unos pocos años por prácticamente la totalidad de los físicos y los matemáticos. De hecho, Poincaré o Lorentz habían estado muy cerca de llegar al mismo resultado que Einstein. La forma geométrica definitiva de la teoría se debe a Hermann Minkowski, antiguo profesor de Einstein en la Politécnica de Zúrich; acuñó el término «espacio-tiempo» (Raumzeit) y le dio la forma matemática adecuada.[nota 1]​ El espacio-tiempo de Minkowski es una variedad tetradimensional en la que se entrelazaban de una manera indisoluble las tres dimensiones espaciales y el tiempo. En este espacio-tiempo de Minkowski, el movimiento de una partícula se representa mediante su línea de universo (Weltlinie), una curva cuyos puntos vienen determinados por cuatro variables distintas: las tres dimensiones espaciales (
+  
+    
+      
+        x
+         
+      
+    
+    {\displaystyle x\ }
+  
+,
+  
+    
+      
+        y
+         
+      
+    
+    {\displaystyle y\ }
+  
+,
+  
+    
+      
+        z
+         
+      
+    
+    {\displaystyle z\ }
+  
+) y el tiempo (
+  
+    
+      
+        t
+         
+      
+    
+    {\displaystyle t\ }
+  
+). El nuevo esquema de Minkowski obligó a reinterpretar los conceptos de la métrica existentes hasta entonces. El concepto tridimensional de punto fue sustituido por el de suceso. La magnitud de distancia se reemplaza por la magnitud de intervalo.
+
+
+=== Relatividad general ===
+
+
+== Formalismo de la teoría de la relatividad ==
+
+
+=== Partículas ===
+En la teoría de la relatividad una partícula puntual queda representada por un par 
+  
+    
+      
+        (
+        γ
+        (
+        τ
+        )
+        ,
+        m
+        )
+        
+      
+    
+    {\displaystyle (\gamma (\tau ),m)\;}
+  
+, donde 
+  
+    
+      
+        γ
+        (
+        τ
+        )
+        
+      
+    
+    {\displaystyle \gamma (\tau )\;}
+  
+ es una curva diferenciable, llamada línea de universo de la partícula, y m es un escalar que representa la masa en reposo. El vector tangente a esta curva es un vector temporal llamado cuadrivelocidad, el producto de este vector por la masa en reposo de la partícula es precisamente el cuadrimomento. Este cuadrimomento es un vector de cuatro componentes, tres de estas componentes se denominan espaciales y representan el análogo relativista del momento lineal de la mecánica clásica, la otra componente denominada componente temporal representa la generalización relativista de la energía cinética. Además, dada una curva arbitraria en el espacio-tiempo, puede definirse a lo largo de ella el llamado intervalo relativista, que se obtiene a partir del tensor métrico. El intervalo relativista medido a lo largo de la trayectoria de una partícula es proporcional al intervalo de tiempo propio o intervalo de tiempo percibido por dicha partícula.
+
+
+=== Campos ===
+Cuando se consideran campos o distribuciones continuas de masa, se necesita algún tipo de generalización para la noción de partícula. Un campo físico posee momentum y energía distribuidos en el espacio-tiempo, el concepto de cuadrimomento se generaliza mediante el llamado tensor de energía-impulso que representa la distribución en el espacio-tiempo tanto de energía como de momento lineal. A su vez un campo dependiendo de su naturaleza puede representarse por un escalar, un vector o un tensor. Por ejemplo el campo electromagnético se representa por un tensor de segundo orden totalmente antisimétrico o 2-forma. Si se conoce la variación de un campo o una distribución de materia, en el espacio y en el tiempo entonces existen procedimientos para construir su tensor de energía-impulso.
+
+
+=== Magnitudes físicas ===
+En relatividad, estas magnitudes físicas son representadas por vectores 4-dimensionales o bien por objetos matemáticos llamados tensores, que generalizan los vectores, definidos sobre un espacio de cuatro dimensiones. Matemáticamente estos 4-vectores y 4-tensores son elementos definidos del espacio vectorial tangente al espacio-tiempo (y los tensores se definen y se construyen a partir del fibrado tangente o cotangente de la variedad que representa el espacio-tiempo).
+
+Igualmente además de cuadrivectores, se definen cuadritensores (tensores ordinarios definidos sobre el fibrado tangente del espacio-tiempo concebido como variedad lorentziana). La curvatura del espacio-tiempo se representa por un 4-tensor (tensor de cuarto orden), mientras que la energía y el momento de un medio continuo o el campo electromagnético se representan mediante 2-tensores (simétrico el tensor de energía-impulso, antisimétrico el de campo electromagnético). Los cuadrivectores son de hecho 1-tensores, en esta terminología. En este contexto se dice que una magnitud es un invariante relativista si tiene el mismo valor para todos los observadores, obviamente todos los invariantes relativistas son escalares (0-tensores), frecuentemente formados por la contracción de magnitudes tensoriales.
+
+
+=== El intervalo relativista ===
+El intervalo relativista puede definirse en cualquier espacio-tiempo, sea este plano como en la relatividad especial, o curvo como en relatividad general. Sin embargo, por simplicidad, discutiremos inicialmente el concepto de intervalo para el caso de un espacio-tiempo plano. El tensor métrico del espacio-tiempo plano de Minkowski se designa con la letra 
+  
+    
+      
+        
+          
+            η
+            
+              i
+              j
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle \eta _{ij}}
+  
+, y en coordenadas galileanas o inerciales toma la siguiente forma:[nota 4]​
+
+  
+    
+      
+        
+          g
+          
+            i
+            j
+          
+        
+        =
+        
+          η
+          
+            i
+            j
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    c
+                    
+                      2
+                    
+                  
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  −
+                  1
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  −
+                  1
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  −
+                  1
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle g_{ij}=\eta _{ij}={\begin{pmatrix}c^{2}&0&0&0\\0&-1&0&0\\0&0&-1&0\\0&0&0&-1\\\end{pmatrix}}}
+  
+
+El intervalo, la distancia tetradimensional, se representa mediante la expresión 
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+         
+      
+    
+    {\displaystyle ds^{2}\ }
+  
+, que se calcula del siguiente modo:
+
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+         
+        =
+        
+          g
+          
+            i
+            j
+          
+        
+        d
+        
+          x
+          
+            i
+          
+        
+        d
+        
+          x
+          
+            j
+          
+        
+      
+    
+    {\displaystyle ds^{2}\ =g_{ij}dx^{i}dx^{j}}
+  
+
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+         
+        =
+        
+          c
+          
+            2
+          
+        
+        (
+        d
+        
+          x
+          
+            0
+          
+        
+        
+          )
+          
+            2
+          
+        
+        −
+        (
+        d
+        
+          x
+          
+            1
+          
+        
+        
+          )
+          
+            2
+          
+        
+        −
+        (
+        d
+        
+          x
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        −
+        (
+        d
+        
+          x
+          
+            3
+          
+        
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle ds^{2}\ =c^{2}(dx^{0})^{2}-(dx^{1})^{2}-(dx^{2})^{2}-(dx^{3})^{2}}
+  
+
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+         
+        =
+        
+          c
+          
+            2
+          
+        
+        d
+        
+          t
+          
+            2
+          
+        
+        −
+        d
+        
+          x
+          
+            2
+          
+        
+        −
+        d
+        
+          y
+          
+            2
+          
+        
+        −
+        d
+        
+          z
+          
+            2
+          
+        
+        =
+        
+          c
+          
+            2
+          
+        
+        d
+        
+          t
+          
+            2
+          
+        
+        −
+        (
+        d
+        
+          x
+          
+            2
+          
+        
+        +
+        d
+        
+          y
+          
+            2
+          
+        
+        +
+        d
+        
+          z
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle ds^{2}\ =c^{2}dt^{2}-dx^{2}-dy^{2}-dz^{2}=c^{2}dt^{2}-(dx^{2}+dy^{2}+dz^{2})}
+  
+
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+         
+        =
+        
+          c
+          
+            2
+          
+        
+        d
+        
+          t
+          
+            2
+          
+        
+        −
+        d
+        
+          l
+          
+            2
+          
+        
+      
+    
+    {\displaystyle ds^{2}\ =c^{2}dt^{2}-dl^{2}}
+  
+
+Los intervalos pueden ser clasificados en tres categorías: Intervalos espaciales (cuando 
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+      
+    
+    {\displaystyle ds^{2}}
+  
+ es negativo), temporales (si 
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+      
+    
+    {\displaystyle ds^{2}}
+  
+ es positivo) y nulos (cuando 
+  
+    
+      
+        
+          d
+          
+            s
+            
+              2
+            
+          
+          =
+          0
+        
+      
+    
+    {\displaystyle \scriptstyle ds^{2}=0}
+  
+). Como el lector habrá podido comprobar, los intervalos nulos son aquellos que corresponden a partículas que se mueven a la velocidad de la luz, como los fotones: La distancia 
+  
+    
+      
+        d
+        
+          l
+          
+            2
+          
+        
+      
+    
+    {\displaystyle dl^{2}}
+  
+ recorrida por el fotón es igual a su velocidad (c) multiplicada por el tiempo 
+  
+    
+      
+        
+          d
+          t
+        
+      
+    
+    {\displaystyle \scriptstyle dt}
+  
+ y por lo tanto el intervalo 
+  
+    
+      
+        
+          d
+          
+            s
+            
+              2
+            
+          
+          =
+          
+            c
+            
+              2
+            
+          
+          d
+          
+            t
+            
+              2
+            
+          
+          −
+          d
+          
+            l
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle ds^{2}=c^{2}dt^{2}-dl^{2}}
+  
+ se hace nulo.
+Los intervalos nulos pueden ser representados en forma de cono de luz, popularizados por el celebérrimo libro de Stephen Hawking, Breve Historia del Tiempo. Sea un observador situado en el origen, el futuro absoluto (los sucesos que serán percibidos por el individuo) se despliega en la parte superior del eje de ordenadas, el pasado absoluto (los sucesos que ya han sido percibidos por el individuo) en la parte inferior, y el presente percibido por el observador en el punto 0. Los sucesos que están fuera del cono de luz no nos afectan, y por lo tanto se dice de ellos que están situados en zonas del espacio-tiempo que no tienen relación de causalidad con la nuestra.
+Imaginemos, por un momento, que en la galaxia Andrómeda, situada a 2,5 millones de años luz de nosotros, sucedió un cataclismo cósmico hace 100 000 años. Dado que, primero: la luz de Andrómeda tarda 2 millones de años en llegar hasta nosotros y segundo: nada puede viajar a una velocidad superior a la de los fotones, es evidente, que no tenemos manera de enterarnos de lo que sucedió en dicha Galaxia hace tan solo 100 000 años. Se dice, por lo tanto, que el intervalo existente entre dicha hipotética catástrofe cósmica y nosotros, observadores del presente, es un intervalo espacial (
+  
+    
+      
+        d
+        
+          s
+          
+            2
+          
+        
+        <
+        0
+      
+    
+    {\displaystyle ds^{2}<0}
+  
+), y por lo tanto, no puede afectar a los individuos que en el presente viven en la Tierra: Es decir, no existe relación de causalidad entre ese evento y nosotros.
+
+Análisis
+El único problema con esta hipótesis, es que al entrar en un agujero negro, se anula el espacio-tiempo, y como ya sabemos, algo que contenga algún volumen o masa, debe tener como mínimo un espacio donde ubicarse, el tiempo en ese caso, no tiene mayor importancia, pero el espacio juega un rol muy importante en la ubicación de volúmenes, por lo que esto resulta muy improbable, pero no imposible para la tecnología.
+Podemos escoger otro episodio histórico todavía más ilustrativo: El de la estrella de Belén, tal y como fue interpretada por Johannes Kepler. Este astrónomo alemán consideraba que dicha estrella se identificaba con una supernova que tuvo lugar el año 5 a. C., cuya luz fue observada por los astrónomos chinos contemporáneos, y que vino precedida en los años anteriores por varias conjunciones planetarias en la constelación de Piscis. Esa supernova probablemente estalló miles de años atrás, pero su luz no llegó a la Tierra sino hasta el año 5 a. C. De ahí que el intervalo existente entre dicho evento y las observaciones de los astrónomos egipcios y megalíticos (que tuvieron lugar varios siglos antes de Cristo) sea un intervalo espacial, pues la radiación de la supernova nunca pudo llegarles. Por el contrario, la explosión de la supernova por un lado, y las observaciones realizadas por los tres magos en Babilonia y por los astrónomos chinos en el año 5 a. C. por el otro, están unidas entre sí por un intervalo temporal, ya que la luz sí pudo alcanzar a dichos observadores.
+El tiempo propio y el intervalo se relacionan mediante la siguiente equivalencia: 
+  
+    
+      
+        
+           
+          c
+          d
+          τ
+          =
+          d
+          s
+        
+      
+    
+    {\displaystyle \scriptstyle \ cd\tau =ds}
+  
+, es decir, el intervalo es igual al tiempo local multiplicado por la velocidad de la luz. Una de las características tanto del tiempo local como del intervalo es su invarianza ante las transformaciones de coordenadas. Sea cual sea nuestro punto de referencia, sea cual sea nuestra velocidad, el intervalo entre un determinado evento y nosotros permanece invariante.
+Esta invarianza se expresa a través de la llamada geometría hiperbólica: La ecuación del intervalo 
+  
+    
+      
+        
+          d
+          s
+        
+      
+    
+    {\displaystyle \scriptstyle ds}
+  
+ tiene la estructura de una hipérbola sobre cuatro dimensiones, cuyo término independiente coincide con el valor del cuadrado del intervalo (
+  
+    
+      
+        
+          d
+          
+            s
+            
+              2
+            
+          
+          =
+          d
+          
+            t
+            
+              2
+            
+          
+          −
+          d
+          
+            l
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle ds^{2}=dt^{2}-dl^{2}}
+  
+), que como se acaba de decir en el párrafo anterior, es constante. Las asíntotas de la hipérbola vendrían a coincidir con el cono de luz.
+
+
+=== Cuadrivelocidad, aceleración y cuadrimomentum ===
+
+En el espacio-tiempo de Minkowski, las propiedades cinemáticas de las partículas se representan fundamentalmente por tres magnitudes: La cuadrivelocidad (o tetravelocidad) , la cuadriaceleración y el cuadrimomentum (o tetramomentum).
+La cuadrivelocidad es un cuadrivector tangente a la línea de universo de la partícula, relacionada con la velocidad coordenada de un cuerpo medida por un observador en reposo cualquiera, esta velocidad coordenada se define con la expresión newtoniana 
+  
+    
+      
+        d
+        
+          x
+          
+            i
+          
+        
+        
+          /
+        
+        d
+        t
+      
+    
+    {\displaystyle dx^{i}/dt}
+  
+, donde 
+  
+    
+      
+        (
+        t
+        ,
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        ,
+        
+          x
+          
+            3
+          
+        
+        )
+        
+      
+    
+    {\displaystyle (t,x^{1},x^{2},x^{3})\;}
+  
+ son el tiempo coordenado y las coordenadas espaciales medidas por el observador, para el cual la velocidad newtoniana ampliada vendría dada por 
+  
+    
+      
+        (
+        1
+        ,
+        
+          v
+          
+            1
+          
+        
+        ,
+        
+          v
+          
+            2
+          
+        
+        ,
+        
+          v
+          
+            3
+          
+        
+        )
+        
+      
+    
+    {\displaystyle (1,v^{1},v^{2},v^{3})\,}
+  
+. Sin embargo, esta medida newtoniana de la velocidad no resulta útil en teoría de la relatividad, porque las velocidades newtonianas medidas por diferentes observadores no son fácilmente relacionables por no ser magnitudes covariantes. Así en relatividad se introduce una modificación en las expresiones que dan cuenta de la velocidad, introduciendo un invariante relativista. Este invariante es precisamente el tiempo propio de la partícula que es fácilmente relacionable con el tiempo coordenado de diferentes observadores. Usando la relación entre tiempo propio y tiempo coordenado: 
+  
+    
+      
+        d
+        t
+        =
+        γ
+        d
+        τ
+        
+      
+    
+    {\displaystyle dt=\gamma d\tau \;}
+  
+ se define la cuadrivelocidad [propia] multiplicando por 
+  
+    
+      
+         
+        γ
+      
+    
+    {\displaystyle \ \gamma }
+  
+ las de la velocidad coordenada: 
+  
+    
+      
+        
+          u
+          
+            α
+          
+        
+        =
+        
+          v
+          
+            α
+          
+        
+        γ
+        =
+        d
+        
+          x
+          
+            i
+          
+        
+        
+          /
+        
+        d
+        τ
+      
+    
+    {\displaystyle u^{\alpha }=v^{\alpha }\gamma =dx^{i}/d\tau }
+  
+.
+La velocidad coordenada de un cuerpo con masa depende caprichosamente del sistema de referencia que escojamos, mientras que la cuadrivelocidad propia es una magnitud que se transforma de acuerdo con el principio de covariancia y tiene un valor siempre constante equivalente al intervalo dividido entre el tiempo propio (
+  
+    
+      
+        d
+        s
+        
+          /
+        
+        d
+        τ
+      
+    
+    {\displaystyle ds/d\tau }
+  
+), o lo que es lo mismo, a la velocidad de la luz c. Para partículas sin masa, como los fotones, el procedimiento anterior no se puede aplicar, y la cuadrivelocidad puede definirse simplemente como vector tangente a la trayectoria seguida por los mismos.
+La cuadriaceleración puede ser definida como la derivada temporal de la cuadrivelocidad (
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        =
+        d
+        
+          u
+          
+            i
+          
+        
+        
+          /
+        
+        d
+        τ
+      
+    
+    {\displaystyle a^{i}=du^{i}/d\tau }
+  
+). Su magnitud es igual a cero en los sistemas inerciales, cuyas líneas del mundo son geodésicas, rectas en el espacio-tiempo llano de Minkowski. Por el contrario, las líneas del mundo curvadas corresponden a partículas con aceleración diferente de cero, a sistemas no inerciales.
+Junto con los principios de invarianza del intervalo y la cuadrivelocidad, juega un papel fundamental la ley de conservación del cuadrimomentum. Es aplicable aquí la definición newtoniana del momentum (
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        =
+        μ
+        
+          
+            
+              u
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}=\mu {\vec {u}}}
+  
+) como la masa (en este caso conservada, 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  
+) multiplicada por la velocidad (en este caso, la cuadrivelocidad), y por lo tanto sus componentes son los siguientes: 
+  
+    
+      
+        (
+        m
+        ,
+        
+          p
+          
+            1
+          
+        
+        ,
+        
+          p
+          
+            2
+          
+        
+        ,
+        
+          p
+          
+            3
+          
+        
+        )
+        
+      
+    
+    {\displaystyle (m,p^{1},p^{2},p^{3})\;}
+  
+, teniendo en cuenta que 
+  
+    
+      
+        m
+        =
+        μ
+        γ
+        
+      
+    
+    {\displaystyle m=\mu \gamma \;}
+  
+. La cantidad de momentum conservado es definida como la raíz cuadrada de la norma del vector de cuadrimomentum. El momentum conservado, al igual que el intervalo y la cuadrivelocidad propia, permanece invariante ante las transformaciones de coordenadas, aunque también aquí hay que distinguir entre los cuerpos con masa y los fotones. En los primeros, la magnitud del cuadriomentum es igual a la masa multiplicada por la velocidad de la luz (
+  
+    
+      
+        
+          |
+        
+        p
+        
+          |
+        
+        =
+        μ
+        c
+      
+    
+    {\displaystyle |p|=\mu c}
+  
+). Por el contrario, el cuadrimomentum conservado de los fotones es igual a la magnitud de su momentum tridimensional (
+  
+    
+      
+        
+          |
+        
+        p
+        
+          |
+        
+        =
+        p
+      
+    
+    {\displaystyle |p|=p}
+  
+).
+Como tanto la velocidad de la luz como el cuadrimomentum son magnitudes conservadas, también lo es su producto, al que se le da el nombre de energía conservada (
+  
+    
+      
+        
+          E
+          
+            c
+            o
+            n
+          
+        
+        =
+        
+          |
+        
+        p
+        
+          |
+        
+        c
+      
+    
+    {\displaystyle E_{con}=|p|c}
+  
+), que en los cuerpos con masa equivale a la masa multiplicada por la velocidad de la luz al cuadrado (
+  
+    
+      
+        
+          E
+          
+            c
+            o
+            n
+          
+        
+        =
+        μ
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{con}=\mu c^{2}}
+  
+, la famosa fórmula de Einstein) y en los fotones al momentum multiplicado por la velocidad de la luz (
+  
+    
+      
+        
+          E
+          
+            c
+            o
+            n
+          
+        
+        =
+        p
+        c
+      
+    
+    {\displaystyle E_{con}=pc}
+  
+)
+
+Componentes 
+  
+    
+      
+        →
+        (
+        
+          p
+          
+            0
+          
+        
+        ,
+        
+          p
+          
+            1
+          
+        
+        ,
+        
+          p
+          
+            2
+          
+        
+        ,
+        
+          p
+          
+            3
+          
+        
+        )
+        →
+        (
+        μ
+        γ
+        ,
+        μ
+        
+          v
+          
+            1
+          
+        
+        γ
+        ,
+        μ
+        
+          v
+          
+            2
+          
+        
+        γ
+        ,
+        μ
+        
+          v
+          
+            3
+          
+        
+        γ
+        )
+        →
+        (
+        m
+        ,
+        
+          p
+          
+            1
+          
+        
+        ,
+        
+          p
+          
+            2
+          
+        
+        ,
+        
+          p
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle \to (p^{0},p^{1},p^{2},p^{3})\to (\mu \gamma ,\mu v^{1}\gamma ,\mu v^{2}\gamma ,\mu v^{3}\gamma )\to (m,p^{1},p^{2},p^{3})}
+  
+
+Magnitud del cuadrimomentum 
+  
+    
+      
+        →
+        
+          |
+        
+        p
+        
+          |
+        
+        =
+        
+          
+            
+              
+                
+                  p
+                  →
+                
+              
+            
+            ⋅
+            
+              
+                
+                  p
+                  →
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              m
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+            −
+            
+              p
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  E
+                  
+                    2
+                  
+                
+                
+                  c
+                  
+                    2
+                  
+                
+              
+            
+            −
+            
+              p
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \to |p|={\sqrt {{\vec {p}}\cdot {\vec {p}}}}={\sqrt {m^{2}c^{2}-p^{2}}}={\sqrt {{\frac {E^{2}}{c^{2}}}-p^{2}}}}
+  
+
+Magnitud en cuerpos con masa 
+  
+    
+      
+        →
+        
+          |
+        
+        p
+        
+          |
+        
+        =
+        
+          
+            
+              
+                
+                  p
+                  →
+                
+              
+            
+            ⋅
+            
+              
+                
+                  p
+                  →
+                
+              
+            
+          
+        
+        =
+        m
+        
+          
+            
+              
+                
+                  u
+                  →
+                
+              
+            
+            ⋅
+            
+              
+                
+                  u
+                  →
+                
+              
+            
+          
+        
+        =
+        μ
+        c
+      
+    
+    {\displaystyle \to |p|={\sqrt {{\vec {p}}\cdot {\vec {p}}}}=m{\sqrt {{\vec {u}}\cdot {\vec {u}}}}=\mu c}
+  
+
+Magnitud en fotones (masa = 0) 
+  
+    
+      
+        →
+        
+          |
+        
+        p
+        
+          |
+        
+        =
+        
+          
+            
+              
+                
+                  p
+                  →
+                
+              
+            
+            ⋅
+            
+              
+                
+                  p
+                  →
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              m
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+            −
+            
+              p
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            
+              p
+              
+                2
+              
+            
+          
+        
+        =
+        p
+      
+    
+    {\displaystyle \to |p|={\sqrt {{\vec {p}}\cdot {\vec {p}}}}={\sqrt {m^{2}c^{2}-p^{2}}}={\sqrt {p^{2}}}=p}
+  
+
+Energía 
+  
+    
+      
+        →
+        
+          E
+          
+            c
+            o
+            n
+          
+        
+        =
+        c
+        
+          |
+        
+        p
+        
+          |
+        
+        =
+        c
+        
+          
+            
+              
+                
+                  p
+                  →
+                
+              
+            
+            ⋅
+            
+              
+                
+                  p
+                  →
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              E
+              
+                2
+              
+            
+            −
+            
+              p
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \to E_{con}=c|p|=c{\sqrt {{\vec {p}}\cdot {\vec {p}}}}={\sqrt {E^{2}-p^{2}c^{2}}}}
+  
+
+Energía en cuerpos con masa (cuerpos en reposo, p=0) 
+  
+    
+      
+        →
+        
+          E
+          
+            c
+            o
+            n
+          
+        
+        =
+        
+          
+            
+              m
+              
+                2
+              
+            
+            
+              c
+              
+                4
+              
+            
+            −
+            
+              p
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        →
+        
+          E
+          
+            c
+            o
+            n
+          
+        
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \to E_{con}={\sqrt {m^{2}c^{4}-p^{2}c^{2}}}\to E_{con}=mc^{2}}
+  
+
+Energía en fotones (masa en reposo = 0) 
+  
+    
+      
+        →
+        
+          E
+          
+            c
+            o
+            n
+          
+        
+        =
+        
+          
+            
+              m
+              
+                2
+              
+            
+            
+              c
+              
+                4
+              
+            
+            −
+            
+              p
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            
+              p
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        =
+        p
+        c
+      
+    
+    {\displaystyle \to E_{con}={\sqrt {m^{2}c^{4}-p^{2}c^{2}}}={\sqrt {p^{2}c^{2}}}=pc}
+  
+
+La aparición de la Relatividad Especial puso fin a la secular disputa que mantenían en el seno de la mecánica clásica las escuelas de los mecanicistas y los energetistas. Los primeros sostenían, siguiendo a Descartes y Huygens, que la magnitud conservada en todo movimiento venía constituida por el momentum total del sistema, mientras que los energetistas -que tomaban por base los estudios de Leibniz- consideraban que la magnitud conservada venía conformada por la suma de dos cantidades: La fuerza viva, equivalente a la mitad de la masa multiplicada por la velocidad al cuadrado (
+  
+    
+      
+        m
+        
+          v
+          
+            2
+          
+        
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle mv^{2}/2}
+  
+) a la que hoy denominaríamos «energía cinética», y la fuerza muerta, equivalente a la altura por la constante g (
+  
+    
+      
+        h
+        g
+      
+    
+    {\displaystyle hg}
+  
+), que correspondería a la «energía potencial». Fue el físico alemán Hermann von Helmholtz el que primero dio a la fuerzas leibnizianas la denominación genérica de energía y el que formuló la Ley de conservación de la energía, que no se restringe a la mecánica, que se extiende también a otras disciplinas físicas como la termodinámica.
+La mecánica newtoniana dio la razón a ambos postulados, afirmando que tanto el momentum como la energía son magnitudes conservadas en todo movimiento sometido a fuerzas conservativas. Sin embargo, la Relatividad Especial dio un paso más allá, por cuanto a partir de los trabajos de Einstein y Minkowski el momentum y la energía dejaron de ser considerados como entidades independientes y se les pasó a considerar como dos aspectos, dos facetas de una única magnitud conservada: el cuadrimomentum.
+
+
+=== El tensor de energía-impulso (Tab) ===
+
+Tres son las ecuaciones fundamentales que en física newtoniana describen el fenómeno de la gravitación universal: la primera, afirma que la fuerza gravitatoria entre dos cuerpos es proporcional al producto de sus masas e inversamente proporcional al cuadrado de su distancia (1); la segunda, que el potencial gravitatorio (
+  
+    
+      
+         
+        Φ
+      
+    
+    {\displaystyle \ \Phi }
+  
+) en un determinado punto es igual a la masa multiplicada por la constante G y dividida por la distancia r (2); y la tercera, finalmente, es la llamada ecuación de Poisson (3), que indica que el laplaciano[nota 5]​ del potencial gravitatorio es igual a 
+  
+    
+      
+         
+        4
+        π
+        G
+        ρ
+      
+    
+    {\displaystyle \ 4\pi G\rho }
+  
+, donde 
+  
+    
+      
+         
+        ρ
+      
+    
+    {\displaystyle \ \rho }
+  
+ es la densidad de masa en una determinada región esférica.
+
+  
+    
+      
+        F
+        =
+        
+          
+            
+              G
+              M
+              m
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle F={\frac {GMm}{r^{2}}}(1)}
+  
+
+  
+    
+      
+        →
+        Φ
+        =
+        
+          
+            
+              G
+              M
+            
+            r
+          
+        
+        (
+        2
+        )
+      
+    
+    {\displaystyle \to \Phi ={\frac {GM}{r}}(2)}
+  
+
+  
+    
+      
+        →
+        Δ
+        Φ
+        =
+        4
+        π
+        G
+        ρ
+        (
+        3
+        )
+      
+    
+    {\displaystyle \to \Delta \Phi =4\pi G\rho (3)}
+  
+
+Sin embargo, estas ecuaciones no son compatibles con la Relatividad Especial por dos razones:
+
+En primer lugar la masa no es una magnitud absoluta, sino que su medición deriva en resultados diferentes dependiendo de la velocidad relativa del observador. De ahí que la densidad de masa 
+  
+    
+      
+         
+        ρ
+      
+    
+    {\displaystyle \ \rho }
+  
+ no puede servir de parámetro de interacción gravitatoria entre dos cuerpos.
+En segundo lugar, si el concepto de espacio es relativo, también lo es la noción de densidad. Es evidente que la contracción del espacio producida por el incremento de la velocidad de un observador, impide la existencia de densidades que permanezcan invariables ante las transformaciones de Lorentz.
+Por todo ello, resulta necesario prescindir del término 
+  
+    
+      
+         
+        ρ
+      
+    
+    {\displaystyle \ \rho }
+  
+, situado en el lado derecho de la fórmula de Poisson y sustituirlo por un objeto geométrico-matemático que permanezca invariante ante las transformaciones de Lorentz: Dicho objeto fue definido por Einstein en sus ecuaciones de universo y recibe el nombre de tensor de energía-momentum (
+  
+    
+      
+         
+        
+          T
+          
+            α
+            β
+          
+        
+      
+    
+    {\displaystyle \ T^{\alpha \beta }}
+  
+). Sus coeficientes describen la cantidad de tetramomentum 
+  
+    
+      
+         
+        
+          p
+          
+            α
+          
+        
+      
+    
+    {\displaystyle \ p^{\alpha }}
+  
+ que atraviesa una hipersuperficie 
+  
+    
+      
+         
+        
+          Π
+          
+            β
+          
+        
+      
+    
+    {\displaystyle \ \Pi _{\beta }}
+  
+, normal al vector unitario 
+  
+    
+      
+        
+          
+            
+              
+                u
+                →
+              
+            
+          
+          
+            β
+          
+        
+      
+    
+    {\displaystyle {\vec {u}}^{\beta }}
+  
+. De este modo, el tensor de energía momentum puede expresarse mediante la siguiente ecuación:
+
+  
+    
+      
+         
+        
+          p
+          
+            α
+          
+        
+        =
+        
+          ∫
+          
+            Π
+          
+        
+        
+          T
+          
+            α
+            β
+          
+        
+        d
+        
+          Π
+          
+            β
+          
+        
+      
+    
+    {\displaystyle \ p^{\alpha }=\int _{\Pi }T^{\alpha \beta }d\Pi _{\beta }}
+  
+
+O lo que es lo mismo: El componente 
+  
+    
+      
+         
+        
+          p
+          
+            α
+          
+        
+      
+    
+    {\displaystyle \ p^{\alpha }}
+  
+ del tetramomentum es igual a la integral de hipersuperficie 
+  
+    
+      
+         
+        d
+        
+          Π
+          
+            β
+          
+        
+      
+    
+    {\displaystyle \ d\Pi _{\beta }}
+  
+ del tensor de tensión-energía. En un fluido ideal, del que están ausentes tanto la viscosidad como la conducción de calor, los componentes del tetramomentum se calculan de la siguiente forma:
+
+  
+    
+      
+        
+          T
+          
+            α
+            β
+          
+        
+        
+        =
+        
+          (
+          
+            ρ
+            +
+            
+              
+                P
+                
+                  c
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        
+          u
+          
+            α
+          
+        
+        
+          u
+          
+            β
+          
+        
+        −
+        P
+        
+          g
+          
+            α
+            β
+          
+        
+      
+    
+    {\displaystyle T^{\alpha \beta }\,=\left(\rho +{P \over c^{2}}\right)u^{\alpha }u^{\beta }-Pg^{\alpha \beta }}
+  
+
+donde 
+  
+    
+      
+         
+        ρ
+      
+    
+    {\displaystyle \ \rho }
+  
+ es la densidad de masa-energía (masa por unidad de volumen tridimensional), 
+  
+    
+      
+         
+        P
+      
+    
+    {\displaystyle \ P}
+  
+ es la presión hidrostática, 
+  
+    
+      
+         
+        
+          u
+          
+            α
+          
+        
+      
+    
+    {\displaystyle \ u^{\alpha }}
+  
+ es la cuadrivelocidad del fluido, y 
+  
+    
+      
+         
+        
+          g
+          
+            α
+            β
+          
+        
+      
+    
+    {\displaystyle \ g^{\alpha \beta }}
+  
+ es la matriz inversa del tensor métrico de la variedad.
+Además, si los componentes del tensor se miden por un observador en reposo relativo respecto al fluido, entonces, el tensor métrico viene constituido simplemente por la métrica de Minkowski:
+
+  
+    
+      
+        
+          g
+          
+            α
+            β
+          
+        
+        
+        =
+        
+          η
+          
+            α
+            β
+          
+        
+        =
+        diag
+        ⁡
+        (
+        
+          c
+          
+            2
+          
+        
+        ,
+        −
+        1
+        ,
+        −
+        1
+        ,
+        −
+        1
+        )
+      
+    
+    {\displaystyle g_{\alpha \beta }\,=\eta _{\alpha \beta }=\operatorname {diag} (c^{2},-1,-1,-1)}
+  
+
+  
+    
+      
+        
+          g
+          
+            α
+            β
+          
+        
+        
+        =
+        
+          η
+          
+            α
+            β
+          
+        
+        =
+        diag
+        ⁡
+        
+          (
+          
+            
+              
+                1
+                
+                  c
+                  
+                    2
+                  
+                
+              
+            
+            ,
+            −
+            1
+            ,
+            −
+            1
+            ,
+            −
+            1
+          
+          )
+        
+      
+    
+    {\displaystyle g^{\alpha \beta }\,=\eta ^{\alpha \beta }=\operatorname {diag} \left({\frac {1}{c^{2}}},-1,-1,-1\right)}
+  
+
+Puesto que además la tetravelocidad del fluido respecto al observador en reposo es:
+
+  
+    
+      
+         
+        
+          u
+          
+            α
+          
+        
+        =
+        (
+        1
+        ,
+        0
+        ,
+        0
+        ,
+        0
+        )
+      
+    
+    {\displaystyle \ u^{\alpha }=(1,0,0,0)}
+  
+
+como consecuencia de ello, los coeficientes del tensor de tensión-energía son los siguientes:
+
+  
+    
+      
+        
+          T
+          
+            α
+            β
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  ρ
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  −
+                  
+                    P
+                    
+                      1
+                    
+                  
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  −
+                  
+                    P
+                    
+                      2
+                    
+                  
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  −
+                  
+                    P
+                    
+                      3
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle T^{\alpha \beta }={\begin{pmatrix}\rho &0&0&0\\0&-P_{1}&0&0\\0&0&-P_{2}&0\\0&0&0&-P_{3}\\\end{pmatrix}}}
+  
+
+Donde 
+  
+    
+      
+         
+        ρ
+      
+    
+    {\displaystyle \ \rho }
+  
+ es la densidad de masa, y 
+  
+    
+      
+         
+        
+          P
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \ P_{i}}
+  
+ son los componentes tridimensionales de la presión hidrostática. Como vemos, el campo gravitatorio tiene dos fuentes diferentes: La masa y el momentum del fluido en cuestión. Los efectos gravitatorios originados por la masa se denominan efectos gravitoeléctricos, mientras que aquellos que se deben al momentum reciben el nombre de efectos gravitomagnéticos. Los primeros tienen una intensidad 
+  
+    
+      
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle c^{2}}
+  
+ superior a los segundos, que solo se manifiestan en aquellos casos en los que las partículas del fluido se mueven con una velocidad cercana a la de la luz (se habla entonces de fluidos relativistas): Es el caso de los chorros (jets) que emanan del centro de la galaxia y que se propulsan en las dos direcciones marcadas por el eje de rotación de este cuerpo cósmico; de la materia que se precipita hacia un agujero negro; y del fluido estelar que se dirige hacia el centro de la estrella cuando esta entra en colapso. En este último caso, durante las fases finales del proceso de contracción de la estrella, la presión hidrostática puede llegar a ser tan fuerte como para llegar a acelerar el colapso, en lugar de ralentizarlo.
+Podemos, a partir del tensor de tensión-energía, calcular cuánta masa contiene un determinado volumen del fluido: Retomando la definición de este tensor expuesta unas líneas más arriba, se puede definir al coeficiente 
+  
+    
+      
+         
+        
+          T
+          
+            00
+          
+        
+      
+    
+    {\displaystyle \ T^{00}}
+  
+ como la cantidad de momentum 
+  
+    
+      
+         
+        
+          p
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \ p^{0}}
+  
+ (esto es, la masa) que atraviesa la hipersuperficie 
+  
+    
+      
+         
+        d
+        
+          Π
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \ d\Pi _{0}}
+  
+. En el espacio-tiempo de Minkowski, la hipersuperficie 
+  
+    
+      
+         
+        d
+        
+          Π
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \ d\Pi _{0}}
+  
+ es aquella región que se define por las tres bases vectoriales normales al vector 
+  
+    
+      
+         
+        d
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \ dx^{0}}
+  
+: 
+  
+    
+      
+         
+        
+          Π
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \ \Pi _{0}}
+  
+ es, por tanto, un volumen tridimensional, definido por los vectores base 
+  
+    
+      
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle {\vec {e}}_{1}}
+  
+ (eje x), 
+  
+    
+      
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\vec {e}}_{2}}
+  
+ (eje y), y 
+  
+    
+      
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle {\vec {e}}_{3}}
+  
+ (eje z). Podemos por tanto escribir:
+
+  
+    
+      
+         
+        
+          p
+          
+            0
+          
+        
+        =
+        ∫
+        
+          T
+          
+            00
+          
+        
+        d
+        
+          Π
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \ p^{0}=\int T^{00}d\Pi _{0}}
+  
+
+  
+    
+      
+         
+        m
+        =
+        ∫
+        ρ
+        d
+        V
+      
+    
+    {\displaystyle \ m=\int \rho dV}
+  
+
+Del mismo modo, es posible deducir matemáticamente a partir del tensor de tensión-energía la definición newtoniana de presión, introduciendo en la mentada ecuación cualquier par de índices que sean diferentes de cero:
+
+  
+    
+      
+         
+        
+          p
+          
+            1
+          
+        
+        =
+        
+          ∫
+          
+            Π
+          
+        
+        
+          T
+          
+            11
+          
+        
+        d
+        
+          Π
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \ p^{1}=\int _{\Pi }T^{11}d\Pi _{1}}
+  
+
+La hipersuperficie 
+  
+    
+      
+         
+        d
+        
+          Π
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \ d\Pi _{1}}
+  
+ es aquella región del espacio-tiempo definida por los tres vectores unitarios normales a 
+  
+    
+      
+         
+        d
+        
+          x
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \ dx_{1}}
+  
+ (se trata de los dos vectores espaciales, 
+  
+    
+      
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\vec {e}}_{2}}
+  
+ y 
+  
+    
+      
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle {\vec {e}}_{3}}
+  
+, correspondientes a los ejes y y z; y del vector temporal 
+  
+    
+      
+        
+          
+            
+              
+                e
+                →
+              
+            
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\vec {e}}_{0}}
+  
+ —o 
+  
+    
+      
+         
+        d
+        t
+      
+    
+    {\displaystyle \ dt}
+  
+, como se prefiera—). Esta definición nos permite descomponer la integral de hipersuperficie en una integral temporal (cuyo integrando viene definido por 
+  
+    
+      
+         
+        d
+        t
+      
+    
+    {\displaystyle \ dt}
+  
+) y otra de superficie (esta vez bidimensional, 
+  
+    
+      
+         
+        d
+        S
+      
+    
+    {\displaystyle \ dS}
+  
+):
+
+  
+    
+      
+         
+        
+          p
+          
+            1
+          
+        
+        =
+        ∫
+        
+          ∫
+          
+            S
+          
+        
+        −
+        
+          P
+          
+            1
+          
+        
+        d
+        
+          S
+          
+            1
+          
+        
+        d
+        t
+      
+    
+    {\displaystyle \ p^{1}=\int \int _{S}-P_{1}dS_{1}dt}
+  
+
+Finalmente, derivamos parcialmente ambos miembros de la ecuación respecto al tiempo, y teniendo en cuenta que la fuerza no es más que la tasa de incremento temporal del momentum obtenemos el resultado siguiente:
+
+  
+    
+      
+         
+        
+          F
+          
+            1
+          
+        
+        =
+        ∫
+        −
+        
+          P
+          
+            1
+          
+        
+        d
+        
+          S
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \ F^{1}=\int -P_{1}dS_{1}}
+  
+
+Que contiene la definición newtoniana de la presión como fuerza ejercida por unidad de superficie.
+
+
+=== El tensor electromagnético (Fab) ===
+
+Las ecuaciones deducidas por el físico escocés James Clerk Maxwell demostraron que electricidad y magnetismo no son más que dos manifestaciones de un mismo fenómeno físico: el campo electromagnético. Ahora bien, para describir las propiedades de este campo los físicos de finales del siglo XIX debían utilizar dos vectores diferentes, los correspondientes los campos eléctrico y magnético.
+Fue la llegada de la relatividad especial la que permitió describir las propiedades del electromagnetismo con un solo objeto geométrico, el vector cuadripotencial, cuyo componente temporal se correspondía con el potencial eléctrico, mientras que sus componentes espaciales eran los mismos que los del potencial magnético.
+
+  
+    
+      
+         
+        
+          A
+          
+            α
+          
+        
+        =
+        (
+        V
+        ,
+        
+          A
+          
+            x
+          
+        
+        ,
+        
+          A
+          
+            y
+          
+        
+        ,
+        
+          A
+          
+            y
+          
+        
+        )
+      
+    
+    {\displaystyle \ A^{\alpha }=(V,A_{x},A_{y},A_{y})}
+  
+
+De este modo, el campo eléctrico puede ser entendido como la suma del gradiente del potencial eléctrico más la derivada temporal del potencial magnético:
+
+  
+    
+      
+        E
+        =
+        −
+        ∇
+        V
+        −
+        
+          
+            
+              ∂
+              A
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle E=-\nabla V-{\frac {\partial A}{\partial t}}}
+  
+
+y el campo magnético, como el rotacional del potencial magnético:
+
+  
+    
+      
+        B
+        =
+        ∇
+        ×
+        A
+      
+    
+    {\displaystyle B=\nabla \times A}
+  
+
+Las propiedades del campo electromagnético pueden también expresarse utilizando un tensor de segundo orden denominado tensor de Faraday y que se obtiene diferenciando exteriormente al vector cuadripotencial 
+  
+    
+      
+         
+        
+          A
+          
+            α
+          
+        
+      
+    
+    {\displaystyle \ A^{\alpha }}
+  
+
+  
+    
+      
+        
+          F
+          
+            α
+            β
+          
+        
+        =
+        
+          ∂
+          
+            α
+          
+        
+        
+          A
+          
+            β
+          
+        
+        −
+        
+          ∂
+          
+            β
+          
+        
+        
+          A
+          
+            α
+          
+        
+      
+    
+    {\displaystyle F_{\alpha \beta }=\partial _{\alpha }A_{\beta }-\partial _{\beta }A_{\alpha }}
+  
+
+  
+    
+      
+        
+          F
+          
+            α
+            β
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  0
+                
+                
+                  
+                    E
+                    
+                      x
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+                
+                  
+                    E
+                    
+                      y
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+                
+                  
+                    E
+                    
+                      z
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+              
+              
+                
+                  −
+                  
+                    E
+                    
+                      x
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+                
+                  0
+                
+                
+                  
+                    B
+                    
+                      z
+                    
+                  
+                
+                
+                  −
+                  
+                    B
+                    
+                      y
+                    
+                  
+                
+              
+              
+                
+                  −
+                  
+                    E
+                    
+                      y
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+                
+                  −
+                  
+                    B
+                    
+                      z
+                    
+                  
+                
+                
+                  0
+                
+                
+                  
+                    B
+                    
+                      x
+                    
+                  
+                
+              
+              
+                
+                  −
+                  
+                    E
+                    
+                      z
+                    
+                  
+                  
+                    /
+                  
+                  c
+                
+                
+                  
+                    B
+                    
+                      y
+                    
+                  
+                
+                
+                  −
+                  
+                    B
+                    
+                      x
+                    
+                  
+                
+                
+                  0
+                
+              
+            
+            )
+          
+        
+        ;
+        
+          F
+          
+            β
+          
+          
+            α
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  0
+                
+                
+                  
+                    E
+                    
+                      x
+                    
+                  
+                
+                
+                  
+                    E
+                    
+                      y
+                    
+                  
+                
+                
+                  
+                    E
+                    
+                      z
+                    
+                  
+                
+              
+              
+                
+                  −
+                  
+                    E
+                    
+                      x
+                    
+                  
+                
+                
+                  0
+                
+                
+                  
+                    B
+                    
+                      z
+                    
+                  
+                
+                
+                  −
+                  
+                    B
+                    
+                      y
+                    
+                  
+                
+              
+              
+                
+                  −
+                  
+                    E
+                    
+                      y
+                    
+                  
+                
+                
+                  −
+                  
+                    B
+                    
+                      z
+                    
+                  
+                
+                
+                  0
+                
+                
+                  
+                    B
+                    
+                      x
+                    
+                  
+                
+              
+              
+                
+                  −
+                  
+                    E
+                    
+                      z
+                    
+                  
+                
+                
+                  
+                    B
+                    
+                      y
+                    
+                  
+                
+                
+                  −
+                  
+                    B
+                    
+                      x
+                    
+                  
+                
+                
+                  0
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle F^{\alpha \beta }={\begin{pmatrix}0&E_{x}/c&E_{y}/c&E_{z}/c\\-E_{x}/c&0&B_{z}&-B_{y}\\-E_{y}/c&-B_{z}&0&B_{x}\\-E_{z}/c&B_{y}&-B_{x}&0\end{pmatrix}};F_{\beta }^{\alpha }={\begin{pmatrix}0&E_{x}&E_{y}&E_{z}\\-E_{x}&0&B_{z}&-B_{y}\\-E_{y}&-B_{z}&0&B_{x}\\-E_{z}&B_{y}&-B_{x}&0\end{pmatrix}}}
+  
+
+La fuerza de Lorentz puede deducirse a partir de la siguiente expresión:
+
+  
+    
+      
+        
+          f
+          
+            α
+          
+        
+        =
+        q
+        
+          F
+          
+            β
+          
+          
+            α
+          
+        
+        
+          u
+          
+            β
+          
+        
+      
+    
+    {\displaystyle f^{\alpha }=qF_{\beta }^{\alpha }u^{\beta }}
+  
+
+  
+    
+      
+        F
+        =
+        q
+        (
+        E
+        +
+        u
+        ×
+        v
+        )
+      
+    
+    {\displaystyle F=q(E+u\times v)}
+  
+
+Donde q es la carga y 
+  
+    
+      
+        
+          u
+          
+            α
+          
+        
+      
+    
+    {\displaystyle u^{\alpha }}
+  
+ la cuadrivelocidad de la partícula.
+
+
+== Véase también ==
+ Portal:Física. Contenido relacionado con Física.
+Teoría de la relatividad especial
+Relatividad general
+Anexo:Glosario de relatividad
+
+
+== Notas ==
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Einstein, Albert (1905). «De la Electrodinámica de los Cuerpos en Movimiento (Zur Elektrodynamik Bewegter Korper).». Annalen der Physik 17: 891-921.  (Texto en español)
+Einstein, Albert (1916). «Los Fundamentos de la Teoría General de la Relatividad (Die Grundlage der allgemeinen Relativitatstheorie)». Annalen der Physik: 769-822.  (Texto en español)
+Minkowski, Hermann (1908). «Espacio y Tiempo (Raum und Zeit)». Editado por David Hilbert, Leipzig por BG Teubner 2: 431-444.  (Texto en español)
+Girbau, J.: Geometria diferencial i relativitat, Ed. Universidad Autónoma de Barcelona, 1993. ISBN 84-7929-776-X.
+Glick, T. F. (1987). The Comparative Reception of Relativity (en inglés). Springer Science & Business Media. ISBN 9789027724984. 
+Bedacarratz R.: Introducción a la geometría y relatividad. Ed. Universidad nacional de Córdoba, 1986.
+
+
+== Enlaces externos ==
+ Wikiquote alberga frases célebres de o sobre Teoría de la relatividad.
+ Wikimedia Commons alberga una categoría multimedia sobre Teoría de la relatividad.
+La Relatividad sin fórmulas, en eltamiz.com (13 de mayo de 2009).
+Surveying the shunting line of a ray of light of the space (traducido al portugués)

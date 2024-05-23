@@ -1,0 +1,351 @@
+Hydrogeology (hydro- meaning water, and -geology meaning the study of the Earth) is the area of geology that deals with the distribution and movement of groundwater in the soil and rocks of the Earth's crust (commonly in aquifers). The terms groundwater hydrology, geohydrology, and hydrogeology are often used interchangeably.
+Hydrogeology is the study of the laws governing the movement of subterranean water, the mechanical, chemical, and thermal interaction of this water with the porous solid, and the transport of energy, chemical constituents, and particulate matter by flow (Domenico and Schwartz, 1998).
+Groundwater engineering, another name for hydrogeology, is a branch of engineering which is concerned with groundwater movement and design of wells, pumps, and drains. The main concerns in groundwater engineering include groundwater contamination, conservation of supplies, and water quality.
+Wells are constructed for use in developing nations, as well as for use in developed nations in places which are not connected to a city water system. Wells must be designed and maintained to uphold the integrity of the aquifer, and to prevent contaminants from reaching the groundwater. Controversy arises in the use of groundwater when its usage impacts surface water systems, or when human activity threatens the integrity of the local aquifer system.
+
+
+== Introduction ==
+Hydrogeology is an interdisciplinary subject; it can be difficult to account fully for the chemical, physical, biological and even legal interactions between soil, water, nature and society. The study of the interaction between groundwater movement and geology can be quite complex. Groundwater does not always follow the surface topography; groundwater follows pressure gradients (flow from high pressure to low), often through fractures and conduits in circuitous paths. Taking into account the interplay of the different facets of a multi-component system often requires knowledge in several diverse fields at both the experimental and theoretical levels. The following is a more traditional introduction to the methods and nomenclature of saturated subsurface hydrology.
+
+
+== Hydrogeology in relation to other fields ==
+
+Hydrogeology, as stated above, is a branch of the earth sciences dealing with the flow of water through aquifers and other shallow porous media (typically less than 450 m below the land surface). The very shallow flow of water in the subsurface (the upper 3 m) is pertinent to the fields of soil science, agriculture and civil engineering, as well as to hydrogeology. The general flow of fluids (water, hydrocarbons, geothermal fluids, etc.) in deeper formations is also a concern of  geologists, geophysicists and petroleum geologists.  Groundwater is a slow-moving, viscous fluid (with a Reynolds number less than unity); many of the empirically derived laws of groundwater flow can be alternately derived in fluid mechanics from the special case of Stokes flow (viscosity and pressure terms, but no inertial term).
+
+The mathematical relationships used to describe the flow of water through porous media are Darcy's law, the diffusion and Laplace equations, which have applications in many diverse fields. Steady groundwater flow (Laplace equation) has been simulated using electrical, elastic and heat conduction analogies. Transient groundwater flow is analogous to the diffusion of heat in a solid, therefore some solutions to hydrological problems have been adapted from heat transfer literature.
+Traditionally, the movement of groundwater has been studied separately from surface water, climatology, and even the chemical and microbiological aspects of hydrogeology (the processes are uncoupled). As the field of hydrogeology matures, the strong interactions between groundwater, surface water, water chemistry, soil moisture and even climate are becoming more clear.
+California and Washington both require special certification of hydrogeologists to offer professional services to the public. Twenty-nine states require professional licensing for geologists to offer their services to the public, which often includes work within the domains of developing, managing, and/or remediating groundwater resources.
+For example: aquifer drawdown or overdrafting and the pumping of fossil water may be a contributing factor to sea-level rise.
+
+
+== Subjects ==
+
+One of the main tasks a hydrogeologist typically performs is the prediction of future behavior of an aquifer system, based on analysis of past and present observations. Some hypothetical, but characteristic questions asked would be:
+
+Can the aquifer support another subdivision?
+Will the river dry up if the farmer doubles his irrigation?
+Did the chemicals from the dry cleaning facility travel through the aquifer to my well and make me sick?
+Will the plume of effluent leaving my neighbor's septic system flow to my drinking water well?
+Most of these questions can be addressed through simulation of the hydrologic system (using numerical models or analytic equations). Accurate simulation of the aquifer system requires knowledge of the aquifer properties and boundary conditions. Therefore, a common task of the hydrogeologist is determining aquifer properties using aquifer tests.
+In order to further characterize aquifers and aquitards some primary and derived physical properties are introduced below. Aquifers are broadly classified as being either confined or unconfined (water table aquifers), and either saturated or unsaturated; the type of aquifer affects what properties control the flow of water in that medium (e.g., the release of water from storage for confined aquifers is related to the storativity, while it is related to the specific yield for unconfined aquifers).
+
+
+=== Aquifers ===
+
+An aquifer is a collection of water underneath the surface, large enough to be useful in a spring or a well. Aquifers can be unconfined, where the top of the aquifer is defined by the water table, or confined, where the aquifer exists underneath a confining bed.
+There are three aspects that control the nature of aquifers: stratigraphy, lithology, and geological formations and deposits. The stratigraphy relates the age and geometry of the many formations that compose the aquifer. The lithology refers to the physical components of an aquifer, such as the mineral composition and grain size. The structural features are the elements that arise due to deformations after deposition, such as fractures and folds. Understanding these aspects is paramount to understanding of how an aquifer is formed and how professionals can utilize it for groundwater engineering.
+
+
+=== Hydraulic head ===
+
+Differences in hydraulic head (h) cause water to move from one place to another; water flows from locations of high h to locations of low h. Hydraulic head is composed of pressure head (ψ) and elevation head (z). The head gradient is the change in hydraulic head per length of flowpath, and appears in Darcy's law as being proportional to the discharge.
+Hydraulic head is a directly measurable property that can take on any value (because of the arbitrary datum involved in the z term); ψ can be measured with a pressure transducer (this value can be negative, e.g., suction, but is positive in saturated aquifers), and z can be measured relative to a surveyed datum (typically the top of the well casing). Commonly, in wells tapping unconfined aquifers the water level in a well is used as a proxy for hydraulic head, assuming there is no vertical gradient of pressure. Often only changes in hydraulic head through time are needed, so the constant elevation head term can be left out (Δh = Δψ).
+A record of hydraulic head through time at a well is a hydrograph or, the changes in hydraulic head recorded during the pumping of a well in a test are called drawdown.
+
+
+=== Porosity ===
+
+Porosity (n) is a directly measurable aquifer property; it is a fraction between 0 and 1 indicating the amount of pore space between unconsolidated soil particles or within a fractured rock. Typically, the majority of groundwater (and anything dissolved in it) moves through the porosity available to flow (sometimes called effective porosity). Permeability is an expression of the connectedness of the pores. For instance, an unfractured rock unit may have a high porosity (it has many holes between its constituent grains), but a low permeability (none of the pores are connected). An example of this phenomenon is pumice, which, when in its unfractured state, can make a poor aquifer.
+Porosity does not directly affect the distribution of hydraulic head in an aquifer, but it has a very strong effect on the migration of dissolved contaminants, since it affects groundwater flow velocities through an inversely proportional relationship.
+Darcy's law is commonly applied to study the movement of water, or other fluids through porous media, and constitutes the basis for many hydrogeological analyses.
+
+
+=== Water content ===
+
+Water content (θ) is also a directly measurable property; it is the fraction of the total rock which is filled with liquid water. This is also a fraction between 0 and 1, but it must also be less than or equal to the total porosity.
+The water content is very important in vadose zone hydrology, where the hydraulic conductivity is a strongly nonlinear function of water content; this complicates the solution of the unsaturated groundwater flow equation.
+
+
+=== Hydraulic conductivity ===
+
+Hydraulic conductivity (K) and transmissivity (T) are indirect aquifer properties (they cannot be measured directly). T is the K integrated over the vertical thickness (b) of the aquifer (T=Kb when K is constant over the entire thickness). These properties are measures of an aquifer's ability to transmit water. Intrinsic permeability (κ) is a secondary medium property which does not depend on the viscosity and density of the fluid (K and T are specific to water); it is used more in the petroleum industry.
+
+
+=== Specific storage and specific yield ===
+
+Specific storage (Ss) and its depth-integrated equivalent, storativity (S=Ssb), are indirect aquifer properties (they cannot be measured directly); they indicate the amount of groundwater released from storage due to a unit depressurization of a confined aquifer. They are fractions between 0 and 1.
+Specific yield (Sy) is also a ratio between 0 and 1 (Sy ≤ porosity) and indicates the amount of water released due to drainage from lowering the water table in an unconfined aquifer. The value for specific yield is less than the value for porosity because some water will remain in the medium even after drainage due to intermolecular forces. Often the porosity or effective porosity is used as an upper bound to the specific yield. Typically Sy is orders of magnitude larger than Ss.
+
+
+=== Fault zone hydrogeology ===
+
+Fault zone hydrogeology is the study of how brittlely deformed rocks alter fluid flows in different lithological settings, such as clastic, igneous and carbonate rocks. Fluid movements, that can be quantified as permeability, can be facilitated or impeded due to the existence of a fault zone. This is because different mechanism and deformed rocks can alter the porosity and hence the permeability within fault zone. Fluids involved generally are groundwater (fresh and marine waters) and hydrocarbons (Oil and Gas). As fault zone is a zone of weakness that helps to increase the weathered zone thickness and hence the help in ground water recharge. Along with faults, fractures and foliations also facilitate the groundwater mainly in hard rock terrains.
+
+
+=== Contaminant transport properties ===
+Often we are interested in how the moving groundwater will transport dissolved contaminants around (the sub-field of contaminant hydrogeology). The contaminants which are man-made (e.g., petroleum products, nitrate, Chromium or radionuclides) or naturally occurring (e.g., arsenic, salinity), can be transported through three main mechanisms, advection (transport along the main direction of flow at seepage velocity), diffusion (migration of the contaminant from high to low concentration areas), and dispersion (due to microscale heterogeneities present in the porous medium and non-uniform velocity distribution relative to seepage velocity). Besides needing to understand where the groundwater is flowing, based on the other hydrologic properties discussed above, there are additional aquifer properties which affect how dissolved contaminants move with groundwater.
+
+
+==== Hydrodynamic dispersion ====
+Hydrodynamic dispersivity (αL, αT) is an empirical factor which quantifies how much contaminants stray away from the path of the groundwater which is carrying it. Some of the contaminants will be "behind" or "ahead" the mean groundwater, giving rise to a longitudinal dispersivity (αL), and some will be "to the sides of" the pure advective groundwater flow, leading to a transverse dispersivity (αT). Dispersion in groundwater arises because each water "particle", passing beyond a soil particle, must choose where to go, whether left or right or up or down, so that the water "particles" (and their solute) are gradually spread in all directions around the mean path. This is the "microscopic" mechanism, on the scale of soil particles. More important, over long distances, can be the macroscopic inhomogeneities of the aquifer, which can have regions of larger or smaller permeability, so that some water can find a preferential path in one direction, some other in a different direction, so that the contaminant can be spread in a completely irregular way, like in a (three-dimensional) delta of a river.
+Dispersivity is actually a factor which represents our lack of information about the system we are simulating. There are many small details about the aquifer which are effectively averaged when using a macroscopic approach (e.g., tiny beds of gravel and clay in sand aquifers); these manifest themselves as an apparent dispersivity. Because of this, α is often claimed to be dependent on the length scale of the problem — the dispersivity found for transport through 1 m3 of aquifer is different from that for transport through 1 cm3 of the same aquifer material.
+
+
+==== Molecular diffusion ====
+Diffusion is a fundamental physical phenomenon, which Albert Einstein characterized as Brownian motion, that describes the random thermal movement of molecules and small particles in gases and liquids. It is an important phenomenon for small distances (it is essential for the achievement of thermodynamic equilibria), but, as the time necessary to cover a distance by diffusion is proportional to the square of the distance itself, it is ineffective for spreading a solute over macroscopic distances. The diffusion coefficient, D, is typically quite small, and its effect can often be considered negligible (unless groundwater flow velocities are extremely low, as they are in clay aquitards).
+It is important not to confuse diffusion with dispersion, as the former is a physical phenomenon and the latter is an empirical factor which is cast into a similar form as diffusion, because we already know how to solve that problem.
+
+
+==== Retardation by adsorption ====
+The retardation factor is another very important feature that make the motion of the contaminant to deviate from the average groundwater motion. It is analogous to the retardation factor of chromatography. Unlike diffusion and dispersion, which simply spread the contaminant, the retardation factor changes its global average velocity, so that it can be much slower than that of water. This is due to a chemico-physical effect: the adsorption to the soil, which holds the contaminant back and does not allow it to progress until the quantity corresponding to the chemical adsorption equilibrium has been adsorbed. This effect is particularly important for less soluble contaminants, which thus can move even hundreds or thousands times slower than water. The effect of this phenomenon is that only more soluble species can cover long distances. The retardation factor depends on the chemical nature of both the contaminant and the aquifer.
+
+
+== History and development ==
+
+
+=== Henry Darcy: 19th century ===
+Henry Darcy was a French scientist who made advances in flow of fluids through porous materials. He conducted experiments which studied the movement of fluids through sand columns. These experiments led to the determination of Darcy's law, which describes fluid flow through a medium with high levels of porosity. Darcy's work is considered to be the beginning of quantitative hydrogeology.
+
+
+=== Oscar Edward Meinzer: 20th century ===
+Oscar Edward Meinzer was an American scientist who is often called the "father of modern groundwater hydrology". He standardized key terms in the field as well as determined principles regarding occurrence, movement, and discharge. He proved that the flow of water obeys Darcy's law. He also proposed the use of geophysical methods and recorders on wells, as well as suggested pumping tests to gather quantitative information on the properties of aquifers. Meinzer also highlighted the importance of studying the geochemistry of water, as well as the impact of high salinity levels in aquifers.
+
+
+== Governing equations ==
+
+
+=== Darcy's law ===
+
+Darcy's law is a constitutive equation, empirically derived by Henry Darcy in 1856, which states that the amount of groundwater discharging through a given portion of aquifer is proportional to the cross-sectional area of flow, the hydraulic gradient, and the hydraulic conductivity.
+
+
+=== Groundwater flow equation ===
+
+The groundwater flow equation, in its most general form, describes the movement of groundwater in a porous medium (aquifers and aquitards). It is known in mathematics as the diffusion equation, and has many analogs in other fields. Many solutions for groundwater flow problems were borrowed or adapted from existing heat transfer solutions.
+It is often derived from a physical basis using Darcy's law and a conservation of mass for a small control volume. The equation is often used to predict flow to wells, which have radial symmetry, so the flow equation is commonly solved in polar or cylindrical coordinates.
+The Theis equation is one of the most commonly used and fundamental solutions to the groundwater flow equation; it can be used to predict the transient evolution of head due to the effects of pumping one or a number of pumping wells.
+The Thiem equation is a solution to the steady state groundwater flow equation (Laplace's Equation) for flow to a well. Unless there are large sources of water nearby (a river or lake), true steady-state is rarely achieved in reality.
+Both above equations are used in aquifer tests (pump tests).
+The Hooghoudt equation is a groundwater flow equation applied to subsurface drainage by pipes, tile drains or ditches. An alternative subsurface drainage method is drainage by wells for which groundwater flow equations are also available.
+
+
+== Calculation of groundwater flow ==
+
+To use the groundwater flow equation to estimate the distribution of hydraulic heads,
+or the direction and rate of groundwater flow, this partial differential equation (PDE) must be solved. The most common means of analytically solving the diffusion equation in the hydrogeology literature are:
+
+Laplace, Hankel and Fourier transforms (to reduce the number of dimensions of the PDE),
+similarity transform (also called the Boltzmann transform) is commonly how the Theis solution is derived,
+separation of variables, which is more useful for non-Cartesian coordinates, and
+Green's functions, which is another common method for deriving the Theis solution — from the fundamental solution to the diffusion equation in free space.
+No matter which method we use to solve the groundwater flow equation, we need both initial conditions
+(heads at time (t) = 0) and boundary conditions (representing either the physical
+boundaries of the domain, or an approximation of the domain beyond that
+point). Often the initial conditions are supplied to a transient
+simulation, by a corresponding steady-state simulation (where the time
+derivative in the groundwater flow equation is set equal to 0).
+There are two broad categories of how the (PDE) would be solved; either
+analytical methods, numerical methods, or something possibly in between. Typically, analytic methods solve the groundwater flow equation under a simplified set of conditions exactly, while numerical methods solve it under more general conditions to an approximation.
+
+
+=== Analytic methods ===
+Analytic methods typically use the structure of mathematics to arrive at a simple, elegant solution, but the required derivation for all but the simplest domain geometries can be quite complex (involving non-standard coordinates, conformal mapping, etc.). Analytic solutions typically are also simply an equation that can give a quick answer based on a few basic parameters. The Theis equation is a very simple (yet still very useful) analytic solution to the groundwater flow equation, typically used to analyze the results of an aquifer test or slug test.
+
+
+=== Numerical methods ===
+The topic of numerical methods is quite large, obviously being of use to most fields of engineering and science in general. Numerical methods have been around much longer than computers have (In the 1920s Richardson developed some of the finite difference schemes still in use today, but they were calculated by hand, using paper and pencil, by human "calculators"), but they have become very important through the availability of fast and cheap personal computers. A quick survey of the main numerical methods used in hydrogeology, and some of the most basic principles are shown below and further discussed in the Groundwater model article.
+There are two broad categories of numerical methods: gridded or discretized methods and non-gridded or mesh-free methods. In the common finite difference method and finite element method (FEM) the domain is completely gridded ("cut" into a grid or mesh of small elements). The analytic element method (AEM) and the boundary integral equation method (BIEM — sometimes also called BEM, or Boundary Element Method) are only discretized at boundaries or along flow elements (line sinks, area sources, etc.), the majority of the domain is mesh-free.
+
+
+==== General properties of gridded methods ====
+Gridded Methods like finite difference and finite element methods solve the groundwater flow equation by breaking the problem area (domain) into many small elements (squares, rectangles, triangles, blocks, tetrahedra, etc.) and solving the flow equation for each element (all material properties are assumed constant or possibly linearly variable within an element), then linking together all the elements using conservation of mass across the boundaries between the elements (similar to the divergence theorem). This results in a system which overall approximates the groundwater flow equation, but exactly matches the boundary conditions (the head or flux is specified in the elements which intersect the boundaries).
+Finite differences are a way of representing continuous differential operators using discrete intervals (Δx and Δt), and the finite difference methods are based on these (they are derived from a Taylor series). For example, the first-order time derivative is often approximated using the following forward finite difference, where the subscripts indicate a discrete time location,
+
+  
+    
+      
+        
+          
+            
+              ∂
+              h
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        
+          h
+          ′
+        
+        (
+        
+          t
+          
+            i
+          
+        
+        )
+        ≈
+        
+          
+            
+              
+                h
+                
+                  i
+                
+              
+              −
+              
+                h
+                
+                  i
+                  −
+                  1
+                
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {\partial h}{\partial t}}=h'(t_{i})\approx {\frac {h_{i}-h_{i-1}}{\Delta t}}.}
+  
+
+The forward finite difference approximation is unconditionally stable, but leads to an implicit set of equations (that must be solved using matrix methods, e.g. LU or Cholesky decomposition). The similar backwards difference is only conditionally stable, but it is explicit and can be used to "march" forward in the time direction, solving one grid node at a time (or possibly in parallel, since one node depends only on its immediate neighbors). Rather than the finite difference method, sometimes the Galerkin FEM approximation is used in space (this is different from the type of FEM often used in structural engineering) with finite differences still used in time.
+
+
+==== Application of finite difference models ====
+MODFLOW is a well-known example of a general finite difference groundwater flow model. It is developed by the US Geological Survey as a modular and extensible simulation tool for modeling groundwater flow. It is free software developed, documented and distributed by the USGS. Many commercial products have grown up around it, providing graphical user interfaces to its input file based interface, and typically incorporating pre- and post-processing of user data. Many other models have been developed to work with MODFLOW input and output, making linked models which simulate several hydrologic processes possible (flow and transport models, surface water and groundwater models and chemical reaction models), because of the simple, well documented nature of MODFLOW.
+
+
+==== Application of finite element models ====
+Finite Element programs are more flexible in design (triangular elements vs. the block elements most finite difference models use) and there are some programs available (SUTRA, a 2D or 3D density-dependent flow model by the USGS; Hydrus, a commercial unsaturated flow model; FEFLOW, a commercial modelling environment for subsurface flow, solute and heat transport processes; OpenGeoSys, a scientific open-source project for thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media; COMSOL Multiphysics (a commercial general modelling environment), FEATool Multiphysics an easy to use MATLAB simulation toolbox, and Integrated Water Flow Model (IWFM), but they are still not as popular in with practicing hydrogeologists as MODFLOW is.  Finite element models are more popular in university and laboratory environments, where specialized models solve non-standard forms of the flow equation (unsaturated flow, density dependent flow, coupled heat and groundwater flow, etc.)
+
+
+==== Application of finite volume models ====
+The finite volume method is a method for representing and evaluating partial differential equations as algebraic equations. Similar to the finite difference method, values are calculated at discrete places on a meshed geometry. "Finite volume" refers to the small volume surrounding each node point on a mesh. In the finite volume method, volume integrals in a partial differential equation that contain a divergence term are converted to surface integrals, using the divergence theorem. These terms are then evaluated as fluxes at the surfaces of each finite volume. Because the flux entering a given volume is identical to that leaving the adjacent volume, these methods are conservative. Another advantage of the finite volume method is that it is easily formulated to allow for unstructured meshes. The method is used in many computational fluid dynamics packages.
+PORFLOW software package is a comprehensive mathematical model for simulation of Ground Water Flow and Nuclear Waste Management developed by Analytic & Computational Research, Inc., ACRi.
+The FEHM software package is available free from Los Alamos National Laboratory.  This versatile porous flow simulator includes capabilities to model multiphase, thermal, stress, and multicomponent reactive chemistry.  Current work using this code includes simulation of methane hydrate formation, CO2 sequestration, oil shale extraction, migration of both nuclear and chemical contaminants, environmental isotope migration in the unsaturated zone, and karst formation.
+
+
+==== Other methods ====
+These include mesh-free methods like the Analytic Element Method (AEM) and the Boundary Element Method (BEM), which are closer to analytic solutions, but they do approximate the groundwater flow equation in some way.  The BEM and AEM exactly solve the groundwater flow equation (perfect mass balance), while approximating the boundary conditions.  These methods are more exact and can be much more elegant solutions (like analytic methods are), but have not seen as widespread use outside academic and research groups yet.
+
+
+== Water wells ==
+A water well is a mechanism for bringing groundwater to the surface by drilling or digging and bringing it up to the surface with a pump or by hand using buckets or similar devices. The first historical instance of water wells was in the 52nd century BC in modern-day Austria. Today, wells are used all over the world, from developing nations to suburbs in the United States.
+There are three main types of wells, shallow, deep, and artesian. Shallow wells tap into unconfined aquifers, and are, generally, shallow, less than 15 meters deep. Shallow wells have a small diameter, usually less than 15 centimeters. Deep wells access confined aquifers, and are always drilled by machine. All deep wells bring water to the surface using mechanical pumps. In artesian wells, water flows naturally without the use of a pump or some other mechanical device. This is due to the top of the well being located below the water table.
+
+
+=== Water well design and construction ===
+
+One of the most important aspects of groundwater engineering and hydrogeology is water well design and construction. Proper well design and construction are important to maintain the health of the groundwater and the people which will use the well. Factors which must be considered in well design are:
+
+A reliable aquifer, providing a continuous water supply
+The quality of the accessible groundwater
+How to monitor the well
+Operating costs of the well
+Expected yield of the well
+Any prior drilling into the aquifer
+There are five main areas to be considered when planning and constructing a new water well, along with the factors above. They are:
+
+Aquifer Suitability
+"Well Design Considerations
+Well Drilling Methods
+Well Screen Design and Development
+Well Testing"
+Aquifer suitability starts with determining possible locations for the well using "USGS reports, well logs, and cross sections" of the aquifer. This information should be used to determine aquifer properties such as depth, thickness, transmissivity, and well yield. In this stage, the quality of the water in the aquifer should also be determined, and screening should occur to check for contaminants.
+After factors such as depth and well yield are determined, the well design and drilling approach must be established. Drilling method is selected based on "soil conditions, well depth, design, and costs." At this stage, cost estimates are prepared, and plans are adjusted to meet budgetary needs.
+Important parts of a well include the well seals, casings or liners, drive shoes, well screen assemblies, and a sand or gravel pack (optional). Each of these components ensures that the well only draws from one aquifer, and no leakage occurs at any stage of the process.
+There are several methods of drilling which can be used when constructing a water well. They include: "Cable tool, Air rotary, Mud rotary, and Flooded reverse circulation dual rotary" drilling techniques. Cable tool drilling is inexpensive and can be used for all types of wells, but the alignment must be constantly checked and it has a slow advance rate. It is not an effective drilling technique for consolidated formations, but does provide a small drilling footprint. Air rotary drilling is cost effective and works well for consolidated formations. It has a fast advance rate, but is not adequate for large diameter wells. Mud rotary drilling is especially cost effective for deep wells. It maintains good alignment, but requires a larger footprint. It has a very fast advance rate. Flooded reverse circulation dual rotary drilling is more expensive, but good for large well designs. It is versatile and maintains alignment. It has a fast advance rate.
+Well screens ensure that only water makes it to the surface, and sediments remain beneath the Earth's surface. Screens are placed along the shaft of the well to filter out sediment as water is pumped towards the surface. Screen design can be impacted by the nature of the soil, and natural pack designs can be used to maximize efficiency.
+After construction of the well, testing must be done to assess productivity, efficiency and yield of the well, as well as determine the impacts of the well on the aquifer. Several different tests should be completed on the well in order to test all relevant qualities of the well.
+
+
+== Issues in groundwater engineering and hydrogeology ==
+
+
+=== Contamination ===
+Groundwater contamination happens when other fluids seep into the aquifer and mix with existing groundwater. Pesticides, fertilizers, and gasoline are common contaminants of aquifers. Underground storage tanks for chemicals such as gasoline are especially concerning sources of groundwater contamination. As these tanks corrode, they can leak, and their contents can contaminate nearby groundwater. For buildings which are not connected to a wastewater treatment system, septic tanks can be used to dispose of waste at a safe rate. If septic tanks are not built or maintained properly, they can leak bacteria, viruses and other chemicals into the surrounding groundwater. Landfills are another potential source of groundwater contamination. As trash is buried, harmful chemicals can migrate from the garbage and into the surrounding groundwater if the protective base layer is cracked or otherwise damaged. Other chemicals, such as road salts and chemicals used on lawns and farms, can runoff into local reservoirs, and eventually into aquifers. As water goes through the water cycle, contaminants in the atmosphere can contaminate the water. This water can also make its way into groundwater.
+
+
+=== Controversy ===
+
+
+==== Fracking ====
+Contamination of groundwater due to fracking has long been debated. Since chemicals commonly used in hydraulic fracturing are not tested by government agencies responsible for determining the effects of fracking on groundwater, laboratories at the United States Environmental Protection Agency, or EPA, have a hard time determining if chemicals used in fracking are present in nearby aquifers. In 2016, the EPA released a report which states that drinking water can be contaminated by fracking. This was a reversal of their previous policies after a $29 million study into the effects of fracking on local drinking water.
+
+
+==== California ====
+California sees some of the largest controversies in groundwater usage due to the dry conditions California faces, high population, and intensive agriculture. Conflicts generally occur over pumping groundwater and shipping it out of the area, unfair use of water by a commercial company, and contamination of groundwater by development projects. In Siskiyou County in northern California, the California Superior Court ruled poor groundwater regulations have allowed pumping to diminish the flows in the Scott River and disturbed the natural habitat of salmon. In Owens Valley in central California, groundwater was pumped for use in fish farms, which resulted in the death of local meadows and other ecosystems. This resulted in a lawsuit and settlement against the fish companies. Development in southern California is threatening local aquifers, contaminating groundwater through construction and normal human activity. For example, a solar project in San Bernardino County would allegedly threaten the ecosystem of bird and wildlife species because of its use of up to 1.3 million cubic meters of groundwater, which could impact Harper Lake. In September 2014, California passed the Sustainable Groundwater Management Act, which requires users to manage groundwater appropriately, as it is connected to surface water systems.
+
+
+==== Colorado ====
+Due to its arid climate, the state of Colorado gets most of its water from underground. Because of this, there have been issues regarding groundwater engineering practices. As many as 65,000 people were affected when high levels of PFCs were found in the Widefield Aquifer. Groundwater use in Colorado dates back to before the 20th century. Nineteen of Colorado's 63 counties depend mostly on groundwater for supplies and domestic uses. The Colorado Geological Survey has three significant reports on groundwater in the Denver Basin. The first report Geology of Upper Cretaceous, Paleocene and Eocene Strata in the Southwestern Denver Basin, The second report Bedrock Geology, Structure, and Isopach Maps of the Upper Cretaceous to Paleogene Strata between Greeley and Colorado Springs, The third publication Cross Sections of the Freshwater Bearing Strata of the Denver Basin between Greeley and Colorado Springs. 
+
+
+== New trends in groundwater engineering/hydrogeology ==
+Since the first wells were made thousands of years ago, groundwater systems have been changed by human activity. Fifty years ago, the sustainability of these systems on a larger scale began to come into consideration, becoming one of the main focuses of groundwater engineering. New ideas and research are advancing groundwater engineering into the 21st century, while still considering groundwater conservation.
+
+
+=== Topographical mapping ===
+New advancements have arisen in topographical mapping to improve sustainability. Topographic mapping has been updated to include radar, which can penetrate the ground to help pinpoint areas of concern. In addition, large computations can use gathered data from maps to further the knowledge of groundwater aquifers in recent years. This has made highly complex and individualized water cycle models possible, which has helped to make groundwater sustainability more applicable to specific situations.
+
+
+=== The role of technology ===
+Technological improvements have advanced topographical mapping, and have also improved the quality of lithosphere, hydrosphere, biosphere, and atmosphere simulations.  These simulations are useful on their own; however, when used together, they help to give an even more accurate prediction of the future sustainability of an area, and what changes can be made to ensure stability in the area. This would not be possible without the advancement of technology. As technology continues to progress, the simulations will increase in accuracy and allow for more complex studies and projects in groundwater engineering.
+
+
+=== Growing populations ===
+As populations continue to grow, areas which were using groundwater at a sustainable rate are now beginning to face sustainability issues for the future. Populations of the size currently seen in large cities were not taken into consideration when the long term sustainability of aquifers. These large population sizes are beginning to stress groundwater supply. This has led to the need for new policies in some urban areas. These are known as proactive land-use management, where cities can move proactively to conserve groundwater.
+In Brazil, overpopulation caused municipally provided water to run low. Due to the shortage of water, people began to drill wells within the range normally served by the municipal water system. This was a solution for people in high socioeconomic standing, but left much of the underprivileged population without access to water. Because of this, a new municipal policy was created which drilled wells to assist those who could not afford to drill wells of their own. Because the city is in charge of drilling the new wells, they can better plan for the future sustainability of the groundwater in the region, by carefully placing the wells and taking growing populations into consideration.
+
+
+=== Dependency on groundwater in the United States ===
+In the United States, 51% of the drinking water comes from groundwater supplies. Around 99% of the rural population depends on groundwater. In addition, 64% of the total groundwater of the country is used for irrigation, and some of it is used for industrial processes and recharge for lakes and rivers. In 2010, 22 percent of freshwater used in US came from groundwater and the other 78 percent came from surface water. Groundwater is important for some states that don't have access to fresh water. most of the fresh groundwater 65 percent is used for irrigation and the 21 percent is used for public purposes drinking mostly. 
+
+
+== See also ==
+Environmental engineering is a broad category hydrogeology fits into;
+Flownet is an analysis tool for steady-state flow;
+Groundwater energy balance: groundwater flow equations based on the energy balance;
+Fault zone hydrogeology: field specifically analyzing hydrogeology in fault zones
+Hydrogeophysics: field integrating hydrogeology with geophysics
+Hydrology (agriculture)
+Isotope hydrology is often used to understand sources and travel times in groundwater systems;
+List of important publications in geology#Hydrogeology  : important publications;
+Oscar Edward Meinzer is considered the "father of modern groundwater hydrology";
+SahysMod is a spatial agro-hydro-salinity model with groundwater flow in a polygonal network;
+Spring (hydrology) and water supply network are subjects the hydrogeologist is concerned about;
+Water cycle, hydrosphere and water resources are larger concepts which hydrogeology is a part of
+Coastal hydrogeology
+
+
+== References ==
+
+
+== Further reading ==
+
+
+=== General hydrogeology ===
+
+
+=== Numerical groundwater modeling ===
+
+
+=== Analytic groundwater modeling ===
+
+Fitts, C. R (2010). "Modeling aquifer systems with analytic elements and subdomains". Water Resources Research. 46 (7). Bibcode:2010WRR....46.7521F. doi:10.1029/2009WR008331. S2CID 130977774.
+
+
+== External links ==
+International Association of Hydrogeologists — worldwide association for groundwater specialists.
+UK Groundwater Forum — Groundwater in the UK
+Centre for Groundwater Studies — Groundwater Education and Research.
+EPA drinking water standards — the maximum contaminant levels (mcl) for dissolved species in US drinking water.
+US Geological Survey water resources homepage — a good place to find free data (for both US surface water and groundwater) and free groundwater modeling software like MODFLOW.
+US Geological Survey TWRI index — a series of instructional manuals covering common procedures in hydrogeology. They are freely available online as PDF files.
+International Ground Water Modeling Center (IGWMC) Archived 2008-12-09 at the Wayback Machine — an educational repository of groundwater modeling software which offers support for most software, some of which is free.
+The Hydrogeologist Time Capsule — a video collection of interviews of eminent hydrogeologists who have made a material difference to the profession.
+IGRAC International Groundwater Resources Assessment Centre
+US Army Geospatial Center — For information on OCONUS surface water and groundwater.

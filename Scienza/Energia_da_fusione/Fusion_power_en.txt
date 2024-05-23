@@ -1,0 +1,647 @@
+Fusion power is a proposed form of power generation that would generate electricity by using heat from nuclear fusion reactions. In a fusion process, two lighter atomic nuclei combine to form a heavier nucleus, while releasing energy. Devices designed to harness this energy are known as fusion reactors. Research into fusion reactors began in the 1940s, but as of 2024, no device has reached net power, although net positive reactions have been achieved.
+Fusion processes require fuel and a confined environment with sufficient temperature, pressure, and confinement time to create a plasma in which fusion can occur. The combination of these figures that results in a power-producing system is known as the Lawson criterion. In stars the most common fuel is hydrogen, and gravity provides extremely long confinement times that reach the conditions needed for fusion energy production. Proposed fusion reactors generally use heavy hydrogen isotopes such as deuterium and tritium (and especially a mixture of the two), which react more easily than protium (the most common hydrogen isotope), to allow them to reach the Lawson criterion requirements with less extreme conditions. Most designs aim to heat their fuel to around 100 million kelvins, which presents a major challenge in producing a successful design. Tritium is extremely rare on earth, having a half life of only ~12.3 years. Consequently, during the operation of envisioned fusion reactors, known as breeder reactors, helium cooled pebble beds (HCPBs) are subjected to neutron fluxes to generate tritium to complete the fuel cycle. 
+As a source of power, nuclear fusion has a number of potential advantages compared to fission. These include reduced radioactivity in operation, little high-level nuclear waste, ample fuel supplies (assuming tritium breeding or some forms of aneutronic fuels), and increased safety. However, the necessary combination of temperature, pressure, and duration has proven to be difficult to produce in a practical and economical manner. A second issue that affects common reactions is managing neutrons that are released during the reaction, which over time degrade many common materials used within the reaction chamber.
+Fusion researchers have investigated various confinement concepts. The early emphasis was on three main systems: z-pinch, stellarator, and magnetic mirror. The current leading designs are the tokamak and inertial confinement (ICF) by laser. Both designs are under research at very large scales, most notably the ITER tokamak in France and the National Ignition Facility (NIF) laser in the United States. Researchers are also studying other designs that may offer less expensive approaches. Among these alternatives, there is increasing interest in magnetized target fusion and inertial electrostatic confinement, and new variations of the stellarator.
+
+
+== Background ==
+
+
+=== Mechanism ===
+Fusion reactions occur when two or more atomic nuclei come close enough for long enough that the nuclear force pulling them together exceeds the electrostatic force pushing them apart, fusing them into heavier nuclei. For nuclei heavier than iron-56, the reaction is endothermic, requiring an input of energy. The heavy nuclei bigger than iron have many more protons resulting in a greater repulsive force. For nuclei lighter than iron-56, the reaction is exothermic, releasing energy when they fuse. Since hydrogen has a single proton in its nucleus, it requires the least effort to attain fusion, and yields the most net energy output. Also since it has one electron, hydrogen is the easiest fuel to fully ionize.
+The repulsive electrostatic interaction between nuclei operates across larger distances than the strong force, which has a range of roughly one femtometer—the diameter of a proton or neutron. The fuel atoms must be supplied enough kinetic energy to approach one another closely enough for the strong force to overcome the electrostatic repulsion in order to initiate fusion. The "Coulomb barrier" is the quantity of kinetic energy required to move the fuel atoms near enough. Atoms can be heated to extremely high temperatures or accelerated in a particle accelerator to produce this energy.
+An atom loses its electrons once it is heated past its ionization energy. An ion is the name for the resultant bare nucleus. The result of this ionization is plasma, which is a heated cloud of ions and free electrons that were formerly bound to them. Plasmas are electrically conducting and magnetically controlled because the charges are separated. This is used by several fusion devices to confine the hot particles.
+
+
+=== Cross section ===
+
+A reaction's cross section, denoted σ, measures the probability that a fusion reaction will happen. This depends on the relative velocity of the two nuclei. Higher relative velocities generally increase the probability, but the probability begins to decrease again at very high energies.
+In a plasma, particle velocity can be characterized using a probability distribution. If the plasma is thermalized, the distribution looks like a Gaussian curve, or Maxwell–Boltzmann distribution. In this case, it is useful to use the average particle cross section over the velocity distribution. This is entered into the volumetric fusion rate:
+
+  
+    
+      
+        
+          P
+          
+            fusion
+          
+        
+        =
+        
+          n
+          
+            A
+          
+        
+        
+          n
+          
+            B
+          
+        
+        ⟨
+        σ
+        
+          v
+          
+            A
+            ,
+            B
+          
+        
+        ⟩
+        
+          E
+          
+            fusion
+          
+        
+      
+    
+    {\displaystyle P_{\text{fusion}}=n_{A}n_{B}\langle \sigma v_{A,B}\rangle E_{\text{fusion}}}
+  
+
+where:
+
+  
+    
+      
+        
+          P
+          
+            fusion
+          
+        
+      
+    
+    {\displaystyle P_{\text{fusion}}}
+  
+ is the energy made by fusion, per time and volume
+n is the number density of species A or B, of the particles in the volume
+
+  
+    
+      
+        ⟨
+        σ
+        
+          v
+          
+            A
+            ,
+            B
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \langle \sigma v_{A,B}\rangle }
+  
+ is the cross section of that reaction, average over all the velocities of the two species v
+
+  
+    
+      
+        
+          E
+          
+            fusion
+          
+        
+      
+    
+    {\displaystyle E_{\text{fusion}}}
+  
+ is the energy released by that fusion reaction.
+
+
+=== Lawson criterion ===
+The Lawson criterion considers the energy balance between the energy produced in fusion reactions to the energy being lost to the environment. In order to generate usable energy, a system would have to produce more energy than it loses. Lawson assumed an energy balance, shown below.
+
+  
+    
+      
+        
+          P
+          
+            out
+          
+        
+        =
+        
+          η
+          
+            capture
+          
+        
+        
+          (
+          
+            
+              P
+              
+                fusion
+              
+            
+            −
+            
+              P
+              
+                conduction
+              
+            
+            −
+            
+              P
+              
+                radiation
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle P_{\text{out}}=\eta _{\text{capture}}\left(P_{\text{fusion}}-P_{\text{conduction}}-P_{\text{radiation}}\right)}
+  
+
+where:
+
+  
+    
+      
+        
+          P
+          
+            out
+          
+        
+      
+    
+    {\displaystyle P_{\text{out}}}
+  
+ is the net power from fusion
+
+  
+    
+      
+        
+          η
+          
+            capture
+          
+        
+      
+    
+    {\displaystyle \eta _{\text{capture}}}
+  
+ is the efficiency of capturing the output of the fusion
+
+  
+    
+      
+        
+          P
+          
+            fusion
+          
+        
+      
+    
+    {\displaystyle P_{\text{fusion}}}
+  
+ is the rate of energy generated by the fusion reactions
+
+  
+    
+      
+        
+          P
+          
+            conduction
+          
+        
+      
+    
+    {\displaystyle P_{\text{conduction}}}
+  
+ is the conduction losses as energetic mass leaves the plasma
+
+  
+    
+      
+        
+          P
+          
+            radiation
+          
+        
+      
+    
+    {\displaystyle P_{\text{radiation}}}
+  
+ is the radiation losses as energy leaves as light.
+The rate of fusion, and thus Pfusion, depends on the temperature and density of the plasma. The plasma loses energy through conduction and radiation. Conduction occurs when ions, electrons, or neutrals impact other substances, typically a surface of the device, and transfer a portion of their kinetic energy to the other atoms. The rate of conduction is also based on the temperature and density. Radiation is energy that leaves the cloud as light. Radiation also increases with temperature as well as the mass of the ions. Fusion power systems must operate in a region where the rate of fusion is higher than the losses.
+
+
+=== Triple product: density, temperature, time ===
+
+The Lawson criterion argues that a machine holding a thermalized and quasi-neutral plasma has to generate enough energy to overcome its energy losses. The amount of energy released in a given volume is a function of the temperature, and thus the reaction rate on a per-particle basis, the density of particles within that volume, and finally the confinement time, the length of time that energy stays within the volume. This is known as the "triple product": the plasma density, temperature, and confinement time.
+In magnetic confinement, the density is low, on the order of a "good vacuum". For instance, in the ITER device the fuel density is about 1.0 × 1019 m−3, which is about one-millionth atmospheric density. This means that the temperature and/or confinement time must increase. Fusion-relevant temperatures have been achieved using a variety of heating methods that were developed in the early 1970s. In modern machines, as of 2019, the major remaining issue was the confinement time. Plasmas in strong magnetic fields are subject to a number of inherent instabilities, which must be suppressed to reach useful durations. One way to do this is to simply make the reactor volume larger, which reduces the rate of leakage due to classical diffusion. This is why ITER is so large.
+In contrast, inertial confinement systems approach useful triple product values via higher density, and have short confinement intervals. In NIF, the initial frozen hydrogen fuel load has a density less than water that is increased to about 100 times the density of lead. In these conditions, the rate of fusion is so high that the fuel fuses in the microseconds it takes for the heat generated by the reactions to blow the fuel apart. Although NIF is also large, this is a function of its "driver" design, not inherent to the fusion process.
+
+
+=== Energy capture ===
+Multiple approaches have been proposed to capture the energy that fusion produces. The simplest is to heat a fluid. The commonly targeted D-T reaction releases much of its energy as fast-moving neutrons. Electrically neutral, the neutron is unaffected by the confinement scheme. In most designs, it is captured in a thick "blanket" of lithium surrounding the reactor core. When struck by a high-energy neutron, the blanket heats up. It is then actively cooled with a working fluid that drives a turbine to produce power.
+Another design proposed to use the neutrons to breed fission fuel in a blanket of nuclear waste, a concept known as a fission-fusion hybrid. In these systems, the power output is enhanced by the fission events, and power is extracted using systems like those in conventional fission reactors.
+Designs that use other fuels, notably the proton-boron aneutronic fusion reaction, release much more of their energy in the form of charged particles. In these cases, power extraction systems based on the movement of these charges are possible. Direct energy conversion was developed at Lawrence Livermore National Laboratory (LLNL) in the 1980s as a method to maintain a voltage directly using fusion reaction products. This has demonstrated energy capture efficiency of 48 percent.
+
+
+== Plasma behavior ==
+Plasma is an ionized gas that conducts electricity. In bulk, it is modeled using magnetohydrodynamics, which is a combination of the Navier–Stokes equations governing fluids and Maxwell's equations governing how magnetic and electric fields behave. Fusion exploits several plasma properties, including:
+
+Self-organizing plasma conducts electric and magnetic fields. Its motions generate fields that can in turn contain it.
+Diamagnetic plasma can generate its own internal magnetic field. This can reject an externally applied magnetic field, making it diamagnetic.
+Magnetic mirrors can reflect plasma when it moves from a low to high density field.:24
+
+
+== Methods ==
+
+
+=== Magnetic confinement ===
+
+Tokamak: the most well-developed and well-funded approach. This method drives hot plasma around in a magnetically confined torus, with an internal current. When completed, ITER will become the world's largest tokamak. As of September 2018 an estimated 226 experimental tokamaks were either planned, decommissioned or operating (50) worldwide.
+Spherical tokamak: also known as spherical torus. A variation on the tokamak with a spherical shape.
+Stellarator: Twisted rings of hot plasma. The stellarator attempts to create a natural twisted plasma path, using external magnets. Stellarators were developed by Lyman Spitzer in 1950 and evolved into four designs: Torsatron, Heliotron, Heliac and Helias. One example is Wendelstein 7-X, a German device. It is the world's largest stellarator.
+Internal rings: Stellarators create a twisted plasma using external magnets, while tokamaks do so using a current induced in the plasma. Several classes of designs provide this twist using conductors inside the plasma. Early calculations showed that collisions between the plasma and the supports for the conductors would remove energy faster than fusion reactions could replace it. Modern variations, including the Levitated Dipole Experiment (LDX), use a solid superconducting torus that is magnetically levitated inside the reactor chamber.
+Magnetic mirror: Developed by Richard F. Post and teams at Lawrence Livermore National Laboratory (LLNL) in the 1960s. Magnetic mirrors reflect plasma back and forth in a line. Variations included the Tandem Mirror, magnetic bottle and the biconic cusp. A series of mirror machines were built by the US government in the 1970s and 1980s, principally at LLNL. However, calculations in the 1970s estimated it was unlikely these would ever be commercially useful.
+Bumpy torus: A number of magnetic mirrors are arranged end-to-end in a toroidal ring. Any fuel ions that leak out of one are confined in a neighboring mirror, permitting the plasma pressure to be raised arbitrarily high without loss. An experimental facility, the ELMO Bumpy Torus or EBT was built and tested at Oak Ridge National Laboratory (ORNL) in the 1970s.
+Field-reversed configuration: This device traps plasma in a self-organized quasi-stable structure; where the particle motion makes an internal magnetic field which then traps itself.
+Spheromak: Similar to a field-reversed configuration, a semi-stable plasma structure made by using the plasmas' self-generated magnetic field. A spheromak has both toroidal and poloidal fields, while a field-reversed configuration has no toroidal field.
+Dynomak is a spheromak that is formed and sustained using continuous magnetic flux injection.
+Reversed field pinch: Here the plasma moves inside a ring. It has an internal magnetic field. Moving out from the center of this ring, the magnetic field reverses direction.
+
+
+=== Inertial confinement ===
+
+Indirect drive: Lasers heat a structure known as a Hohlraum that becomes so hot it begins to radiate x-ray light. These x-rays heat a fuel pellet, causing it to collapse inward to compress the fuel. The largest system using this method is the National Ignition Facility, followed closely by Laser Mégajoule.
+Direct drive: Lasers directly heat the fuel pellet. Notable direct drive experiments have been conducted at the Laboratory for Laser Energetics (LLE) and the GEKKO XII facilities. Good implosions require fuel pellets with close to a perfect shape in order to generate a symmetrical inward shock wave that produces the high-density plasma.
+Fast ignition: This method uses two laser blasts. The first blast compresses the fusion fuel, while the second ignites it. As of 2019 this technique had lost favor for energy production.
+Magneto-inertial fusion or Magnetized Liner Inertial Fusion: This combines a laser pulse with a magnetic pinch. The pinch community refers to it as magnetized liner inertial fusion while the ICF community refers to it as magneto-inertial fusion.
+Ion Beams: Ion beams replace laser beams to heat the fuel. The main difference is that the beam has momentum due to mass, whereas lasers do not. As of 2019 it appears unlikely that ion beams can be sufficiently focused spatially and in time.
+Z-machine: Sends an electric current through thin tungsten wires, heating them sufficiently to generate x-rays. Like the indirect drive approach, these x-rays then compress a fuel capsule.
+
+
+=== Magnetic or electric pinches ===
+
+Z-pinch: A current travels in the z-direction through the plasma. The current generates a magnetic field that compresses the plasma. Pinches were the first method for human-made controlled fusion. The z-pinch has inherent instabilities that limit its compression and heating to values too low for practical fusion. The largest such machine, the UK's ZETA, was the last major experiment of the sort. The problems in z-pinch led to the tokamak design. The dense plasma focus is a possibly superior variation.
+Theta-pinch: A current circles around the outside of a plasma column, in the theta direction. This induces a magnetic field running down the center of the plasma, as opposed to around it. The early theta-pinch device Scylla was the first to conclusively demonstrate fusion, but later work demonstrated it had inherent limits that made it uninteresting for power production.
+Sheared Flow Stabilized Z-Pinch: Research at the University of Washington under Uri Shumlak investigated the use of sheared-flow stabilization to smooth out the instabilities of Z-pinch reactors. This involves accelerating neutral gas along the axis of the pinch. Experimental machines included the FuZE and Zap Flow Z-Pinch experimental reactors. In 2017, British technology investor and entrepreneur Benj Conway, together with physicists Brian Nelson and Uri Shumlak, co-founded Zap Energy to attempt to commercialize the technology for power production.
+Screw Pinch: This method combines a theta and z-pinch for improved stabilization.
+
+
+=== Inertial electrostatic confinement ===
+
+Fusor: An electric field heats ions to fusion conditions. The machine typically uses two spherical cages, a cathode inside the anode, inside a vacuum. These machines are not considered a viable approach to net power because of their high conduction and radiation losses. They are simple enough to build that amateurs have fused atoms using them.
+Polywell: Attempts to combine magnetic confinement with electrostatic fields, to avoid the conduction losses generated by the cage.
+
+
+=== Other ===
+Magnetized target fusion: Confines hot plasma using a magnetic field and squeezes it using inertia. Examples include LANL FRX-L machine, General Fusion (piston compression with liquid metal liner), HyperJet Fusion (plasma jet compression with plasma liner).
+Uncontrolled: Fusion has been initiated by man, using uncontrolled fission explosions to stimulate fusion. Early proposals for fusion power included using bombs to initiate reactions. See Project PACER.
+Beam fusion: A beam of high energy particles fired at another beam or target can initiate fusion. This was used in the 1970s and 1980s to study the cross sections of fusion reactions. However beam systems cannot be used for power because keeping a beam coherent takes more energy than comes from fusion.
+Muon-catalyzed fusion: This approach replaces electrons in diatomic molecules of isotopes of hydrogen with muons—more massive particles with the same electric charge. Their greater mass compresses the nuclei enough such that the strong interaction can cause fusion. As of 2007 producing muons required more energy than can be obtained from muon-catalyzed fusion.
+Lattice confinement fusion: Lattice confinement fusion (LCF) is a type of nuclear fusion in which deuteron-saturated metals are exposed to gamma radiation or ion beams, such as in an IEC fusor, avoiding the confined high-temperature plasmas used in other methods of fusion.
+
+
+== Common tools ==
+Many approaches, equipment, and mechanisms are employed across multiple projects to address fusion heating, measurement, and power production.
+
+
+=== Neural networks ===
+A deep reinforcement learning system has been used to control a tokamak-based reactor. The AI was able to manipulate the magnetic coils to manage the plasma. The system was able to continuously adjust to maintain appropriate behavior (more complex than step-based systems). In 2014, Google began working with California-based fusion company TAE Technologies to control the Joint European Torus (JET) to predict plasma behavior. DeepMind has also developed a control scheme with TCV.
+
+
+=== Heating ===
+
+Electrostatic heating: an electric field can do work on charged ions or electrons, heating them.
+Neutral beam injection: hydrogen is ionized and accelerated by an electric field to form a charged beam that is shone through a source of neutral hydrogen gas towards the plasma which itself is ionized and contained by a magnetic field. Some of the intermediate hydrogen gas is accelerated towards the plasma by collisions with the charged beam while remaining neutral: this neutral beam is thus unaffected by the magnetic field and so reaches the plasma. Once inside the plasma the neutral beam transmits energy to the plasma by collisions which ionize it and allow it to be contained by the magnetic field, thereby both heating and refueling the reactor in one operation. The remainder of the charged beam is diverted by magnetic fields onto cooled beam dumps.
+Radio frequency heating: a radio wave causes the plasma to oscillate (i.e., microwave oven). This is also known as electron cyclotron resonance heating, using for example gyrotrons, or dielectric heating.
+Magnetic reconnection: when plasma gets dense, its electromagnetic properties can change, which can lead to magnetic reconnection. Reconnection helps fusion because it instantly dumps energy into a plasma, heating it quickly. Up to 45% of the magnetic field energy can heat the ions.
+Magnetic oscillations: varying electric currents can be supplied to magnetic coils that heat plasma confined within a magnetic wall.
+Antiproton annihilation: antiprotons injected into a mass of fusion fuel can induce thermonuclear reactions. This possibility as a method of spacecraft propulsion, known as antimatter-catalyzed nuclear pulse propulsion, was investigated at Pennsylvania State University in connection with the proposed AIMStar project.
+
+
+=== Measurement ===
+
+The diagnostics of a fusion scientific reactor are extremely complex and varied. The diagnostics required for a fusion power reactor will be various but less complicated than those of a scientific reactor as by the time of commercialization, many real-time feedback and control diagnostics will have been perfected. However, the operating environment of a commercial fusion reactor will be harsher for diagnostic systems than in a scientific reactor because continuous operations may involve higher plasma temperatures and higher levels of neutron irradiation. In many proposed approaches, commercialization will require the additional ability to measure and separate diverter gases, for example helium and impurities, and to monitor fuel breeding, for instance the state of a tritium breeding liquid lithium liner. The following are some basic techniques.
+
+Flux loop: a loop of wire is inserted into the magnetic field. As the field passes through the loop, a current is made. The current measures the total magnetic flux through that loop. This has been used on the National Compact Stellarator Experiment, the polywell, and the LDX machines. A Langmuir probe, a metal object placed in a plasma, can be employed. A potential is applied to it, giving it a voltage against the surrounding plasma. The metal collects charged particles, drawing a current. As the voltage changes, the current changes. This makes an IV Curve. The IV-curve can be used to determine the local plasma density, potential and temperature.
+Thomson scattering: "Light scatters" from plasma can be used to reconstruct plasma behavior, including density and temperature. It is common in Inertial confinement fusion, Tokamaks, and fusors. In ICF systems, firing a second beam into a gold foil adjacent to the target makes x-rays that traverse the plasma. In tokamaks, this can be done using mirrors and detectors to reflect light.
+Neutron detectors: Several types of neutron detectors can record the rate at which neutrons are produced.
+X-ray detectors Visible, IR, UV, and X-rays are emitted anytime a particle changes velocity. If the reason is deflection by a magnetic field, the radiation is cyclotron radiation at low speeds and synchrotron radiation at high speeds. If the reason is deflection by another particle, plasma radiates X-rays, known as Bremsstrahlung radiation.
+
+
+=== Power production ===
+Neutron blankets absorb neutrons, which heats the blanket. Power can be extracted from the blanket in various ways:
+
+Steam turbines can be driven by heat transferred into a working fluid that turns into steam, driving electric generators.
+Neutron blankets: These neutrons can regenerate spent fission fuel. Tritium can be produced using a breeder blanket of liquid lithium or a helium cooled pebble bed made of lithium-bearing ceramic pebbles.
+Direct conversion: The kinetic energy of a particle can be converted into voltage. It was first suggested by Richard F. Post in conjunction with magnetic mirrors, in the late 1960s. It has been proposed for Field-Reversed Configurations as well as Dense Plasma Focus devices. The process converts a large fraction of the random energy of the fusion products into directed motion. The particles are then collected on electrodes at various large electrical potentials. This method has demonstrated an experimental efficiency of 48 percent.
+Traveling-wave tubes pass charged helium atoms at several megavolts and just coming off the fusion reaction through a tube with a coil of wire around the outside. This passing charge at high voltage pulls electricity through the wire.
+
+
+=== Confinement ===
+
+Confinement refers to all the conditions necessary to keep a plasma dense and hot long enough to undergo fusion. General principles:
+
+Equilibrium: The forces acting on the plasma must be balanced. One exception is inertial confinement, where the fusion must occur faster than the dispersal time.
+Stability: The plasma must be constructed so that disturbances will not lead to the plasma dispersing.
+Transport or conduction: The loss of material must be sufficiently slow. The plasma carries energy off with it, so rapid loss of material will disrupt fusion. Material can be lost by transport into different regions or conduction through a solid or liquid.
+To produce self-sustaining fusion, part of the energy released by the reaction must be used to heat new reactants and maintain the conditions for fusion.
+
+
+==== Magnetic confinement ====
+
+
+===== Magnetic Mirror =====
+Magnetic mirror effect. If a particle follows the field line and enters a region of higher field strength, the particles can be reflected. Several devices apply this effect. The most famous was the magnetic mirror machines, a series of devices built at LLNL from the 1960s to the 1980s. Other examples include magnetic bottles and Biconic cusp. Because the mirror machines were straight, they had some advantages over ring-shaped designs. The mirrors were easier to construct and maintain and direct conversion energy capture was easier to implement. Poor confinement led this approach to be abandoned, except in the polywell design.
+
+
+===== Magnetic loops =====
+Magnetic loops bend the field lines back on themselves, either in circles or more commonly in nested toroidal surfaces. The most highly developed systems of this type are the tokamak, the stellarator, and the reversed field pinch. Compact toroids, especially the field-reversed configuration and the spheromak, attempt to combine the advantages of toroidal magnetic surfaces with those of a simply connected (non-toroidal) machine, resulting in a mechanically simpler and smaller confinement area.
+
+
+==== Inertial confinement ====
+
+Inertial confinement is the use of rapid implosion to heat and confine plasma. A shell surrounding the fuel is imploded using a direct laser blast (direct drive), a secondary x-ray blast (indirect drive), or heavy beams. The fuel must be compressed to about 30 times solid density with energetic beams. Direct drive can in principle be efficient, but insufficient uniformity has prevented success.:19–20 Indirect drive uses beams to heat a shell, driving the shell to radiate x-rays, which then implode the pellet. The beams are commonly laser beams, but ion and electron beams have been investigated.:182–193
+
+
+===== Electrostatic confinement =====
+Electrostatic confinement fusion devices use electrostatic fields. The best known is the fusor. This device has a cathode inside an anode wire cage. Positive ions fly towards the negative inner cage, and are heated by the electric field in the process. If they miss the inner cage they can collide and fuse. Ions typically hit the cathode, however, creating prohibitory high conduction losses. Fusion rates in fusors are low because of competing physical effects, such as energy loss in the form of light radiation. Designs have been proposed to avoid the problems associated with the cage, by generating the field using a non-neutral cloud. These include a plasma oscillating device, a magnetically shielded-grid, a penning trap, the polywell, and the F1 cathode driver concept.
+
+
+== Fuels ==
+The fuels considered for fusion power have all been light elements like the isotopes of hydrogen—protium, deuterium, and tritium. The deuterium and helium-3 reaction requires helium-3, an isotope of helium so scarce on Earth that it would have to be mined extraterrestrially or produced by other nuclear reactions. Ultimately, researchers hope to adopt the protium–boron-11 reaction, because it does not directly produce neutrons, although side reactions can.
+
+
+=== Deuterium, tritium ===
+
+The easiest nuclear reaction, at the lowest energy, is D+T:
+
+21D + 31T → 42He (3.5 MeV) + 10n (14.1 MeV)
+This reaction is common in research, industrial and military applications, usually as a neutron source. Deuterium is a naturally occurring isotope of hydrogen and is commonly available. The large mass ratio of the hydrogen isotopes makes their separation easy compared to the uranium enrichment process. Tritium is a natural isotope of hydrogen, but because it has a short half-life of 12.32 years, it is hard to find, store, produce, and is expensive. Consequently, the deuterium-tritium fuel cycle requires the breeding of tritium from lithium using one of the following reactions:
+
+10n + 63Li → 31T + 42He
+10n + 73Li → 31T + 42He + 10n
+The reactant neutron is supplied by the D-T fusion reaction shown above, and the one that has the greatest energy yield. The reaction with 6Li is exothermic, providing a small energy gain for the reactor. The reaction with 7Li is endothermic, but does not consume the neutron. Neutron multiplication reactions are required to replace the neutrons lost to absorption by other elements. Leading candidate neutron multiplication materials are beryllium and lead, but the 7Li reaction helps to keep the neutron population high. Natural lithium is mainly 7Li, which has a low tritium production cross section compared to 6Li so most reactor designs use breeding blankets with enriched 6Li.
+Drawbacks commonly attributed to D-T fusion power include:
+
+The supply of neutrons results in neutron activation of the reactor materials.:242
+80% of the resultant energy is carried off by neutrons, which limits the use of direct energy conversion.
+It requires the radioisotope tritium. Tritium may leak from reactors. Some estimates suggest that this would represent a substantial environmental radioactivity release.
+The neutron flux expected in a commercial D-T fusion reactor is about 100 times that of fission power reactors, posing problems for material design. After a series of D-T tests at JET, the vacuum vessel was sufficiently radioactive that it required remote handling for the year following the tests.
+In a production setting, the neutrons would react with lithium in the breeding blanket composed of lithium ceramic pebbles or liquid lithium, yielding tritium. The energy of the neutrons ends up in the lithium, which would then be transferred to drive electrical production. The lithium blanket protects the outer portions of the reactor from the neutron flux. Newer designs, the advanced tokamak in particular, use lithium inside the reactor core as a design element. The plasma interacts directly with the lithium, preventing a problem known as "recycling". The advantage of this design was demonstrated in the Lithium Tokamak Experiment.
+
+
+=== Deuterium ===
+
+Fusing two deuterium nuclei is the second easiest fusion reaction. The reaction has two branches that occur with nearly equal probability:
+
+This reaction is also common in research. The optimum energy to initiate this reaction is 15 keV, only slightly higher than that for the D-T reaction. The first branch produces tritium, so that a D-D reactor is not tritium-free, even though it does not require an input of tritium or lithium. Unless the tritons are quickly removed, most of the tritium produced is burned in the reactor, which reduces the handling of tritium, with the disadvantage of producing more, and higher-energy, neutrons. The neutron from the second branch of the D-D reaction has an energy of only 2.45 MeV (0.393 pJ), while the neutron from the D-T reaction has an energy of 14.1 MeV (2.26 pJ), resulting in greater isotope production and material damage. When the tritons are removed quickly while allowing the 3He to react, the fuel cycle is called "tritium suppressed fusion". The removed tritium decays to 3He with a 12.5 year half life. By recycling the 3He decay into the reactor, the fusion reactor does not require materials resistant to fast neutrons.
+Assuming complete tritium burn-up, the reduction in the fraction of fusion energy carried by neutrons would be only about 18%, so that the primary advantage of the D-D fuel cycle is that tritium breeding is not required. Other advantages are independence from lithium resources and a somewhat softer neutron spectrum. The disadvantage of D-D compared to D-T is that the energy confinement time (at a given pressure) must be 30 times longer and the power produced (at a given pressure and volume) is 68 times less.
+Assuming complete removal of tritium and 3He recycling, only 6% of the fusion energy is carried by neutrons. The tritium-suppressed D-D fusion requires an energy confinement that is 10 times longer compared to D-T and double the plasma temperature.
+
+
+=== Deuterium, helium-3 ===
+A second-generation approach to controlled fusion power involves combining helium-3 (3He) and deuterium (2H):
+
+This reaction produces 4He and a high-energy proton. As with the p-11B aneutronic fusion fuel cycle, most of the reaction energy is released as charged particles, reducing activation of the reactor housing and potentially allowing more efficient energy harvesting (via any of several pathways). In practice, D-D side reactions produce a significant number of neutrons, leaving p-11B as the preferred cycle for aneutronic fusion.
+
+
+=== Proton, boron-11 ===
+Both material science problems and non-proliferation concerns are greatly diminished by aneutronic fusion. Theoretically, the most reactive aneutronic fuel is 3He. However, obtaining reasonable quantities of 3He implies large scale extraterrestrial mining on the Moon or in the atmosphere of Uranus or Saturn. Therefore, the most promising candidate fuel for such fusion is fusing the readily available protium (i.e. a proton) and boron. Their fusion releases no neutrons, but produces energetic charged alpha (helium) particles whose energy can directly be converted to electrical power:
+
+p + 11B → 3 4He
+Side reactions are likely to yield neutrons that carry only about 0.1% of the power,:177–182 which means that neutron scattering is not used for energy transfer and material activation is reduced several thousand-fold. The optimum temperature for this reaction of 123 keV is nearly ten times higher than that for pure hydrogen reactions, and energy confinement must be 500 times better than that required for the D-T reaction. In addition, the power density is 2500 times lower than for D-T, although per unit mass of fuel, this is still considerably higher than for fission reactors.
+Because the confinement properties of the tokamak and laser pellet fusion are marginal, most proposals for aneutronic fusion are based on radically different confinement concepts, such as the Polywell and the Dense Plasma Focus. In 2013, a research team led by Christine Labaune at École Polytechnique, reported a new fusion rate record for proton-boron fusion, with an estimated 80 million fusion reactions during a 1.5 nanosecond laser fire, 100 times greater than reported in previous experiments.
+
+
+== Material selection ==
+
+Structural material stability is a critical issue. Materials that can survive the high temperatures and neutron bombardment experienced in a fusion reactor are considered key to success. The principal issues are the conditions generated by the plasma, neutron degradation of wall surfaces, and the related issue of plasma-wall surface conditions. Reducing hydrogen permeability is seen as crucial to hydrogen recycling and control of the tritium inventory. Materials with the lowest bulk hydrogen solubility and diffusivity provide the optimal candidates for stable barriers. A few pure metals, including tungsten and beryllium, and compounds such as carbides, dense oxides, and nitrides have been investigated. Research has highlighted that coating techniques for preparing well-adhered and perfect barriers are of equivalent importance. The most attractive techniques are those in which an ad-layer is formed by oxidation alone. Alternative methods utilize specific gas environments with strong magnetic and electric fields. Assessment of barrier performance represents an additional challenge. Classical coated membranes gas permeation continues to be the most reliable method to determine hydrogen permeation barrier (HPB) efficiency. In 2021, in response to increasing numbers of designs for fusion power reactors for 2040, the United Kingdom Atomic Energy Authority published the UK Fusion Materials Roadmap 2021–2040, focusing on five priority areas, with a focus on tokamak family reactors:
+
+Novel materials to minimize the amount of activation in the structure of the fusion power plant;
+Compounds that can be used within the power plant to optimise breeding of tritium fuel to sustain the fusion process;
+Magnets and insulators that are resistant to irradiation from fusion reactions—especially under cryogenic conditions;
+Structural materials able to retain their strength under neutron bombardment at high operating temperatures (over 550 degrees C);
+Engineering assurance for fusion materials—providing irradiated sample data and modelled predictions such that plant designers, operators and regulators have confidence that materials are suitable for use in future commercial power stations.
+
+
+=== Superconducting materials ===
+
+In a plasma that is embedded in a magnetic field (known as a magnetized plasma) the fusion rate scales as the magnetic field strength to the 4th power. For this reason, many fusion companies that rely on magnetic fields to control their plasma are trying to develop high temperature superconducting devices. In 2021, SuperOx, a Russian and Japanese company, developed a new manufacturing process for making superconducting YBCO wire for fusion reactors. This new wire was shown to conduct between 700 and 2000 Amps per square millimeter. The company was able to produce 186 miles of wire in nine months.
+
+
+=== Containment considerations ===
+Even on smaller production scales, the containment apparatus is blasted with matter and energy. Designs for plasma containment must consider:
+
+A heating and cooling cycle, up to a 10 MW/m2 thermal load.
+Neutron radiation, which over time leads to neutron activation and embrittlement.
+High energy ions leaving at tens to hundreds of electronvolts.
+Alpha particles leaving at millions of electronvolts.
+Electrons leaving at high energy.
+Light radiation (IR, visible, UV, X-ray).
+Depending on the approach, these effects may be higher or lower than fission reactors. One estimate put the radiation at 100 times that of a typical pressurized water reactor. Depending on the approach, other considerations such as electrical conductivity, magnetic permeability, and mechanical strength matter. Materials must also not end up as long-lived radioactive waste.
+
+
+=== Plasma-wall surface conditions ===
+For long term use, each atom in the wall is expected to be hit by a neutron and displaced about 100 times before the material is replaced. High-energy neutrons produce hydrogen and helium via nuclear reactions that tend to form bubbles at grain boundaries and result in swelling, blistering or embrittlement.
+
+
+=== Selection of materials ===
+Low-Z materials, such as graphite or beryllium are generally preferred to high-Z materials, usually tungsten with molybdenum as a second choice. Liquid metals (lithium, gallium, tin) have been proposed, e.g., by injection of 1–5 mm thick streams flowing at 10 m/s on solid substrates.
+Graphite features a gross erosion rate due to physical and chemical sputtering amounting to many meters per year, requiring redeposition of the sputtered material. The redeposition site generally does not exactly match the sputter site, allowing net erosion that may be prohibitive. An even larger problem is that tritium is redeposited with the redeposited graphite. The tritium inventory in the wall and dust could build up to many kilograms, representing a waste of resources and a radiological hazard in case of an accident. Graphite found favor as material for short-lived experiments, but appears unlikely to become the primary plasma-facing material (PFM) in a commercial reactor.
+Tungsten's sputtering rate is orders of magnitude smaller than carbon's, and tritium is much less incorporated into redeposited tungsten. However, tungsten plasma impurities are much more damaging than carbon impurities, and self-sputtering can be high, requiring the plasma in contact with the tungsten not be too hot (a few tens of eV rather than hundreds of eV). Tungsten also has issues around eddy currents and melting in off-normal events, as well as some radiological issues.
+
+
+== Safety and the environment ==
+
+
+=== Accident potential ===
+Accident potential and effect on the environment are critical to social acceptance of nuclear fusion, also known as a social license. Fusion reactors are not subject to catastrophic meltdown. It requires precise and controlled temperature, pressure and magnetic field parameters to produce net energy, and any damage or loss of required control would rapidly quench the reaction. Fusion reactors operate with seconds or even microseconds worth of fuel at any moment. Without active refueling, the reactions immediately quench.
+The same constraints prevent runaway reactions. Although the plasma is expected to have a volume of 1,000 m3 (35,000 cu ft) or more, the plasma typically contains only a few grams of fuel. By comparison, a fission reactor is typically loaded with enough fuel for months or years, and no additional fuel is necessary to continue the reaction. This large fuel supply is what offers the possibility of a meltdown.
+In magnetic containment, strong fields develop in coils that are mechanically held in place by the reactor structure. Failure of this structure could release this tension and allow the magnet to "explode" outward. The severity of this event would be similar to other industrial accidents or an MRI machine quench/explosion, and could be effectively contained within a containment building similar to those used in fission reactors.
+In laser-driven inertial containment the larger size of the reaction chamber reduces the stress on materials. Although failure of the reaction chamber is possible, stopping fuel delivery prevents catastrophic failure.
+Most reactor designs rely on liquid hydrogen as a coolant and to convert stray neutrons into tritium, which is fed back into the reactor as fuel. Hydrogen is flammable, and it is possible that hydrogen stored on-site could ignite. In this case, the tritium fraction of the hydrogen would enter the atmosphere, posing a radiation risk. Calculations suggest that about 1 kilogram (2.2 lb) of tritium and other radioactive gases in a typical power station would be present. The amount is small enough that it would dilute to legally acceptable limits by the time they reached the station's perimeter fence.
+The likelihood of small industrial accidents, including the local release of radioactivity and injury to staff, are estimated to be minor compared to fission. They would include accidental releases of lithium or tritium or mishandling of radioactive reactor components.
+
+
+=== Magnet quench ===
+A magnet quench is an abnormal termination of magnet operation that occurs when part of the superconducting coil exits the superconducting state (becomes normal). This can occur because the field inside the magnet is too large, the rate of change of field is too large (causing eddy currents and resultant heating in the copper support matrix), or a combination of the two.
+More rarely a magnet defect can cause a quench. When this happens, that particular spot is subject to rapid Joule heating from the current, which raises the temperature of the surrounding regions. This pushes those regions into the normal state as well, which leads to more heating in a chain reaction. The entire magnet rapidly becomes normal over several seconds, depending on the size of the superconducting coil. This is accompanied by a loud bang as the energy in the magnetic field is converted to heat, and the cryogenic fluid boils away. The abrupt decrease of current can result in kilovolt inductive voltage spikes and arcing. Permanent damage to the magnet is rare, but components can be damaged by localized heating, high voltages, or large mechanical forces.
+In practice, magnets usually have safety devices to stop or limit the current when a quench is detected. If a large magnet undergoes a quench, the inert vapor formed by the evaporating cryogenic fluid can present a significant asphyxiation hazard to operators by displacing breathable air.
+A large section of the superconducting magnets in CERN's Large Hadron Collider unexpectedly quenched during start-up operations in 2008, destroying multiple magnets. In order to prevent a recurrence, the LHC's superconducting magnets are equipped with fast-ramping heaters that are activated when a quench event is detected. The dipole bending magnets are connected in series. Each power circuit includes 154 individual magnets, and should a quench event occur, the entire combined stored energy of these magnets must be dumped at once. This energy is transferred into massive blocks of metal that heat up to several hundred degrees Celsius—because of resistive heating—in seconds. A magnet quench is a "fairly routine event" during the operation of a particle accelerator.
+
+
+=== Effluents ===
+The natural product of the fusion reaction is a small amount of helium, which is harmless to life. Hazardous tritium is difficult to retain completely.
+Although tritium is volatile and biologically active, the health risk posed by a release is much lower than that of most radioactive contaminants, because of tritium's short half-life (12.32 years) and very low decay energy (~14.95 keV), and because it does not bioaccumulate (it cycles out of the body as water, with a biological half-life of 7 to 14 days). ITER incorporates total containment facilities for tritium.
+
+
+=== Radioactive waste ===
+
+Fusion reactors create far less radioactive material than fission reactors. Further, the material it creates is less damaging biologically, and the radioactivity dissipates within a time period that is well within existing engineering capabilities for safe long-term waste storage. In specific terms, except in the case of aneutronic fusion, the neutron flux turns the structural materials radioactive. The amount of radioactive material at shut-down may be comparable to that of a fission reactor, with important differences. The half-lives of fusion and neutron activation radioisotopes tend to be less than those from fission, so that the hazard decreases more rapidly. Whereas fission reactors produce waste that remains radioactive for thousands of years, the radioactive material in a fusion reactor (other than tritium) would be the reactor core itself and most of this would be radioactive for about 50 years, with other low-level waste being radioactive for another 100 years or so thereafter. The fusion waste's short half-life eliminates the challenge of long-term storage. By 500 years, the material would have the same radiotoxicity as coal ash.
+Nonetheless, classification as intermediate level waste rather than low-level waste may complicate safety discussions.
+The choice of materials is less constrained than in conventional fission, where many materials are required for their specific neutron cross-sections. Fusion reactors can be designed using "low activation", materials that do not easily become radioactive. Vanadium, for example, becomes much less radioactive than stainless steel. Carbon fiber materials are also low-activation, are strong and light, and are promising for laser-inertial reactors where a magnetic field is not required.
+
+
+=== Nuclear proliferation ===
+
+In some scenarios, fusion power technology could be adapted to produce materials for military purposes. A huge amount of tritium could be produced by a fusion power station; tritium is used in the trigger of hydrogen bombs and in modern boosted fission weapons, but it can be produced in other ways. The energetic neutrons from a fusion reactor could be used to breed weapons-grade plutonium or uranium for an atomic bomb (for example by transmutation of 238U to 239Pu, or 232Th to 233U).
+A study conducted in 2011 assessed three scenarios:
+
+Small-scale fusion station: As a result of much higher power consumption, heat dissipation and a more recognizable design compared to enrichment gas centrifuges, this choice would be much easier to detect and therefore implausible.
+Commercial facility: The production potential is significant. But no fertile or fissile substances necessary for the production of weapon-usable materials needs to be present at a civil fusion system at all. If not shielded, detection of these materials can be done by their characteristic gamma radiation. The underlying redesign could be detected by regular design information verification. In the (technically more feasible) case of solid breeder blanket modules, it would be necessary for incoming components to be inspected for the presence of fertile material, otherwise plutonium for several weapons could be produced each year.
+Prioritizing weapon-grade material regardless of secrecy: The fastest way to produce weapon-usable material was seen in modifying a civil fusion power station. No weapons-compatible material is required during civil use. Even without the need for covert action, such a modification would take about two months to start production and at least an additional week to generate a significant amount. This was considered to be enough time to detect a military use and to react with diplomatic or military means. To stop the production, a military destruction of parts of the facility while leaving out the reactor would be sufficient.
+Another study concluded "...large fusion reactors—even if not designed for fissile material breeding—could easily produce several hundred kg Pu per year with high weapon quality and very low source material requirements." It was emphasized that the implementation of features for intrinsic proliferation resistance might only be possible at an early phase of research and development. The theoretical and computational tools needed for hydrogen bomb design are closely related to those needed for inertial confinement fusion, but have very little in common with magnetic confinement fusion.
+
+
+=== Fuel reserves ===
+Fusion power commonly proposes the use of deuterium as fuel and many current designs also use lithium. Assuming a fusion energy output equal to the 1995 global power output of about 100 EJ/yr (= 1 × 1020 J/yr) and that this does not increase in the future, which is unlikely, then known current lithium reserves would last 3000 years. Lithium from sea water would last 60 million years, however, and a more complicated fusion process using only deuterium would have fuel for 150 billion years. To put this in context, 150 billion years is close to 30 times the remaining lifespan of the Sun, and more than 10 times the estimated age of the universe.
+
+
+== Economics ==
+The EU spent almost €10 billion through the 1990s. ITER represents an investment of over twenty billion dollars, and possibly tens of billions more, including in kind contributions. Under the European Union's Sixth Framework Programme, nuclear fusion research received €750 million (in addition to ITER funding), compared with €810 million for sustainable energy research, putting research into fusion power well ahead of that of any single rival technology. The United States Department of Energy has allocated $US367M–$US671M every year since 2010, peaking in 2020, with plans to reduce investment to $US425M in its FY2021 Budget Request. About a quarter of this budget is directed to support ITER.
+The size of the investments and time lines meant that fusion research was traditionally almost exclusively publicly funded. However, starting in the 2010s, the promise of commercializing a paradigm-changing low-carbon energy source began to attract a raft of companies and investors. Over two dozen start-up companies attracted over one billion dollars from roughly 2000 to 2020, mainly from 2015, and a further three billion in funding and milestone related commitments in 2021, with investors including Jeff Bezos, Peter Thiel and Bill Gates, as well as institutional investors including Legal & General, and energy companies including Equinor, Eni, Chevron, and the Chinese ENN Group. In 2021, Commonwealth Fusion Systems (CFS) obtained $1.8 billion in scale-up funding, and Helion Energy obtained a half-billion dollars with an additional $1.7 billion contingent on meeting milestones.
+Scenarios developed in the 2000s and early 2010s discussed the effects of the commercialization of fusion power on the future of human civilization. Using nuclear fission as a guide, these saw ITER and later DEMO as bringing online the first commercial reactors around 2050 and a rapid expansion after mid-century. Some scenarios emphasized "fusion nuclear science facilities" as a step beyond ITER. However, the economic obstacles to tokamak-based fusion power remain immense, requiring investment to fund prototype tokamak reactors and development of new supply chains, a problem which will affect any kind of fusion reactor. Tokamak designs appear to be labour-intensive, while the commercialization risk of alternatives like inertial fusion energy is high due to the lack of government resources.
+Scenarios since 2010 note computing and material science advances enabling multi-phase national or cost-sharing "Fusion Pilot Plants" (FPPs) along various technology pathways, such as the UK Spherical Tokamak for Energy Production, within the 2030–2040 time frame. Notably, in June 2021, General Fusion announced it would accept the UK government's offer to host the world's first substantial public-private partnership fusion demonstration plant, at Culham Centre for Fusion Energy. The plant will be constructed from 2022 to 2025 and is intended to lead the way for commercial pilot plants in the late 2025s. The plant will be 70% of full scale and is expected to attain a stable plasma of 150 million degrees. In the United States, cost-sharing public-private partnership FPPs appear likely, and in 2022 the DOE announced a new Milestone-Based Fusion Development Program as the centerpiece of its Bold Decadal Vision for Commercial Fusion Energy, which envisages private sector-led teams delivering FPP pre-conceptual designs, defining technology roadmaps, and pursuing the R&D necessary to resolve critical-path scientific and technical issues towards an FPP design. Compact reactor technology based on such demonstration plants may enable commercialization via a fleet approach from the 2030s if early markets can be located.
+The widespread adoption of non-nuclear renewable energy has transformed the energy landscape. Such renewables are projected to supply 74% of global energy by 2050. The steady fall of renewable energy prices challenges the economic competitiveness of fusion power.
+
+Some economists suggest fusion power is unlikely to match other renewable energy costs. Fusion plants are expected to face large start up and capital costs. Moreover, operation and maintenance are likely to be costly. While the costs of the China Fusion Engineering Test Reactor are not well known, an EU DEMO fusion concept was projected to feature a levelized cost of energy (LCOE) of $121/MWh.
+Fuel costs are low, but economists suggest that the energy cost for a one-gigawatt plant would increase by $16.5 per MWh for every $1 billion increase in the capital investment in construction. There is also the risk that easily obtained lithium will be used up making batteries. Obtaining it from seawater would be very costly and might require more energy than the energy that would be generated.
+In contrast, renewable levelized cost of energy estimates are substantially lower. For instance, the 2019 levelized cost of energy of solar energy was estimated to be $40-$46/MWh, on shore wind was estimated at $29-$56/MWh, and offshore wind was approximately $92/MWh.
+However, fusion power may still have a role filling energy gaps left by renewables, depending on how administration priorities for energy and environmental justice influence the market. In the 2020s, socioeconomic studies of fusion that began to consider these factors emerged, and in 2022 EUROFusion launched its Socio-Economic Studies and Prospective Research and Development strands to investigate how such factors might affect commercialization pathways and timetables. Similarly, in April 2023 Japan announced a national strategy to industrialise fusion. Thus, fusion power may work in tandem with other renewable energy sources rather than becoming the primary energy source. In some applications, fusion power could provide the base load, especially if including integrated thermal storage and cogeneration and considering the potential for retrofitting coal plants.
+
+
+== Regulation ==
+As fusion pilot plants move within reach, legal and regulatory issues must be addressed. In September 2020, the United States National Academy of Sciences consulted with private fusion companies to consider a national pilot plant. The following month, the United States Department of Energy, the Nuclear Regulatory Commission (NRC) and the Fusion Industry Association co-hosted a public forum to begin the process. In November 2020, the International Atomic Energy Agency (IAEA) began working with various nations to create safety standards such as dose regulations and radioactive waste handling. In January and March 2021, NRC hosted two public meetings on regulatory frameworks. A public-private cost-sharing approach was endorsed in the 27 December H.R.133 Consolidated Appropriations Act, 2021, which authorized $325 million over five years for a partnership program to build fusion demonstration facilities, with a 100% match from private industry.
+Subsequently, the UK Regulatory Horizons Council published a report calling for a fusion regulatory framework by early 2022 in order to position the UK as a global leader in commercializing fusion power. This call was met by the UK government publishing in October 2021 both its Fusion Green Paper and its Fusion Strategy, to regulate and commercialize fusion, respectively. Then, in April 2023, in a decision likely to influence other nuclear regulators, the NRC announced in a unanimous vote that fusion energy would be regulated not as fission but under the same regulatory regime as particle accelerators.
+Then, in October 2023 the UK government, in enacting the Energy Act 2023, made the UK the first country to legislate for fusion separately from fission, to support planning and investment, including the UK's planned prototype fusion power plant for 2040; STEP the UK is working with Canada and Japan in this regard. Meanwhile, in February 2024 the US House of Representatives passed the Atomic Energy Advancement Act, which includes the Fusion Energy Act, which establishes a regulatory framework for fusion energy systems.
+
+
+== Geopolitics ==
+Given the potential of fusion to transform the world's energy industry and mitigate climate change, fusion science has traditionally been seen as an integral part of peace-building science diplomacy. However, technological developments and private sector involvement has raised concerns over intellectual property, regulatory administration, global leadership; equity, and potential weaponization. These challenge ITER's peace-building role and led to calls for a global commission. Fusion power significantly contributing to climate change by 2050 seems unlikely without substantial breakthroughs and a space race mentality emerging, but a contribution by 2100 appears possible, with the extent depending on the type and particularly cost of technology pathways.
+Developments from late 2020 onwards have led to talk of a "new space race" with multiple entrants, pitting the US against China and the UK's STEP FPP. On 24 September 2020, the United States House of Representatives approved a research and commercialization program. The Fusion Energy Research section incorporated a milestone-based, cost-sharing, public-private partnership program modeled on NASA's COTS program, which launched the commercial space industry. In February 2021, the National Academies published Bringing Fusion to the U.S. Grid, recommending a market-driven, cost-sharing plant for 2035–2040, and the launch of the Congressional Bipartisan Fusion Caucus followed.
+In December 2020, an independent expert panel reviewed EUROfusion's design and R&D work on DEMO, and EUROfusion confirmed it was proceeding with its Roadmap to Fusion Energy, beginning the conceptual design of DEMO in partnership with the European fusion community, suggesting an EU-backed machine had entered the race.
+In November 2023 the UK and the US announced a bilateral partnership to accelerate fusion energy. Then, in December 2023 at COP28 the US announced a US global strategy to commercialize fusion energy. Then, in April 2024, Japan and the US announced a similar partnership, and in May of the same year, the G7 announced a G7 Working Group on Fusion Energy to promote international collaborations to accelerate the development of commercial energy and promote R&D between countries, as well as rationalize fusion regulation.
+Specifically to resolve the tritium supply problem, in February 2024, the UK (UKAEA) and Canada (Canadian Nuclear Laboratories) announced an agreement by which Canada could refurbish its Candu deuterium-uranium tritium-generating heavywater nuclear plants and even build new ones, guaranteeing a supply of tritium into the 2070s, while the UKAEA would test breeder materials and simulate how tritium could be captured, purified, and injected back into the fusion reaction.
+
+
+== Advantages ==
+Fusion power promises to provide more energy for a given weight of fuel than any fuel-consuming energy source currently in use. The fuel (primarily deuterium) exists abundantly in the ocean: about 1 in 6500 hydrogen atoms in seawater is deuterium. Although this is only about 0.015%, seawater is plentiful and easy to access, implying that fusion could supply the world's energy needs for millions of years.
+First generation fusion plants are expected to use the deuterium-tritium fuel cycle. This will require the use of lithium for breeding of the tritium. It is not known for how long global lithium supplies will suffice to supply this need as well as those of the battery and metallurgical industries. It is expected that second generation plants will move on to the more formidable deuterium-deuterium reaction. The deuterium-helium-3 reaction is also of interest, but the light helium isotope is practically non-existent on Earth. It is thought to exist in useful quantities in the lunar regolith, and is abundant in the atmospheres of the gas giant planets.
+Fusion power could be used for so-called "deep space" propulsion within the solar system and for interstellar space exploration where solar energy is not available, including via antimatter-fusion hybrid drives.
+
+
+== Disadvantages ==
+Fusion power has a number of disadvantages. Because 80 percent of the energy in any reactor fueled by deuterium and tritium appears in the form of neutron streams, such reactors share many of the drawbacks of fission reactors. This includes the production of large quantities of radioactive waste and serious radiation damage to reactor components. Additionally, naturally occurring tritium is extremely rare. While the hope is that fusion reactors can breed their own tritium, tritium self-sufficiency is extremely challenging, not least because tritium is difficult to contain (tritium has leaked from 48 of 65 nuclear sites in the US). In any case the reserve and start-up tritium inventory requirements are likely to be unacceptably large.
+If reactors can be made to operate using only deuterium fuel, then the tritium replenishment issue is eliminated and neutron radiation damage may be reduced. However, the probabilities of deuterium-deuterium reactions are about 20 times lower than for deuterium-tritium. Additionally, the temperature needed is about 3 times higher than for deuterium-tritium (see cross section). The higher temperatures and lower reaction rates thus significantly complicate the engineering challenges. In any case, other drawbacks remain, for instance reactors requiring only deuterium fueling will have greatly enhanced nuclear weapons proliferation potential.
+
+
+== History ==
+
+
+=== Early experiments ===
+
+The first machine to achieve controlled thermonuclear fusion was a pinch machine at Los Alamos National Laboratory called Scylla I at the start of 1958. The team that achieved it was led by a British scientist named James Tuck and included a young Marshall Rosenbluth. Tuck had been involved in the Manhattan project, but had switched to working on fusion in the early 1950s. He applied for funding for the project as part of a White House sponsored contest to develop a fusion reactor along with Lyman Spitzer. Spitzer went on to develop the Stellarator concept at Princeton. The previous year, 1957, the British had claimed that they had achieved thermonuclear fusion reactions on the Zeta pinch machine. However, it turned out that the neutrons they had detected were from beam-target interactions, not fusion, and they withdrew the claim.
+Scylla I was a classified machine at the time, so the fact that humankind had demonstrated controlled nuclear fusion in bulk was hidden from the public. A traditional Z-pinches passes a current down the center of a plasma, which makes a magnetic force around the outside which squeezes the plasma to fusion conditions. Scylla I was a twist on this basic idea; it was a θ-pinch, which passes a current around the outside creating a magnetic force in the center  Scylla I was a θ-pinch machine, with a cylinder full of deuterium. After the success of Scylla-I, Los Alamos went on to build multiple pinch machines over the next few years. But the problem with pinches were that they were unstable because of a whole host of instabilities.
+Lots of fusion approaches were pursued in parallel during this period and Princeton emerged as a hub for Stellarator research. It was pioneered by Lyman Spitzer. While fusion did not immediately transpire, the effort led to the creation of the Princeton Plasma Physics Laboratory.
+
+
+=== First tokamak ===
+The concept of the tokamak originated in 1950–1951 from I.E. Tamm and A.D. Sakharov in the Soviet Union. The tokamak essentially combined a low-power pinch device with a low-power stellarator.
+A.D. Sakharov's group constructed the first tokamaks, achieving the first quasistationary fusion reaction.:90
+Over time the "advanced tokamak" concept emerged, which included non-circular plasma, internal diverters and limiters, superconducting magnets, operation in the so-called "H-mode" island of increased stability, and the compact tokamak, with the magnets on the inside of the vacuum chamber.
+
+
+=== First inertial confinement experiments ===
+
+Laser fusion was suggested in 1962 by scientists at Lawrence Livermore National Laboratory (LLNL), shortly after the invention of the laser in 1960. Inertial confinement fusion (using lasers) research began as early as 1965. Several laser systems were built at LLNL. These included the Argus, the Cyclops, the Janus, the long path, the Shiva laser, and the Nova.
+Laser advances included frequency-tripling crystals that transformed infrared laser beams into ultraviolet beams and "chirping", which changed a single wavelength into a full spectrum that could be amplified and then reconstituted into one frequency. Laser research ate money as well, consuming over one billion dollars in the 1980s.
+
+
+=== 1980s ===
+The Tore Supra, JET, T-15, and JT-60 tokamaks were built in the 1980s. In 1984, Martin Peng of ORNL proposed the spherical tokamak with a much smaller radius. It used a single large conductor in the center, with magnets as half-rings off of this conductor. The aspect ratio fell to as low as 1.2.:B247:225 Peng's advocacy caught the interest of Derek Robinson, who built the Small Tight Aspect Ratio Tokamak, (START).
+
+
+=== 1990s ===
+In 1991, the Preliminary Tritium Experiment at the Joint European Torus achieved the world's first controlled release of fusion power.
+In 1996, Tore Supra created a plasma for two minutes with a current of almost 1 million amperes, totaling 280 MJ of injected and extracted energy.
+In 1997, JET produced a peak of 16.1 MW of fusion power (65% of heat to plasma), with fusion power of over 10 MW sustained for over 0.5 sec.
+
+
+=== 2000s ===
+
+"Fast ignition" saved power and moved ICF into the race for energy production.
+In 2006, China's Experimental Advanced Superconducting Tokamak (EAST) test reactor was completed. It was the first tokamak to use superconducting magnets to generate both toroidal and poloidal fields.
+In March 2009, the laser-driven ICF NIF became operational.
+In the 2000s, privately backed fusion companies entered the race, including TAE Technologies, General Fusion, and Tokamak Energy.
+
+
+=== 2010s ===
+
+Private and public research accelerated in the 2010s. General Fusion developed plasma injector technology and Tri Alpha Energy tested its C-2U device. The French Laser Mégajoule began operation. NIF achieved net energy gain in 2013, as defined in the very limited sense as the hot spot at the core of the collapsed target, rather than the whole target.
+In 2014, Phoenix Nuclear Labs sold a high-yield neutron generator that could sustain 5×1011 deuterium fusion reactions per second over a 24-hour period.
+In 2015, MIT announced a tokamak it named the ARC fusion reactor, using rare-earth barium-copper oxide (REBCO) superconducting tapes to produce high-magnetic field coils that it claimed could produce comparable magnetic field strength in a smaller configuration than other designs.
+In October, researchers at the Max Planck Institute of Plasma Physics in Greifswald, Germany, completed building the largest stellarator to date, the Wendelstein 7-X (W7-X). The W7-X stellarator began Operational phase 1 (OP1.1) on 10 December 2015, successfully producing helium plasma. The objective was to test vital systems and understand the machine's physics. By February 2016, hydrogen plasma was achieved, with temperatures reaching up to 100 million Kelvin. The initial tests used five graphite limiters. After over 2,000 pulses and achieving significant milestones, OP1.1 concluded on 10 March 2016. An upgrade followed, and OP1.2 in 2017 aimed to test an uncooled divertor. By June 2018, record temperatures were reached. W7-X concluded its first campaigns with limiter and island divertor tests, achieving notable advancements by the end of 2018. It soon produced helium and hydrogen plasmas lasting up to 30 minutes.
+In 2017, Helion Energy's fifth-generation plasma machine went into operation. The UK's Tokamak Energy's ST40 generated "first plasma". The next year, Eni announced a $50 million investment in Commonwealth Fusion Systems, to attempt to commercialize MIT's ARC technology.
+
+
+=== 2020s ===
+In January 2021, SuperOx announced the commercialization of a new superconducting wire with more than 700 A/mm2 current capability.
+TAE Technologies announced results for its Norman device, holding a temperature of about 60 MK for 30 milliseconds, 8 and 10 times higher, respectively, than the company's previous devices.
+In October, Oxford-based First Light Fusion revealed its projectile fusion project, which fires an aluminum disc at a fusion target, accelerated by a 9 mega-amp electrical pulse, reaching speeds of 20 kilometres per second (12 mi/s). The resulting fusion generates neutrons whose energy is captured as heat.
+On November 8, in an invited talk to the 63rd Annual Meeting of the APS Division of Plasma Physics, the National Ignition Facility claimed to have triggered fusion ignition in the laboratory on August 8, 2021, for the first time in the 60+ year history of the ICF program. The shot yielded 1.3 MJ of fusion energy, an over 8X improvement on tests done in spring of 2021. NIF estimates that 230 kJ of energy reached the fuel capsule, which resulted in an almost 6-fold energy output from the capsule. A researcher from Imperial College London stated that the majority of the field agreed that ignition had been demonstrated.
+In November 2021, Helion Energy reported receiving $500 million in Series E funding for its seventh-generation Polaris device, designed to demonstrate net electricity production, with an additional $1.7 billion of commitments tied to specific milestones, while Commonwealth Fusion Systems raised an additional $1.8 billion in Series B funding to construct and operate its SPARC tokamak, the single largest investment in any private fusion company.
+In April 2022, First Light announced that their hypersonic projectile fusion prototype had produced neutrons compatible with fusion. Their technique electromagnetically fires projectiles at Mach 19 at a caged fuel pellet. The deuterium fuel is compressed at Mach 204, reaching pressure levels of 100 TPa.
+On December 13, 2022, the US Department of Energy reported that researchers at the National Ignition Facility had achieved a net energy gain from a fusion reaction. The reaction of hydrogen fuel at the facility produced about 3.15 MJ of energy while consuming 2.05 MJ of input. However, while the fusion reactions may have produced more than 3 megajoules of energy—more than was delivered to the target—NIF's 192 lasers consumed 322 MJ of grid energy in the conversion process.
+In May 2023, the United States Department of Energy (DOE) provided a grant of $46 million to eight companies across seven states to support fusion power plant design and research efforts. This funding, under the Milestone-Based Fusion Development Program, aligns with objectives to demonstrate pilot-scale fusion within a decade and to develop fusion as a carbon-neutral energy source by 2050. The granted companies are tasked with addressing the scientific and technical challenges to create viable fusion pilot plant designs in the next 5–10 years. The recipient firms include Commonwealth Fusion Systems, Focused Energy Inc., Princeton Stellarators Inc., Realta Fusion Inc., Tokamak Energy Inc., Type One Energy Group, Xcimer Energy Inc., and Zap Energy Inc.
+In December 2023, the largest and most advanced tokamak JT-60SA was inaugurated in Naka, Japan. The reactor is a joint project between Japan and the European Union. The reactor had achieved its first plasma in October 2023. Subsequently, South Korea's fusion reactor project, the Korean Superconducting Tokamak Advanced Research, successfully operated for 102 seconds in a high-containment mode (H-mode) containing high ion temperatures of more than 100 million degrees in plasma tests conducted from December 2023 to February 2024.
+
+
+== Records ==
+Fusion records continue to advance:
+
+
+== See also ==
+
+
+== References ==
+
+
+== Bibliography ==
+Clery, Daniel (2014). A Piece of the Sun: The Quest for Fusion Energy. The Overlook Press. ISBN 978-1468310412.
+Cockburn, Stewart; Ellyard, David (1981). Oliphant, the life and times of Sir Mark Oliphant. Axiom Books. ISBN 978-0959416404.
+Dean, Stephen O. (2013). Search for the Ultimate Energy Source: A History of the U.S. Fusion Energy Program. Springer Science & Business Media. ISBN 978-1461460374.
+Hagelstein, Peter L.; McKubre, Michael; Nagel, David; Chubb, Talbot; Hekman, Randall (2004). "New Physical Effects in Metal Deuterides" (PDF). 11th Condensed Matter Nuclear Science. Vol. 11. Washington: US Department of Energy. pp. 23–59. Bibcode:2006cmns...11...23H. CiteSeerX 10.1.1.233.5518. doi:10.1142/9789812774354_0003. ISBN 978-9812566409. Archived from the original (PDF) on 2007-01-06. (manuscript)
+Hutchinson, Alex (January 8, 2006). "The Year in Science: Physics". Discover Magazine (Online). ISSN 0274-7529. Retrieved 2008-06-20.
+Nuttall, William J., Konishi, Satoshi, Takeda, Shutaro, and Webbe-Wood, David (2020). Commercialising Fusion Energy: How Small Businesses are Transforming Big Science. IOP Publishing. ISBN 978-0750327176.
+Molina, Andrés de Bustos (2013). Kinetic Simulations of Ion Transport in Fusion Devices. Springer International Publishing. ISBN 978-3319004211.
+Nagamine, Kanetada (2003). "Muon Catalyzed Fusion". Introductory Muon Science. Cambridge University Press. ISBN 978-0521038201.
+Pfalzner, Susanne (2006). An Introduction to Inertial Confinement Fusion. US: Taylor & Francis. ISBN 978-0750307017.
+
+
+== Further reading ==
+Ball, Philip. "The chase for fusion energy". Nature. Retrieved 2021-11-22.
+Oreskes, Naomi, "Fusion's False Promise: Despite a recent advance, nuclear fusion is not the solution to the climate crisis", Scientific American, vol. 328, no. 6 (June 2023), p. 86.
+
+
+== External links ==
+
+Fusion Device Information System
+Fusion Energy Base
+Fusion Industry Association
+Princeton Satellite Systems News
+U.S. Fusion Energy Science Program

@@ -1,0 +1,174 @@
+A glacial erratic is a glacially deposited rock differing from the type of rock native to the area in which it rests. Erratics, which take their name from the Latin word errare ("to wander"), are carried by glacial ice, often over distances of hundreds of kilometres. Erratics can range in size from pebbles to large boulders such as Big Rock (16,500 tonnes or 18,200 short tons) in Alberta.
+Geologists identify erratics by studying the rocks surrounding the position of the erratic and the composition of the erratic itself. Erratics are significant because:
+
+They can be transported by glaciers, and are thereby one of a series of indicators which mark the path of prehistoric glacier movement. Their lithographic origin can be traced to the parent bedrock, allowing for confirmation of the ice flow route.
+They can be transported by ice rafting, which allows quantification of the extent of glacial flooding resulting from ice dam failures which release the waters stored in proglacial lakes such as Lake Missoula. Erratics released by ice rafts that were stranded and subsequently melted, dropping their load, allow characterization of the high-water marks for transient floods in areas like temporary Lake Lewis.
+Erratics dropped by icebergs melting in the ocean can be used to track Antarctic and Arctic-region glacial movements for periods prior to record retention. Also known as dropstones, these can be correlated with ocean temperatures and levels to better understand and calibrate models of the global climate.
+
+
+== Formation of erratics ==
+
+The term "erratic" is commonly used to refer to erratic blocks, which geologist Archibald Geikie describes as: "large masses of rock, often as big as a house, that have been transported by glacier ice, and have been lodged in a prominent position in the glacier valleys or have been scattered over hills and plains. And examination of their mineralogical character leads the identification of their sources...". In geology, an erratic is material moved by geologic forces from one location to another, usually by a glacier.
+Erratics are formed by glacial ice erosion resulting from the movement of ice. Glaciers erode by multiple processes including:
+
+Abrasion/Scouring – debris in the basal ice scrapes along the bed, polishing and gouging the underlying rocks, similar to sandpaper on wood, producing smaller glacial till.
+Plucking – pieces of bedrock are cracked off by glaciers, producing larger erratics.
+Ice thrusting – the glacier freezes to its bed, moving large sheets of frozen sediment at its base along with it.
+Glacially induced spalling – layers of rock are spalled off the rocks below the glacier during ice lens formation. This provides smaller debris, which is ground into the glacial basal material, to become till.
+
+Evidence supports another possibility for the creation of erratics as well: rock avalanches onto the upper surface of the glacier (supraglacial). Rock avalanche–supraglacial transport occurs when the glacier undercuts a rock face, which fails by avalanche onto the upper surface of the glacier. The characteristics of rock avalanche–supraglacial transport includes:
+
+Monolithologic composition – a cluster of boulders of similar composition are frequently found in close proximity. Commingling of the multiple lithologies normally present throughout the glaciated basin, has not occurred.
+Angularity – the supraglacially transported rocks tend to be rough and irregular, with no sign of subglacial abrasion. The sides of boulders are roughly planar, suggesting that some surfaces may be original fracture planes.
+Great size – the size distribution of the boulders tends to be skewed toward larger boulders than those produced subglacially.
+Surficial positioning of the boulders – the boulders are positioned on the surface of glacial deposits, as opposed to partially or totally buried.
+Restricted areal extents – the boulder fields tend to have limited areal extent; the boulders cluster together, consistent with the boulders landing on the surface of the glacier and subsequently deposited on top of the glacial drift.
+Orientations – the boulders may be close enough that original fracture planes can be matched.
+Locations of the boulder trains – the boulders appear in rows, trains or clusters along the lateral moraines as opposed to being located on the terminal moraine or in the general glacial field.
+
+
+=== Glacier-borne erratic ===
+
+Erratics provide an important tool in characterizing the directions of glacier flows, which are routinely reconstructed used on a combination of moraines, eskers, drumlins, meltwater channels and similar data. Erratic distributions and glacial till properties allow for identification of the source rock from which they derive, which confirms the flow direction, particularly when the erratic source outcrop is unique to a limited locality. Erratic materials may be transported by multiple glacier flows prior to their deposition, which can complicate the reconstruction of the glacial flow.
+
+
+=== Ice-rafted erratic ===
+Glacial ice entrains debris of varying sizes from small particles to extremely large masses of rock. This debris is transported to the coast by glacier ice and released during the production, drift and melting of icebergs. The rate of debris release by ice depends upon the size of the ice mass in which it is carried as well as the temperature of the ocean through which the ice floe passes.
+
+Sediments from the late Pleistocene period lying on the floor of the North Atlantic show a series of layers (referred to as Heinrich layers) which contain ice-rafted debris. They were formed between 14,000 and 70,000 years before the present. The deposited debris can be traced back to the origin by both the nature of the materials released and the continuous path of debris release. Some paths extend more than 3,000 kilometres (1,900 mi) distant from the point at which the ice floes originally broke free.
+The location and altitude of ice-rafted boulders relative to the modern landscape has been used to identify the highest level of water in proglacial lakes (e.g. Lake Musselshell in central Montana) and temporary lakes (e.g. Lake Lewis in Washington state). Ice-rafted debris is deposited when the iceberg strands on the shore and subsequently melts, or drops out of the ice floe as it melts. Hence all erratic deposits are deposited below the actual high water level of the lake; however, the measured altitude of ice-rafted debris can be used to estimate the lake surface elevation.
+
+This is accomplished by recognizing that on a fresh-water lake, the iceberg floats until the volume of its ice-rafted debris exceeds 5% of the volume of the iceberg. Therefore, a correlation between the iceberg size and the boulder size can be established. For example, a 1.5-metre-diameter (5 ft) boulder can be carried by a 3-metre-high (10 ft) iceberg and could be found stranded at higher elevations than a 2-metre (7 ft) boulder, which requires a 4-metre-high (13 ft) iceberg.
+
+
+=== Large erratics ===
+
+Large erratics consisting of slabs of bedrock that have been lifted and transported by glacier ice to subsequently be stranded above thin glacial or fluvioglacial deposits are referred to as glacial floes, rafts (schollen) or erratic megablocks. Erratic megablocks have typical length to thickness ratios on the order of 100 to 1. These megablocks may be found partially exposed or completely buried by till and are clearly allochthonous, since they overlay glacial till. Megablocks can be so large that they are mistaken for bedrock until underlying glacial or fluvial sediments are identified by drilling or excavation. Such erratic megablocks greater than 1 square kilometre (250 acres) in area and 30 metres (98 ft) in thickness can be found on the Canadian Prairies, Poland, England, Denmark and Sweden. One erratic megablock located in Saskatchewan is 30 by 38 kilometres (19 mi × 24 mi) (and up to 100 metres or 330 feet thick). Their sources can be identified by locating the bedrock from which they were separated; several rafts from Poland and Alberta were determined to have been transported over 300 kilometres (190 mi) from their source.
+
+
+=== Nonglacial erratics ===
+In geology an erratic is any material which is not native to the immediate locale but has been transported from elsewhere. The most common examples of erratics are associated with glacial transport, either by direct glacier-borne transport or by ice rafting. However, other erratics have been identified as the result of kelp holdfasts, which have been documented to transport rocks up to 40 centimetres (16 in) in diameter, rocks entangled in the roots of drifting logs, and even in transport of stones accumulated in the stomachs of pinnipeds during foraging.
+
+
+== History ==
+
+During the 18th century, erratics were deemed a major geological paradox. Geologists identify erratics by studying the rocks surrounding the position of the erratic and the rock of the erratic itself. Erratics were once considered evidence of a biblical flood, but in the 19th century scientists gradually came to accept that erratics pointed to an ice age in Earth's past. Among others, the Swiss politician, jurist and theologian Bernhard Friedrich Kuhn saw glaciers as a possible solution as early as 1788. However, the idea of ice ages and glaciation as a geological force took a while to be accepted. Ignaz Venetz (1788–1859), a Swiss engineer, naturalist and glaciologist was one of the first scientists to recognize glaciers as a major force in shaping the earth.
+In the 19th century, many scientists came to favor erratics as evidence for the end of the Last Glacial Maximum (ice age) 10,000 years ago, rather than a flood. Geologists have suggested that landslides or rockfalls initially dropped the rocks on top of glacial ice. The glaciers continued to move, carrying the rocks with them. When the ice melted, the erratics were left in their present locations.
+Charles Lyell's Principles of Geology (v. 1, 1830) provided an early description of the erratic which is consistent with the modern understanding. Louis Agassiz was the first to scientifically propose that the Earth had been subject to a past ice age. In the same year, he was elected a foreign member of the Royal Swedish Academy of Sciences. Prior to this proposal, Goethe, de Saussure, Venetz, Jean de Charpentier, Karl Friedrich Schimper and others had made the glaciers of the Alps the subjects of special study, and Goethe, Charpentier as well as Schimper had even arrived at the conclusion that the erratic blocks of alpine rocks scattered over the slopes and summits of the Jura Mountains had been moved there by glaciers.
+Charles Darwin published extensively on geologic phenomena including the distribution of erratic boulders. In his accounts written during the voyage of HMS Beagle, Darwin observed a number of large erratic boulders of notable size south of the Strait of Magellan, Tierra del Fuego and attributed them to ice rafting from Antarctica. Recent research suggests that they are more likely the result of glacial ice flows carrying the boulders to their current locations.
+
+
+== Examples ==
+
+
+=== Glacier-borne erratics ===
+
+
+==== Australia ====
+Exhumed erratics eroded from unconsolidated 270 Ma Permian glacial sediments can be found on the beach and in the park at Hallett Cove Conservation Park just south of Adelaide, and in other South Australian locations, such as Inman Valley.
+
+
+==== Canada ====
+Big Rock near Okotoks, Alberta, Canada. It is the largest erratic in the Foothills Erratics Train.
+Bleasdell Boulder, southern Ontario, was described as "glacial" in origin by Reverend William Bleasdell in 1872.
+The Foothills Erratics Train is a deposit of rocks of many sizes. These deposits stretch in a narrow belt for about 600 kilometres (370 mi) from Alberta's Athabasca River Valley to the southwest of the province.
+White Rock, British Columbia gets its name from a coastal erratic the size of a garage found on the beach at Semiahmoo Bay, right at the border with Washington.
+Boulder in Green Timbers Urban Forest in Surrey, British Columbia, described as a glacial erratic on the city website
+
+
+==== Estonia ====
+
+Ehalkivi (Sunset Glow Boulder) near Letipea, Estonia is the largest erratic boulder in the glaciation area of North Europe. Height 7 m, circumference 48.2 m, a volume of 930 m3 and a mass of approx 2,500 tonnes
+
+
+==== Finland ====
+
+Kukkarokivi, located close to Turku at the Ruissalo island in Southwest Finland. It is the largest in Finland; length about 40 m, width about 30 m, height 12 m, weight about 36,000 tonnes.
+
+
+==== Germany ====
+Colossus of Ostermunzel, Lower Saxony
+Der Alte Schwede, found during dredging of the river Elbe near Hamburg in 1999; oldest in Germany
+Giebichenstein, Stöckse, Lower Saxony
+Glacial erratics on and around Rügen
+
+
+==== Republic of Ireland ====
+The Clonfinlough Stone, located in central Ireland, is covered with Bronze Age and medieval carvings
+
+
+==== Latvia ====
+Nīcgale Great Stone, located in Nīcgale Parish
+Brodu quarry stone, located in Jēkabpils
+Lauču stone, located in Lauči, Skulte parish, Limbaži municipality. Believed to have separated from a glacier in the Vyborg area of Southern Finland and Russia.
+
+
+==== Lithuania ====
+Puntukas, one of national symbols of Lithuania, near Anykščiai city
+
+
+==== Poland ====
+Trygław, Tychowo
+Devil Stone, Kashubia
+
+
+==== United Kingdom ====
+
+
+===== England =====
+The Crosby Erratic, Coronation Park, Liverpool, England; unearthed in a field nearby in 1898.
+The Great Stone of Fourstones, at the county boundary between North Yorkshire and Lancashire, has fifteen steps carved in its side to enable it to be climbed.
+
+The Hitching Stone in North Yorkshire. It is the largest erratic block in the county.
+The Merton Stone, Merton, Norfolk
+The Norber erratics in the Yorkshire Dales are one of England's finest sets of glacial erratics.
+Soulbury Stone, located in Soulbury, Buckinghamshire
+
+
+===== Scotland =====
+Jim Crow Rock, glacial erratic in Hunters Quay, situated on the foreshore of the Firth of Clyde. The rock has been the subject of controversy because of an allegedly racist face painted on it.
+
+
+===== Northern Ireland =====
+Cloughmore, near Rostrevor in County Down, Northern Ireland, is a glacial erratic found on the mountain high above the village. Located on the slopes of Slieve Martin, the stone overlooks Carlingford Lough and the Cooley Peninsula.
+
+
+==== United States ====
+
+Bubble Rock, perched on the edge of a cliff near the summit of South Bubble mountain in Acadia National Park, Maine.
+Doane Rock, the largest exposed boulder in Cape Cod, Massachusetts.
+Fantastic Erratic, a fern-covered erratic the size of a two-car garage, is found on Cougar Mountain near Seattle.
+Glen Rock, a boulder weighing 570 short tons (520 t) in Glen Rock, New Jersey, believed to have been carried to the site by a glacier that picked up the rock 15,000 years ago near Peekskill, New York.
+Indian Rock in Montebello, New York is a large glacial erratic boulder of granite gneiss, formed in the Proterozoic (Precambrian) era, 1.2 billion to 800 million years ago. It is estimated to weigh ≈17,300 tons.
+Madison Boulder, a 5,000-short-ton (4,500 t) glacial erratic the size of a large house in Madison, New Hampshire.
+Olmsted Point in Yosemite National Park is noteworthy for having granite hills covered in numerous small glacial erratics.
+Plymouth Rock, the site in Plymouth, Massachusetts on which the Mayflower Pilgrims landed in 1620. It is an important symbol in American history.
+Rollstone Boulder, a 110-ton porphyritic granite boulder that was originally located at the summit of Rollstone Hill in Fitchburg, Massachusetts. It was carried by the last glaciation from central New Hampshire. Threatened by quarrying operations, it was moved to Litchfield Park in downtown Fitchburg in 1929–1930.
+The northern portion of the town of Waterville, Washington has a large number of large basalt erratics, particularly along the moraine running east–west from McNeil Canyon.
+Tripod Rock in Kinnelon, New Jersey is noteworthy for being perched on three smaller boulders.
+Balance Rock in Princeton, Massachusetts is located at the base of Mount Wachusett, on the northwest side.
+
+
+=== Flood-borne erratics ===
+If glacial ice is "rafted" by a flood such as that created when the ice dam broke during the Missoula floods, then the erratics are deposited where the ice finally releases its debris load. One of the more unusual examples is found far from its origin in Idaho at Erratic Rock State Natural Site just outside McMinnville, Oregon. The park includes a 40-short-ton (36 t) specimen, the largest erratic found in the Willamette Valley.
+
+
+== See also ==
+
+Balancing rock
+Glacial erratic boulders of the Puget Sound region
+Grannie stone
+Jasper conglomerate
+Sunday Rock
+Willamette Meteorite
+
+
+== References ==
+
+Imbrie, J. & K. P. Imbrie. Ice Ages, Enslow Publishers, Hillside, New Jersey, 1979.
+
+
+== External links ==
+ Media related to Glacial erratics at Wikimedia Commons
+
+Royal Alberta Museum

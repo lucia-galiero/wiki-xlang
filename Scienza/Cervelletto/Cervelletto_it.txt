@@ -1,0 +1,434 @@
+Il cervelletto (in latino cerebellum che significa "piccolo cervello") è una parte del sistema nervoso centrale e più precisamente del rombencefalo ed è presente in tutti i vertebrati. Sebbene di solito sia più piccolo del cervello, in alcuni animali come i pesci mormyridae assume dimensioni addirittura più grandi. Nonostante il cervelletto costituisca circa il 10% della massa cerebrale nell'homo sapiens, contiene approssimativamente l'80% del totale dei neuroni cerebrali, ossia circa 70 miliardi di neuroni (69.03 ± 6.65) contro i 16 miliardi della Corteccia (16.34 ± 2.17) e i 0.69 ± 0.12 miliardi del tronco encefalico.
+Il cervelletto svolge un ruolo importante nel controllo dei movimenti. È coinvolto anche in funzioni cognitive, quali l'attenzione, la memorizzazione e il linguaggio, nonché nella regolazione delle risposte alla paura o al piacere, tuttavia le sue funzioni motorie sono quelle storicamente più accreditate e studiate nonostante si stima attualmente che solamente il 20% delle funzioni cerebrali siano di natura motoria. I lobi cerebellari sono infatti implicati in tutto lo spettro dei domini neuropsicologici. Di per sé, il cervelletto umano non inizia il movimento, ma contribuisce al suo coordinamento, alla sua precisione e all'accurata temporizzazione (timing): riceve l'input dai sistemi sensoriali del midollo spinale e da altre zone del cervello e integra questi segnali nell'ottimizzazione dell'attività motoria. Un danno cerebellare produce negli esseri umani dei deficit nel movimento fine, nell'equilibrio, nella postura e nell'apprendimento motorio, e in aggiunta svariate compromissioni a carico dei domini di linguaggio, attenzione e memoria sono ben documentate in Neuropsicologia Clinica e in ricerca neuroscientifica.
+Anatomicamente, il cervelletto umano si presenta come una formazione grossolanamente ovoidale divisa in due emisferi (emisferi cerebellari), dal peso di circa 130-140 grammi ed è disposto nella fossa cranica posteriore nascosto sotto gli emisferi cerebrali. La sua superficie corticale è coperta da scanalature parallele finemente distanziate, in contrasto con le ampie convoluzioni irregolari tipiche della corteccia cerebrale. Queste scanalature parallele nascono dal fatto che la corteccia cerebellare è un sottile strato di tessuto strettamente piegato come una fisarmonica. All'interno di questo sottile strato vi sono diversi tipi di neuroni con una disposizione altamente regolare, le più importanti sono le cellule Purkinje e le cellule granulari. Questa complessa organizzazione neurale permette una grande capacità di elaborazione del segnale, ma quasi tutta la lavorazione della corteccia cerebellare passa attraverso una serie di piccoli nuclei profondi che si trovano nella materia bianca all'interno del cervelletto.
+Oltre al suo ruolo diretto nel controllo del movimento, il cervelletto è necessario per diversi tipi di apprendimento motorio, soprattutto nell'adattamento ai cambiamenti dei rapporti sensomotorici. Sono stati sviluppati diversi modelli teorici per spiegare la calibrazione sensomotrice in termini di plasticità sinaptica all'interno del cervelletto. Questi modelli derivano da quelli formulati da David Marr e James Albus, basati sull'osservazione che ogni cella cerebellare di Purkinje riceve due tipi di input totalmente diversi: uno comprende migliaia di ingressi deboli provenienti dalle fibre parallele delle cellule granulari; l'altro è un ingresso estremamente forte proveniente da una singola fibra rampicante. Il concetto di base della teoria di Marr-Albus è che la fibra rampicante funge da "segnale di insegnamento", che induce un cambiamento duraturo nella forza degli ingressi nella fibra parallela. Le osservazioni di long term depression negli ingressi nelle fibre parallele hanno fornito sostegno a tali teorie, anche se la loro validità rimane ancora controversa.
+
+
+== Rapporti e configurazione esterna ==
+
+Nel suo insieme, il cervelletto appare costituito da una parte centrale, detta verme, e due espansioni laterali convesse, gli emisferi cerebellari. La superficie di tutto il cervelletto, al pari del telencefalo, presenta numerosi solchi ad andamento prevalentemente trasversale che delimitano specifici territori, i lobi e i lobuli. Nel complesso presenta una faccia superiore, una inferiore e una circonferenza.
+La faccia superiore è coperta dai lobi occipitali da cui è separata dal tentorio del cervelletto, un setto della dura madre che si dispone orizzontalmente. Questa lamina prendendo inserzione sulla squama dell'osso occipitale, contribuisce a delimitare il seno venoso e continua in avanti per formare un ampio spazio ovalare che delimita inferiormente la porzione sovratentoriale dell'encefalo. Sulla linea mediana, la faccia superiore si solleva in un rilievo, la faccia superiore del verme, formata dal verme stesso.
+La faccia inferiore è in rapporto con le fosse craniche posteriori e con la cisterna magna (o cerebello-midollare), una vasta cisterna che contiene liquido cefalorachidiano. Tale cisterna è in comunicazione con la cavità del IV ventricolo attraverso tre fori: uno centrale, il forame di Magendie, e due laterali, forami di Luschka. Nella parte centrale della faccia inferiore è presente la vallecula del cervelletto (di Reil), una depressione che accoglie un altro setto della dura madre, la falce cerebellare.
+
+La circonferenza è percorsa anteriormente da una depressione, l'ilo cerebellare, delimitato dai tre peduncoli cerebellari diretti verso il tronco encefalico. L'ilo è delimitato superiormente dalla valvola di Vieussens e dalla valvola di Tarin che si congiungono nell'ilo formando un angolo acuto, il fastigium, aperto anteriormente e formante l'apice della volta del IV ventricolo. La valvola di Vieussens, in particolare, è una lamina che congiunge il centro midollare con la lamina tecti (lamina quadrigemina) ed è formata da due strati: uno superiore di sostanza bianca, il velo midollare superiore (o anteriore), che occupa lo spazio compreso fra i peduncoli superiori e uno strato più profondo di sostanza grigia che continua con la faccia inferiore del verme. La valvola di Tarin o velo midollare inferiore (o posteriore) è una lamina di ependima, continuazione della membrana tectoria, che occupa lo spazio fra i peduncoli inferiori.
+
+
+=== Angolo cerebellare ===
+L'angolo cerebellare è un'area triangolare delimitata posteriormente e dorsalmente da cervelletto e ponte, anteriormente e lateralmente dalla rocca petrosa dell'osso temporale. È posto anteriormente al flocculo. In tale area si trovano concentrati i nuclei dei nervi encefalici facciale, intermedio e vestibolo-cocleare che emergono avvolti da una comune guaina meningea. L'importanza di tale area è squisitamente clinica e dovuto ai rapporti intimi e delicati che vi sono fra gli elementi presenti; un'alterazione, infatti, che interessa questa zona presenta un quadro anatomoclinico famoso come sindrome dell'angolo ponto-cerebellare.
+
+
+=== Peduncoli cerebellari ===
+I peduncoli sono tratti di collegamento fra cervelletto e tronco encefalico (e quindi poi con tutto il nervoso centrale) costituiti da fasci di fibre nervose sia afferenti che efferenti.
+
+I peduncoli cerebellari inferiori o corpi restiformi, si estendono dall'ilo del cervelletto alla metà superiore del bulbo e contengono prevalentemente fibre afferenti per il cervelletto provenienti dal bulbo e dal midollo spinale.
+I peduncoli cerebellari medi o brachia pontis si estendono dall'ilo del cervelletto al ponte del tronco encefalico e sono i più voluminosi. Più caudalmente delimita, insieme alla faccia anteriore del flocculo e ai peduncoli cerebellari inferiori, l'angolo cerebellare, un'area da cui emergono i nervi encefalici VII, intermedio e VIII avvolti da una guaina meningea comune.
+I peduncoli cerebellari superiori o brachia conjunctiva si estendono dall'ilo del cervelletto al tegmento del mesencefalo, sono di forma appiattita e collegati fra loro dalla valvola di Vieussens.
+
+
+=== Suddivisione lobare ===
+Sia il verme che gli emisferi vengono suddivisi da cinque profondi solchi, fessure o scissure principali in lobi e lobuli. Scissure secondarie poi dividono ciascun lobulo in lamine.
+
+
+==== Lobi ====
+
+Il cervelletto è diviso dalle scissure postero-laterale e primaria in 3 lobi, ognuno costituito da una porzione centrale nel verme e due porzioni laterali negli emisferi:
+
+lobo anteriore è costituito dalla lingula, dal lobulo centrale e dal culmen e dalle loro ali cioè l'ala della lingula, l'ala del lobulo centrale e il lobulo quadrangolare anteriore. Sulla faccia superiore è delimitato postero-inferiormente dalla fessura primaria che si porta antero-lateralmente incontrando la fessura orizzontale. Sulla faccia inferiore è delimitato dal margine superiore dei peduncoli cerebellari medi.
+lobo posteriore è costituito dal lobulo semplice, dal folium vermis, dal tuber, dalla piramide, dall'uvula e dalle loro ali ovvero il lobulo quadrangolare posteriore, i lobuli semilunari superiore ed inferiore, il lobulo biventre e la tonsilla cerebellare. Sulla faccia superiore è delimitato anteriormente dal solco primario e dalla fessura orizzontale, sulla faccia inferiore dalla fessura postero-laterale che lo separa dal lobo flocculonodulare. Le tonsille sono due strutture caratteristiche di forma triangolare, con l'apice rivolto infero-medialmente che costituiscono le ali dell'uvula; tendono a coprire leggermente il verme cerebellare sulla faccia inferiore del cervelletto.
+lobo flocculonodulare è costituito dal nodulo e dalla sua ala, il flocculo. È compreso tra il velo midollare inferiore e la fessura postero-laterale.
+
+
+==== Lobuli ====
+Le altre scissure suddividono poi il lobo anteriore e posteriore in ulteriori lobuli. La classificazione di Reil prevede una suddivisione in lobuli del verme e lobuli degli emisferi. Ad ogni lobulo del verme, corrispondono due lobuli degli emisferi, uno per lato.
+
+
+==== Scissure ====
+
+Il cervelletto possiede numerose scissure (dette anche fessure o solchi), divise in principali (che danno vita ai lobi) e secondarie (responsabili della formazione dei lobuli). Sulla faccia superiore le scissure si fanno progressivamente più lunghe, dalla fessura precentrale alla fessura orizzontale, poi sulla faccia inferiore decrescono sino alla fessura posterolaterale. Per evitare ripetizioni, ciascuna fessura divide sia una porzione del verme dalla successiva che la corrispondente ala abbinata al verme dalla successiva.
+Le scissure principali risultano essere solo due:
+
+scissura primaria: è la più profonda, forma una curva antero-laterale e divide il lobo anteriore dal lobo posteriore ed il culmen dal lobulo semplice
+scissura postero-laterale: divide il lobo posteriore dal lobo flocculonodulare e l'uvula dal nodulo
+Le scissure secondarie sono:
+
+La scissura precentrale è la più breve della faccia superiore del cervelletto, divide la lingula dal lobulo centrale.
+La scissura preculminare divide il lobulo centrale dal culmen.
+La scissura postero-superiore divide il lobulo semplice dal folium vermis.
+La scissura orizzontale è la più lunga di tutte, si estende dal peduncolo cerebellare medio alla vallecula e divide il folium vermis dal tuber.
+La scissura lunogracile decorre sulla superficie del tuber.
+La scissura prebiventrale divide il tuber dalla piramide.
+La scissura intrabiventrale decorre sulla superficie della piramide.
+La scissura secondaria divide la piramide dall'uvula.
+
+
+== Struttura e configurazione interna ==
+
+Il cervelletto presenta uno strato di sostanza grigia superficiale, detta corteccia cerebellare, di forma irregolare a causa di numerosi solchi ad andamento prevalentemente trasversale. Al profondo della corteccia è presente la sostanza bianca che forma, al centro, il corpo midollare da cui dipartono tralci di sostanza che seguono i ripiegamenti della grigia superficiale e formano l'arbor vitae. Nel profondo del corpo midollare sono situati quattro nuclei (detti nuclei intrinseci): nucleo del tetto (o del fastigio), nucleo globoso, nucleo emboliforme e nucleo dentato.
+
+
+=== Corteccia cerebellare ===
+La corteccia cerebellare possiede una superficie pari alla metà di quella del cervello ma contiene un numero di neuroni maggiore, benché il suo peso sia dieci volte inferiore. Tridimensionalmente però la corteccia cerebellare ha una struttura microscopica uniforme in tutte le sue parti a differenza della più complessa e variabile corteccia cerebrale. Le cellule della corteccia cerebellare sono caratteristicamente orientate in modo rigorosamente geometrico rispetto alla superficie e agli assi della loro lamella.
+Presenta inoltre vasi sanguigni, cellule della neuroglia e 6 tipi neuronali:
+
+granuli,
+cellule dei canestri,
+cellule stellate,
+cellule del Golgi,
+cellule fusiformi,
+cellule di Lugaro;
+cellule di Purkinje.
+
+
+==== Strati cerebellari ====
+
+La corteccia cerebellare è costituita da tre strati che, dal più superficiale al più profondo sono:
+
+lo strato molecolare,
+lo strato delle cellule di Purkinje,
+lo strato dei granuli.
+
+
+===== Strato molecolare =====
+Lo strato molecolare, spesso 0,3-0,4mm, è costituito dalle fitte arborizzazioni dendritiche delle cellule di Purkinje e di Golgi, dalle fibre parallele e dalle fibre rampicanti, mentre risulta essere povero di corpi cellulari: costituiti solamente dalle cellule a canestro, le cellule stellate e le cellule fusiformi.
+L'arborizzazione dendritica delle cellule di Purkinje si estende verso la regione corticale e risulta appiattita per via dello sviluppo in senso trasversale rispetto alla lunghezza delle lamelle cerebrali, a differenza delle cellule del Golgi che estendono le loro ramificazioni sia in senso trasversale che longitudinale, andando ad invadere anche parte del territorio occupato dalle cellule di Purkinje.
+Le fibre parallele nascono dalla biforcazione a T di numerosi assoni dei granuli che, una volta ascesi nello strato molecolare, divergono dando vita alle fibre stesse. Le fibre rampicanti, invece, risultano essere le terminazioni delle fibre olivo-cerebrali. Entrambe le fibre incontrano e traggono sinapsi con le cellule e i dendriti presenti nello strato molecolare.
+I prolungamenti delle cellule epiteliali della glia (di Bergmann), infine, si dispongono radialmente ed emettono a loro volta dei prolungamenti che avvolgono tutti gli elementi neuronali presenti tranne che in corrispondenza delle sinapsi. L'unione delle espansioni coniche di tali cellule, a livello della superficie del cervelletto, costituiscono una membrana limitante esterna.
+
+
+===== Strato delle cellule del Purkinje =====
+Lo strato delle cellule del Purkinje contiene i corpi delle cellule del Purkinje, parte del loro albero dendritico e di quello delle cellule di Golgi. Le cellule sono disposte in un'unica fila.
+
+
+===== Strato dei granuli =====
+Lo strato dei granuli, più profondo, ha uno spessore che varia da 0,1mm nelle fessure a 0,5mm sulla sommità delle lamelle, contiene circa 2.7 milioni di neuroni dei granuli per millimetro cubo. In questo strato sono contenuti i corpi cellulari, i dendriti basali e le arborizzazioni assonali delle cellule del Golgi; i corpi cellulari delle cellule dei piccoli granuli e la parte iniziale del loro assone; le ramificazioni terminali delle fibre muscoidi (fibre afferenti) e parte delle fibre rampicanti che transitano verso lo strato molecolare. Dai piccoli granuli, originano gli assoni che vanno a formare le fibre parallele che decorrono nello strato molecolare.
+
+
+==== Cellule della corteccia cerebellare ====
+Il cervelletto presenta, oltre alle cellule della neuroglia, sei tipi di cellule neuronali: cellule di Purkinje, cellule del Golgi, cellule dei granuli, cellule a canestro, cellule stellate e cellule fusiformi. Queste ultime sono poco numerose, di tipo associativo con assone breve e presenti interamente nello strato molecolare.
+Sono tutti neuroni inibitori rilascianti acido γ-amminobutirrico (GABA) a parte le cellule dei granuli che sono neuroni eccitatori rilascianti L-glutammato.
+
+
+===== Cellule del Purkinje =====
+
+Le cellule del Purkinje sono grossi neuroni il cui corpo oblungo è situato nell'omonimo strato. Sono disposte ad intervalli piuttosto regolari al suo interno e possiedono un albero dendritico fittamente arborizzato che prende origine da uno o due dendriti primari e che si porta fino allo strato molecolare, dove contrae migliaia di sinapsi per mezzo di numerose spine dendritiche con le fibre parallele delle cellule dei granuli. L'albero dendritico delle cellule di Purkinje è caratteristicamente limitato ad una sottile lamina di tessuto perpendicolare all'asse maggiore della lamella. I dendriti delle cellule di Purkinje contraggono sinapsi mediante spine dendritiche più tozze con le fibre rampicanti. Ricevono sinapsi inibitorie dalle cellule stellate, dalle cellule a canestro e da rami ricorrenti di assoni di altre cellule del Purkinje. Il citoplasma delle cellule di Purkinje possiede un reticolo endoplasmatico rugoso molto superficiale rispetto alla membrana plasmatica e molto sviluppato, associato a molti mitocondri e ribosomi. Gli assoni delle cellule di Purkinje originano dal loro lato basale e si dirigono verso lo strato dei granuli per poi penetrare nella sostanza bianca. Contraggono sinapsi assoassoniche con le cellule a canestro. Ciascun assone emette rami ricorrenti che formano sinapsi con le cellule a canestro (assosomatiche), le cellule di Golgi (assosomatiche o assoassoniche) e altre cellule di Purkinje (assodendritiche o assoassoniche). Il resto dell'assone si ricopre di guaina mielinica nella sostanza bianca e poi si ramifica diffusamente dirigendosi verso i nuclei del cervelletto o i nuclei vestibolari.
+Nel complesso, sono neuroni inibitori GABAergici la cui funzione è di modulare l'attività dei nuclei intrinseci del cervelletto.
+
+
+===== Cellule del Golgi =====
+Le cellule del Golgi dette cellule stellate interne o grandi granuli sono neuroni dal grosso pirenoforo, che si trova nella zona superficiale dello strato dei granuli, vicini ai corpi cellulari delle cellule del Purkinje. Possiedono un albero dendritico dall'ampia arborizzazione che si estende significativamente, a differenza di quello delle cellule del Purkinje, sia sul piano longitudinale che trasversale con proporzioni simili. L'albero dendritico si porta sino allo strato molecolare. L'arborizzazione assonica delle cellule del Golgi si estende nello strato dei granuli e forma complessi sinaptici detti glomeruli cerebellari con le fibre muscoidi. Le fibre parallele contraggono sinapsi con il loro albero dendritico, ma possono ricevere anche rami ricorrenti dalle cellule di Purkinje, da fibre rampicanti o da fibre muscoidi. Alcune cellule del Golgi presentano un'arborizzazione dendritica anche nello strato granulare dove entrano a far parte dei glomeruli cerebellari e ricevono sinapsi eccitatorie dalle fibre muscoidi. L'estensione dell'albero dendritico e dell'arborizzazione assonica occupa un volume di tessuto simile.
+
+
+===== Cellule dei granuli =====
+Le cellule dei granuli sono le cellule più numerose del cervelletto: secondo una stima, sembrano essere in numero di 46 miliardi e in rapporto di 3000 con le cellule del Purkinje. Sono neuroni piccoli, con corpi tondeggianti dai nuclei di 5-8 µm di diametro e un citoplasma ricco di ribosomi e mitocondri. Si trovano all'interno dello strato dei granuli che deve il suo nome a loro. Ognuno emette da tre a cinque dendriti terminanti con un caratteristico artiglio e prendono contatto con le terminazioni a grappolo delle fibre muscoidi formando i glomeruli cerebellari. Le cellule dei granuli possiedono un solo assone che attraversa la corteccia cerebrale sino allo strato molecolare dove si ramifica a T formando le fibre parallele. Le fibre parallele decorrono parallelamente all'asse maggiore della lamella cerebrale in cui si trovano per diversi millimetri e sono costellate di strutture globulari (o rigonfiamenti) che rappresentano le sinapsi con le spine dendritiche delle cellule del Purkinje, con le cellule stellate esterne, con le cellule a canestro e con quelli delle cellule del Golgi. Ogni arborizzazione dendtrica può essere incrociata da circa 250.000 fibre parallele anche se non è detto che ogni fibra parallela contragga sinapsi con tutti i dendriti che incontra.
+Le cellule dei granuli, a differenza delle altre popolazioni, sono gli unici neuroni eccitatori e nelle loro sinapsi rilasciano L-glutammato.
+
+
+===== Cellule a canestro =====
+Le cellule a canestro possiedono un pirenoforo che si trova nella parte più profonda dello strato molecolare. Sono interneuroni inibitori che possiedono un'arborizzazione dendritica moderatamente ramificata su cui formano sinapsi alcune fibre parallele, essa è perpendicolare all'asse maggiore della lamella, una geometria che seguono anche i dendriti delle cellule del Purkinje. Le cellule a canestro ricevono sinapsi assosomatiche anche da rami ricorrenti degli assoni delle cellule del Purkinje, dalle fibre rampicanti e dalle fibre muscoidi. Gli assoni delle cellule a canestro sono caratterizzati da un rapporto inversamente proporzionale tra il loro diametro e la distanza dal pirenoforo; si trovano in profondità nello strato molecolare, alcuni loro rami decorrono perpendicolarmente e altri parallelamente all'asse della lamella in cui si trovano, ed attraversano le arborizzazioni di almeno una decina di cellule di Purkinkje raggiungendo una lunghezza di qualche millimetro. Sono state così chiamate perché i rami collaterali dei loro assoni si affiancano ai dendriti delle cellule del Purkinje per poi formare una rete di fibre a canestro attorno ai corpi e all'assone di queste cellule.
+
+
+===== Cellule stellate =====
+Le cellule stellate o cellule stellate esterne sono piccoli neuroni dalla forma stellata che si trovano nello strato molecolare della corteccia cerebellare. Possiedono un'arborizzazione dendritica scarsamente ramificata che si sviluppa in un piano perpendicolare all'asse delle lamelle, mentre i loro assoni decorrono parallelamente all'asse maggiore della lamella in cui si trovano. Gli assoni formano sinapsi con l'albero dendritico delle cellule del Purkinje. I dendriti delle cellule stellate ricevono terminazioni sinaptiche eccitatorie dalle fibre parallele delle cellule dei granuli.
+
+
+===== Cellule di Lugaro =====
+Sono neuroni a forma di sigaro situati allo stesso livello delle cellule di Purkinje. Questi neuroni glicinergici innervano le cellule stellate e le cellule a canestro e formano un lungo assone, orientato trasversalmente, che termina sulle cellule di Purkinje. Ricevono le afferenze principali da un sistema serotoninergico extracerebellare.
+
+
+===== Cellule unipolari a pennello =====
+Si tratta di cellule neuronali eccitatrici, presenti principalmente nelle regioni vestibolari del cervelletto, dove agiscono come una sorta di "booster" per le afferenze dalle fibre muscoidi. Le fibre muscoidi terminano con sinapsi molto grandi sulla base (il "pennello") di queste cellule. I loro assoni terminano come fibre muscoidi sui granuli.
+
+
+==== Fibre afferenti ====
+
+La corteccia cerebellare comprende due tipi di fibre afferenti eccitatorie, le fibre rampicanti e le fibre muscoidi, distinte secondo la modalità con cui terminano nella corteccia cerebellare.
+Oltre alle fibre muscoidi e rampicanti, la corteccia del cervelletto contiene un ricco plesso di fibre aminergiche provenienti da vari distretti del sistema nervoso centrale che rilasciano neurotrasmettitori come noradrenalina, serotonina e dopamina in modo paracrino piuttosto che tramite sinapsi, ciò significa che i loro effetti si esercitano su gruppi di cellule e non su una singola cellula. Le fibre serotoninergiche provengono dalla formazione reticolare bulbare, quelle noradrenergiche dal locus coeruleus e sono inibitrici per le cellule del Purkinje, infine quelle dopaminergiche provengono dal tegmento ventrale.
+
+
+===== Fibre rampicanti =====
+Le fibre rampicanti sono fibre mieliniche eccitatorie che originano dal nucleo olivare inferiore e raggiungono il cervelletto tramite il fascio olivocerebellare. Il rapporto fra cellule di Purkinje e i neuroni del nucleo olivare inferiore è di circa 10:1 e quindi ogni fibra olivocerebellare dà luce a circa 10 fibre rampicanti. Le fibre risalgono attraverso la sostanza bianca dove gettano numerosi collaterali per i nuclei intrinseci. Arrivate nella corteccia distribuiscono collaterali per le cellule dei canestri e stellate per terminare poi nello strato molecolare dove si avvolgono intorno ai dendriti delle cellule del Purkinje contraendo con essi un gran numero di sinapsi (anche qualche migliaio).
+
+
+===== Fibre muscoidi =====
+Le fibre muscoidi sono fibre mieliniche che originano dai fasci spinocerebellari, trigeminocerebellari, reticolocerebellari e pontocerebellari. Nella sostanza bianca emettono numerosi rami collaterali per i nuclei intrinseci e una volta giunte nello strato dei granuli perdono la guaina mielinica per terminare espandendosi in rosette o grappoli. Queste terminazioni varicose, insieme ai dendriti dei granuli e agli assoni delle cellule del Golgi, entrano a far parte dei glomeruli cerebellari nei quali le rosette occupano una posizione centrale. Le fibre muscoidi non raggiungono lo strato molecolare, ma si fermano a quello dei granuli, deputando agli assoni dei granuli la trasmissione del segnale fino allo strato più esterno. Con i dendriti dei granuli formano sinapsi glutammatergiche e i recettori postsinaptici sono prevalentemente NMDA.
+
+
+=== Sostanza bianca ===
+La sostanza bianca cerebellare, posta profonda alla corteccia, è composta dal corpo midollare e dall'arbor vitae, cioè i tralci di sostanza bianca che partono dal corpo midollare per seguire in profondità le lamine e lamelle rivestite poi dalla corteccia.
+
+
+==== Corpo midollare ====
+Il corpo midollare è una massa compatta di sostanza bianca che contiene fibre afferenti per la corteccia, fibre efferenti dalla corteccia (destinate ai nuclei profondi e ai nuclei del tronco encefalico) e fibre di associazione.
+Il corpo è suddiviso in due lamine che si separano ad angolo acuto delimitando il recesso superiore del IV ventricolo:
+
+lamina superiore: prosegue nel velo midollare superiore, una formazione di sostanza bianca che forma il tetto della parte pontina del IV ventricolo;
+lamina inferiore: continua nel velo midollare inferiore che contiene tessuto nervoso atrofico e risulta costituito da un'ependima raddoppiato dalla membrana tectoria, costituisce il tetto della parte bulbare del IV ventricolo.
+Il tronco encefalico è connesso al corpo midollare tramite i tre peduncoli cerebellari. La disposizione ordinata delle fibre nei peduncoli si perde all'interno del corpo stesso, per riformarsi poi a livello delle lamine e delle lamelle.
+
+
+=== Nuclei intrinseci ===
+
+I nuclei intrinseci del cervelletto sono situati nella parte profonda del corpo midollare. Rivestono notevole importanza nelle connessioni cerebellari.
+Sono quattro paia e, in ordine mediolaterale, sono: nucleo del tetto, nucleo globoso, nucleo emboliforme e nucleo dentato.
+Ai nuclei afferiscono sia gli assoni delle cellule di Purkinje sia i collaterali rilasciati dalle fibre rampicanti e muscoidi prima di impegnarsi nella corteccia. Le cellule di Purkinje rilasciano nei nuclei degli impulsi sempre a significato inibitorio con la generazione di una scarica tonica, mentre i collaterali delle altre fibre svolgono una funzione eccitatoria attraverso un'attività elettrica irregolare (burst).
+
+
+==== Nucleo del tetto (o del fastigio) ====
+Il nucleo del tetto si trova nella sostanza bianca al di sopra del IV ventricolo ed è separato dallo strato ependimale da un fascio di fibre mieliniche. Dista solo 12mm dal nucleo controlaterale e di fatto è il nucleo più mediale. Presenta una forma ovoidale e le cellule multipolari sono più grandi nei due terzi craniali rispetto alla parte più inferiore. Appartiene funzionalmente al vestibolocerebello.
+
+
+==== Nucleo globoso ====
+Il nucleo globoso comprende 2-3 gruppi di cellule multipolari simili al nucleo del tetto. È di dimensioni inferiori rispetto al precedente. Si trova in prossimità dell'ilo del nucleo dentato dal quale è difficilmente individuabile. Insieme al nucleo emboliforme forma quello che viene a volte definito il nucleo interposito. Appartiene funzionalmente allo spinocerebello.
+
+
+==== Nucleo emboliforme ====
+Il nucleo emboliforme è situato lateralmente è un po' più caudalmente al nucleo globoso e presenta 2-3 gruppi di cellule di varie dimensioni. Si trova in prossimità dell'ilo del nucleo dentato dal quale è difficilmente individuabile. Insieme al nucleo globoso forma quello che viene a volte definito il nucleo interposito. Appartiene funzionalmente allo spinocerebello.
+
+
+==== Nucleo dentato ====
+Il nucleo dentato è il più voluminoso ed è disposto vicino al verme tra il paraflocculo e il peduncolo cerebellare inferiore. È chiamato anche oliva cerebellare per la particolare disposizione simile al nucleo olivare inferiore: ha la forma di una lamina grigia pieghettata con l'apertura volta in direzione dorsale e mediale. Presenta cellule multipolari di varie dimensioni dove, le più grandi e filogeneticamente più antiche prendono una posizione dorsomediale, mentre le più piccole e recenti una ventrolaterale. Appartiene funzionalmente al pontocerebello.
+
+
+== Suddivisione e classificazione dei territori ==
+In base all'origine filogenetico o alla funzione, è possibile suddividere il cervelletto in diversi territori che possono comprendere o meno i diversi lobi e lobuli.
+Le connessioni del cervelletto e quindi le suddivisioni funzionali sono strettamente collegate alla filogenesi. Nell'evoluzione, compare prima il lobo flocculonodulare che si sviluppa insieme ai nuclei vestibolari spiegando i collegamenti fra archicerebellum e cerebello vestibolare e il motivo per cui le fibre, anziché passare per i nuclei intrinseci nel corpo midollare, si portano direttamente al bulbo.
+
+
+=== Suddivisione filogenetica ===
+In base all'origine filogenetica è possibile suddividere il cervelletto in tre porzioni, dalla più antica alla più recente:
+
+archicerebellum: comprende il nodulo e i flocculi e corrisponde quindi al lobo flocculonodulare, delimitato dalla Scissura Postero-laterale;
+paleocerebellum: compare nella filogenesi insieme alla stazione eretta e comprende le formazioni situate anteriormente alla Scissura Primaria, che nel complesso corrispondono al lobo anteriore, con l'aggiunta della piramide, dell'uvula (o ugola) e delle tonsille ad essa correlate;
+neocerebellum: si è sviluppato in collegamento con la corteccia telencefalica. Il neocerebellum è il territorio più esteso, comprendendo gli emisferi cerebellari.
+
+
+=== Suddivisione funzionale ===
+La suddivisione funzionale del cervelletto è stata fatta prendendo in considerazione i territori di afferenza e di efferenza definendo quindi: un vestibolocerebello, uno spinocerebello e un pontocerebello.
+
+
+==== Vestibolocerebello (archicerebello) ====
+Il vestibolocerebello o cerebello vestibolare: corrisponde al lobo flocculonodulare ed è quindi completamente sovrapponibile all'archicerebellum. È connesso ai nuclei vestibolari del bulbo e riceve afferenze vestibolari dirette dai canali semicircolari, dagli organi otolitici, dalle paraolive, dalla formazione reticolare e dai nuclei basilari del ponte. Le principali efferenze sono dirette, quindi, ai nuclei vestibolari e costituiscono la prima tappa della via cerebellovestibolospinale. Per queste connessioni il vestibolocerebello è coinvolto nel mantenimento e ripristino dell'equilibrio per la stazione eretta, la deambulazione e di coordinazione del movimento di testa e occhi.
+
+
+==== Spinocerebello (paleocerebello) ====
+Lo spinocerebello o cerebello spinale: è posizionato nella parte centrale dei lobi anteriore e posteriore, trovandosi quindi in tutto il verme esclusa la sua zona centrale. Le afferenze sono costituite da tratti della via spinocerebellare, prima di arrivare nel cervelletto passano attraverso il midollo spinale, il tronco encefalico e il nucleo spinale del trigemino. Trasportano informazioni esterocettive e propriocettive che formano due distinte rappresentazioni della periferia nel lobo anteriore e posteriore. Le efferenze sono dirette alla formazione reticolare e ai nuclei vestibolari laterale e inferiore attraverso il nucleo del tetto, mentre attraverso i nuclei emboliformi e globoso raggiungono il nucleo rosso controlaterale e poi il nucleo centrale ventrale del talamo. Da qui poi i fasci raggiungeranno i motoneuroni del midollo spinale e la corteccia motoria. Lo spinocerebello è quindi connesso a due distinte vie: cerebellovestibolospinale e cerebellorubro(reticolo)spinale con le quali agisce sia sui muscoli estensori che flessori.
+
+
+==== Pontocerebello (neocerebello) ====
+Il pontocerebello o cerebrocerebello o cerebello cerebrale: è rappresentato dagli emisferi cerebellari e dalla parte centrale del verme. Le fibre afferenti, tramite i nuclei basilari del ponte, arrivano dalla corteccia sensitiva e motoria, dal nucleo olivare superiore, dal midollo spinale e dalla lamina tecti. Le fibre efferenti, attraverso il nucleo dentato, sono dirette verso il nucleo rosso controlaterale da cui poi si dirigono al talamo e alla corteccia motoria e premotoria.
+
+
+== Derivazione embriologica ==
+
+Il cervelletto si sviluppa dal labbro rombico, un ispessimento della parte dorsale delle lamine alari del metencefalo, che forma il margine craniale del IV ventricolo. Due emisferi rudimentali si formano come rigonfiamenti rotondeggianti proiettati nel ventricolo stesso separati da una parte del tetto metencefalico che andrà a formare il verme. Successivamente si assiste all'estroversione del cervelletto: una riduzione della porzione intraventricolare accompagnata dall'aumento della prominenza extraventricolare. Tale sviluppo è dovuto alla migrazione verso l'esterno delle cellule presenti nel labbro rombico per formare uno strato sotto la glia limitante sopra la superficie del cervelletto in evoluzione, lo "strato germinativo esterno".
+Si forma poi la prima fessura, che corrisponde alla parte più laterale della fessura posterolaterale. Alla fine del terzo mese compare un solco trasversale sulla superficie superiore del cervelletto primitivo formando la prima fessura che divide il verme ed entrambi gli emisferi.
+Avviene quindi l'espansione degli emisferi che, accrescendosi in misura maggiore al verme, lo vanno a ricoprire segregandolo nel solco profondo della vallecola. Nascono poi numerosi solchi trasversi.
+Alcuni neuroblasti della zona intermedia delle lamine alari migrano nella zona marginale e si differenziano nei neuroni della corteccia cerebellare. Altri neuroblasti, invece, danno origine ai nuclei intrinseci.
+
+
+== Trasmissione degli impulsi ==
+Le fibre afferenti parallele e rampicanti veicolano sempre un segnale di tipo eccitatorio, mentre le cellule stellate e dei canestri contraggono sinapsi inibitorie. Le fibre muscoidi che terminano nella corteccia formano i glomeruli cerebellari dove l'impulso che trasmettono alle cellule dei granuli viene modulato dalle sinapsi inibitorie degli assoni delle cellule del Golgi. Le fibre efferenti della corteccia, costituite dagli assoni delle cellule di Purkinje, sono sempre inibitorie.
+
+
+=== Afferenze ===
+Le fibre afferenti al cervelletto, qualsiasi sia la loro origine e la via a cui appartengono, sono solo di due tipi: muscoidi e rampicanti. Le fibre entrano nel cervelletto attraverso i peduncoli cerebellari e, passando nella sostanza bianca, gettano collaterali nei nuclei intrinseci per terminare poi nella corteccia in modo del tutto diverso.
+Le fibre muscoidi si fermano nello strato dei granuli e terminano formando i glomeruli cerebellari, dove contraggono sinapsi di tipo eccitatorio con le cellule dei granuli. In tale sede terminano anche gli assoni delle cellule del Golgi. Da qui, l'impulso segue gli assoni delle cellule dei granuli che ascende in modo rettilineo nello strato molecolare finché, una volta raggiunto, non si biforcano a T dando vita alle fibre parallele che decorrono parallelamente all'asse maggiore delle lamelle (perpendicolarmente agli alberi dendritici delle cellule di Purkinje) e contraggono sinapsi eccitatorie con tutti i dendriti che incontrano (sia sulle cellule di Purkinje, che in quelle a canestro o stellate).
+Le fibre rampicanti, invece, si dirigono direttamente nello strato molecolare della corteccia e stabiliscono sinapsi eccitatorie con i dendriti delle cellule di Purkinje.
+
+
+=== Circuiti della corteccia ===
+
+Le cellule di Golgi, presenti nello strato granulare, ricevono anch'esse sinapsi eccitatorie dalle fibre muscoidi e parallele che traducono poi in un segnale inibitorio per i granuli.
+Le cellule stellate e dei canestri, presenti nello strato molecolare, presentano una s parallela a quella delle cellule di Purkinje. L'assone delle cellule dei canestri, in particolare, si dirige lungo un piano perpendicolare all'asse della lamella portandosi a due cellule di Purkinje laterali a quella su cui si ramifica. Le fibre parallele che arrivano sulle cellule dei canestri, portano un segnale di tipo eccitatorio che si ripercuote in un segnale inibitorio verso cellule di Purkinje poste in file più caudali e craniali, producendo un'inibizione laterale che aumenta il contrasto tra le file di tali cellule.
+
+
+=== Efferenze ===
+Gli impulsi corticifughi sono di tipo inibitorio e sono tutti dati dall'integrazione o dalla somma degli impulsi scaricati sulle cellule di Purkinje. Gli assoni delle cellule di Purkinje, lasciano la sostanza grigia per terminare nei nuclei intrinseci della sostanza bianca dove svolgono un'ulteriore attività inibitoria che contrasta l'azione eccitatoria dei collaterali delle fibre muscoidi e rampicanti. Un ulteriore controllo sull'impulso avviene anche sulle e dalle cellule di Purkinje stesse: il ramo collaterale ricorrente, che si stacca dal loro assone poco dopo la sua nascita, si dirige verso i denditri con lo scopo di ridurre l'attività efferente con la sua funzione inibitoria sulla cellula stessa.
+Infine, le fibre efferenti del cervelletto nascono dai nuclei intrinseci dove avvengono le modulazioni inibitorie finali dopo il passaggio dell'impulso nella corteccia.
+
+
+=== Glomerulo cerebellare ===
+Le fibre muscoidi, terminando espandendosi in rosette sui dendriti delle cellule dei granuli, formano i glomeruli cerebellari. Tali glomeruli sono costituiti dall'espansione terminale di una fibra muscoide, 4-5 dendriti delle cellule dei granuli e dall'assone di cellule del Golgi. Nei glomeruli avviene la modulazione della trasmissione degli impulsi trasportati dalle fibre muscoidi ai granuli che poi passano alle cellule di Purkinje. L'impulso di tipo eccitatorio viene, infatti, controllato in senso inibitorio dall'assone della cellule del Golgi che, funzionando come una griglia, seleziona l'entità delle afferenze che devono raggiungere la corteccia.
+
+
+== Connessioni afferenti ==
+Le afferenze al cervelletto sono rappresentate dalle fibre muscoidi che terminano ed attivano le cellule dei granuli, le cellule del Golgi e i nuclei cerebellari e dalle fibre rampicanti provenienti dall'oliva inferiore che invece formano sinapsi con i nuclei cerebellari, con le cellule a canestro, con le cellule del Golgi e controlateralmente sulle cellule di Purkinje. Le fibre che si portano al cervelletto sono spinocerebellari, trigeminocerebellari, vestibolocerebellari, reticolocerebellari, pontocerebellari e olivocerebellari.
+
+
+=== Fibre spinocerebellari ===
+Le fibre spinocerebellari sono divise in posteriori, anteriori e rostrali. Sono tutte vie eccitatorie e prima di entrare nella corteccia, emettono collaterali per i nuclei del tetto, globoso ed emboliforme.
+
+
+==== Fascio spinocerebellare posteriore ====
+Il fascio spinocerebellare posteriore origina dalla colonna di Clarke, alla base del corno posteriore dei neuromeri toracici, risale omolateralmente, entra attraverso il peduncolo cerebellare inferiore e termina poi omolateralmente nel verme e nelle regioni adiacenti del lobo anteriore e nella piramide e nelle regioni adiacenti del lobo posteriore. Viste le afferenze della colonna di Clarke questo fascio trasporta le informazioni propriocettive ed esterocettive provenienti dagli arti inferiori omolaterali. Una caratteristica di questo fascio è quella di avere gli assoni con il diametro maggiore di tutto il sistema nervoso centrale che, con i suoi 20 µm, permette una maggiore velocità di conduzione.
+
+
+==== Fascio spinocerebellare anteriore ====
+Il fascio spinocerebellare anteriore origina a livello lombosacrale nella sostanza grigia intermedia del midollo spinale, decussa subito dopo l'origine e risale sino al mesencefalo per poi scendere ed entrare nel cervelletto attraverso il peduncolo cerebellare superiore. Nella sostanza bianca del cervelletto le fibre di questo fascio decussano una seconda volta, staccano terminazioni per i nuclei cerebellari e poi si portano alla corteccia cerebellare. Grazie ai due incroci, la distribuzione delle fibre ai nuclei e alla corteccia ricalca quella delle fibre del fascio posteriore. Le sue afferenze sono costituite da informazioni relative agli archi riflessi degli arti inferiori e della parte inferiore del tronco.
+
+
+==== Fascio spinocerebellare rostrale ====
+Il fascio spinocerebellare rostrale origina dalla zona intermedia dei corni posteriori della sostanza grigia cervicale nel midollo spinale, risale omolateralmente lungo il midollo e il tronco encefalico per poi entrare nel cervelletto attraverso il peduncolo cerebellare inferiore dove si distribuisce a parti della corteccia simili a quelle del fascio cuneocerebellare. Trasporta informazioni relative agli archi riflessi degli arti superiori e del tronco superiore.
+
+
+==== Fascio cuneocerebellare ====
+Il fascio cuneocerebellare origina dal nucleo cuneato e dal nucleo cuneato accessorio, segue il fascicolo cuneato risalendo omolateralmente per poi entrare nel cervelletto. Qui termina nella parte posteriore del lobo anteriore, con le fibre propriocettive che si distribuiscono all'apice delle lamelle e le esterocettive alla loro base. Le regioni in cui termina sono il lobulo centrale, il culmen, il lobulo semplice, l'ala del lobo centrale, il lobulo quadrangolare anteriore e posteriore, il tuber, la piramide, l'uvula, il lobulo semilunare inferiore e parte del lobulo biventre. Trasporta informazioni relative a muscoli, articolazioni e neuroni sensitivi cutanei dell'arto superiore.
+
+
+=== Fibre trigeminocerebellari ===
+Le fibre trigeminocerebellari originano dai nuclei del trigemino nel tronco encefalico e si portano omolateralmente al cervelletto presso il lobulo semplice e il lobulo gracile, ma anche all'oliva inferiore omolaterale, che poi a sua volta proietta alla corteccia del cervelletto. Trasportano informazioni propriocettive e interocettive della testa.
+
+
+=== Fibre olivocerebellari ===
+Le fibre rampicanti che entrano nel cervelletto originano solamente da nuclei appartenenti al complesso olivare inferiore: da qui nascono per terminare controlateralmente su zone (costituite da strisce longitudinali) di cellule di Purkinje nella corteccia cerebellare. I collaterali delle fibre rampicanti si staccano per i nuclei cerebellari o vestibolari che contraggono sinapsi con le cellule di Purkinje raggiunte dalle rampicanti stesse. In tal modo le fibre olivocerebellari possono controllare i segnali in uscita dal cervelletto. In base alla suddivisione del complesso olivare inferiore si hanno due diverse origini per le fibre rampicanti:
+
+Nucleo olivare principale: da qui nascono le fibre olivari che si dirigono alla corteccia cerebellare emettendo collaterali per i nuclei vestibolare laterale e cerebellari.
+Nucleo olivare accessorio: proiettano al verme e agli emisferi adiacenti.
+
+
+=== Fibre vestibolocerebellari ===
+Le fibre vestibolocerebellari primarie originano dal nervo vestibolare, ramo del nervo vestibolococleare, attraversano il corpo iuxtarestiforme e il nucleo vestibolare superiore per poi distribuirsi omolateralmente allo strato dei granuli della parte inferiore dell'uvula, del nodulo, dalla parte ventrale del lobo anteriore e del fondo delle fessure profonde del verme nella corteccia cerebellare.
+Le fibre vestibolocerebellari secondarie originano dal nucleo vestibolare superiore, dal mediale e dall'inferiore, si portano bilateralmente nella corteccia cerebellare presso le stesse regioni delle fibre vestibolocerebellari primarie e in più anche al flocculo e all'adiacente paraflocculo ventrale (il paraflocculo accessorio del cervelletto umano), che non ricevono proiezioni vestibolocerebellari primarie.
+
+
+=== Fibre reticolocerebellari ===
+Le fibre reticolocerebellari originano dal nucleo reticolare laterale nel bulbo e dai nuclei reticolari paramediani e tegmentali del ponte.
+
+Nucleo reticolare laterale: proietta ad entrambi i lati del verme e degli emisferi. Le fibre provenienti dalla parte dorsale del nucleo si portano omolateralmente al corrispondente emisfero cerebellare, quelle della parte ventrale del nucleo si distribuiscono bilateralmente al verme; alcuni rami si portano al nucleo del fastigio, al nucleo emboliforme e ad una parte del nucleo globoso.
+Nucleo reticolare paramediano: proietta diffusamente a tutto il cervelletto.
+Nucleo reticolare tegmentale: proietta al cervelletto tramite il peduncolo cerebellare medio e le sue fibre terminano nel lobo anteriore, lobulo semplice, folium vermis, tuber, al nodulo e al flocculo; rami proiettano al nucleo del fastigio, al nucleo globoso e al nucleo dentato.
+
+
+=== Fibre pontocerebellari ===
+Le fibre pontocerebellari originano dai nuclei pontini ed entrano nel cervelletto attraverso il peduncolo cerebellare medio di cui costituiscono quasi tutte le afferenze.
+
+Nuclei pontini dorsali: ricevono afferenze dalle aree visive della corteccia e trasportano informazioni sul controllo del movimento proiettandole al lobulo semplice, lobulo quadrangolare anteriore, folium vermis e tuber.
+Nuclei reticolari pontini: proiettano a tutte le aree del cervelletto fatta eccezione per il nodulo e la lingula, alcuni collaterali giungono al nucleo dentato.
+
+
+== Connessioni efferenti ==
+È possibile dividere le connessioni efferenti del cervelletto nelle proiezioni inibitorie della corteccia (e nella fattispecie delle cellule di Purkinje) dirette ai nuclei cerebellari e vestibolari e nelle proiezioni efferenti dirette dai nuclei cerebellari ai centri motori di tronco encefalico e corteccia cerebrale motoria.
+Le principali efferenze del cervelletto sono le fibre corticonucleari, corticovestibolari, cerebellovestibolari, cerebelloreticolari, cerebellorubre e cerebellotalamiche.
+
+
+=== Efferenze dalla corteccia ===
+Il verme cerebellare proietta principalmente ai nuclei vestibolari e al nucleo del fastigio, mentre gli emisferi cerebellari proiettano al nucleo dentato, al nucleo emboliforme, ai nuclei globosi e a varie parti della formazione reticolare.
+
+
+==== Zone della corteccia ====
+
+La corteccia cerebellare è suddivisia in zone in base alla destinazione delle fibre che vi nascono. Questa suddivisione consiste in strisce ("zone") di cellule di Purkinje non individuabili nelle sezioni istologiche convenzionali.
+Il verme del lobo anteriore e il lobulo semplice sono divisi in:
+
+zona A: la striscia più mediale del verme; proietta al polo craniale del nucleo del tetto e riceve le fibre rampicanti dalla regione caudale del nucleo olivare accessorio mediale;
+zona X: proietta ai gruppi di cellule interstiziali, che si trovano tra il nucleo del fastigio e il nucleo interposito posteriore, e riceve le fibre rampicanti dalla regione intermedia del nucleo olivare accessorio mediale;
+zona B: la striscia laterale del verme; proietta al nucleo vestibolare laterale e riceve fibre rampicanti dalla parte caudale del nucleo olivare accessorio dorsale.
+Proseguendo verso gli emisferi, nella regione intermedia, sono presenti le zone C1, C3, Y. Queste zone proiettano al nucleo interposito anteriore e ricevono fibre rampicanti dalla regione craniale del nucleo olivare accessorio dorsale.
+Il resto degli emisferi è costituito da:
+
+zona C2: proietta al nucleo interposito posteriore e riceve le fibre afferenti rampicanti dalla regione craniale del nucleo olivare accessorio mediale;
+zona D (D1 e D2): proietta al nucleo dentato caudale e rostrale e riceve le fibre rampicanti dalle lamine ventrali e dorsali del nucleo olivare principale.
+Le principali connessioni delle zone C2 e D sono con la corteccia cerebrale. Esse sono infatti connesse ad aree corticali motorie, premotorie e parietali con suddivisione somatotopica.
+Le altre parti del cervelletto presentano una suddivisione zonale di minore importanza o ancora poco chiara, rimanendo luogo di numerose efferenze.
+Il flocculo, invece, non presenta zone e le sue proiezioni sono dirette ai nuclei vestibolari superiore, mediale ed inferiore.
+
+
+==== Fibre corticonucleari ====
+Le fibre corticonucleari originano dalle cellule di Purkinje del verme del lobulo anteriore del cervelletto, in un'area detta zona A, che comprende la porzione mediale del verme e di cui fanno parte tutte le divisioni del verme tranne il nodulo. Queste fibre proiettano al polo craniale del nucleo del fastigio. Il folium vermis e il tuber, due regioni del verme che ricevono afferenze visive, proiettano anch'essi al nucleo del fastigio, ma al suo polo caudale e sono coinvolti nei movimenti saccadici dell'occhio. Le zone C1 e C3, laterali alla zona B e comprendenti cellule di Purkinje degli emisferi cerebellari proiettano entrambe ai nuclei emboliformi, mentre la zona C2, tra essi compresa, proietta al nucleo globoso. La parte restante degli emisferi, la più laterale, proietta al nucleo dentato. Le fibre corticonucleari sono in parte efferenze del paleocervelletto (quelle che originano dalle zone B, C1, C2 e C3) e in parte del neocervelletto (tutto quanto proietta al nucleo dentato).
+
+
+==== Fibre corticovestibolari ====
+Le fibre corticovestibolari originano dalle cellule di Purkinje del verme del lobulo anteriore del cervelletto, precisamente da una stretta striscia longitudinale (dunque perpendicolare alle lamelle) appena laterale alla zona A, detta zona B che comprende lobulo centrale, culmen e soprattutto il lobulo semplice. I loro assoni proiettano al nucleo vestibolare laterale omolaterale, nel ponte. La piramide, l'uvula, il nodulo e il flocculo proiettano direttamente ai nuclei vestibolari superiore, mediale ed inferiore. In generale le fibre corticovestibolari sono efferenze dell'archicervelletto.
+
+
+=== Efferenze dai nuclei ===
+Le efferenze dei nuclei intrinseci sono dirette ai centri motori del tronco encefalico e, attraverso il talamo, alla corteccia motoria.
+
+
+==== Fibre cerebellovestibolari ====
+Le fibre cerebellovestibolari comprendono le connessioni dei nuclei cerebellari con i nuclei vestibolari. Il nucleo del fastigio è collegato reciprocamente con i nuclei vestibolari, la sua efferenza più importante in questo senso è il fascicolo uncinato che decussa all'interno della sostanza bianca cerebellare, passa posteriormente al peduncolo cerebellare superiore e raggiunge i nuclei vestibolari lateralmente. Dal nucleo del fastigio origina tuttavia anche un contingente di fibre non crociate che raggiunge i nuclei vestibolari (inferiore e mediale) attraverso i peduncoli cerebellari inferiori. Dal nucleo vestibolare laterale origina poi il fascio vestibolospinale laterale, mentre dal nucleo vestibolare mediale il fascio vestibolare mediale. Alcune fibre del nucleo del fastigio non sinaptano nei nuclei vestibolari e procedono inferiormente nel midollo spinale costituendo il fascio fastigiospinale. I nuclei vestibolare mediale ed inferiore proiettano fibre al talamo mediante il fascicolo longitudinale mediale, tali fibre sono implicate nel riflesso vestibolo-oculare.
+
+
+==== Fibre cerebello-reticolari ====
+Le fibre cerebello-reticolari comprendono le connessioni dei nuclei cerebellari con la formazione reticolare. Alcune fibre cerebello-vestibolari originatesi dal polo craniale nucleo del fastigio attraversano i nuclei vestibolari per poi distribuirsi alla formazione reticolare mediale e sui grandi neuroni del nucleo reticolare mediale. La formazione reticolare a sua volta è connessa al midollo spinale mediante il fascio reticolo-spinale mediale e il fascio reticolo-spinale laterale. Il polo caudale del nucleo del fastigio origina fibre che decussano e poi si portano alla formazione reticolare mediana del ponte, esse controllano i movimenti orizzontali dello sguardo.
+
+
+==== Fibre cerebello-rubre ====
+Le fibre cerebello-rubre comprendono le connessioni dei nuclei cerebellari con il nucleo rosso del mesencefalo. Il nucleo emboliforme proietta alla porzione magnocellulare nucleo rosso e questo a sua volta dà origine al fascio rubrospinale che tuttavia nell'uomo è poco sviluppato rispetto ad altri animali. Il nucleo dentato proietta alla porzione parvicellulare del nucleo rosso che a sua volta dà origine al fascio tegmentale centrale che si collega con il nucleo olivare principale.
+
+
+==== Fibre cerebello-talamiche ====
+Le fibre cerebello-talamiche comprendono le connessioni dei nuclei cerebellari con il talamo. Il nucleo globoso proietta al nucleo ventrale laterale del talamo che a sua volta è connesso con la corteccia motoria, in particolare alle porzioni da cui originano fibre volte al controllo dei muscoli assiali degli arti. Il nucleo dentato proietta al nucleo ventrale laterale del talamo mediante il fascio dentato-talamico, il nucleo è a sua volta connesso con la corteccia premotoria. Infine anche alcune fibre del nucleo del fastigio giungono al talamo, alcune attraversando prima i nuclei vestibolari del ponte altre, soprattutto originatesi dalla sua porzione caudale, in maniera diretta.
+
+
+== Anatomia funzionale ==
+Le informazioni che arrivano dalla periferia portano i dettagli dei movimenti nel corso della loro esecuzione permettendo al cervelletto di controllare il tono muscolare durante i movimenti stessi e quindi di adattare subito lo stato di contrazione muscolare alle variazioni di carico o delle richieste fisiologiche per quanto concerne l'ampiezza, l'efficacia, la traiettoria e la durata del movimento. Nel fare questo permette, quindi, di ridurre al minimo le contrazioni non coordinate dei muscoli antagonisti che causano piccole oscillazioni durante il movimento, il cosiddetto "tremore fisiologico" (in questo è implicata la porzione posterolaterale del cervelletto).
+Sia i segnali periferici che centrali vengono confrontati in ogni istante e usati per produrre una risposta efficiente per modulare, ed eventualmente correggere, il segnale sia nel tragitto discendente che ascendente. Qualora sussistano delle differenze tra il movimento programmato e quello effettivamente realizzato, il cervelletto è in grado di correggere, con un meccanismo di feedback negativo, il movimento durante il suo realizzarsi.
+Il modulo di funzionamento del cervelletto si ripete invariato nonostante le diverse connessioni e funzioni attribuite. La corteccia è costituita ovunque dagli stessi strati che sono raggiunti dalla stesse fibre afferenti e da cui dipartono l'unico tipo di fibre efferenti dirette ai nuclei intrinseci del cervelletto.
+Un danno cerebellare, infine, non impedisce l'utilizzo di una determinata funzione, ma ne riduce l'efficienza.
+
+
+=== Apprendimento motorio ===
+Queste capacità del cervelletto si applicano sia durante i processi cognitivi (che coinvolgono le aree corticali limbiche e paralimbiche) sia durante la ripetizione di movimenti complessi (apprendimento motorio). La ripetizione nel tempo di determinati schemi motori, modifica i circuiti cerebellari (effetto plastico) accrescendo l'efficienza di controllo nell'atto motorio e quindi anche l'efficacia con cui viene effettuato. Si parla soprattutto di azione che richiedono schemi elevati di coordinazione (suonare il pianoforte) e in cui l'esecuzione dei singoli atti che compongono il movimento sia indipendente dall'intervento cosciente della corteccia cerebrale.
+Nel cervelletto si crea quindi un ben preciso schema motorio che viene trasmesso al complesso olivare inferiore tramite proiezioni collaterali del fascio corticospinale. Anche alcune informazioni cerebellari uscenti attraverso il peduncolo cerebellare superiore che raggiungono il nucleo rosso vengono poi ritrasmesse all'oliva inferiore per il confronto con lo schema motorio originale.
+
+
+==== Correzione del movimento ====
+In ogni caso sembra che proprio per questo motivo, il sistema delle fibre rampicanti olivo-cerebellari sia implicato nella correzione degli errori motori durante la replicazione di uno schema già preimpostato e memorizzato. Le fibre rampicanti, infatti, aumentano la loro scarica di potenziali complessi generando un aumento di Ca2+ intracellulare molto evidente. Questo, sommatosi all'aumento relativo alla stimolazione delle stesse cellule da parte delle fibre parallele, induce in queste ultime un processo di depressione sinaptica a lungo termine (long term depression) causato fondamentalmente da un'endocitosi dei recettori AMPA per il glutammato con conseguente diminuzione di scarica delle cellule del Purkinje sui nuclei. Così il movimento tenderà ad essere corretto tramite le vie di controllo del cervelletto sulla corteccia e sulle vie motorie discendenti.
+
+
+=== Mantenimento della stazione eretta ===
+A questo riguardo svolge un ruolo essenziale il verme del cervelletto essendo implicato in quella serie di movimenti muscolari inconsci che permettono di mantenere la stazione eretta mentre si compie un'azione e nell'insieme noti come "anticipazione motoria". Nel momento in cui si prende un libro da uno scaffale, per esempio, vengono attivati per prima i muscoli flessori plantari della caviglia e non i flessori della spalla, del gomito o delle dita. Questo permette che la parte anteriore del piede spinga indietro gli arti inferiori e il tronco nel momento in cui si afferra il libro permettendo di mantenere la stabilità. Nel momento in cui solleviamo il libro, poi, i muscoli erettori della colonna vertebrale correggono il peso del libro e del braccio impedendo lo sbilanciamento in avanti di testa e tronco. Nello stesso tempo recettori labirintici informano il cervelletto di ogni variazione dell'equilibrio permettendogli di effettuare una risposta coerente con le intenzioni e i movimenti effettuati.
+
+
+=== Tempistica e cooperazione ===
+Un esempio dell'importanza della tempistica con cui devono avvenire i movimenti motori e la coordinazione fra i muscoli si ha nella lettura. Per leggere una pagina di un libro è necessario che ad ogni riga gli occhi che scorrono le lettere nelle righe scattino indietro per iniziare la riga successiva. Errori in questa azione può causare la dislessia.
+
+
+== Patologie ==
+
+
+=== Lesioni ===
+
+Le lesioni al cervelletto sono tutte accomunate da una perdita della coordinazione del movimento o atassia. Lesioni cerebellari specifiche, naturalmente, portano a particolari tipi di atassia che risulta sempre nello stesso lato della lesione.
+Lesioni della linea mediana del verme o del lobulo flocculonodulare portano ad un'atassia del tronco, con caratteristica andatura barcollante tipica dell'ubriaco. Questa scoordinazione si accompagna in genere a movimenti anomali degli occhi (nistagmo).
+Lesioni laterali al verme causano un'atassia appendicolare, un'incoordinazione degli arti che si traduce nell'incapacità di svolgere movimenti appropriati alla distanza da raggiungere (dismetria) e a tremori intenzionali cioè alterazioni della contrazione muscolare durante l'atto motorio.
+Lesioni al lobo anteriore portano ad un aumento abnorme del tono muscolare (ipertonia). Tale sintomo è anche indicativo di una lesione corticale con attività dei nuclei profondi intatta: in questo caso si assiste ad un'ipertonia dei muscoli estensori che causa un'iperestensione di testa e collo (opistotono).
+Anche l'ipotonia, che consiste nella perdita del tono muscolare, è un'alterazione che può essere causata da lesioni al cervelletto. L'ipotonia riguarda tutti i muscoli quando si ha una perdita di funzione totale del cervelletto, oppure solo dei muscoli antigravitari se riguarda solo il nucleo del tetto.
+
+
+=== Sindrome dell'angolo pontocerebellare ===
+Tale sindrome è un quadro anatomoclinico che coinvolge gli elementi presenti nell'angolo cerebellare. Tale patologia è solitamente causata da un tumore che coinvolge la guaina del nervo vestibolococleare che causa disturbi all'udito, dell'equilibrio e alterazioni al nervo facciale. Se si espande, può portare alla compromissione del ponte, del cervelletto e di altri nervi encefalici. Altre cause della sindrome possono essere una compressione dovuta ad emorragie o processi espansivi del tronco encefalico.
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Giuseppe Anastasi et al., Trattato di anatomia umana, volume III, Milano, Edi.Ermes, 2012, ISBN 978-88-7051-287-8.
+ Keith Moore e T. V. N. Persaud, Lo sviluppo prenatale dell'uomo, Napoli, EdiSES, 2009, ISBN 978-88-7959-348-9.
+ Susan Standring, Anatomia del Gray, volume I, Milano, Elsevier, 2009, ISBN 978-88-214-3132-6.
+
+
+== Voci correlate ==
+Atassia
+Bulbo (encefalo)
+Cervello
+Mesencefalo
+Midollo spinale
+Nucleo dentato
+Ponte di Varolio
+Ventricoli cerebrali
+Vie somatosensoriali
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «cervelletto»
+ Wikimedia Commons contiene immagini o altri file su cervelletto
+
+
+== Collegamenti esterni ==
+
+ cervelletto, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+(EN) cerebellum, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

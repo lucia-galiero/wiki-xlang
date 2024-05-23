@@ -1,0 +1,25 @@
+El metasomatismo o metasomatosis es un proceso geológico que corresponde la sustracción o adición de componentes químicos a una roca mediante fluidos acuosos con el requisito de que la roca debe mantenerse en el estado sólido.[1]​[2]​ Se considera un tipo de metamorfismo.[1]​ Los dos tipos principales de metasomatismo son el infiltracional y el difusional.[2]​ El primero ocurre cuando el fluido se encuentra en movimiento penetrando la roca y el segundo cuando el fluido esta estancado.[2]​
+Paralelamente se pueden distinguir tipos de metasomatismo por su situación geológica:[2]​
+
+Autometasomatismo: ocurre en rocas ígneas a comienzo de la etapa postmagmatica tras su solidificación.
+Metasomatismo de borde: ocurre en zonas de contacto entre dos rocas sólidas
+Metasomatismo de contacto: ocurre en una roca sólida que está en contacto con un cuerpo ígneo y puede ocurrir en varios de los estados de evolución (enfriamiento y solidificación) de un cuerpo ígneo
+Bimetasomatismo: es un subtipo de metasomatismo de contacto en donde hay procesos de difusión y metasomatismo a ambos lados del contacto entre ambas rocas.
+Metasomatismo próximo a vetas: consiste de metasomatismo difusional simétrico a ambos lados de una veta o relleno de veta.
+
+
+== Proceso de reemplazamiento ==
+El metasomatismo es un proceso que se caracteriza principalmente por el reemplazo y la importancia que toman los fluidos. Este proceso se lleva a cabo siempre en estado sólido (la roca metasomatizada nunca llega a fundir) cuando un fluido muy penetrante llega hasta una roca. En ese momento se produce una disolución de la mineralogía de la roca a la vez que precipita en las oquedades creadas, nuevos minerales, por lo que se trata de un proceso simultáneo en el que el volumen mineralógico no varia y permanece constante. Además en muchos de los casos se preservan las estructuras y texturas de la anterior litología como estratificación, pliegues o laminaciones.
+La tasa de avance del metasomatismo en las rocas varía dependiendo de la superficie de reacción y la permeabilidad de dicha litología:
+
+Rocas con una superficie de reacción grande y poca permeabilidad. El frente del metasomatismo es masivo
+Rocas con una superficie de reacción pequeña y mucha permeabilidad. El frente metasomático se concentra en diversos núcleos de reacción
+En rocas con características intermedias. El frente de metasomatismo es una mezcla entre masivo y núcleos de reacción.
+
+
+== Véase también ==
+Metamorfismo hidrotermal
+Skarn
+
+
+== Referencias ==

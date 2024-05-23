@@ -1,0 +1,145 @@
+La rabia es una enfermedad zoonótica viral, de tipo aguda e infecciosa. Es causada  por un Rhabdoviridae que ataca el sistema nervioso central, causando una encefalitis con una letalidad cercana al 100 %. 
+El virus de la rabia pertenece a la familia Rhabdoviridae, género Lyssavirus tipo 1, tiene forma de bala o bastoncillo y mide entre 130 y 240 por entre 65 y 80 nm. Este virus consta de una sola cadena de ARN. Su envoltura está constituida por una capa de lípidos cuya superficie contiene cinco proteínas estructurales: la G (glico proteína) que alterna con proteínas M1 y M2 (proteínas matriz); en la nucleocápside se encuentran las proteínas N (nucleoproteína), NS (nucleocápside) y L (transcriptasa). La glicoproteína es el mayor componente antigénico, responsable de la formación de anticuerpos neutralizantes que son los que confieren inmunidad. No obstante, es posible que participen otros mecanismos en la protección contra la enfermedad.
+El virus de la rabia se encuentra difundido en todo el planeta y ataca a mamíferos, tanto domésticos como salvajes, incluyendo también al ser humano. Se encuentra en la saliva y en las secreciones de los animales infectados y se inocula al humano cuando animales infectados lo atacan y provocan en el humano alguna lesión por mordedura. Además, el virus puede ser transfundido también cuando un individuo que tiene algún corte en la piel (vía de entrada del virus) tiene contacto con las secreciones salivales de un animal infectado.
+Los dos tipos de manifestaciones clínicas de la rabia se dividen en furiosa y paralítica. La furiosa es común en mamíferos carnívoros reservorios de la enfermedad.[1]​ Se presenta agitación, hiperactividad, alucinaciones, confusión y otra serie de síntomas relacionados. La rabia paralítica es común en roedores y ganado bovino, pero el ganado equino, caprino, ovino y porcino también es vulnerable.[2]​
+
+
+== Vectores ==
+La rabia es una zoonosis causada por un virus de la familia Rhabdoviridae. Esta enfermedad afecta a todos los mamíferos ubicados en tres grandes nichos ecológicos: aéreo (murciélagos), terrestre (perros, gatos, mangostas, zorros, hurones, mapaches, lobos) y marino.
+Los indicios para saber si un murciélago presenta rabia son:
+
+Cuando vuelan suelen chocar unos con otros.
+Cuando salen de día.
+Cuando caen al suelo.
+En general los demás animales presentan una secreción salival abundante, que actúa como cultivo del virus, y, en etapas avanzadas, sangrado de orificios.
+
+
+== Transmisión ==
+
+La rabia se transmite a través de mordedura o contacto directo de mucosas o heridas con saliva del animal infectado. También se ha documentado su adquisición a través de trasplante corneal de donante muerto infectado por rabia y no diagnosticado, por aerosol en cuevas contaminadas con guano de murciélagos o en personal de laboratorio. Aunque no se ha documentado su transmisión por mordedura de humano a humano, el virus se ha aislado de la saliva de pacientes con rabia. Este virus también se ha identificado en sangre, leche y orina. No se ha documentado transmisión transplacentaria. En el 2009, se presentaron también datos de contagio por exposiciones atípicas por manejo de carne y vísceras de animales infectados en cocinas.[3]​
+El virus se excreta en el animal infectado desde cinco días de las manifestaciones clínicas, aunque en el modelo experimental este período puede extenderse hasta catorce días antes de la aparición de la enfermedad.
+El período de incubación varía desde cinco días a un año, con un promedio de veinte días. Existe alguna evidencia de replicación local del virus en las células musculares en el sitio de la herida. Sin embargo, es posible que el virus se disemine al sistema nervioso central sin previa replicación viral, a través de los axones, hasta el encéfalo, a una velocidad de 3 mm/h (en modelos animales), con replicación exclusivamente en el tejido neuronal.
+La rabia se manifiesta por un periodo prodrómico que dura de dos a diez días con signos y síntomas inespecíficos como cansancio, cefalea, fiebre, anorexia, náusea, vómito y parestesias en el sitio de la herida, seguidas de dificultad para la deglución, hidrofobia entre el 17 % y 50 % de los casos, desorientación, alucinaciones visuales u olfatorias, crisis convulsivas focales o generalizadas, periodos de excitabilidad y aerofobia. En el 20 % de los casos aproximadamente la rabia puede manifestarse como una parálisis flácida. Estas manifestaciones clínicas son seguidas por un período de coma y que tiene como desenlace el fallecimiento en la gran mayoría de los casos.
+Esta enfermedad, si no se trata con la máxima urgencia, acaba provocando la muerte del enfermo. No existe en la actualidad tratamiento específico para los pacientes con rabia. Esta enfermedad se considera generalmente fatal. Solo existen informes aislados de supervivencia con medidas de cuidados intensivos. Cuando una persona se contagia, los síntomas de la enfermedad pueden tardar entre 60 y 300 días en manifestarse.
+La transmisión solo es posible mediante el contacto directo con un vector portador o con material biológico procedente del mismo, ya que al tratarse de un virus con una envoltura lipídica es muy sensible a los factores ambientales (lábil).
+
+
+== Epidemiología ==
+La rabia es un padecimiento de distribución prácticamente universal (a excepción de Australia), que afecta tanto a animales domésticos como salvajes. En países menos industrializados, la exposición a animales domésticos (perro y gato) constituyen la mayor fuente de la rabia humana, a diferencia de países como Estados Unidos en donde los animales salvajes (incluyendo murciélagos) constituyen el reservorio de rabia más importante. El virus comienza a excretarse en el animal infectado a partir de cinco días antes de las manifestaciones clínicas.
+La Organización Mundial de la Salud (OMS) maneja datos que corroboran que en algunas regiones aún es un gran problema de salud pública como en algunos países de Asia y África, en los que causa más de 55 000 muertes al año, de las cuales la mayoría de las víctimas son personas menores de quince años de edad. Se estima que la rabia causa 31 000 muertes al año en Asia, lo que representa el 60 % de los fallecimientos por esta causa en el mundo.[4]​
+En los últimos años, el número de casos ha aumentado en China y en Vietnam debido al consumo habitual humano, sin las debidas condiciones higienicosanitarias, de perros y gatos. Según las últimas estadísticas del año 2007, en China, donde menos del 10 % de los perros están vacunados, 3380 personas murieron por rabia.[5]​
+
+
+== Patología ==
+En muchos casos los animales infectados tienen un comportamiento variable, son extremadamente violentos y atacan sin provocación aparente.
+La patología en la especie humana es la siguiente:
+
+Infección por herida o mordedura. Antiguamente también se transmitía por operaciones como el trasplante de córnea.
+El virus tiene una primera multiplicación en las células musculares, de ahí pasa a las neuronas y finalmente a los ganglios nerviosos.
+El lugar donde la enfermedad se manifiesta más acusadamente es el cerebro (encefalitis). Sin embargo, el tiempo que tarda en desarrollarse esta etapa es bastante largo y depende de muchos factores.
+Los virus comienzan a pasar de unas neuronas a otras a través de los contactos sinápticos, lo que hace que el sistema inmunológico sea incapaz de detectarlos.
+Desde el cerebro puede viajar, a través de los nervios, a cualquier parte del cuerpo, provocando una infección sistémica.
+
+
+=== Sintomatología ===
+
+Sintomáticamente, el enfermo pasa por cuatro fases:
+
+Fase de incubación: el periodo de incubación de la rabia es sumamente variable: desde los siete días hasta más de un año, con una media de uno a dos meses. Esta variabilidad depende de la cantidad de virus inoculados, de la cantidad de tejido afectado, de los mecanismos de defensa del huésped y de la distancia que el virus tiene que recorrer entre el sitio de inoculación y el sistema nervioso central.[6]​
+Fase prodrómica: dura entre dos y diez días. Aparecen síntomas inespecíficos: fiebre, cefalea, malestar general, mialgias, fatiga, anorexia, náuseas y vómitos, dolor faríngeo, tos sin expectoración, parestesias o fasciculaciones en el sitio de inoculación.[6]​
+Fase de encefalitis aguda: dura entre dos y siete días. Se caracteriza por una encefalitis aguda cuyos síntomas son indistinguibles de otras encefalitis virales. El paciente puede manifestar excitación y agitación, confusión mental, alucinaciones, agresividad, aberraciones grotescas del pensamiento, espasmos musculares, meningismo, opistótonos, convulsiones, parálisis locales, hiperestesia, fotofobia, fonofobia o también denominado como ligirofobia, fiebre alta, midriasis irregular, lagrimeo, sialorrea, diaforesis, hipotensión postural, debilidad muscular, hiperreflexia, reflejo de Babinski, parálisis de las cuerdas vocales.[6]​
+Fase de encefalitis rábica: dura entre uno y diez días. Se caracteriza por un trastorno funcional del tronco encefálico, que distingue a la rabia de otras encefalitis y explica el rápido deterioro evolutivo del paciente. La afectación de los pares craneales produce diplopía, parálisis facial, neuritis óptica y disfagia. La combinación de la disfagia con la sialorrea produce el cuadro clásico de «echar espumarajos por la boca». El 50 % de los casos presenta hidrofobia, la cual se caracteriza por una contracción violenta, involuntaria y dolorosa del diafragma y los músculos faríngeos, laríngeos y respiratorios auxiliares, desencadenada por la deglución de líquidos. La afectación del núcleo amigdalino genera priapismo y eyaculación espontánea. El paciente termina entrando en coma y la muerte ocurre por apnea, por afectación del centro respiratorio del encéfalo.[6]​
+A partir de la segunda fase, es mortal en el 99,9 % de los casos. La única opción de tratamiento es suministrar inmunoglobulinas e inyectar una vacuna contra el virus, lo que solo es eficaz durante la fase de incubación.
+Un diagnóstico seguro es post mortem. No obstante, se puede diagnosticar por microscopía gracias a la aparición de los llamados «cuerpos de Negri» en las células.
+
+
+=== Diagnóstico diferencial ===
+Encefalitis
+Epilepsia
+Malaria
+Mielitis transversa
+Poliomielitis
+Psicosis
+Síndrome de Guillain-Barré
+Tétanos
+
+
+== Tratamiento ==
+Casi toda la exposición humana a la rabia fue fatal hasta que Louis Pasteur y Émile Roux desarrollaron una vacuna en 1885. Su vacuna original se recolectó de conejos infectados, de los cuales el virus en el tejido nervioso se debilitó al permitir que se secara durante cinco a diez días.[7]​ Todavía se utilizan vacunas similares derivadas de tejido nervioso en algunos países, ya que son mucho más baratas que las vacunas modernas de cultivo celular.
+La vacuna antirrábica de células diploides humanas se inició en 1967. Ahora están disponibles vacunas de células de embrión de pollo purificadas y vacunas de células vero purificadas menos costosas. Una vacuna recombinante llamada V-RG se ha utilizado en Bélgica, Francia, Alemania y los Estados Unidos para prevenir brotes de rabia en animales no domesticados.[8]​ La inmunización antes de la exposición se ha utilizado tanto en poblaciones humanas como no humanas, donde, como en muchas jurisdicciones, los animales domésticos deben vacunarse.
+En el tratamiento de pacientes infectados por el virus Rhabdoviridae consiste primero en un lavado exhaustivo con abundante agua y jabón y la atención hospitalaria oportuna. Debe suministrarse una dosis de inmunoglobulina antirrábica humana (HRIG) además de cuatro dosis de vacuna antirrábica administradas dos semanas después. Si se presenta una herida, la dosis completa de inmunoglobulina antirrábica humana debe aplicarse, si es posible, en la herida. La primera dosis de la vacuna se administra al mismo tiempo, y el resto de las inyecciones se administran en los días tres, siete y catorce después de la inyección inicial. Las personas que tienen sistemas inmunológicos debilitados pueden requerir una quinta dosis de la vacuna.
+Una persona que ha sido vacunada contra la rabia y ha sido expuesta al virus de la rabia debe recibir dos dosis de vacuna de refuerzo tres días después de haber estado expuesta. Estas personas no necesitan una inyección de inmunoglobulina antirrábica humana.
+Debe evitarse la sutura de la herida porque el virus Rhabdoviridae es anaeróbico y el cierre de la misma favorecería su multiplicación. La herida se cierra si afecta el funcionamiento del órgano comprometido, si es demasiado extensa (se sutura con catgut 2-0 haciendo puntos simples separados entre 1 y 2 cm) o si afecta zonas como cara, genitales o pliegues.
+En lo que tiene que ver con la aplicación del toxoide antitetánico, no está demostrada su eficacia.
+Si el paciente presenta algún tipo de síntoma neurológico debe inducirse un coma, a la espera de la respuesta del sistema inmunológico innato y la activación de la inmunidad adaptativa mediada por los linfocitos T1. Ha de precisarse que en cualquiera de los casos se puede presentar muerte por paro cardiorrespiratorio de origen central.
+
+
+=== Medidas de prevención posexposición ===
+La vacuna antirrábica para humanos es elaborada sobre la base de cerebro de ratón lactante,[9]​ la cual se aplica en dosis de 2 mL por vía subcutánea y periumbilical. En pacientes gestantes se aplica en región interescapular o deltoidea. El tratamiento es de diez dosis, en un esquema de siete dosis en serie, seguido de tres refuerzos: al décimo, vigésimo y sexagésimo día contados a partir de la última vacuna de la serie. 
+
+Aseo local de la herida con agua y jabón; posteriormente se puede emplear cloruro de benzalconio al 1 %, soluciones yodadas al 5 % o alcohol del 40 al 70 %.
+La sutura de la herida debe diferirse; en caso contrario, deberá infiltrarse la herida con gammaglobulina humana antirrábica o suero.
+La administración de antibióticos y toxoide tetánico debe valorarse en cada caso particular.
+Inmunoprofilaxia. Suero hiperinmune o gammaglobulina y vacuna antirrábica.
+El tratamiento posexposición contempla la aplicación de la vacuna antirrábica solamente (esquema reducido 10 dosis) o aplicación de vacuna antirrábica + suero antirrábico (esquema clásico 14 dosis más suero) y dicho esquema depende del tipo de exposición y de la condición del animal agresor.
+Actualmente se ha aprobado el esquema de 5 dosis los días 0,3,7,14 y 28 posexposición.
+
+
+== Precauciones en la aplicación de la inmunoglobulina ==
+No se debe exceder la dosis indicada por su posible interferencia con la producción de anticuerpos inducidos por vacuna.
+No debe aplicarse en el mismo sitio que la vacuna, ni reutilizar la jeringa.
+No se recomienda en individuos previamente inmunizados con vacuna de células diploides.
+Tanto el suero como la gammaglobulina proporcionan una protección inmediata, con duración de aproximadamente 21 días.
+
+
+== Tipos de vacuna ==
+Vacuna de cerebro de ratón lactante tipo Fuenzalida. Fue introducida en 1956. Se prepara a partir de cultivo de virus de la rabia inactivados con luz ultravioleta en cerebro de ratones recién nacidos. Es muy inmunogénica. Se recomienda una dosis diaria durante 14 días de 0.5 ml en niños menores de tres años y 1 ml para adultos, por vía subcutánea, en la región periumbilical o interescapulovertebral. En caso de heridas extensas se recomienda continuar la vacunación hasta por 21 días. Las reacciones secundarias generalmente son locales, como dolor, eritema e induración en el sitio de la aplicación, que se presentan hasta en el 20 % de los casos y generalmente al final de la inmunización.  Se calcula que 1 por cada 8000 receptores de vacuna, pueden presentar alguna complicación neurológica como encefalitis, mielitis transversa, neuropatía periférica y neuritis. Las complicaciones están en relación directa con el número de dosis de vacuna y la edad del paciente. En caso de presentarse cualquiera de estas reacciones adversas debe suspenderse este tipo de vacuna y continuar con la de células diploides con el esquema señalado en el cuadro 13.  Se pueden utilizar esteroides en el manejo de las reacciones severas, que pongan en peligro la vida del paciente.
+Vacuna de embrión de pato. Se obtiene a partir de cultivo de virus de la rabia en embriones de pato inactivados con beta-propionolactona; aunque produce menos reacciones adversas que la vacuna de cerebro de ratón es menos inmunogénica, por lo que se dejó de utilizar desde 1982.  Las complicaciones neurológicas asociadas a la vacuna se han correlacionado a la inadecuada inactivación del virus y en las vacunas iniciales a la presencia de tejido neuronal.
+Vacunas de células diploides humanas (VCDH). Son desarrolladas en células diploides humanas; existen dos tipos de éstas: la WI-38 inactivada en tri-n-butil-fosfato86 y la MRC-5 inactivada en propionolactona y desarrollada en fibroblastos humanos. Otras vacunas de virus inactivados, han sido desarrolladas en células diploides pulmonares de feto de mono Rhesus adsorbidas (VRA). A partir de 1976 estas vacunas han sido utilizadas en humanos para profilaxis de rabia pre y posexposición en todo el mundo.
+Vacunas de ARN mensajero. Se han realizado estudios en animales de laboratorio con una vacuna antirrabica basada en la tecnología de ARN mensajero con buenos resultados. Posteriormente se han iniciado estudios clínicos en humanos en los que se ha comprobado que este tipo de vacuna induce la creación de anticuerpos contra el virus de la rabia en humanos. La investigación para obtener una vacuna basada en esta tecnología se encuentra en desarrollo.[10]​
+
+
+== Supervivientes ==
+Se ha reportado en el mundo siete casos de supervivencia a la rabia. El primero, el de la paciente Jeanna Giese, ocurrió después de que se indujera a la paciente a un estado de coma. Mediante este proceso, los médicos fueron capaces de curar la enfermedad en ese caso particular.
+El 10 de abril de 2008 en Cali (Colombia) un diario local reportó que un niño de 11 años podría haberse recuperado después de un tratamiento de inducción al coma.[11]​ Este niño se habría infectado el 15 de febrero de 2008 cuando varios niños fueron mordidos por un gato al maltratarlo e intentarlo matar, en Santander de Quilichao, un poblado cercano a Cali. Sin embargo no fue posible aislar el virus de la rabia de muestras de saliva, cabello y líquido cefalorraquídeo pertenecientes al niño superviviente que fueron enviadas al Instituto Pasteur en Brasil y al Instituto Nacional de Salud en Bogotá, por lo que algunos creen que nunca padeció la enfermedad.[12]​ Aun así se ha comprobado la supervivencia de 6 personas infectadas a partir de fase 2 de la enfermedad, por lo que el tratamiento de dicho protocolo podría estar bien encaminado.
+En el mes de junio de 2013, el chileno César Barriga sufrió la mordedura de un perro contagiado con rabia. Luego de desarrollar los síntomas de la enfermedad, se le indujo un coma por un periodo de un mes, al cabo del cual pudo recuperarse, transformándose en el séptimo sobreviviente mundial de la enfermedad, desde que se tiene registro.[13]​
+
+
+== Control del animal sospechoso ==
+El animal (perro o gato) debe ser capturado y mantenido en observación por un médico veterinario durante los siguientes diez días.
+En caso de que el animal sea sacrificado debe tenerse especial cuidado con la preservación adecuada del cerebro, con la finalidad de poder establecer el diagnóstico definitivo de rabia.
+
+
+== El perro y la rabia ==
+
+Los perros son una de las especies que transmiten el virus a los humanos.
+La rabia urbana se presenta mayoritariamente en zonas cuya densidad poblacional canina es alta; por ello, la forma de prevención más eficaz para detener el ciclo de transmisión vírica son las campañas masivas de vacunación, de este modo se consigue la disminución de perros susceptibles a la enfermedad.
+Los murciélagos son los principales transmisores de la rabia silvestre, siendo más difícil su control.
+
+
+== Mamíferos con la rabia ==
+Los que la suelen tener a menudo son perros, lobos, zorros, coyotes, perros mapaches, chacales, osos pardos, mapaches, mofetas, zarigüeyas, tejónes, mangostas, hurones, comadrejas, armiños, monos y murciélagos. También en raras ocasiones vacas, caballos y cabras.
+
+
+== Véase también ==
+Enfermedad rara
+Tétanos
+Santa Quiteria
+Rabia transmitida por murciélagos
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Corey, Lawrence (2002). «Virus de la rabia y otros rabdovirus».  En Braunwald, Eugene; Fauci, Anthony S; Kasper, Dennis L; Hauser, Stephen L; Longo, Dan L; Jameson, J.Larry, eds. Harrison: Principios de Medicina Interna II (15° edición). McGraw-Hill. ISBN 970-10-3775-8.  
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Rabia.
+
+En MedlinePlus hay más información sobre Rabia
+Portal sobre la rabia de la OIE (Organización Mundial de Sanidad Animal)
+OIE
+Medline plus (Departamento de Salud del Estado de Nueva York).
+The New England Journal of Medicine, artículo Prophylaxis against Rabies (en inglés).

@@ -1,0 +1,28 @@
+Unter Gravitationskollaps versteht man den Zusammensturz eines massereichen Sternes, der sich in seiner Endphase befindet, unter seiner eigenen Gravitation; dabei steigen Dichte und Temperatur im Sternzentrum stark an.
+
+
+== Ablauf ==
+Durch die Kernfusion bildet sich in massereichen Sternen ein Eisenkern, der keine weitere Energie durch Fusion freisetzen kann. Dieser Kern ist von Schalen aus Silizium und anderen Elementen umgeben (siehe Schalenbrennen). Durch das Ende der Fusion im Zentrum des Sterns und damit der Energiefreisetzung kann der Kern der Eigengravitation des Sterns keinen Widerstand durch Strahlungsdruck mehr entgegensetzen: das Sterninnere kollabiert innerhalb weniger Millisekunden zu einem kompakten Objekt. In Abhängigkeit von der Masse ist das Resultat des Gravitationskollaps ein Neutronenstern, ein Quarkstern oder ein Schwarzes Loch (siehe unten).
+Der Gravitationskollaps löst dabei eine Stoßwelle aus, die zum Abstoßen der äußeren Sternenhülle führt. Als Folge davon explodiert der Stern als Supernova des Typs II oder Ib/c. Die letzte beobachtete Supernova in der näheren Umgebung der Milchstraße, die Supernova 1987A, ereignete sich in der Großen Magellanschen Wolke. Das Licht dieser Supernova erreichte die Erde am 23. Februar 1987.
+Für eine ausführliche Beschreibung siehe auch Supernova, Abschnitt Kernkollaps
+
+
+== Chandrasekhar-Grenze ==
+
+Falls die Masse eines Sterns unterhalb der Chandrasekhar-Grenze liegt, so kommt es zu keinem Gravitationskollaps. Stattdessen entwickelt sich der Stern zu einem Weißen Zwerg.
+
+
+== Tolman-Oppenheimer-Volkoff-Grenze ==
+
+Falls die Masse eines Sterns oberhalb der Chandrasekhar-Grenze, aber unterhalb der Tolman-Oppenheimer-Volkoff-Grenze (TOV) liegt, so entsteht durch den Gravitationskollaps ein Neutronenstern, möglicherweise auch ein hypothetischer Quarkstern. Liegt die Masse eines Sterns oberhalb der TOV, so entsteht durch den Gravitationskollaps ein Schwarzes Loch.
+
+
+== Literatur ==
+Pankaj S. Joshi: Gravitational collapse and spacetime singularities. Cambridge Univ. Pr., Cambridge 2007, ISBN 978-0-521-87104-4
+B. K. Harrison, Kip Thorne, Masami Wakano, John Archibald Wheeler: Gravitation theory and gravitational collapse. The Univ. of Chicago Pr., Chicago 1965
+
+
+== Weblinks ==
+
+5. Endstadien des Kollapses (PDF; 3,1 MB)
+Gravitationskollaps (Memento vom 23. Juni 2007 im Internet Archive)

@@ -1,0 +1,17 @@
+Das periphere Nervensystem (PNS) umfasst den Teil des Nervensystems, der außerhalb des Gehirns und Rückenmarks gelegen ist. Letztere bilden das zentrale Nervensystem (ZNS). Im Gegensatz zu diesem ist das PNS nicht durch Knochen oder die Blut-Hirn-Schranke geschützt. Sowohl das ZNS als auch das PNS sind weiter unterteilt in das somatische Nervensystem und das autonome Nervensystem.
+Eine starre Abgrenzung des PNS vom ZNS ist aus funktioneller Sicht allerdings nicht sinnvoll. Nervenzellen (Neuronen) bestehen stets aus einem um den Zellkern gelagerten Zellkörper (Soma) sowie dessen Fortsätzen (Dendriten und Axone). Die motorischen (für die Bewegung zuständigen) und die präganglionären vegetativen (für die Funktion der inneren Organe zuständigen) Neuronen haben alle ihr Soma im ZNS. Die sensiblen (für Empfindungen zuständigen) Neuronen dagegen haben ihr Soma zwar fast ausnahmslos in Nervenknoten (Ganglien) im PNS selbst, ihre Fortsätze aber münden fast ebenso sämtlich in das ZNS, wo die eigentliche Informationsverarbeitung stattfindet und bewusste oder unbewusste (Reflexe) Reaktionen ausgelöst werden. Das PNS existiert demnach nicht als selbständiges System, sondern als lediglich rein topographisch abgegrenzte Abteilung. Eine Ausnahme hiervon macht allein das intramurale Nervensystem (Nerven in der Wand von inneren Organen), bei dem die Informationsverarbeitung zum Teil unabhängig vom ZNS erfolgt.
+Zum peripheren Nervensystem gehören:
+
+Hirnnerven
+Spinalnerven (Nerven aus dem Rückenmark)
+enterisches Nervensystem (abdominal brain)
+einschließlich ihrer Rezeptoren und Erfolgsorgane (wie z. B. motorische Endplatten und Ganglien).
+
+
+== Siehe auch ==
+Organsysteme
+
+
+== Literatur ==
+Franz-Viktor Salomon, Hans Geyer, Uwe Gille: Anatomie für die Tiermedizin. Enke-Verlag, Stuttgart, 2. erw. Aufl. 2008, ISBN 978-3-8304-1075-1
+Theodor Heinrich Schiebler (Hrsg.): Anatomie. Springer-Verlag, 9. Aufl., 2005, ISBN 3-540-21966-8

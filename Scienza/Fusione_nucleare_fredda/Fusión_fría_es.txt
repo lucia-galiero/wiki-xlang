@@ -1,0 +1,86 @@
+La fusión fría es el nombre genérico dado a cualquier reacción nuclear de fusión producida a temperaturas y presiones cercanas a las condiciones ambiente ordinarias, muy inferiores a las necesarias normalmente para la producción de reacciones termonucleares (millones de grados Celsius), utilizando equipamiento de relativamente bajo coste y un reducido consumo eléctrico para generarla. La fusión fría incluye la fractofusión y la fusión catalizada por muones, si bien, el término fusión fría muchas veces se restringe a las de primer tipo. En la fractofusión, la fusión de las moléculas de deuterio se realiza dentro de la red cristalina de un cristal, mientras que en el segundo tipo los electrones de los átomos a fusionar son sustituidos por muones, lo que permite un mayor acercamiento de los núcleos atómicos. Otro posible mecanismo de fusión fría es la fusión en burbujas inducida por sonoluminiscencia. En 1989 Pons y Fleischmann (1989) anunciaron la obtención de cantidades significativas de energía mediante fusión fría, sin embargo los resultados del experimento no pudieron ser replicados por otros investigadores, por lo que se considera que fueron el resultado de errores experimentales.
+
+
+== Fractofusión ==
+La fractofusión consiste en la fusión nuclear de deuterio o tritio atrapado en la estructura de un material, gracias a las elevadas presiones locales y los campos eléctricos que pueden producirse durante la fractura mecánica del mismo.[1]​ El material usualmente considerado es el paladio, aunque también puede ser platino o titanio.[2]​
+
+
+== Fusión inducida por muones ==
+Este tipo de fusión consiste en la introducción de unas partículas elementales llamadas muones para sustituir a los electrones en los átomos de hidrógeno.[3]​ Los muones tienen la misma carga que los electrones, pero su masa es unas 200 veces superior y, lo que es más importante, giran en una órbita que se encuentra unas 200 veces más cerca del protón nuclear que los electrones. En virtud de la extrema proximidad del muon, la carga positiva del protón se ve neutralizada. Los protones libres cercanos y el protón rodeado por un muon pueden entonces aproximarse sin repulsión eléctrica. Pueden incluso aproximarse lo bastante para que los una la fuerza nuclear fuerte. En ese momento se ha logrado una fusión inducida por muones. El problema es que el muon es muy inestable: tiene una vida media de 22•10−7 s. Aun así se ha conseguido que un solo muon pueda catalizar unas 150 reacciones antes de decaer, pues una vez que se realiza la fusión, el muon queda libre para unirse a otro átomo. No obstante en la actualidad la energía necesaria para producirlos es mayor que la energía que se libera. Con los métodos actualmente disponibles se necesitarían alrededor de 1000 reacciones por muon para obtener una ganancia de energía neta.
+
+
+== La fusión fría de Pons y Fleischmann (1989) ==
+Generalmente, el nombre «fusión fría» se asocia a las explicaciones propuestas para una serie de resultados experimentales obtenidos a finales de los años ochenta en celdas electrolíticas, inicialmente informados por los electroquímicos Martin Fleischmann y Stanley Pons. En estos estudios se sugería que se podía producir la fusión de deuterio en átomos de helio produciendo grandes cantidades de energía. En particular es de notar la publicación de un artículo en la revista Nature que informaba sobre un experimento realizado en marzo de 1989 por Martin Fleischmann ―en esa época uno de los principales electroquímicos a nivel mundial―[4]​ y Stanley Pons, en el que informaban sobre la producción de cantidades anómalas de calor («exceso de energía») de una magnitud que ellos afirmaban que solo podía ser explicada mediante la ocurrencia de procesos nucleares. Luego informaron haber medido pequeñas cantidades de productos de las reacciones nucleares, incluidos neutrones y tritio.[5]​
+Este experimento ―que cabía en una mesa―, involucraba un proceso de electrólisis de agua pesada en la superficie de un electrodo de paladio (Pd).[6]​
+Los medios de prensa informaron que en las celdas electroquímicas estaba ocurriendo un proceso de fusión fría,[6]​ y estos artículos hicieron crecer esperanzas de que existía una fuente de energía limpia y barata.[7]​
+Las esperanzas cayeron por tierra cuando al intentar reproducir los resultados se hicieron evidentes la consideración de una serie de factores por los cuales la fusión fría no podía ocurrir, el descubrimiento de posibles fuentes de error experimental, y finalmente se supo que Fleischmann y Pons en realidad no habían medido residuos de reacciones nucleares.[8]​
+Hacia fines de 1989, la mayoría de los científicos consideraba que las aseveraciones sobre fusión fría carecían de fundamento,[9]​ y por lo tanto la fusión fría se ganó una reputación de ciencia patológica.[10]​
+Sin embargo, una pequeña comunidad de investigadores continuaron investigando la fusión fría[9]​[11]​[12]​[13]​ proclamando que logran replicar los resultados de Fleischmann y Pons incluidos la detección de productos residuo de la reacción nuclear.[14]​[15]​
+Estas aseveraciones son tomadas con descrédito por la comunidad científica.[16]​
+En 1989, la mayoría de los miembros de un comité de revisión organizado por el Departamento de Energía de Estados Unidos (DOE) llegó a la conclusión que la evidencia sobre el descubrimiento de un nuevo proceso nuclear no era persuasiva. Las conclusiones de una segunda revisión realizada por el DOE, realizada en el 2004 que analizó los resultados de nuevas investigaciones, llegó a resultados negativos similares a las conclusiones del primer comité.[17]​
+
+
+=== El experimento de Pons y Fleischmann (1989) ===
+El 23 de marzo de 1989 los químicos Stanley Pons y Martin Fleischmann, de la Universidad de Utah, realizaron una conferencia de prensa en la que anunciaron la producción de fusión fría con la consiguiente liberación de energía. El anuncio fue considerado sorprendente al tenerse en cuenta el sencillo equipamiento necesario para producir tal reacción: un par de electrodos conectados a una batería y sumergidos en un recipiente de agua pesada rica en deuterio. El anuncio fue reflejado a nivel internacional constituyendo portadas en la mayoría de los periódicos. Habiendo trabajado Pons y Fleischmann en su experimento desde el año 1984, consiguieron fondos del Departamento de Energía de Estados Unidos en el año 1988 para una larga serie de experimentos. El término «fusión fría» había sido acuñado por el Dr. Paul Palmer, de la Universidad Brigham Young, en 1986, en investigaciones sobre la posibilidad de la producción de reacciones de fusión en el interior de un núcleo atómico. El término fue entonces aplicado al experimento de Fleischmann y Pons en 1989.
+En tan solo unos días, científicos de todo el mundo intentaron repetir los resultados de los experimentos. Durante unas seis semanas se produjeron anuncios de verificación, retractación y explicaciones alternativas que mantuvieron el interés de los periódicos sobre el tema, sin conseguir resultados definitivos. Poco después, el escepticismo sobre la fusión fría fue aumentando a medida que diferentes investigadores eran incapaces de reproducir los resultados del experimento de Pons y Fleischmann. A finales de mayo, el Departamento de Energía de Estados Unidos formó un grupo especial de investigadores para determinar la veracidad o no de la fusión fría. El comité de expertos trabajó durante cinco meses en un estudio en el que se afirmaba que no existía evidencia alguna de fusión fría, y que tales efectos contradecían todo el conocimiento adquirido sobre las reacciones nucleares durante la última media década. El comité recomendaba específicamente no financiar investigaciones costosas sobre este tema.[18]​
+En 2004, debido a la continuidad de los experimentos de fusión fría por parte de investigadores empleados en laboratorios de la Armada de Estados Unidos, el Departamento de Energía decidió crear un nuevo comité para examinar los nuevos experimentos realizados desde 1989.[19]​
+El nuevo comité formado el año 2004 llegó a las mismas conclusiones que el anterior.[20]​[21]​
+
+
+=== Connotaciones de este experimento ===
+Al día de hoy no se ha probado que la fusión fría sea un proceso físicamente posible. Por eso se prefiere utilizar el nombre LENR (low energy nuclear reaction: ‘reacción nuclear de baja energía’) o CANR (chemically assisted nuclear reaction: ‘reacción nuclear asistida químicamente’) para evitar las connotaciones negativas relacionadas con el nombre original.
+
+
+== El experimento de Scaramuzzi (1989) ==
+En 1989, el físico italiano Francesco Scaramuzzi, del Laboratorio de Frascati, del ENEA (Ente Nacional para el Estudio de la Energía Nuclear y Alternativa), afirmó haber realizado exitosamente la fusión fría cambiando algunos elementos del experimento de Pons y Fleischmann. A diferencia del método estadounidense, Scaramuzzi utilizó gas a alta presión, diseñando un sistema donde creó vacío antes de inyectar el gas. Después, graduando parámetros termodinámicos como la presión y la temperatura obtuvo la fusión.
+Scaramuzzi eliminó la electrólisis y cambió el paladio por un ovillo de titanio, sumergiéndolo en deuterio gaseoso, logrando un equilibrio entre la presión del gas y la temperatura, logrando así la fusión.
+
+ 
+
+El primer resultado positivo ocurrió el 5 de abril de 1989, solo pocas semanas después del experimento de Pons y Fleischmann, volviéndose a repetir con éxito una semana después. El profesor Scaramuzzi midió 491 unidades de neutrones emitidas cuando solo esperaba contabilizar 30.[22]​
+Los resultados del experimento de Scaramuzzi no han podido ser replicados por otros equipos de investigación y se consideran erróneos. ENEA ha seguido financiando durante años más investigación alrededor de estos experimentos sin obtener hasta el momento resultados convincentes.
+
+
+== Investigaciones actuales en fusión fría ==
+Hoy en día se siguen realizando esfuerzos en la búsqueda de reacciones nucleares del tipo de la fusión fría, a pesar de que el engaño de los años ochenta quedó marcado en la comunidad científica. Estos esfuerzos son realizados por una parte minoritaria aunque significativa de dicha comunidad.
+Una de las vías que más dan que hablar en la actualidad se basa en experimentos sobre la sonoluminiscencia. Este fenómeno fue descubierto a principios de los años noventa por Felipe Gaitán y otros en la Universidad de Misisipi, y se basa en la emisión de luz (entre otros tipos de radiación) del interior de burbujas sometidas a excitaciones acústicas. El fenómeno ha sido intensamente estudiado por la comunidad y se siguen encontrando publicaciones al respecto.[23]​
+En el año 2002, el profesor Rusi Taleyarkhan junto a otros miembros del Oak Ridge National Laboratory publicaron en la revista Science un artículo llamado «Evidence for nuclear emissions during acoustic cavitation», afirmando que observan emisiones de neutrones de alta energía en este tipo de experimentos. Sin embargo, este artículo ha levantado las voces de numerosos escépticos que no reproducen sus resultados, recordando a los acontecimientos de Pons y Fleischmann.[24]​
+En el 2006, el profesor Taleyarkhan ha vuelto a publicar nuevas pruebas para ratificar su interpretación de los experimentos, con nuevas reacciones desde la misma revista Nature.[cita requerida]
+Ciertamente, la comunidad científica ―escarmentada después de tantos años― se encuentra poco receptiva para nuevos avances a este respecto.
+
+
+== Patentes ==
+Aunque los detalles no han surgido, aparentemente la Universidad de Utah forzó el anuncio del 23 de marzo de 1989 de Fleischmann y Pons para establecer la primicia del descubrimiento de la fusión fría y sus patentes antes de su publicación conjunta con Steven E. Jones. El 12 de abril de 1989, el Instituto Tecnológico de Massachusetts anunció que había solicitado sus propias patentes basadas en el trabajo teórico de uno de sus investigadores, Peter L. Hagelstein, quien había enviado sus documentos a los diarios desde el 5 al 12 de abril. El 2 de diciembre de 1993, la Universidad de Utah otorgó el permiso de todas sus patentes de fusión fría a ENECO, una nueva compañía creada para recibir utilidades de los descubrimientos provenientes de la fusión fría, y en marzo de 1998 manifestó que ya no iba a defender sus patentes.
+La USPTO (Oficina Estadounidense de Patentes y Marcas Comerciales) ahora rechaza las patentes que reclaman la fusión fría. Esther Kepplinger, diputada comisionada de patentes en 2004, dijo que esto se hizo utilizando los argumentos que se emplearon con las máquinas de movimiento perpetuo: no funcionan. Las solicitudes de patentes requieren demostrar que los inventos son «útiles», y que esta utilidad depende de la habilidad del invento para funcionar.
+En cambio, la Oficina Europea de Patentes ha otorgado al menos una patente relacionada con la fusión fría.[25]​
+
+
+== La fusión fría y el cine ==
+La fusión fría constituye el tema central de varias películas como: El santo, Reacción en cadena, Iron Man (película) y Independence Day: Resurgence.
+
+
+== Bibliografía ==
+Sutton, Antony: Cold fusion: secret energy revolution, 1997.
+Hewitt, Paul G.: Física conceptual.
+
+
+== Véase también ==
+Catalizador de energía de Rossi y Focardi
+ITER (Reactor Termonuclear Experimental Internacional).
+Joint European Torus
+Fusión en burbujas (bubble fusion)
+Yoshiaki Arata
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+George Miley replica el experimento de Patterson y cita a Andrea Rossi como científico que con su E-Cat realiza experimentos similares.
+«La fusión en frío», artículo en el sitio web Arrakis.
+«Fusión fría en 2010», artículo en el sitio web Ciencia Kanija.
+«Avances en la fusión fría», artículo de mayo de 2007 en el sitio web Caerolus.
+Nota de prensa sobre el debate en torno a la fusión fría (en inglés) en el sitio web de la revista Nature.
+Trevor J. Pinch (1993‑94, Ejemplar dedicado a: ciencia y tecnología). «La retórica y la controversia sobre la fusión fría: del woodstock químico al altamont físico». Política y sociedad (14-15): 155-170. ISSN 1130-8001. 
+Artículos (en inglés) en el sitio web de la revista New Energy Times.
+«La secta de la energía infinita», artículo de Daniel Mediavilla, en el diario Público, del 17 de abril de 2009, págs. 30-31; publicado en el sitio web UAM.

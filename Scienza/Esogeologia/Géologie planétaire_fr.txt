@@ -1,0 +1,43 @@
+La géologie planétaire, également appelée exogéologie ou astrogéologie, est une branche de la planétologie qui emprunte les outils et les raisonnements des géosciences (travail sur le terrain, méthodes de télédétection, expérimentations in situ ou en laboratoire, prélèvements d’échantillons, etc.) pour les appliquer aux autres corps solides du Système solaire afin de connaître et de comprendre leur structure, leur composition et leur histoire géologique.
+
+
+== Domaines d'application ==
+
+
+=== Corps solides ===
+
+Tous les corps solides intéressent a priori cette discipline, en premier lieu les planètes telluriques que sont Mars, Vénus et Mercure, mais aussi la Lune, les principaux satellites naturels des planètes géantes (les satellites galiléens de Jupiter, Titan autour de Saturne, Triton autour de Neptune), ainsi que les planètes naines (dont Pluton fait partie) et l'ensemble des petits corps du Système solaire que sont les comètes comme la comète 67P/Churyumov-Gerasimecko, les astéroïdes, les objets transneptuniens, etc. ; les petits satellites des planètes (tels que Phobos et Deimos autour de Mars, par exemple), souvent apparentés à ces petits corps, font également l'objet d'études en géologie planétaire. 
+Le sol de la Lune et de Mars font l'objet d'études comparatives avec celui de la Terre en astropédologie, en raison des nombreuses missions, des retours d'échantillons (pour la Lune) et la présence d'équipements scientifiques actifs in situ.
+
+
+=== Planètes géantes ===
+Le cas des planètes géantes est à considérer séparément dans la mesure où elles sont essentiellement fluides et dépourvues de véritables surfaces, relevant essentiellement de la physique des hautes pressions, bien que les méthodes d'investigation recoupent bien souvent celles de la géologie planétaire (paramètres atmosphériques, bilan thermique, champ magnétique, caractérisation chimique, composition isotopique, propriétés diélectriques, etc.).
+Traditionnellement, les observations réalisées par télescope depuis la Terre ou depuis une sonde, permettent de cartographier la surface des planètes selon diverses longueurs d'onde (visibles, ultraviolet, infrarouge, radio, ...). 
+Ces informations sont précieuses, car elles permettent une analyse géomorphologique du relief, très riche d'enseignement.
+Lorsqu'une sonde se pose à la surface, elle est à même de mener des analyses géologiques, minéralogiques et climatologiques.
+Un sismographe permettra de fournir des informations sur les mouvements tectoniques, voire de déterminer la structure interne de l'astre. 
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+(en) Andrew N. Rencz et Robert A. Ryerson, Manual of Remote Sensing, Remote Sensing for the Earth Sciences, John Wiley & Sons, 8 mars 1999 (ISBN 978-0-471-29405-4, lire en ligne).
+Jean-Pierre Peulvast et Jean-René Vanney, Géomorphologie structurale Terre, corps planétaires solides, t. 1 : Relief et structure, Archives Contemporaines (ISBN 2-88449-063-9, présentation en ligne)
+
+
+=== Liens externes ===
+(en) Aki Roberge, « The Planets After Formation », Department of Terrestrial Magnetism, 21 avril 1998
+Philippe Lognonné, « Planétologie comparée » [PDF] (cours), Institut de physique du globe de Paris (consulté le 25 mars 2022)
+
+
+=== Articles connexes ===
+Exoplanète
+Planète
+Système solaire
+Géomorphologie
+
+ Portail de l’astronomie   Portail des sciences de la Terre et de l’Univers

@@ -1,0 +1,93 @@
+In fisica con teoria della relatività si indica una delle possibili teorie basate sul principio che le leggi della fisica debbano essere invarianti al cambiamento del sistema di riferimento.
+Il primo principio di relatività fu formulato da Galileo riguardo all'invarianza delle leggi della meccanica classica fra sistemi di riferimento inerziali in moto relativo tra loro, principio esteso da Einstein alle leggi dell'elettromagnetismo con la teoria della relatività ristretta. Lo sviluppo della relatività generale e del conseguente principio di covarianza generale permise di estendere il principio di relatività anche ai sistemi di riferimento non inerziali.
+
+
+== La relatività galileiana ==
+
+La scienza moderna comincia con l'assunto fondamentale, dovuto a Galileo Galilei, che le leggi della meccanica  abbiano la stessa forma matematica rispetto a qualunque sistema di riferimento nel quale valga il principio di inerzia. Questo assunto, definito nel 1609, è oggi chiamato principio di relatività galileiano. 
+Dal punto di vista matematico, sono legate alla relatività galileiana, basata sull'uguaglianza delle leggi della meccanica in ogni sistema di riferimento inerziale, le trasformazioni galileiane, cioè le equazioni che governano i cambiamenti di coordinate da un sistema di riferimento a un altro che si muove con velocità costante rispetto al primo.
+Le trasformazioni galileiane sono valide con ottima approssimazione nei casi in cui si possa supporre che la velocità della luce sia infinita rispetto alle altre velocità, come nella meccanica classica, mentre non hanno validità in altri campi, come per esempio nell'elettromagnetismo.
+
+
+== La relatività di Einstein ==
+
+Verso la fine dell'Ottocento, Ernst Mach e diversi altri fisici si scontrarono con i limiti della relatività galileiana, non applicabile ai fenomeni elettromagnetici. Fra questi, Hendrik Lorentz riuscì a ricavare delle trasformazioni coerenti con l'elettromagnetismo. 
+Albert Einstein si trovò quindi di fronte due tipi di trasformazione: quelle di Galileo, valide in meccanica classica, e quelle di Lorentz, valide per l'elettromagnetismo ma prive di un supporto teorico convincente. La situazione era molto insoddisfacente perché queste trasformazioni, così come i principi di relatività a esse associati, erano incompatibili tra loro. Con Einstein la teoria della relatività ebbe un ulteriore sviluppo e oggi si tende ad associare a tale teoria il nome del fisico tedesco. La sua teoria si compone di due distinti modelli matematici, denominati relatività ristretta o speciale e relatività generale.
+
+
+=== Relatività ristretta ===
+
+La teoria della relatività ristretta, chiamata anche relatività speciale, fu presentata da Einstein con l'articolo Zur Elektrodynamik bewegter Körper (Sull'elettrodinamica dei corpi in movimento) del 1905, il cui obiettivo era conciliare il principio di relatività galileiano, che include il principio della composizione delle velocità, con le equazioni delle onde elettromagnetiche, nelle quali la velocità della luce è espressa come costante, ovvero è indipendente dal sistema di riferimento.
+Precedentemente, al medesimo scopo,  erano state proposte alcune teorie che ipotizzavano l'esistenza di un mezzo di propagazione delle onde elettromagnetiche, l'etere, che avrebbe dovuto costituire un sistema di riferimento privilegiato. Tuttavia, nessun esperimento era riuscito a misurare la velocità di un corpo rispetto all'etere. In particolare, grazie all'esperimento di Michelson-Morley, fu dimostrato che la velocità della luce è costante in tutte le direzioni indipendentemente dal moto della Terra, non risentendo del cosiddetto vento di etere. La teoria di Einstein ha scartato del tutto il concetto di etere, che non fa più parte della fisica.
+I due postulati della teoria della relatività ristretta si possono così enunciare:
+
+Principio di relatività:  le leggi della fisica sono invarianti in tutti i sistemi di riferimento inerziali;
+Invarianza della velocità luce: la luce si propaga nel vuoto a velocità costante 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  
+, indipendentemente dallo stato di moto della sorgente o dell'osservatore.
+È possibile verificare che le trasformazioni di Lorentz soddisfano il secondo postulato: se per un osservatore in un sistema di riferimento inerziale la velocità della luce è c, tale sarà per un qualunque altro osservatore in un altro sistema di riferimento inerziale in movimento rispetto al primo. I due postulati possono quindi essere sintetizzati come:
+
+Le leggi della fisica sono invarianti per trasformazioni di
+Lorentz in tutti i sistemi di riferimento inerziali.
+Le leggi dell'elettromagnetismo, nella forma dell'elettrodinamica classica, non cambiano sotto le trasformazioni di Lorentz, quindi soddisfano il principio di relatività.
+
+
+=== Relatività generale ===
+
+Nel 1915 Einstein propose una teoria relativistica della gravitazione, denominata relatività generale, che descriveva le proprietà dello spaziotempo a quattro dimensioni: secondo tale teoria la gravità non è altro che la manifestazione della curvatura dello spaziotempo. La teoria venne presentata in una serie di lezioni tenutesi all'Accademia Prussiana delle Scienze a partire dal 25 novembre 1915, dopo una lunga fase di elaborazione. Un'annosa polemica contrappose il matematico tedesco David Hilbert ed Einstein riguardo alla pubblicazione delle equazioni di campo. Tuttavia, alcuni documenti attribuiscono con una certa sicurezza il primato a Einstein.
+Il fondamento della relatività generale è l'assunto, noto come principio di equivalenza, che un'accelerazione sia indistinguibile localmente dagli effetti di un campo gravitazionale, e dunque che la massa inerziale sia uguale alla massa gravitazionale. Gli strumenti matematici necessari a sviluppare la teoria della relatività generale erano stati introdotti in precedenza da Gregorio Ricci Curbastro (1853-1925), che sostanzialmente introdusse quello che oggi è noto come calcolo tensoriale.
+Einstein dedusse le equazioni del moto da quelle della relatività speciale valide localmente nei sistemi inerziali; dedusse inoltre il modo in cui la materia curva lo spaziotempo imponendo l'equivalenza di ogni possibile sistema di riferimento (da cui il nome di "relatività generale").
+In particolare, il potenziale gravitazionale newtoniano viene reinterpretato come l'approssimazione, per campo debole, della componente temporale del tensore metrico: da questo discende il fatto che il tempo scorre più lentamente in un campo gravitazionale più intenso. Alla pubblicazione, la teoria venne accolta con scetticismo da parte della comunità scientifica, perché derivata unicamente da ragionamenti matematici e analisi razionali, e non da esperimenti e osservazioni.
+Nel 1919 le predizioni della relatività generale furono confermate dalle misurazioni dell'astrofisico Arthur Eddington effettuate durante un'eclissi solare, che verificarono che la luce emanata da una stella era deviata dalla gravità del Sole. Le osservazioni ebbero luogo il 29 maggio del 1919 a Sobral, in Brasile, e nell'isola di Príncipe, nello Stato di São Tomé e Príncipe. Da allora esperimenti sempre più precisi hanno confermato le predizioni della teoria, prevalentemente nell'ambito dell'astronomia (precessione del perielio di Mercurio e lenti gravitazionali).
+I limiti della relatività generale riguardano essenzialmente il trattamento degli stati della materia nei quali le interazioni gravitazionali e quantistiche arrivano ad avere lo stesso ordine di grandezza, fino alle singolarità gravitazionali. Tra le evoluzioni teoriche prospettate, le più note e investigate sono la teoria delle stringhe e la gravitazione quantistica a loop.
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Bergmann, Peter G., Introduction to the Theory of Relativity, Dover Publications, 1976, ISBN 0-486-63282-2.
+ Denis Brian, Einstein: a life, New York, J. Wiley, 1995, ISBN 0-471-11459-6.
+ Albert Einstein, trans. Lawson, Robert W., Relativity: The Special and General Theory, The masterpiece science ed., New York, Pi Press, 2005, ISBN 0-13-186261-8.
+ Albert Einstein, trans. Schilpp, Paul Arthur, Albert Einstein, Autobiographical Notes, A Centennial ed., La Salle, Ill., Open Court Publishing Co., 1979, ISBN 0-87548-352-6.
+ Albert Einstein, trans. Harris, Alan, Einstein's Essays in Science, Dover ed., Mineola, N.Y., Dover Publications, 2009, ISBN 978-0-486-47011-5.
+ Albert Einstein, The Meaning of Relativity, 5ª ed., Princeton University Press, 1956  [1922].
+ Hans C. Ohanian, Einstein's Mistakes: The Human Failings of Genius, 1st ed., New York, W.W. Norton & Co., 2008, ISBN 978-0-393-06293-9.
+ Bertrand Russell, The ABC of Relativity, 3rd rev. ed, Londra, Allen & Unwin, 1969, ISBN 0-04-521001-2.
+ Hawking Stephen, Mlodinow, Leonard, A Briefer History of Time, New York, NY, Bantam Dell, 2005, ISBN 978-0-553-80436-2.
+
+
+== Voci correlate ==
+David Hilbert
+Principio cosmologico
+Principio di relatività
+Principio di conservazione
+Galileo Galilei
+Albert Einstein
+Disputa sulla paternità della teoria della relatività
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni sulla teoria della relatività
+ Wikimedia Commons contiene immagini o altri file sulla teoria della relatività
+
+
+== Collegamenti esterni ==
+
+ relatività, teoria della, in Dizionario di filosofia, Istituto dell'Enciclopedia Italiana, 2009. 
+(EN) Sidney Perkowitz, relativity, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) Teoria della relatività, su The Encyclopedia of Science Fiction. 
+(EN) Opere riguardanti Teoria della relatività, su Open Library, Internet Archive. 
+(EN) Testo della teoria della relatività di Einstein, su bartleby.com.
+(EN) Progetto Beyond Einstein della NASA, su universe.nasa.gov.
+(EN)  Reflections on Relativity — Un completo corso on line sulla Relatività.
+ Un'introduzione alla Teoria della Relatività di A. Amadori - L. Lussardi (PDF), su arrigoamadori.com. URL consultato il 10 agosto 2009 (archiviato dall'url originale il 3 dicembre 2010).
+ Teoria della Relatività Speciale: formulazione matematica, V. Moretti, università di Trento (PDF), su science.unitn.it.

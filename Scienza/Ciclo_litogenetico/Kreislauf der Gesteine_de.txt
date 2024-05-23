@@ -1,0 +1,35 @@
+Unter dem Kreislauf der Gesteine, in bestimmten Zusammenhängen auch als Recycling bezeichnet, versteht man in den Geowissenschaften jenen Zyklus, in dessen Verlauf Gesteine entstehen, verändert werden können und schließlich auf verschiedene Weisen wieder zerstört werden. Ein solcher Zyklus dauert in der Regel rund 200 Millionen Jahre.
+
+
+== Grundlagen ==
+Die verschiedenen Gesteinstypen und Einzelgesteine werden durch geodynamisch vermittelte Prozesse (Erosion, Sedimentation, Gesteinsmetamorphose usw.) ineinander umgewandelt.
+Im Verstreichen geologischer Zeiträume verwittern große Mengen von Gestein infolge des Einflusses von Wind, Wasser, Eis, täglichen bzw. jahreszeitlichen Temperaturunterschieden oder chemischen Reaktionen. Die dabei entstehenden Verwitterungsprodukte können zwischenzeitlich Böden bilden, in Wasser in Lösung oder in Suspension gehen, als Staub von Wind verfrachtet  werden und ähnliches. Früher oder später – meist nach geologisch kurzer bis sehr kurzer Zeit – lagern sich die Verwitterungsprodukte stabil ab, was auch eine Ausfällung vormals chemisch verwitterter und in Lösung transportierter anorganischer Stoffe beinhalten kann. Anschließend können sich die Ablagerungen zu Sedimentgestein verfestigen.
+Werden Sedimentgesteine in tiefere Regionen der Erdkruste verfrachtet, können sie dort infolge der Einwirkung von Druck und Hitze in andere Gesteinsarten umgewandelt werden (Metamorphose). Bei ausreichend hohen Temperaturen kann zudem ein Teil des Gesteins aufschmelzen und zu Magma werden. Wenn Magma in Richtung der Erdoberfläche aufsteigt, kann es stecken bleiben und dann relativ langsam abkühlen und zu plutonischem Gestein erstarren. Gelangt Magma bis an die Erdoberfläche, tritt sie dort als Lava aus und erstarrt rasch zu Vulkangestein. Im festen Zustand kann Gestein im Zuge einer Hebung der Scholle, in der es sich befindet, in oberflächennahe Bereiche der Erdkruste gelangen und schließlich durch Erosion der auflagernden Gesteine freigelegt werden. Unabhängig davon, ob das Gestein in flüssigem oder festem Zustand dorthin gelangte, ist es an der Erdoberfläche wieder der Verwitterung ausgesetzt – der Kreislauf beginnt von neuem.
+Die Dauer des Periodenzyklus ist abhängig vom geologisch-tektonischen Bau der Region, der Dichte der beteiligten Gesteinspakete und der Art und Intensität der jeweils beteiligten  exogenen (an der Erdoberfläche stattfindenden) und endogenen (innerhalb der Erdkruste stattfindenden) Prozesse.
+Bestimmte Minerale erweisen sich hierbei als besonders verwitterungsresistent. Vor allem bei einigen Zirkonen (die zudem besonders geeignet sind für eine radiometrische Datierung nach der Uran-Blei-Methode) konnten sehr hohe Alter nachgewiesen werden, während das magmatische Gestein, in dem diese Zirkone einst kristallisiert sind, schon längst verwittert ist. Das älteste je datierte Mineralkorn ist ein 4,4 Milliarden Jahre alter Zirkon aus den Jack Hills in Australien. Er ist in einem Sedimentgestein enthalten, das zwar immer noch sehr alt ist, aber deutlich nach der Kristallisierung des Zirkons abgelagert wurde, wohingegen sein ursprüngliches magmatisches Wirtsgestein spurlos verschwunden ist. Dieses Mineralkorn entstand – erdgeschichtlich betrachtet – relativ kurz nach der Bildung der ersten festen Erdkruste.
+
+
+== Schema des Gesteinskreislaufs ==
+Das folgende Diagramm zeigt, wie die Vertreter der drei Gesteinsklassen, die auf der Erde auftreten, ineinander umgewandelt werden:
+
+
+=== Darstellung im Kontext der Plattentektonik ===
+Das nachfolgende Schema stellt die Prozesse des Gesteinskreislaufs im plattentektonischen Kontext dar:
+
+
+== Siehe auch ==
+Geosynklinale
+Carbonat-Silicat-Zyklus, ein Unterzyklus, der auch Hydrosphäre und Atmosphäre betrifft
+
+
+== Literatur ==
+Klaus-Henning Georgi: Kreislauf der Gesteine. Eine Einführung in die Geologie (= rororo 7758 rororo-Sachbuch). 44.–53. Tausend. Rowohlt, Reinbek bei Hamburg 1983, ISBN 3-499-17758-7.
+John Grotzinger, Tom Jordan: Press/Siever Allgemeine Geologie. 7. Auflage. Deutsche Übersetzung: Volker Schweizer. Springer Spektrum, 2017, ISBN 978-3-662-48341-1, S. 77 f., 114 f, 430.
+
+
+== Weblinks ==
+
+Kreislauf der Gesteine im Kontext der Zyklen von Sedimentation und Gebirgsbildung
+
+
+== Einzelnachweise ==

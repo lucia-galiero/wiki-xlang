@@ -1,0 +1,145 @@
+La anemia se define como una cantidad disminuida de glóbulos rojos sanos o normales, como una concentración disminuida de hemoglobina en la sangre, o bien como un valor de hematocrito (los valores medios varían entre el 41 y el 53 % en los hombres, y entre el 36 y el 46 % en las mujeres) más bajo que lo normal.[1]​
+
+
+== Definición ==
+De acuerdo con la Organización Mundial de la Salud, se considera anemia cuando los niveles de hemoglobina sanguínea son de menos de 13 g/dL en hombres y mujeres post menopáusicas o menos de 12.5 g/dL en mujeres pre menopáusicas. Presenta síntomas como moretones repentinos en la piel, esto suele permanecer como sensibilidad crónica en mujeres, además de la caída de cabello y sensibilidad al dolor. Es un problema generalizado de salud pública asociado con un mayor riesgo de morbilidad y mortalidad, especialmente en mujeres embarazadas y niños pequeños. En los niños, la anemia puede afectar negativamente el desarrollo cognitivo, el rendimiento escolar, el crecimiento físico y la inmunidad.[2]​[3]​[4]​
+
+A nivel mundial, el contribuyente más importante al inicio de la anemia es la deficiencia de hierro (anemia ferropénica), por lo que la anemia por deficiencia de hierro y la anemia a menudo se usan como sinónimos, y la prevalencia de la anemia a menudo se ha utilizado como un sustituto de la anemia por deficiencia de hierro. Dado el papel del hierro en el transporte de oxígeno y los bajos consumos de hierro por la alimentación de una gran proporción de la población mundial, se supone que la deficiencia de hierro es uno de los principales factores que contribuyen a la carga global de anemia. En general, se supone que el 50% de los casos de anemia se deben a deficiencia de hierro. La anemia es la deficiencia nutricional más prevalente a nivel mundial, que afecta a aproximadamente una cuarta parte de la población mundial, y se considera uno de los diez principales factores de riesgo mundiales en términos de su carga de enfermedad atribuible.[5]​[6]​ Por eso es importante garantizar un consumo diario o valor diario (VD) de hierro de 19 mg, por medio de la alimentación y/o la suplementación.
+La presencia de otras deficiencias de micronutrientes, como la vitamina A, vitamina B12, ácido fólico, riboflavina y cobre, pueden aumentar el riesgo de anemia.
+Entre las otras causas de anemia, una gran pérdida de sangre como resultado de la menstruación o infecciones parasitarias como anquilostomas, ascaris y esquistosomiasis pueden reducir las concentraciones de hemoglobina (Hb) en la sangre. Las infecciones agudas y crónicas, como la malaria, el cáncer, la tuberculosis y el VIH también pueden reducir las concentraciones de Hb en sangre.
+Las enfermedades del aparato digestivo son otra de las causas de la anemia crónica.[7]​
+La anemia no es una enfermedad, sino un signo clínico. Los signos de anemia incluyen cianosis, ictericia y moratones o hematomas con facilidad. Además, los pacientes anémicos pueden experimentar dificultades con la memoria y la concentración, fatiga, aturdimiento o mareos, sensibilidad a la temperatura, bajos niveles de energía o cansancio, falta de aliento y piel pálida. Los síntomas de anemia severa o de inicio rápido son muy peligrosos ya que el cuerpo no puede adaptarse a la falta de hemoglobina.
+
+
+== Clasificación ==
+
+
+=== Por patogenia ===
+De acuerdo con el recuento de reticulocitos, la anemia puede clasificarse en:[8]​
+
+Anemia regenerativa: con aumento de reticulocitos como respuesta a una pérdida de glóbulos rojos, por ejemplo después de un sangrado, o asociado a una enfermedad hemolítica.
+Anemia hiporegenerativa: con reticulocitos normales o disminuidos, debido a un déficit en la producción de glóbulos rojos, ya sea por alteración de la médula ósea, por alguna deficiencia nutricional o asociada a enfermedades crónicas, inflamatorias, tumores y otras.
+
+
+=== Por morfología ===
+El volumen corpuscular medio de los eritrocitos permite distinguir los tipos de anemia de acuerdo con el tamaño de los glóbulos rojos:[8]​
+
+Anemia microcítica.
+Anemia normocítica.
+Anemia macrocítica.
+
+
+=== Por presentación clínica ===
+De acuerdo con el tiempo de su instalación:[8]​
+
+Anemia aguda.
+Anemia crónica.
+
+La clasificación fisiopatológica está basada en el mecanismo que conlleva al estado de anemia, diferenciándolas en:
+Anemias mediadas por trastornos en la producción de glóbulos rojos
+entre:
+
+Endocrinopatías
+Proceso inflamatorio crónico
+Fallo renal crónico
+Anemia aplásica
+Eritropoyesis inefectiva:
+Defecto en la síntesis de ácidos nucleicos: deficiencia de ácido fólico y cobalamina (anemia con macrocitosis: los reticulocitos no se dividen y de ahí el aumento de tamaño de los eritrocitos).
+Defecto en la síntesis del grupo hemo: anemia microcítica por déficit de hierro y anemia sideroblástica
+Defecto en la síntesis de las globinas: talasemia beta y anemia drepanocítica
+Anemias por pérdida de sangre
+
+Pérdidas agudas (repentinas)
+Pérdidas crónicas (hemofilias, lesiones gastrointestinales, trastornos de la menstruación, etc.)
+Anemias hemolíticas
+
+Alfa-talasemia
+Anemia de células falciformes o drepanocítica
+Esferocitosis hereditaria
+Anemia por déficit de la enzima G6FD
+Anemia por hemoglobinopatías
+Anemia por infecciones (paludismo)
+Anemia por agresiones mecánicas (anemia microangiopática, coagulación intravascular diseminada, púrpuras trombocitopénicas, etc.)
+Anemias autoinmunes (anemia perniciosa, hemoglobinuria nocturna paroxística, anemia inmunohemolítica)
+
+
+== Epidemiología ==
+La anemia en general, afecta sobre un 30% de la población mundial. Dependiendo de los grupos poblacionales considerados la prevalencia de la anemia puede variar entre un 2,9 a un 61%.[6]​[8]​
+En Estados Unidos, un 20% de los niños sufre de algún grado de anemia.[4]​
+La anemia por deficiencia de hierro afecta entre un dos y cinco por ciento de los hombres adultos y mujeres postmenopáusicas y hasta un 10% de las mujeres en edad fértil.[5]​
+
+
+== Etiología ==
+Generalmente, la anemia puede ser provocada por varios problemas, entre los que se incluyen los trastornos en la producción de los eritrocitos:
+
+Eritropoyesis insuficiente:,
+Endocrinopatías: alteración en la regulación neuro-hormonal de la homeostasis.
+Hipotiroidismo: deficiencia de hierro y de eritropoyetina.
+Hipertiroidismo: aumento del plasma, generando una pseudo anemia por hemodilución.
+Insuficiencia Adrenal: la disminución de glucocorticoides disminuye la eritropoyesis.
+Hipoandrogenismo: la disminución de andrógenos disminuye la eritropoyesis.
+Hipopituitarismo: la disminución de las hormonas adenohipofisiarias disminuye la eritropoyesis (excepto la prolactina, compensando la presencia de esta anemia).
+Hiperparatiroidismo: el aumento de la parathormona disminuye la eritropoyesis, además de aumento significativo del riesgo de fibrosis en la médula ósea.
+Proceso inflamatorio crónico: el aumento de la producción de citoquinas (sobre todo la Interleucina-6) ejerce un efecto inhibidor de la eritropoyesis, al aumentar la síntesis y liberación de hepcidina hepática, cuyo mecanismo es bloquear la salida de hierro hepático, aumentar los almacenes de hierro en los macrófagos y disminuir la absorción intestinal de hierro. Además el TNF-alfa y la interleucina-1 están relacionados con una resistencia a la eritropoyetina.
+Fallo renal crónico: principalmente por una disminución de la producción de eritropoyetina en el riñón. Aunque secundariamente, por un acúmulo de metabolitos tóxicos y alteración del ambiente medular para la eritropoyesis.
+Anemia aplásica: generalmente adquirida por consumo de fármacos que generan una reacción autoinmune de los linfocitos T (benceno, metotrexato, cloranfenicol) contra las células precursoras de eritrocitos y leucocitos (excepto de los linfocitos). Se caracteriza por una pancitopenia. Existen algunas formas hereditarias, siendo la más común la anemia de Fanconi, que se caracteriza por un defecto en la reparación del ADN eritrocitario (BRCA 1 y 2, Rad51); es de carácter autosómica recesiva, localizada en el cromosoma 16.
+Eritropoyesis inefectiva
+Defecto en la síntesis de ácidos nucleicos
+Déficit de ácido fólico: el tetra hidro folato (THF; forma activa del ácido fólico) es un transportador de fragmentos de un solo carbono. Con este carbono, el metil-THF formado, contribuirá con la enzima timidilato sintetasa, para la conversión de deoxi-uridilato a timidilato (de U a T en el ADN). Un defecto en el ácido fólico, produce errores en las cadenas de ADN.
+Déficit de cobalamina: la cobalamina (vitamina B12) se requiere para la conversión de homocisteína a metionina, esta reacción necesita de un grupo metilo que es brindado por el Metil-THF. Si hay una deficiencia de cobalamina, no se produce esta reacción de la sintetasa de metionina; con el consecuente acúmulo de metil-THF. Esta forma del metil-THF no puede ser retenido en la célula y escapa, generando también una deficiencia de ácido fólico. (El THF para ser retenido necesita conjugarse con residuos de glutamato, empero, como metil-THF, no puede realizarse esta conjugación, además de no liberar su grupo Metil en la reacción; se escapa de la célula).
+Defecto en la síntesis del grupo Hem
+Déficit de hierro: en la síntesis del grupo Hem, el último paso es la incorporación del hierro a la protoporfirina IX; reacción catalizada por la ferroquelatasa en la mitocondria de la célula eritroide. El 67% de la distribución de hierro corporal se encuentra en las moléculas de Hb. En consecuencia, una deficiencia (severa) de Hierro, genera una baja producción de eritrocitos, además de otros síntomas como alteraciones esofágicas, en uñas, etc.
+Anemia sideroblástica: en la síntesis del grupo Hem, el primer paso es la condensación de una glicina con un succinil-CoA para formar una molécula conocida como delta - ALA (delta - ácido amino levulínico), reacción catalizada por la enzima ALA-sintasa. Esta enzima requiere al piridoxal fosfato (derivado de la vitamina B6) como coenzima y de Metil-THF como donador del grupo Metilo. En la anemia sideroblástica congénita, existe una mutación en la codificación de la enzima ALA-sintasa que produce una consecuente alteración en la síntesis del grupo Hem. En la anemia sideroblástica adquirida (por alcohol, cloranfenicol, plomo, zinc), se postula el descenso de los niveles de piridoxal fosfato (B6), conllevando a una baja síntesis del grupo Hem. Nótese que se produce un aumento del Metil-THF que, al igual que la anemia por deficiencia de cobalamina, concluye en un escape del ácido fólico.
+Defecto en la síntesis de las globinas
+Talasemias: la hemoglobina más abundante en los seres humanos adultos es la conocida como A1 (un par alfa y un par beta). En las talasemias se produce un defecto en la síntesis de las globinas. Si esta es localizada en la globina alfa se llama alfa-talasemia (donde se evidencia un aumento compensatorio de la globina beta). Si esta es localizada en la globina beta se llama beta-talasemia (donde se evidencia un aumento compensatorio de la globina alfa). En la alfa talasemia se reconoce una anemia hemolítica, consecuentemente más aguda y peligrosa; en la beta talasemia se reconoce una anemia no tan agresiva (a pesar de la No unión del 2,3 DPG a la cadena Beta). Notar que el acúmulo de las globinas dentro del eritroide puede producir lisis celular. Existe un aumento de los niveles de hierro, debido a la lisis y la destrucción por los macrófagos quienes liberan el Hierro nuevamente a la sangre o lo dirigen hacia el ambiente de la médula ósea. Esto generará una hipertrofia hepática (para conjugar la bilirrubina), hipertrofia esplénica (por la destrucción de los eritrocitos) y una hipertrofia medular (para compensar los bajos niveles de eritrocitos en sangre).
+Drepanocitosis (anemia de células falciformes): la función de la hemoglobina en el eritrocito es permitir la captación del oxígeno gaseoso y facilitar de manera reversible su liberación en los tejidos que lo requieran. En la anemia de células falciformes (o drepanocítica) hay una mutación en el ADN que codifica la estructura de las globinas (valina por glutamato en el 6.º aminoácido), lo que se constituye en una llamada hemoglobina anormal tipo S. Esta hemoglobina S, ante una baja PO2, tiende a agregarse, generando un cambio estructural en el eritrocito; adaptando una forma de guadaña o plátano (falciforme). Además se ha evidenciado un defecto en la membrana (en el canal de Ca+2, permitiendo su entrada a la célula, con la compensatoria salida de K+) comprometiendo aún más la gravedad de esta anemia. Esta particular forma no les permite un paso fluido por los capilares más pequeños, produciendo una hipoxia tisular grave; con riesgo de isquemia, infarto y agregación microvascular.
+Inflamación intestinal crónica producida por la enfermedad celíaca[7]​[9]​ y la sensibilidad al gluten no celíaca[10]​ no diagnosticadas ni tratadas. La anemia puede ser la única manifestación de estas enfermedades, en ausencia de síntomas digestivo o de otro tipo.[11]​[12]​
+Nutrición deficiente o malabsorción:[13]​ niños malnutridos, alcoholismo crónico, enfermedad celíaca no tratada.[7]​[9]​
+Úlcera gástrica (en el estómago) o duodenal (en el primer tramo del intestino delgado).[14]​
+Ciertos medicamentos: los que interfieren en la síntesis de ADN, o que suprimen la producción de ácido gástrico.
+
+
+== Patogenia ==
+La producción de la anemia se desarrolla mediante cualquier combinación de las siguientes situaciones:
+
+Producción reducida de glóbulos rojos.
+Destrucción aumentada de glóbulos rojos.
+Pérdida de glóbulos rojos.
+Los defectos asociados a estas situaciones pueden ser propios de los glóbulos rojos, de sus precursores o bien extrínseco a ellos.[2]​
+La producción reducida de glóbulos rojos es causada por una alteración en las células progenitoras, en distintas etapas de diferenciación y maduración (hematopoyesis). Si son afectadas las células pluripotenicales, la anemia ocurre en el contexto de una pancitopenia. Las diferentes causas de las pancitopenias modifican la hematopoyesis al afectar el micro ambiente necesario para la regeneración, diferenciación y proliferación de las células madre.[8]​
+
+
+== Cuadro clínico ==
+Los síntomas[15]​ y signos clínicos de la anemia se correlacionan con su intensidad y la rapidez de su instauración. Otros factores que pueden influir son la edad del paciente, su estado nutritivo, y la existencia de insuficiencia cardíaca o insuficiencia respiratoria previa.
+Los síntomas que se observan en la anemia aguda incluyen: debilidad (astenia), palpitaciones y falta de aire con el esfuerzo (disnea). También pueden aparecer síntomas cardiovasculares como taquicardia, disnea de esfuerzo marcada, angor, claudicación intermitente. En ocasiones se producen cambios de carácter que se manifiestan como irritabilidad, desinterés, tristeza y abatimiento.
+En la pérdida súbita de sangre por hemorragia aguda, sobre todo si es voluminosa y se pierde el 40% del volumen sanguíneo que equivale a 2 litros de sangre, predominan los síntomas de inestabilidad vascular por hipotensión, y aparecen signos de shock hipovolémico, tales como confusión, respiración de Kussmaul, sudoración y taquicardia.
+En la anemia crónica de mucho tiempo de evolución, muchos pacientes se adaptan a la situación y sienten muy pocos síntomas a menos que haya un descenso brusco en sus niveles de hemoglobina.[16]​
+
+
+== Tratamiento ==
+Se diagnostica en laboratorio mediante análisis clínico o hemograma.
+El tratamiento primario de la anemia asociada a diversas enfermedades crónicas consiste, en primer lugar, en intentar eliminar o solucionar la enfermedad principal subyacente, lo que origina su curación definitiva en la mayor parte de los casos; o al menos su mejoría notable, salvo que persistan otros mecanismos fisiopatológicos o deficiencias asociadas. Por otra parte, se procede a la administración de hierro.[5]​
+
+
+== Véase también ==
+Eritrocito
+Alteraciones de los hematíes
+Policitemia
+Policitemia vera
+Hemograma
+
+
+== Bibliografía ==
+Mabry-Hernandez. IR. Screening for iron deficiency anemia--including iron supplementation for children and pregnant women. Am Fam Physician. 2009 May 15;79(10):897-8.
+Alleyne, M. Horne, M. K., Miller JL. Individualized treatment for iron-deficiency anemia in adults. Am J Med. 2008;121:943-948.
+Brittenham G. Disorders of Iron Metabolism: Iron Deficiency and Iron Overload. In: Hoffman R, Benz EJ, Shattil SS, et al, eds. Hematology: Basic *Principles and Practice. 5th ed. Philadelphia, Pa: Elsevier Churchill Livingstone; 2008:chap 36.
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+
+MedlinePlus Enciclopedia 000560
+
+En Epistemoikos hay más información sobre Anemia.

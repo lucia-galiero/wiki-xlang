@@ -1,0 +1,11 @@
+Als Anatexis (griechisch ἀνάτηξις „Schmelzen“), auch Migmatisierung, bezeichnet man das partielle Aufschmelzen von Gesteinen der Erdkruste infolge von Temperaturerhöhung, Druckentlastung und/oder Fluidzufuhr (z. B. von H2O, CO2). Anatexis findet in der tieferen Erdkruste statt, zumeist im Laufe von Gebirgsbildungsprozessen, z. B. im Himalaya und den Alpen, aber auch im Thüringer Wald. Die resultierenden Gesteine werden als Migmatite bezeichnet bzw. als migmatisierte Gneise, Schiefer etc.
+Das Anfangsstadium der Aufschmelzung wird als Metatexis bezeichnet. Die Mobilisation findet hierbei nur an den Korngrenzen statt und betrifft nur einen Teil des Mineralbestands (partielle Schmelze). Im höheren Stadium, der Diatexis, werden zunehmend auch die dunklen (mafischen) Mineralbestandteile aufgeschmolzen, bis es schließlich zur Bildung von Magma und magmatischen Gesteinen kommt. Die mehr oder weniger aufgeschmolzenen Gesteine (Metatexite und Diatexite) werden als Migmatite (oder Anatexite) zusammengefasst.
+Bei granitischen Gesteinen findet die Anatexis unter fluidgesättigten Bedingungen bei Temperaturen oberhalb von 650 °C statt. Typische Drücke liegen bei 0,5 bis 1 GPa (entspricht dem Druck in 15 bis 35 km Tiefe). Hierbei werden hauptsächlich der Quarz und die Feldspäte aufgeschmolzen. Bei steigenden Temperaturen bilden sich sukzessive granitische, granodioritische und quarzdioritische Schmelzen. Basische Gesteine schmelzen erst bei deutlich höheren Temperaturen. Da Quarzite, Amphibolite und Kalksilikatfelse in der Natur praktisch nie als Anatexite angetroffen werden und selbst in ausgedehnten Migmatitgebieten als sogenannte Resisters unverändert erhalten sind, schätzt man die maximale Temperatur, die bei einer regionalen Aufschmelzung erreicht wird, auf etwa 800 °C.
+
+
+== Siehe auch ==
+Metamorphose
+
+
+== Literatur ==
+Siegfried Matthes, Martin Okrusch: Eine Einführung in die spezielle Mineralogie, Petrologie und Lagerstättenkunde. Springer, Berlin 2005, ISBN 3-540-23812-3.

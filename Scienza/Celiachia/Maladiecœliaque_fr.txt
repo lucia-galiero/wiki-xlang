@@ -1,0 +1,232 @@
+La maladie cœliaque (pron. /seljak/), aussi appelée entéropathie au gluten, cœliaquie ou intolérance au gluten, est une maladie auto-immune, caractérisée par une atrophie villositaire (destruction de la paroi de l'intestin grêle). Cette maladie est une intolérance permanente à différentes fractions protéiques du gluten contenues dans différents types de céréales telles que le blé (froment), l'orge ou le seigle. Il en résulte une malabsorption de certains nutriments (vitamines, fer, calcium…), donc des carences alimentaires. Les personnes atteintes doivent suivre un régime strict sans gluten à vie. Aujourd'hui, aucun traitement médicamenteux n’existe.
+La maladie cœliaque ne doit pas être confondue avec l'allergie au gluten, qui est une allergie alimentaire, ni avec la sensibilité non cœliaque au gluten, une entité controversée.
+
+
+== Historique ==
+
+
+=== Approche clinique ===
+
+La première description moderne et détaillée de la maladie a été faite en 1888, par un médecin pédiatre du St Bartholomew's Hospital de Londres, Samuel Gee (en) (1839-1911). Il lui donne le nom de coeliac affection (coeliac disease en anglais, ou celiac disease en anglais nord-américain) ou maladie cœliaque en français. Il rendait ainsi hommage à celui qu'il considérait comme son précurseur, le médecin grec Arétée de Cappadoce, du Ier siècle ap. J.-C., qui aurait décrit la même maladie sous le nom de cœliac diathesis (diathèse ou condition cœliaque), du grec koeliakos désignant la cavité abdominale.
+Gee décrit ainsi chez l'enfant des signes digestifs majeurs, dominés par une diarrhée chronique, un épuisement et des troubles de la croissance. Il attribue cette maladie à des variations du régime alimentaire, ainsi un enfant atteint de maladie cœliaque « s'améliore merveilleusement quand sa ration alimentaire comporte un quart des meilleures moules de Hollande, mais il rechute quand ce ne n'est plus la saison des moules,.»
+Les médecins cherchent alors le meilleur régime alimentaire à prescrire, ou les aliments à interdire. Plusieurs sortes de restrictions sont tentées, successivement ou simultanément (graisses, hydrates de carbone...). Ces divers régimes s'avèrent inefficaces ou insuffisants en calories pour maintenir une croissance chez l'enfant, la maladie reste incomprise jusqu'à la fin des années 1940.
+De nombreuses désignations, tombées depuis en désuétude, datent de cette première période comme les termes de sprue (diarrhée graisseuse chronique), la maladie cœliaque étant dite aussi sprue nostras ou sprue non tropicale (sprue des pays tempérés) par opposition à la sprue tropicale et à la sprue chirurgicale (consécutive à une chirurgie intestinale).
+Dans les pays anglophones, la maladie cœliaque garde parfois son nom de Gee's Disease (maladie de Gee) ; hors de France, dans des pays francophones (Suisse, Belgique...) on peut trouver les termes de cœliakie ou cœliaquie.
+
+
+=== Du blé aux auto-anticorps ===
+En 1950, le médecin hollandais Willem Karel Dicke est le premier à constater une amélioration spectaculaire de la maladie cœliaque par l'éviction du blé. Il avait déjà remarqué, lors de la seconde guerre mondiale, que le taux de mortalité de la maladie avait chuté lors de la famine de 1944.
+Il apparait alors que l'efficacité relative des régimes précédents était directement liée à leur proportion relative de produits issus du blé. En 1953, W.K. Dicke et ses collaborateurs montrent que les produits les plus toxiques appartiennent aux protéines dites gliadines qui font partie du gluten.
+Dans les années qui suivent, des études ultérieures montrent aussi le rôle néfaste de l'orge, du seigle et de l'avoine, alors que ce n'est pas le cas du riz ou du maïs. Chez l'enfant, comme chez l'adulte, l'éviction alimentaire des produits en cause amène généralement une guérison presque complète.
+Durant la même décennie (1950-1960), les techniques de biopsie intestinale se perfectionnent. La maladie cœliaque est alors associée à une lésion de la muqueuse intestinale touchant les entérocytes des villosités intestinales. La prédisposition génétique de la maladie est soupçonnée dans les années 1970, et les premiers tests dosant les anticorps anti-gliadine sont disponibles dans les années 1980. La nature auto-immune (production d'auto-anticorps) de la maladie est bien établie dans les années 1990,.
+
+
+== Épidémiologie ==
+On trouve généralement cette maladie chez l'enfant, mais le diagnostic peut être fait chez l'adulte quand la maladie était discrète pendant l'enfance.
+La prévalence de la maladie a été estimée à environ 0,5 % -1 % dans différentes régions du monde.
+Cette maladie touche surtout les populations d'Europe du Nord, ainsi que celles d'Afrique du nord. Des estimations de sa fréquence parmi les personnes d'origine européenne varient entre 1 sur 300 et 1 sur 500. Parmi les Irlandais la prévalence atteindrait 1 sur 132, tandis que la prévalence moyenne au Royaume-Uni serait de 1 sur 100. Cette prévalence différente est en partie due à la disparité des moyens de diagnostics (diagnostic clinique, ou selon la modernité des tests sérologiques qui détectent plus de cas).
+La maladie est exceptionnelle chez les Noirs africains, les Chinois et les Japonais. Les populations ayant une alimentation historiquement sans gluten (depuis plus de 2 ou 3 millénaires) sont moins touchées comme dans la corne de l'Afrique où la céréale locale est le teff, ou bien en Asie - plus précisément en Extrême-Orient - où la population locale consomme principalement du riz.
+La maladie cœliaque a deux pics de fréquence, avec une révélation soit dans la petite enfance, le plus souvent entre six mois et deux ans, c'est-à-dire après l'introduction du gluten dans le régime alimentaire, soit à l'âge adulte, le plus souvent entre 20 et 40 ans. Les formes à révélation tardive (après 65 ans) ne sont cependant pas rares.
+Les femmes sont plus atteintes que les hommes, à raison de 2 à 3 pour 1.
+
+
+== Facteurs de risque ==
+
+
+=== Prédisposition génétique ===
+La prévalence de la prédisposition familiale à la maladie cœliaque est de l’ordre de 10 % chez les parents de premier degré d’un patient atteint. Cette prédisposition n'explique pas à elle seule la maladie, car les jumeaux monozygotes (« vrais jumeaux ») ne concordent pour cette affection que dans 70 % des cas.
+98 % des malades sont porteurs de certains groupes HLA (HLA-DQ2 ou HLA-DQ8), mais la présence de ces groupes n’implique pas, pour autant, la maladie, car présent dans près de 30 à 40 % de la population occidentale,.
+En revanche la valeur prédictive négative de l'absence de cette configuration HLA approche les 100 % (le fait de ne pas appartenir à ces groupes HLA exclut en pratique la maladie).
+
+
+=== Sensibilisation ===
+Chez les sujets génétiquement prédisposés, un évènement déclenchant peut induire une sensibilisation par un mécanisme non élucidé.
+Ce peut être une infection virale ou bactérienne : la responsabilité d’un rotavirus a été mise en cause, avec un possible effet protecteur du vaccin.
+Chez l'enfant, ce pourrait être l'introduction trop précoce du gluten dans le régime alimentaire du nourrisson, mais cela reste largement discuté, d'autres études suggérant qu'une introduction plus tardive du gluten pourrait être aussi un facteur de risque. L'allaitement maternel est au contraire, un facteur protecteur,.
+Ces facteurs peuvent influencer chez l'enfant l'acquisition ou la perte de la tolérance au gluten.
+
+
+=== Association avec d'autres pathologies ===
+Le risque est augmenté si d'autres maladies génétiques sont présentes (trisomie, hémochromatose, mucoviscidose...), ou d'autres maladies auto-immunes (diabète, thyroïdite, cirrhose biliaire primitive, psoriasis, alopécie, vitiligo, ataxie, polyendocrinopathie auto-immune de type 1...).
+D'autres associations ont été retrouvées comme les malformations congénitales ; œsophagite à éosinophiles ; schizophrénie,...
+
+
+=== Facteurs environnementaux ===
+Le risque serait légèrement plus important si l'enfant naît en été, mais aussi en lien avec la vitesse d'introduction du gluten dans l'alimentation, au risque d'infection digestive et à l'apport de vitamines.
+Le rôle du microbiote intestinal du nourrisson est suspecté, avec la présence d'une infection gastro-intestinale avant l'âge d’un an, la prise d'antibiotiques contre des infections digestives durant les quatre premiers mois de la vie, elle-même associée à un sevrage trop précoce et l'introduction de protéines de blé avant quatre mois.
+D'autres facteurs suspectés sont la prise, au cours de la grossesse, de compléments alimentaires contenant du fer ; la césarienne; une petite taille à la naissance, mais uniquement pour les garçons.
+Enfin sont proposés à la discussion le rôle des mycotoxines alimentaires ; et celui d'un herbicide, le glyphosate, cette dernière étude ayant fait l'objet de plusieurs critiques,.
+
+
+=== Dépistage ===
+Le dépistage doit être ciblé. En raison de sa nature en partie génétique, les médecins recommandent généralement que les enfants de patients atteints passent un test même s'ils ne présentent aucun symptôme. Ce dépistage peut aussi porter sur d'autres groupes à risque tels que les patients atteints de maladies auto-immunes ou d'ostéoporose inexpliquée.
+L'intérêt d'un dépistage systématique en population générale n'est pas prouvé. Il n'y a pas, en particulier, d'augmentation de la mortalité chez les patients asymptomatiques, âgés de plus de 45 ans.
+
+
+== Physiopathologie ==
+
+
+=== Gluten ===
+
+Gluten est un terme latin signifiant « colle », en donnant aussi les termes français « glu » et « agglutination ». C'est la masse protéique, élastique, et visqueuse qui reste après l'extraction de l'amidon du blé et d'autres graminées. Le gluten résulte de l'association après hydratation et un minimum de pétrissage de deux types de protéines: les prolamines (partie majoritaire) et une partie métabolique constituée de globuline et d'albumine.
+La fraction toxique du gluten alimentaire, dans la maladie cœliaque, fait partie des prolamines. Cette fraction toxique est constituée de α-gliadine dans le blé, de sécaline dans le seigle, et de hordénine dans l'orge. Ces trois peptides se révèlent plus particulièrement agressifs, ce qui devrait permettre de réaliser des immunothérapies basées sur la désensibilisation progressive des patients à ces trois fragments de gluten.
+
+
+=== Mécanismes biologiques ===
+Chez les patients atteints de maladie cœliaque, les peptides de gliadine sont absorbés sous forme non dégradée par les entérocytes de la muqueuse intestinale. Ils sont ensuite modifiés par une enzyme : la transglutaminase tissulaire. La gliadine, ainsi transformée, est présentée par les cellules dendritiques aux lymphocytes T de la muqueuse intestinale.
+Il en résulte une réaction inflammatoire avec production d'anticorps anti-gliadine, anti-endomysium (contre la membrane conjonctive enveloppant chaque fibre musculaire striée, notamment celles des intestins), et anti-transglutaminase.
+La transglutaminase tissulaire a été identifiée comme étant la cible antigénique des anticorps anti-endomysium, qui se comportent donc comme des auto-anticorps entraînant la destruction des cellules composant les villosités intestinales. Cette intolérance au gluten est d’origine auto-immune, sans réaction d'hypersensibilité immédiate. Ce n'est donc pas une allergie.
+En sus de cette réponse immune adaptative, la malade cœliaque met aussi en jeu une réponse de l'immunité innée aboutissant à une augmentation des lymphocytes intestinaux avec activation de leurs propriétés cytotoxiques.
+À la phase active de la maladie, avant le diagnostic et donc l'instauration d'un régime excluant le gluten, la majorité des malades ont une atrophie totale ou subtotale des villosités (disparition de ces dernières) au niveau de la paroi intestinale avec une nette augmentation du nombre de lymphocytes dans l'épithélium de cette dernière.
+Cette atrophie est prédominante au niveau de l'intestin grêle proximal mais peut, quand l'atteinte est importante, être visible sur l'ensemble de l'intestin grêle. Elle conduit alors à un syndrome de malabsorption plus ou moins total avec notamment une malabsorption de la vitamine B12 au niveau du grêle distal. Le taux sanguin de cette dernière est alors très abaissé, provoquant une macrocytose.
+
+
+=== Perspectives évolutionnistes ===
+La compréhension biologique de la maladie reste encore mal élucidée. Dans une perspective évolutionniste, l'apparition de la maladie cœliaque dans l'histoire humaine serait reliée à quatre facteurs : la structure des protéines du blé, l'évolution immunitaire de l'homme, l'évolution du blé et des céréales proches du fait de leur domestication et du développement de l'agriculture.
+Avec l'apparition de l'agriculture, les espèces de blé évoluent (nouvelles séquences d'acides aminés des protéines du blé) et l'alimentation humaine en devient largement dépendante. Ces nouveaux antigènes deviennent toxiques pour des sous-populations génétiquement prédisposées à cette intolérance. La maladie cœliaque serait alors un défaut d'adaptation immunogénétique à la révolution néolithique, et au changement de régime alimentaire (des sociétés de chasseurs-cueilleurs aux sociétés agricoles basées surtout sur le blé).
+En extrapolant sur cette base, des opposants au gluten (présentant une sensibilité non cœliaque au gluten, voir la section dédiée) ont mis en cause l'évolution moderne du blé (depuis le début du XXe siècle) dont le taux de gluten aurait augmenté, de façon non conforme à la génétique humaine. Toutefois cette augmentation n'a pas été retrouvée aux États-Unis pour cette période moderne.
+L'origine de « l'épidémie » moderne d'intolérance au gluten (maladie cœliaque) proviendrait plutôt des changements de mode de vie contemporain que des interactions entre génétique humaine et le blé. Antibiotiques, alimentation riche en sucre, en graisse et hygiène pourraient perturber le système immunitaire, la flore intestinale et générer des réponses inflammatoires indésirables supprimant la tolérance au gluten chez les sujets prédisposés,.
+Au début du XXIe siècle, l'augmentation des cas de maladie cœliaque est en rapport aussi bien avec l'amélioration des moyens de diagnostic (qui détectent plus tôt des formes frustes ou modérées), qu'avec une réelle augmentation de sa prévalence (facteurs environnementaux).
+
+
+== Signes et symptômes ==
+La maladie cœliaque peut se manifester sous différentes formes : latente ou silencieuse, avec peu de symptômes, avec un ensemble classique de symptômes (formes dites « bruyantes »), formes atypiques ou avec complications au premier plan.
+Au début du XXIe siècle, avec les progrès des tests diagnostiques, les formes atypiques ou frustes sont devenues plus fréquentes, et les formes classiques sont désormais minoritaires (moins de 20 % des patients) . La maladie, autrefois considérée comme une maladie rare de l'enfant, est devenue une maladie fréquente susceptible de se révéler à tout âge,.
+
+
+=== Forme classique ===
+Les signes classiques les plus fréquents sont : une fatigabilité et manque d'énergie, des douleurs abdominales et une diarrhée de type malabsorption avec stéatorrhée (selles graisseuses), amaigrissement et dénutrition. Le tout entraîne une altération de la qualité de vie.
+Chez l'enfant on retrouve une cassure de la courbe de croissance, suivie d'un retentissement sur la taille.
+On peut aussi trouver des anomalies biologiques qui sont des signes indirects de malabsorption au niveau du grêle :
+
+une anémie par une carence en fer et en folates, plus rarement en vitamine B12 ;
+déficit en certains facteurs de la coagulation (facteurs II, VII et X) dépendants de la vitamine K ;
+hypoprotidémie (baisse de la concentration sanguine en protéine) avec hypoalbuminémie ;
+déficit en calcium (hypocalcémie), en magnésium, en zinc.
+
+
+=== Formes atypiques ou frustes ===
+Elles sont plus fréquemment observées surtout chez l'adulte, et dans une moindre mesure chez les grands enfants et les adolescents. Leur caractère atypique entraîne souvent un retard du diagnostic. On peut ainsi observer des manifestations digestives ou extra-digestives.
+
+
+==== Manifestations digestives ====
+Ce sont des troubles fonctionnels intestinaux, une aphtose buccale récidivante, des troubles hépatiques inexpliqués avec augmentation des transaminases.
+
+
+==== Manifestations extradigestives ====
+Ces troubles peuvent apparaître en premier et être révélateurs. Ce sont des troubles ostéoarticulaires comme des douleurs osseuses ou articulaires inexpliquées, une déminéralisation (ostéoporose) ; ou encore des troubles neurologiques comme l'épilepsie, la migraine, une neuropathie périphérique, une ataxie... voire cardiaques comme la cardiomyopathie dilatée.
+Les troubles de la reproduction sont fréquents (aménorrhée primaire ou secondaire ; fausses couches à répétition ; hypotrophie fœtale), mais l'association avec une éventuelle hypofertilité ou stérilité est controversée.
+La dermatite herpétiforme est une maladie inflammatoire représentant une forme cutanée de la maladie cœliaque.
+D'autres troubles peuvent être provoqués par la maladie, soit par association avec d'autres maladies auto-immunes, soit en rapport avec les difficultés de scolarisation ou d'insertion sociale : dyslexie, trouble de la mémoire et l’apprentissage, problèmes d’écriture, troubles du sommeil, dépression et manque de confiance en soi... Il n'est pas anodin d'être soumis sa vie durant à un régime restrictif perturbant la vie sociale.
+
+
+== Diagnostic ==
+
+Le diagnostic est souvent facile quand il y a des signes cliniques digestifs. En leur absence, le diagnostic est beaucoup plus complexe.
+Par rapport à celle de l'enfant, la maladie cœliaque de l'adulte présente quelques particularités : quand ils sont présents, les signes digestifs sont moins intenses (diarrhée modérée sans retentissement sur l'état général) ; les formes atypiques ou avec peu de symptômes sont plus fréquentes ; dans plus de la moitié des cas adultes, la maladie se révèle par des manifestations extradigestives,.
+D'une part, il est essentiel de ne pas méconnaître la maladie devant des manifestations digestives ou extradigestives qui, non traitées, pourraient entraîner de graves complications, telles qu'une dénutrition ou une atteinte neurologique.
+D'autre part, poser le diagnostic chez un patient aura pour lui des conséquences très importantes puisque cela impliquera la suppression totale et définitive du gluten dans l'alimentation, donc un régime très contraignant.
+Il est donc nécessaire tout à la fois d'évoquer facilement ce diagnostic devant des symptômes qui ne sont pas forcément typiques et évocateurs, mais aussi de recueillir suffisamment d'arguments pour être certain du diagnostic.
+Le diagnostic repose sur trois principaux critères : sérologie, histologie et efficacité de l'exclusion du gluten.
+
+
+=== Sérologie ===
+En première intention, il faut effectuer un dosage des anticorps IgA anti-transglutaminase dans le sang. Ce dosage est d'une grande sensibilité et spécificité. Il est utile pour le diagnostic et le suivi du régime sans gluten. Ce dosage est cependant moins sensible en cas de forme peu avancée de la maladie.
+Ces anticorps sont présents en cas de suspicion de maladie cœliaque et, s'ils sont positifs, le diagnostic devra être confirmé par une biopsie intestinale (jejunum), près de 10 % de faux-positifs ayant été décrits.
+La recherche d'anticorps anti-endomysium (contre la membrane conjonctive enveloppant chaque fibre musculaire striée, notamment celles des intestins, voir péristaltisme) est plus spécifique mais aussi plus chère et n'est faite qu'en cas d'un dosage litigieux des anticorps anti-transglutaminase. La recherche d'anticorps dirigés contre la gliadine déamidée peut être positive dans certaines maladies cœliaques sans anticorps anti-transglutaminase.
+La sensibilité de ces tests sérologiques peuvent être augmentée en cas de régime contenant du gluten.
+
+
+=== Biopsie duodénale ===
+
+Si la sérologie est positive, une endoscopie de l'intestin grêle avec biopsies sera pratiquée. La fibroscopie peut montrer des anomalies non spécifiques : aspect en mosaïque, plis raréfiés de la muqueuse…
+Même en cas de normalité de l'aspect, une confirmation doit être faite par biopsie de la muqueuse duodénale. Elle doit être multiple (4 à 6 échantillons) en raison d'une atteinte pouvant être partielle.
+Elle met en évidence une atrophie villositaire associée à une augmentation des lymphocytes intraépithéliaux, une hypertrophie des cryptes et une infiltration plasmolymphocytaire du chorion. Ces lésions sont évaluées selon la classification de Marsh, allant de I (simple augmentation isolée des lymphocytes intraépithéliaux) à IIIc (atrophie villositaire sévère).
+Chez l'enfant, si la sérologie ne fait pas équivoque, l'endoscopie peut être évitée.
+
+
+=== Autres examens ===
+Le typage HLA n'est pas fait de manière courante. Il peut être utile dans des cas douteux, car bien que peu spécifique (il ne permet pas d'affirmer le diagnostic de la maladie) il est suffisamment sensible pour permettre d'éliminer ce diagnostic.
+Un dépistage d'éventuelles complications et un bilan nutritionnel doivent être faits : hémogramme, dosage de la concentration sanguine en fer, en calcium, en acide folique, en vitamine B12, facteurs de la coagulation, bilan hépatique.
+Une ostéoporose (déminéralisation des os avec risque accru de fractures) doit être recherchée systématiquement.
+
+
+== Complications ==
+Jusqu'à un tiers des maladies cœliaques répondent de manière imparfaite au régime. Dans ce cas, il faut d'abord réévaluer soigneusement le diagnostic initial et, si le diagnostic est confirmé, chercher des entorses au régime prescrit. La principale cause de mauvaise réponse au régime est sa non-observance dans plus de 50 % des cas.
+Cependant, même en cas de régime fait de manière rigoureuse avec un diagnostic bien établi, 5 % des patients n'ont pas d'amélioration de leurs signes. On parle alors de « maladie cœliaque réfractaire » ou « sprue cœliaque réfractaire », cette résistance peut s'observer d'emblée ou secondairement.
+
+
+=== Formes réfractaires ===
+La forme réfractaire de type I ne présente pas d'anomalies lymphocytaires, et son pronostic approche celui de la maladie cœliaque non compliquée.
+En revanche, la forme de type II présente des anomalies (prolifération de lymphocytes dans l'épithélium digestif) avec un risque d'évolution possible vers un lymphome intestinal. Ce risque d'évolution est de 50 %, avec alors une survie à 5 ans d'environ 50 %.
+Le traitement de la sprue réfractaire n'est pas codifié. Il repose en pratique sur l'utilisation de corticoïdes, d'immunosuppresseurs (comme l'infliximab), et dans des cas de type II sur l'auto-greffe de moelle.
+
+
+=== Autres complications ===
+Un authentique lymphome non hodgkinien peut se développer sur une maladie cœliaque pourtant non réfractaire ou révéler une forme jusque là silencieuse. Localisé au niveau du tube digestif, mais pouvant survenir ailleurs, il se manifeste par une complication chirurgicale dans un cas sur deux (hémorragie, perforation ou occlusion intestinale).
+La maladie cœliaque est un facteur de risque classique de la survenue d'un cancer (adénocarcinome) de l'intestin grêle, maladie rare. Elle favorise également la survenue de cancers ORL et hépatiques.
+Il semble exister, par ailleurs, une majoration du risque de survenue d'une maladie cardiovasculaire, sans que la raison en soit claire.
+
+
+== Traitement ==
+La prise en charge de la maladie cœliaque a fait l'objet de la publication de plusieurs recommandations : celles de l'« American College of Gastroenterology » datent de 2013, celles de l’European Society for Pediatric Gastroenterology, Hepatology, and Nutrition de 2012.
+Le seul traitement consiste à suivre un régime strict excluant toute source de gluten dans l'alimentation, c'est-à-dire éviction de tous les aliments contenant blé, orge et seigle, substitués par maïs et riz. L'avoine, autrefois exclue, est désormais autorisée. Ce régime est contraignant, notamment en société, car difficile à suivre en collectivité ou au restaurant.
+En France, en 2010, ce régime coûte de 30 à 100 € par mois pour les produits de substitution (pâtes, pain, biscuits...), remboursés partiellement par la Sécurité sociale (environ 30 € par mois sur ordonnance et justificatifs) via une procédure particulière d'affection de longue durée.
+
+
+=== Régime ===
+Le régime doit être expliqué par un diététicien spécialisé, avec adhésion à une association de malades, pour obtenir conseils nécessaires et liste des produits sans gluten, y compris les excipients de médicaments qui en contiennent.
+Le gluten se trouve essentiellement dans les farines de céréales (blé, seigle, orge) et toutes les préparations ou produits alimentaires contenant ces farines sous forme d'ingrédient, même en très petite quantité (potage en sachets, sauce soja, bonbons, etc.). Le patient peut utiliser des produits estampillés « sans gluten ». Il peut consommer des aliments tels que le riz, le maïs (polenta, bramata), le sarrasin, le sorgho, l'amaranthe, le quinoa, le fonio, le baobab, et aussi des légumineuses (haricots, flageolets, lentilles, pois chiches, pois cassés, petits pois, azuki, soja vert (ou haricot mungo, c’est ce « soja » qu’on fait germer), soja jaune qui donne le tofu, le shoyu, etc.) et des tubercules (pommes de terre, tapioca / manioc, topinambour, rutabaga..), et les farines à base de ces aliments. On peut y ajouter la farine de châtaignes également.
+Par ailleurs, le patient n'est pas restreint pour la consommation de fruits et légumes, ainsi que celle de la viande, des poissons, des laitages (bien évidemment, la préparation ou transformation de ces produits doit exclure le gluten).
+Le régime sans gluten doit être préconisé à vie (il n'y a pratiquement jamais de régression de la maladie), en particulier chez l'adulte, car il prévient en partie le risque de la survenue de lymphome (cancer sanguin) et de complications osseuses.
+Des compléments vitaminiques, fer, folates, calcium... peuvent être prescrits en cas de carences., le plus souvent à la phase initiale (découverte) de la maladie. Chez l'enfant, l'allaitement prolongé pourrait avoir un effet protecteur qui reste imparfait. De même l'introduction du gluten entre 4 et 6 mois, en faibles quantités, durant l'allaitement maternel, aurait aussi un effet protecteur.
+La vaccination contre le pneumocoque est recommandé, le patient étant plus sensible à ce type d'infection.
+Une intolérance au lactose peut être associée lors du diagnostic de maladie cœliaque. Elle est directement liée à l'atrophie villositaire et réversible : lorsque la muqueuse intestinale se répare, la tolérance au lactose s'améliore dans la majorité des cas,. Il est déconseillé aux patients d'exclure d'eux-mêmes le lactose de leur alimentation sans en avoir d'abord discuté avec leur professionnel de santé, car cela pourrait réduire l'apport en calcium.
+
+
+=== Résultats ===
+Il faut contrôler l'efficacité du régime et le bon suivi par l'observation de l'amélioration clinique et biologique. Les signes cliniques sont améliorés après un à trois mois de régime. Les signes biologiques et osseux (déminéralisation) après un an.
+Après 6 à 24 mois de régime, on observe la régression des anomalies à la biopsie (atrophie villositaire) et la négativation des anticorps spécifiques,. La normalisation complète de la biopsie est cependant rare et il persiste fréquemment un infiltrat de lymphocytes dans les villosités.
+Poursuivi à vie, le régime permet de diviser par quatre le risque de complications osseuses, autres maladies auto-immunes et lymphomes.
+Cependant, même avec un régime bien suivi et un diagnostic bien établi et confirmé, près de 5 % des patients sont non répondeurs (voir section complications).
+
+
+== Pistes de recherche ==
+Des recherches ont montré que certaines bactéries du microbiote, comme la Rothia mucilaginosa, produisaient une enzyme, la Rothia subtilisine, capable de briser la protéine de gliadine,. On trouve en particulier, cette bactérie probiotique dans le natto japonais. Des recherches canadiennes, ont aussi mis en évidence la corrélation entre la carence en Elafine et l'intolérance, tandis qu'une équipe de l'Inserm travaille à la mise au point d'une bactérie probiotique génétiquement modifiée, permettant de suppléer à cette carence en élafine.
+Un traitement, basé sur l'absorption de l'enzyme, déficitaire dans la maladie, permettant de dégrader le gluten, et d'éviter le régime d'exclusion, est en cours de validation.
+Le larazotide empêche le passage de la gliadine à travers la muqueuse intestinale et pourrait ainsi améliorer les symptômes sans régime.
+
+
+== Troubles non cœliaques liés au gluten ==
+La maladie cœliaque ou intolérance au gluten, se distingue de l'allergie au gluten et de l'hypersensibilité au gluten (sensibilité non cœliaque au gluten).
+Des théories circulent sur internet quant à une responsabilité supposée du gluten dans d'autres maladies, comme l'autisme (recherche de dérivés du gluten dans les urines). Ces théories n'ont pas de fondement scientifique consensuel.
+
+
+=== Allergie au gluten ===
+C'est une allergie alimentaire dépendante de l'effort physique. Elle est aggravée par l'exercice physique qui facilite l'absorption intestinale des antigènes (épitopes de gliadine et gluténine).
+C'est une réaction d'hypersensibilité immédiate par l'intermédiaire des immunoglobulines E. Cette réaction allergique aiguë peut aller jusqu'au choc anaphylactique.
+
+
+=== Sensibilité non cœliaque au gluten ===
+
+Certains individus seraient atteints d'une « hypersensibilité au gluten » se manifestant par des troubles fonctionnels digestifs, similaires à la maladie cœliaque, et eux aussi améliorés par le régime sans gluten. Cependant on ne retrouve pas de réaction immunologique anormale vis-à-vis du gluten, ni de lésion intestinale, ce qui infirme le diagnostic de maladie cœliaque.
+Ceci a conduit certains médecins à créer une nouvelle entité clinique, la « sensibilité non cœliaque au gluten ». Le bien-fondé de cette association a été mis en doute par des travaux scientifiques en aveugle qui suggèrent que le gluten n'est pas responsable. Par ailleurs, un fort effet nocébo a été retrouvé. Les troubles digestifs seraient en fait dus à la présence de sucres fermentescibles (FODMAP) dans l'alimentation,,.
+Un important effet de mode « sans gluten » a suivi, soutenu par des best-sellers paramédicaux et un grand nombre de médias spécialisés, préconisant un régime sans gluten, même si aucune étude scientifique crédible n'a encore jamais attesté d'effet bénéfique pour la santé. Cependant cet effet de mode a multiplié le nombre de produits sans gluten, et de nombreux commerces en proposent maintenant, ce qui facilite la vie aux personnes atteintes de maladie cœliaque.
+
+
+== Notes et références ==
+
+
+== Bibliographie ==
+(en) Donald D. Kasarda, Celiac Disease, Cambridge University Press, 2000 (ISBN 0-521-40214-X), p. 1008-1022.
+
+
+== Liens externes ==
+Association française des intolérants au gluten
+DigestScience - Fondation de recherche médicale contre les pathologies digestives
+Association canadienne de la maladie cœliaque
+Société belge de la cœliaquie
+Coeliaque Québec (avant Fondation québécoise de la maladie cœliaque)
+Association suisse romande de la Cœliakie (ARC)
+
+ Portail de la médecine

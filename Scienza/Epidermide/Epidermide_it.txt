@@ -1,0 +1,128 @@
+L'epidermide (dal greco antico ἐπιδερμίς?, epidermìs, a sua volta da ἐπί, epì, "sopra" e δέρμα, dèrma, "pelle") è il più esterno dei due strati (insieme al derma) che compongono la pelle. Istologicamente è classificato come epitelio pavimentoso pluristratificato corneificato o cheratinizzato, essendo formato da cinque strati di cellule. 
+L'epidermide si rinnova completamente attraverso un processo di proliferazione e differenziazione che porta continuamente nuove cellule generate nello strato più profondo a migrare e trasformarsi attraversando gli strati sovrastanti fino ad essere disperse per desquamazione. Essendo completamente epiteliale non è vascolarizzata e il suo nutrimento dipende dalla diffusione di metaboliti ed ossigeno dallo strato più superficiale del derma. Presenta uno spessore che varia dai 50 μm a 1,5 mm, massimo nel palmo delle mani o nella pianta dei piedi, numerosi annessi cutanei e terminazioni nervose.
+L'elasticità e la plasticità dell'epidermide sono molto sensibili alle variazioni metaboliche o a brevi immobilizzazioni che la portano a diventare più atrofica, secca e a desquamarsi più facilmente.
+
+
+== Ruolo fisiologico ==
+In quanto componente della pelle condivide con essa numerosi ruoli fisiologici importanti:
+
+protezione tramite la cheratinizzazione, la pigmentazione, la produzione di un film idrolipidico cutaneo e il fatto di costituire una efficace barriera, che si rinnova continuamente, verso agenti patogeni, microbi e agenti chimici;
+termoregolazione
+produzione di vitamina D3.
+
+
+== Struttura ==
+L'epidermide è formata da 5 strati che corrispondono alle stesse cellule in momenti diversi del loro ciclo vitale. Tali cellule sono chiamate cheratinociti e passano dall'essere cellule viventi a sottili lamine di cheratina, presentando quindi via via uno stato di cheratinizzazione maggiore. L'epidermide è dunque soggetta ad un continuo turnover che dura circa 6 settimane. Gli strati, dal più profondo al più superficiale sono: strato basale, spinoso, granuloso, lucido e corneo.  
+
+
+=== Strato basale o germinativo ===
+Lo strato basale, detto anche germinativo, è lo strato più profondo dell'epidermide, composto da cellule staminali unipotenti cubiche o cilindriche separate dal sottostante derma da una membrana basale. Le cellule di questo strato si dividono per mitosi, dando origine a una cellula staminale unipotente e a una cellula destinata a differenziarsi in cheratinocita che sale allo strato spinoso per differenziarsi. Lo strato è formato da un'unica fila di cellule che si riproducono parallelamente alla superficie. 
+Queste cellule sono collegate tra loro da desmosomi e alla membrana basale da emidesmosomi. L'adesione con la lamina basale è mediata dall'integrina α6β4, mentre le adesioni sulla superficie apicale e laterale sono mediate dalle integrine α2β1 α3β1. Il citoplasma presenta della melanina che proviene dai melanociti circostanti e un citoscheletro organizzato in filamenti (tonofilamenti) orientati secondo l'asse maggiore e di filamenti di cheratina (presentanti la coppia di cheratine K5/K14) spessi circa 10 nm. Sono presenti melanociti.
+
+
+=== Strato malpighiano o spinoso ===
+Lo strato spinoso o spinoso del Malpighi è formato da 5-10 file di cellule poliedriche che tendono ad appiattirsi man mano che ci si avvicina allo strato superiore. Il citoplasma comincia a diventare acidofilo e le cellule si arricchiscono di tonofilamenti e filamenti di cheratina che si aggregano formando le tonofibrille. Presentano numerose estroflessioni, dette ponti citoplasmatici (o spine), che fanno assumere alle cellule l'aspetto spinoso (da cui deriva il nome dello strato stesso). Tali estroflessioni presentano numerosi desmosomi, che mettono le cellule in un rapporto di contiguità. Il passaggio di una cellula dallo strato basale a quello spinoso comporta quindi la sintesi di una diversa coppia di cheratine. Le integrine, espresse sull'intera membrana plasmatica, sono α2β1 e α3β1. Le cellule dello strato spinoso sintetizzano proteine come l'involucrina che tendono ad accumularsi sul versante citoplasmatico della membrana cellulare, costituendo l'involucro cellulare corneificato.
+Si osservano inoltre organelli ellissoidali scuri, di circa 0,3 x 0,7 µm, forniti di membrana plasmatica e con una caratteristica organizzazione interna a fitte lamelle concentriche, tali organuli sono detti melanosomi. Nei melanosomi maturi le lamelle sono difficilmente distinguibili, poiché sono ripieni di melanina. I melanosomi non si originano nei cheratinociti, ma nei melanociti (cellule dendritiche interposte tra i cheratinociti nello strato spinoso) e vi sono trasferiti successivamente assieme a una piccola porzione di citoplasma che si distacca da uno dei prolungamenti. Oltre ai melanosomi, sono presenti anche i corpi multilamellari, granuli propri dei cheratinociti del diametro di 0,2 µm, provvisti di membrana, dalla caratteristica organizzazione interna a lamelle chiare e scure alternate; essi contengono materiale lipidico che viene rilasciato nello spazio intercellulare del successivo strato granuloso, costituendo una barriera impermeabile. Lo strato spinoso presenta le cellule di Langerhans.
+
+
+=== Strato granuloso ===
+Lo strato granuloso, è formato di norma da 3-5 strati di cellule che però possono aumentare specialmente nelle regioni a forte cheratinizzazione come il palmo della mano o la pianta dei piedi. Intensamente basofile queste cellule hanno una forma piuttosto appiattita in grado di permettere una distinzione netta con lo strato sottostante. I nuclei sono alterati o assenti. La basofilia citoplasmatica è dovuta alla presenza di granuli di cheratoialina, privi di membrana, contenenti la proteina filaggrina, la cui funzione è quella di aggregare in fasci spessi le tonofibrille. Questi granuli potrebbero contenere anche loricrina che assieme alla precedente contribuisce a formare l'involucro interno corneificato. Sono presenti anche i MCG (membrane coating granule) che versano il loro contenuto cementante e impermeabilizzante all'esterno delle cellule. Lo strato granuloso rappresenta l'ultimo strato di cellule vive.
+
+
+=== Strato lucido ===
+Lo strato lucido presenta 1-3 file di cellule ricche di eleidina, una sostanza contenente zolfo, glicogeno e lipidi. Le cellule appaiono translucide. Questo strato non è sempre evidenziabile, ed è più facilmente riscontrabile nell'epidermide del palmo delle mani e della pianta dei piedi, essendo troppo sottile e poco colorabile per essere visualizzato al microscopio ottico in altre sedi, oppure occultato dai melanociti.
+
+
+=== Strato corneo ===
+Lo strato corneo, variabile da pochi strati a centinaia di strati (ad esempio nelle regioni del palmo della mano e della pianta del piede) di elementi cellulari morti, privi di nucleo, molto appiattiti, completamente cheratinizzati e contenenti una bassissima percentuale di acqua. Sono disposti in due strati: uno strato corneo compatto più profondo dove i desmosomi sono ancora attivi e tengono le cellule unite ed uno strato corneo disgiunto più superficiale dove comincia lo sfaldamento e la formazione di lacune. Lo spazio intercellulare è occupato dai lipidi liberati dai cheratinosomi dello strato spinoso, rappresentati prevalentemente da idrossiceramide.  Queste cellule vengono talvolta definite con il nome di lamelle cornee o, più impropriamente, corneociti. Contengono tonofilamenti di cheratina inclusi in una matrice derivata dalla trasformazione di cheratoialina e eleidina. 
+Le membrane cellulari sono molto ispessite a causa della presenza di uno sviluppato involucro cellulare corneificato costituito principalmente dalle proteine involucrina, filaggrina e loricrina. L'idrossiceramide, legata covalentemente alla membrana cellulare dei cheratinociti, ha funzione idrorepellente, ostacolando l'evaporazione, nonché aumentando l'impermeabilità dell'epidermide. Il materiale eleidinico cementante (prodotto dagli strati più profondi), il sebo e la componente acquosa del sudore producono nell'insieme il film idrolipidico cutaneo, un'emulsione protettiva lievemente acida con funzione di battericida. In questo strato sono presenti un gran numero di composti a basso peso molecolare (definiti come fattore naturale di idratazione, NMF), specialmente amminoacidi liberi, derivanti dalla degradazione di filaggrina, acido pirolidoncarbossilico (PCA). I sali di quest'ultimo sono particolarmente igroscopici.
+
+
+== Tipi cellulari presenti ==
+I cheratinociti, sebbene costituiscano la gran parte delle cellule epidermiche, non sono le uniche presenti in questo epitelio.
+
+
+=== Cheratinociti ===
+
+I cheratinociti costituiscono la maggior parte dell'epidermide e durante il loro ciclo vitale danno luogo a diversi stati che si concretizzano negli strati epidermici sopradescritti. Nascono nello strato basale da cellule staminali unipotenti e vanno incontro ad una citomorfosi cornea durante la loro ascesa alla superficie trasformandosi in lamine di cheratina che poi andranno sfaldandosi. I cheratinociti impiegano circa due settimane ad arrivare allo strato corneo e altre due per staccarsi dalla cute.
+
+
+=== Melanociti ===
+
+I melanociti sono le cellule più numerose dopo i cheratinociti essendo circa un quarto delle cellule basali. Si distribuiscono nello strato basale non casualmente: sono presenti unità epidermico-melaniche costituite da un melanocita circondato da 36 cheratinociti basali. Sono cellule dendritiche derivanti dalla cresta neurale da cui poi si distaccano per migrare nell'epidermide tra il III e il V mese della vita embrionale. Possiedono un corpo cellulare piuttosto voluminoso provvisto di prolungamenti che si insinuano negli spazi intercellulari dello strato basale e dello strato spinoso. A differenza dei cheratinociti non possiedono desmosomi e non contengono tonofilamenti, contengono invece gli organuli detti melanosomi, ripieni di melanina, che trasferiscono ai cheratinociti, i quali li fagocitano. La presenza dei melanosomi all'interno dei cheratinociti determina il colore della pelle. 
+
+
+=== Cellule di Langerhans ===
+
+Le cellule di Langerhans sono cellule dendritiche o stellate, con lunghi prolungamenti che si insinuano tra gli spazi intercellulari delle cellule dello strato spinoso, quasi a formare una rete. In ematossilina-eosina possiedono un nucleo dalle intense proprietà basofile e un citoplasma poco colorabile. Fanno parte del sistema dei monociti-macrofagi, possiedono infatti caratteristiche comuni come recettori per le immunoglobuline o per il sistema del complemento, ma si differenziano dai macrofagi per la scarsa capacità fagocitaria. Fanno inoltre parte delle APC (Antigen-Presenting Cells), cioè delle cellule capaci di riconoscere, processare e esporre gli antigeni sulle molecole MHC-II. Secernono inoltre interleuchina-1 (IL-1). Un'altra varietà di cellule dendritiche, le cellule di Granstein, presentano invece l'antigene ai linfociti T-soppressori.
+
+
+=== Cellule di Merkel ===
+
+Le cellule di Merkel o corpuscoli di Merkel sono grosse cellule tondeggianti che assumono contatti sinaptici con le terminazioni nervose afferenti che le circondano, determinando un'unità recettoriale sensitiva intraepidermica. Nel citoplasma presentano vescicole elettrondense ripiene di mediatori chimici come la metencefalina e il VIP (vasoactive intestinal peptide). Si trovano spesso raggruppati in formazioni denominate dischi tattili di Merkel (o in modo più arcaico terminazioni ederiformi). Si trovano nello strato basale dell'epidermide e funzionano come meccanorecettori sentendo variazioni di pressione esercitate sulla pelle.
+
+
+== Omeostasi ==
+L'equilibrio tra proliferazione, differenziazione e desquamazione fa sì che il numero di cellule e lo spessore dell'epidermide si mantenga relativamente costante.
+I fattori e meccanismi che regolano il tempo in cui l'intera epidermide si rinnova completamente, da pochi giorni nei casi di psoriasi a 39-56 giorni nella pelle normalesono vari e complessi.
+Nella pelle normale la produzione di nuovi cheratinociti compensa la perdita per desquamazione.
+La migrazione dallo strato basale allo strato granuloso richiede approssimativamente 2 settimane, mentre il passaggio dallo strato granuloso alla desquamazione richiede circa 4 settimane.
+L'omeostasi epidermica è regolata da integrine, fattori di crescita, equilibrio tra proteasi e antiproteasi, citochine, retinoidi, ione calcio, vitamina D, poliammine ecc.La proliferazione dei cheratinociti dipende dall'attività e mitosi di cellule staminali residenti non solo nello strato basale.
+. Questa attività proliferativa è fondamentale per la continua rigenerazione dello strato corneo, la regolazione della produzione di sebo, la crescita e ricrescita dei peli oltre che nei meccanismi di riparazione e rigenerazione delle ferite.
+La differenziazione dei cheratinociti appare invece correlata a specifici fattori chimico fisici.
+
+
+=== Gradienti ===
+Tra gli strati più superficiali e quelli più profondi l'epidermide varia sensibilmente la sua idratazione, il suo pH oltre che la temperatura, struttura e composizione.
+L'idratazione che cala bruscamente nello strato corneo, negli strati sottostanti è indispensabile per consentire alcune delle reazioni biochimiche, in particolare enzimatiche.
+L'alta concentrazione di sostanze igroscopiche a basso peso molecolare nello strato corneo, il fattore naturale di idratazione influenza la desquamazione dei corneociti più superficiali. 
+Il pH da sostanzialmente neutro diventa leggermente acido, 4,5-5,5. La combinazione di idratazione e acidificazione contribuiscono a reazioni di idrolisi e proteolisi fondamentali nelle diverse fasi di differenziazione dei cheratinociti.
+Il gradiente dello ione Ca++ che cresce sensibilmente dallo strato basale allo strato granuloso per poi tornare a calare nello strato corneo risulta correlato alla differenziazione dei corneociti nei diversi strati.
+Alcune ricerche individuano anche in altri ioni, Mg+ e K+ , una correlazione con diverse fasi della differenziazione dei corneociti.
+
+
+== Annessi cutanei ==
+
+Sono da considerarsi annessi all'epidermide i peli e le unghie, mentre derivano da essa le ghiandole sudoripare (la parte distale del dotto attraversa l'epidermide) e le ghiandole sebacee. L'epidermide partecipa alla formazione di tali annessi e ospita parti di essi.
+
+
+== Botanica ==
+In botanica con epidermide si intende un tessuto tegumentale primario esterno. Deriva dal meristema primario del fusto, in particolare dalla tunica. Riveste la parte aerea del corpo primario della pianta ed è solitamente monostratificata (può essere pluristratificata nelle xerofite). È caratterizzata dalla mancanza di spazi intercellulari, dall'assenza di cloroplasti
+e dalla presenza di annessi come gli stomi e i peli.
+Le principali funzioni dell'epidermide sono:
+
+protezione contro la perdita di acqua.
+protezione contro altri fattori abiotici come i raggi UV.
+protezione contro fattori biotici come l'ingresso di patogeni batterici e fungini.
+funzioni di relazione (messaggi vessilliferi e disseminazione di frutti).
+funzioni di assorbimento (acqua e sali minerali, concimazioni fogliari, danni da piogge acide).
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Anastasi et al., Trattato di anatomia umana, volume I, Milano, Edi.Ermes, 2012, ISBN 978-88-7051-285-4.
+(EN) Douglas M. Anderson, A. Elliot Michelle, Mosby's Medical, Nursing, & Allied Health Dictionary, 6ª ed., New York, Piccin, 2004, ISBN 88-299-1716-8.
+
+
+== Voci correlate ==
+Derma
+Ipoderma
+Pelle
+Perdita di acqua transepidermica
+Idratazione cutanea
+Fattore naturale di idratazione
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «epidermide»
+ Wikimedia Commons contiene immagini o altri file su epidermide
+
+
+== Collegamenti esterni ==
+
+ epidermide, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+(EN) epidermis, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Epidermide, in Treccani.it – Enciclopedie on line, Roma, Istituto dell'Enciclopedia Italiana.

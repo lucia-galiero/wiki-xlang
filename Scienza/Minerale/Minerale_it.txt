@@ -1,0 +1,191 @@
+I minerali (dal latino medievale minerale, derivato del francese antico minière, "miniera") sono corpi inorganici e naturali, caratterizzati da un elevato ordinamento a scala atomica ed una composizione chimica ben definita (ma non fissa) o variabile in un campo ristretto; essi costituiscono la crosta terrestre e altri corpi celesti. Sono tutti solidi (eccetto il mercurio nativo).
+
+
+== Definizione nelle scienze della Terra (Biologia) ==
+Una definizione più moderna e corretta di minerale, che rispetti gli standard dell’IMA (International Mineralogical Association) è « sostanza solida con una composizione chimica definita (ma non fissa), solitamente cristallina, che si origina al seguito di un processo geologico (naturale)».
+Per composizione chimica definita, ma non fissa si intende che la composizione chimica può variare entro certi limiti purché i rapporti stechiometrici restino fissi e invariati.
+La definizione generale di minerale come “solido inorganico cristallino” è valida per la stragrande maggioranza dei minerali, ma presenta alcune inesattezze, se estesa alla totalità dei minerali presenti in natura. In quanto:
+
+Non tutti i minerali sono solidi
+Il mercurio nativo e il ghiaccio ad esempio sono liquidi a temperatura ambiente. Il mercurio nativo si presenta allo stato solido a circa -39 °C, in cristalli solitamente romboedrici, mentre l’acqua solidifica diventando ghiaccio (minerale) a temperature di circa 0 °C.
+
+Non tutti i minerali sono inorganici
+Minerali infatti come l’urea, l'ambra, il copale e la dinite appartengono alla classe dei composti organici.
+
+Non tutti i minerali hanno una struttura cristallina
+Alcuni minerali presentano una struttura amorfa come l’opale, l'ambra, la santabarberite e altri.
+Un aspetto di fondamentale importanza è che si può considerare una sostanza come minerale solo se si è formata da un processo geologico. Nel caso della sintesi in laboratorio, la sostanza ottenuta sarà considerata sintetica e potrà essere definita come minerale solamente se esiste un suo equivalente nel mondo naturale, specificando ovviamente la dicitura sintetica.
+
+
+== Descrizione ==
+Hanno proprietà chimiche costanti, che permettono di identificarli e distinguerli gli uni dagli altri. In ambito storico, con l'espressione regno minerale si indicava l'insieme degli oggetti inanimati, prevalentemente minerali e rocce, in base al Systema Naturae di Linneo.
+Ciascun tipo distinto di minerale è noto anche come specie minerale. 
+I minerali si distinguono in base a varie proprietà chimiche e fisiche. Le differenze nella composizione chimica e nella struttura chimica distinguono le varie specie, che furono determinate dall'ambiente geologico del minerale quando si formò. I cambiamenti nella temperatura, nella pressione o nella composizione complessiva di una massa rocciosa possono causare cambiamenti nei suoi minerali. All'interno di una specie minerale ci possono essere variazioni delle proprietà fisiche o quantità minori di impurità che sono riconosciute dai mineralogisti o da un pubblico più ampio come una varietà minerale, ad esempio l'ametista, una varietà purpurea della specie minerale quarzo.
+Per quanto riguarda la classificazione dei minerali in base alle loro varie proprietà fisiche, queste sono legate alla loro struttura e composizione chimica. Caratteristiche distintive comuni includono la struttura e l'abito cristallino, la durezza, la lucentezza, la diafanità, il colore, lo striscio, la tenacità, sfaldatura, frattura, fissilità, gravità specifica, magnetismo, odore o gusto, radioattività e reazione agli acidi.
+Dal punto di vista chimico, i minerali sono classificati in base ai principali costituenti; i due sistemi dominanti sono la classificazione Dana e la classificazione Strunz. Poiché il silicio e l'ossigeno costituiscono approssimativamente il 75% della crosta terrestre, sulla Terra vi è una netta predominanza dei minerali silicati, che compongono oltre il 90% della crosta terrestre. 
+Un minerale può essere costituito da un solo elemento chimico, come l'oro (Au), oppure da uno o più elementi legati assieme in un composto chimico semplice, come ad esempio il quarzo (SiO2), da molecole di formula complessa, spesso comprensiva di molecole di acqua di cristallizzazione, come l'idrobasalluminite Al4(SO4)(OH)10·12-36(H2O), o più complessa ancora. Il termine minerale implica non soltanto la composizione chimica, ma anche la struttura cristallina del materiale.
+La composizione dei minerali varia quindi dai semplici elementi chimici a sali fino ad arrivare a silicati molto complessi, mentre la maggior parte dei composti organici sono solitamente esclusi, ed enumera migliaia di forme conosciute. Lo studio dei minerali è detto mineralogia.
+Possono essere di molte varietà di colore dall'opaco al vitreo da unicolore a pluricolore e sono consigliati in ambito scolastico o di collezionismo.
+
+
+=== Definizione ===
+La definizione di minerale segue alcuni criteri molto precisi. Il minerale è un corpo cristallino, con composizione chimica definita o variabile in campo ristretto. Sono caratterizzati dall'avere una ben precisa struttura cristallina. A livello atomico i minerali cristallini possiedono un reticolo cristallino formato dalla ripetizione di una struttura geometrica detta cella elementare.
+Un cristallo è un corpo solido a facce piane riconducibile a una determinata figura geometrica. La struttura si riferisce alla disposizione spaziale ordinata a lungo raggio degli atomi nella loro struttura molecolare.
+Esistono 32 disposizioni di base degli atomi nelle tre dimensioni e tutti i cristalli conosciuti rientrano in una di queste 32 disposizioni. Alcuni minerali possedevano in origine una struttura cristallina che in seguito è stata distrutta dalle radiazioni, questi ultimi sono detti minerali metamittici.
+Alcuni minerali inoltre presentano il fenomeno dell'isomorfismo, cioè può verificarsi che due o più minerali presentino identica struttura cristallina e diversa composizione chimica. Sia la composizione chimica che la struttura cristallina concorrono a definire un minerale. Due o più minerali possono avere la stessa composizione ma differente struttura cristallina (sono detti polimorfi). Per esempio, la pirite e la marcasite sono entrambi solfuri di ferro. Analogamente, alcuni minerali hanno differente composizione chimica ma stessa struttura cristallina (sono detti isomorfi): halite (composta da sodio e cloro), galena (solfuro di piombo - composta da piombo e zolfo) e periclasio (composto da magnesio ed ossigeno) hanno tutti la stessa struttura cristallina cubica.
+La struttura cristallina influenza notevolmente le proprietà fisiche di un minerale. Per esempio, diamante e grafite hanno la medesima composizione chimica ma le loro differenti strutture cristalline rendono la grafite molto tenera ed il diamante molto duro (è il materiale più duro conosciuto).
+Per essere classificata come minerale, una sostanza dev'essere solida ed avere una struttura cristallina. Dev'essere anche un corpo solido omogeneo di origine naturale con una composizione chimica ben definita. Alcune sostanze che non rientrano strettamente nella definizione, sono classificate come mineraloidi. Esempi classici di eccezioni a questa regola includono il mercurio nativo, che cristallizza a −39 °C, e il ghiaccio acqueo, che è solido solo sotto 0 °C; poiché questi due minerali furono descritti prima del 1959, essi furono adottati dall'Associazione Mineralogica Internazionale (IMA).
+A maggio 2023 vi sono più di 6.100 specie minerali conosciute; 5.900 di queste sono state approvate dall'Associazione Mineralogica Internazionale (International Mineralogical Association, IMA), responsabile dell'approvazione e della denominazione di nuove specie rinvenute in natura.
+
+
+=== Minerali, rocce e gemme ===
+
+Minerale e roccia sono termini che indicano materiali ben distinti fra loro.
+
+Un minerale è un composto chimico che si trova in natura, che ha una ben determinata composizione ed una struttura cristallina ben definita. Un cristallo è un corpo solido a facce piane riconducibile a una determinata figura geometrica. Come ricordato sopra, a maggio 2023 sono noti 5.900 tipi di minerali (ogni anno se ne scoprono circa 50 grazie al progresso tecnologico), classificati in 3 gruppi a loro volta suddivisi in 7 sistemi comprendenti ciascuno 32 classi.
+Una roccia è un miscuglio di una (raramente) o più specie minerali e di altre sostanze non cristalline (mineraloidi) in diverse proporzioni e pertanto, diversamente da un minerale, la composizione chimica di una roccia non è esprimibile con una formula chimica. Alcune rocce, come il calcare o la quarzite, sono composte principalmente da un solo minerale, calcite o aragonite nel caso del calcare, e quarzo nel secondo caso. Altre rocce possono esse definite dalle abbondanze relative dei minerali chiave (essenziali); un granito è definito dalle proporzioni di quarzo, feldspato alcalino e feldspato plagioclasico.
+La diffusione dei minerali è molto varia: un certo numero di specie minerali (come il quarzo, la mica e l'ortoclasio) sono alla base della composizione di numerose rocce e, pertanto, estremamente diffusi nella crosta terrestre. Gran parte dei minerali sono silicati. Nel complesso, circa 150 minerali sono considerati particolarmente importanti, sia in termini della loro abbondanza o valore estetico in termini di collezionismo.
+Molte specie minerali sono viceversa accessorie, ossia non necessariamente presenti nelle rocce che tipicamente li ospitano. Queste specie sono pertanto meno frequenti delle prime (se non decisamente rare).
+Oltre a questo, numerose specie minerali sono presenti solo occasionalmente e, in certi casi, di talune specie sono stati rinvenuti pochi campioni e di dimensioni ridotte.
+I minerali e le rocce di valore commerciale sono denominati minerali industriali. Ad esempio, la muscovite, una mica bianca, si può usare come materiale per finestre (a volte chiamato isinglass), come riempitivo o come isolante. I minerali grezzi sono minerali che hanno un'alta concentrazione di un certo elemento, tipicamente un metallo. Esempi sono il cinabro (HgS), un minerale grezzo del mercurio, la sfalerite (ZnS), un minerale grezzo dello zinco, o la cassiterite (SnO2), un minerale grezzo dello stagno. Le gemme sono minerali con un valore ornamentale, e si distinguono dalle non gemme per la loro bellezza, durabilità e, solitamente, rarità. Ci sono circa 20 specie minerali che si qualificano come minerali gemme, che costituiscono circa il 35% delle gemme comuni. I minerali gemme sono spesso presenti in parecchie varietà, e così un unico minerale può dare luogo a diverse gemme; per esempio, rubino e zaffiro sono entrambi corindone, Al2O3.
+Modalità di cristallizzazione: 
+
+Per solidificazione in seguito a raffreddamento di materiali puri, come nel caso del magma o lava;
+Per precipitazione e evaporazione da sostanze disciolte in acqua, per sovrasaturazione (raffreddamento) ad es. stalattiti/stalagmiti o per evaporazione del solvente (riscaldamento) ad es. saline;
+Per brinamento (da gas a solido) da vapori ad es. vapori di zolfo;
+Per sublimazione da vapori caldi;
+Per attività biologica;
+Per trasformazioni solido - solido determinate dal mutare delle condizioni fisiche di equilibrio (pressione e temperatura principalmente) in cui un minerale si trova (es. pirosseno - granato).
+
+
+=== Proprietà fisiche dei minerali ===
+
+La classificazione di una specie minerale fra le circa 5.900 conosciute può essere molto semplice (per circa 300 specie) ma può anche essere molto difficoltosa per le specie più rare. Un minerale può essere identificato mediante alcune proprietà fisiche e chimiche, alcune di esse possono essere sufficienti per arrivare ad un'identificazione sicura, in altri casi si rende necessario ricorrere ad analisi più approfondite (analisi chimica, diffrazione ai raggi X) costose e col rischio di danneggiare l'esemplare.
+Le proprietà fisiche più utilizzate per l'identificazione sono:
+
+Durezza: la durezza di un minerale è misurata dalla capacità di un minerale di scalfire o essere scalfito da altri minerali e si misura solitamente secondo la scala di Mohs di durezza dei minerali, con valori crescenti da 1 (talco) a 10 (diamante).
+Lucentezza: indica il modo in cui la superficie del minerale interagisce con la luce e può variare da opaca a vetrosa. Si divide in lucentezza metallica (tipica delle sostanze che assorbono totalmente la luce e risultano opache) e lucentezza non metallica (tipica dei corpi più o meno trasparenti).
+Colore: indica l'aspetto del minerale in luce riflessa (ciò che vede l'occhio nudo). Il colore di un minerale può dipendere esclusivamente dalla sua composizione chimica (come nel caso dei minerali idiocromatici), oppure dalla presenza di impurità (come nel caso dei minerali allocromatici). Il colore, facile da individuare, in molti casi non è diagnostico per il riconoscimento poiché la stessa specie mineralogica può presentare differenti colorazioni.
+Peso specifico dei minerali: quasi tutti i minerali hanno peso specifico superiore a 1 (quello dell'acqua). I minerali più comuni come quarzo, calcite e feldspato hanno un peso specifico variabile fra 2,65 e 2,76. I minerali ricchi in elementi metallici hanno peso specifico uguale o superiore a 5. La galena ha peso specifico superiore a 7 e l'oro puro maggiore di 19.
+Birifrangenza: proprietà ottica, evidenziabile in luce trasmessa, ossia interponendo il minerale tra la fonte luminosa e l'osservatore. Attraverso un cristallo con proprietà birifrangenti è possibile osservare gli oggetti con contorni sdoppiati (classico esempio è la calcite).
+Sfaldatura: descrive il modo in cui alcuni minerali si sfaldano. Nella sfaldatura un minerale si frammenta in parti più piccole, lungo alcuni piani preferenziali di cristallizzazione, mantenendo costanti i valori angolari tra le diverse facce dei frammenti, in altri termini l'aspetto esterno cristallino si mantiene anche nei frammenti più minuti. Nelle sezioni sottili, la sfaldatura è visibile sotto forma di famiglie di linee sottili, parallele entro la singola famiglia, ed intersecantisi ad angoli costanti, attraverso il minerale.
+Frattura: descrive il modo in cui alcuni minerali si rompono senza seguire i piani di sfaldatura. Solitamente le superfici di fratturazione non sono piane, ma hanno una morfologia irregolare, presentandosi a forma concoidale, irregolare, fibrosa.
+Densità: è la massa del minerale, relativa ad 1 cm³ di volume. Viene misurata con l'ausilio di una bilancia di precisione e di un picnometro.
+Conducibilità: consiste nel verificare se il minerale è un buon conduttore elettrico.
+Altre proprietà: diversi tipi di luminescenza (come la fluorescenza in risposta ai raggi ultravioletti, la fosforescenza e la triboluminescenza), magnetismo e paramagnetismo, radioattività, malleabilità (risposta ai cambiamenti di forma dovuti ad azione meccanica).
+Queste ultime caratteristiche sono tuttavia difficilmente utilizzabili come strumenti diagnostici.
+Determinate specie minerali possono infine presentare un aspetto molto particolare dovuto a peculiari effetti ottici.
+
+
+== Classificazione ==
+
+I minerali sono classificati per varietà, specie, serie e gruppo, in ordine di generalità crescente. Il livello basilare di definizione è quello delle specie minerali, ciascuna delle quali si distingue dalle altre in base a proprietà chimiche e fisiche uniche. Ad esempio, il quarzo è definito dalla sua formula, SiO2, e da una specifica struttura cristallina che lo distingue da altri minerali con la stessa formula chimica (denominati polimorfi). Quando esiste un intervallo di composizione tra due specie minerali, si definisce una serie di minerali. Per esempio, la serie della biotite è rappresentata da quantità variabili dei termini estremi flogopite, siderofillite, annite ed eastonite. In contrasto, un gruppo di minerali è un raggruppamento di specie minerali con alcune proprietà chimiche comuni, che condividono una struttura cristallina. Il gruppo dei pirosseni ha una formula comune di XY(Si,Al)2O6, dove X e Y sono entrambi cationi, con X tipicamente più grande di Y; i pirosseni sono silicati a catena singola che cristallizzano o nel sistema cristallino ortorombico o in quello monoclino. Infine, una varietà di minerali è un tipo specifico di specie minerali che differisce per alcune caratteristiche fisiche, come il colore o l'abito cistallino.
+Qui di seguito, i minerali sono suddivisi in gruppi, e quindi secondo la composizione chimica; i gruppi sono poi ordinati in base alla loro abbondanza nella crosta terrestre. Poiché la composizione di quest'ultima è dominata da silicio e ossigeno, come già ricordato nella parte introduttiva della presente voce, gli elementi silicati sono di lunga la più importante classe di minerali, costituendo più del 95% delle rocce e oltre il 90% della crosta terrestre. Del resto, oltre a silicio e ossigeno, gli altri elementi comuni nei minerali silicati sono anch'essi assai diffusi nella crosta terrestre, come alluminio, magnesio, ferro, calcio, sodio e potassio.
+Tuttavia, i minerali non silicati sono di grande importanza economica, specialmente come minerali grezzi. Essi sono suddivisi in varie altre classi dalla loro chimica dominante, che include, elementi nativi, solfuri, alogenuri, ossidi e idrossidi, carbonati e nitrati, borati, solfati, fosfati e composti organici. La maggior parte delle specie minerali non silicate sono rare (costituendo in totale l'8% della crosta terrestre), sebbene alcune siano relativamente comuni, come calcite, pirite, magnetite ed ematite. Ci sono due stili strutturali prevalenti osservati nei non silicati: impacchettamento compatto e tetraedri con legame simili ai silicati. Le strutture a impacchettamento compatto, che è un modo per impacchettare densamente gli atomi pur minimizzando lo spazio interstiziale. L'impacchettamento compatto esagonale comporta l'impilamento di strati in cui ogni altro strato è lo stesso ("ababab"), mentre l'impacchettamento compatto cubico comporta l'impilamento di gruppi di tre strati ("abcabcabc"). Gli analoghi dei tetraedri con i legami di silice includono SO4 (solfato), PO4 (fosfato), AsO4 (arsenato) e VO4 (vanadato). I non silicati hanno grande importanza economica, in quanto concentrano elementi più di quanto facciano i minerali silicati.
+
+
+=== Silicati ===
+
+Il gruppo di gran lunga più numeroso è quello dei silicati, composti in cui è presente il gruppo [SiO4]4-, che ha la forma di un tetraedro. Nella grande maggioranza dei casi, il silicio è in coordinamento quadruplo o tetraedrico con l'ossigeno. In condizioni di altissima pressione, il coordinamento del silicio sarà sestuplo od ottaedrico, come nelle perovskiti o nel polimorfo quarzico della stishovite (SiO2). In quest'ultimo caso il minerale non ha più la struttura di un silicato, ma quella del rutilo (TiO2) e del gruppo ad esso associato, che sono semplici ossidi. Questi tetraedri di silice sono poi polimerizzati in una certa misura per creare varie strutture, come catene unidimensionali, lamine bidimensionali e telai tridimensionali. Il minerale silicato basilare in cui non è avvenuta alcuna polimerizzazione richiede altri elementi per bilanciare la carica 4- di base. In altre strutture silicate, occorrono diverse combinazioni di elementi per ribilanciare la carica negativa risultante. Spesso il silicio è sostituito dall'alluminio [AlO4]5- (vicarianza sostituzionale per dimensione), per cui spesso si parla di allumosilicati. In quei casi, i tetraedri [AlO4]5- formano le stesse strutture dei tetraedri non sostituiti, ma i loro requisiti per il bilanciamento delle cariche sono diversi. Alcuni importanti silicati, che entrano anche nella composizione di molte rocce, sono: feldspati, pirosseni, granati e miche. La classificazione dei silicati va fatta analizzando la disposizione dei tetraedri SiO4. I silicati tendono a essere duri, da trasparenti a traslucidi e di peso specifico medio.
+Il grado di polimerizzazione può essere descritto sia dalla struttura formata sia da quanti angoli del tetraedo (o atomi di ossigeno coordinati) sono condivisi (con l'alluminio e il silicio nei siti tetraedrici). Gli ortosilicati (o nesosilicati) non hanno legami tra poliedri, perciò i tetraedri non condividono angoli. I disilicati (o sorosilicati) hanno due tetraedri che condividono un atomo di ossigeno. Gli inosilicati sono silicati a catena; i silicati a catena singola hanno due angoli condivisi, mentre i silicati a catena doppia hanno due o tre angoli condivisi. Nei fillosilicati, si forma una struttura laminare che richiede tre atomi di ossigeno condivisi; nel caso dei silicati a catena doppia, alcuni tetraedri devono condividere due angli invece di tre perché altrimenti si produrrebbe come risultato una struttura laminare. Per i silicati con telai, o tectosilicati, hanno tetraedri che condividono tutti e quattro gli angoli. I silicati ad anello, o ciclosilicati, è sufficiente che i tetraedri condividano solo due angoli per formare la struttura ciclica.
+
+
+=== Carbonati ===
+I carbonati sono quei minerali contenenti l'anione (CO3)2-. Essi tendono ad essere fragili, molti hanno sfaldatura romboedrica e reagiscono tutti con l'acido. A causa di quest'ultima caratteristica, i geologi sul campo spesso diluiscono l'acido cloridrico per distinguere i carbonati dai non carbonati. La reazione dell'acido con i carbonati si collega alla dissoluzione e precipitazione del minerale, che svolge un ruolo chiave nella formazione delle rocce. I carbonati sono formati per lo più dalle conchiglie del plancton depositatesi sul fondo marino, ma si trovano anche negli ambienti sottoposti a forte evaporazione (per esempio il Gran Lago Salato dello Utah) o nelle regioni carsiche dove lo scioglimento ed il rideposito dei carbonati porta alla formazione di grotte, stalattiti e stalagmiti. Il gruppo carbonato è strutturalmente un triangolo, dove un catione centrale C4+ è circondato da tre anioni O2−; i diversi gruppi di minerali si formano dalle diverse disposizioni di questi triangolo. Il minerale carbonato più comune è la calcite (CaCO3), che può, in presenza di elevate concentrazioni di magnesio, formare invece il suo polimorfo aragonite; entrambe sono formate da carbonato di calcio e costituenti essenziali dei fondali marini. La dolomite è un doppio carbonato, con la formula CaMg(CO3)2. La dolomitizzazione secondaria del calcare è comune, quando la calcite o l'aragonite sono trasformate in dolomite. Queste due specie minerali sono membri dei gruppi minerali eponimi, quello della calcite (formula generale XCO3) e quello della dolomite (formula generale XY(CO3)2).
+
+
+=== Solfati (Minerali) ===
+
+I solfati contengono l'anione solfato (SO4)2-. Essi tendono ad essere da trasparenti a traslucidi, teneri, e molti sono fragili. I solfati si formano comunemente come evaporiti, negli ambienti di evaporazione dove acque molto saline evaporano lentamente permettendo la formazione di solfati e alogenuri sulla superficie dei sedimenti; alternativamente, i solfati si possono trovare nei sistemi di condotti idrotermali associati ai solfiti, o come prodotti di ossidazione dei solfiti. I solfati possono essere suddivisi in minerali anidri e idrati. Il solfato idrato di gran lunga più comune è il gesso (solfato di calcio idrato, CaSO4⋅2H2O). L'equivalente anidro del gesso è l'anidrite (solfato di calcio, CaSO4). Altri solfati da ricordare sono quelli del gruppo della barite, che ha la formula generale XSO4: gli esempi includono la barite (solfato di bario, BaSO4), la celestina (solfato di stronzio, SrSO4) e l'anglesite (solfato di piombo, PbSO4).
+
+
+=== Alogenuri ===
+Gli alogenuri sono il gruppo di minerali nei quali alogeno (fluoro, cloro, iodio e bromuro) è l'anione principale. Acquistando elettroni essi formano i sali naturali e tendono ad essere teneri, deboli e idrosolubili. Comprendono la fluorite (CaF2), il sale comune (conosciuto come halite o salgemma, NaCl) ed il sale di ammonio (cloruro d'ammonio, NH4Cl). Gli alogenuri, come i solfati, si trovano frequentemente negli ambienti sottoposti a forte evaporazione come il Mar Rosso. Ad esempio, l'halite e la silvite (cloruro di potassio, KCl) si formano comunumente come evaporiti, e possono essere i minerali dominanti nelle rocce sedimentarie chimiche. La criolite (esafluoroalluminato di trisodio, Na3AlF6), è un minerale chiave nell'estrazione dell'alluminio dalle bauxiti, anche se, data la sua scarsità in natura, di solito si ricava artificialmente dalla fluorite.
+
+
+=== Ossidi ===
+Gli ossidi si dividono in tre categorie: ossidi semplici, idrossidi e ossidi multipli. Gli ossidi semplici sono caratterizzati da O2− come anione principale e da un legame primariamente ionico. Gli ossidi sono importantissimi per l'industria estrattiva poiché in molti casi da questi si estraggono metalli importanti per l'economia. Di solito si formano come precipitati vicino alla superficie terrestre. Essi possono essere ulteriormente suddivisi in base al rapporto dell'ossigeno con i cationi. Il gruppo del periclasio consiste di minerali con un rapporto 1:1. Gli ossidi con un rapporto 2:1 includono la cuprite (ossido rameoso, Cu2O), il quarzo (ossido di silicio, SiO2, abbondantissimo nelle rocce) e il ghiaccio d'acqua. Il gruppo del corindone ha un rapporto di 2:3 e include minerali come il corindone (ossido di alluminio, Al2O3) e l'ematite (ossido di ferro, Fe2O3). I minerali del gruppo del rutilo hanno un rapporto di 1:2; la specie eponima, il rutilo (biossido di titanio, TiO2) è il principale minerale grezzo del titanio; altri esempi includono la cassiterite (biossido di stagno, SnO2; minerale grezzo dello stagno) e la pirolusite (biossido di manganese, MnO2; minerale grezzo del manganese). Negli idrossidi, l'anione dominante è lo ione idrossile, OH−. Le bauxiti sono il principale minerale grezzo dell'alluminio e sono una miscela eterogenea dei minerali idrossidi diaspro, gibbsite e böhmite; si formano in aree con un altissimo tasso di degradazione chimica (principalmente condizioni tropicali). Infine, gli ossidi multipli sono composti di due metalli con l'ossigeno. Un gruppo importante all'interno di questa classe sono gli spinelli, con una formula generale di X2+Y3+2O4. Esempi della specie comprendono lo spinello (ossido di magnesio ed alluminio, MgAl2O4, un costituente comune del mantello terrestre), la cromite (ossido di ferro e cromo, FeCr2O4) e la magnetite (ossido ferroso-ferrico, Fe3O4). Quest'ultima si distingue prontamente per il suo forte magnetismo, che si presenta in quanto ha il ferro in due stati di ossidazione (Fe2+Fe3+2O4), il che lo rende un ossido multiplo invece che un ossido singolo.
+
+
+=== Solfuri ===
+
+I solfuri sono composti chimici in cui lo zolfo è combinato con elementi metallici e semimetallici. Essi presentano spesso lucentezza metallica, sono teneri e con elevato peso specifico. Alcuni hanno lucentezza non metallica o sono più duri. Cristalli ben formati e con elevato grado di simmetria costituiscono la regola. Molti solfuri, come la pirite, hanno un odore sulfureo quando sono polverizzati. I solfuri sono suscettibili di degradazione e molti si disciolgono prontamente in acqua; questi minerali disciolti possono in seguito essere ridepositati, il che crea ricchi depositi secondari di minerale grezzo.
+I solfuri si classificano in base al rapporto tra il metallo o semimetallo e lo zolfo, ad es. M:S uguale a 2:1 o 1:1. più comuni sono la pirite (solfuro di ferro), la calcopirite (solfuro di rame e ferro) e la galena (solfuro di piombo). Molti solfuri sono minerali grezzi importanti economicamente per l'estrazione dei metalli. Tra gli esempi vi sono la sfalerite (solfuro di zinco, ZnS), la galena (solfuro di piombo, PbS), il cinabro (solfuro di mercurio, HgS) e la molibdenite (solfuro di molibdeno, MoS2. La pirite (solfuro di ferro, FeS2) è il solfuro più comune, ma non è un minerale grezzo del ferro, ma può essere ossidato per produrre acido solforico. Legati ai solfuri sono i rari solfosali, nei quali un elemento metallico è legato allo zolfo e a un semimetallo come l'antimonio, l'arsenico o il bismuto. Come i solfiti, i solfosali sono minerali tipicamente teneri, pesanti e friabili.
+
+
+=== Fosfati ===
+Il gruppo dei fosfati include minerali con l'unità tetraedrica AO4 dove A può essere fosforo, antimonio, arsenico o vanadio. Il fosfato di gran lunga più comune è il gruppo dell'apatite, la cui formula generica è Ca5(PO4)3[F, OH, Cl]; specie comuni all'interno di questo gruppo sono la fluorapatite (Ca5(PO4)3F), la clorapatite (Ca5(PO4)3Cl) e l'idrossiapatite (Ca5(PO4)3(OH)). I minerali di questo gruppo sono importanti anche in biologia perché si trovano nei denti e nelle ossa di molti animali. Un altro gruppo relativamente abbondante è quello della monazite, che ha una struttura generale di ATO4, dove T è fosforo o arsenico, e A è spesso un elemento delle terre rare (rare earth element, REE). La monazite è importante sotto due aspetti: in primo luogo, come "ricettacolo" dei REE, può concentrare sufficientemente questi elementi da diventare un minerale grezzo; in secondo luogo, gli elementi del gruppo della monazite possono incorporare quantità relativamente grandi di uranio e di torio, che si possono usare per datare la roccia in base al loro decadimento in piombo.
+
+
+=== Elementi nativi ===
+
+Gli elementi nativi sono quelli che non sono legati chimicamente ad altri elementi. Questo gruppo include metalli (oro, argento, rame), alcuni composti intermetallici, semimetalli e non metalli (antimonio, bismuto, grafite, zolfo). Vi sono poi anche alcune leghe naturali come l'elettro (lega di oro ed argento), fosfuri, siliciuri, nitruri e carburi (i quali si trovano in natura solo in alcuni rari meteoriti).
+I metalli sono tenuti insieme dal legame metallico, che conferisce proprietà fisiche caratteristiche come la lucentezza metallica brillante, la duttilità e malleabilità e la conducibilità elettrica. Gli elementi nativi sono suddivisi in gruppi in base alla loro struttura o ai loro attributi chimici.
+Il gruppo dell'oro, con una struttura cubica a impacchettamento compatto, include metalli come l'oro, l'argento e il rame. Il gruppo del platino è simile per struttura al gruppo dell'oro. Il gruppo del ferro-nichel è caratterizzato da varie specie di leghe ferro-nichel. Due esempi sono la camacite e la taenite, che si trovano nei meteoriti ferrosi; queste specie differiscono per la quantità di Ni nella lega; la camacite ha meno del 5-7% di nichel ed è una varietà di ferro nativo, mentre il contenuto di nichel della taenite varia dal 7 al 37%. I minerali del gruppo dell'arsenico consistono di semimetalli, che hanno soltanto qualche proprietà metallica; per esempio, essi mancano della malleabilità dei metalli. Il carbonio nativo si presenta in 3 allotropi, grafite e diamante e lonsdaleite;il diamante si forma ad altissime pressioni nel mantello, il che gli conferisce una struttura molto più compatta della grafite.
+
+
+== Minerali "lato sensu" ==
+Come eredità delle osservazioni compiute nel passato sui materiali inanimati presenti e rinvenibili in natura, l'aggettivo minerale viene ancor oggi utilizzato, nel linguaggio comune ed in alcuni casi commerciale, anche a sostanze che non presentano composizione chimica stechiometricamente definita o che sono privi di una struttura cristallina, come i composti organici, che se rinvenuti allo stato fossile, sono talvolta definiti con l'aggettivo minerali, ad esempio gli oli minerali.
+Nell'industria estrattiva si tende ad attribuire il termine minerale anche a sostanze rinvenibili in natura allo stato liquido o gassoso estraibili dal sottosuolo, tipico il caso del metano o le acque minerali.
+
+
+== Note ==
+
+
+=== Annotazioni ===
+
+
+=== Fonti ===
+
+
+== Bibliografia ==
+
+
+=== Riferimenti generali ===
+(EN) A. B. Busbey, R.E. Coenraads, D. Roots e P. Willis, Rocks and Fossils, San Francisco, Fog City Press, 2007, ISBN 978-1-74089-632-0.
+(EN) C. W. Chesterman e K. E. Lowe, Field guide to North American rocks and minerals, Toronto, Random House of Canada, 2008, ISBN 0-394-50269-8.
+(EN) M.D. Dyar e M. E. Gunter, Mineralogy and Optical Mineralogy, Chantilly, Virginia, Mineralogical Society of America, 2008, ISBN 978-0-939950-81-2.
+
+
+=== Ulteriori letture ===
+(EN) R. M. Hazen, Edward S. Grew, Marcus J. Origlieri e Robert T. Downs, On the Mineralogy of the 'Anthropocene Epoch' (PDF), in American Mineralogist, vol. 102, n. 3, marzo 2017, Bibcode:2017AmMin.102..595H, DOI:10.2138/am-2017-5875. URL consultato il 14 agosto 2017. Sulla creazione di nuovi minerali mediante l'attività umana.
+
+
+== Voci correlate ==
+Classificazione Nickel-Strunz
+Struttura cristallina
+Lucentezza dei minerali
+Colore dei minerali
+Sali minerali
+Minerogenesi
+Mineralogia
+Famiglia di minerali
+Supergruppo di minerali
+Gruppo di minerali
+Sottogruppo di minerali
+Classe di minerali
+Sottoclasse di minerali
+Stato di aggregazione (minerale)
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «minerale»
+ Wikimedia Commons contiene immagini o altri file sul minerale
+
+
+== Collegamenti esterni ==
+
+ Minerale, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+ Maria Piazza, MINERALI, in Enciclopedia Italiana, Istituto dell'Enciclopedia Italiana, 1934. 
+ Minerale, in Dizionario delle scienze fisiche, Istituto dell'Enciclopedia Italiana, 1996. 
+ Minerale, su Vocabolario Treccani, Thesaurus, Istituto dell'Enciclopedia Italiana, 2018. 
+ Minerale², su Vocabolario Treccani, Istituto dell'Enciclopedia Italiana. 
+ minerale (mineralogia), su sapere.it, De Agostini. 
+ Fabio Catino, Minerali, in Enciclopedia dei ragazzi, Istituto dell'Enciclopedia Italiana, 2004-2006. 
+(EN) Cornelis Klein, mineral, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) Opere riguardanti Minerals, su Open Library, Internet Archive. 
+ Mineral gallery, su mineral.galleries.com. URL consultato il 21 agosto 2004 (archiviato dall'url originale il 22 agosto 2004).
+ mindat.org Mineral database, su mindat.org.
+ Minerali e Gemme, su mineraliegemme.com. URL consultato il 16 aprile 2020 (archiviato dall'url originale il 3 gennaio 2019).
+ Minerali.it. URL consultato il 12 giugno 2019 (archiviato dall'url originale il 30 marzo 2018).

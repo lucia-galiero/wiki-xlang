@@ -1,0 +1,64 @@
+Il legamento crociato anteriore (in latino ligamenta cruciata genus), noto in ambito medico con l'acronimo LCA o in quello inglese ACL, è uno dei quattro più importanti legamenti che costituiscono l'articolazione del ginocchio. È una struttura legamentosa, di forma allungata, collocata al centro del ginocchio, tesa fra tibia e femore. La sua funzione è quella di stabilizzare l'articolazione, in collaborazione con il legamento crociato posteriore, con il quale va a formare il pivot centrale dell'articolazione. In particolare, la sua funzione primaria è quella di impedire lo spostamento in avanti della tibia rispetto al femore. Il nome è indicativo del caratteristico incrocio di questi con il legamento crociato posteriore all'altezza delle loro intersezioni sulla tibia.
+A causa della sempre maggiore importanza rivestita dall'attività sportiva, lesioni a carico del legamento crociato anteriore sono sempre più frequenti. Secondo una stima del 2011, nei soli Stati Uniti d'America, si contavano dai 75 000 ai 100 000 casi di lesioni all'anno, anche se alcune fonti giungono a stimare i casi in 150 000 annui.
+
+
+== Storia ==
+
+I primi studi compiuti sul legamento crociato anteriore, risalgono al 3000 a.C. nell'antico Egitto, ma è solo con Ippocrate di Coo che si ha la prima descrizione di una sublussazione del ginocchio causata da una lesione del legamento crociato anteriore. Galeno di Pergamo, approfondì nel II secolo d.C. i propri studi sul ginocchio, dando a questa struttura il nome di ligamenta cruciata genus.
+
+
+== Anatomia del LCA ==
+
+
+=== Struttura ===
+Anatomicamente, il legamento crociato anteriore, è situato al centro del ginocchio, fra tibia e femore, ove forma con il legamento crociato posteriore il pivot centrale dell'articolazione, ovvero il perno centrale attorno cui ruota l'articolazione stessa. Questo, insieme al legamento collaterale mediale e al legamento collaterale laterale, garantisce la completa stabilità alla struttura.
+Il legamento crociato anteriore è collocato in sede intracapsulare ma extra-articolare, in quanto la membrana sinoviale forma una doccia a concavità posteriore che accoglie entrambi i legamenti crociati, che sono quindi a contatto con la superficie esterna della sinoviale ma al di fuori della cavità articolare. Origina dall'area triangolare anteriore dinnanzi all'eminenza intercondiloidea della tibia, subito avanti e lateralmente alla spina tibiale anteriore, con un attacco di forma ellittica lungo mediamente 17 millimetri e largo 11. Procede, poi, obliquamente verso l'alto con un andamento a spiroide di circa 110°, passando sotto al legamento trasverso, unendosi parzialmente al corno anteriore del menisco mediale, e finisce per inserirsi sul condilo laterale del femore con un attacco ovolare del diametro che varia dai 14 ai 16 millimetri.
+Dimensionalmente, il legamento crociato anteriore, ha una lunghezza, misurata dalla tibia al femore, variabile tra 31 a 39 millimetri, per una lunghezza media di 29,6 millimetri, mentre il diametro si attesta su una media di 11 millimetri.
+Esso è costituito da due fasci, uno antero-mediale che va ad inserirsi nella regione antero-mediale dell'inserzione tibiale ed uno postero-laterale, costituito dal resto del legamento. La prima risulta tesa in flessione, mentre la seconda risulta tesa in deflessione.
+
+
+=== Innervazione ===
+Il legamento crociato anteriore risulta particolarmente innervato e circa l'1,5% del suo volume è costituito da terminazione nervose. In particolar modo, all'altezza degli innesti ossei è possibile individuare fino a 4 tipi di recettori, ed infatti, una delle funzioni del legamento crociato anteriore - come si può vedere nell'apposito paragrafo - è propriocettiva.
+
+
+=== Vascolarizzazione ===
+Il principale apporto di sangue dei legamenti crociati nasce dall'arteria genicolata centrale.
+
+
+== Funzione del LCA ==
+Come già accennato, il legamento crociato anteriore assolve le funzioni di:
+
+resistenza alla lussazione anteriore;
+resistenza alla lussazione mediale.
+In particolare, esso è responsabile di circa 86% della resistenza alla lussazione anteriore e di circa il 30% a quella mediale.
+
+
+== Lesione del legamento crociato anteriore ==
+Il legamento crociato anteriore è spesso soggetto a lesioni. Soggetti particolarmente esposti al rischio di lesione sono gli sportivi. Una volta appurata la lesione del legamento, è necessaria una valutazione della stabilità dell'articolazione. Esistono due tipi di stabilità, quella attiva data dalla muscolatura dell'arto inferiore e dal controllo neuromuscolare della stessa e quella intrinseca, data appunto dall'integrità e dalle caratteristiche biochimiche e biomeccaniche del legamento stesso.
+
+
+=== Test di stabilità ===
+Le prove di stabilità in caso di sospetta lesione del legamento si effettuano prima sull'arto sano e poi su quello leso. I test più comuni sono il Lachmann test ed il cassetto anteriore (anterior drawer) in cui viene sottoposta manualmente una sollecitazione in senso anteroposteriore facendo dislocare la tibia dal femore. Il cassetto anteriore viene oggettivizzato e misurato con un artrometro KT 1000 (San Diego) Sernert N. Recenti modelli in mercato applicano una forza esercitata dalla macchina stessa che mantiene bloccato rispettivamente tibie e femore, sollecitazione massima di 250 decaNewton (GNRB). anche se quest'ultimo rimane il più usato nelle valutazioni che sempre più spesso vengono effettuati da kinesiologi e fisioterapisti sotto supervisione ortopedica. Le prove successive che incrementano di 50 daN vengono registrate e forniscono un grafico forza-spostamento che derivati forniscono anche la "slope" o pendenza, fornendo un ulteriore parametro di comparazione.
+Qualora venga ritenuto necessario intervenire chirurgicamente per ridare la stabilità passiva, non è sufficiente la suturazione del tessuto, ma è necessaria la completa sostituzione, attraverso diverse tecniche, che vanno dall'auto-impianto, con differenti sedi di prelievo, prelievo da cadavere o, infine, impianto di natura sintetica.
+Allo stato dell'arte, risulta difficile una valutazione sulla tecnica migliore fra queste, poiché ognuna di esse presenta vantaggi e svantaggi non trascurabili.
+
+
+=== Indicazioni sul trattamento pre-operatorio ===
+La fisioterapia prima dell'operazione chirurgica è sempre stata considerata essenziale per tutti i soggetti. In particolare è consigliato il controllo del dolore attraverso fisioterapia strumentale, elevazioni dell'arto per favorirne il drenaggio e mantenere il tono per quanto possibile. inoltre è consigliato un recupero della ROM (Range Of Motion) e della forza prima dell'operazione.
+
+
+=== Trattamento post-operatorio ===
+Le tecniche di riabilitazione post-operazione sono volte in primis a riprendere la mobilità in estensione e flessione. Si utilizzano tecniche di continuous passive motion (flesso-estensione meccanica), manuale passiva ed attiva. Le nuove tecniche chirurgiche ed i recenti studi internazionali hanno accorciato i tempi senza compromettere la stabilità del legamento De Carlo M, Armstrong B. Elevazione per sgonfiare l'arto, elettrostimolazione per favorire il ritorno venoso e migliorare la forza del quadricipite. È inoltre possibile iniziare a camminare con tutore e senza le stampelle salvo qualche eccezione.
+Nelle successive fasi, 18 giorni circa per atleti e 38 giorni per soggetti normali viene esercitata sempre più la forza del quadricipite e flessori attraverso esercizi in catena cinetica chiusa ed aperta.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Legamento crociato posteriore
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file sul legamento crociato anteriore

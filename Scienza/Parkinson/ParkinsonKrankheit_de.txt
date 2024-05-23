@@ -1,0 +1,370 @@
+Die Parkinson-Krankheit oder der Morbus Parkinson (weitere Synonyme: Idiopathisches Parkinson-Syndrom (IPS), Parkinsonsche Krankheit, umgangssprachlich auch Schüttelkrankheit, ältere Bezeichnung: Paralysis agitans für „Schüttellähmung/ Zitterlähmung“) entsteht durch einen langsam fortschreitenden Verlust von Nervenzellen im Gehirn. Die charakteristischen Symptome sind Bewegungsarmut, Muskelstarre und (nicht immer vorhanden) Ruhetremor. Als unheilbare neurodegenerative Erkrankung zählt sie zu den degenerativen Erkrankungen des extrapyramidal-motorischen Systems. Ungefähr ein Prozent (Stand 2004) der Weltbevölkerung über 60 Jahren ist von dieser Krankheit betroffen. Die Parkinson-Krankheit ist damit (nach der Alzheimer-Krankheit) die zweithäufigste neurodegenerative Erkrankung der Welt.
+Der Morbus Parkinson ist gekennzeichnet durch das vornehmliche Absterben der dopaminproduzierenden Nervenzellen in der Substantia nigra, einer Struktur im Mittelhirn. Der Mangel an dem Botenstoff Dopamin führt letztlich zu einer Verminderung der aktivierenden Wirkung der Basalganglien auf die Großhirnrinde und somit zu den Bewegungsstörungen.
+Die Leitsymptome (auch Kardinal- oder Kernsymptome genannt) sind:
+
+frühe Symptome (Prodromalsymptome können den motorischen Manifestationen um Jahre oder sogar Jahrzehnte vorausgehen)
+Jahre vor dem Ausbruch Störung des Geruchssinns
+Stimmungsschwankungen (leichte Reizbarkeit) mit leichten Depressionen
+Verstopfung
+die Störung des Traumschlafs durch atypische starke Bewegungen während des (im gesunden Zustand normalerweise bewegungslosen) REM-Schlafs (bis hin zum Schreien oder Umsichschlagen)
+motorische Krankheit im Hauptstadium (niedriger Dopaminspiegel)
+Muskelzittern (Tremor) in Ruhe, insbesondere als rhythmisches Zittern der Extremitäten,
+Schrift wird etwas kleiner,
+„unrunde“ Bewegung beim längeren Laufen (etwas nachziehen),
+(wächserne) Muskelstarre (Rigor) bzw. unelastische erhöhte Ruhespannung,
+verlangsamte Bewegungen (Bradykinese oder Hypokinese), die bis hin zu Bewegungslosigkeit (Akinese) führen können, sowie
+Haltungsinstabilität (posturale Instabilität).
+Die aktuelle Definition des Parkinson-Syndroms (genannt auch Parkinsonismus) fordert, dass das Kardinalsymptom Bradykinese oder Akinese mit wenigstens einem der anderen Symptome (Rigor, Tremor oder posturale Instabilität) in Kombination auftritt. Daneben sind verschiedene sensible, vegetative, psychische und kognitive Störungen möglich.
+Es gibt bis heute noch keine Möglichkeit einer ursächlichen Behandlung des Parkinson-Syndroms, weshalb nur eine Behandlung der Symptome möglich ist. Mit einem Fortschreiten der Krankheit werden häufig mehrere Medikamente kombiniert, die in immer kürzeren Abständen eingenommen werden müssen, um eine ausreichende Wirksamkeit zu erzielen und Wirkschwankungen zu vermeiden. Fortgeschrittene Therapieoptionen bestehen in einer kontinuierlichen Apomorphin-Infusion, kontinuierlichen L-Dopa-Infusion oder einer tiefen Hirnstimulation.
+
+
+== Einordnung ==
+Der Begriff Parkinson-Syndrom ist ein Oberbegriff für Erkrankungen mit den oben genannten Leitsymptomen. Die wichtigste Erkrankung ist der hier behandelte Morbus Parkinson, eine idiopathische Erkrankung (das heißt ohne bekannte äußere oder genetische Auslöser). Liegt indes eine bestimmbare äußere Ursache zugrunde, spricht man von einem sekundären oder symptomatischen Parkinson-Syndrom. Liegt ein neurodegeneratives Krankheitsbild mit anderem Schädigungsmuster, mit zum Teil auch weiteren Symptomen vor, so spricht man von atypischen Parkinson-Syndromen.
+Somit ergibt sich folgende Einteilung der Parkinson-Syndrome:
+
+das idiopathische Parkinson-Syndrom (IPS), Gegenstand dieses Artikels
+mit ca. 75 % häufigstes Parkinson-Syndrom
+das familiäre Parkinson-Syndrom
+genetisch bedingte, vererbbare Formen, selten, benannt nach jeweiligem Genort (beispielsweise PARK1)
+symptomatische (sekundäre) Parkinson-Syndrome
+medikamenteninduziert (beispielsweise bei Neuroleptika mit Dopamin-Antagonismus = Parkinsonoid), außerdem verdichten sich Hinweise, dass Amphetamingebrauch das Risiko, zu erkranken, deutlich erhöht
+vaskuläres Parkinson-Syndrom, wie bei der zerebralen Mikroangiopathie (Morbus Binswanger)
+posttraumatisch (beispielsweise als chronisch-traumatische Enzephalopathie)
+toxininduziert (beispielsweise durch Kohlenmonoxid, Mangan, MPTP)
+entzündlich (beispielsweise nach Encephalitis lethargica, auch bei diffusen erregerbedingten Gehirnerkrankungen wie der fortgeschrittenen HIV-Enzephalopathie)
+metabolisch (beispielsweise beim Morbus Wilson)
+Parkinson-Syndrome im Rahmen anderer neurodegenerativer Erkrankungen (atypische Parkinson-Syndrome)
+Multisystematrophie
+Progressive supranukleäre Blickparese
+Kortikobasale Degeneration
+Lewy-Körperchen-Demenz
+
+
+== Geschichte ==
+Die Erkrankung wurde erstmals 1817 vom englischen Arzt James Parkinson in der Monographie An Essay on the Shaking Palsy (Eine Abhandlung über die Schüttellähmung) beschrieben. Bereits Parkinson wies auf das langsame Fortschreiten der Erkrankung hin. Als Ursache für die Schüttellähmung, später Parkinson-Syndrom genannt, vermutete er eine Störung des Rückenmarks im Halswirbelbereich, was 1960 durch die Entdeckung Arvid Carlssons, dass der Mangel des körpereigenen Botenstoffs Dopamin in bestimmten Regionen des Hirnstamms Ursache für die Parkinson-Krankheit ist, widerlegt wurde. Die Symptome der Parkinson-Erkrankung sind jedoch schon seit der Antike bekannt. Der Tremor wurde von Celsus erstmals genauer als zu therapierendes Gebrechen älterer Patienten beschrieben. Beim Parkinson-Syndrom wurde früher unterschieden zwischen einem postenzephalitischen und toxischen Parkinsonismus.
+Der 11. April eines jeden Jahres wurde im Jahr 1997 durch die European Parkinsons Disease Association als Welt-Parkinson-Tag ausgerufen. Inzwischen findet er am 29. März statt.
+
+
+== Erkrankungsalter und Häufigkeit ==
+Die Erkrankung beginnt meist zwischen dem 50. und 79. Lebensjahr (Gipfel 58. bis 62. Lebensjahr). Ein Parkinson-Syndrom kann selten bereits vor dem 40. Lebensjahr auftreten. In der Altersgruppe 40 bis 44 Jahre ist etwa einer von 10.000 Menschen betroffen. Die Manifestationsrate der Erkrankung steigt mit zunehmendem Alter bis etwa zum 75. Lebensjahr an, dann nimmt sie wieder ab. Von den über 80-Jährigen erkranken etwa 1,5–2,0 Prozent an einem Parkinson-Syndrom. In Deutschland wird derzeit von 300.000–400.000 erkrankten Menschen ausgegangen.
+
+
+== Ursachen ==
+
+
+=== Funktionelle Ebene: Dopaminmangel ===
+Der Morbus Parkinson ist eine degenerative Erkrankung des extrapyramidalmotorischen Systems (EPS) oder der Basalganglien. Dabei kommt es zu einem Absterben von Nervenzellen in der Pars compacta der Substantia nigra (auch Nucleus niger, „schwarzer Kern“), die Dopamin herstellen und durch ihre Axone in das Putamen transportieren. Erste Krankheitszeichen fallen erst auf, wenn ca. 55 % bis 60 % dieser dopaminergen Zellen abgestorben sind.
+Der Dopaminmangel führt über zwei Wege (siehe Bild) letztlich zu einem Ungleichgewicht in der Funktion der Basalganglien. Der Botenstoff Glutamat liegt dabei relativ im Überschuss vor. Dabei hemmt letztlich der Globus pallidus internus die motorische Aktivierung der Hirnrinde durch den Thalamus. Dies führt zu den Hauptsymptomen Rigor, Tremor und Hypokinese (siehe unten), aber auch zur Verlangsamung der geistigen Prozesse (Bradyphrenie).
+Neben dem Dopaminmangel wurden auch Veränderungen anderer Neurotransmitter festgestellt. So zeigte sich in einigen Regionen des Hirnstammes ein Serotonin-, Acetylcholin- und Noradrenalin-Mangel.
+
+
+=== Zelluläre Ebene ===
+
+Die Forschung und die Identifizierung der vererbten Formen haben gezeigt, dass es sich beim Morbus Parkinson (MP) nicht um eine einheitliche Erkrankung handelt, sondern um eine heterogene Gruppe von Erkrankungen mit einem Spektrum klinischer und pathologischer Ausprägungen (PARK1 bis PARK13). Monogene Formen des Morbus Parkinson sind für etwa fünf bis zehn Prozent aller Patienten mit Morbus Parkinson verantwortlich. Unter diesen sind Punktmutationen des alpha-Synuclein-Gens (SNCA-Gen, PARK1) von besonderem Interesse, da alpha-Synuclein (SNCA) die Hauptkomponente der Lewy-Körper bei familiärem und sporadischem Morbus Parkinson darstellt. Der PARK1-Lokus wurde in einer großen Familie mit dominant vererbten Morbus-Parkinson- und Lewy-Körperchen-Pathologie kartiert; zwei weitere Punktmutationen mit hoher Penetranz wurden in großen Familien identifiziert, aber nicht bei Patienten mit sporadischem Morbus Parkinson.
+Bemerkenswerterweise wurden 2007, möglicherweise als Ausdruck einer frühen synaptischen Störung, SNCA-Aggregate in der präsynaptischen Fraktion aus menschlichem Hirngewebe identifiziert, wobei die genaue Beziehung zwischen Aggregation, zellulärer Dysfunktion und Zelltod bislang nicht bekannt ist.
+Neben Veränderungen der Aminosäuresequenz führen aber auch Duplikationen und Triplikationen zu einer Zunahme der Tendenz des Proteins, Oligomere und fibrilläre Aggregate zu bilden, sodass der Regulation der SNCA-Expression und -Translation eine wichtige, zumindest modulierende Bedeutung zukommt.
+Veränderungen in regulatorischen Regionen des SNCA-Gens könnten auch mit einem höheren Risiko für die Entwicklung des Morbus Parkinson einhergehen. Mehrere Studien haben Assoziationen von verschiedenen genetischen Varianten (single nucleotide polymorphisms; SNP) in der Promoterregion und anderen Sequenzabschnitten des SNCA-Gens mit sporadischem Morbus Parkinson gefunden (PD Gene Database). Untersuchungen aus dem Jahr 2008 legen eine mögliche Assoziation einzelner SNP auch in der nicht codierenden Sequenz mit dem SNCA-Expressionsniveau nahe.
+Neuere Untersuchungen legen auch eine autoimmune Komponente nahe. So gelang der Nachweis von α-Synuclein-Peptiden, die unter Laborbedingungen als Antigene zu einer Aktivierung von vorher identifizierten häufig veränderten MHC Molekülen führten.
+Einige der bedeutendsten Erkenntnisse zur Rolle des α-Synuclein bei der Entstehung der Krankheit auf Zellebene wurden anhand von Versuchen mit gentechnisch veränderten Zuchtlinien des Nematoden Caenorhabditis elegans gewonnen.
+
+
+=== Externe Ursachen ===
+Als externe Auslöser von Parkinson werden bestimmte Giftstoffe, sogenannte Neurotoxine, die die Substantia nigra schädigen, erwogen. Diese wurden in der Regel entweder im Rahmen der Berufstätigkeit oder als Umweltgifte von den Betroffenen aufgenommen.
+Im Kalifornien der frühen 1980er Jahre rief der intravenöse Konsum von Pethidin, das mit MPTP (1-Methyl-4-phenyl-1,2,5,6-tetrahydropyridin) verunreinigt war, bei jungen Drogenabhängigen nach kurzer Zeit parkinsonähnliche Symptome hervor, die erfolgreich mit L-Dopa (siehe unten) behandelt werden konnten. Die Wirkung des MPTP besteht darin, dass dieses im Gehirn in das aktiv toxische Molekül MPP+ (1-Methyl-4-phenylpyridinium) umgewandelt wird. Dieses ist ähnlich aufgebaut wie ein Dopaminmolekül, sodass es über das Dopamin-Transportsystem in die dopaminproduzierenden Nervenzellen eindringen kann. Mit zunehmender Anreicherung des MPP+ in den Zellen entfaltet es zunehmend seine toxische Wirkung, indem es dort wichtige Stoffwechselprozesse unterdrückt.
+Vor diesem Hintergrund steht das Herbizid Paraquat in Verdacht, ein Parkinson-Syndrom zu verursachen. Paraquat ist dem MPP+ strukturell sehr ähnlich. In Kanada durchgeführte Studien ergaben einen Zusammenhang zwischen dem Einsatz großer Mengen an Paraquat und einer weit überdurchschnittlichen Anzahl von Parkinson-Fällen in der Bevölkerung der entsprechenden Region. Ein weiteres Pestizid, das als parkinsonauslösend gilt, ist das Insektizid Rotenon. Im Tierversuch konnte gezeigt werden, dass die Aufnahme von Rotenon zur Ausschüttung von alpha-Synuclein (SNCA) führt, einem körpereigenen Protein, das, analog zu MPP+, toxisch auf dopaminproduzierende Nervenzellen wirkt und deren Degeneration verursachen kann. In Frankreich ist Parkinson seit 2012 als Berufskrankheit von Landwirten anerkannt, wenn sie mindestens zehn Jahre lang mit Pestiziden in Berührung gekommen sind.
+Die Exponierung mit Entfettungs- und Reinigungsmitteln auf Basis von Trichlorethen und Tetrachlorethen ist nach US-amerikanischen und koreanischen Studien in Trichlorethenerbindung mit der Parkinson-Erkrankung zu bringen. Waren Personen den Stoffen ausgesetzt, war ihr Risiko für Parkinson neunfach erhöht.
+Octenol, ein natürliches Stoffwechselprodukt u. a. von Schimmelpilzen, verursacht in Drosophila und in menschlichen Zelllinien nachweislich eine Störung des Dopamingleichgewichts. Ausdünstungen von Octenol in Räumen mit Schimmelbefall könnten somit ebenfalls ein externer Faktor für die Entstehung der Parkinson-Krankheit sein.
+
+Als weitere externe Ursachen werden im Allgemeinen Schädel-Hirn-Traumata (SHT; „geschlossene Kopf-/Hirnverletzungen“) und Infektionen genannt. So wurden bei Labormäusen, denen man SHT beibrachte, nach 30 Tagen Parkinson-typische Hirnveränderungen nachgewiesen. Obwohl auch leichte SHT (Gehirnerschütterungen) als Ursache für Parkinson beim Menschen diskutiert werden, ergab eine 2014 veröffentlichte Metastudie, dass es dazu nur wenige hochqualitative Untersuchungen gibt und dass die besten verfügbaren Belege eine Kausalität zwischen leichtem SHT und Parkinson nicht stützen. Bei einer Fall-Kontroll-Studie im Bezug auf jegliche Kopfverletzungen, mit und ohne zeitweiligem Verlust des Bewusstseins, konnte ebenfalls kein erhöhtes Risiko für eine spätere Parkinson-Erkrankung festgestellt werden.
+
+Die sogenannte Dual-Hit-Hypothese geht von einem möglicherweise viralen Erreger aus, der das Gehirn von der Nase oder dem Magen aus über den Vagusnerv infiziert und eine mit Lewy-Körperchen assoziierte Parkinson-Form hervorruft. Eine im Jahre 2015 veröffentlichte Kohortenstudie bestätigte diese Hypothese: Die Durchtrennung der zum Magen führenden Abzweige des Vagusnervs (Vagotomie) ist eine mittlerweile nicht mehr übliche chirurgische Behandlungsmethode von Duodenalgeschwüren. Für etwa 15.000 Dänen, die sich im Zeitraum von 1977 bis 1995 einer Vagotomie unterzogen hatten, wurde ermittelt, dass sich im Falle einer trunkulären Vagotomie (vollständige Durchtrennung aller zum Magen führenden Äste des Vagus) ihre Parkinson-Erkrankungsrate nach 20 Jahren im Vergleich zur Kontrollgruppe (150.000 Dänen, die sich keiner Vagotomie unterzogen hatten) annähernd halbiert hatte. Bei Patienten, die nur eine selektive Vagotomie erhalten hatten (Durchtrennung nur einiger zum Magen führenden Äste des Vagus), war nach 20 Jahren keine Verminderung des Erkrankungsrisikos feststellbar. Eine im Jahr 2017 veröffentlichte schwedische Studie kam zu einem ähnlichen Ergebnis. Im Jahr 2019 konnte im Tiermodell nachgewiesen werden, dass in die Dünndarmmuskulatur injizierte Alpha-Synuclein-Proteine über den Vagusnerv ins Gehirn gelangen und deren Ablagerungen Monate später den Verlust von Dopamin produzierenden Nervenzellen in der Substantia nigra bewirkten. Eine Forschergruppe der Universität Montreal demonstrierte, dass in Maus-Mutanten, die kein funktionsfähiges PINK1-Enzym bilden können, eine Darminfektion zu einer Überstimulation des Immunsystems führt. Es wurde eine Autoimmunreaktion ausgelöst, durch die dopaminerge Neurone im Gehirn abgetötet wurden. Insofern spielt möglicherweise auch die Darmflora (Mikrobiom) eine ätiologische Rolle.
+
+
+== Symptome ==
+Die Erkrankung beginnt schleichend und schreitet danach zeitlebens fort, die Symptome werden im Verlauf stärker und daher auch besser erkennbar. Das Idiopathische Parkinson-Syndrom beginnt typischerweise einseitig (und bleibt im Verlauf einseitig stärker); als Frühzeichen gilt beispielsweise das reduzierte und später fehlende Mitschwingen eines Armes beim Laufen. Nicht selten treten Schulterschmerzen und einseitige Muskelverspannungen auf, die den Patienten zuerst zum Orthopäden führen.
+
+
+=== Kardinalsymptome ===
+Das Parkinson-Syndrom ist definiert durch das Vorliegen von Bradykinese oder Akinese und eines der drei anderen Leitsymptome (Rigor, Tremor, posturale Instabilität).
+
+
+==== Akinese (auch Bradykinese oder Hypokinese) ====
+Diese allgemeine Bewegungsarmut ist Voraussetzung für die Diagnose eines Parkinson-Syndroms. Sie macht sich bei allen Bewegungen bemerkbar. So vermindert sich das Muskelspiel, was den Gesichtsausdruck bestimmt (Maskengesicht, Hypomimie), das Sprechen wird leise und undeutlich (Mikrophonie), das Schlucken verzögert sich (scheinbar vermehrter Speichelfluss – Pseudo-Hypersalivation), die Geschicklichkeit der Hände lässt besonders bei schnellen Bewegungen nach (Schriftbild wird kleiner – Mikrographie), die Rumpfbewegungen sind erschwert (vermindertes Umlagern im Schlaf), das Gangbild wird kleinschrittig und schlurfend.
+Zu diesem obligaten Krankheitszeichen muss mindestens eines der folgenden drei Symptome kommen:
+
+
+==== Rigor (auch Rigidität) ====
+Damit wird eine Muskelsteifheit aufgrund einer Steigerung des Muskeltonus bezeichnet. Sie wird durch eine unwillkürliche Anspannung der gesamten quergestreiften Muskulatur hervorgerufen und führt oft auch zu Muskelschmerzen. Nach außen sichtbar sind eine leichte Beugung von Ellenbogengelenk, Rumpf und Nacken sowie später der Kniegelenke. Bei passiver Bewegung der Gelenke von oberer und unterer Extremität tritt das so genannte Zahnradphänomen auf, bei dem es den Anschein hat, die Bewegung im Ellenbogengelenk laufe über ein Zahnrad, das die Bewegung in wechselnden Intervallen bremst. Körpernahe Muskelgruppen sind oft stärker betroffen (axialer Rigor). Eine gekrümmte Fehlhaltung des Körperstammes durch die Tonuserhöhung wird als Kamptokormie bezeichnet.
+
+
+==== Ruhetremor ====
+Durch wechselseitige Anspannung gegenwirkender Muskeln entsteht ein relativ langsames Zittern (Antagonistentremor – vier bis sechs Schläge pro Sekunde, selten bis neun Schläge pro Sekunde), das bei aktiver Bewegung abnimmt. Es ist typisch für das idiopathische Parkinson-Syndrom (75 %) und weniger typisch für atypische Parkinson-Syndrome (25 %), auch der Tremor ist einseitig betont. Der Tremor ist das augenfälligste Symptom, tritt aber auch als essentieller Tremor oder bei Kleinhirnerkrankungen auf, so dass er zur Fehldiagnose verleiten kann.
+
+
+==== Posturale Instabilität ====
+Die verminderte Stabilität beim Aufrechthalten des Körpers kommt durch eine Störung der Stellreflexe zustande. Die kleinen, aber schnellen reflektorischen Ausgleichsbewegungen werden verzögert, so dass es zur Gang- und Standunsicherheit kommt. Die Wendebewegung wird unsicher, die Patienten kommen dabei ins Trippeln. Sie bekommen Angst zu fallen; diese Fallangst kann sie noch zusätzlich zur motorischen Behinderung beeinträchtigen. Bei früh stark gestörten Stellreflexen muss ein atypisches Parkinson-Syndrom bedacht werden.
+Die unterschiedlichen Symptome können beim einzelnen Erkrankten unterschiedlich stark ausgeprägt sein oder ganz fehlen; Auftreten und Stärke wechseln auch im Tagesverlauf. Man unterscheidet daher die Verlaufsformen des Morbus Parkinson in akinetisch-rigider Typ, tremordominanter Typ und Äquivalenz-Typ.
+
+
+==== On-off-Phänomen ====
+Plötzliche Schwankungen der Bewegungsfähigkeit mit Hyperkinese („on“) und Akinese („off“) nach meist mehrjähriger L-Dopa-Therapie, zum Beispiel im Rahmen eines L-Dopa-Spätsyndroms, werden On-off-Phänomen genannt. Gegenmaßnahmen sind die Verkürzung der Dosierungsintervalle, die Einhaltung der empfohlenen Abstände zu den Mahlzeiten vor und nach der Medikamenteneinnahme oder der Einsatz von Retard-Präparaten und Zusatztherapieen.
+
+
+=== Fakultative Begleitsymptome ===
+Neben diesen Kardinalsymptomen kommt es im Krankheitsverlauf in individuell unterschiedlichem Ausmaß zu weiteren Symptomen:
+
+Sensible Symptome
+eine Minderung des Geruchssinns (Hyposmie) ist häufig und kann der Parkinsonkrankheit oft bereits als initiales Symptom vorausgehen.
+Missempfindungen (Dysästhesien) werden häufig berichtet, ihre Ursache ist aber nicht genauer bekannt.
+Schmerzen treten besonders an Gelenken und Muskeln auf (siehe oben).
+Vegetative Störungen
+Ein Salbengesicht (fettglänzende Gesichtshaut) entsteht durch gesteigerte Talgproduktion (Seborrhö) zusammen mit der Hypomimie im Rahmen der bestehenden Akinesie.
+Im fortgeschrittenen Krankheitsstadium kommt es zu Kreislaufregulationsstörungen (orthostatische Hypotonie). Nicht selten ist der Blutdruck im Liegen erhöht und sackt dann in aufrechter Körperhaltung ab. Dies kann zu kurzer Bewusstlosigkeit mit Stürzen führen (orthostatische Synkope). Die Patienten werden dann gelegentlich (fälschlicherweise) mit Medikamenten gegen hohen Blutdruck behandelt. Eine im Verlauf früh auftretende ausgeprägte Blutdruckinstabilität spricht für ein atypisches Parkinson-Syndrom.
+Blasenfunktionsstörungen behindern die Patienten im sozialen Leben erheblich. Meist steht zu Beginn ein plötzlicher starker Harndrang, oft schon bei kleinen Füllmengen (Pollakisurie). Das Auftreten von Miktionsstörungen früh im Verlauf (d. h. entweder vor oder innerhalb von drei Jahren nach Beginn motorischer Symptome) ist charakteristisch für ein atypisches Parkinson-Syndrom.
+Sexuelle Dysfunktionen sind häufig und betreffen in der Regel die Libido.
+Bewegungsstörungen des Magen-Darm-Trakts können sowohl zu Durchfall als auch Verstopfung führen und die Resorption der Medikamente stark beeinflussen: Durchfall führt zu einer Unterdosierung, weil mehr von den verabreichten Wirkstoffen als pharmakologisch kalkuliert vorzeitig unresorbiert den Körper verlassen. Verstopfung führt zur Überdosierung, weil mehr von den verabreichten Wirkstoffen als pharmakologisch kalkuliert im Körper verbleiben und resorbiert werden; hierbei ergibt sich durch unterschiedliche Plasmahalbwertszeiten der Wirkstoffe zusätzlich eine unerwünschte Verschiebung ihrer Mengenverhältnisse.
+Temperatur-Regulationsstörungen führen vor allem zu einer verminderten Hitzetoleranz durch eine Störung des reflektorischen Schwitzens und der reflektorischen Gefäßerweiterung bei Wärme. Dies kann bei fortgeschrittener Erkrankung zu lebensbedrohlichen, hochfieberhaften Zuständen führen. Besonders nachts kommt es zu starken Schweißausbrüchen.
+Im Verlauf frühzeitig auftretende vegetative Störungen gelten als Hinweise auf ein atypisches Parkinson-Syndrom.
+
+Psychische Veränderungen
+Eine niedergedrückte Stimmung kann als Frühsymptom der Diagnose um Jahre vorausgehen. Sie betrifft im Verlauf mindestens 40 Prozent der Patienten.
+Eine klassisch als Bradyphrenie bezeichnete Verlangsamung der Denkabläufe ist Ausdruck der allgemeinen Antriebsstörung. Sie gilt als Pseudodemenz, da das Denken nur verlangsamt, nicht aber inhaltlich beeinträchtigt ist.
+Die Störung der Einschätzung von Entfernungen und Geschwindigkeiten (visuospatiale Aufmerksamkeit) stellt besonders in Verbindung mit den motorischen Einschränkungen eine Gefährdung im Straßenverkehr dar. Sie entspricht einer Störung im Frontalhirn.
+Sinnestäuschungen sind zumeist Folge der dopaminergen Medikamente. Sie führen zunächst zu benignen (= gutartigen) Halluzinationen, die der Betroffene als Trugbild erkennt. Zum Beispiel werden nicht vorhandene Personen im Raum gesehen. Dieses Symptom tritt erst im späteren Verlauf der Krankheit auf. Bei zusätzlicher subkortikaler Demenz können sich optische und akustische Halluzinationen weiter ausprägen bis hin zu einem meist als äußerst bedrohlich empfundenen szenischen Erleben, beispielsweise eingekerkert zu sein. In diesem Zustand können die Patienten in panischer Angst aggressiv reagieren, was nicht selten verkannt wird und zu falschen therapeutischen Konsequenzen führt. Das den vor allem auch akustischen halluzinatorischen Sinnestäuschungen dauerhafte Ausgesetztsein kann sich verselbstständigen und zu nachhaltigen psychischen Erkrankungen wie Verfolgungswahn führen. Eine Besonderheit der kognitiven Störungen bei der Parkinson-Erkrankung ist die oft stark fluktuierende Störung der Aufmerksamkeit mit immer wieder luziden (klaren) Augenblicken.
+Eine echte Demenz stellt eine vermutliche Verlaufsform des idiopathischen Parkinson-Syndroms dar, die Lewy-Körperchen-Demenz.
+Die psychischen Veränderungen sind für die Alltagsbehinderung der Parkinson-Patienten von erheblicher Bedeutung und werden oft unterschätzt, da sie nicht so augenfällig sind wie die motorischen Phänomene.
+
+
+==== Weitere Symptome ====
+REM-Schlafstörungen werden oft berichtet und können anderen Parkinson-Symptomen vorausgehen.
+Häufig existiert eine Assoziation mit Symptomen des Restless-Legs-Syndroms.
+
+
+==== Parkinson-Demenz ====
+Als Parkinson-Demenz werden demenzielle Symptome bezeichnet, die im Verlauf einer Parkinson-Erkrankung entstehen. 30–40 % der Parkinson-Patienten entwickeln diese Symptome zusätzlich zu den motorischen Symptomen. Insgesamt weisen Parkinson-Patienten im Vergleich zu gesunden Menschen ein erhöhtes Risiko auf, an einer Demenz zu erkranken. Risikofaktoren sind unter anderem hohes Alter bei Beginn der Erkrankung, stark ausgeprägte motorische Symptome, niedriges Bildungsniveau und früh auftretende Psychosen oder Depression.
+Dabei kann es zu kognitiven Defiziten in folgenden Bereichen kommen:
+
+Aufmerksamkeit
+ exekutive Funktionen
+ visuell-räumliche Funktionen
+ Gedächtnis
+ Sprache
+Zusätzlich können Apathie, Persönlichkeitsveränderungen, Halluzinationen und Wahn auftreten.
+Insbesondere sind bei der Parkinson-Demenz die exekutiven Funktionen beeinträchtigt. Den Betroffenen fällt es schwer, Aufgaben zu planen und auszuführen, und die kognitive Verarbeitungsgeschwindigkeit ist verlangsamt. Ursache dafür ist, wie bei den motorischen Symptomen, der Abbau von Nervenzellen in subkortikalen Gehirnregionen, die für diese Funktionen zuständig sind.
+Damit lässt sich die Parkinson-Demenz von anderen Demenzformen wie Alzheimer abgrenzen, bei denen es zu einem Abbau in kortikalen Gehirnregionen kommt. Dadurch sind bei Alzheimer in stärkerem Ausmaß Gedächtnis und Sprache betroffen, die bei Parkinson weniger stark beeinträchtigt sind.
+Mit einer Therapie sollte möglichst frühzeitig begonnen werden, zu Beginn der Erkrankung oder bestenfalls präventiv. Da eine pharmakologische Behandlung nur geringe Effekte erzielt, sind kognitive Trainings empfehlenswert, um den Beginn oder die Verschlechterung der demenziellen Symptome zu verzögern.  
+
+
+== Diagnostik ==
+
+
+=== Klinisch-neurologische Untersuchung ===
+Die Diagnose des Parkinson-Syndromes basiert auf dem Ergebnis der klinisch-neurologischen Untersuchung durch einen Arzt mit entsprechender Expertise im Bereich der Bewegungsstörungen, meist ein Facharzt für Neurologie. Die diagnostischen Kriterien erfordern obligat den Nachweis der Akinese sowie mindestens eines weiteren Kardinalsymptomes (Rigor, Tremor oder posturale Instabilität). Die Ergebnisse der klinischen Untersuchung sind durch kein anderes Verfahren zu ersetzen, alle im weiteren genannten Methoden dienen lediglich der Bestätigung der klinischen Diagnose oder der Abgrenzung von anderen Erkrankungen mit ähnlicher Präsentation (Differenzialdiagnose).
+Neben den klinischen Kardinalsymptomen sollten nicht motorische Symptome erfasst bzw. untersucht werden (z. B. affektive und kognitive Störungen, Verdauung, Orthostase-Reaktion, Riechtestung).
+Zur Beurteilung des Krankheitsverlaufes ist es sinnvoll, Ausmaß und Schweregrad der Symptomatik zu Beginn und in regelmäßigen Zeitintervallen zu quantifizieren. Hierfür eignen sich Summenscores, beispielsweise die Unified Parkinson’s disease rating scale (UPDRS).
+
+
+=== Bildgebung ===
+Nach klinischer Erstdiagnose eines Parkinson-Syndromes ist für die Einordnung der Erkrankung und die Differentialdiagnose eine zerebrale Bildgebung erforderlich. Mittel der Wahl ist die Kernspintomografie (MRT) des Gehirns. Alternativ kann eine Computertomographie (CCT) erfolgen. Bei der Beurteilung liegt das Augenmerk auf zerebralen Veränderungen der Stammganglien oder des Marklagers, die Hinweise auf ein sekundäres Parkinson-Syndrom geben können. Zudem ist auf charakteristische Atrophiemuster zu achten (z. B. Mittelhirndurchmesser). Mit der transkraniellen Sonographie lassen sich Veränderungen der Substantia nigra als Hinweis auf ein IPS zuverlässig nachweisen.
+
+
+=== Nuklearmedizin ===
+Mit Hilfe der Szintigrafie des Gehirns kann indirekt der Verlust bzw. die Verminderung von dopaminproduzierenden Nervenzellen dargestellt werden. Dabei kommt entweder die Positronen-Emissions-Tomographie (PET) oder die Einzelphotonen-Emissions-Tomographie (SPECT) zum Einsatz. Unter dem Namen DaTSCAN (Dopamin-Transporter-Szintigrafie) wird eine SPECT-Untersuchung nach Injektion von radioaktivem Iod-123-FP-CIT oder Iod-123-β-CIT verstanden. Zur Abgrenzung des Morbus Parkinson zu den Multisystematrophien kann die MIBG-Szintigrafie des Herzens eingesetzt werden.
+
+
+=== L-Dopa-Test und Apomorphin-Test ===
+Die Symptomatik der Parkinson-Krankheit bessert sich auf die Zufuhr von L-Dopa (siehe Abschnitt Behandlung). Dies lässt sich auch diagnostisch nutzen. Beim sogenannten L-Dopa-Test wird der Effekt einer standardisierten Menge an L-Dopa nach oraler Aufnahme erfasst. Eine signifikante Verbesserung (über 30 % auf der UPDRS) der Symptomatik stützt, beweist jedoch nicht die klinische Diagnose eines idiopathischen Parkinson-Syndroms. Das gleiche Konzept kann auch mit dem Dopaminagonisten Apomorphin nach subcutaner Injektion zur Anwendung kommen (Apomorphin-Test). Beide Tests werden nicht routinemäßig empfohlen, sondern bleiben schwierigen Konstellationen mit diagnostischer Unsicherheit vorbehalten.
+
+
+=== Labor- und Liquordiagnostik ===
+Bei entsprechendem klinischen Verdacht kann es zur Abgrenzung sekundärer Parkinsonsyndrome und Differenzialdiagnosen erforderlich sein, Laboruntersuchungen aus Blut oder Liquor cerebrospinalis zu veranlassen (z. B. Entzündungsparameter, Kupferstoffwechsel, Erregerdiagnostik, Vitaminspiegel, Blutausstrich etc.). Im Frühstadium des Morbus Parkinson kommt es zu einem Abfall mehrerer Proteine im Liquor cerebrospinalis, unter anderem auch für den Morbus Alzheimer charakteristische Biomarker (z. B. alpha-Synuclein und Tau-Proteine). Für die Diagnose des IPS über den Liquor ist der Abfall jedoch zu gering und die Messung für den Einsatz außerhalb klinischer Studien nicht etabliert.
+
+
+=== Humangenetische Testung ===
+Nur in ausgewählten Fällen sollte eine humangenetische Testung nach entsprechender Beratung und in Kenntnis der potenziell weitreichenden Folgen für den Betroffenen und seiner Familie veranlasst werden. Argumente, die für eine humangenetische Testung sprechen, sind: Erkrankungsbeginn in jungem Lebensalter, mehrere Erkrankungsfälle bei nahen Angehörigen.
+
+
+=== Weitere Untersuchungen ===
+Je nach Ausprägung und Schweregrad der Symptomatik können weitere Untersuchungen sinnvoll sein. Dazu zählen die Messung autonomer Funktionen (z. B. Herzfrequenzanalyse), eine detaillierte Tremoranalyse, Polysomnographie, Langzeit-EKG und Langzeit-Blutdruckmessung.
+
+
+== Früherkennung ==
+Als diagnostischer Marker in Frühphasen der Krankheit steht besonders das Protein Alpha-Synuclein im Fokus. Da der menschliche Organismus zu Beginn der Erkrankung Antikörper dagegen bildet, laufen Forschungen zur Entwicklung eines Antikörpertests. Schwierigkeiten bereiten dabei die Abgrenzung zur Multisystematrophie und anderer Synucleinopathien und wie sich die recht invasive Liquorentnahme z. B. durch einen Bluttest ersetzen lässt, der statt Antikörpern das Vorkommen von Neurofilamenten aus abgestorbenen Nervenzellen (Intermediärfilamente Typ 4) ermittelt.
+Im Jahr 2017 gelang es Forschern der Uniklinik Würzburg und der Uni Marburg, krankhafte Proteinablagerungen von α-Synuclein in der Haut von Patienten mit REM-Schlafstörungen nachzuweisen. Dazu wurde eine nur fünf Millimeter große Biopsie benötigt.
+Die schottische Krankenschwester Joy Milne kann die Parkinson-Krankheit lange vor den eigentlichen Symptomen riechen, der Geruch wird als holzig, moschusartig umschrieben. In mehreren Instituten wird diese außergewöhnliche Riechwahrnehmung weiter erforscht, um Früherkennungstests zu entwickeln.
+
+
+== Behandlung ==
+Es gibt heute noch keine Möglichkeit einer ursächlichen Behandlung der Parkinson-Krankheit, die in einem Verhindern oder zumindest einem Aufhalten der fortschreitenden Degeneration der Nervenzellen des nigrostriatalen Systems bestünde. Daher muss man sich mit einer Behandlung der Symptome begnügen, die zunehmend gut möglich ist, was den Patienten, zumindest in den ersten Jahren (manchmal auch Jahrzehnten) der Erkrankung ein nahezu unbehindertes Leben ermöglicht.
+Mit einem Fortschreiten der Krankheit werden häufig mehrere Medikamente kombiniert, die in immer kürzeren Abständen eingenommen werden müssen, um eine ausreichende Wirksamkeit zu erzielen und Wirkschwankungen zu vermeiden. Treten Wirkschwankungen zwischen starker Unterbeweglichkeit und Überbeweglichkeit weiterhin auf, kann eine der drei fortgeschrittenen Therapieoptionen hilfreich sein (kontinuierliche Apomorphin-Infusion, kontinuierliche L-Dopa-Infusion oder tiefe Hirnstimulation).
+
+
+=== Medikamentöse Behandlung ===
+
+Die Behandlung erfolgt hauptsächlich durch die Gabe einer dopaminergen Medikation, das heißt, Medikamente, die zu einer Erhöhung des Dopamin-Angebots im Gehirn führen, oder das fehlende Dopamin ersetzende Arzneistoffe.
+Das wichtigste Medikament ist L-Dopa (Levodopa), eine Vorstufe des Dopamins. Dieser Vorstufe (Prodrug) ist es – im Gegensatz zum Dopamin selbst – möglich, die Blut-Hirn-Schranke zu durchqueren. Nach mehrjähriger Einnahme von L-Dopa können unwillkürliche Bewegungen, so genannte Dyskinesien, auftreten. Diese erklärt man durch eine pulsatile Rezeptorenstimulation, da L-Dopa nur eine Wirkzeit von wenigen Stunden hat. Deswegen empfiehlt man in der Regel, besonders bei jüngeren Patienten, zu Beginn der Parkinson-Krankheit die Behandlung mit einem länger wirkenden Dopaminagonisten. Dopaminagonisten ahmen an den Dopamin-Rezeptoren die Wirkung von Dopamin nach. Mit sogenannten MAO-B-Hemmern (Selegilin, Rasagilin, Safinamid) wird der Abbau von Dopamin im Gehirn verlangsamt.
+Anticholinergika sollen dem relativen Überwiegen des Botenstoffs Acetylcholin gegenüber dem verminderten Dopamin entgegenwirken. Diese werden heute wegen ihres ungünstigen Nebenwirkungsprofils, insbesondere auf die kognitive Leistungsfähigkeit, nur noch selten verordnet. Sie spielen aber eine Rolle bei dem durch Neuroleptika induzierten sekundären Parkinson-Syndrom. Hemmstoffe der Catechol-O-Methyltransferase, so genannte COMT-Hemmer (Entacapon, Tolcapon, Opicapon), hemmen den Abbau der Dopaminvorstufe L-Dopa zu inaktiven Metaboliten. Dadurch erhöhen sie bei der gemeinsamen Einnahme mit Levodopapräparaten die Verfügbarkeit von Levodopa um 40 bis 90 Prozent und verlängern seine Plasmahalbwertszeit. Entacapon und Tolcapon dürfen nur in Verbindung mit L-Dopa und einem Decarboxylasehemmer angewendet werden. Diese Kombinationstherapie kann zu Einsparungen bei der Dosierung von Levodopa führen und somit das Nebenwirkungsprofil positiv beeinflussen. Ebenfalls eingesetzt wird Amantadin, besonders im Rahmen der akinetischen Krise.
+Eine in Entwicklung befindliche Methode zur medikamentösen Einstellung im häuslichen Umfeld ist die ambulante videounterstützte Parkinsontherapie.
+
+
+==== L-Dopa-Präparate ====
+L-Dopa-Präparate, von denen es in Deutschland mehr als 20 verschiedene gibt, enthalten immer L-Dopa in Kombination mit einem Decarboxylasehemmer (Carbidopa oder Benserazid), der den Abbau des gegen das Parkinson-Syndrom wirksamen L-Dopa peripher (das heißt im Organismus) hemmt, bevor es die Blut-Hirn-Schranke überwindet. So kommt man mit geringeren L-Dopa-Dosen aus und mit geringeren unerwünschten Wirkungen des Präparats außerhalb des Gehirns (wie Herzrhythmusstörungen, Übelkeit, Mundtrockenheit).
+Seit Anfang der 2000er Jahre existiert ein Kombinationspräparat aus L-Dopa, Carbidopa und dem COMT-Hemmer Entacapon. Es ist bei Patienten angezeigt, bei denen zum Ende eines Dosisintervalls Fluktuationen auftreten, die mit einer Kombination aus L-Dopa mit nur einem Decarboxylasehemmer nicht ausreichend stabilisiert sind.
+
+
+==== Dopaminagonisten ====
+In der Therapie der Parkinson-Krankheit werden neben dem oben genannten Levodopa auch Arzneistoffe eingesetzt, die Dopamin-Rezeptoren stimulieren und somit eine dem Dopamin analoge Wirkung besitzen. Hierzu zählen die klassischen Mutterkornalkaloide = Ergot-Dopaminagonisten (Bromocriptin, Cabergolin, Dihydroergocryptin, Lisurid und Pergolid) und die neueren selektiven D2-Rezeptoragonisten = Non-Ergot-Dopaminagonisten (Apomorphin, Piribedil, Pramipexol, Ropinirol und Rotigotin). Die verschiedenen Präparate unterscheiden sich in ihrer Wirkungsdauer, im Wirkungseintritt, in ihrer Galenik und in ihrem Nebenwirkungsprofil.
+Eine weitere theoretische Behandlungsmethode stellt Amphetamin (ebenfalls ein Dopamin-Agonist) dar. Es führt zur erhöhten Ausschüttung von Dopamin in den synaptischen Spalt und hemmt dessen Wiederaufnahme in das präsynaptische Neuron. Wegen der Nebenwirkungen und des Suchtpotentials sind Amphetamine derzeit keine zugelassenen Medikamente.
+
+
+==== COMT-Hemmer ====
+COMT-Hemmer sind Arzneistoffe, die das Dopamin und Levodopa abbauende Enzym Catechol-O-Methyltransferase kompetitiv hemmen. COMT-Hemmer werden immer in Kombination mit Levodopa eingesetzt. Durch die Hemmung des Abbaus und die Anreicherung von Levodopa in der Peripherie steigt die Aufnahme von Levodopa ins Zentralnervensystem und führt somit dort zu einer gewünschten Erhöhung der Dopaminkonzentration. Vertreter dieser Stoffgruppe sind Entacapon (Comtess, Orion Pharma), Tolcapon (Tasmar; Roche) und Opicapon. Tolcapon war wegen schwerer, aber nur vereinzelt auftretender Leberschäden vorübergehend vom Markt genommen worden. Es ist aber nach einer erneuten Sicherheitsbewertung von der europäischen Arzneimittelagentur (EMA) für die Therapie der Parkinson-Krankheit wieder zugelassen worden, mit der Auflage der ständigen Kontrolle der Leberwerte.
+
+
+=== Behandlung des fortgeschrittenen Morbus Parkinson ===
+
+Mit dem unaufhaltsamen Fortschreiten der Erkrankung muss die medikamentöse Behandlung im Verlauf immer wieder – durch einen Neurologen oder in einer der Parkinson-Fachkliniken – angepasst werden. So kommt es im Verlauf der Behandlung häufig zu einer Vielzahl von Medikamenten, die die Betroffenen in Kombination einnehmen müssen. Trotzdem kommt es mit fortschreitender Erkrankung oft zu komplexen Wirkschwankungen der Therapie. Das therapeutische Fenster, in der die Medikation optimal wirkt und weder Über- noch Unterbeweglichkeit auftritt, wird zunehmend schmaler.
+Dies liegt daran, dass die Anzahl Dopamin speichender Nervenzellen im Verlauf der Erkrankung abnimmt. Es ist immer schwieriger, die richtige Dosis zur richtigen Zeit zu verabreichen. Sind die eingenommenen Medikamente zu stark (zu viel Dopamin), kommt es zu Überbeweglichkeit, sind die Medikamente zu schwach (zu wenig Dopamin), tritt bereits vor der Einnahme der nächsten Dosis Unterbeweglichkeit wieder auf (wearing-off).
+Da Patienten häufig unter verlangsamter Magenentleerung leiden, wirken Tabletten häufig erst verzögert oder versagen vollständig. Setzt die Wirkung schließlich ein, passiert es gelegentlich, dass mehrere bislang nicht verdaute Tabletten gleichzeitig wirken. Die fortgeschrittene Parkinsontherapie zielt deswegen auf eine gleichmäßige Wirkstoffzufuhr unter Umgehung des Magen-Darm-Traktes ab (parenterale Wirkstoffzufuhr). Zum Einsatz kommen dabei entweder eine kontinuierliche Pumpentherapie (Apomorphin-Pumpe/L-Dopa-Pumpe) oder die tiefe Hirnstimulation. Die Apomorphin-Therapie ist dabei die einzige fortgeschrittene Therapie, bei der kein chirurgischer Eingriff notwendig ist.
+
+
+==== Apomorphin-Therapie ====
+Apomorphin ist eine Substanz aus der Gruppe der Dopamin-Agonisten mit einem sehr starken Anti-Parkinson Effekt. Es kann mittels eines Injektionspens unter die Haut gespritzt werden oder kontinuierlich mit einer Pumpe infundiert werden. Die Wirkung einer Apomorphin-Injektion setzt innerhalb von wenigen Minuten ein (etwa 8 Minuten) und hält etwa eine Stunde an. Die Therapie kann deswegen bei möglichen Nebenwirkungen sehr schnell angepasst werden. Ein Apomorphin-Pen kommt vor allem dann zum Einsatz, wenn Patienten wenige OFF-Phasen am Tag haben. Die Einstellung auf einen Apomorphin-Pen erfolgt in der Regel ambulant.
+
+Bei der kontinuierlichen Apomorphin-Therapie trägt der Patient tagsüber eine Mini-Pumpe. Mittels eines dünnen Katheters wird eine an den individuellen Bedarf des Patienten angepasste Dosis Apomorphin unter die Haut (z. B. an Bauch oder Oberschenkel) infundiert. Die Pumpe kann auftretende Wirkschwankungen verringern, da der Wirkstoff gleichmäßig abgegeben wird und somit weniger Schwankungen auftreten, als bei Tabletteneinnahme. Die Einstellung auf eine Apomorphin-Pumpe erfolgt in einer Parkinson-Spezialklinik.
+
+
+==== Kontinuierliche L-Dopa-Therapie ====
+Bei der kontinuierlichen L-Dopa-Therapie wird L-Dopa über eine Medikamentenpumpe direkt in den Dünndarm abgegeben. Hierzu wird ein Schlauch (PEG-Sonde) mittels eines chirurgischen Eingriffes durch die Bauchdecke in den Dünndarm geführt und verbleibt während der kompletten Therapie dort.  L-Dopa wird vom Dünndarm direkt in den Körper aufgenommen. So kann die unregelmäßige Magenentleerung, welche die Einnahme von Tabletten behindert, umgangen und Wirkschwankungen verringert werden.
+
+
+==== Tiefe Hirnstimulation ====
+
+Seit vielen Jahren werden auch neurochirurgische Behandlungsmöglichkeiten eingesetzt. Eine seit Anfang der 1990er Jahre angewandte Methode ist die tiefe Hirnstimulation, bei der dem Patienten ein programmierbarer Impulsgenerator („Hirnschrittmacher“) eingesetzt wird. Er erzeugt elektrische Impulse und leitet sie über dünne Kabel, je nach Lokalisation der Krankheitsursache und entsprechender Platzierung der Stimulationselektroden, in die jeweiligen Basalganglien Nucleus subthalamicus, Globus pallidus oder den vorderen Thalamus, wodurch dort überaktive Fehlimpulse wirksam unterdrückt werden können. Dieses Verfahren kommt bei Parkinson-Syndromen, daneben aber auch Dyskinesien und essentiellem Tremor in Frage, wenn die medikamentöse Therapie ihre Grenzen erreicht hat oder aus anderen Gründen nicht oder nur eingeschränkt einsetzbar ist. Eine neue Studie konnte nun zeigen, dass die tiefe Hirnstimulation bei Parkinson-Patienten unter anderem die Fahrtauglichkeit verbessert.
+Bei dem Eingriff zur Elektrodenplatzierung handelt es sich um eine schwierige und nicht ungefährliche stereotaktische Hirnoperation, die rund sechs bis zwölf Stunden dauert und sowohl im Vorfeld als auch während der Operation genaueste Planung und Kontrolle anhand von radiologisch gewonnenen räumlichen Bilddaten und elektrisch abgeleiteten neurophysiologischen Messwerten erfordert. Die Wirkung ist zumeist positiv. Es können jedoch eine vorübergehende oder länger andauernde Dysarthrie (Störung der Sprechmotorik) und ein meist auf ein Jahr begrenzter abnorm gesteigerter Antrieb auftreten. Durch die Verletzung der Hirnrinde können in seltenen Fällen auch Epilepsien ausgelöst werden. Ein entscheidender Vorteil der Methode gegenüber früheren „ablativen“ (zerstörenden) Verfahren, die bei diesen Krankheitsbildern heutzutage keine Anwendung mehr finden, liegt jedoch in der nahezu vollständigen Reversibilität.
+Die Implantation des batteriebetriebenen Impulsgenerators selbst und dessen subkutaner Kabelverbindung zu den Anschlusskontakten der jeweils vierpoligen Platin-Iridium-Elektroden an deren Befestigungspunkten an den Durchtrittsstellen durch die Schädeldecke wird in der Regel erst in einem zweiten chirurgischen Eingriff mehrere Tage nach der Elektrodenplatzierung vorgenommen. Das Gerät wird dabei, je nach seiner modellabhängigen Größe und der Physiognomie des betreffenden Patienten, in einer hierzu präparierten Hauttasche oberhalb des Brustmuskels oder im Bauchraum eingenäht. Nach dem zweiten Eingriff folgt eine Phase, in der die Stimulationseinstellungen des Impulsgebers individuell an die Symptome des Patienten angepasst und im Gerät programmiert werden. Sie kann durchaus mehrere Wochen in Anspruch nehmen und während dieser Zeit können auch noch vereinzelt oben genannte Nebenwirkungen (wie Dysarthrie, Dyskinesie, Dystonie) auftreten, weil sich das Gehirn des Patienten erst noch an die Stimulation von außen „gewöhnen“ muss.
+Die Patienten erhalten anschließend ein spezielles Kontrollgerät, das ihnen ermöglicht, selbstständig den Ladungszustand der Batterie regelmäßig zu überprüfen, den Stimulator bei Bedarf ein- und auszuschalten sowie bei einigen Modellen (nach vorheriger fachlicher Einweisung) auch die Stimulationseinstellungen des Impulsgebers innerhalb bestimmter voreingestellter Grenzbereiche selbst der jeweiligen Situation entsprechend anzupassen. Diese Kontrollgeräte arbeiten transkutan mittels magnetischer Impulse. Je nach Einstellung des Impulsgenerators und ihrer Kapazität, halten die als Energiespeicher verwendeten Primärzellen („Batterie“) das Gerät etwa drei bis sechs Jahre kontinuierlich in Betrieb. Sie sind fest im hermetisch gekapselten, inerten Titan-Gehäuse des Gerätes eingebaut und somit praktisch untrennbar mit dem Gerät verbunden. Da sie sich deshalb weder einfach austauschen noch bei den bisher verwendeten Geräten auch transkutan wieder aufladen lassen, ist nach entsprechendem Spannungsverlust durch die mehrjährige kontinuierliche Entladung die korrekte Funktion des Impulsgenerators nicht mehr gewährleistet. Zur Fortsetzung der tiefen Hirnstimulation ist dann ein weiterer kurzer operativer Eingriff nötig, bei dem das alte Gerät entfernt und durch ein komplett neues ersetzt wird.
+Forscher des Forschungszentrums Jülich und der Universität zu Köln arbeiten an der Entwicklung eines Hirnschrittmachers, der die Parkinson-Symptome nicht nur unterdrücken, sondern sie korrigieren und das Gehirn wieder normal funktionieren lassen soll. Für diese Idee erhielten sie 2005 den Erwin-Schrödinger-Preis.
+
+
+=== Gentherapie ===
+Mittels Gentherapie wird unter anderem versucht, über Enzyme die Produktion von Dopamin in den Basalganglien zu steigern, um die motorischen Symptome zu verbessern. In der vorliegenden Studie aus dem Jahr 2014 werden zwar gute Ergebnisse erzielt, jedoch ist eine Placebo-Wirkung nicht auszuschließen, da keine Kontrollgruppe besteht. Die Therapie von Oxford BioMedica besteht in der Injektion von gentechnisch modifizierten Viren beidseits in das Striatum. Dadurch werden die Tyrosinhydroxylase, die DGTP-Cyclohydrolase und die Aromatische-L-Aminosäure-Decarboxylase beeinflusst, um die Dopaminproduktion zu erhöhen.
+
+
+=== Implantation fetalen Hirngewebes ===
+Die Implantation embryonaler Stammzellen in das Gehirn konnte zwar Ratten vom Parkinson-Tremor befreien, führte jedoch 2002 bei fünf von 19 Versuchstieren der Harvard Medical School zur Entwicklung unheilbarer Teratome. Der Forschungsansatz wird deshalb kaum noch weiterverfolgt. Vielversprechender sind therapeutische Ansätze mit weiterentwickelten Stammzellen. Dazu zählt der Einsatz neuraler Vorläuferzellen, die aus fetalem Gewebe isoliert worden sind. Sie sind von Wissenschaftlern des Rush University Medical Center in Chicago und des Universitätsklinikums Leipzig an Ratten und Affen erfolgreich getestet worden und führten bei ihnen zu keinen negativen Nebenwirkungen.
+Eine in den USA durchgeführte doppelblind kontrollierte Pilotstudie zur Wirksamkeit der Transplantation fetaler Vorläuferzellen der Substantia nigra zeigte keinen sicheren Effekt der Transplantationen (Annals of Neurology 2003, Olanow et al.). Neben den Komplikationen des Eingriffes selbst scheinen die Fluktuationen zwischen Unbeweglichkeit und Überbewegungen sogar noch zuzunehmen und unvorhersehbarer zu werden.
+
+
+=== Komplementäre Behandlungsverfahren ===
+Ausreichende Bewegung ist wichtig, um die für das Parkinson-Syndrom typische allmähliche Verminderung der Mobilität so lange wie möglich hinauszuzögern. Bei fortgeschrittener Krankheit ist dafür eine regelmäßige und speziell darauf ausgerichtete Physiotherapie nötig. Eine logopädische/sprachtherapeutische Unterstützung ist sinnvoll, wenn sich mit Fortschreiten der Erkrankung das Sprechen (leise und unexakte Aussprache, zu leise und zu hohe Stimme, zu schnelles Sprechen) und/oder das Schlucken (Verschlucken meist zunächst bei Flüssigkeiten, evtl. Komplikationen wie Lungenentzündungen) verschlechtert. Ergotherapie unterstützt durch Hilfen für den Alltag (Knöpfhilfen, Greifhilfen) und arbeitet an der Raumwahrnehmung zur Verbesserung der Bewegung.
+
+
+=== Alternativmedizinische Behandlungsmethoden und Prävention ===
+Etwa 40 bis 60 % der Parkinson-Patienten nehmen – meist zusätzlich zur medikamentösen Therapie – alternativmedizinische Therapien in Anspruch. Unter diesen werden Entspannungs-, Meditations-, Atem- und Bewegungsübungen wie Taijiquan, Qigong, Yoga sowie Akupunktur und Massagen häufig angewendet. Einige Patienten verwenden Nahrungsergänzungsmittel wie Vitamine, um Mangelzuständen vorzubeugen oder angenommene Mangelzustände zu behandeln. Aussagekräftige klinische Studien, die eine Wirksamkeit dieser Behandlungen hinsichtlich der Lebensqualität und Symptomverbesserung untersucht haben, liegen nicht vor. Bei der Verwendung von Nahrungsergänzungsmitteln besteht die Möglichkeit schädlicher Wechselwirkungen mit der medikamentösen Therapie. Vorsicht ist insbesondere bei der Einnahme von L-Dopa-haltigen Nahrungsergänzungsmitteln, zum Beispiel Extrakten der Juckbohne (Mucuna pruriens) geboten, da der L-Dopa-Gehalt hier oft schwankt und so zusammen mit einer medikamentösen L-Dopa-Therapie zu deutlichen Wirkungsschwankungen führen kann.
+Der Studie einer Arbeitsgruppe des Dresdener Max-Planck-Instituts für molekulare Zellbiologie und Genetik zufolge macht die Zugabe von D-Laktat (DL, linksdrehende Milchsäure) und Glykolsäure (GA, eine Fruchtsäure) in-vitro-Kulturen von dopaminproduzierenden Nervenzellen widerstandsfähiger gegen Degeneration. In den Zellen, die der Substantia nigra spezieller Labormäuse entstammen, erhalten DL und GA die Funktionsfähigkeit der Mitochondrien aufrecht bzw. stellen die Funktionsfähigkeit geschädigter Mitochondrien wieder her. Somit könnte rein theoretisch die regelmäßige Aufnahme dieser Substanzen, beispielsweise über Fruchtjoghurt, der mit Kulturen von „Lactobacillus bulgaricus“ hergestellt wurde, einer Parkinson-Erkrankung vorbeugen oder aber Parkinson im Anfangsstadium bremsen oder sogar stoppen.
+
+
+== Krankheitsverlauf und Prognose ==
+Die Parkinsonkrankheit stellt eine chronisch progrediente Erkrankung dar und ist durch eine im Krankheitsverlauf zunehmende Schwere der Symptome gekennzeichnet. Dabei besteht eine erhebliche Variabilität der Krankheitsprogression zwischen erkrankten Menschen. Sowohl eine fehlende Krankheitsprogression als auch eine besonders rasche Progression sollten Zweifel an der Diagnose aufkommen lassen und zur Abklärung anderer Krankheitsursachen führen.
+Betroffene Patienten leben oft noch viele Jahrzehnte mit der Erkrankung, dennoch ist die Lebenserwartung eingeschränkt. Häufige Todesursachen sind eine Lungenentzündung oder beispielsweise eine Oberschenkelhalsfraktur.
+Zwei unterschiedliche Verlaufstypen der Parkinsonkrankheit konnten nachgewiesen und in mehreren Studienkohorten reproduziert werden. Patienten eines rasch-progredienten Verlauftyps sind durch eine raschere Zunahme nicht-motorischer, kognitiver, autonomer Symptome, Gangstörungen, eine erhöhte Mortalität, und eine insgesamt raschere Abnahme dopaminerger Neurone der Substantia nigra gekennzeichnet. Patienten des langsam-progredienten Verlaufstyps zeigen dagegen eine milde Progression ihrer Symptome sowie eine geringere Mortalität auf.
+Die Vorhersage des Krankheitsverlaufs für den einzelnen Betroffenen ist generell schwierig und mit Unsicherheiten behaftet. Als Risikofaktoren für einen rascheren Krankheitsverlauf konnten ein höheres Alter, frühes Auftreten einer REM-Schlaf-Verhaltensstörung, eine niedrigere Asymmetrie motorischer Symptome, sowie eine niedrigeres Bildungsniveau nachgewiesen werden.
+
+
+== Atypische Parkinson-Syndrome ==
+
+Es gibt Krankheiten, die der Parkinsonschen Erkrankung ähneln und deren Ursache ebenfalls in einem Verfall von Nervenzellen im Bereich der Basalganglien im Gehirn liegt. Man nennt sie atypische Parkinson-Syndrome oder Parkinson-Plus-Syndrome: Menschen, die an diesen Krankheiten leiden, zeigen neben der Parkinson-Symptomatik weitere Symptome. Die häufigsten Krankheiten aus dem Bereich der atypischen Parkinson-Syndrome sind folgende:
+
+Multi-System-Atrophie (MSA)
+MSA-P Striatonigrale Degeneration (SND)
+MSA-C Olivopontocerebelläre Atrophie (OPCA)
+Primäre orthostatische Hypotension (Shy-Drager-Syndrom)
+Progressive supranukleäre Blickparese (PSP, auch: Steele-Richardson-Olszewski-Syndrom)
+Kortikobasale Degeneration (CBD)
+Lewy-Körper-Demenz (LBD)
+MSA und LBD zählen zu den Synucleinopathien, CBD und PSP zu den Tauopathien. Ferner gilt ein atypisches Parkinsonsyndrom als eines der ersten neurologischen Symptome der zu den Leukodystrophien zählenden Cerebrotendinösen Xanthomatose (CBX).
+Die atypischen Parkinson-Syndrome sind vergleichsweise selten. Allerdings gibt es eine hohe Dunkelziffer, weil diese Krankheitsbilder selten sind und die Patienten oft fehldiagnostiziert werden (als Morbus Parkinson, Morbus Alzheimer oder auch Depression). In Autopsien stellte sich die Lewy-Körperchen-Erkrankung (engl. Lewy body disease) als Ursache von ca. 50 Prozent der klinisch als „typisch“ diagnostizierten Parkinson-Syndrome heraus.
+
+
+== Siehe auch ==
+Deutsche Parkinson Vereinigung
+
+
+== Literatur ==
+
+
+=== Monografien ===
+James Parkinson: Eine Abhandlung über die Schüttellähmung/An Essay on the Shaking Palsy. zweisprachige Ausgabe, Text von 1817, Neuausgabe herausgegeben von Jürgen Flügge. Books on Demand, Norderstedt 2009, ISBN 978-3-8370-2207-0.
+Reiner Thümler: Die Parkinson-Krankheit: Mehr wissen, besser verstehen. Trias, Stuttgart 2006, ISBN 3-8304-3321-2 (populärwissenschaftlich).
+Manfred Gerlach, Heinz Reichmann, Peter Riederer: Die Parkinson-Krankheit: Grundlagen, Klinik, Therapie. 3. Auflage. Springer, Wien/New York NY 2003, ISBN 3-211-83884-8.
+Gerd A. Fuchs, David Emmans, Martin Faller: Die Parkinsonsche Krankheit: Ursachen und Behandlungsformen (= Beck’sche Reihe, Band 2301: C. H. Beck Wissen). C. H. Beck, München 2002, ISBN 3-406-48001-2.
+Reiner Thümler: Morbus Parkinson: Ein Leitfaden für Klinik und Praxis. Springer, Berlin/Heidelberg/New York NY/Barcelona/Hongkong/London/Mailand/Paris/Tokio 2002, ISBN 3-540-67471-3.
+Thomas Müller: Medikamentöse Therapie des Morbus Parkinson. 7., neubearb. Auflage. UNI-MED, Bremen 2022, ISBN 978-3-8374-2443-0.
+Wolfgang H. Jost: Therapie des idiopathischen Parkinson-Syndroms. 10. Auflage, UNI-MED science, Bremen/London/Boston 2018, ISBN 978-3-8374-2391-4.
+Siegfried Vogel, Reinhard Horowski: Leistung im Alter bei Parkinsonscher Krankheit: Ein Essay am Beispiel von Leonardo da Vinci, Wilhelm von Humboldt und Johannes Paul II. Duncker und Humblot, Berlin 2003, ISBN 3-428-11443-4.
+Susanne Schäfer: Die juvenilen und Young-onset-Parkinson-Syndrome, besondere Aspekte, Fragen und eine Herausforderung für Arzt, Patient und Angehörige/Suzie McCoy. Verlag für Wissenschaft, Forschung und Technik, Wermelskirchen 2001, ISBN 3-929095-14-9.
+Claudia Trenkwalder: Parkinson – Die Krankheit verstehen und bewältigen. 2. Auflage. Schattauer, Stuttgart 2014, ISBN 978-3-7945-2975-9.
+J. Wiltfang, S. Trost, H. J. Hampel: Demenz. Psychiatrie, Psychosomatik, Psychotherapie. Band 1: Allgemeine Psychiatrie; Band 2: Spezielle Psychiatrie. 2016, S. 1–89.
+
+
+=== Leitlinien ===
+S3-Leitlinie Idiopathisches Parkinson-Syndrom der Deutschen Gesellschaft für Neurologie (DGN). In: AWMF online (Stand 1. Januar 2016)
+
+
+=== Beschreibungen aus Patientensicht ===
+Jürgen Mette: Alles außer Mikado: Leben trotz Parkinson. Gerth Medien, Asslar 2013, ISBN 3-86591-762-3.
+Wigand Lange: Wenn Parkinson kommt. Meine Erfahrungen mit einem ungebetenen Gast. Gütersloher Verlagshaus, Gütersloh 2007, ISBN 3-579-06954-3.
+Helmut Dubiel: Tief im Hirn. Kunstmann, München 2006, ISBN 3-88897-451-8.
+Michael J. Fox: Lucky man. A memoir. Hyperion, New York 2002, ISBN 0-7868-6764-7. (Autobiografie).
+auf Deutsch: Comeback. Parkinson wird nicht siegen. Ehrenwirth, Bergisch Gladbach 2002, ISBN 3-431-03358-X (aus dem Engl. von Bernd Rullkötter).
+als Taschenbuch: Comeback. Parkinson wird nicht siegen. Bastei Lübbe, Bergisch Gladbach 2004, ISBN 3-404-61551-4.
+Gerald Ganglbauer: Kopfbahnhof. Leben mit Young Onset Parkinson. Gangan, Stattegg 2020, ISBN 978-3-900530-34-1.
+Reinhard Hinterleitner: Mein Leben mit der Parkinsonkrankheit. Urban und Fischer, München 2001, ISBN 3-437-47400-6.
+
+
+=== Ratgeber für Angehörige ===
+Willibald Gerschlager (mit Hanne Brachtl, Wolfgang Freitag und Gerald Ganglbauer): Parkinson. Ursachen, Diagnose, Verlauf und Therapieformen; Hilfe zur Selbsthilfe. Maudrich, Wien 2009, 208 S., ISBN 978-3-85175-907-5.
+Angelika Gollbach: Hilfe zur Selbsthilfe. Morbus Parkinson – Ratschläge (nicht nur) für Angehörige. Maier, Schweinfurt 2007, ISBN 978-3-926300-60-7.
+
+
+=== Zeitschriftenaufsätze ===
+Wolfgang Götz: Geschichte der Therapie des Morbus Parkinson – fast 200 Jahre keine kausale Therapie. In: Pharmazie in unserer Zeit, 35 (3), 2006, S. 190–196.
+Hansruedi Büeler: Die Parkinson-Krankheit – Molekulare Mechanismen und Genetik. In: Pharmazie in unserer Zeit, 35 (3), 2006, S. 198–203
+Bernd Riebesehl, Ralph Lipp: Darreichungsformen in der Parkinson-Therapie – Arzneiformen eröffnen neue Wege für Parkinson-Patienten. In: Pharmazie in unserer Zeit, 35 (3), 2006, S. 226–23
+Jan Schindehütte, Walter Paulus, Ahmed Mansouri: Stammzellentherapie bei Morbus Parkinson – Zellersatz als eine therapeutische Option? In: Pharmazie in unserer Zeit, 35 (3), 2006, S. 250–254
+S. Wenzel, B. Mollenhauer, C. Trenkwalder: Diagnostik und Therapie von Parkinson-Demenz in der klinischen Praxis. In: Der Nervenarzt, 77, 2006, S. 1439–1443.
+
+
+=== Sonstige Werke (Belletristik, Drama etc.) ===
+Klaus Fehling: Nicht mein Bein. Hörspiel. Produktion: WDR 2007, ISBN 978-3-942792-04-2
+Markus Dietrich: Mein Robodad. Kurzfilm. Prod.: Gruppe Weimar
+Richard Wagner: Herr Parkinson. Knaus, München 2015, ISBN 978-3-8135-0653-2.
+
+
+== Weblinks ==
+
+
+=== Übersicht ===
+Informationsseite der Sektion für Bewegungsstörungen und Neurostimulation der Universitätsmedizin Mainz
+
+
+=== Forschung ===
+Deutsche Parkinson-Gesellschaft
+Kompetenznetz Parkinson
+Parkinson-Forschung in den USA (englisch, spanisch)
+Artikelsammlung zur Parkinson-Stammzellenforschung (englisch)
+Michael J. Fox Trial Finder Website der Michael J. Fox Foundation, die über laufende klinische Parkinson-Studien informiert und Kontakt zwischen interessierten Betroffenen und passenden Studien in Wohnortnähe herstellt
+
+
+=== Patientenorganisationen ===
+Jung und Parkinson. Die Selbsthilfe e. V.
+Bundesverband Parkinson Youngster e. V. - Selbsthilfe für Parkinson & Essentiellen Tremor
+Deutsche Parkinson-Vereinigung e. V.
+Parkinson Selbsthilfe Österreich
+Parkinsonline (PON) Österreich
+Parkinson Schweiz
+EnableMe Schweiz - Informationen und Austauschmöglichkeiten für Betroffene
+
+
+== Einzelnachweise ==
