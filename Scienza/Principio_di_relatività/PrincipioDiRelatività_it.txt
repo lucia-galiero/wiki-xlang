@@ -1,0 +1,482 @@
+In fisica, la relatività galileiana afferma che le leggi della meccanica hanno sempre la stessa forma nei sistemi di riferimento inerziali. Da ciò consegue che nessun esperimento può consentire di distinguere due sistemi di riferimento in moto rettilineo uniforme fra loro. È il primo esempio storico esplicito del principio di relatività.
+
+Galileo descrisse il principio nel 1632 nel suo Dialogo sopra i due massimi sistemi del mondo utilizzando l'esempio di una nave in viaggio a velocità costante, senza scosse, su un mare perfettamente calmo: in tale situazione, un osservatore che faccia esperimenti con oggetti in moto sotto coperta senza poter vedere l'ambiente esterno non riesce a determinare se la nave sia in moto o ferma e ottiene gli stessi risultati in entrambe le situazioni. Nella seconda giornata del libro, il copernicano Filippo Salviati afferma testualmente: 
+
+
+== Trasformazioni ==
+
+Galileo mise a punto regole di trasformazione delle coordinate, dette trasformazioni galileiane, che permettevano di esprimere le tre coordinate spaziali in un sistema di riferimento conoscendone l'espressione in un altro; ciò consente di spostare le analisi da un osservatore inerziale a un altro. Quando effettuano le misure i due osservatori sono lontani l'uno dall'altro e, siccome le loro osservazioni devono essere fatte nello stesso istante, devono scambiarsi segnali. Galileo era perfettamente conscio di tale problema, tanto che provò a misurare la velocità della luce fra due osservatori che facevano segnali con una lanterna. Ne dedusse che la velocità è elevatissima e archiviò la questione come irrilevante ai fini pratici.
+Secondo Galilei (e poi Newton) il tempo, che si può considerare come una quarta coordinata, è lo stesso in entrambi i sistemi inerziali. Cioè nell'ambito della meccanica classica tutti gli orologi marciano con lo stesso ritmo e di conseguenza gli intervalli temporali fra due eventi successivi saranno gli stessi per entrambi gli osservatori. Benché questa ipotesi sembri ovvia, in seguito Einstein dimostrò nella sua teoria della relatività ristretta che essa risulta apprezzabilmente non corretta quando si ha a che fare con situazioni in cui la velocità relativa dei due sistemi è confrontabile con quella della luce.
+
+
+== Composizione della velocità ==
+La più importante conseguenza della relatività galileiana è la composizione della velocità. Un esempio viene dato da una barca che si muove con velocità 
+  
+    
+      
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            
+              0
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}_{0'}}
+  
+ rispetto all'acqua di un canale, la quale a sua volta si muove con velocità 
+  
+    
+      
+        
+          
+            
+              u
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {u}}}
+  
+ rispetto alla riva. 
+
+Un osservatore 
+  
+    
+      
+        O
+      
+    
+    {\displaystyle O}
+  
+ è solidale con la riva, un altro 
+  
+    
+      
+        
+          O
+          ′
+        
+      
+    
+    {\displaystyle O'}
+  
+ con la corrente. Per 
+  
+    
+      
+        O
+      
+    
+    {\displaystyle O}
+  
+ la barca si muove contro la corrente con velocità 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+  
+, la corrente con velocità 
+  
+    
+      
+        
+          
+            
+              u
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {u}}}
+  
+. Per 
+  
+    
+      
+        
+          O
+          ′
+        
+      
+    
+    {\displaystyle O'}
+  
+ la barca si muove con velocità 
+  
+    
+      
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            
+              0
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}_{0'}}
+  
+ rispetto all'acqua. 
+La trasformazione galileiana delle velocità è tale che
+
+  
+    
+      
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            2
+          
+        
+        (
+        t
+        )
+        +
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            1
+            −
+            2
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\vec {v}}_{1}(t)={\vec {v}}_{2}(t)+{\vec {v}}_{1-2}(t)}
+  
+
+e quindi
+
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            
+              0
+              ′
+            
+          
+        
+        +
+        
+          
+            
+              u
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}={\vec {v}}_{0'}+{\vec {u}}}
+  
+
+Se 
+  
+    
+      
+        
+          
+            
+              
+                v
+                →
+              
+            
+          
+          
+            
+              0
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}_{0'}}
+  
+ e 
+  
+    
+      
+        
+          
+            
+              u
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {u}}}
+  
+ sono costanti, anche 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+  
+ è costante e quindi il moto della barca visto dalla riva è rettilineo uniforme.
+Il valore assoluto 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ della velocità 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+  
+ della barca per l'osservatore 
+  
+    
+      
+        O
+      
+    
+    {\displaystyle O}
+  
+ è dato dalla somma dei valori assoluti 
+  
+    
+      
+        
+          v
+          
+            
+              0
+              ′
+            
+          
+        
+      
+    
+    {\displaystyle v_{0'}}
+  
+ e 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ delle velocità quando la barca va nel verso della corrente:
+
+  
+    
+      
+        v
+        =
+        
+          v
+          
+            
+              0
+              ′
+            
+          
+        
+        +
+        u
+      
+    
+    {\displaystyle v=v_{0'}+u}
+  
+;
+dalla differenza quando va controcorrente:
+
+  
+    
+      
+        v
+        =
+        
+          v
+          
+            
+              0
+              ′
+            
+          
+        
+        −
+        u
+      
+    
+    {\displaystyle v=v_{0'}-u}
+  
+.
+
+
+== La freccia di Leonardo ==
+La composizione delle velocità era già nota a Leonardo da Vinci che nel codice Leicester scrive l'esempio di un arciere che lancia una freccia dal centro della Terra verso la superficie. L'esempio è ripreso in maniera più formale da Galilei (1632). Qui un osservatore esterno alla Terra vede comporsi il moto rettilineo della freccia lungo un raggio e il moto rotatorio della Terra. Il moto risultante sarà una spirale di Archimede.
+
+
+== Conseguenze ==
+Ogni moto può venire descritto solo rispetto a un osservatore il quale si ritiene fermo in quanto è solidale con il sistema di riferimento che utilizza per le sue misure.
+Il che porta a dire che ogni osservatore, chiuso all'interno del proprio sistema di riferimento, non può sapere se è in moto o è fermo. Galilei fa l'esempio di qualcuno che effettui diverse osservazioni nella stiva di una grande nave in movimento e veda che queste non differiscono da quelle che ha precedentemente effettuato sulla terraferma.
+Il principio di relatività si può esprimere in molti modi ma essenzialmente afferma che le leggi della fisica sono invarianti per osservatori in moto relativo uniforme. In pratica un sistema di riferimento inerziale (quindi in moto costante) corrisponde ad un sistema in quiete.
+
+
+== Limiti ==
+Le condizioni a priori della teoria della relatività galileiana sono che osservatori distanti, con diversi orologi:
+
+possono attribuire un tempo comune ai fenomeni osservati
+possono accertarsi se certi eventi sono contemporanei o meno
+Si immagina che i due osservatori possano sincronizzare i loro orologi, inviandosi un segnale. Si può pensare che la sincronizzazione sia possibile anche se la velocità del segnale (luce) sia finita. Basta conoscerla. Ma ciò non è possibile poiché sulla dimensione temporale la relatività galileiana ha il suo limite.
+Infatti verso la fine del 1800 Ernst Mach e diversi altri, fra cui Hendrik Lorentz, si scontrarono con i limiti della relatività galileiana, che non era utilizzabile per i fenomeni elettromagnetici. In particolare le leggi dell'elettricità e del magnetismo sembravano dipendere dal sistema di riferimento utilizzato. In pratica la trasformazione galileiana della velocità:
+
+  
+    
+      
+        v
+        =
+        
+          v
+          
+            o
+          
+          
+            ′
+          
+        
+        +
+        u
+      
+    
+    {\displaystyle v=v_{o}^{\prime }+u}
+  
+
+non era applicabile alle onde elettromagnetiche.
+Albert Einstein, nel formulare la teoria della relatività ristretta, si trovò quindi di fronte a due tipi di trasformazioni: le trasformazioni di Galileo, valide per la meccanica classica, e le trasformazioni di Lorentz, valide per l'elettromagnetismo, ma prive di un supporto teorico convincente. La situazione era molto ambigua e non c'era un nesso tra i due tipi di trasformazioni.
+
+
+== Voci correlate ==
+Principio di relatività
+Meccanica classica
+Relatività ristretta
+Teoria della relatività
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su relatività galileiana
+
+
+== Collegamenti esterni ==
+
+(EN) Galilean invariance / Galilean relativity, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.
