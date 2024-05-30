@@ -1,0 +1,1975 @@
+Il fotone è il quanto di energia della radiazione elettromagnetica. Storicamente chiamato anche quanto di luce, fu introdotto nel 1905 da Albert Einstein, il quale comprese che in un'onda elettromagnetica l'energia è distribuita in pacchetti discreti e indivisibili secondo la formula 
+  
+    
+      
+        E
+        =
+        h
+        f
+      
+    
+    {\displaystyle E=hf}
+  
+, dove h è la costante di Planck ed f è la frequenza della radiazione elettromagnetica.
+Secondo la teoria quantistica dei campi il fotone è la  particella associata al campo elettromagnetico, classificata come bosone vettore elementare di massa nulla (bosone di gauge). È solitamente indicato con la lettera greca gamma (γ).
+
+
+== Origine del termine ==
+Il termine "fotone", coniato dal chimico-fisico statunitense Gilbert N. Lewis nel 1926, deriva dal nome greco φῶς (phòs), di genere neutro e il cui genitivo è  φωτός (photòs), che significa luce; poi alla radice fot- si aggiunse il suffisso -on (-one in italiano) per uniformità con i nomi di altre particelle subatomiche come l'elettrone e il protone. Il termine fotone, apparso in precedenza in altri contesti, come quello della fisiologia della visione, fu usato dal fisico ottico Frithiof Wolfers a Parigi nel luglio 1926, ma con diverso significato; pochi mesi dopo fu riutilizzato da Lewis con significato ancora diverso, e poi ripreso nel 1928 dal fisico Arthur Compton con il significato attuale, dopodiché venne subito adottato da molti fisici, divenendo definitivo.
+
+
+== Introduzione ==
+
+Il concetto di fotone è stato introdotto nell'ambito della fisica quantistica per spiegare le contraddizioni emerse fra l'elettromagnetismo classico e gli esperimenti condotti a cavallo fra la fine del XIX secolo e il XX secolo. Secondo la teoria classica sviluppata da Maxwell, la luce, le onde radio e i raggi UV sono tutte radiazioni elettromagnetiche, cioè campi elettrici e magnetici che si propagano nella materia e nel vuoto seguendo una dinamica ondulatoria. Il fotone fu introdotto come costituente elementare di queste radiazioni da Max Planck e Albert Einstein fra il 1900 e il 1905, come entità non ulteriormente divisibile. Classicamente, ogni onda, secondo il principio di sovrapposizione, può essere sempre scomposta come la somma o il contributo di altre due o più onde. Al contrario la meccanica quantistica postula per le onde elettromagnetiche, in accordo con gli esperimenti, l'esistenza di un "quanto" di energia fondamentale indivisibile, che ha quindi proprietà sia ondulatorie che particellari (fenomeno noto come dualismo onda-particella).
+Dal punto di vista particellare, il fotone ha massa nulla e non trasporta alcuna carica elettrica. Il suo momento angolare intrinseco, lo spin, può assumere solo i due valori di 
+  
+    
+      
+        ±
+        1
+      
+    
+    {\displaystyle \pm 1}
+  
+ (in unità di 
+  
+    
+      
+        ℏ
+      
+    
+    {\displaystyle \hbar }
+  
+) che corrispondono ai diversi stati classici di polarizzazione. Nel vuoto, i fotoni si propagano sempre alla velocità della luce (non esistendo alcun osservatore rispetto al quale sono fermi) e il loro raggio d'azione è illimitato. Questo significa che un fotone può continuare a viaggiare nello spazio-tempo indefinitamente senza alcun limite, finché non viene assorbito da un'altra particella. Per questo motivo, è possibile tuttora rilevare i fotoni emessi nelle prime fasi di vita dell'universo, che formano la radiazione cosmica di fondo.
+Dal punto di vista ondulatorio, un fotone ha una sua frequenza di vibrazione e una sua lunghezza d'onda. Il prodotto della frequenza 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+  
+ con la lunghezza d'onda 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ è pari alla velocità di propagazione dell'onda, in questo caso della luce:
+
+  
+    
+      
+        λ
+        ν
+        =
+        c
+      
+    
+    {\displaystyle \lambda \nu =c}
+  
+
+quindi all'aumentare della frequenza diminuisce la lunghezza d'onda. Ad esempio un fotone che costituisce la luce verde ha una frequenza 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+  
+ di 600 THz e quindi una lunghezza d'onda 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ pari a:
+
+  
+    
+      
+        λ
+        =
+        
+          
+            c
+            ν
+          
+        
+        ≃
+        
+          
+            
+              3
+              ×
+              
+                10
+                
+                  8
+                
+              
+               
+              
+                m
+                
+                  s
+                  
+                    −
+                    1
+                  
+                
+              
+            
+            
+              600
+              ×
+              
+                10
+                
+                  12
+                
+              
+               
+              
+                
+                  s
+                  
+                    −
+                    1
+                  
+                
+              
+            
+          
+        
+        =
+        5
+        ×
+        
+          10
+          
+            −
+            7
+          
+        
+         
+        
+          m
+        
+        =
+        500
+         
+        
+          n
+          m
+        
+      
+    
+    {\displaystyle \lambda ={\frac {c}{\nu }}\simeq {\frac {3\times 10^{8}\ \mathrm {ms^{-1}} }{600\times 10^{12}\ \mathrm {s^{-1}} }}=5\times 10^{-7}\ \mathrm {m} =500\ \mathrm {nm} }
+  
+
+che corrisponde alla dimensione di alcuni batteri o circa un centesimo dello spessore di un capello. I fotoni inoltre trasportano un'energia 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  
+ proporzionale alla frequenza 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+  
+:
+
+  
+    
+      
+        E
+        =
+        h
+        ν
+      
+    
+    {\displaystyle E=h\nu }
+  
+
+dove 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ è la costante di Planck, contrariamente alle onde classiche dove l'energia è proporzionale al quadrato dell'ampiezza. I fotoni costituiscono tutte le radiazioni dello spettro elettromagnetico (e non solo quelli della radiazione visibile). Ad alte frequenze quindi, come nei raggi gamma, i fotoni trasportano grandi quantità di energia e sono pericolosi per l'uomo in quanto in grado di danneggiare la struttura molecolare del DNA. A basse frequenze invece le energie trasportate si riducono considerevolmente, i fotoni si propagano senza essere ostacolati da oggetti di piccole dimensioni e di conseguenza le onde radio possono essere trasmesse a grandi distanze.
+Una comune lampada da 100 W a luce rossa può emettere, trascurando la quantità di energia dispersa in calore, centinaia di trilioni di fotoni ogni secondo (dell'ordine di grandezza cioè di 
+  
+    
+      
+        
+          10
+          
+            20
+          
+        
+      
+    
+    {\displaystyle 10^{20}}
+  
+). Questo significa che la luce è costituita da un numero enorme di fotoni che presi singolarmente trasportano quindi una quantità infinitesima di energia. Tuttavia questa quantità infinitesima di energia è sufficiente a rompere alcuni legami molecolari e ad esempio a far innescare le reazioni di fotosintesi clorofilliana delle piante. In questo caso un fotone della luce blu di lunghezza d'onda di 450 nm, che trasporta quindi una energia estremamente piccola rispetto a quelle delle scale di energia dell'esperienza quotidiana pari a:
+
+  
+    
+      
+        E
+        =
+        h
+        ν
+        =
+        
+          
+            
+              h
+              c
+            
+            λ
+          
+        
+        ≃
+        
+          
+            
+              (
+              6
+              ,
+              626
+              ×
+              
+                10
+                
+                  −
+                  34
+                
+              
+               
+              
+                J
+                s
+              
+              )
+              (
+              3
+              ×
+              
+                10
+                
+                  8
+                
+              
+               
+              
+                m
+                
+                  s
+                  
+                    −
+                    1
+                  
+                
+              
+              )
+            
+            
+              4
+              ,
+              5
+              ×
+              
+                10
+                
+                  −
+                  7
+                
+              
+               
+              
+                m
+              
+            
+          
+        
+        ≃
+        4
+        ,
+        4
+        ×
+        
+          10
+          
+            −
+            19
+          
+        
+         
+        
+          J
+        
+      
+    
+    {\displaystyle E=h\nu ={\frac {hc}{\lambda }}\simeq {\frac {(6,626\times 10^{-34}\ \mathrm {Js} )(3\times 10^{8}\ \mathrm {ms^{-1}} )}{4,5\times 10^{-7}\ \mathrm {m} }}\simeq 4,4\times 10^{-19}\ \mathrm {J} }
+  
+
+viene assorbito da un recettore e dà avvio alla produzione di zucchero. Per questo motivo alcune speciali lampade sono utilizzate per accelerare la crescita delle piante.
+Il fotone ha avuto una rilevanza fondamentale nello sviluppo della meccanica quantistica, come nel campo dell'ottica, e ha importanti applicazioni in fotochimica, microscopia, trasferimento di energia per risonanza e comunicazioni ottiche come la crittografia quantistica.
+
+
+== Sviluppo storico ==
+
+Fino al XVIII secolo molte teorie avevano introdotto un modello corpuscolare per la luce. Uno dei primi testi a presentare tale ipotesi è un compendio degli studi dello scienziato iracheno Alhazen, tradotto nel 1270 dal monaco polacco Vitellione, che sotto il titolo complessivo di De Aspectibus raccoglie insieme alcune opere, tra le quali il Libro dell'ottica, del 1021, conosciuto in Occidente col titolo di Prospettiva di Alhazen. Nel libro i raggi di luce vengono considerati dei flussi di particelle che "non hanno alcuna caratteristica sensibile tranne l'energia". Dal momento che il modello particellare non spiega fenomeni come la rifrazione, la diffrazione e la birifrangenza, René Descartes propone nel 1637 un modello ondulatorio, seguito da Robert Hooke nel 1665, e Christian Huygens nel 1678. La teoria corpuscolare rimane tuttavia dominante, principalmente a causa dell'influenza delle scoperte di Isaac Newton. Nei primi anni del XIX secolo, Thomas Young e Augustin-Jean Fresnel dimostrano definitivamente l'interferenza e la diffrazione della luce, confermando la solidità del modello ondulatorio, che nel 1850 era generalmente accettato. Nel 1865 le equazioni di Maxwell pongono le fondamenta dell'elettromagnetismo, identificando la luce come radiazione elettromagnetica, e le successive scoperte di Heinrich Hertz ne danno un'ulteriore prova, facendo sembrare errato il modello particellare.
+Le equazioni di Maxwell, tuttavia, non tengono conto di tutte le proprietà della luce: esse mostrano infatti la dipendenza dell'energia luminosa dall'intensità della radiazione, e non dalla frequenza, mentre alcuni esperimenti riguardanti la fotochimica mostrano che in alcuni casi l'intensità non contribuisce all'energia trasportata dall'onda, che dipende esclusivamente dalla frequenza. Anche le ricerche sul corpo nero, portate avanti da vari scienziati nella seconda metà del XIX secolo, in particolare Max Planck, evidenziano che l'energia che ogni sistema assorbe o emette è un multiplo intero di una grandezza fondamentale, il quanto dell'energia elettromagnetica.
+Gli studi sull'effetto fotoelettrico effettuati all'inizio del Novecento da diversi scienziati, tra cui principalmente Albert Einstein, mostrarono infine che la separazione degli elettroni dal proprio atomo dipende esclusivamente dalla frequenza della radiazione dalla quale sono colpiti,
+e pertanto l'ipotesi di un'energia quantizzata diventò necessaria per descrivere gli scambi energetici tra luce e materia.
+Il "quanto" fu introdotto come costituente elementare di queste radiazioni da Max Planck nel 1900, come entità non ulteriormente divisibile. Nell'ambito dei suoi studi sul corpo nero il fisico tedesco, ipotizzando che gli atomi scambino energia mediante "pacchetti finiti", formulò un modello in accordo con i dati sperimentali. In questo modo risolse il problema dell'emissione infinita nella radiazione del corpo nero (problema noto come "catastrofe ultravioletta"), che emergeva applicando le equazioni di Maxwell. La vera natura dei quanti di luce restò inizialmente un mistero: lo stesso Planck li introdusse non direttamente come entità fisiche reali ma piuttosto come espediente matematico per far quadrare i conti.
+La teoria dei quanti di luce (Lichtquant) fu proposta anche da Albert Einstein nel 1905, a seguito dei suoi studi sull'effetto fotoelettrico, per spiegare l'emissione di elettroni dalla superficie di un metallo colpito da radiazione elettromagnetica, effetto che esibiva dati in disaccordo con la teoria ondulatoria di Maxwell. Einstein introdusse l'idea che non solo gli atomi emettono e assorbono energia in "pacchetti finiti", i quanti proposti da Max Planck, ma che è la stessa radiazione elettromagnetica ad essere costituita da quanti, ossia da quantità discrete di energia, poi denominati fotoni nel 1926. In altri termini, poiché la radiazione elettromagnetica è quantizzata, l'energia non è distribuita in modo uniforme sull'intera ampiezza dell'onda elettromagnetica, ma concentrata in vibrazioni fondamentali di energia.
+Sebbene il fisico tedesco accettasse la validità delle equazioni di Maxwell, nel 1909 e nel 1916 mostra che molti esperimenti possono essere spiegati solo assumendo che l'energia sia localizzata in quanti puntiformi che si muovono indipendentemente l'uno dall'altro, pur se l'onda è distribuita con continuità nello spazio. Per i suoi studi sull'effetto fotoelettrico e la conseguente scoperta dei quanti di luce Einstein ricevette il Premio Nobel per la fisica nel 1921.
+L'ipotesi quantistica di Einstein non fu accettata per diversi anni da una parte importante della comunità scientifica, tra cui Hendrik Lorentz, Max Planck e Robert Millikan (vincitori del Premio Nobel per la fisica, rispettivamente, nel 1902, 1918 e 1923), secondo i quali la reale esistenza dei fotoni era un'ipotesi inaccettabile, considerato che nei fenomeni di interferenza le radiazioni elettromagnetiche si comportano come onde. L'iniziale scetticismo di questi grandi scienziati dell'epoca non deve sorprendere, dato che perfino Max Planck, che per primo ipotizzò l'esistenza dei quanti (anche se con riferimento agli atomi, che emettono e assorbono "pacchetti di energia"), ritenne, per alcuni anni, che i quanti fossero solo un espediente matematico per far tornare i conti e non un reale fenomeno fisico. Ma successivamente lo stesso Robert Millikan dimostrò sperimentalmente l'ipotesi di Einstein sull'energia del fotone, e quindi dell'elettrone emesso, che dipende soltanto dalla frequenza della radiazione, e nel 1916 effettuò uno studio sugli elettroni emessi dal sodio che contraddiceva la classica teoria ondulatoria di Maxwell.
+L'aspetto corpuscolare della luce fu confermato definitivamente dagli studi sperimentali di Arthur Holly Compton. Infatti il fisico statunitense nel 1921 osservò che, negli urti con gli elettroni, i fotoni si comportano come particelle materiali aventi energia e quantità di moto che si conservano; poi nel 1923 pubblicò i risultati dei suoi esperimenti (effetto Compton) che confermavano in modo indiscutibile l'ipotesi di Einstein: la radiazione elettromagnetica è costituita da quanti (fotoni) che interagendo con gli elettroni si comportano come singole particelle e ogni fotone interagisce con un solo elettrone. Per l'osservazione sperimentale della quantità di moto del fotone e la scoperta dell'effetto omonimo Arthur Compton ricevette il premio Nobel nel 1927.
+Il problema di coniugare la natura ondulatoria e particellare della luce occupò la restante vita di Einstein, ed è stato risolto grazie all'elettrodinamica quantistica ed al modello standard.
+
+
+== Proprietà fisiche ==
+Il fotone è una particella priva di massa e, poiché non decade spontaneamente, la sua vita media è infinita. Il fotone ha due possibili stati di polarizzazione ed è descritto dal vettore d'onda, che determina la lunghezza d'onda e la sua direzione di propagazione. Il fotone è il bosone di gauge per l'elettromagnetismo e di conseguenza gli altri numeri quantici, come il numero leptonico il numero barionico e il sapore sono nulli.
+I fotoni sono emessi in molti processi naturali, come durante l'accelerazione di una particella carica, la transizione di un atomo o molecola ad un livello di energia inferiore o l'annichilazione di una particella con la rispettiva antiparticella.
+Nel vuoto, il fotone si propaga costantemente alla velocità della luce c, definita pari a
+
+  
+    
+      
+        c
+        =
+        
+          
+            
+              1
+              
+                
+                  ε
+                  
+                    0
+                  
+                
+                
+                  μ
+                  
+                    0
+                  
+                
+              
+            
+          
+        
+        =
+        299.792.458
+         
+        
+          m
+          
+            /
+          
+          s
+        
+      
+    
+    {\displaystyle c={\sqrt {\frac {1}{\varepsilon _{0}\mu _{0}}}}=299.792.458\ \mathrm {m/s} }
+  
+
+dove 
+  
+    
+      
+        
+          ε
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{0}}
+  
+ e 
+  
+    
+      
+        
+          μ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mu _{0}}
+  
+ sono la costante dielettrica e la permeabilità magnetica del vuoto. Quando un'onda elettromagnetica non si propaga nel vuoto, queste ultime due costanti sono da moltiplicarsi per i valori relativi 
+  
+    
+      
+        
+          ε
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{r}}
+  
+ e 
+  
+    
+      
+        
+          μ
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \mu _{r}}
+  
+ del materiale.
+L'energia 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  
+ ed il modulo del vettore quantità di moto 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ si ricavano dalla relazione di dispersione generale
+
+  
+    
+      
+        
+          E
+          
+            2
+          
+        
+        =
+        
+          p
+          
+            2
+          
+        
+        
+          c
+          
+            2
+          
+        
+        +
+        
+          m
+          
+            2
+          
+        
+        
+          c
+          
+            4
+          
+        
+      
+    
+    {\displaystyle E^{2}=p^{2}c^{2}+m^{2}c^{4}}
+  
+
+che nel caso del fotone, essendo una particella massa nulla, diventa
+
+  
+    
+      
+        E
+        =
+        p
+        c
+      
+    
+    {\displaystyle E=pc}
+  
+.
+L'energia e la quantità di moto dipendono esclusivamente dalla frequenza 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+  
+:
+
+  
+    
+      
+        E
+        =
+        ℏ
+        ω
+        =
+        h
+        ν
+        =
+        
+          
+            
+              h
+              c
+            
+            λ
+          
+        
+      
+    
+    {\displaystyle E=\hbar \omega =h\nu ={\frac {hc}{\lambda }}}
+  
+
+  
+    
+      
+        
+          p
+        
+        =
+        ℏ
+        
+          k
+        
+      
+    
+    {\displaystyle \mathbf {p} =\hbar \mathbf {k} }
+  
+
+dove 
+  
+    
+      
+        
+          
+            k
+          
+        
+      
+    
+    {\displaystyle {\bf {k}}}
+  
+ è il vettore d'onda di modulo 
+  
+    
+      
+        k
+        =
+        
+          
+            
+              2
+              π
+            
+            λ
+          
+        
+      
+    
+    {\displaystyle k={\frac {2\pi }{\lambda }}}
+  
+, 
+  
+    
+      
+        ω
+        =
+        2
+        π
+        ν
+      
+    
+    {\displaystyle \omega =2\pi \nu }
+  
+ la frequenza angolare e 
+  
+    
+      
+        ℏ
+        =
+        
+          
+            h
+            
+              2
+              π
+            
+          
+        
+      
+    
+    {\displaystyle \hbar ={\frac {h}{2\pi }}}
+  
+ la costante di Planck ridotta.
+Dal momento che la direzione di 
+  
+    
+      
+        
+          
+            p
+          
+        
+      
+    
+    {\displaystyle {\bf {p}}}
+  
+ è la direzione di propagazione, il suo modulo vale:
+
+  
+    
+      
+        p
+        =
+        ℏ
+        k
+        =
+        
+          
+            
+              h
+              ν
+            
+            c
+          
+        
+        =
+        
+          
+            h
+            λ
+          
+        
+      
+    
+    {\displaystyle p=\hbar k={\frac {h\nu }{c}}={\frac {h}{\lambda }}}
+  
+
+Si consideri in proposito il seguente esempio: l'effetto fotoelettrico, ossia l'estrazione di elettroni da una superficie, si verifica solo se la lunghezza d'onda della radiazione elettromagnetica incidente è minore o uguale a 
+  
+    
+      
+        546
+        
+        
+          nm
+        
+      
+    
+    {\displaystyle 546\;{\text{nm}}}
+  
+ (luce verde), pari a 
+  
+    
+      
+        5.46
+        ⋅
+        
+          10
+          
+            −
+            7
+          
+        
+        
+        
+          m
+        
+      
+    
+    {\displaystyle 5.46\cdot 10^{-7}\;{\text{m}}}
+  
+. Applicando la formula 
+  
+    
+      
+        ν
+        =
+        
+          
+            c
+            λ
+          
+        
+      
+    
+    {\displaystyle \nu ={\frac {c}{\lambda }}}
+  
+ e considerando 
+  
+    
+      
+        c
+        =
+        3
+        ⋅
+        
+          10
+          
+            8
+          
+        
+        
+        
+          
+            m
+            s
+          
+        
+      
+    
+    {\displaystyle c=3\cdot 10^{8}\;{\frac {\text{m}}{\text{s}}}}
+  
+ si calcola che la corrispondente frequenza è pari a 
+  
+    
+      
+        5.4945
+        ⋅
+        
+          10
+          
+            14
+          
+        
+        
+          Hz
+        
+      
+    
+    {\displaystyle 5.4945\cdot 10^{14}{\text{Hz}}}
+  
+; quindi l'effetto fotoelettrico si verifica per frequenze maggiori o uguali al predetto valore. A questo punto si possono determinare l'energia 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  
+ dei fotoni (espressa in 
+  
+    
+      
+        
+          J
+        
+      
+    
+    {\displaystyle {\text{J}}}
+  
+, Joule) e la loro quantità di moto 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+:
+
+  
+    
+      
+        E
+        =
+        h
+        ν
+        =
+        3.64
+        ⋅
+        
+          10
+          
+            −
+            19
+          
+        
+        
+        
+          J
+        
+      
+    
+    {\displaystyle E=h\nu =3.64\cdot 10^{-19}\;{\text{J}}}
+  
+;
+
+  
+    
+      
+        p
+        =
+        
+          
+            
+              h
+              ν
+            
+            c
+          
+        
+        =
+        1.21
+        ⋅
+        
+          10
+          
+            −
+            27
+          
+        
+        
+        
+          kg
+        
+        
+          
+            m
+            s
+          
+        
+      
+    
+    {\displaystyle p={\frac {h\nu }{c}}=1.21\cdot 10^{-27}\;{\text{kg}}{\frac {\text{m}}{\text{s}}}}
+  
+.
+Il valore di 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ si può ottenere anche dal rapporto 
+  
+    
+      
+        
+          
+            h
+            λ
+          
+        
+      
+    
+    {\displaystyle {\frac {h}{\lambda }}}
+  
+.
+L'energia minima dei fotoni necessaria per dare inizio all'effetto fotoelettrico, il cui valore equivale al lavoro di estrazione, viene espressa anche in elettronvolt; poiché l'energia in Joule e l'energia in eV sono legate dalle relazione 
+  
+    
+      
+        1
+        e
+        V
+        =
+        1.602176487
+        ⋅
+        
+          10
+          
+            −
+            19
+          
+        
+        
+        
+          J
+        
+      
+    
+    {\displaystyle 1eV=1.602176487\cdot 10^{-19}\;{\text{J}}}
+  
+; nell'esempio sopra citato si avrà 
+  
+    
+      
+        
+          
+            
+              3.64
+              ⋅
+              
+                10
+                
+                  −
+                  19
+                
+              
+              
+              
+                J
+              
+            
+            
+              1.602
+              ⋅
+              
+                10
+                
+                  −
+                  19
+                
+              
+              
+              
+                J
+              
+              
+                /
+              
+              
+                eV
+              
+            
+          
+        
+        =
+        2.27
+        
+        
+          eV
+        
+      
+    
+    {\displaystyle {\frac {3.64\cdot 10^{-19}\;{\text{J}}}{1.602\cdot 10^{-19}\;{\text{J}}/{\text{eV}}}}=2.27\;{\text{eV}}}
+  
+. Tale energia corrisponde al valore di soglia del potassio.
+Il fotone possiede inoltre momento angolare di spin, che non dipende dalla frequenza. Questa proprietà è stata sperimentalmente verificata da Raman e Bhagavantam nel 1931.
+Il modulo del vettore di spin è 
+  
+    
+      
+        
+          
+            2
+          
+        
+        ℏ
+      
+    
+    {\displaystyle {\sqrt {2}}\hbar }
+  
+, e la sua componente lungo la direzione del moto, l'elicità, è 
+  
+    
+      
+        ±
+        1
+      
+    
+    {\displaystyle \pm 1}
+  
+. I due valori di elicità corrispondono ai due stati di polarizzazione circolare.
+Nonostante la massa a riposo sia nulla, è possibile definire una massa equivalente a partire dalla relazione di Einstein E=mc² e considerando una luce verde di frequenza pari a 
+  
+    
+      
+        5.4945
+        ⋅
+        
+          10
+          
+            14
+          
+        
+        H
+        z
+      
+    
+    {\displaystyle 5.4945\cdot 10^{14}Hz}
+  
+ risulta essere pari a
+
+  
+    
+      
+        
+          m
+          
+            γ
+          
+        
+        =
+        
+          
+            
+              h
+              ν
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            
+              6
+              ,
+              62607
+              ×
+              
+                10
+                
+                  −
+                  34
+                
+              
+               
+              
+                J
+                s
+              
+              ×
+              5
+              ,
+              4945
+              ×
+              
+                10
+                
+                  14
+                
+              
+               
+              
+                H
+                z
+              
+            
+            
+              2
+              ,
+              
+                9979
+                
+                  2
+                
+              
+              ×
+              
+                10
+                
+                  8
+                  ×
+                  2
+                
+              
+               
+              
+                
+                  m
+                  
+                    2
+                  
+                
+                
+                  /
+                
+                
+                  s
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        =
+        4
+        ,
+        050884989
+        ×
+        
+          10
+          
+            −
+            36
+          
+        
+         
+        
+          k
+          g
+        
+      
+    
+    {\displaystyle m_{\gamma }={\frac {h\nu }{c^{2}}}={\frac {6,62607\times 10^{-34}\ \mathrm {Js} \times 5,4945\times 10^{14}\ \mathrm {Hz} }{2,9979^{2}\times 10^{8\times 2}\ \mathrm {m^{2}/s^{2}} }}=4,050884989\times 10^{-36}\ \mathrm {kg} }
+  
+
+  
+    
+      
+        1
+         
+        
+          k
+          g
+        
+        =
+        
+          m
+          
+            γ
+          
+          
+            −
+            1
+          
+        
+        ×
+        1
+         
+        
+          k
+          g
+        
+        ×
+        
+          m
+          
+            γ
+          
+        
+        =
+        1
+        ,
+        4755215
+        ×
+        
+          10
+          
+            40
+          
+        
+         
+        
+          m
+          
+            γ
+          
+        
+      
+    
+    {\displaystyle 1\ \mathrm {kg} =m_{\gamma }^{-1}\times 1\ \mathrm {kg} \times m_{\gamma }=1,4755215\times 10^{40}\ m_{\gamma }}
+  
+
+
+== Dualismo onda-particella del fotone ==
+
+Il fotone, come ogni oggetto quantistico, possiede sia le proprietà di una particella sia quelle di un'onda, caratteristica detta dualismo onda-particella. Tale dualismo è dovuto al fatto che il fotone è descritto da una distribuzione di probabilità che contiene tutte le informazioni dinamiche del sistema. Il concetto di funzione d'onda, soluzione dell'equazione di Schrödinger per le particelle con massa a riposo non nulla, non è in generale applicabile al fotone, in quanto l'interferenza dei fotoni riguarda l'equazione d'onda elettromagnetica. Questo fatto ha suggerito che le equazioni di Maxwell siano l'equazione di Schrödinger per i fotoni, anche se la comunità scientifica non è concorde riguardo a questo fatto, in quanto le due espressioni sono matematicamente diverse, a partire dal fatto che una si risolve nel campo complesso e l'altra nel campo reale.
+Parallelamente alla natura ondulatoria, il fotone può anche essere considerato un punto materiale, in quanto è emesso o assorbito da vari sistemi quantistici come un nucleo atomico o gli elettroni, molto più piccoli della sua lunghezza d'onda. Il principio di indeterminazione, formulato da Heisenberg nel 1927, stabilisce inoltre che non si possono conoscere contemporaneamente due variabili canonicamente coniugate del fotone, confermando così l'impossibilità di una completa rappresentazione tramite una descrizione corpuscolare.
+
+Riassumendo la questione del dualismo onda – particella, si può dire che le radiazioni elettromagnetiche si comportano come onde quando si muovono nello spazio ma nel momento in cui interagiscono con altre particelle elementari (materiali o portatrici di forza) manifestano chiaramente la loro natura quantistica.
+
+
+=== L'esperimento mentale di Heisenberg ===
+
+L'esperimento mentale di Heisenberg per la localizzazione di un elettrone con un microscopio a raggi gamma ad alta risoluzione è un'importante verifica del principio di indeterminazione: un raggio gamma incidente interagisce con l'elettrone deviando il fascio nell'angolo di apertura 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+ dello strumento. L'ottica classica mostra che la posizione dell'elettrone è misurata con un'incertezza 
+  
+    
+      
+        Δ
+        x
+      
+    
+    {\displaystyle \Delta x}
+  
+ che dipende da 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+ e dalla lunghezza d'onda 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ dei fotoni incidenti:
+
+  
+    
+      
+        Δ
+        x
+        ∼
+        
+          
+            λ
+            
+              sin
+              ⁡
+              θ
+            
+          
+        
+      
+    
+    {\displaystyle \Delta x\sim {\frac {\lambda }{\sin \theta }}}
+  
+
+La quantità di moto dell'elettrone è altrettanto incerta, dal momento che esso riceve una spinta 
+  
+    
+      
+        Δ
+        p
+      
+    
+    {\displaystyle \Delta p}
+  
+ data dall'interazione col raggio gamma, e l'incertezza è data da:
+
+  
+    
+      
+        Δ
+        p
+        ∼
+        
+          p
+          
+            
+              f
+              o
+              t
+              o
+              n
+              e
+            
+          
+        
+        sin
+        ⁡
+        θ
+        =
+        
+          
+            h
+            λ
+          
+        
+        sin
+        ⁡
+        θ
+      
+    
+    {\displaystyle \Delta p\sim p_{\mathrm {fotone} }\sin \theta ={\frac {h}{\lambda }}\sin \theta }
+  
+.
+Se la radiazione elettromagnetica non fosse quantizzata se ne potrebbero variare intensità e frequenza indipendentemente, sicché si potrebbe localizzare la particella con precisione arbitraria, violando il principio di indeterminazione, che si ottiene dalla formula ponendo 
+  
+    
+      
+        Δ
+        x
+        Δ
+        p
+        
+        ∼
+        
+        h
+      
+    
+    {\displaystyle \Delta x\Delta p\,\sim \,h}
+  
+.
+Il principio applicato al fotone proibisce la misura simultanea del numero 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ di fotoni in un'onda elettromagnetica e la fase 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+  
+ dell'onda stessa:
+
+  
+    
+      
+        Δ
+        n
+        Δ
+        ϕ
+        >
+        1
+         
+      
+    
+    {\displaystyle \Delta n\Delta \phi >1\ }
+  
+.
+Essendo privi di massa, i fotoni non possono essere localizzati senza che ciò comporti la loro distruzione in quanto non possono essere identificati da un vettore nello spazio. Questo rende impossibile l'applicazione del principio di Heisenberg 
+  
+    
+      
+        Δ
+        x
+        Δ
+        p
+        >
+        h
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle \Delta x\Delta p>h/2}
+  
+, e porta ad usare il formalismo della seconda quantizzazione.
+
+
+== Il formalismo della seconda quantizzazione ==
+
+Secondo la teoria quantistica dei campi "la forza elettromagnetica è il risultato dell'interazione tra il campo dell'elettrone e quello del fotone".
+Lo stato quantico associato ad un fotone è lo stato di Fock, indicato con 
+  
+    
+      
+        
+          |
+        
+        n
+        ⟩
+      
+    
+    {\displaystyle |n\rangle }
+  
+, che significa 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ fotoni nel campo elettromagnetico modale. Se il campo è multimodo, il suo stato quantico è un prodotto tensoriale degli stati fotonici, ad esempio,
+
+  
+    
+      
+        
+          |
+        
+        
+          n
+          
+            
+              k
+              
+                0
+              
+            
+          
+        
+        ⟩
+        ⊗
+        
+          |
+        
+        
+          n
+          
+            
+              k
+              
+                1
+              
+            
+          
+        
+        ⟩
+        ⊗
+        ⋯
+        ⊗
+        
+          |
+        
+        
+          n
+          
+            
+              k
+              
+                n
+              
+            
+          
+        
+        ⟩
+        …
+      
+    
+    {\displaystyle |n_{k_{0}}\rangle \otimes |n_{k_{1}}\rangle \otimes \dots \otimes |n_{k_{n}}\rangle \dots }
+  
+
+con 
+  
+    
+      
+        
+          k
+          
+            i
+          
+        
+      
+    
+    {\displaystyle k_{i}}
+  
+ la possibile quantità di moto dei modi e 
+  
+    
+      
+        
+          n
+          
+            
+              k
+              
+                i
+              
+            
+          
+        
+      
+    
+    {\displaystyle n_{k_{i}}}
+  
+ il numero di fotoni in un dato modo.
+
+
+=== Spin e massa ===
+I fotoni hanno spin 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  
+ e sono quindi classificati come bosoni. Essi mediano l'interazione elettromagnetica; costituiscono i bosoni di gauge dell'elettrodinamica quantistica (QED), che è una teoria di gauge U(1). Hanno massa invariante (costante per ogni velocità 
+  
+    
+      
+        v
+        <
+        c
+      
+    
+    {\displaystyle v<c}
+  
+ e numericamente coincidente con la massa a riposo 
+  
+    
+      
+        
+          m
+          
+            0
+          
+        
+      
+    
+    {\displaystyle m_{0}}
+  
+) pari a zero ma una quantità di energia definita (e finita) alla velocità della luce. Tuttavia, trasportando energia, la teoria della relatività generale dice che sono influenzati dalla gravità, e questo è confermato dalle osservazioni.
+Una particella non relativistica di spin 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  
+ è dotata di tre possibili proiezioni dello spin 
+  
+    
+      
+        (
+        −
+        1
+        ,
+        0
+        ,
+        +
+        1
+        )
+      
+    
+    {\displaystyle (-1,0,+1)}
+  
+. Tuttavia, le particelle di massa nulla, come il fotone, hanno solo due proiezioni di spin, in quanto la proiezione zero richiede che il fotone sia fermo, e questa situazione non esiste, in accordo con la teorie della relatività. Tali proiezioni corrispondono alle polarizzazioni circolari destra e sinistra delle onde elettromagnetiche classiche. La più familiare polarizzazione lineare è data dalla sovrapposizione delle precedenti. Lo stato di spin 0 corrisponderebbe invece in teoria a una polarizzazione lungo l'asse di propagazione, che appunto non esiste.
+
+
+== Produzione di fotoni ==
+Due fotoni possono essere prodotti in seguito all'annichilamento di una particella con la sua antiparticella, oppure possono essere emessi singolarmente sotto forma di radiazione di frenamento (nota anche con il nome di bremsstrahlung).
+Un procedimento simile inverso è la produzione di coppia, ovvero la creazione di una coppia elettrone-positrone, una reazione in cui un raggio gamma interagisce con la materia convertendo la sua energia in materia ed antimateria: se un fotone altamente energetico collide con un bersaglio subisce un urto anelastico che produce un elettrone e un positrone.
+
+
+== Fotoni nella materia ==
+Nella materia, i fotoni si accoppiano alle eccitazioni del mezzo e si comportano differentemente. Ad esempio quando si accoppiano ai fononi o agli eccitoni producono i polaritoni. La dispersione permette loro di acquisire una massa efficace, e quindi la loro velocità scende sotto quella della luce nel vuoto.
+
+
+=== Interazione radiazione-materia ===
+Esistono diversi meccanismi di interazione radiazione-materia. A seconda dell'energia dei fotoni incidenti, gli effetti più probabili possono essere schematizzati come segue:
+
+  
+    
+      
+        1
+        
+        
+          e
+          V
+        
+        −
+        100
+        
+        
+          k
+          e
+          V
+        
+      
+    
+    {\displaystyle 1\,\mathrm {eV} -100\,\mathrm {keV} }
+  
+: effetto fotoelettrico, dove il fotone viene completamente assorbito da un elettrone atomico.
+
+  
+    
+      
+        100
+        
+        
+          k
+          e
+          V
+        
+        −
+        1
+        
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle 100\,\mathrm {keV} -1\mathrm {MeV} }
+  
+: effetto Compton, dove il fotone cede parte della sua energia ad un elettrone atomico e viene deflesso.
+da 
+  
+    
+      
+        1
+        ,
+        022
+        
+        
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle 1,022\,\mathrm {MeV} }
+  
+ in poi: produzione di coppia, dove parte dell'energia del fotone viene convertita in massa, producendo un elettrone ed un positrone. Se l'energia del fotone è esattamente 1,022 MeV, allora esso scompare, in quanto tale valore corrisponde alla somma delle masse a riposo di elettrone e positrone.
+
+
+=== Coefficienti di interazione per i fotoni ===
+In relazione ad un fascio collimato di fotoni monoenergetici di energia 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  
+ e di fluenza 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+  
+ ed un mezzo spesso 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  
+ si definiscono i coefficienti di attenuazione lineare, trasferimento di energia ed assorbimento di energia.
+
+
+==== Coefficiente di attenuazione lineare ====
+I fotoni del fascio primario che hanno interagito con il mezzo si possono considerare tutti allontanati dal fascio primario. Se 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  
+ indica la probabilità di interazione dei fotoni con il mezzo, si ha:
+
+  
+    
+      
+        d
+        
+        ϕ
+        =
+        −
+        μ
+        ϕ
+        d
+        
+        l
+      
+    
+    {\displaystyle \operatorname {d} \!\phi =-\mu \phi \operatorname {d} \!l}
+  
+
+Integrando si ottiene
+
+  
+    
+      
+        ϕ
+        (
+        L
+        )
+        =
+        
+          ϕ
+          
+            0
+          
+        
+        
+          e
+          
+            −
+            μ
+            L
+          
+        
+      
+    
+    {\displaystyle \phi (L)=\phi _{0}e^{-\mu L}}
+  
+,
+dove 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  
+ è il coefficiente di attenuazione lineare e frequentemente è usato il rapporto 
+  
+    
+      
+        μ
+        
+          /
+        
+        ρ
+      
+    
+    {\displaystyle \mu /\rho }
+  
+, detto coefficiente di attenuazione lineare massico, dove 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  
+ è la densità del mezzo.
+
+
+==== Coefficiente di trasferimento di energia ====
+È un coefficiente che tiene conto dell'energia cinetica trasferita dai fotoni alle particelle cariche secondarie generate dalle interazioni. Detta 
+  
+    
+      
+        
+          
+            
+              
+                ε
+                ¯
+              
+            
+          
+          
+            t
+            r
+          
+        
+      
+    
+    {\displaystyle {\bar {\varepsilon }}_{tr}}
+  
+ l'energia cinetica media trasferita, si ha:
+
+  
+    
+      
+        d
+        
+        
+          
+            
+              
+                ε
+                ¯
+              
+            
+          
+          
+            t
+            r
+          
+        
+        =
+        E
+        
+          μ
+          
+            t
+            r
+          
+        
+        d
+        
+        l
+      
+    
+    {\displaystyle \operatorname {d} \!{\bar {\varepsilon }}_{tr}=E\mu _{tr}\operatorname {d} \!l}
+  
+,
+dove 
+  
+    
+      
+        
+          μ
+          
+            t
+            r
+          
+        
+      
+    
+    {\displaystyle \mu _{tr}}
+  
+ è il coefficiente di trasferimento di energia. Poiché non tutti i fenomeni di interazione dei fotoni con la materia prevedono trasferimento di energia dal fotone al mezzo (scattering di Rayleigh) possiamo assumere 
+  
+    
+      
+        μ
+        >
+        
+          μ
+          
+            t
+            r
+          
+        
+      
+    
+    {\displaystyle \mu >\mu _{tr}}
+  
+.
+
+
+==== Coefficiente di assorbimento di energia ====
+Gli elettroni secondari possono perdere la loro energia nel mezzo non solo per collisioni, ma anche tramite processi radiativi. In questo secondo caso i fotoni così prodotti cedono la loro energia non localmente, ma lontano dal punto del mezzo dove sono stati generati. Di conseguenza l'energia rilasciata localmente nel mezzo dagli elettroni secondari è, in generale, minore dell'energia ad essi trasferita. Possiamo quindi scrivere:
+
+  
+    
+      
+        
+          μ
+          
+            e
+            n
+          
+        
+        =
+        
+          μ
+          
+            t
+            r
+          
+        
+        (
+        1
+        −
+        g
+        )
+        <
+        
+          μ
+          
+            t
+            r
+          
+        
+      
+    
+    {\displaystyle \mu _{en}=\mu _{tr}(1-g)<\mu _{tr}}
+  
+,
+dove il fattore 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ tiene conto della perdita di energia degli elettroni secondari tramite fenomeni radiativi quali la Bremsstrahlung, l'annichilazione in volo dei positroni e la fluorescenza.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Lista delle particelle
+Bosone (fisica)
+Bosone vettore intermedio
+Bosone vettore
+Luce
+Colore
+Elettromagnetismo
+Forza elettrodebole
+Elettricità
+Radiazione
+Teoria della grande unificazione
+Lavoro di estrazione
+Joule
+Elettronvolt
+Effetto fotoelettrico
+Energia del fotone
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «fotone»
+ Wikimedia Commons contiene immagini o altri file su fotone
+
+
+== Collegamenti esterni ==
+
+ fotone, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+(EN) photon, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) IUPAC Gold Book, "photon", su goldbook.iupac.org.
+(EN) The Review of Particle Physics Le informazioni più aggiornate sulle proprietà delle particelle, su pdg.lbl.gov.
+(EN)  Photos tra le pagine del CERN

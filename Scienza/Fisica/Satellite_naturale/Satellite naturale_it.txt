@@ -1,0 +1,71 @@
+Si dice satellite naturale (o talvolta più impropriamente luna, con l'iniziale in minuscolo) un qualunque corpo celeste che orbita attorno a un corpo diverso da una stella, come ad esempio un pianeta, un pianeta nano o un asteroide. Nel sistema solare si conoscono oltre centocinquanta satelliti naturali e al di fuori dello stesso, al 2019 se ne conosce forse uno. 
+Tipicamente i giganti gassosi possiedono estesi sistemi di satelliti, mentre i pianeti terrestri ne hanno pochi: nel sistema solare Mercurio e Venere non ne sono dotati, la Terra ne possiede uno molto grande rapportato alle proprie dimensioni (Luna) mentre Marte ne possiede due piccoli (Fobos e Deimos). Fra i pianeti nani i satelliti sembrano essere una caratteristica predominante degli oggetti transnettuniani, come Plutone (cinque, di cui uno massiccio), Haumea (due satelliti) ed Eris (un satellite).
+Per estensione si indica col termine di satellite naturale qualunque oggetto di origine non artificiale che orbiti intorno a un oggetto di massa più grande, ad esempio una galassia nana che orbita attorno a una galassia di dimensioni maggiori si chiama galassia satellite.
+
+
+== Origine ==
+Si pensa che la maggior parte dei satelliti abbia avuto origine nella stessa regione del disco protoplanetario nel quale ha avuto luogo la formazione del suo corpo madre. Vi sono tuttavia molte eccezioni e variazioni al modello standard di formazione dei satelliti. Molti satelliti del sistema solare esterno sono probabilmente asteroidi catturati, oppure frammenti di corpi più grandi distrutti da un impatto o, come nel caso della nostra Luna secondo una teoria accreditata, una porzione del pianeta stesso scagliata nello spazio in seguito a un grande impatto. La maggior parte dei satelliti è conosciuta solo attraverso poche osservazioni a distanza tramite telescopi o sonde spaziali e la maggior parte delle teorie che li riguardano sono quindi molto incerte.
+
+
+=== Satelliti temporanei ===
+La cattura di un asteroide da parte di un'orbita eliocentrica non è sempre permanente. Stando alle simulazioni, i satelliti temporanei sono un fenomeno comune. Gli unici esempi mai osservati sono 1991 VG, 2006 RH120, 2020 CD3.
+
+
+== Caratteristiche fisiche ==
+
+La maggior parte dei satelliti naturali conosciuti presenta un chiaro fenomeno di risonanza orbitale con altri corpi oppure di rotazione sincrona (completano una rotazione per ogni rivoluzione). Un'eccezione è Iperione, satellite di Saturno che presenta una rotazione caotica a causa della sua forma estremamente irregolare. Non si conosce attualmente nessun satellite che possieda a sua volta un satellite: gli effetti mareali del pianeta primario renderebbero molto probabilmente le orbite instabili. Alcuni satelliti presentano tuttavia dei compagni nei loro punti lagrangiani, come ad esempio Teti e Dione, satelliti di Saturno.
+La scoperta di numerosi satelliti asteroidali (a partire da Dactyl, attorno all'asteroide 243 Ida) ha rivelato che anche gli asteroidi possono possedere satelliti propri; alcuni, come 90 Antiope, sono addirittura asteroidi doppi con due componenti di dimensioni simili.
+
+
+== I satelliti del sistema solare ==
+
+I principali satelliti naturali del sistema solare sono la Luna, che orbita attorno alla Terra, i satelliti medicei Io, Europa, Ganimede e Callisto, in orbita attorno a Giove, il satellite di Saturno Titano e il satellite di Nettuno Tritone. Alcuni di questi corpi superano, per dimensioni, anche i più grandi pianeti nani, e due superano addirittura il pianeta più piccolo, Mercurio.
+Segue un prospetto dei satelliti del sistema solare classificati per diametro e pianeta di appartenenza; sono inclusi nella lista pianeti nani e asteroidi degni di nota.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Satelliti naturali del sistema solare
+Satelliti naturali di Marte
+Satelliti naturali di Giove
+Satelliti naturali di Saturno
+Satelliti naturali di Urano
+Satelliti naturali di Nettuno
+Satelliti naturali di Plutone
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «satellite naturale»
+ Wikimedia Commons contiene immagini o altri file su satellite naturale
+
+
+== Collegamenti esterni ==
+
+
+=== Satelliti naturali di Giove ===
+(EN) Jovian Satellite Fact Sheet, su nssdc.gsfc.nasa.gov.
+(EN) Dati sui satelliti di Giove, su ifa.hawaii.edu. URL consultato il 30 giugno 2004 (archiviato dall'url originale il 16 ottobre 2002).
+(EN) I nuovi satelliti scoperti nel 2000, su ifa.hawaii.edu. URL consultato il 30 giugno 2004 (archiviato dall'url originale il 4 febbraio 2001).
+(EN) I nuovi satelliti scoperti nel 2002, su ifa.hawaii.edu. URL consultato il 30 giugno 2004 (archiviato dall'url originale il 4 giugno 2002).
+(EN) I nuovi satelliti scoperti nel 2003, su ifa.hawaii.edu. URL consultato il 30 giugno 2004 (archiviato dall'url originale il 29 dicembre 2008).
+
+
+=== Satelliti naturali di Saturno ===
+(EN) I nuovi satelliti scoperti nel 2000, su news.cornell.edu.
+(EN) I nuovi satelliti scoperti nel 2003, su ifa.hawaii.edu. URL consultato il 30 giugno 2004 (archiviato dall'url originale il 3 aprile 2005).
+
+
+=== Satelliti naturali di Urano ===
+(EN) Uranian Satellite Fact Sheet, su nssdc.gsfc.nasa.gov.
+
+
+=== Satelliti naturali di Nettuno ===
+(EN) Neptunian Satellite Fact Sheet, su nssdc.gsfc.nasa.gov.
+
+
+=== Miscellanea ===
+(EN) Homepage di Scott Sheppard, su ifa.hawaii.edu. URL consultato il 30 giugno 2004 (archiviato dall'url originale l'11 dicembre 2007).
+(EN) Solar System Dynamics, dal sito JPL, su ssd.jpl.nasa.gov.

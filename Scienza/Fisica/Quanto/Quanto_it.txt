@@ -1,0 +1,41 @@
+In fisica il quanto (dal latino quantum che significa quantità) è la quantità elementare discreta e indivisibile di una certa grandezza. Per estensione il termine è a volte utilizzato come sinonimo di particella elementare associata a un campo di forze.
+L'idea del quanto fu formulata per la prima volta nel 1900 da Max Planck per risolvere il problema dello spettro del corpo nero e poi ripresa in forma più fondamentale in senso fisico nel 1905 da Albert Einstein per la descrizione dell'effetto fotoelettrico. Il concetto di quanto divenne poi elemento fondante della meccanica quantistica.
+
+
+== Storia ==
+Verso la fine del diciannovesimo secolo John Rayleigh enunciò che il flusso radiante di un corpo caldo è proporzionale alla sua temperatura assoluta e inversamente proporzionale al quadrato della lunghezza d'onda della  radiazione. Opportune misure dimostrarono però che questa teoria non era esatta, salvo che per le lunghezze d'onda che vanno dall'infrarosso al verde; a partire dal blu l'esperienza è in contraddizione con i valori teorici. Paul Ehrenfest chiamò questo errore catastrofe ultravioletta. Per risolvere il problema, detto "del corpo nero", nel 1900 Max Planck propose che le vibrazioni provocate dal calore di un corpo si ripartissero seguendo una legge determinata da una costante che prese il suo nome, o quanto d’azione. Egli fu, al pari degli altri fisici, destabilizzato dalla sua teoria e provò a lungo a conservare il suo risultato sopprimendo il quanto, per poi finalmente ammetterlo. La teoria dei quanti fu il punto di partenza della meccanica quantistica, assieme alla relatività una delle due grandi teorie fisiche del XX secolo.
+La meccanica quantistica fu formulata da Bohr, de Broglie, Heisenberg, Pauli, Schrödinger, Dirac. Mentre  nella meccanica classica e nell'elettromagnetismo tutte le grandezze possono assumere un insieme di valori continuo, la meccanica quantistica prevede solo un insieme discreto di valori, multipli di un valore fondamentale non ulteriormente scomponibile: il quanto. Uno dei primi esempi studiati, che ha le sue origini nel modello atomico di Bohr, fu la quantizzazione dell'energia, ovvero il fatto che gli elettroni di un atomo possono trovarsi solo in certi livelli energetici.
+
+Il concetto di quanto venne in seguito generalizzato nella teoria quantistica dei campi, dove il quanto viene visto come  particella elementare associata a un campo di forze. Ad esempio secondo l'elettrodinamica quantistica i fotoni sono i quanti del campo elettromagnetico, che vengono scambiati tra le particelle cariche consentendo l'interazione elettromagnetica.
+
+
+== Note ==
+
+
+== Bibliografia ==
+J. Mehra and H. Rechenberg, The Historical Development of Quantum Theory, Vol.1, Part 1, Springer-Verlag New York Inc., New York 1982.
+Lucretius, "On the Nature of the Universe", transl. from the Latin by R.E. Latham, Penguin Books Ltd., Harmondsworth 1951. There are, of course, many translations, and the translation's title varies. Some put emphasis on how things work, others on what things are found in nature.
+M. Planck, A Survey of Physical Theory, transl. by R. Jones and D.H. Williams, Methuen & Co., Ltd., London 1925 (Dover editions 1960 and 1993) including the Nobel lecture.
+
+
+== Voci correlate ==
+Quantizzazione (fisica)
+Meccanica quantistica
+Corpo nero
+Costante di Planck
+Costante di Boltzmann
+Effetto fotoelettrico
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni sul quanto
+ Wikizionario contiene il lemma di dizionario «quanto»
+
+
+== Collegamenti esterni ==
+
+ quanto / Quanto, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+(EN) quantum, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) time slice, in Free On-line Dictionary of Computing, Denis Howe. Disponibile con licenza GFDL
+ La leggenda del quanto centenario (PDF), su ulisse.sissa.it. URL consultato il 27 aprile 2008 (archiviato dall'url originale il 18 aprile 2015).

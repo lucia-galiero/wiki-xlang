@@ -1,0 +1,300 @@
+Ein Planet (veraltet: Wandelstern) ist einer der acht großen Himmelskörper im Sonnensystem, welche die Sonne auf kreisähnlichen Bahnen umrunden. Ihre Umlaufzeiten liegen zwischen 88 Tagen (Merkur) und 165 Jahren (Neptun). Pluto gilt seit einer im Jahr 2006 beschlossenen Definition nicht mehr als Planet.
+Der Name stammt vom griechischen Πλανήτης (planétes) und bedeutet „der Umherschweifende“ bzw. „der Wanderer“. Daher wurden früher Planeten auch eingedeutscht als Wandelsterne bezeichnet.
+Planeten, die andere Sterne umkreisen, werden als Exoplaneten bezeichnet. Seit den ersten Beobachtungen in den 1990er Jahren sind mehrere Tausend dieser Objekte entdeckt worden. Darüber hinaus existieren Objekte planetarer Masse, die nicht an massereichere Körper wie Sterne gebunden sind.
+
+
+== Geschichte des Begriffs ==
+
+
+=== Wortherkunft ===
+Das Wort Planet geht zurück auf griechisch πλανήτης planētēs „Wanderer“ bzw. „umherschweifend“ zu πλανᾶν planān, das auf Deutsch „in die Irre führen, vom rechten Wege abführen“ bedeutet und sich im Altgriechischen auf eine Herde bezog, die sich über die Weide ausbreitet. Daher wurden Planeten früher auch eingedeutscht als Wandelsterne bezeichnet, im Sinne von „umherschweifenden“ bzw. „wandernden“ Lichtgestalten am Himmel. Dabei wurde der Unterschied zwischen Planeten und anderen Himmelskörpern aufgrund des Fehlens der himmelsmechanischen Grundlagen bis in die frühe Neuzeit nicht korrekt erkannt; so konnten daneben auch durchaus Sonne und Mond wie Kometen und anderes zu den Wandelgestirnen gezählt werden.
+
+
+=== Geozentrisches Weltbild ===
+
+Im geozentrischen Weltbild der Antike und des Mittelalters wurden alle mit bloßem Auge regelmäßig sichtbaren Himmelserscheinungen, die sich vor dem Hintergrund des Fixsternhimmels bewegen, als Planeten bezeichnet. Geordnet nach (scheinbaren) Umlaufzeiten waren dies die sieben klassischen „Planeten“ Mond, Merkur, Venus, Sonne, Mars, Jupiter und Saturn. Jedem dieser sieben „Planeten“ wurde ein Wochentag zugeordnet: Sonne (Sonntag), Mond (Montag), Mars (frz.: mardi), Merkur (frz.: mercredi), Jupiter (frz.: jeudi), Venus (it.: venerdì), Saturn (engl.: saturday).
+Das antike System der sieben Planeten überdauerte in der Astrologie bis in die Neuzeit.
+
+
+=== Heliozentrisches Weltbild ===
+Mit der Etablierung des heliozentrischen Weltbildes (Kopernikanische Wende) im 16. Jahrhundert ging die Bezeichnung Planet auf diejenigen Objekte über, die um die Sonne kreisen. Sonne und Mond fielen also heraus, und die Erde kam dafür hinzu.
+Die Erfindung des Fernrohrs im 17. Jahrhundert ermöglichte die Beobachtung lichtschwacher Objekte. Als siebter Planet wurde 1781 Uranus entdeckt, der weit außerhalb der Saturnbahn kreist, ungefähr doppelt so weit von der Sonne entfernt. Es folgten die Entdeckungen „kleinerer“ Objekte zwischen Mars und Jupiter: Ceres (1801), Pallas (1802), Juno (1804), Vesta (1807) und Astraea (1845). Damit war die Zahl der Planeten auf zwölf angestiegen. 1846 wurde nach Uranus ein weiteres „großes“ Objekt entdeckt: Neptun, der weit außerhalb der Uranusbahn kreist.
+Weil sich die Neuentdeckungen von Objekten zwischen Mars- und Jupiterbahn ab dem Jahre 1847 zu sehr häuften und alle diese Objekte um Größenordnungen kleiner waren als alle klassischen Planeten, wurde diesen der Planetenstatus wieder aberkannt. Nur noch die Planeten, die seit der Antike bekannt waren, plus Uranus und Neptun galten weiterhin als Planeten. Damit sank die Zahl der vollwertigen Planeten auf acht, was auch dem heutigen Status entspricht. Für die zahlreichen Objekte zwischen Mars- und Jupiterbahn wurde die Klasse der Asteroiden (Planetoiden) eingeführt.
+Pluto wurde 1930 entdeckt und zunächst als neunter Planet geführt. Seine Umlaufbahn ist stark elliptisch (sie liegt zu einem kleinen Teil innerhalb der Neptuns) und zur Ekliptik geneigt. Da er zudem deutlich kleiner als Merkur ist (1⁄2 des Durchmessers, 1⁄25 der Masse), kamen Zweifel auf, ob er als Planet gelten sollte. Zu Beginn der 1990er Jahre wurden weitere, vergleichbare Objekte jenseits des Neptun entdeckt – mit Eris sogar eines, das größer als Pluto erschien. Zur Klärung, was denn nun ein Planet sei, wurde 2004 von der Internationalen Astronomischen Union (IAU) eine Expertenkommission eingesetzt.
+
+
+=== Definition für das Sonnensystem ===
+
+Auf der 26. Generalversammlung der IAU in Prag wurden am 24. August 2006 offizielle Definitionen für verschiedene Klassen der die Sonne umlaufenden Himmelskörper verabschiedet – und damit die erste wissenschaftliche Definition eines Planeten. Demnach ist in unserem Sonnensystem ein Planet ein Himmelskörper,
+
+(a) der sich auf einer Umlaufbahn um die Sonne bewegt und kein Satellit (Mond) ist,
+(b) dessen Masse so groß ist, dass er sich im hydrostatischen Gleichgewicht befindet (und somit eine kugelähnliche Gestalt hat, die nur von Gravitation und Zentrifugalkraft bestimmt wird), und
+(c) der das dominierende Objekt seiner Umlaufbahn ist, also diese allmählich durch sein Gravitationsfeld von weiteren Objekten „geräumt“ hat.
+„Geräumt“ im Sinne der Definition hat ein Planet auch Körper, die er in Bahnresonanzen gezwungen hat. Dies trifft u. a. für die Plutinos einschließlich Plutos im Bereich des Neptun, für die Trojaner in der Jupiterbahn und für  2002 AA29 in der Erdbahn zu.
+Für Objekte, die die Kriterien (a) und (b), nicht aber (c) erfüllen, wurde die neue Klasse der Zwergplaneten geschaffen. Alle weiteren kleineren Körper wurden zu den so genannten Kleinkörpern zusammengefasst.
+Die Definition von „Planet“ und „Zwergplanet“ führte unter anderem dazu, dass Pluto seinen vormaligen Status als Planet verlor – was insbesondere in den USA, der Heimat seines Entdeckers – zu gesellschaftlichem Disput führte. Auch heute noch wird die Definition kontrovers diskutiert, vor allem weil die Abgrenzung von Zwergplaneten zu anderen Objekten schwierig ist.
+
+
+=== Planeten in anderen Sternsystemen ===
+Die Resolution der IAU von 2006 mit ihrer Abgrenzung von Zwergplaneten beschränkt sich auf Objekte im Sonnensystem. Sie besagt aber keineswegs, dass nur Objekte im Sonnensystem Planeten seien. Seit den ersten Beobachtungen in den 1990er Jahren sind mehrere Tausend Objekte planetarer Masse entdeckt worden, die um andere Sterne kreisen (Exoplaneten). Auch diese bezeichnet man als Planeten. Die Obergrenze der Masse von Exoplaneten ist Gegenstand der aktuellen Forschung und liegt bei ungefähr 13 Jupitermassen. Massivere Objekte werden aufgrund der beginnenden Deuteriumfusion als Braune Zwerge eingestuft.
+
+
+=== Planetenähnliche Objekte ===
+Einige Himmelskörper, die nicht alle Punkte der IAU-Definition erfüllen, haben Bezeichnungen, die an das Wort „Planet“ angelehnt sind:
+
+Zwergplaneten sind Objekte des Sonnensystems, die lediglich Punkt (c) der Definition nicht erfüllen.
+Kleinplaneten (auch als Planetoiden bezeichnet) sind astronomische Objekte, die sich auf einer direkten Umlaufbahn um die Sonne bewegen, aber die Kriterien zur Einstufung als Planet nicht erfüllen. Dazu gehören unter anderem die Asteroiden
+Objekte planetarer Masse, die nicht an massereichere Himmelskörper wie Sterne gebunden sind, werden auch „freifliegender Planet“ und „vagabundierender Planet“ genannt (neben dem sich mit Stand 2015 zunehmend durchsetzenden Begriff „Planemo“ aus englisch „planetary mass object“).
+
+
+== Planeten im Sonnensystem ==
+
+
+=== Der Bezug auf die Sonne ===
+
+Zum inneren Sonnensystem zählen die erdähnlichen (terrestrischen) Planeten (Gesteinsplaneten) Merkur, Venus, Erde und Mars. Zum äußeren Sonnensystem gehören die jovianischen Planeten bzw. Gasriesen Jupiter und Saturn sowie weiter außen die Eisriesen Uranus und Neptun. Nach einer älteren Kategorisierung, die nur zwei Planetenklassen kannte, zählen Uranus und Neptun mit zu den Gasplaneten; heute sieht man sie jedoch zunehmend als eine eigene Planetenklasse an.
+Die Umlaufbahnen der Planeten um die Sonne verlaufen mit geringen Abweichungen in einer Ebene, der Ekliptik. Je weiter die Planeten von der Sonne entfernt sind, desto größer wird der Abstand benachbarter Umlaufbahnen. Die mittleren Abstände der Planeten zur Sonne lassen sich recht genau mit der Titius-Bode-Reihe angeben, einer im 18. Jahrhundert gefundenen empirischen Beziehung. Zwischen Mars und Jupiter klafft hier eine Lücke, die durch den Zwergplaneten Ceres sowie eine große Zahl an Kleinkörpern innerhalb des Asteroidengürtels gefüllt wird. Der Abstand des Neptuns passt nicht in diese Reihe.
+Außer Merkur und Venus werden alle Planeten des Sonnensystems ihrerseits von natürlichen Satelliten umkreist, die nach dem Erdbegleiter auch „Monde“ genannt werden. Das System Erde-Mond wird mitunter als Doppelplanet bezeichnet, weil der Mond ausgesprochen groß ist (das Massenverhältnis Mond : Erde beträgt 1 : 81, das nächstgrößere im Sonnensystem ist Titan : Saturn mit 1 : 4200).
+Um sich die Reihenfolge der Planeten – von der Sonne aus gesehen – leichter einprägen zu können, wurden verschiedene Merksprüche aufgestellt, siehe Abschnitt im Artikel Sonnensystem.
+
+
+=== Gruppierungen ===
+Der Asteroidengürtel trennt das innere vom äußeren Planetensystem. Der große Bereich der Transneptunischen Objekte (TNO) wird mitunter auch als eine dritte Zone angesehen. Damit zählen Merkur, Venus, Erde und Mars zu den inneren Planeten, und Jupiter, Saturn, Uranus und Neptun zu den äußeren Planeten. Diese Unterscheidung ist nicht zu verwechseln mit der Gruppierung in die unteren Planeten, welche die Sonne innerhalb der Erdbahn umlaufen – also Merkur und Venus – und in die oberen Planeten, die sich außerhalb der Erdbahn bewegen.
+Will man die Planeten beobachten, benötigt man je nach Größe und Entfernung des Planeten Teleskope mit einem Öffnungsdurchmesser von mindestens 7,5 Zentimeter (ca. 3 Zoll; für Jupiter, Saturn, Mars, Venus und Merkur) bis 30,5 Zentimeter (ca. 12 Zoll; für Uranus und Neptun).
+
+
+== Geschichte der Entdeckungen ==
+
+
+=== Planeten des Sonnensystems ===
+Die Planeten Merkur, Venus, Mars, Jupiter und Saturn sind mit bloßem Auge am Nachthimmel erkennbar und erscheinen heller als die meisten Fixsterne. Sie waren bereits in der Antike bekannt und wurden von vielen Kulturen mit ihren Hauptgöttern identifiziert. Die noch heute verwendeten Namen stammen aus der römischen Mythologie.
+Obwohl es bereits in der Antike Vertreter des heliozentrischen Weltbilds gab (zum Beispiel Aristarchos von Samos), wurde bis Mitte des 16. Jahrhunderts allgemein angenommen, dass sich die Planeten mitsamt der Sonne um die Erde bewegen (geozentrisches Weltbild). 1543 veröffentlichte Nikolaus Kopernikus, angeregt durch Aristarchos, sein Werk De revolutionibus orbium coelestium (Von den Umdrehungen der Himmelskörper), in dem er die Sonne in den Mittelpunkt stellte und die Erde als weiteren Planeten erkannte.
+Nachdem Hans Lippershey das Fernrohr im Jahre 1608 erfunden und Galileo Galilei es anschließend für astronomische Betrachtungen verwendet hatte, entdeckte Sir Friedrich Wilhelm Herschel am 13. März 1781 den siebten Planeten des Sonnensystems: Uranus, der außerhalb der Saturnbahn die Sonne umkreist. Unter günstigen Bedingungen ist der Uranus auch mit bloßem Auge zu erkennen, und er wurde bereits 1690 fälschlicherweise als Stern katalogisiert. Mit Hilfe der älteren Beobachtungen gelang es Johann Elert Bode, die Umlaufbahn genau zu bestimmen. Anhand von Bahnstörungen des Uranus berechneten Urbain Le Verrier und John Couch Adams unabhängig voneinander die Bahn eines weiteren Planeten, dies führte am 23. September 1846 zur Entdeckung Neptuns durch Johann Gottfried Galle. Durch den neu entdeckten Planeten konnten jedoch nicht sämtliche Unregelmäßigkeiten in der Uranusbahn erklärt werden.
+Am 1. Januar 1801 entdeckte Giuseppe Piazzi den Zwergplaneten Ceres, der zwischen Mars und Jupiter die Sonne umrundet. Ceres wurde damals jedoch als achter Planet des Sonnensystems betrachtet. Am 28. März 1802 entdeckte Heinrich Wilhelm Olbers mit Pallas ein weiteres Objekt, das die Sonne zwischen Mars und Jupiter umkreist. Es folgten die Entdeckungen von weiteren Objekten, die zwischen Mars und Jupiter die Sonne umrunden: Juno (1804), Vesta (1807) und Astraea (1845). Damit war die Zahl der Planeten auf zwölf angestiegen. Nach 1847 nahm die Zahl der Entdeckungen stark zu: Ende 1849 kannte man schon zehn Asteroiden, Ende 1852 sechsundzwanzig, Ende 1866 über hundert.
+Schließlich wurde 1930 von Clyde W. Tombaugh ein weiteres Objekt entdeckt und später Pluto genannt. Dieser galt lange als neunter Planet, war mit seiner kleinen Größe, geneigten und exzentrischen Umlaufbahn, die sogar teilweise innerhalb der Neptunbahn liegt, ein eher exotisches Objekt. Die Suche nach einem weiteren Planeten (Transpluto oder Planet X) im Sonnensystem blieb über Jahrzehnte erfolglos. Durch die verfeinerte Beobachtungstechnik wurden ab den 1990er Jahren weitere transneptunische Objekte entdeckt, so zum Beispiel Quaoar (2002), Orcus (2004), Sedna (2004) oder Eris (2005). All diese Objekte (einschließlich Pluto) gelten heute nicht als Planeten.
+Auch heute noch geben die Planetenbahnen einige Rätsel auf. So ist zum Beispiel die Ekliptik der Planetenbahnen um etwa 7 bis 8° zur Rotationsachse der Sonne geneigt. Zusätzlich scheinen sich besonders im äußeren Sonnensystem einige Auffälligkeiten zu zeigen, dazu gehören unter anderem die Bahnen einiger transneptunischer Objekte. Diese Auffälligkeiten könnten mit einem zusätzlichen weit außen im Sonnensystem liegenden Planeten erklärt werden („Planet Neun“). Neben der Planet Neun Hypothese die 2016 vorgeschlagen wurde, existierten auch schon früher mehrere Theorien die ebenfalls weitere Planeten erwarten.
+
+
+=== Exoplaneten ===
+
+Die ersten Exoplaneten, die außerhalb des Sonnensystems entdeckt wurden, begleiten den Pulsar PSR B1257+12. Durch genaue Messungen der Wiederkehrzeit des Strahls, der die Erde vom Pulsar aus erreicht, konnten 1992 zwei Planeten mit Massen von 4,3 und 3,9 Erdmassen nachgewiesen werden und 1994 ein dritter mit 0,02 Erdmassen. Auf diesen Planeten ist Leben, wie es auf der Erde bekannt ist, praktisch ausgeschlossen.
+Der erste Exoplanet in einem Orbit um einen sonnenähnlichen Stern wurde 1995 von Michel Mayor vom Departement für Astronomie der Universität Genf und seinem Mitarbeiter Didier Queloz mit Hilfe der Radialgeschwindigkeitsmethode entdeckt. Der Planet umrundet im 4,2-Tagestakt den von der Sonne etwa 40 Lichtjahre entfernten Stern 51 Pegasi und hat 0,46 Jupitermassen.
+Anfang 2024 waren über 5000 extrasolare Planeten bekannt. Bei den meisten Sternen wurde bisher aber nur ein einzelner Planet entdeckt. Es gibt aber zum Beispiel auch das System Kepler-90 mit seit Dezember 2017 acht bestätigten Planeten.
+Viele bisher entdeckte Exoplaneten sind nicht vergleichbar mit denen des Sonnensystems. Dies liegt vor allem daran, dass extrem sonnennahe Planeten viel einfacher nachgewiesen werden können als solche, die länger für einen Umlauf um ihren Stern benötigen. So waren die meisten der zuerst entdeckten Planeten denn auch sogenannte Hot Jupiters: große Gasplaneten wie Jupiter, die ihren Stern nur in wenigen Tagen umkreisen.
+Exoplaneten im Orbit um sonnenähnliche Sterne konnten bis 2005 nicht mit Teleskopen direkt beobachtet werden, da sie sehr lichtschwach sind. Sie werden überstrahlt von dem um ein Vielfaches helleren Stern, den sie umrunden. Das Auflösungsvermögen von erdgestützten Teleskopen reicht heute noch nicht dazu aus, um zwei so relativ nahe beieinander liegende Objekte mit so großem Helligkeitsunterschied wie einen Planeten und seinen Stern getrennt darzustellen. Man nutzt daher verschiedene indirekte Methoden wie die Transitmethode, bei der durch die Bedeckungen des Sterns durch den Planeten periodische Helligkeitsabsenkungen des Sterns verursacht werden, falls die Umlaufbahn so liegt, dass der Planet von der Erde aus gesehen, genau vor dem Stern vorbeizieht. Eine andere Methode ist die Radialgeschwindigkeitsmethode, bei welcher der Planet durch seinen Schwerkrafteinfluss am Stern zieht (beide umrunden den gemeinsamen Schwerpunkt) und somit von der Erde aus diese periodische Bewegung eine abwechselnde Rot- und Blauverschiebung (Doppler-Effekt) des Spektrums des Sterns bewirkt.
+
+
+== Entstehung von Planeten ==
+
+
+=== Pierre Laplace ===
+Das erste wissenschaftliche Modell der Planetenentstehung wurde im Jahre 1796 von Pierre-Simon Laplace formuliert. Laplace ging von einem langsam rotierenden Gasball aus, der unter der Eigengravitation kollabiert. Wegen der Erhaltung des Drehimpulses kollabiert dieser Gasball zu einem linsenartigen Gebilde. Er nahm an, dass nach dem Kollaps die Materie in Ringen um das Zentralobjekt angeordnet sei und dass jeder Planet aus einem der Materieringe entstand.
+
+
+=== James Jeans ===
+James Jeans publizierte im Jahre 1917 ein alternatives Modell. Er nahm an, dass der präsolare Nebel während des Kollapses in die Nähe eines massiven Sterns kam. Die Gas- und Staubwolke wurde dabei durch die Gezeitenkräfte zerrissen und fragmentiert. Aus den Fragmenten seien dann später die Planeten entstanden.
+
+
+=== Moderne Theorie ===
+Die modernen Theorien der Planetenentstehung sind eng verknüpft mit der Entstehung neuer Sterne. Ähnlich wie bei Laplace geht man davon aus, dass eine präsolare Gas/Staubwolke kollabiert. Durch die Erhaltung des Drehimpulses bildet sich eine protoplanetare Gas- und Staubscheibe, aus der die Planeten entstehen. Die Entstehung von Planeten und Planetensystemen ist bis heute (2008) noch nicht vollständig erklärt. Aus radiometrischen Datierungen von Asteroiden und Beobachtungen von Akkretionsscheiben um andere Sterne ergaben sich aber bisher einige zeitliche Gegebenheiten, die alle Theorien erfüllen sollten. So konnten die Messungen zeigen, dass sich 0,1 bis 2 Millionen Jahre nach Start der Kernfusion im Stern Staubkörner zu Planetenkeimlingen mit Mond- bis Erdmasse zusammenlagern. Am Ende dieser Zeit entsteht der erste Gasriese des Systems und säubert das System von Asteroiden der ersten Generation. Im Bereich von bis zu 10 Millionen Jahren löst der Gasriese die Bildung weiterer Gasplaneten und auch anderer terrestrischer Trabanten aus. Die Scheibe um den Stern enthält zu dieser Zeit kaum noch Gas, damit ist die Planetenentstehung abgeschlossen. Im Zeitraum bis zu einer Milliarde Jahre nach Geburt des Sternes verdrängen die Gasriesen dann alle noch übrig gebliebenen Planetenkeimlinge hinaus in den Kuipergürtel oder in die Sonne. Die modernen Theorien liefern aber heute schon einige befriedigende Antworten. Im Folgenden werden zwei weit verbreitete Theorien dargestellt. Neben diesen gibt es noch eine Vielzahl von anderen Theorien, insbesondere von hybriden Modellen.
+
+
+==== Kernakkretionsmodell ====
+Das Kernakkretionsmodell wurde 1969 von dem russischen Physiker Victor S. Safronov vorgestellt. Es teilt sich in mehrere Phasen auf:
+
+Wachstum der Keime
+Staub migriert langsam in die Äquatorialebene der protoplanetaren Scheibe. Dabei kollidieren einzelne, etwa ein Mikrometer große Staubpartikel und kleben zusammen. So bilden sie Staubkörner, die langsam weiter anwachsen und in die Zentralebene der Scheibe wandern.
+Das Wachstum ist gegeben durch:
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              M
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        π
+        R
+        
+          c
+          
+            2
+          
+        
+        σ
+        Ω
+        
+          (
+          
+            1
+            +
+            
+              
+                
+                  v
+                  
+                    e
+                  
+                
+                v
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {\frac {\mathrm {d} M}{\mathrm {d} t}}=\pi Rc^{2}\sigma \Omega \left(1+{\frac {v_{e}}{v}}\right)}
+  
+
+(mit 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+ – der Flächendichte der Teilchen, 
+  
+    
+      
+        Ω
+      
+    
+    {\displaystyle \Omega }
+  
+ – der Keplergeschwindigkeit der Scheibe, 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    {\displaystyle v_{e}}
+  
+ – der Entweichgeschwindigkeit so wie 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ – der Geschwindigkeit der Teilchen).
+Da man für die große Anzahl von Teilchen in einer Scheibe keine klassische Viel-Teilchen-Theorie verwenden kann, rechnet man mit einer „Particle-in-a-box“-Näherung. Dabei ergeben sich zwei mögliche Entwicklungen: entweder ein geordnetes Gesamtwachstum oder ein so genannter Runaway-Effekt. Beim Runaway-Effekt wachsen große Teilchen aufgrund der geringen Relativgeschwindigkeit 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ besonders schnell. Diese Teilchen haben nach einer gewissen Zeit eine sehr viel höhere Masse und sind von der Massenverteilung der restlichen Teilchen völlig entkoppelt.
+Die größten Planetesimale beginnen, ihre Umgebung von Materie zu enträumen (Oligarchisches Wachstum). Dabei entstehen Objekte bis zu etwa einer Marsmasse.
+In der letzten Phase beginnen nun die großen Objekte, nachdem sie ihre Umgebung von Materie bereinigt haben, miteinander zu wechselwirken. Es kommt zu Kollisionen und Fraktionierungen, wobei Venus- bzw. Erdmassen erreicht werden. Zu diesem Zeitpunkt ist das protoplanetare System schon etwa zehn Millionen Jahre alt.
+Hat ein Objekt die kritische Größe von etwa zehn Erdmassen erreicht, so beginnt es das umliegende Gas zu akkretieren. Es entsteht ein Gasgigant.
+Durch das Beobachten von Clustern von jungen Sternen weiß man, dass die Gasscheibe um die neu entstandenen Sterne nach etwa 6 bis 10 Millionen Jahren verschwindet. Daher müssen alle Prozesse, die zur Entstehung von Gasgiganten führen, innerhalb dieser 6 bis 10 Millionen Jahre ablaufen.
+Da in der Nähe des Zentralgestirns weniger Masse in der protoplanetaren Scheibe liegt, haben die inneren Planeten keine Möglichkeit, genügend groß zu werden, um zu Gasgiganten anzuwachsen.
+In vielen extrasolaren Planetensystemen beobachtet man, dass es massive Planeten relativ nahe beim Zentralgestirn gibt. Die Erklärung dafür liefert die Migration dieser Gasgiganten. Durch die Interaktion mit dem umliegenden Gas und den Planetesimalen verliert der Planet an Drehimpuls und wandert in Richtung des Zentralgestirns. Noch ungeklärt ist, welcher Prozess dazu führt, dass die Migration aufhört.
+Das Modell erklärt relativ gut den chemischen Gradienten, der im Sonnensystem beobachtet wird.
+
+
+==== Gravitations-Instabilitäten-Modell ====
+Das Gravitations-Instabilitäten-Modell geht davon aus, dass die protoplanetare Scheibe genügend massiv ist, so dass ihre Selbstgravitation nicht vernachlässigt werden darf. Wird das sogenannte Toomre-Kriterium erfüllt, beginnt die protoplanetare Scheibe, gravitativ instabil zu werden. Dies führt zunächst einmal dazu, dass sich Spiralarme ausbilden und sich das Gas lokal stark verdichtet. Im Extremfall werden die Gasklumpen durch die Selbstgravitation dominiert und fallen zu Gasgiganten zusammen.
+Nach dem Gravitations-Instabilitäten-Modell wäre es theoretisch möglich, dass es Gasgiganten gibt, die keinen festen Kern besitzen. In der Tat ist es so, dass bis heute noch nicht schlüssig gezeigt werden konnte, ob der Jupiter einen festen Kern besitzt oder nicht.
+Das Gravitations-Instabilitäten-Modell besitzt gegenüber dem Kernakkretionsmodell den Vorteil, dass ein Gasgigant relativ rasch entsteht. Zudem erklärt es ohne Weiteres, wieso einzelne Exoplaneten dermaßen exzentrische Bahnen aufweisen.
+Der Hauptkritikpunkt an dem Modell ist, dass es eine schwere, wenig turbulente protoplanetare Scheibe voraussetzt. Es erklärt nicht, wieso es auch terrestrische Planeten gibt.
+
+
+== Planemos ==
+
+Astronomische Objekte, welche die Größe und vor allem die Masse eines Planeten haben, aber keinen Stern begleiten, werden im engeren Sinn auch als „Objekte planetarer Masse“ oder kurz als „Planemos“ bezeichnet.
+Im Unterschied zu Exoplaneten, die von ihren Fixsternen erwärmt werden können, ist auf Planemos eine Kosmochemie – das heißt eine chemische Evolution komplizierter, organischer Verbindungen – kaum möglich.
+
+
+=== Häufigkeit ===
+Nach dem derzeitigen Wissensstand scheinen Planemos recht häufig zu sein. Beobachtungen der Forschungsgruppen MOA und OGLE mithilfe des Mikrolinseneffektes zeigten, dass es in der Milchstraße wahrscheinlich 1,8-mal so viele Planemos wie Sterne gibt.
+
+
+=== Entstehung ===
+Derzeit werden zwei Theorien über die Entstehung von Planemos diskutiert:
+
+Planemos könnten ehemalige Planeten von Sternen sein, die durch Instabilitäten des Systems aus diesem herauskatapultiert wurden.
+Planemos könnten zusammen mit anderen Objekten in einer gemeinsamen Gaswolke entstanden sein, ähnlich Sternen. Durch gravitative Wechselwirkungen mit schwereren Objekten in der Wolke wären sie dann hinausgeschleudert worden.
+
+
+== Erforschung mit Raumsonden ==
+Alle Planeten das Sonnensystems sind mittlerweile von Raumsonden besucht worden, erstmals jeweils 1962 Venus (Mariner 2), 1965 Mars (Mariner 4), 1973 Jupiter (Pioneer 10), 1976 Merkur (Mariner 10), 1979 Saturn (Pioneer 11), 1986 Uranus und 1989 Neptun (beide Voyager 2).
+Weiche Landungen gelangen jeweils erstmals 1970 auf Venus (Venera 7) und 1976 auf Mars (Viking 1).
+
+
+== Kulturelle Rezeption ==
+Lange Zeit wurde den Planeten als Bestandteil der Gestirne ein Einfluss auf den Menschen, etwa in der Heilkunde der Magie und vor allem in der Astrologie, zugeschrieben.
+Der englische Komponist Gustav Holst, selbst Hobby-Astronom, schrieb die symphonische Suite Die Planeten. Sie gehört zu den bekanntesten Programmmusiken. Die einzelnen Titel orientieren sich an astrologischen Planetensymbolen, beispielsweise Mars, der Mittler des Krieges oder Neptun, der Mystische.
+
+Der Hauptsaal des Schlosses Eggenberg in Graz wird Planetensaal genannt, im Park gibt es auch einen Planetengarten.
+Den Namen Planetenstraße tragen Straßen in Berlin-Neukölln, Düsseldorf und Moers.
+Das Wappen der österreichischen Gemeinde Gössendorf südlich von Graz trägt im Wappen 6 Sterne, entsprechend der Anzahl der Planeten, die zu Zeiten des Astronomen Johannes Kepler, der damals im Ort wohnte, bekannt waren.
+
+
+== Weitergehende Begriffsverwendungen ==
+Ein Planetarium ist ein Gebäude, in dem Bewegungen und Ereignisse des Nachthimmels mithilfe von Projektionen simuliert werden.
+In Planetengetrieben kreisen häufig drei kleine Zahnräder rotierend um ein kleines inneres und zugleich in einem innenverzahnten äußeren Zahnrad.
+Ein Planetenweg ist ein Wanderweg zur Veranschaulichung der verhältnismäßigen Abstände zwischen der Sonne und den Umlaufbahnen der einzelnen Planeten.
+
+
+== Siehe auch ==
+Planetenparade
+Klassifizierung der Planeten
+planetarischer Nebel
+
+
+== Literatur ==
+Jan Osterkamp: Der nächste neue Transpluto will in den exklusiven Sonnensystem-Planetenklub. Die Zeit (Online), 1. August 2005, archiviert vom Original (nicht mehr online verfügbar) am 28. Februar 2007; abgerufen am 17. Oktober 2013. 
+Peter Janle: Das Bild des Planetensystems im Wandel der Zeit. Teil 1. Vom Altertum bis zur Mitte des 19. Jahrhunderts. In: Sterne und Weltraum. 45, 2006, 1, S. 34–44. ISSN 0039-1263
+Peter Janle: Das Bild des Planetensystems im Wandel der Zeit. Teil 2. Vom 19. Jahrhundert bis heute. In: Sterne und Weltraum. 45, 2006, 4, S. 22–33. ISSN 0039-1263
+Gibor Basri, Michael E. Brown: Planetesimals To Brown Dwarfs: What is a Planet? In: Annual Review of Earth and Planetary Sciences. Band 34, Nr. 1, 2006, ISSN 1545-4495, S. 193–216, doi:10.1146/annurev.earth.34.031405.125058, arxiv:astro-ph/0608417. 
+Thorsten Dambeck: Planeten, geformt aus Gas und Staub, in GEO kompakt Nr. 6, März 2006, S. 28–34, ISSN 1614-6913
+Katharina Lodders, Bruce Fegley: The planetary scientist’s companion. Oxford Univ. Press, New York, NY 1998, ISBN 0-19-511694-1.
+W.T. Sullivan, J.A. Baross: Planets and life – the emerging science of astrobiology.Cambridge Univ. Press, Cambridge 2007, ISBN 978-0-521-53102-3.
+Rudolf Dvorak: Extrasolar planets – formation, detection and dynamics. WILEY-VCH, Weinheim 2008, ISBN 978-3-527-40671-5.
+Claudio Vita-Finzi: Planetary geology – an introduction. Terra, Harpenden 2005, ISBN 1-903544-20-3.
+Günter D. Roth: Planeten beobachten. Spektrum, Akad. Verl., Berlin 2002, ISBN 3-8274-1337-0.
+
+
+== Videos ==
+Gibt es extrasolare Planeten? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 17. Jan. 1999.
+Sind die Planetenbahnen stabil? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 26. Mär. 2000.
+Gibt es einen 10. Planeten? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 21. Jan. 2001.
+
+
+== Weblinks ==
+
+Die 8 Planeten – Multimedia-Tour durch das Sonnensystem (von The Nine Planets)
+RPIF-Bildbibliothek
+Informationen zu allen Planeten des Sonnensystems, sowie ihren Monden und über alle extrasolaren Planeten
+
+
+== Einzelnachweise ==

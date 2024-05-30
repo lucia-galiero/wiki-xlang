@@ -1,0 +1,90 @@
+Una partícula subatómica o subparticula es aquella que es más pequeña que el átomo. Puede ser una  partícula elemental o una compuesta, a su vez, por otras partículas, como los quarks que componen los protones y los neutrones. No obstante, existen otras partículas subatómicas, tanto compuestas como elementales, que no son parte del átomo, como es el caso de los neutrinos y bosones.
+La mayoría de las partículas elementales que se han descubierto y estudiado pueden encontrarse en condiciones normales en la Tierra, generalmente porque son inestables (se descomponen en partículas ya conocidas), o bien, son difíciles de producir de todas maneras. Estas partículas, tanto estables como inestables, se producen al azar por la acción de los rayos cósmicos al chocar con átomos de la atmósfera, y en los procesos que se dan en los aceleradores de partículas, los cuales imitan un proceso similar al primero, pero en condiciones controladas. De esta manera, se han descubierto docenas de partículas subatómicas, y se teorizan cientos de otras más. Ejemplos de partícula teórica es el gravitón; sin embargo, esta y muchas otras no han sido observadas en aceleradores de partículas modernos, ni en condiciones naturales en la atmósfera (por la acción de rayos cósmicos).
+Como partículas subatómicas, se clasifican también las partículas virtuales, que son partículas que representan un paso intermedio en la desintegración de una partícula no  inestable, y por tanto, duran mucho tiempo.
+
+
+== Introducción ==
+Los primeros modelos atómicos consideraban básicamente tres tipos de partículas subatómicas: protones, electrones y neutrones. Más adelante el descubrimiento de la estructura interna de protones y neutrones, reveló que estas eran partículas compuestas. Además el tratamiento cuántico usual de las interacciones entre las partículas comporta que la cohesión del átomo requiere otras partículas bosónicas como los piones, los gluones o los fotones.
+Los protones y neutrones por su parte están constituidos por quarks y gluones. Así un protón está formado por dos quarks arriba y un quark abajo. Los quarks se unen mediante partículas llamadas gluones, curiosamente la presencia de estas partículas es lo que da a los protones y neutrones más del 98% de su masa. Existen seis tipos diferentes de quarks (Arriba (up), Abajo (down), Fondo (bottom), Cima (top), Extraño (strange) y Encanto (charm)). Los protones se mantienen unidos a los neutrones por el efecto de los piones, que son mesones compuestos formados por parejas de quark y antiquark (a su vez unidos por gluones). Existen también otras partículas elementales que son responsables de las fuerzas electromagnética (los fotones) y débil (los neutrinos y los bosones W y Z).
+Los electrones, que están cargados con carga negativa, tienen una masa 1/1836 de la del átomo de hidrógeno, proviniendo el resto de su masa del protón. El número atómico de un elemento es el número de protones (o el de electrones si el elemento es neutro). Los neutrones por su parte son partículas neutras con una masa muy similar a la del protón. Los distintos isótopos de un mismo elemento contienen el mismo número de protones pero distinto número de neutrones. El número másico de un elemento es el número total de protones más neutrones que posee en su núcleo.
+Las propiedades más interesantes de las tres partículas estables constituyentes de la materia existente en el universo son:
+
+Protón: Se encuentra en el núcleo. Su masa es de 1,6×10-27 kg.[1]​ Tiene carga positiva igual en magnitud a la carga del electrón. El número atómico de un elemento indica el número de protones que tiene en el núcleo. Por ejemplo el núcleo del átomo de hidrógeno contiene un único protón, por lo que su número atómico (Z) es 1.
+Electrón: Se encuentra en la corteza. Su masa aproximadamente es de 9,1×10-31 kg. Tiene carga eléctrica negativa (-1.602×10-19 C).[1]​
+Neutrón: Se encuentra en el núcleo. Su masa es casi igual que la del protón. No posee carga eléctrica. Aunque sí posee momento magnético por lo que puede ser afectado por los campos electromagnéticos, aunque más débilmente que el protón. Además fuera del núcleo atómico esta partícula es inestable y se desintegra espontáneamente en unos 20 minutos.
+El concepto de la partícula elemental es hoy algo más oscuro debido a la existencia de cuasipartícula que si bien no pueden ser detectadas por un detector constituyen estados cuánticos cuya descripción fenomenológica es muy similar a la de una partícula real y material.
+Finalmente, cabe decir, que la explicación de fenómenos como la radioactividad requieren para ser explicados, la existencia de nuevas partículas llamadas neutrinos, que también son partículas elementales, que interactúan muy débilmente con el resto de la materia mediante la llamada interacción débil, que históricamente se denominó en sus orígenes fuerza nuclear débil.
+
+
+== Historia ==
+
+
+=== Antigüedad ===
+En la Grecia clásica, el término ἀτομός atomós 'sin partes, indivisible' (la palabra tomo 'parte' se usa también para referirse a las divisiones de un libro, por ejemplo) era concebido como la parte más pequeña e indivisible constituyente de la materia, provisto de unos ganchitos que los mantenían unidos a los otros átomos.
+
+
+=== Siglo XIX ===
+Fue el desarrollo de la química la que consiguió establecer un número determinado de constituyentes de toda la materia existente y medible en la Tierra. Sus hallazgos dieron su mayor fruto de la mano de Dmitri Mendeléyev, al concretar de una forma sencilla todos los posibles átomos (definiendo de hecho la existencia de algunos no descubiertos hasta tiempo después).
+Más adelante se descubrió que, si bien los recién definidos átomos cumplían la condición de ser los constituyentes de toda la materia, no cumplían ninguna de las otras dos condiciones. Ni eran la parte más pequeña ni eran indivisibles. Sin embargo se decidió mantener el término átomo para estos constituyentes de la materia.
+La electroquímica liderada por G. Johnstone Stoney, dio lugar al descubrimiento de los electrones (e-) en 1874, observado en 1897 por Joseph John Thomson. Estos electrones daban lugar a las distintas configuraciones de los átomos y de las moléculas. Por su parte en 1907 los experimentos de Ernest Rutherford revelaron que gran parte del átomo era realmente vacío, y que casi toda la masa se concentraba en un núcleo relativamente pequeño. El desarrollo de la teoría cuántica llevó a considerar la química en términos de distribuciones de los electrones en ese espacio vacío. Otros experimentos demostraron que existían unas partículas que formaban el núcleo: el protón (p+) y el neutrón (n) (postulado por Rutherford y descubierto por James Chadwick en 1932). Estos descubrimientos replanteaban la cuestión de las partes más pequeñas e indivisibles que formaban el universo conocido. Se comenzó a hablar de las partículas subatómicas.
+Más tarde aún, profundizando más en las propiedades de los protones, neutrones y electrones se llegó a la conclusión de que tampoco estos (al menos los dos primeros) podían ser tratados como la parte más pequeña, ni como indivisibles, ya que los quarks daban estructura a los nucleones. A partir de aquí se empezó a hablar de partículas cuyo tamaño fuese inferior a la de cualquier átomo. Esta definición incluía a todos los constituyentes del átomo, pero también a los constituyentes de esos constituyentes, y también a todas aquellas partículas que, sin formar parte de la materia, existen en la naturaleza. A partir de aquí se habla de partículas elementales.
+
+
+=== Siglo XX ===
+Albert Einstein interpretó el efecto fotoeléctrico como una evidencia de la existencia real del fotón. Anteriormente, en 1905, Max Planck había postulado el fotón como un quantum de energía electromagnética mínimo para resolver el problema de termodinámica de la radiación del cuerpo negro.
+Por su parte Ernest Rutherford descubrió en 1907 en el famoso experimento de la lámina de oro que casi la totalidad de la masa de un átomo estaba concentrada en una muy pequeña parte de él, que posteriormente se llamaría núcleo atómico, siendo el resto vacío. El desarrollo continuado de estas ideas llevó a la mecánica cuántica, algunos de cuyos primeros éxitos incluyeron la explicación de las propiedades del átomo.
+Muy pronto se identificó una nueva partícula, el protón, como constituyente único del núcleo del hidrógeno. Rutherford también postuló la existencia de otra partícula, llamada neutrón, tras su descubrimiento del núcleo. Esta partícula fue descubierta experimentalmente en 1932 por James Chadwick. A estas partículas se sumó una larga lista:
+
+Wolfgang Pauli postuló en 1931 la existencia del neutrino para explicar la aparente pérdida de la conservación de la cantidad de movimiento que se daba en la desintegración beta.  Enrico Fermi fue quien inventó el nombre. La partícula no fue descubierta hasta 1956.
+Fue Hideki Yukawa quién postuló la existencia de los piones para explicar la fuerza fuerte que unía a los nucleones en el interior del núcleo. El muon se descubrió en 1936, pensándose inicialmente de forma errónea que era un pion. En la década de 1950 se descubrió el primer kaón entre los rayos cósmicos.
+El desarrollo de nuevos aceleradores de partículas y detectores de partículas en esa década de 1950 llevó al descubrimiento de un gran número de hadrones, provocando la famosa cita de Wolfgang Pauli: «If I had foreseen this, I would have gone into botany» («Si hubiera previsto esto me hubiera hecho botánico»).
+Junto con los hadrones compuestos aparecieron series de partículas que parecían duplicar las funciones y características de partículas más pequeñas. Así se descubrió otro «electrón pesado», además del muon, el tauón, así como diversas series de quarks pesados. Ninguna de las partículas de estas series más pesadas parece formar parte de los átomos de la materia ordinaria.
+La clasificación de esos hadrones a través del modelo de quarks en 1961 fue el comienzo de la edad de oro de la física moderna de partículas, que culminó en la completitud de la teoría unificada llamada el modelo estándar en la década de los 70.La confirmación de la existencia de los bosones de gauge débil en la década de 1980 y la verificación de sus propiedades en los 90 se considera como la era de la consolidación de la física de partículas.
+
+
+=== Siglo XXI ===
+Entre las partículas definidas por el modelo estándar de la física de partículas, permaneció sin descubrir el elusivo bosón de Higgs por varios años hasta que finalmente fue detectado por experimentos en el CERN y anunciado con la presencia de su teórico creador Peter Higgs el 4 de julio de 2012. Este ha sido uno de los objetivos primordiales del acelerador Large Hadron Collider (LHC) del CERN.[2]​ El bosón de Higgs es la que confiere masa a otras partículas y explica por qué se formaron estrellas, sistemas solares y estructuras del universo tras el Big Bang por lo que su descubrimiento científico y prueba experimental de soporte representan el más importante logro de la física y la cosmología de los últimos 30 años. El resto de partículas conocidas encaja a la perfección con el modelo estándar.
+Igualmente la cromodinámica cuántica reticular, es un desarrollo relativamente reciente de la cromodinámica cuántica que ha permitido entender la estructura de muchas partículas subatómicas compuestas. En particular, la masa y otras propiedades de los hadrones han podido ser entendidas con precisión por primera vez en el primer cuarto del siglo XXI, gracias al empleo masivo de clústers de superordenadores, para calcular configuraciones específicas que permiten cálculos muy detallados de como es la estructura de estas partículas subatómicas compuestas[3]​.
+
+
+== Materias de trabajo ==
+
+El estudio de estas partículas subatómicas, de su estructura y de sus interacciones, incluye materias como la mecánica cuántica y la física de partículas. A veces, debido a que gran parte de las partículas que pueden tratarse como partículas subatómicas solo existen durante períodos de tiempo muy cortos y en condiciones muy extremas como los rayos cósmicos o los aceleradores de partículas, suele llamarse a esta disciplina física de altas energías.
+Por su parte, el tratamiento que la teoría cuántica de campos (TCC) hace de las partículas, difiere de la mecánica cuántica en un punto importante. En la TCC las partículas no son entidades básicas, sino que sólo existen campos y posibles estados del espacio-tiempo (el que sean perceptibles un cierto número de partículas es una propiedad del estado cuántico del espacio tiempo). Así, un campo es tratado como un observable asociado a una región del espacio-tiempo, a su vez, a partir del observable de campo se puede definir un operador número que se interpreta como el número de partículas observables en el estado cuántico. Puesto que los autovalores del operador número son números enteros y las magnitudes extensivas son expresables en términos de este operador, razón por la cual los autovalores de ese operador se pueden interpretar como el número de partículas.
+
+
+== Véase también ==
+Cronología de la física atómica y subatómica
+Simetría de Poincaré, Simetría CPT, teorema espín-estadística, bosón y fermión.
+Física de partículas, Listado de partículas elementales, el modelo quark y el Modelo estándar de la física de partículas.
+Cuasipartícula
+Partícula mensajera
+Monopolo magnético
+Maximón (partícula)
+
+
+== Referencias ==
+
+
+=== Bibliografía ===
+Halzen, F.; Martin, D. Quarks & Leptons, 1984, Ed. John Wiley. ISBN 0-471-81187-4. (en inglés)
+Green, Brian R. The elegant universe, 1999, existe una edición española, El universo elegante, Ed. Crítica, Drakontos, ISBN 84-8432-781-7, 2006.
+
+
+=== Bibliografía adicional ===
+R. P. Feynman y S. Weinberg: Elementary Particles and the Laws of Physics:  The 1986 Dirac Memorial Lectures. Cambridge University Press, 1987. (en inglés)
+Robert Oerter: The Theory of Almost Everything: The Standard Model, the Unsung Triumph of Modern Physics. Plume, 2006. (en inglés)
+Bruce A. Schumm (2004). Deep Down Things: The Breathtaking Beauty of Particle Physics. Johns Hopkins University Press. ISBN 0-8018-7971-X. . (en inglés)
+Martinus Veltman (2003). Facts and Mysteries in Elementary Particle Physics. World Scientific. ISBN 981-238-149-X.  (en inglés)
+G. D. Coughlan, J. E. Dodd und B. M. Gripaios: The Ideas of Particle Physics: An Introduction for Scientists. 3a. edición, Cambridge University Press, 2006. Un texto para estudiantes universitarios que no estudian ciencias físicas. (en inglés)
+David J. Griffiths (1987). Introduction to Elementary Particles. Wiley, John & Sons, Inc. ISBN 0-471-60386-4.  (en inglés)
+Gordon L. Kane (1987). Modern Elementary Particle Physics. Perseus Books. ISBN 0-201-11749-5.  (en inglés)
+
+
+=== Enlaces externos ===
+particleadventure.org: El modelo estándar (en inglés).
+particleadventure.org: Carta de partículas (en inglés).
+Universidad de California: Grupo de datos de partículas (en inglés).
+Enciclopedia de física con anotaciones: Teoría cuántica de campos
+José Gálvez: Electrodinámica Capítulo 1 (pdf) (en inglés).
+Partículas subatómicas: De los electrones a los quarks (enlace roto disponible en Internet Archive; véase el historial, la primera versión y la última).

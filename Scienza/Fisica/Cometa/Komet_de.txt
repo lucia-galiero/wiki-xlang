@@ -1,0 +1,267 @@
+Ein Komet oder Schweifstern ist ein kleiner Himmelskörper von meist einigen Kilometern Durchmesser, der in den sonnennahen Teilen seiner Bahn eine durch Ausgasen erzeugte Koma und meist auch einen leuchtenden Schweif (Lichtspur) entwickelt. Der Name kommt von altgriechisch (ἀστὴρ) κομήτης (astḗr) komētḗs („Haarstern“), abgeleitet von κόμη kómē („Haupthaar, Mähne“).
+Kometen sind wie Asteroiden Überreste der Entstehung des Sonnensystems und bestehen aus Eis, Staub und lockerem Gestein. Sie bildeten sich in den äußeren, kalten Bereichen des Sonnensystems (überwiegend jenseits der Neptunbahn), wo die reichlichen Wasserstoff- und Kohlenstoff-Verbindungen zu Eis resublimierten.
+In Sonnennähe ist der meist nur wenige Kilometer große Kometenkern von einer diffusen, nebeligen Hülle umgeben, die Koma genannt wird, und eine Ausdehnung von 2 bis 3 Millionen Kilometern erreichen kann. Kern und Koma zusammen nennt man auch den Kopf des Kometen. Das auffälligste Kennzeichen der von der Erde aus sichtbaren Kometen ist jedoch der Schweif. Er bildet sich erst ab einer Sonnenentfernung unter 2 AE, kann aber bei großen und sonnennahen Objekten eine Länge von mehreren 100 Millionen Kilometern erreichen. Meistens sind es aber nur einige zehn Millionen Kilometer.
+Die Zahl neu entdeckter Kometen lag bis in die 1990er Jahre bei etwa zehn pro Jahr und stieg seither durch automatische Suchprogramme und Weltraumteleskope merklich an. Die meisten der neuen Kometen und der schon bei früheren Umläufen beobachteten sind aber nur im Fernrohr sichtbar. Mit Annäherung an die Sonne beginnen sie stärker zu leuchten, doch lässt sich die Entwicklung von Helligkeit und Schweif nicht genau voraussagen. Wirklich eindrucksvolle Erscheinungen gibt es nur etwa zehn pro Jahrhundert.
+
+
+== Geschichte der Kometenforschung ==
+
+Schon in der Frühzeit erregten Kometen großes Interesse, weil sie plötzlich auftauchen und sich völlig anders als andere Himmelskörper verhalten. Im Altertum und bis zum Mittelalter wurden sie deshalb häufig als Schicksalsboten oder Zeichen der Götter angesehen.
+In der Antike kam es bei der Beobachtung einer Konjunktion mit bloßem Auge scheinbar zu einer Verschmelzung von einem Planeten mit einem Stern, die von Aristoteles in seiner Schrift „Meteorologica“ im Jahr 350 v. Chr. erwähnt wird und als mögliche Ursache für die Entstehung von Kometen angesehen wurde. Es handelt sich offenbar um ein zirka zehn Jahre vor der Niederschrift in Griechenland in den Morgenstunden am östlichen Horizont zu sehendes Ereignis, bei der der kleinste Winkelabstand zwischen dem ekliptiknahen Stern Wasat und dem Planeten Jupiter im Sternbild Zwillinge nur rund 20 Bogenminuten betrug. Aufgrund der Tatsache, dass bei diesem Ereignis kein Komet entstanden war, schloss Aristoteles solche Ereignisse als Ursache für das Erscheinen von Kometen aus. Aristoteles und Ptolemäus hielten Kometen daher für Ausdünstungen der Erdatmosphäre.
+Nach Diodor von Sizilien (1. Jahrhundert v. Chr.) konnten schon die Babylonier oder Chaldäer Kometen beobachten und ihre Wiederkehr berechnen. Pythagoras von Samos, dessen Lehren von ägyptischem und persischem Wissen beeinflusst waren, lehrte nach einer Legende: Kometen seien Himmelskörper, die eine geschlossene Kreisbahn hätten, also in regelmäßigen Zeitintervallen wieder sichtbar würden. Dem römischen Autor Seneca zufolge war man in den antiken Großreichen enttäuscht, wenn Kometen nicht wiederkehrten, Vorhersagen darüber sich also als falsch erwiesen.
+Erst Regiomontanus erkannte in den Kometen selbständige Himmelskörper und versuchte 1472, eine Bahn zu vermessen. Die älteste gedruckte Kometenschrift ist wahrscheinlich der 1472 in Beromünster und 1474 in Venedig erschienene Tractatus de Cometis des im unterfränkischen Goßmannsdorf bei Hofheim geborenen Zürcher Stadtarztes Eberhard Schleusinger, dessen Werk die Grundlage für Johannes Lichtenbergers Pronosticatio darstellt. Im Februar und März 1524 gab es eine seltene Konjunktion aller sieben Wandelgestirne in den Wassersternbildern Wassermann und Fische, die nach der astrologischen Ausdeutung von Johannes Carion in dessen Prognosticatio nicht nur zu einer Sintflut, sondern auch zur Entstehung zahlreicher Kometen („irrende Sterne“) führen sollte.
+Als Beginn der wissenschaftlichen Kometenforschung kann die Erkenntnis Tycho Brahes gelten, dass sie keine Erscheinungen der Erdatmosphäre sind. Denn er stellte beim Kometen von 1577 fest, dass er mindestens 230 Erdradien entfernt sein müsse. Es dauerte jedoch noch viele Jahrzehnte, bis sich diese Annahme durchsetzen konnte, und selbst Galilei widersprach ihr noch.
+
+Edmond Halley gelang es 1682, den in diesem Jahr auftauchenden, und später nach ihm „Halleyscher Komet“ benannten Schweifstern als periodisch wiederkehrenden Himmelskörper nachzuweisen. Der auch 1607, 1531 und 1456 beobachtete Komet bewegt sich auf einer langgestreckten Ellipse in 76 Jahren um die Sonne. Friedrich Wilhelm Bessel bestimmte 1804 dessen Bahn bei der Sonnenannäherung im Jahre 1607 auf der Basis der Beobachtungsdaten von Thomas Harriot und Nathaniel Torporley neu, indem er die tatsächliche Kometenbahn als parabelnahe Ellipse annäherte. Die genaue Berechnung solcher früheren Annäherungen gab wichtige Hinweise über Bahnstörungen durch Planeten und machte die Bahnbestimmung sicherer.
+Für seine darauffolgende  Arbeit über den Großen Kometen von 1807 erhielt Bessel 1811 den Lalande-Preis. Bei der Wiederkehr des Halleyschen Kometen im Jahr 1835 führte Bessel intensive Beobachtungen der Erscheinungsformen durch, die er auch bildlich dokumentierte und veröffentlichte. Auf dieser Basis formulierte er eine Hypothese zur Entstehung der Kometenschweife. Er nahm an, dass bei der Annäherung an die Sonne feinstes Kometenmaterial verdampfe und dieses durch die Wirkung von „Polarkräften“, die von der Sonne ausgingen, in der Bewegungsrichtung beeinflusst werde. Das war zwar zutreffend, stieß bei einigen seiner Zeitgenossen, besonders jedoch bei Johann Franz Encke auf heftigen Widerspruch.
+Heutzutage werden im Mittel 20 bis 30 Kometen pro Jahr entdeckt (siehe auch Liste von Kometen).
+Der Wissensstand über Kometen um die Mitte des 19. Jahrhunderts ist Scheffels humorvollem Lied Der Komet zu entnehmen: „Selbst Humboldt, der Greis von forschender Kraft, …: ‚Es füllt der Komet, viel dünner denn Schaum, Mit allerkleinster Masse den allergrößten Raum??‘“
+
+
+== Übersicht ==
+
+
+=== Charakterisierung ===
+Kometen werden auf Grund ihres Erscheinungsintervalls in aperiodische Kometen und periodische Kometen unterschieden. Letztere werden nach ihren Umlaufzeiten in langperiodische und kurzperiodische Kometen eingeteilt.
+
+
+==== Aperiodische Kometen ====
+Kometen, die – auf Grund ihrer parabolischen oder hyperbolischen Bahn – sicher nicht wiederkehren, oder Einzelbeobachtungen, über die mangels genauer Bahnbestimmung – noch – keine Aussage getroffen werden kann.
+
+
+==== Periodische Kometen ====
+Kometen, deren Wiederkehr anhand ihrer Bahnelemente gesichert ist, die also auf einer – zumindest für einen gewissen Zeitraum – stabilen Umlaufbahn die Sonne umkreisen.
+
+Langperiodische Kometen mit einer Umlaufzeit von mehr als 200 Jahren kommen vermutlich aus der Oortschen Wolke, ihre Bahnneigungen sind statistisch verteilt und sie umlaufen die Sonne sowohl im gleichen Umlaufsinn wie die Planeten (prograd) als auch in Gegenrichtung zu den Planetenbahnen (retrograd). Die Exzentrizitäten ihrer Bahnen liegen nahe bei 1 – die Kometen sind in der Regel aber noch durch die Schwerkraft an die Sonne gebunden, obwohl sie für ihren Umlauf bis zu 100 Millionen Jahre benötigen. Exzentrizitäten größer als 1 (Hyperbelbahnen) sind selten und werden vor allem durch Bahnstörungen beim Passieren der großen Planeten hervorgerufen. Diese Kometen kehren dann theoretisch nicht mehr in Sonnennähe zurück, sondern verlassen das Sonnensystem. Im Außenbereich des Planetensystems reichen jedoch schon geringe Kräfte, um die Bahn wieder elliptisch zu machen.
+Kurzperiodische Kometen mit Umlaufzeiten kleiner als 200 Jahre stammen vermutlich aus dem Kuipergürtel. Sie bewegen sich meist im üblichen Umlaufsinn und ihre Inklination liegt im Mittel bei etwa 20°, sie liegen also in der Nähe der Ekliptik. Bei mehr als der Hälfte der kurzperiodischen Kometen liegt der größte Sonnenabstand (Aphel) in der Nähe der Jupiterbahn bei 5 und 6 Astronomischen Einheiten (Jupiter-Familie). Es handelt sich dabei um ursprünglich längerperiodische Kometen, deren Bahn durch den Einfluss der Gravitation des Jupiter verändert wurde.
+
+
+=== Benennung ===
+
+Neu entdeckte Kometen erhalten von der Internationalen Astronomischen Union zuerst einen Namen, der sich aus dem Entdeckungsjahr und einem großen Buchstaben zusammensetzt, der beginnend mit A am 1. Januar und B am 16. Januar im Halbmonatsrhythmus (bis Y am 16. Dezember, der Buchstabe I wird übersprungen) nach dem Zeitpunkt der Entdeckung festgelegt ist. Zusätzlich kommt noch eine Zahl, damit man mehrere Kometen im halben Monat unterscheiden kann. Sobald die Bahnelemente des Kometen genauer bestimmt sind, wird dem Namen nach der folgenden Systematik ein weiterer Buchstabe vorangestellt:
+
+Der Komet Hyakutake zum Beispiel wird auch unter der Bezeichnung C/1996 B2 geführt. Hyakutake war also der zweite Komet, der in der zweiten Hälfte des Januars 1996 entdeckt wurde. Seine Umlaufzeit ist größer als 200 Jahre.
+Üblicherweise wird ein Komet zusätzlich nach seinen Entdeckern benannt, so wird zum Beispiel D/1993 F2 auch unter der Bezeichnung Shoemaker-Levy 9 geführt – es handelt sich hierbei um den neunten Kometen, den Eugene und Carolyn Shoemaker zusammen mit David H. Levy entdeckt haben.
+
+
+=== Kometenbahnen ===
+
+Da bei neu entdeckten Kometen nur kurze Bahnbögen beobachtet wurden, werden zuerst parabolische Bahnen berechnet. Da eine Parabel jedoch nur ein mathematischer Grenzfall ist und in der Natur nicht als solche vorkommen kann (jede noch so winzige Störung macht daraus eine Ellipse oder eine Hyperbel), laufen Kometen, deren Bahnexzentrizität mit e = 1,0 (Parabel) angegeben wird, in Wahrheit entweder auf Ellipsen (e < 1,0) oder auf Hyperbeln (e > 1,0). Bei längerer Beobachtung und der Gewinnung zusätzlicher astrometrischer Positionen kann dann entschieden werden, ob es sich um Ellipsen oder Hyperbeln handelt.
+Von zirka 660 untersuchten Kometen zeigt sich folgende Verteilung: 43 % Parabeln, 25 % langperiodische Ellipsen (Umlaufszeit über 200 Jahre), 17 % kurzperiodische Ellipsen (Umlaufszeit bis zu 200 Jahre) und 15 % Hyperbeln. Der hohe Anteil an Parabeln ist jedoch auf den zu kurzen Beobachtungszeitraum vieler Kometenerscheinungen zurückzuführen, bei denen langgestreckte Ellipsen nicht von einer Parabel unterschieden werden können. Bei einer längeren Sichtbarkeit von 240 bis 500 Tagen beschreiben nur noch 3 % der Kometen vermutlich eine Parabelbahn. Somit dürften die Ellipsen vorherrschend sein.
+Da viele Meteorschwärme vom Material früherer oder aktiver Kometen kommen, untersucht die Meteorastronomie mit Hilfe der Bahnbestimmung u. a. den Zusammenhang von Meteoren und Kometen.
+
+
+=== Entdeckung und Beobachtung von Kometen ===
+
+Während bis 1900 etwa 5 bis 10 neue Kometen pro Jahr entdeckt wurden, ist diese Zahl inzwischen auf über 20 angestiegen. Wesentlich sind daran automatische Himmels-Durchmusterungen und Beobachtungen von Raumsonden beteiligt. Doch gibt es auch Amateurastronomen, die sich auf Kometensuche spezialisiert haben, insbesondere in Japan und Australien.
+Am erfolgreichsten war dabei der Neuseeländer William Bradfield mit 17 Entdeckungen zwischen 1972 und 1995, die alle nach ihm benannt wurden. Er suchte systematisch am Dämmerungshimmel bis zu 90° Sonnenabstand und wandte dafür jährlich etwa 100 Stunden auf.
+Für visuelle Beobachtungen eignen sich lichtstarke Feldstecher oder ein spezieller Kometensucher. Wichtig ist eine schwache Vergrößerung bei hoher Lichtstärke, damit die relativ geringe Flächenhelligkeit des Kometen (ähnlich wie bei Nebelbeobachtungen) erhalten bleibt. Die Austrittspupille soll daher jener des dunkeladaptierten Auges (etwa 7 mm) entsprechen.
+Fotografisch benutzt man heute meist Kameras mit hochempfindlichen CCD-Sensoren. Bei Detailfotografien (etwa von der Struktur des Kometenschweifs) wird die Kamera nicht den Sternen nachgeführt, sondern mittels genäherter Bahnberechnung dem Kometen selbst. Die meisten sind bei ihrer Entdeckung noch im äußeren Sonnensystem und erscheinen nur wie ein diffuses Sternchen von 15. bis 20. Magnitude.
+
+
+=== Raumsonden zu Kometen ===
+Die folgende Tabelle enthält einige Kometen, die von Raumsonden besucht wurden oder deren Besuch geplant ist:
+
+Zum Vergleich:
+
+Juni 2018 nähert sich die Sonde Hayabusa 2 dem Asteroiden Ryugu auf wenige Kilometer an.
+Der etwa 3–10 m große Asteroid 2023 BU wurde am 21. Januar von Borisov von der Krim aus entdeckt und kam nach 6 Erdumdrehungen am 27. Januar 2023 der Erde im Bereich der Südspitze Südamerikas beim Vorbeiflug bis auf 3.600 km nahe, so nah wie bisher kein anderer Asteroid.
+
+
+== Aufbau ==
+
+
+=== Kern ===
+
+In großer Entfernung von der Sonne bestehen Kometen nur aus dem Kern, der im Wesentlichen aus zu Eis erstarrtem Wasser, Trockeneis (CO2), CO-Eis, Methan und Ammoniak mit Beimengungen aus meteoritenähnlichen kleinen Staub- und Mineralienteilchen (zum Beispiel Silikate, Nickeleisen) besteht. Man bezeichnet Kometen deshalb häufig als schmutzige Schneebälle (oder dirty snowballs). Die Beobachtungen der Deep-Impact-Mission haben gezeigt, dass (zumindest in den Außenbereichen des Kerns des untersuchten Kometen Tempel 1) die festen Bestandteile gegenüber den flüchtigen Elementen überwiegen, so dass die Bezeichnung snowy dirtball (eisiger Schmutzball) zutreffender erscheint. Aus Beobachtungen der Raumsonde Giotto am Kometen Halley weiß man, dass Kometen von einer schwarzen Kruste umgeben sind, die nur zirka 4 % des Lichts reflektiert (Albedo) – obwohl Kometen als spektakuläre Leuchterscheinungen beobachtet werden, sind ihre Kerne somit interessanterweise die schwärzesten Objekte des Sonnensystems, wesentlich dunkler als zum Beispiel Asphalt, der ca. 7 % des Lichts reflektiert.
+Da nur kleine Regionen des Kerns ausgasen, wie im Abschnitt Koma näher erläutert wird, geht man nach neueren Vorstellungen davon aus, dass die Oberfläche von einer Art Gesteinsschutt gebildet wird, der aus Gesteinsbrocken besteht, die zu schwer sind, um die gravitative Anziehung des Kerns zu überwinden. Giotto entdeckte auch winzige Partikel, die reich an den Elementen Kohlenstoff (C), Wasserstoff (H), Sauerstoff (O) und Stickstoff (N) sind und deswegen auch CHON-Partikel genannt werden. Diese könnten aus einer dünnen Rußschicht stammen, die die Oberfläche des Kerns überzieht, was die niedrige Albedo erklären würde. Nähere Informationen soll die aktuelle Rosettamission liefern.
+Einen besonderen Anteil an der Erklärung des Aufbaus der Kometen hatte Fred Whipple, der 1950 erstmals Kometenkerne als Konglomerate aus Eis und festen Bestandteilen beschrieb.
+
+
+=== Koma ===
+
+Sobald ein Komet bei der Annäherung an die Sonne in einem Abstand von etwa 5 AE ungefähr die Jupiterbahn kreuzt, bildet die Wechselwirkung zwischen Sonnenwind und Komet eine schalenförmige, nebulöse Hülle um den Kern des Kometen, die in Kernnähe auch strahlenartige Strukturen zeigt. Sie entsteht durch Sublimation leicht flüchtiger Substanzen auf der sonnenzugewandten Seite, die ins Eis eingebettete Staubteilchen mitreißen. Nach den Beobachtungen der Sonde Giotto findet diese Sublimation nur an etwa 10 bis 15 % der Kometenoberfläche statt, die flüchtigen Substanzen entweichen offenbar nur an brüchigen Stellen der schwarzen Kruste.
+Die an diesen Stellen entweichenden Muttermoleküle bilden die innere Koma. Durch weitere Aufheizung, Ionisation und Dissoziation vergrößert sich die Koma weiter und bildet die schließlich sichtbare Koma aus Ionen und Radikalen. Sie wird noch von einem im Ultravioletten strahlenden atomaren Wasserstoffhalo umgeben, der auch UV-Koma genannt wird und beim Kometen Hale-Bopp 1997 einen Durchmesser von 150 Millionen Kilometern erreichte. Da die Ozonschicht für die UV-Strahlung undurchlässig ist, kann die UV-Koma nur von außerhalb der Erdatmosphäre untersucht werden.
+
+
+=== Schweif ===
+Die Bestandteile der Koma werden durch Strahlungsdruck und Sonnenwind „weggeblasen“, so dass sich etwa innerhalb der Marsbahn ein Schweif ausbildet, oder exakter zwei Schweife:
+
+Ein schmaler, lang gestreckter Schweif (Typ-I-Schweif), der im Wesentlichen aus Molekülionen besteht und auch Plasmaschweif genannt wird. Für diese Teilchen reicht der Strahlungsdruck als Erklärung nicht aus, sodass Ludwig Biermann 1951 eine von der Sonne ausgehende Partikelstrahlung, die heute Sonnenwind genannt wird, als Erklärung hierfür postulierte. Heute geht man davon aus, dass die kometaren Ionen durch eine Wechselwirkung mit dem solaren Magnetfeld angetrieben werden, das von den geladenen Teilchen des Sonnenwinds mitgeführt wird.
+Ein diffuser, gekrümmter Schweif (Typ-II-Schweif), der auch Staubschweif genannt wird. Die kleinen Staubteilchen, die diesen Schweif bilden, werden durch den Strahlungsdruck der Sonne beeinflusst, dessen Wirkung durch eine Aufspaltung in zwei Komponenten erklärt werden kann:
+Eine radiale Komponente, die der Gravitationskraft entgegengerichtet ist und wie diese quadratisch mit der Entfernung zur Sonne abnimmt. Dies wirkt wie eine effektive Abnahme der solaren Gravitationskraft, die Staubteilchen bewegen sich deshalb auf „Pseudo-Keplerbahnen“, die sich für Staubteilchen verschiedener Größe unterscheiden, da die Kraft durch den Strahlungsdruck von der Teilchengröße abhängig ist. Dies führt zu einer relativ starken Auffächerung des Staubschweifs im Vergleich zum Plasmaschweif.
+Die andere wirksame Komponente des Strahlungsdruckes ist der Bewegungsrichtung der Staubteilchen entgegengerichtet und führt zu einer Abbremsung der Teilchen, die größer als die Wellenlänge des Lichtes sind, das heißt, größer als etwa 0,5 µm. Diese Teilchen bewegen sich langfristig genauso wie der sonstige interplanetare Staub auf Spiralbahnen Richtung Sonne (Poynting-Robertson-Effekt).
+Sehr selten, bei besonderen Bahnkonstellationen, ist ein Gegenschweif (Typ-III Schweif, Antischweif) sichtbar. Hierbei handelt es sich jedoch nicht um einen eigenständigen Schweif, sondern nur um einen geometrischen Projektionseffekt: Wenn sich die Erde zwischen Sonne und Komet hindurchbewegt, ragt ein Teil des Staubschweifs, bedingt durch seine Krümmung, scheinbar über den Kometenkopf hinaus.
+Der Materialverlust eines Kometen wurde bei „neuen“ Kometen, die das erste Mal in Sonnennähe kommen, auf etwa 10 bis 50 Tonnen pro Sekunde geschätzt, nach mehrfacher Sonnenannäherung sinkt der Masseverlust auf weniger als 0,1 t/s. Diese geringen Materiemengen von maximal 0,03 bis 0,2 Prozent der Kometenmasse pro Sonnendurchgang bedeuten, dass die Schweife nur eine sehr geringe Dichte aufweisen. Die enorme Helligkeit der Schweife erklärt sich im Falle des Staubschweifs durch die große Oberfläche der mikroskopisch kleinen Staubteilchen, im Plasmaschweif trägt sogar jedes Atom bzw. Molekül zur Leuchtkraft bei. Dies führt im Vergleich zur Größe des Kometenkerns zu einer Erhöhung der Leuchtkraft um viele Größenordnungen.
+
+
+== Entstehung und Auflösung ==
+Kometen sind die Überreste aus der Entstehung des Sonnensystems (primordiale Objekte) – und nicht jüngere Fragmente, die aus späteren Kollisionen anderer, größerer Himmelskörper entstanden sind.
+Der hohe Anteil an leicht flüchtigen Substanzen in den Kometenkernen, wie zum Beispiel Wasser und Kohlenmonoxid, und die Entdeckung von Clathraten bedeutet, dass sie in äußerst kalten Umgebungen (< 100 K) und damit im äußeren Bereich des Sonnensystems entstanden sein müssen. Die meisten Planetesimale im Bereich der äußeren Planeten wurden in der Frühzeit des Sonnensystems wohl von den vier Gasriesen aufgesammelt. Durch die auf die übrigen Teilchen wirkenden Bahnstörungen wurden viele von ihnen so stark gestreut, dass sie das Sonnensystem verließen. Man vermutet, dass etwa 10 Prozent dieser gestreuten Körper die weit entfernte Oortsche Wolke bildeten. Die näheren, aber jenseits der Neptunbahn kreisenden Objekte unterlagen diesem Streuprozess weniger und bildeten den Kuipergürtel.
+Die Oortsche Wolke und teilweise der Kuipergürtel sind das Reservoir der meisten Kometen, deren Zahl im Milliardenbereich liegen könnte. Da langperiodische Kometen bei ihrer Durchquerung des inneren Bereichs des Sonnensystems von den großen Planeten, vor allem durch Jupiter, stark gestreut werden, sind sie nur für wenige Durchgänge als ehemalige Mitglieder der Oortschen Wolke identifizierbar. Es ist also ein Mechanismus notwendig, der die heute noch sichtbaren Kometen aus ihren sonnenfernen Bahnen in Sonnennähe bringt. Für die kurzperiodischen Kometen aus dem Kuipergürtel vermutet man hierfür Kollisionen originärer Kuipergürtelobjekte, wodurch Bruchstücke ins Innere des Sonnensystems gelangen. Der Streuprozess langperiodischer Kometen ist noch nicht bekannt. Schwache Gezeiteneffekte naher Sterne oder die Gravitation größerer transneptunischer Objekte können allmähliche Bahnänderungen bewirken und die fernen, kalten Kometenkerne in eine langgestreckte Bahn zur Sonne hin ablenken, was alljährlich zur Entdeckung neuer Kometen führt. Manche verschwinden später auf Nimmerwiedersehen, andere bleiben auf periodischen Umlaufbahnen. Es wird allerdings auch der Einfluss vorbeiziehender Sterne oder noch nicht entdeckter Planeten (Planet X) oder die inzwischen widerlegte Idee eines Begleitsterns der Sonne (Nemesis) als Ursache diskutiert.
+Wenn die in das innere Sonnensystem eintretenden Kometen viel Eis enthalten und sie nahe zur Sonne geraten, können manche auch freiäugig sichtbar werden – wie es sehr ausgeprägt bei Ikeya-Seki (1965) oder Hale-Bopp (1997) der Fall war.
+Doch verlieren Kometen mit jedem Umlauf um die Sonne einen kleinen Teil ihrer Masse, vor allem flüchtige Bestandteile der äußeren Schicht des Kerns. Je näher das Perihel der Bahn an der Sonne liegt, desto heftiger ist dieser Prozess, weil das Eis rascher sublimiert und durch das Ausgasen des Gesteins auch größere Teilchen mitgerissen werden. Daher ist der Kometenkern nach einigen tausend Sonnenumläufen kaum noch als solcher zu erkennen. Diese Zeitspanne ist deutlich kürzer als das Alter des Sonnensystems.
+
+Durch das Verdampfen des Eises verliert das Gestein des Kerns seinen Zusammenhalt und der Komet löst sich allmählich auf. Dies kann durch Teilung (wie beim Kometen Biela 1833), durch Jupiters Einfluss (Shoemaker-Levy 9 1994) oder durch allmähliche Verteilung der Teilchen längs ihrer ursprünglichen Bahn erfolgen. Letztes ist die Ursache der meisten Sternschnuppenschwärme.
+
+
+== Verschiedenes ==
+
+
+=== Abgrenzung zu anderen Himmelskörpern ===
+
+Die Unterscheidung zwischen Asteroiden und Kometen ist nicht immer ganz eindeutig. Man vermutet, dass einige der als Asteroiden klassifizierten Objekte mit stark elliptischen Bahnen, zum Beispiel die Zentauren, „ausgebrannte“ Kometenkerne sind, die von einer dicken Schicht nichtflüchtiger Substanzen bedeckt sind. Andererseits wird das ursprünglich als Asteroid (2060) Chiron eingestufte Objekt seit der Entdeckung einer Koma als Komet klassifiziert und gemäß der Kometennomenklatur 95P/Chiron genannt.
+Heute wird der Begriff Komet sowohl im populärwissenschaftlichen als auch im wissenschaftlichen Sprachgebrauch entgegen seiner ursprünglichen Definition oft für alle vermutlich eisigen Kleinplaneten verwendet. Beispiele hierfür sind die Objekte des Kuipergürtels und der Oortschen Wolke, die zwar leichtflüchtige Substanzen enthalten, aber aufgrund ihrer Entfernung von der Sonne niemals stark genug erwärmt werden, um eine Koma zu bilden. Von solchen Objekten wird aber angenommen, dass ihr Aufbau eher den Kometenkernen gleicht als den Asteroiden aus dem Asteroidengürtel, aber erst bei Periheldistanzen innerhalb der Jupiterbahn die Sonnenstrahlung stark genug ist, durch einen Sublimationsprozess eine Koma zu bilden.
+
+
+=== Meteorströme und Meteoriten ===
+Die Teilchen des Staubschweifs verteilen sich entlang der Kometenbahn um die Sonne. Wie Giovanni Schiaparelli gezeigt hat, treten Meteorströme auf, wenn die Erde diese Bahn kreuzt. Die bekanntesten Meteorströme sind die Leoniden und die Perseiden. Diese Ströme sind als Sternschnuppen leicht beobachtbar. Meist verglüht das Kometenmaterial beim Durchflug durch die Erdatmosphäre, und so wurden bisher noch keine Meteoriten entdeckt, die zweifelsfrei von Kometen stammen. Für einige sehr seltene Meteoritentypen, wie zum Beispiel die CI-Chondriten, wurde zwar eine Verbindung zu Kometen vorgeschlagen, ein Beweis konnte allerdings bisher noch nicht erbracht werden. Auch Mikrometeoriten stammen überwiegend aus dem Asteroidengürtel, obwohl auch hier eine kometare Komponente diskutiert wird.
+Die direkte Untersuchung von Kometenmaterial ist jedoch für das Verständnis der Entstehung unseres Sonnensystem von großer Bedeutung, so dass komplexe Raumfahrtmissionen mit Raumsonden wie Deep Impact oder Rosetta durchgeführt werden, die das Kometenmaterial vor Ort untersuchen. Durch die Stardust-Mission ist es erstmals gelungen, Proben in Form von kleinsten Teilchen aus der Koma eines Kometen zur Erde zurückzubringen und für Untersuchungen in irdischen Labors zur Verfügung zu stellen.
+
+
+=== Besonders erwähnenswerte Kometen ===
+
+Der Halleysche Komet war der erste Komet, der (1705 von Edmond Halley) als periodisch erkannt wurde und dessen Kern von Raumsonden fotografiert werden konnte (1986).
+Der Große Komet von 1744 war der erste, dem eine eigene Monografie gewidmet wurde. Gottfried Heinsius berechnete darin seine monatelang sichtbare Bahn, die Formänderungen der Koma und die genaue Schweiflänge (52 Millionen km).
+Der Enckesche Komet (entdeckt 1818) hat mit 3,31 Jahren die kürzeste Umlaufzeit aller bekannten Kometen, kann aber nicht mehr mit bloßem Auge beobachtet werden.
+Komet Biela (1845/46) war der erste Schweifstern, dessen Zerfall beobachtet wurde.
+Am Komet Donati (1858) wurde erstmals das Ausgasen in die Koma beobachtet. Er war nach Künstlermeinung das schönste Objekt des Jahrhunderts (siehe Bild).
+Der Komet 1882 II („Großer Septemberkomet“) zog bei seinem Perihel vor und hinter der Sonnenscheibe vorbei, wobei sein Schweif auch am Taghimmel zu sehen war.
+Der Johannesburger Komet machte – fast gleichzeitig mit Halley – 1910 zum einmaligen Jahr zweier Großer Kometen.
+Der Komet Ikeya-Seki gilt als einer der hellsten Kometen des letzten Jahrtausends. Er erreichte im Oktober 1965 die rund 60-fache Helligkeit des Vollmondes und war tagsüber deutlich neben der Sonne sichtbar.
+Für den Kometen Kohoutek (1973/74) wurde teilweise eine spektakuläre Helligkeitsentwicklung erwartet, die jedoch nicht eintrat. Der Komet wurde unter anderem von Skylab 4 aus untersucht.
+Der Komet Shoemaker-Levy 9 zerbrach im Gravitationsbereich Jupiters. Seine 21 Bruchstücke schlugen zwischen dem 16. und 22. Juli 1994 auf dem Planeten auf, ihre Spuren waren mehrere Wochen zu sehen.
+Der Komet Hale-Bopp war von 1996 bis 1997 mehr als 18 Monate mit bloßem Auge sichtbar und hält damit den Rekord unter allen bekannten Kometen. 
+Der Komet Tempel 1 war das Ziel der Deep-Impact-Mission der NASA, bei der am 4. Juli 2005 ein 372 kg schweres, hauptsächlich aus Kupfer bestehendes Projektil mit einer relativen Geschwindigkeit von 10 km/s auf dem Kometen einschlug. Mit der Sonde selbst und mit zahlreichen erdgestützten Teleskopen, aber auch mit dem Weltraumteleskop Hubble und der ESA-Raumsonde Rosetta wurde die entstandene Partikelstaubwolke beobachtet.
+Der Komet Wild 2 ist der erste Komet, aus dessen Koma von einer Sonde Teilchen eingesammelt wurden. Die Proben wurden im Jahre 2006 zur Erde zurückgebracht.
+Der Komet 17P/Holmes steigerte Ende Oktober 2007 seine scheinbare Helligkeit von 17 auf 2,5mag innerhalb von etwa 36 Stunden. Der Komet, der plötzlich 500.000-mal heller als gewöhnlich erschien, war als auffälliges Objekt mit bloßem Auge am Himmel sichtbar.
+Tschurjumow-Gerassimenko ist der Komet, auf dem 2014 im Zuge der Rosetta-Mission erstmals eine Sonde sanft landete.
+
+
+=== Sungrazer (Sonnenstreifer) ===
+Sonnenstreifer sind eine Kometengruppe, die der Sonne extrem nahe kommen oder sich sogar durch die Sonnenkorona bewegen. Der Großteil der Sungrazer gehört der Kreutz-Gruppe an. Durch die Sonnensonde SOHO konnten über 1.000 derartige Kometen fotografiert werden. Schätzungen ihrer Gesamtzahl belaufen sich auf über 200.000 Objekte. Durch die starken Gezeitenkräfte der Sonne werden die Sungrazer oft auseinandergerissen. Die meisten Sonnenstreifer sind daher kleine Bruchstücke mit einem Durchmesser von 10 m und weniger. Der auffällige Komet Ikeya-Seki war bei Tageslicht zu sehen, so dass sein Durchmesser auf mehrere Kilometer geschätzt wurde.
+
+
+=== Erdnahe Kometen ===
+Da Kometenkerne typischerweise Durchmesser von 1 bis 100 Kilometern haben, wäre der Impakt eines Kometen mit der Erde nach aller Wahrscheinlichkeit eine globale Katastrophe, die auch Massenaussterben zur Folge haben kann.
+Von den 32.539 zum Stand August 2023 katalogisierten erdnahen Objekten sind 121 Kometen und 32.418 Asteroiden. Damit sind etwas unter einem Prozent aller Erdbahnkreuzer, die eine potentielle Kollisionsgefahr mit der Erde bergen, Kometen. Von insgesamt 8.007 bekannten Kometen sind knapp 2 % Erdbahnkreuzer (Stand: Juni 2023). Diese Zahlen erlauben jedoch keine Abschätzung der Wahrscheinlichkeit eines Impakts mit der Erde. Das Risiko von Kometen-Impakts ist generell schwieriger einzuschätzen als das von Asteroiden, deren Bahnen vergleichsweise stabiler und besser bekannt sind. Es gibt bzw. gab Entdeckungs-, Überwachungs- und Risikoabschätzungssysteme, die sowohl Asteroiden als auch Kometen erfassen (wie Catalina Sky Survey oder LONEOS) und Systeme, die nur Asteroiden und keine Kometen erfassen, wie ATLAS, LINEAR, NEAT oder Sentry.
+Bislang ist kein Kometenimpakt in der Erdgeschichte gesichert bestätigt. Im Jahr 1978 stellte der slowakische Astronom Ľubor Kresák die These auf, dass das Tunguska-Ereignis des Jahres 1908 durch ein Fragment des periodischen Kometen Encke ausgelöst worden sein könnte. Man nimmt an, dass kleinere Kometen, oder Kometenbruchstücke, geringe Spuren auf der Erde hinterlassen, da ihr Eis beim Eintritt in die Atmosphäre verdampft und ihre Gesteins-Bestandteile noch in der Atmosphäre verstreut werden könnten. Im Jahr 2013 schlugen Forscher vor, dass ein in der Libyschen Wüste gefundener ungewöhnlicher Stein aus Libyschem Wüstenglas durch den Einschlag eines Kometen entstanden sein könnte.
+Im Jahr 1984 fanden die Paläontologen David M. Raup und J. John Sepkoski bei den Aussterbens-Ereignissen im Fossilbericht eine Periodizität von etwa 26 Millionen Jahren. Als mögliche Ursache schlugen zwei Teams von Astronomen, Daniel P. Whitmire und Albert A. Jackson IV, sowie Marc Davis, Piet Hut und Richard A. Muller, unabhängig voneinander einen noch unentdeckten Zwergstern-Begleiter der Sonne vor. Dieser, Nemesis getauft, solle durch seinen Störungseinfluss auf die Oortsche Wolke eine zyklische Vergrößerung der Kometenanzahlen verursachen, die ins Innere des Sonnensystems gelangen, wodurch es auch auf der Erde mit dieser Periodizität zu statistisch häufigeren Kometeneinschlägen käme. Nachfolgende Untersuchungen zu den Aussterbe- und Impakt-Ereignissen anhand neuerer Daten fielen unterschiedlich aus.
+
+
+== Fotografische Aufnahme ==
+
+Eine fotografische Aufnahme von Kometen stellt wegen der geringen Leuchtdichte des Schweifes im Verhältnis zur Koma eine vergleichsweise anspruchsvolle Aufgabe dar. Je nach Helligkeit des Kometen und den Aufnahmebedingungen liegt der Belichtungswert selbst bei Kometen, die mit dem bloßen Auge noch gesehen werden können, deutlich unter 1 EV (EV steht für den englischsprachigen Begriff „exposure value“). Für solche Aufnahmen ist die Verwendung eines Stativs erforderlich.
+Je größer der Höhenwinkel des Kometen bei der Aufnahme ist, desto geringer sind atmosphärische Störungen, die dazu führen, dass Konturen in den Bildern verwaschen werden. Gleichermaßen nimmt auch die Lichtabschwächung durch die Extinktion in der Erdatmosphäre mit zunehmendem Abstand vom Horizont ab.
+
+
+=== Entfernungseinstellung ===
+In der Praxis kann das Objektiv wegen der sehr großen Entfernung auf „unendlich“ eingestellt werden. Da Kometen sehr weit entfernt sind, kann das Objektiv für Aufnahmen, die von Menschen betrachtet nicht als unscharfes Bild empfunden werden sollen, im Zweifel auch auf die endliche hyperfokale Distanz eingestellt werden. In diesem Fall werden alle Objekte zwischen der halben hyperfokalen und unendlicher Distanz hinreichend scharf abgebildet. Bei Bildern, die technisch ausgewertet oder von denen Ausschnitte verwendet werden sollen, muss die Entfernung entsprechend den Anforderungen gegebenenfalls genauer eingestellt werden.
+
+
+=== Blendenzahl ===
+Da sehr wenig Licht zur Verfügung steht, empfiehlt es sich bei fotografischen Objektiven, möglichst kleine Blendenzahlen und somit große Öffnungsweiten zu wählen, damit für die Aufnahme möglichst viel Licht eingefangen werden kann. Teleskope werden in der Regel ohne die Beschränkung der Einfallshöhen eingesetzt, da sie gar nicht über eine Aperturblende verfügen.
+Bei gegebener Öffnungsweite D ergibt sich bei einem optischen System die Blendenzahl k aus der Brennweite f wie folgt:
+
+  
+    
+      
+        k
+        =
+        
+          
+            f
+            D
+          
+        
+      
+    
+    {\displaystyle k={\frac {f}{D}}}
+  
+
+Da die Abbildungsqualität von optischen Systemen bei großer Öffnungsweite durch Abbildungsfehler begrenzt wird, ist es empfehlenswert, optische korrigierte Objektive oder Teleskope einzusetzen, wie zum Beispiel Asphären zur Reduktion der sphärischen Aberration oder Apochromaten zur Reduktion der chromatischen Aberration. Der Farbquerfehler kann bei modernen digitalen Kamerasystemen ebenso wie der sich aus der Geometrie der Abbildung zwangsläufig ergebende Randlichtabfall automatisch kompensiert werden.
+
+
+=== Belichtungszeit ===
+Wenn die Kamera mit der Erdoberfläche bewegt wird, verschiebt sich der Bildort des Kometen mit der Zeit, so dass sich im Bild eine entsprechende Bewegungsunschärfe ergibt. Dies kann kompensiert werden, indem die Kamera mit einer geeigneten Vorrichtung um die Erdachse mitgedreht wird (siehe auch Montierung). Zusätzlich ist zu berücksichtigen, dass sich die Rektaszension und die Deklination des Kometen während der Aufnahmen verändern, da der Komet sich gegenüber dem Fixsternhimmel bewegt.
+Für lichtschwache Kometen fallen unter Umständen so lange Belichtungszeiten an, dass eine präzise Nachführung der Bewegung des Kometen gegenüber dem Fixsternhimmel erforderlich ist.
+Bei digitalen Steh- und Bewegtbildaufnahmen mit längeren Belichtungszeiten ist zu beachten, dass sich der Bildsensor im Betrieb erwärmen kann und das Bildrauschen mit der steigenden Temperatur deutlich zunimmt. Ferner nimmt bei vielen Bildsensoren, wie zum Beispiel Active Pixel Sensoren, das Bildrauschen mit der Belichtungszeit zu. Für eine Bilderzeugung mit hohem Signal-Rausch-Verhältnis kann der Bildsensor passiv oder aktiv gekühlt werden. Ansonsten können mehrere Bilder mit begrenzter Belichtungszeit aufgenommen und später softwaretechnisch zusammengefügt werden („Stacking“, siehe unten). Zu kurze Belichtungszeiten erzeugen aufgrund der vielen Einzelaufnahmen allerdings vermehrtes Ausleserauschen, so dass ein geeigneter Kompromiss gefunden werden muss.
+
+
+=== Farbtemperatur ===
+Die Farbtemperatur kann bei Farbaufnahmen entsprechend dem nächtlichen weiß-neutralen Wert des vom Vollmond reflektierten Lichtes auf zirka 4100 Kelvin eingestellt werden. Höhere Werte, wie zum Beispiel der Wert für das direkte Sonnenlicht von 5500 Kelvin, ergeben Bilder mit stärkerem roten Anteil.
+
+
+=== Stacking ===
+Um die Lichtausbeute zu erhöhen, können mit Bildsensoren Serienbilder aufgenommen werden, die anschließend softwaremäßig deckungsgleich übereinandergelegt und zusammengesetzt werden (englisch: „stacking“). Dies hat den Vorteil, dass jedes einzelne Bild hinreichend frei von Bewegungsunschärfe sowie von mit der Belichtungszeit anwachsenden Signalstörungen ist, aber dennoch deutlich mehr Licht für die zusammengesetzte Aufnahme zur Verfügung steht. Dadurch ergibt sich ein deutlich besseres Signal-Rausch-Verhältnis und somit weniger Bildrauschen sowie ein größerer Dynamikumfang.
+
+
+== Offene Fragen ==
+
+Seit Ende der 1990er Jahre sind in der Erforschung der Kometen sowie des Kuipergürtels große Fortschritte erzielt worden, es gibt jedoch noch immer viele offene Fragen:
+
+Durch Spektralanalysen ist die Zusammensetzung der Koma mittlerweile sehr gut verstanden, über die molekulare Zusammensetzung des Kerns und der vom Kern entweichenden Muttermoleküle ist jedoch noch sehr wenig bekannt. Möglicherweise kommen in Kometen organische Moleküle vor, die ähnlich oder sogar noch komplexer als diejenigen sind, die in Meteoriten gefunden wurden. In simulierten Kometen wurden in Vorbereitung auf die Rosetta-Mission bereits 16 verschiedene Aminosäuren identifiziert. Viele Exobiologen setzen deswegen große Hoffnungen auf die weitere Erforschung der Kometen. Einige Theorien zur Entstehung des Lebens gehen davon aus, dass organische Moleküle aus Meteoriten oder Kometen die Entstehung des Lebens auf der Erde begünstigt oder gar erst ermöglicht haben. Die Anhänger der Panspermie vermuten sogar noch komplexere biologische Moleküle oder möglicherweise sogar einfache Lebensformen unter den CHON-Partikeln.
+Nach den derzeitigen Theorien sind die Kometen aus der Oortschen Wolke in geringerer Entfernung zur Sonne entstanden als diejenigen aus dem Kuipergürtel. Um dies zu bestätigen, sollten Unterschiede in der chemischen Zusammensetzung nachgewiesen werden.
+Der Mechanismus, durch den die Objekte der Oortschen Wolke ins Innere des Sonnensystems gestreut werden, ist noch nicht bekannt.
+Es gibt Anzeichen für eine leichte Häufung von langperiodischen Kometen in Richtung des Sonnenapex. Sollte sich dies bei genaueren Untersuchungen bestätigen, hätte dies Auswirkungen auf unser Verständnis nicht nur der Oortschen Wolke, sondern auch des interstellaren Mediums in der Umgebung des Sonnensystems.
+Mindestens eines, vermutlich aber mehrere erdgeschichtliche Ereignisse wurden durch den Impakt großer außerirdischer Körper verursacht, für die neben Asteroiden auch Kometen in Betracht kommen, so etwa der erdgeschichtliche Übergang von der Kreide zum Tertiär als Folge des KT-Impakts.
+Die Erde hat einen deutlich größeren Wasseranteil als andere Körper des inneren Sonnensystems, wofür einige Wissenschaftler große Kometeneinschläge verantwortlich machen (siehe Herkunft des irdischen Wassers). Allerdings stimmen bisherige Messungen der Wasserstoffisotopenverhältnisse in einigen Kometen nicht gut mit dem Wasserstoffisotopenverhältnis von irdischem ozeanischem Wasser überein, was aber auch daran liegen könnte, dass die gemessenen Kometen nicht repräsentativ waren.
+
+
+== Mystifizierung ==
+
+Seit Jahrtausenden hat die Menschheit das plötzliche Auftauchen von Kometen als böses Omen kommenden Unglücks, von Kriegen und Katastrophen interpretiert, vereinzelt aber auch als Wunderzeichen. Selbst das wissenschaftlich bereits aufgeschlossene 17. Jahrhundert war noch immer in diese Magisierung verstrickt, und auch Astronomen vom Range Johannes Keplers interpretierten Kometen als „ominös“ (im Sinne der Wortherkunft).
+Seit Beginn des 14. Jahrhunderts stellten Künstler den Stern von Betlehem als Kometen dar, als einer der ersten war es Giotto di Bondone aus Florenz im Jahr 1302. Mit Edmund Halleys Entdeckung der Periodizität im Jahr 1682 legte sich die Furcht vor Kometen etwas. Magische Zuschreibungen werden aber noch heute vorgenommen, wie an der Massenselbsttötung der Heaven’s-Gate-Mitglieder beim Erscheinen des Kometen Hale-Bopp im Jahr 1997 zu erkennen ist.
+
+
+=== Komet Caesar ===
+Antiken Berichten zufolge erschien im Jahr 44 v. Chr. während Feierlichkeiten zu Ehren Venus Genetrix' kurz nach der Ermordung Julius Caesars für mehrere Tage ein sehr heller Haarstern am römischen Himmel. Die Erscheinung wurde von den Römern als Zeichen der Vergöttlichung Caesars und des Aufstiegs seiner Seele in den Himmel gedeutet. Von Kaiser Augustus gefördert wurde der Komet Caesar (in der Antike auch 'Sidus Iulium' genannt) Teil des Kultes um den Staatsgott Divus Iulius und damit fester Bestandteil der römischen Mythologie.
+
+
+== Siehe auch ==
+Liste der Kometen
+Astronomische Objekte
+Exokomet
+Kleinkörper (Astronomie)
+Liste der besuchten Körper im Sonnensystem
+Meteoroid
+
+
+== Literatur ==
+Uwe Pilz, Burkhard Leitner: Kometen, interstellarum Astro-Praxis. Oculum-Verlag, Erlangen 2013, ISBN 978-3-938469-60-6.
+Andreas Kammerer, Mike Kretlow (Hrsg.): Kometen beobachten, Praktische Anleitung für Amateurbeobachter. 2010, kometen.fg-vds.de (PDF V2.0).
+Andreas Kammerer, Mike Kretlow (Hrsg.): Kometen beobachten, Praktische Anleitung für Amateurbeobachter. Sterne und Weltraum Verlag, München 1998, 1999, ISBN 3-87973-924-2.
+John C. Brandt, Robert D. Chapman: Introduction to Comets. University Press, Cambridge 2004, ISBN 0-521-00466-7.
+Gary W. Kronk: Cometography – A Catalog of Comets. Cambridge University Press, Cambridge 2000–2008, ISBN 0-521-58504-X.
+Band 1. Ancient–1799
+Band 2. 1800–1899
+Band 3. 1900–1932
+Band 4. 1933–1959
+S. V. M. Clube, W. M. Napier, M. E. Bailey: The Origin of Comets. Pergamon Press, Oxford 1990, ISBN 0-08-034858-0.
+Gerhard Dünnhaupt: Neue Kometen – Böse Propheten. Kometenflugschriften in der Publizistik der Barockzeit. In: Philobiblon. Hauswedell, Stuttgart 18.1974. ISSN 0031-7969.
+S. B. Charnley, S. D. Rodgers, Y.-J. Kuan, H.-C. Huang: Biomolecules in the Interstellar Medium and in Comets. Advances in Space Research. arxiv:astro-ph/0104416. (PDF, Diskussion über den Ursprung der nachgewiesenen organischen Moleküle)
+J. Horner, N. W. Evans, M. E. Bailey, D. J. Asher: The Populations of Comet-Like Bodies in the Solar system. In: Monthly notices of the Royal Astronomical Society. Blackwell, Oxford 343.2003, 1057, arxiv:astro-ph/0304319 (PDF, Vorschlag einer neuen Taxonomie für kometenähnliche Körper). ISSN 0035-8711
+Thorsten Dambeck: Das neue Bild der Kometen. In: Bild der Wissenschaft. Leinfelden-Echterdingen 42.2007,12, S. 38–43. ISSN 0006-2375
+Walter F. Huebner:  Physics and chemistry of comets. Springer, Berlin 1990, ISBN 3-540-51228-4.
+Jacques Crovisier, Thérèse Encrenaz: Comet science. Cambridge University Press, Cambridge 2000, ISBN 0-521-64179-9.
+Ernst Zinner: Die fränkische Sternkunde im 11. bis 16. Jahrhundert. (zobodat.at [PDF])
+
+
+=== Rezeption ===
+Kometenlied in Der böse Geist Lumpacivagabundus von Johann Nestroy, 1833
+
+
+== Weblinks ==
+
+Wann schlug der letzte Komet ein? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 16. Mär. 2005.
+Kometen Einführung
+Kometen: Boten vom Rand des Sonnensystems
+Paul Wiegert’s PhD thesis:The Evolution of Long-Period Comets
+ESA-Pressemitteilung zur Rosetta-Mission
+Beobachtbare Kometen, Liste der Internationalen Astronomischen Union (IAU) (englisch)
+Homepage der VdS-Fachgruppe Kometen
+ISSI Publikation Spatium Nr. 4: Kometen (PDF, 658 kB)
+Amateurfotos von Kometen
+
+
+== Einzelnachweise ==

@@ -1,0 +1,267 @@
+L'emivita o tempo di dimezzamento viene definita come il periodo di tempo occorrente affinché la metà degli atomi di un campione radioattivo puro decadano. Indicata con T1/2, si tratta di una quantità usata per indicare il tempo di decadimento diffusa nella pratica sperimentale per la facilità di misurazione.
+Il processo di decadimento implicitamente modellato da questo parametro è quello più semplice, cioè una cinetica del primo ordine: l'andamento dei decadimenti più semplici è quello di una funzione matematica del tipo esponenziale negativo. Un'altra quantità comune per il tempo di decadimento, tipica per i processi esponenziali, è la costante di decadimento, indicata solitamente con la lettera k o con T1/e: corrisponde infatti al periodo richiesto perché un campione puro si riduca ad una concentrazione di 1/e, l'inverso del numero di Nepero: circa il 36,8%.
+L'emivita è un indice della stabilità di un isotopo: più breve è l'emivita, meno stabile è l'atomo. Il decadimento di un atomo viene detto spontaneo in quanto è un fenomeno che avviene naturalmente. Trattasi di un evento stocastico, per cui non si può predire quando un determinato atomo decadrà, ma è possibile determinare la probabilità di decadimento, di cui l'emivita è espressione.
+
+
+== Descrizione ==
+Tutti gli atomi di una data sostanza radioattiva hanno la stessa probabilità di disintegrarsi in un dato tempo, di modo che un campione apprezzabile di materiale radioattivo, contenente milioni di atomi, subisca un cambiamento o una disintegrazione, con un tasso costante. Questo tasso con cui il materiale si trasforma è espresso in termini di emivita e cioè come il tempo richiesto per la disintegrazione di metà degli atomi inizialmente presenti. Questo tempo è costante per ogni dato isotopo.
+L'emivita dei materiali radioattivi varia da frazioni di secondo per i più instabili, fino a miliardi di anni per quelli che sono solo leggermente instabili. Il decadimento si dice avvenga da un nucleo genitore che produce un nucleo figlio. Il decadimento può produrre particelle alfa, particelle beta e neutrini. Raggi gamma possono essere prodotti al termine della diseccitazione del nucleo, ma questo avviene solo dopo che il decadimento alfa o beta hanno avuto luogo.
+Il decadimento radioattivo dà luogo ad una perdita di massa, che viene convertita in energia (energia di decadimento) secondo la formula E = mc2. Spesso il nuclide figlio è anch'esso radioattivo, e così via lungo una linea di varie generazioni successive di nuclei, fino al raggiungimento di un nucleo stabile. Nella tabella seguente sono mostrate le tre serie di decadimento riscontrabili in natura:
+
+Nota: esistono altri isotopi radioattivi naturali come il carbonio-14 ma non fanno parte di una serie.
+
+
+== Spiegazione matematica ==
+Il tempo di decadimento considera la legge di decadimento elementare, che corrisponde ad un andamento nel tempo della densità di numero (in un punto del materiale) di tipo esponenziale negativo:
+
+  
+    
+      
+        n
+        (
+        t
+        )
+        =
+        
+          n
+          
+            0
+          
+        
+        
+          e
+          
+            −
+            λ
+            t
+          
+        
+      
+    
+    {\displaystyle n(t)=n_{0}e^{-\lambda t}}
+  
+
+dove λ è detta costante di decadimento o di disintegrazione, che dipende dal tipo di decadimento e dalla specie nucleare considerata, ma non è influenzata né da agenti fisici come la temperatura, né dalla popolazione di atomi presenti, dato che ogni decadimento è un processo indipendente.
+Definendo 
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle T_{1/2}}
+  
+ il tempo in cui 
+  
+    
+      
+        
+          n
+          
+            0
+          
+        
+      
+    
+    {\displaystyle n_{0}}
+  
+ si dimezza, si pone:
+
+  
+    
+      
+        n
+        (
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        )
+        =
+        
+          n
+          
+            0
+          
+        
+        
+          e
+          
+            −
+            λ
+            
+            
+              T
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+          
+        
+        =
+        
+          
+            
+              n
+              
+                0
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle n(T_{1/2})=n_{0}e^{-\lambda \,T_{1/2}}={\frac {n_{0}}{2}}}
+  
+
+Esplicitando 
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle T_{1/2}}
+  
+ si ottiene l'espressione del rapporto tra emivita (costante del logaritmo in base 2) e costante di decadimento (naturale: del logaritmo in base e):
+
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        =
+        
+          
+            
+              ln
+              ⁡
+              2
+            
+            λ
+          
+        
+        =
+        τ
+        
+        
+        ln
+        ⁡
+        2
+      
+    
+    {\displaystyle T_{1/2}={\frac {\ln 2}{\lambda }}=\tau \,\,\ln 2}
+  
+
+ovvero, sostituendo il valore approssimato a tre cifre significative del logaritmo naturale di 2:
+
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        =
+        69.3
+        %
+        
+        
+        τ
+      
+    
+    {\displaystyle T_{1/2}=69.3\%\,\,\tau }
+  
+
+In altri termini, con buona approssimazione, la costante di decadimento (naturale) è un po' meno di una volta e mezzo il tempo di dimezzamento:
+
+  
+    
+      
+        τ
+        ≈
+        1.44
+        
+        
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \tau \approx 1.44\,\,T_{1/2}}
+  
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Giorgio Bendiscioli, Fenomeni Radioattivi, Springer, 2013, ISBN 978-88-470-5452-3.
+ Ugo Amaldi, Fisica delle Radiazioni, Bollati Boringhieri, 1971, ISBN 88-339-5063-8.
+
+
+== Voci correlate ==
+Vita media
+Decadimento esponenziale
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su emivita
+
+
+== Collegamenti esterni ==
+
+(EN) half-life, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) IUPAC Gold Book, "half life", su goldbook.iupac.org.
+(EN) IUPAC Gold Book, "half life of a radionuclide", su goldbook.iupac.org.

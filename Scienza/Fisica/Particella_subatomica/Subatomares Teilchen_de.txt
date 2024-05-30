@@ -1,0 +1,71 @@
+Unter einem subatomaren Teilchen versteht man ein Teilchen, das kleiner (aber nicht unbedingt leichter) ist als ein Atom. Mit subatomaren Teilchen beschäftigen sich vor allem die Teilchenphysik und die Kernphysik. Die subatomaren Teilchen können in Elementarteilchen und zusammengesetzte Teilchen unterschieden werden.
+Die subatomaren Teilchen wurden im 20. Jahrhundert intensiv untersucht. Aufgrund der Vielfalt an entdeckten Teilchen wurde phasenweise auch vom sogenannten Teilchenzoo gesprochen. Erst durch das Konzept der Quarks gelang es, die interne Struktur der Hadronen zu verstehen. Die Entwicklung mündete im seit knapp 50 Jahren bestehenden Standardmodell.
+Aufgrund ihrer Kleinheit treten in den Eigenschaften und Reaktionen der subatomaren Teilchen quantenphysikalische Phänomene deutlich zutage, z. B. der Welle-Teilchen-Dualismus, die Unschärferelationen, Vakuumfluktuationen und Erzeugungs- bzw. Vernichtungsprozesse.
+
+
+== Arten von subatomaren Teilchen ==
+
+
+=== Elementarteilchen ===
+
+Bei den bestätigten Elementarteilchen des Standardmodells unterscheidet man:
+
+Quarks
+Leptonen
+Eichbosonen
+sowie das Higgs-Boson
+
+
+=== Zusammengesetzte Teilchen ===
+Bei den zusammengesetzten Teilchen ist die Situation komplizierter. Die zusammengesetzten Teilchen, die subatomare Dimensionen haben, bestehen alle aus Kombinationen von Quark-Elementarteilchen. Die Quarks selbst können nicht alleine beobachtet oder gemessen werden, sondern lediglich ihre Zerfallsprodukte. Man unterscheidet:
+
+Hadronen:
+Mesonen: Quark-Antiquark-Paare
+Baryonen: 3 Quarks. Dazu gehören auch die Nukleonen Proton und Neutron
+Exotische Hadronen: Tetraquarks und Pentaquarks
+sonstige zusammengesetzte Teilchen:
+Atomkerne
+Auf der atomaren Ebene, also über der subatomaren Ebene, existieren neben den gewöhnlichen Atomen und Molekülen auch die sogenannten exotischen Atome, welche durch Kombination der subatomaren Hadronen und weiteren Elementarteilchen entstehen. Ein Beispiel für ein exotisches Atom ist myonischer Wasserstoff.
+
+
+=== Bekannte Beispiele ===
+Elementarteilchen: Photon, Elektron
+Zusammengesetzt: Proton, Neutron, Alphateilchen oder ganz allgemein Atomkerne
+
+
+== Fermionen und Bosonen ==
+
+Eine andere wichtige Unterscheidung der subatomaren Teilchen ist die in Fermionen und Bosonen. Diese Klassen unterscheiden sich in zwei grundlegenden Eigenschaften:
+
+In jedem Quantenzustand eines Systems, z. B. eines Atoms, gibt es nur höchstens ein Fermion einer gegebenen Art (siehe Pauli-Prinzip); für Bosonen gilt diese Beschränkung nicht. Dieser Unterschied wird dadurch beschrieben, dass für Fermionen und Bosonen verschiedene Wahrscheinlichkeitsverteilungen gelten, die Fermi-Dirac-Statistik beziehungsweise die Bose-Einstein-Statistik. Der Spin eines Teilchens ist mit der Statistik über das Spin-Statistik-Theorem verknüpft. Somit unterscheiden sich Fermionen und Bosonen auch durch ihre halbzahlige bzw. ganzzahlige Spinquantenzahl.
+Die elementaren Fermionen, also Leptonen und Quarks, können nur zusammen mit einem Antiteilchen erzeugt oder vernichtet werden. Diese Beobachtung, die die Stabilität von Materie erklärt, wird durch Erhaltungssätze der Teilchenanzahl (Baryonenzahl, Leptonenzahl) beschrieben. Elementare Bosonen können dagegen einzeln entstehen und vergehen.
+Alle Bestandteile des Atoms, Proton, Neutron und Elektron, sind Fermionen. Erst das Pauli-Prinzip macht den Aufbau der Atomkerne und der Elektronenhüllen verständlich. Auch bei den Elementarteilchen handelt es sich meist um Fermionen. Lediglich die Eichbosonen (inkl. dem Photon) und das Higgs-Teilchen sind Bosonen. Unter den zusammengesetzten Teilchen gehören die Mesonen zu den Bosonen.
+
+
+== Wichtige Phänomene auf der subatomaren Ebene ==
+Radioaktivität
+Kernfusion
+Photoelektrischer Effekt
+Stabilität des Atomkerns: die Masse des Atomkerns entsteht hauptsächlich durch die Bindungsenergie der Quarks.
+
+
+== Bedeutende Entdeckungen subatomarer Teilchen ==
+
+
+== Siehe auch ==
+Gebundener Zustand
+Austauschteilchen
+
+
+== Literatur ==
+R. P. Feynman und S. Weinberg: Elementary Particles and the Laws of Physics:  The 1986 Dirac Memorial Lectures. Cambridge University Press, 1987.
+Brian Greene: [[The Elegant Universe]]. W. W. Norton & Company, 1999, ISBN 0-393-05858-1. 
+Robert Oerter: The Theory of Almost Everything: The Standard Model, the Unsung Triumph of Modern Physics. Plume, 2006.
+Bruce A. Schumm: Deep Down Things: The Breathtaking Beauty of Particle Physics. Johns Hopkins University Press, 2004, ISBN 0-8018-7971-X. .
+Martinus Veltman: Facts and Mysteries in Elementary Particle Physics. World Scientific, 2003, ISBN 981-238-149-X. 
+G. D. Coughlan, J. E. Dodd und B. M. Gripaios: The Ideas of Particle Physics: An Introduction for Scientists. 3. Auflage, Cambridge University Press, 2006. An undergraduate text for those not majoring in physics.
+David J. Griffiths: Introduction to Elementary Particles. Wiley, John & Sons, Inc., 1987, ISBN 0-471-60386-4. 
+Gordon L. Kane: Modern Elementary Particle Physics. Perseus Books, 1987, ISBN 0-201-11749-5. 
+
+
+== Einzelnachweise ==

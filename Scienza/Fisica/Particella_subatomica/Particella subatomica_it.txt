@@ -1,0 +1,91 @@
+In fisica, una particella subatomica è una particella di massa inferiore a quella di un atomo. Una particella subatomica può essere elementare, non costituita da altre particelle (ad esempio l'elettrone), o composta, cioè fatta di altre particelle. La disciplina che studia questo tipo di particelle è la fisica nucleare e in particolare la fisica delle particelle.
+L'osservazione sperimentale che la luce talvolta ha un comportamento affine a quello di un flusso di particelle (fotoni) e tal'altra esibisce proprietà ondulatorie, e in seguito che tale comportamento si applica anche alle particelle massive, portò a sviluppare il concetto di dualismo onda-particella, che risultò fondamentale per l'elaborazione della meccanica quantistica Nel contesto della teoria quantistica dei campi, che ha congiunto la meccanica quantistica con la teoria dei campi, le interazioni tra particelle sono descritte tramite la creazione e distruzione di quanti delle corrispondenti interazioni fondamentali.
+La definizione fisica esatta di particella dipende dal contesto. Alcune definizioni valide sono: una funzione d'onda collassata, un'eccitazione di un campo, una rappresentazione irriducibile del gruppo di Poincaré, una stringa vibrante o semplicemente un corpo misurato da un rivelatore. 
+
+
+== Classificazione ==
+
+
+=== Per composizione ===
+Le particelle subatomiche sono "elementari", cioè non costituite da altre particelle, o "composte", cioè fatte da più particelle elementari legate insieme. 
+Le particelle elementari del modello standard sono:
+
+Sei "sapori" di quark: up, down, strange, charm, bottom, e top;
+Sei tipi di leptoni: elettrone, muone, tauone e neutrino elettronico, neutrino muonico e neutrino tauonico;
+Dodici bosoni di gauge (mediatori delle forze): il fotone dell'elettromagnetismo, i tre bosoni W e Z della forza debole e gli otto gluoni della forza forte;
+Il bosone di Higgs.
+Tutte queste particelle sono state osservate dagli esperimenti, le più recenti delle quali sono il quark top (1995), il neutrino tau (2000) e il bosone di Higgs (2012). Varie estensioni del modello standard predicono l'esistenza di altre particelle elementari, come il gravitone, ma al 2022 nessuna è mai stata osservata.
+Quasi tutte le particelle composte contengono più quark (o antiquark) legati insieme da gluoni (con alcune eccezioni senza quark, come il positronio e il muonio). Quelle che contengono pochi (≤ 5) [anti]quark sono chiamate adroni. A causa di una proprietà nota come confinamento di colore, i quark non si trovano mai singolarmente, ma si trovano sempre in adroni contenenti più quark. Gli adroni sono divisi per numero di quark (inclusi gli antiquark) in barioni, contenenti un numero dispari di quark (quasi sempre 3), di cui il protone e il neutrone (i due nucleoni) sono di gran lunga i più noti; e i mesoni, contenenti un numero pari di quark (quasi sempre 2, un quark e un antiquark), di cui i pioni e i kaoni sono i più noti.
+Tranne il protone e il neutrone, tutti gli altri adroni sono instabili e decadono in altre particelle in microsecondi o meno. Un protone è fatto di due quark up e un quark down, mentre il neutrone è fatto di due quark down e un quark up. Questi si legano insieme in un nucleo atomico, per esempio un nucleo di elio-4 è composto da due protoni e due neutroni. La maggior parte degli adroni non vive abbastanza a lungo per legarsi in composti simili a nuclei; quelli che lo fanno (diversi dal protone e dal neutrone) formano nuclei esotici.
+
+
+=== Per statistica ===
+
+Ogni particella subatomica, come ogni particella nello spazio tridimensionale che obbedisce alle leggi della meccanica quantistica, può essere un bosone (con spin intero) o un fermione (con spin semidispari).
+Nel Modello Standard, tutti i fermioni elementari hanno spin 1/2, e sono divisi in quark che portano carica di colore e quindi sentono l'interazione forte, e i leptoni che non la sentono. I bosoni elementari comprendono i bosoni di gauge (fotone, W e Z, gluoni) con spin 1, mentre il bosone di Higgs è l'unica particella elementare con spin zero.
+L'ipotetico gravitone se esiste, dovrà avere spin 2, ma non fa parte del Modello Standard. Alcune estensioni come la supersimmetria prevedono ulteriori particelle elementari con spin 3/2, ma nessuna è stata scoperta al 2022.
+A causa delle regole che determinano lo spin delle particelle composte, i barioni (3 quark) hanno spin o 1/2 o 3/2, e sono quindi fermioni; i mesoni (2 quark) hanno spin interi di 0 o 1, e sono quindi bosoni.
+
+
+=== Per massa ===
+Nella relatività ristretta, l'energia di una particella a riposo è legata alla sua massa secondo la legge E = mc2. Ciò significa che la massa può essere espressa in termini di energia e viceversa. Se una particella ha un sistema di riferimento in cui si trova a riposo, allora ha una massa a riposo positiva e viene definita massiva o massiccia.
+Tutte le particelle composte sono massicce. I barioni (dalla parola greca che significa "pesante") tendono ad avere una massa maggiore dei mesoni (che significa "intermedi"), che a loro volta tendono ad essere più pesanti dei leptoni (che significa "leggeri"), ma il leptone più pesante (la particella tau) è più pesante dei due sapori più leggeri dei barioni (nucleoni). È anche certo che ogni particella con una carica elettrica è massiva.
+Quando furono definiti originariamente negli anni '50, i termini barioni, mesoni e leptoni si riferivano alle masse; tuttavia, dopo che il modello a quark fu accettato negli anni '70, fu riconosciuto che i barioni sono composti da tre quark, i mesoni sono composti da un quark e un antiquark, mentre i leptoni sono elementari e sono definiti come fermioni elementari senza carica di colore.
+Tutte le particelle senza massa (particelle la cui massa invariante è zero) sono elementari. Queste sono il fotone e il gluone.
+
+
+=== Per decadimento ===
+La maggior parte delle particelle subatomiche non sono stabili. Tutti i leptoni e i barioni decadono tramite la forza forte o la forza debole; fa eccezione il protone, il cui decadimento non è mai stato osservato, e non è noto se possa avvenire o meno, considerando che alcune teorie di unificazione lo prevedono. I leptoni μ e τ, insieme alle loro antiparticelle, decadono via forza debole. I neutrini non decadono, ma si pensa che possano esistere fenomeni di oscillazione anche nel vuoto. L'elettrone e il positrone sono stabili per via della conservazione della carica, a meno che non esista una particella più leggera dotata di una carica elettrica con valore assoluto minore o uguale della carica elementare (il che è improbabile).
+
+
+== Altre proprietà ==
+Tutte le particelle subatomiche osservabili hanno come carica elettrica un multiplo intero della carica elementare. I quark del Modello Standard hanno cariche elettriche "non intere", cioè multiple di 1⁄3 e, ma i quark (e altre combinazioni con carica elettrica non intera) non possono essere isolati a causa del confinamento dei colori. Per i barioni, i mesoni e le loro antiparticelle, le cariche dei quark costituenti si sommano a un multiplo intero di e.
+Grazie al lavoro di Albert Einstein, Satyendranath Bose, Louis de Broglie e molti altri, la teoria scientifica attuale sostiene che tutte le particelle hanno anche una natura ondulatoria. Questo è stato verificato non solo per le particelle elementari ma anche per le particelle composte come gli atomi e persino le molecole. Infatti, secondo le formulazioni tradizionali della meccanica quantistica non relativistica, la dualità onda-particella si applica a tutti gli oggetti, anche quelli macroscopici; sebbene le proprietà ondulatorie degli oggetti macroscopici non possano essere rilevate a causa delle loro piccole lunghezze d'onda.
+Le interazioni tra particelle sono state esaminate per molti secoli, e alcune semplici leggi sono alla base del comportamento delle particelle nelle collisioni e nelle interazioni. Le più fondamentali sono le leggi di conservazione dell'energia e della quantità di moto, che ci permettono di fare calcoli sulle interazioni tra particelle su scale di grandezza che vanno dalle stelle ai quark. Questi sono i prerequisiti di base della meccanica newtoniana, una serie di affermazioni ed equazioni nei Philosophiae Naturalis Principia Mathematica, originariamente pubblicati nel 1687.
+
+
+== Dividere un atomo ==
+L'elettrone carico negativamente ha una massa pari a 1⁄1837 di quella di un atomo di idrogeno. Il resto della massa dell'atomo di idrogeno proviene dal protone che ha carica positiva. Il numero atomico di un elemento è il numero di protoni nel suo nucleo. I neutroni sono particelle neutre che hanno una massa leggermente superiore a quella del protone. Isotopi diversi dello stesso elemento contengono lo stesso numero di protoni ma un numero diverso di neutroni. Il numero di massa di un isotopo è il numero totale di nucleoni (neutroni e protoni insieme).
+La chimica si occupa di come la condivisione degli elettroni lega gli atomi in strutture come i cristalli e le molecole. Le particelle subatomiche considerate importanti per la comprensione della chimica sono l'elettrone, il protone e il neutrone. La fisica nucleare si occupa di come protoni e neutroni si dispongono nei nuclei. Lo studio delle particelle subatomiche, degli atomi e delle molecole, della loro struttura e delle loro interazioni, richiede la meccanica quantistica. L'analisi dei processi che cambiano il numero e i tipi di particelle richiede la teoria quantistica dei campi. Lo studio delle particelle subatomiche in sé è chiamato fisica delle particelle. Il termine "fisica delle alte energie" è quasi sinonimo di "fisica delle particelle" poiché la creazione di particelle richiede alte energie: si verifica solo come risultato dei raggi cosmici, o negli acceleratori di particelle. La fenomenologia delle particelle sistematizza le conoscenze sulle particelle subatomiche ottenute da questi esperimenti.
+
+
+== Particelle elementari ==
+
+Le particelle elementari del modello standard includono:
+
+Sei sapori di quark, fermioni soggetti all'interazione forte
+
+I quark non sono presenti singolarmente negli atomi, ma legati a formare i nucleoni, cioè protoni e neutroni costituenti il nucleo (vedi sotto).
+
+Sei tipi di leptoni, fermioni soggetti all'interazione debole suddivisi in tre famiglie, ad ognuna delle quali è associato un particolare neutrino:
+
+Dodici bosoni di gauge: il fotone, otto gluoni e i tre bosoni W e Z, responsabili di tre delle quattro interazioni fondamentali, rispettivamente forza elettromagnetica, forza nucleare forte, forza nucleare debole.
+
+
+== Particelle composte ==
+Le particelle subatomiche composte sono stati legati di particelle elementari e includono tutti gli adroni, particelle soggette all'interazione forte composte da quark, antiquark e gluoni. Ne esistono di due tipi:
+
+Barioni (Lista), che sono fermioni. Appartengono a questa categoria:
+Nucleoni, i barioni costituenti della materia ordinaria, composti da tre quark appartenenti alla prima generazione. Essi sono:
+Protone, composto da due quark up e un quark down.
+Neutrone, composto da due quark down e un quark up.
+Iperoni, tutte le altre combinazioni di tre quark o tre antiquark.
+Barioni esotici, numero barionico ±1 ma composti da più di tre quark/antiquark.
+Pentaquark, composti da cinque quark.
+Mesoni (Lista), bosoni mediatori dell'interazione forte fra nucleoni, composti da un quark e da un antiquark aventi carica di colore opposta. Appartengono a questa categoria:
+Mesoni q-antiq, composti da un quark e un antiquark.
+Mesoni non q-antiq o esotici.
+Tetraquark, composti da quattro quark, disposti in due coppie di diquark.
+
+
+== Note ==
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su particella subatomica
+
+
+== Collegamenti esterni ==
+
+(EN) Christine Sutton, subatomic particle, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

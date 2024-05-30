@@ -1,0 +1,133 @@
+El fenómeno de la radiación es la propagación de energía en forma de ondas electromagnéticas o partículas subatómicas a través del vacío o de un medio material. Existen diferentes formas de radiación con propiedades y efectos distintos.[1]​
+
+En física, radiación es la emisión o transmisión de energía en forma de ondas o  partículas a través del espacio o de un medio material.[2]​[3]​ Esto incluye:
+
+radiación electromagnética, como ondas de radio, microondas, infrarrojos, luz visible, ultravioleta, rayos Xs, y radiación gamma (γ)
+radiación de partículas, como radiación alfa (α), radiación beta (β), radiación de protones y radiación por neutrones (partículas de energía en reposo distinta de cero)
+radiación acústica, como ultrasonidos, sonido y ondas sísmicas (dependientes de un medio de transmisión físico).
+radiación gravitacional', que adopta la forma de ondas gravitacionales, u ondulaciones en la curvatura del espaciotiempo.
+La radiación se suele clasificar como ionizante o no ionizante en función de la energía de las partículas radiadas. La radiación ionizante transporta más de 10 eV, lo que es suficiente para ionizar átomos y moléculas y romper enlaces químicos. Se trata de una distinción importante debido a la gran diferencia en la nocividad para los organismos vivos. Una fuente común de radiación ionizante es la materiales radiactivos que emiten radiación α, β o γ, consistente en núcleos de helio, electrones o positrones y fotones, respectivamente. Otras fuentes son los rayos Xs de los exámenes de radiografía médica y los muones,  mesones, positrones, neutrones y otras partículas que constituyen los rayos cósmicos secundarios que se producen tras la interacción de los rayos cósmicos primarios con la atmósfera terrestre.
+Los rayos gamma, los rayos X y la gama de energía más alta de la luz ultravioleta constituyen la parte ionizante del espectro electromagnético. La palabra "ionizar" se refiere a la separación de uno o más electrones de un átomo, acción que requiere las energías relativamente altas que proporcionan estas ondas electromagnéticas. Más abajo en el espectro, las energías más bajas no ionizantes del espectro ultravioleta inferior no pueden ionizar átomos, pero pueden alterar los enlaces interatómicos que forman las moléculas, rompiendo así moléculas en lugar de átomos; un buen ejemplo de ello son las quemaduras solares causadas por el ultravioleta solar de longitud de onda larga. Las ondas de mayor longitud de onda que el ultravioleta, en las frecuencias de luz visible, infrarrojos y microondas, no pueden romper enlaces, pero sí provocar vibraciones en los enlaces que se perciben como calor. En general, las longitudes de onda de radio e inferiores no se consideran perjudiciales para los sistemas biológicos. Estas no son delineaciones nítidas de las energías; hay cierta superposición en los efectos de frecuencias específicas.[4]​.
+La palabra "radiación" surge del fenómeno de las ondas irradiando (es decir, viajando hacia afuera en todas direcciones) desde una fuente. Este aspecto da lugar a un sistema de medidas y unidades físicas aplicable a todos los tipos de radiación. Dado que dicha radiación se expande al atravesar el espacio y que su energía se conserva (en el vacío), la intensidad de todos los tipos de radiación procedentes de una fuente puntual sigue una ley del cuadrado inverso en relación con la distancia a su fuente. Como cualquier ley ideal, la ley del cuadrado inverso se aproxima a una intensidad de radiación medida en la medida en que la fuente se aproxima a un punto geométrico.
+
+
+== Introducción ==
+
+La radiación propagada en forma de ondas electromagnéticas (ondas de radio, luz visible, rayos UV, rayos gamma, rayos X, etc.) se llama radiación electromagnética, mientras que la llamada radiación corpuscular es la radiación transmitida en forma de partículas subatómicas (partículas α, partículas β, neutrones, etc.) que se mueven a gran velocidad, con apreciable transporte de energía.
+Si la radiación transporta energía suficiente como para provocar ionización en el medio que atraviesa, se dice que es una radiación ionizante. En caso contrario se habla de radiación no ionizante. El carácter ionizante o no ionizante de la radiación es independiente de su naturaleza corpuscular u ondulatoria.
+
+Son radiaciones ionizantes los rayos X, rayos γ, partículas α y parte del espectro de la radiación UV entre otros. Por otro lado, radiaciones como los rayos de luz visible, las ondas de radio, TV o de telefonía móvil, son algunos ejemplos de radiaciones no ionizantes.
+
+
+== Elementos radiactivos ==
+
+Algunas sustancias químicas están formadas por elementos químicos cuyos núcleos atómicos son inestables. Como consecuencia de esa inestabilidad, sus átomos emiten partículas subatómicas de forma intermitente y aleatoria.[5]​
+En general son radiactivas las sustancias que presentan un exceso de protones o neutrones. Cuando el número de neutrones difiere del número de protones, se hace más difícil que la fuerza nuclear fuerte debida al efecto del intercambio de piones pueda mantenerlos unidos.[5]​ Finalmente el desequilibrio se corrige mediante la liberación del exceso de neutrones o protones, en forma de partículas α que son realmente núcleos de helio, partículas β que pueden ser electrones o positrones. Estas emisiones llevan a dos tipos de radiactividad:
+
+Radiación α, que aligera los núcleos atómicos en 4 unidades básicas, y cambia el número atómico en dos unidades.[5]​
+Radiación β, que no cambia la masa del núcleo, ya que implica la conversión de un protón en un neutrón o viceversa, y cambia el número atómico en una sola unidad (positiva o negativa, según la partícula emitida sea un electrón o un positrón).[5]​
+Además existe un tercer tipo de radiación en que simplemente se emiten fotones de alta frecuencia, llamada radiación γ. En este tipo de radiación lo que sucede es que el núcleo pasa de un estado excitado de mayor energía a otro de menor energía, que puede seguir siendo inestable y dar lugar a la emisión de más radiación de tipo α, β o γ. La radiación γ es un tipo de radiación electromagnética muy penetrante debido a que los fotones no tienen carga eléctrica.[5]​
+
+
+== Radiación térmica ==
+
+Cuando un cuerpo está más caliente que su entorno, puede ceder parte de su Energía Interna (un indicador de su Temperatura) al entorno en forma de Calor (Primera Ley de la Termodinámica), este proceso se produce de forma pasiva o espontánea hasta que su temperatura se equilibra con la de dicho entorno (Ley Cero de la Termodinámica). Este proceso de transferencia de energía se puede producir de tres formas: conducción (o contacto), convección y radiación. De hecho, la emisión de radiación puede llegar a ser el proceso dominante cuando los cuerpos están relativamente aislados del entorno o cuando están a temperaturas muy elevadas. Así, un cuerpo muy caliente emitirá, por norma general, gran cantidad de ondas electromagnéticas. La cantidad de energía radiante emitida o calor radiado viene dada por la Ley de Stefan-Boltzmann. De acuerdo con esta ley, dicho calor radiado es proporcional a su temperatura absoluta elevada a la cuarta potencia:
+
+  
+    
+      
+        P
+        =
+        α
+        
+          (
+          
+            σ
+            
+              T
+              
+                4
+              
+            
+          
+          )
+        
+        S
+        
+      
+    
+    {\displaystyle P=\alpha \left(\sigma T^{4}\right)S\,}
+  
+
+donde
+
+P es la potencia radiada.
+α es un coeficiente que depende de la naturaleza del cuerpo; α = 1 para un cuerpo negro perfecto.
+S es el área de la superficie que radia.
+σ es la constante de Stefan-Boltzmann, que tiene un valor de 5,67 × 10−8 W/(m2K4)
+T es la temperatura absoluta.
+
+
+== Radiación ionizante ==
+
+La radiación con energía suficientemente alta puede ionizar átomos; es decir, puede arrancar electrones de los átomos, creando iones. La ionización se produce cuando un electrón es eliminado (o "expulsado") de una capa electrónica del átomo, lo que deja al átomo con una carga neta positiva. Dado que las células vivas y, lo que es más importante, el ADN de esas células pueden resultar dañados por esta ionización, la exposición a la radiación ionizante aumenta el riesgo de cáncer. Así pues, la "radiación ionizante" se separa en cierto modo artificialmente de la radiación de partículas y de la radiación electromagnética, simplemente debido a su gran potencial de daño biológico. Aunque una célula individual está formada por billones de átomos, sólo una pequeña fracción de ellos se ionizará a potencias de radiación bajas o moderadas. La probabilidad de que la radiación ionizante provoque cáncer depende de la dosis absorbida de la radiación, y es función de la tendencia dañina del tipo de radiación (dosis equivalente) y de la sensibilidad del organismo o tejido irradiado (dosis efectiva).
+Si la fuente de radiación ionizante es un material radiactivo o un proceso nuclear como la fisión o la fusión, hay que tener en cuenta la Radiación de partículas. La radiación de partículas son partículas subatómicas aceleradas a velocidades relativistas por reacciones nucleares. Debido a su momento son muy capaces de eliminar electrones e ionizar materiales, pero como la mayoría tienen carga eléctrica, no tienen el poder de penetración de la radiación ionizante. La excepción son las partículas neutrónicas; véase más adelante. Existen varios tipos de estas partículas, pero la mayoría son partículas alfa, partículas beta, neutrones y protones. En términos generales, los fotones y las partículas con energías superiores a unos 10 electronvoltioss (eV) son ionizantes (algunas autoridades utilizan 33 eV, la energía de ionización del agua). La radiación de partículas procedente de material radiactivo o rayos cósmicos casi siempre tiene energía suficiente para ser ionizante.
+La mayor parte de la radiación ionizante procede de materiales radiactivos y del espacio (rayos cósmicos), y como tal está presente de forma natural en el medio ambiente, ya que la mayoría de las rocas y el suelo tienen pequeñas concentraciones de materiales radiactivos. Dado que esta radiación es invisible y no detectable directamente por los sentidos humanos, suelen ser necesarios instrumentos como los  contadores Geigers para detectar su presencia. En algunos casos, puede dar lugar a la emisión secundaria de luz visible al interactuar con la materia, como en el caso de la radiación Cherenkov y la radioluminiscencia.
+
+La radiación ionizante tiene muchos usos prácticos en medicina, investigación y construcción, pero representa un peligro para la salud si se utiliza de forma inadecuada. La exposición a la radiación causa daños en los tejidos vivos; las dosis altas provocan el síndrome de irradiación aguda (ARS), con quemaduras en la piel, caída del cabello, fallo de los órganos internos y muerte, mientras que cualquier dosis puede provocar un aumento de las probabilidades de cáncer y  daño genético; una forma particular de cáncer, el cáncer de tiroides, se produce a menudo cuando las armas y los reactores nucleares son la fuente de radiación debido a las propensiones biológicas del producto de fisión del yodo radiactivo, el yodo-131.[5]​ Sin embargo, todavía no se conoce bien el cálculo exacto del riesgo y la probabilidad de formación de cáncer en las células causado por la radiación ionizante y, en la actualidad, las estimaciones se determinan vagamente a partir de datos basados en la población de los bombardeos atómicos de Hiroshima y Nagasaki y del seguimiento de accidentes de reactores, como el desastre de Chernóbil. La Comisión Internacional de Protección Radiológica afirma que "La Comisión es consciente de las incertidumbres y la falta de precisión de los modelos y los valores de los parámetros", "La dosis efectiva colectiva no está pensada como herramienta para la evaluación de riesgos epidemiológicos, y es inapropiado utilizarla en proyecciones de riesgo" y "en particular, debe evitarse el cálculo del número de muertes por cáncer basado en dosis efectivas colectivas a partir de dosis individuales triviales. " [6]​
+
+
+== Tipos de radiación ==
+Radiación electromagnética
+Radiación ionizante
+Radiación térmica
+Radiación corpuscular
+Radiación solar
+Radiación nuclear
+Radiación de cuerpo negro
+Radiación no ionizante
+Radiación cósmica
+Radiación alfa
+Radiación beta
+Radiación gamma
+
+
+== Efectos de la radiación ionizante en los seres vivos ==
+Efectos sobre el ser humano
+
+Según la intensidad de la radiación y en que parte del cuerpo se produjo, puede ser inócua, o por encima de los 250 mSv (mili sievert) de dosis equivalente producir diversos efectos. Síntomas en los humanos a causa de la radiación acumulada durante un mismo día[7]​ (los efectos se reducen si el mismo número de Siéverts se acumula en un periodo más largo):
+
+Síntomas en humanos por radiación acumulada durante un año,[8]​ en milisieverts (1 Sv=1000 mSv):
+
+2.5 mSv: Radiación media anual global.
+5.5 - 10.2 mSv: Valores naturales medios en Guarapari (Brasil) y en Ramsar (Irán).[9]​ Sin efectos nocivos.
+6.9 mSv: Escáner CT.
+50 - 250 mSv: Límite para trabajadores de prevención y emergencia, respectivamente.
+
+
+== Transferencia lineal de energía (LET) ==
+La transferencia lineal de energía o LET (Linear Energy Transfer) es una medida que indica la cantidad de energía «depositada» por la radiación en el medio continuo que es atravesado por ella. Técnicamente se expresa como la energía transferida por unidad de longitud. El valor de la LET depende tanto del tipo de radiación como de las características del medio material traspasado por ella.
+
+
+=== Haz de radiación y su capacidad de penetración ===
+La LET se relaciona de manera directa con dos propiedades muy importantes en el análisis de las radiaciones: la capacidad de penetración y la cantidad de "dosis" que depositan:
+
+Un haz de radiación de alta LET (e. g. partículas α) depositará toda su energía en una región pequeña del medio, por lo que perderá su energía rápidamente y no podrá atravesar grosores considerables. Por el mismo motivo dejará una dosis alta en el material.
+Un haz de radiación de baja LET (e. g. la radiación electromagnética y γ-radiación gamma-) depositará su energía lentamente, por lo que antes de haber perdido toda su energía será capaz de atravesar un gran espesor de material. Por ello dejará una dosis baja en el medio que atraviesa.
+Esto explica por qué podemos protegernos de las partículas α con una simple capa de aire y, sin embargo, es necesario un gran espesor de plomo u otro metal pesado para protegernos de los rayos gamma.
+Biológicamente estas medidas son importantes, ya que diversas radiaciones pueden causar daños a la salud según la intensidad de la radiación o la LET a la que se exponga el cuerpo humano. Además es importante notar que las dosis no solo dependen de la LET.
+
+
+== Véase también ==
+Radiación electromagnética y salud
+
+
+== Referencias ==
+
+
+=== Notas ===
+
+
+=== Enlaces externos ===
+Sitio web de educación pública de la Sociedad de Física de la Salud (en inglés).
+Physics for Future Presidents, by Prof. Richard Muller.

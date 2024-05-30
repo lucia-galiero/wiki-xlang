@@ -1,0 +1,123 @@
+Un objeto astronómico es una entidad física significativa, una asociación o estructura que la ciencia ha confirmado que existe en el universo observable.[1]​ Eso no significa necesariamente que la ciencia actual no refute su existencia. Se considera, a la luz de estudios más recientes, que algunos objetos astronómicos, como Themis o Neith, no existen. Se ha demostrado que otros, como Plutón o Ceres, son de una naturaleza totalmente diferente de lo que se había supuesto. En estos casos, la comunidad científica tiene que llegar a un consenso con respecto a la clasificación de estos objetos.[cita requerida] 
+Un objeto astronómico se puede confundir fácilmente con un cuerpo celeste. El término cuerpo indica un objeto individual, como un planeta, en tanto que un objeto astronómico puede consistir en un conjunto de cuerpos celestes, como el cinturón de asteroides o un sistema estelar.
+En astronomía, los términos objeto y cuerpo se utilizan a menudo indistintamente. Sin embargo, un cuerpo astronómico o un cuerpo celeste' es una entidad única, fuertemente ligada y contigua, mientras que un objeto astronómico o celeste es una estructura compleja, menos cohesionada, que puede estar formada por múltiples cuerpos o incluso por otros objetos con subestructuras.
+Ejemplos de objetos astronómicos incluyen sistema planetarios, cúmulos estelares, nebulosas y galaxias, mientras que asteroides, lunas, planetas y estrellas son cuerpos astronómicos. Un cometa puede identificarse como cuerpo y objeto: Es un cuerpo cuando se refiere al núcleo congelado de hielo y polvo, y un objeto cuando describe al cometa entero con su coma difusa y cola.
+
+
+== Historia ==
+
+Los objetos astronómicos como las estrellas, los planetas, las nebulosas, los asteroides y los cometas han sido observados desde hace miles de años, aunque las primeras culturas consideraban estos cuerpos como dioses o deidades. Estas primeras culturas consideraban muy importantes los movimientos de los cuerpos, ya que utilizaban estos objetos como ayuda para navegar a grandes distancias, distinguir las estaciones y determinar cuándo plantar los cultivos. Durante la Edad Media, las culturas empezaron a estudiar más de cerca los movimientos de estos cuerpos. Varios astrónomos de Oriente Medio comenzaron a hacer descripciones detalladas de estrellas y nebulosas, y confeccionaban calendarios más precisos basados en los movimientos de estas estrellas y planetas. En Europa, los astrónomos se centraron más en aparatos que ayudaran a estudiar los objetos celestes y en la creación de libros de texto, guías y universidades para enseñar a la gente más sobre astronomía. 
+Durante la revolución científica, en 1543, Nicolaus Copernicus's modelo heliocéntrico de Nicolás Copérnico. Este modelo describía a la Tierra, junto con todos los demás planetas como cuerpos astronómicos que orbitaban alrededor del Sol situado en el centro del Sistema Solar. Johannes Kepler descubrió las  leyes de Kepler del movimiento planetario, que son propiedades de las órbitas que compartían los cuerpos astronómicos esto sirvió para mejorar el modelo heliocéntrico. En 1584, Giordano Bruno propuso que todas las estrellas distantes son sus propios soles, siendo el primero en siglos en sugerir esta idea. Galileo Galilei fue uno de los primeros astrónomos en utilizar telescopios para observar el cielo, en 1610 observó cuatro lunas más grandes de Júpiter, ahora llamadas las lunas galileanas. Galileo también realizó observaciones de las fases de Venus, cráteres en la Luna y manchas solares en el Sol. El astrónomo Edmond Halley logró predecir con éxito el regreso del cometa Halley, que ahora lleva su nombre en 1758. En 1781, Sir William Herschel descubrió el nuevo planeta Urano, siendo el primer planeta descubierto no visible a simple vista. 
+En los siglos XIX y XX, las nuevas tecnologías y las innovaciones científicas permitieron a los científicos ampliar enormemente sus conocimientos sobre la astronomía y los objetos astronómicos. Comenzaron a construirse telescopios y observatorios más grandes y los científicos empezaron a imprimir imágenes de la Luna y otros cuerpos celestes en placas fotográficas. Se descubrieron nuevas longitudes de onda de luz no vistas por el ojo humano y se fabricaron nuevos telescopios que permitieron ver objetos astronómicos en otras longitudes de onda de luz.  Joseph von Fraunhofer y Angelo Secchi fueron pioneros en el campo de la espectroscopia, que permitió observar la composición de estrellas y nebulosas, y muchos astrónomos pudieron determinar las masas de estrellas binarias basándose en sus elementos orbitales. Se empezaron a utilizar ordenadores para observar y estudiar cantidades masivas de datos astronómicos sobre las estrellas, y nuevas tecnologías como el fotoeléctrico fotómetro permitieron a los astrónomos medir con precisión el color y la luminosidad de las estrellas, lo que les permitió predecir su temperatura y masa. En 1913, los astrónomos Ejnar Hertzsprung y Henry Norris Russell desarrollaron, independientemente el uno del otro, el diagrama de Hertzsprung-Russell, que trazaba las estrellas en función de su luminosidad y color y permitía a los astrónomos examinar fácilmente las estrellas. Se descubrió que las estrellas caían comúnmente en una banda de estrellas llamada secuencia principal en el diagrama. Un esquema refinado para la clasificación estelar fue publicado en 1943 por William Wilson Morgan y Philip Childs Keenan basado en el Diagrama de Hertzsprung-Russel. Los astrónomos también comenzaron a debatir si existían otras galaxias más allá de la Vía Láctea, estos debates terminaron cuando Edwin Hubble identificó la Nébula de Andrómeda como una galaxia diferente, junto con muchas otras alejadas de la Vía Láctea.
+
+
+== Forma ==
+
+Las definiciones de planeta de la UAI y el planeta enano requieren que un cuerpo astronómico en órbita solar haya pasado por el proceso de redondeo para alcanzar una forma más o menos esférica, un logro conocido como equilibrio hidrostático. La misma forma esferoidal puede verse desde planetas rocosos más pequeños como Marte hasta gigantes gaseosos como Júpiter.
+Cualquier cuerpo natural en órbita solar que haya alcanzado el equilibrio hidrostático es clasificado por la UAI como un cuerpo menor del sistema solar (SSSB). Estos vienen en muchas formas no esféricas que son masas grumosas acumuladas al azar por el polvo y la roca que caen; no cae suficiente masa para generar el calor necesario para completar el redondeo. Algunos SSSB son solo colecciones de rocas relativamente pequeñas que se mantienen débilmente juntas por la gravedad pero que en realidad no están fusionadas en un solo lecho rocoso grande. Algunos SSSB más grandes son casi redondos pero no han alcanzado el equilibrio hidrostático. El pequeño cuerpo del Sistema Solar 4 Vesta es lo suficientemente grande como para haber sufrido al menos una diferenciación planetaria parcial.
+Las estrellas como el Sol también son esferoidales debido a los efectos de la gravedad en su plasma, que es un fluido que fluye libremente. La fusión estelar en curso es una fuente mucho mayor de calor para las estrellas en comparación con el calor inicial liberado durante la formación.
+
+
+== Galaxia y más grandes ==
+Se puede considerar que el universo tiene una estructura jerárquica.[2]​ En las escalas más grandes, el componente fundamental del conjunto es la galaxia. Las galaxias se organizan en grupos y cúmulos, a menudo dentro de supercúmulos más grandes, que se ensartan a lo largo de grandes filamentos entre vacíos casi vacíos, formando una red que abarca todo el universo observable.[3]​
+Las galaxias presentan una gran variedad de morfologías, con formas de irregular, elíptica y similares a un disco, dependiendo de sus historias de formación y evolución, incluyendo la  interacción con otras galaxias, que puede llevar a una fusión.[4]​ Las galaxias de disco abarcan lenticular y galaxias espirales con características como brazos espirales y un halo distinto. En el núcleo, la mayoría de las galaxias tienen un agujero negro supermasivo, que puede dar lugar a un núcleo galáctico activo. Las galaxias también pueden tener satélites en forma de galaxias enanas y cúmulo globulars.[5]​
+
+
+== Tipos de objetos astronómicos ==
+
+
+=== Satélites del espacio ===
+
+Se denomina satélite natural o luna a cualquier objeto que orbita alrededor de un planeta. Generalmente, el satélite es mucho más pequeño y acompaña al planeta en su evolución alrededor del Sol.
+Por extensión, se llaman lunas los satélites de otros planetas. Por ejemplo, se dice los cuatro satélites de Júpiter, pero también, las cuatro lunas de Júpiter. También, por extensión, se llama satélite natural o luna a cualquier cuerpo natural que gira alrededor de un cuerpo celeste, aunque no sea un planeta, como es el caso de la luna asteroidal Dáctilo que gira alrededor del asteroide Ida, entre otros.
+En el caso de la Luna, tiene una masa tan similar a la masa de la Tierra que podría considerarse un sistema de dos planetas que giran juntos (planeta doble). Tal es el caso de Plutón y su satélite Caronte. Si dos objetos poseen masas similares, se suele hablar de sistema binario y no de un objeto primario y de un satélite.
+
+
+=== Cometas ===
+
+Los cometas (del latín cometa y del griego kometes, 'cabellera'), junto con los asteroides, planetas y satélites, forman parte del Sistema Solar. La mayoría de estos cuerpos celestes describen órbitas elípticas de gran excentricidad, lo que produce su acercamiento al Sol con un período considerable.
+A diferencia de los asteroides, los cometas son cuerpos sólidos compuestos de materiales que se subliman en las cercanías del Sol. A gran distancia (a partir de 5-10UA) desarrollan una atmósfera que envuelve al núcleo, llamada coma. Esta coma está formada por gas y polvo. Conforme el cometa se acerca al Sol, el viento solar azota la coma y se genera la cola o cabellera característica. La cola está formada por polvo y el gas de la coma ionizada.
+Fue después del invento del telescopio cuando los astrónomos comenzaron a estudiar a los cometas con más detalle, advirtiendo entonces que la mayoría de estos tienen apariciones periódicas. Edmund Halley fue el primero en darse cuenta de esto y pronosticó la aparición del cometa en 1758, para el cual calculó que tenía un periodo de 76 años. Desafortunadamente, murió antes de comprobar su predicción. Debido a su pequeño tamaño y órbita muy alargada, solo podemos ver los cometas cuando están cerca del Sol y por un periodo corto de tiempo.
+
+
+=== Meteoros ===
+
+La palabra meteoro, en su uso astronómico, es un concepto que se reserva para distinguir el fenómeno luminoso que se produce al atravesar un meteoroide a nuestra atmósfera. Es sinónimo de estrella fugaz, término que es impropio, ya que no se trata de estrellas que se desprendan de la bóveda celeste.
+Los términos estrella fugaz, bólido y aerolito son bastante imprecisos y se prestan a confusión. La terminología adoptada en la actualidad es sencilla y precisa, y solo comprende: meteoroides, meteoros y meteoritos, donde:
+
+meteoroide: partículas de polvo que se encuentran en el espacio producto del paso de algún cometa;
+meteoro: los meteoroides interceptados por la órbita de la Tierra y que entran en nuestra atmósfera, y producen incandescencia;
+meteorito: meteoros que alcanzan la superficie de la Tierra debido a que no llegan a desintegrarse en la atmósfera.
+
+
+== Objetos astronómicos por densidad ==
+A continuación se muestra una tabla con algunos objetos astronómicos ordenados por densidad.
+
+
+== Galería de imágenes ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Véase también ==
+Tabla de los objetos astronómicos
+Estrella
+Asteroide
+Planeta
+Planeta enano
+Planetoide
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikcionario  tiene definiciones y otra información sobre objeto astronómico.
+Density of the Planets and the Sun (en inglés)

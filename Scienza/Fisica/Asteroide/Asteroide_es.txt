@@ -1,0 +1,245 @@
+Un asteroide es un cuerpo celeste rocoso más pequeño que un planeta enano y mayor que un meteoroide —generalmente no supera los 1.000 kilómetros de largo—. La mayoría orbita entre Marte y Júpiter, en la región del sistema solar conocida como cinturón de asteroides;[1]​ otros se acumulan en los puntos de Lagrange de Júpiter, y la mayor parte del resto cruza las órbitas de los planetas. Habitualmente tienen forma irregular y dentada.
+La palabra asteroide procede del griego, ἀστεροειδής, y significa «de figura estelar»,[2]​ en referencia al aspecto que presentan cuando son vistos con un telescopio. Fue acuñada por William Herschel en 1802, aunque durante la mayor parte del siglo XIX los astrónomos los denominaron planetas. Hasta el 24 de marzo de 2006 a los asteroides se les llamaba también planetoides o planetas menores. Sin embargo, estos términos han caído en desuso.[3]​
+Durante más de dos siglos, Ceres fue considerado el primer asteroide descubierto. Tras la redefinición de planeta de 2006, que reclasificó a este cuerpo como planeta enano, técnicamente es Palas, encontrado en 1802, el primer asteroide descubierto. En estos dos siglos el número de asteroides conocidos no ha dejado de crecer, alcanzando valores de varios cientos de miles. No obstante, si se sumara toda su masa, el equivalente solo daría para un porcentaje del 5 % de toda la masa de la Luna.[4]​
+Los asteroides se clasifican en función de su ubicación, composición o agrupamiento. Para la ubicación se toma como referencia la posición relativa de estos cuerpos respecto al Sol y los planetas. Para la composición se usan los datos extraídos de los espectros de absorción. Los agrupamientos se basan en los valores nominales similares del semieje mayor, la excentricidad y la inclinación de la órbita. Debido a su diminuto tamaño y gran distancia de la Tierra, casi todo lo que sabemos de ellos procede de medidas astrométricas y radiométricas, curvas de luz y espectros de absorción. Gaspra, en 1991, fue el primer asteroide visitado por una sonda espacial, mientras que dos años después Ida fue el primero en el que se confirmó la existencia de un satélite.
+
+
+== Origen del nombre «asteroide» ==
+
+«Asteroide» es una palabra de origen griego, ἀστεροειδής, que se puede traducir al español como «de forma estelar».[5]​ Hace alusión al aspecto que ofrecen estos cuerpos vistos a través de un telescopio. Fue Herschel quien el 6 de mayo de 1802 propuso ante la Royal Society de Londres que tanto Ceres como Palas, únicos asteroides descubiertos hasta ese momento, eran un nuevo tipo de cuerpos, a los que llamó asteroides.[6]​ Sin embargo, la mayoría de los astrónomos de la época rechazó la propuesta de Herschel por considerarla indigna, ridícula o sin precedentes, y continuaron considerándolos planetas. Giuseppe Piazzi, descubridor de Ceres, empleó el vocablo «planetoide» y solo Heinrich Olbers secundó a Herschel.[7]​ «Asteroide» no empezó a generalizarse hasta principios del siglo XX.
+En 2013 Clifford Cunningham, en un encuentro de la división planetaria de la Sociedad Astronómica Estadunidense, argumentó que la propuesta original procedía del especialista en griego Charles Burney Jr. Según Cunningham, Herschel pidió sugerencias a varios amigos entre los que estaban Joseph Banks y Charles Burney, quien habría consultado a su hijo.[7]​ A su vez, Banks escribió a Stephen Weston, quien propuso el nombre «aorate», y Burney escribió a su hijo proponiendo nombres como «stellula» en clara alusión al diminuto tamaño de estos cuerpos. Posteriormente, Burney escribiría a Frances Crewe: They are not allowed by Herschel to be either Planets or Comets, but asteroids, italick, a kind of star —a name my son, the Grecian, furnished.[nota 1]​ Finalmente Herschel se decidió por «asteroide» por ser la mejor de un montón de malas ideas.[8]​
+
+
+== Terminología ==
+
+Tradicionalmente, los cuerpos pequeños que orbitaban alrededor del Sol se clasificaban como cometas, asteroides o meteoroides, siendo estos últimos todos lo que tenían menos de un metro de diámetro. Un artículo de Beech y Steel de 1995 propuso una definición de meteoroide que incluía límites de tamaño.[9]​[10]​ El término «asteroide» nunca tuvo una definición formal, y la Unión Astronómica Internacional prefería la locución más amplia de «planeta menor».
+Tras el descubrimiento de asteroides de menos de diez metros de tamaño, un artículo de Rubin y Grossman de 2010 revisó la definición anterior de meteoroide para incluir objetos de entre 10 µm y 1 metro de tamaño, para mantener la distinción entre asteroides y meteoroides.[11]​ Los asteroides más pequeños ya descubiertos (basados ​​en la magnitud absoluta  H) son 2008 TS26 con H=33.2 y 2011 CQ1 con H=32.1, ambos con un tamaño estimado de aproximadamente 1 metro.[12]​
+En 2006 también se introdujo la expresión «cuerpo menor del sistema solar» para cubrir tanto la mayoría de los planetas menores como los cometas.[13]​ [14]​ Otros idiomas prefieren «planetoide» (en griego, 'similar a un planeta'), y este término se usa ocasionalmente en inglés, especialmente para planetas menores más grandes, como los planetas enanos, así como una alternativa para los asteroides dado que no son como una estrella.[15]​ La palabra «planetesimal» tiene un significado similar, pero se refiere específicamente a los pequeños bloques de construcción de los planetas que existían cuando se estaba formando el Sistema Solar. El término «planétulo» fue acuñado por el geólogo William Daniel Conybeare para describir planetas menores,[16]​ pero no es de uso común. Los tres objetos más grandes del cinturón de asteroides, Ceres, Palas y Vesta, crecieron hasta la etapa de protoplanetas. Ceres es un planeta enano, el único del sistema solar interior.
+Cuando se encontraron, los asteroides se vieron como una clase de objetos distintos de los cometas, y no hubo una terminología unificada para ambos hasta que se acuñó «cuerpo menor del Sistema Solar» en 2006. La principal diferencia entre un asteroide y un cometa es que un cometa muestra una coma debido a la sublimación de los hielos cercanos a la superficie por la radiación solar. Unos pocos objetos han terminado listándose doblemente, porque primero se clasificaron como planetas menores, pero luego mostraron evidencia de actividad cometaria. Por el contrario, algunos cometas  (quizás todos)  finalmente pierden sus hielos hielos volátiles superficiales y se vuelven similares a asteroides. Otra distinción es que los cometas suelen tener órbitas más excéntricas que la mayoría de los asteroides; la mayoría de los «asteroides» con órbitas notablemente excéntricas son probablemente cometas inactivos o extintos.[17]​
+Durante casi dos siglos, desde el descubrimiento de Ceres en 1801 hasta el descubrimiento del primer centauro, 2060 Quirón en 1977, todos los asteroides conocidos pasaron la mayor parte de su tiempo en la órbita de Júpiter o dentro de ella, aunque algunos, como Hidalgo, se aventuraron mucho más allá de Júpiter durante parte de su órbita. Aquellos ubicados entre las órbitas de Marte y Júpiter fueron conocidos durante muchos años simplemente como Los Asteroides.[18]​ Cuando los astrónomos comenzaron a encontrar más cuerpos pequeños que residían permanentemente más allá de Júpiter, ahora llamados centauros, los enumeraron entre los asteroides tradicionales, aunque hubo un debate sobre si deberían considerarse asteroides o como un nuevo tipo de objeto. Luego, cuando fue descubierto en 1992 el primer objeto transneptuniano (aparte de Plutón), Albion, y, especialmente cuando comenzaron a aparecer muchos objetos similares, se idearon nuevos términos para eludir el problema: objeto del cinturón de Kuiper, objeto transneptuniano, objeto de disco disperso, etc. Estos habitan en los confines fríos del sistema solar, donde los hielos permanecen sólidos y no se espera que los cuerpos similares a cometas muestren mucha actividad cometaria; si los centauros o los objetos transneptunianos se aventuraran cerca del Sol, sus hielos volátiles se sublimarían y los enfoques tradicionales los clasificarían como cometas y no como asteroides.
+Los más internos de estos son los objetos del cinturón de Kuiper, llamados «objetos» en parte para evitar la necesidad de clasificarlos como asteroides o cometas.[19]​ Se cree que tienen una composición predominantemente similar a la de un cometa, aunque algunos pueden ser más parecidos a los asteroides.[20]​ Además, la mayoría no tiene las órbitas altamente excéntricas asociadas con los cometas, y los descubiertos hasta ahora son más grandes que los núcleos de los cometas tradicionales. (Se supone que la nube de Oort, mucho más distante , es el principal reservorio de cometas durmientes). Otras observaciones recientes, como el análisis del polvo cometario recolectado por la sonda Stardust, están borrando cada vez más la distinción entre cometas y asteroides,[21]​ sugiriendo «un continuo entre asteroides y cometas» en lugar de una línea divisoria nítida.[22]​
+Los planetas menores más allá de la órbita de Júpiter a veces también se denominan «asteroides», especialmente en presentaciones populares.[24]​ Sin embargo, cada vez es más común que el término «asteroide» se restrinja a los planetas menores del sistema solar interior.[19]​ Por ello este artículo se limitará en su mayor parte a los asteroides clásicos: objetos del cinturón de asteroides, troyanos de Júpiter y objetos próximos a la Tierra.
+Cuando la IAU introdujo la clase de «cuerpos menores del sistema solar» en 2006 para incluir la mayoría de los objetos previamente clasificados como planetas menores y cometas, crearon la clase de «planetas enanos» para los planetas menores mayores —aquellos que tienen suficiente masa para volverse elipsoidales bajo su propia gravedad. Según la IAU: «el término 'planeta menor' todavía se puede usar, pero en general, se preferirá la expresión 'cuerpo menor del sistema solar».[25]​ Actualmente, solo el objeto mayor del cinturón de asteroides, Ceres, con unos 975 km de ancho, ha sido colocado en la categoría de planeta enano.
+
+
+== Descubrimiento ==
+Durante siglos, astrónomos, físicos y matemáticos se preguntaron por el enorme vacío que había entre las órbitas de Marte y Júpiter, pero no fue hasta el siglo XIX que Piazzi dio una primera respuesta al descubrir Ceres. En el siglo siguiente, los astrónomos ya conocían miles de asteroides, principalmente agrupados en el cinturón de asteroides. Con la llegada de las búsquedas automatizadas a finales del siglo XX y principios del XXI, el número de asteroides conocido se disparó. En 2012 había más de seiscientas mil órbitas computadas.[27]​
+
+
+=== Planeta supuesto entre Marte y Júpiter ===
+
+El primer investigador que se ocupó del hueco que había entre las órbitas de Marte y Júpiter fue Johannes Kepler. Kepler formuló la hipótesis de que debía existir un planeta desconocido en ese espacio, aunque agregó que quizá no fuese suficiente con uno. Posteriormente otros científicos retomaron la cuestión. Isaac Newton opinaba que tanto Júpiter como Saturno habían sido puestos por influencia divina en el exterior del sistema solar para no perturbar las órbitas de los planetas interiores.[cita requerida] El filósofo Immanuel Kant dijo que el espacio vacío estaba en proporción a la masa de Júpiter. Johann Heinrich Lambert pensaba que el hueco era quizá el resultado de la expulsión de algún hipotético planeta debido a la influencia gravitatoria de Júpiter y Saturno.
+Ya en el siglo XVIII varios astrónomos estaban dispuestos a creer en la existencia de múltiples planetas desconocidos en el sistema solar. Sin embargo, fue Johann Daniel Titius, en 1766, el primero en aportar la explicación para la distancia entre las órbitas de Marte y Júpiter que con el tiempo se conocería como ley de Titius-Bode. La relación numérica atrajo la atención de Johann Elert Bode, quien no dudó de su validez y la publicó en 1772. El descubrimiento de Urano por William Herschel en 1781 a la distancia que vaticinaba la ley fue la confirmación definitiva de su fiabilidad y reforzó la creencia en la existencia de un planeta entre Marte y Júpiter.[28]​
+
+Uno de los astrónomos que más interés se tomó en la localización del planeta fue el barón Franz Xaver von Zach, director del observatorio de Seeberg. Zach seleccionó la región zodiacal, preparó una mapa de estrellas que le permitiera determinar la presencia de nuevos objetos y calculó incluso una hipotética órbita para el desconocido planeta. En 1800, tras estériles resultados, convenció a otros astrónomos para que le ayudaran en la búsqueda. El 20 de septiembre de 1800 se constituyó la Vereinigte Astronomische Gesellschaft, conocida como Sociedad de Lilienthal, con el propósito de cartografiar la región del Zodiaco hasta las más débiles estrellas. Entre los miembros fundadores estaban Karl Ludwig Harding y Olbers, quienes más adelante descubrirían uno y dos asteroides respectivamente.
+Para lograr sus fines, dividieron el Zodiaco en veinticuatro partes iguales y escogieron a otros astrónomos hasta completar la cifra de las divisiones. A estos astrónomos se les conoce como la policía celeste, aunque varios no llegaron a participar activamente en la búsqueda. Entre los seleccionados estaban Herschel y Piazzi, quien no recibió una invitación formal para unirse a la empresa, aunque a la postre fue el descubridor del nuevo planeta.
+
+
+=== Ceres: el primer asteroide ===
+
+La noche del 1 de enero de 1801, mientras trabajaba en la composición de un catálogo de estrellas, Piazzi encontró un objeto en la constelación del Toro. Observó, en las noches sucesivas, que el objeto se movía sobre el fondo estelar. Al principio pensó que se trataba de un error, pero luego llegó a la conclusión de que había descubierto un cometa. El 4 de enero anunció a la prensa el hallazgo, gracias a lo cual varios astrónomos europeos, entre ellos Joseph Lalande quien pidió a Piazzi que le enviara sus observaciones, supieron la noticia a finales de febrero. Más adelante compartió sus observaciones por sendas cartas con Bode y Barnaba Oriani en las que mencionaba la ausencia de nebulosidad alrededor del objeto.
+Con los datos que le aportaba Piazzi en su carta, Bode calculó una órbita preliminar. El 26 de marzo comunicó en la Academia Prusiana de las Ciencias que la órbita era consistente con el planeta que faltaba entre Marte y Júpiter y posteriormente informó a Zach para que lo publicase en Monatliche Correspondenz. Llegó incluso a proponer el nombre de Juno para el nuevo planeta. Piazzi ya había bautizado su descubrimiento como Cerere Ferdinandea en honor a la diosa patrona de Sicilia y al rey Fernando. A la larga, la comunidad astronómica aceptó el nombre de Ceres para el nuevo objeto.
+
+Lalande pasó las observaciones de Piazzi a Johann Karl Burckhardt quien calculó una órbita elíptica con ellas y envió sus resultados a Zach a primeros de junio. A finales del mismo mes, la comunidad astronómica estaba convencida de que Ceres era un nuevo planeta. Sin embargo, la tardanza de Piazzi en proporcionar los datos de sus observaciones frustraron los intentos de recuperarlo. Zach, en carta enviada a Oriani el 6 de julio, criticó a Piazzi por haber mantenido en secreto su trabajo. Para finales de agosto muchos astrónomos, en especial en Francia, dudaban de la existencia del objeto.
+En septiembre se publicaron todas las observaciones de Piazzi. Carl Friedrich Gauss calculó una nueva órbita elíptica que mejoraba mucho la anteriormente obtenida por Burckhardt, quien en realidad trabajó con pocas observaciones. El 7 de diciembre Zach llegó a ver el planeta enano, pero el mal tiempo de los siguientes días le impidió continuar con sus observaciones. Finalmente, el 31 de diciembre Zach y el 2 de enero Olbers observaron independientemente Ceres en la posición predicha por los cálculos de Gauss, con lo que se confirmaba la existencia del objeto.
+
+
+=== Palas, Juno y Vesta ===
+
+Unos meses después de la recuperación de Ceres, el 28 de marzo de 1802, Olbers encontraba otro objeto de características parecidas, pero con inclinación y excentricidad mayores. Dos días después estaba seguro de que se hallaba ante un nuevo planeta, al que denominó Palas, pues observó que se desplazaba respecto a las estrellas de fondo. El 4 de abril, Zach confirmó el descubrimiento de Olbers y extendió la noticia que fue enseguida aceptada por la mayoría de astrónomos europeos. Para tratar de casar la ley de Bode-Titius, cuyo fundamento físico, aunque desconocido, no había sido puesto en duda, con la presencia de dos cuerpos en lugar de uno, Olbers propuso que Ceres y Palas eran trozos de un planeta mayor que se había fragmentado por fuerzas internas o por un impacto.
+La consecuencia inmediata de la teoría de Olbers fue que podrían existir más objetos entre las órbitas de Marte y Júpiter aún por descubrir. Así, Harding, tras constantes observaciones de la región del firmamento donde se cruzaban las órbitas de Ceres y Palas, terminó por encontrar a Juno el 1 de septiembre de 1804. Días después, Hofrath Huth, en una carta enviada a Bode, aventuraba que no sería el último descubrimiento y que estos cuerpos podrían haberse originado a la vez que el resto de planetas y de la misma forma, en contra de lo que postulaba Olbers.
+Casi tres años después, Olbers descubrió un cuarto asteroide, Vesta, en la misma región del cielo y que ha resultado ser el más brillante. El nombre fue propuesto por Gauss. Estos cuatro descubrimientos reforzaron la teoría olbersiana, a pesar de ser objetivamente pocos. Sin embargo, ya en 1812, Joseph-Louis de Lagrange la cuestionaba, afirmando que era extraordinaria, pero improbable.
+
+
+=== Miles de asteroides ===
+
+Tras los primeros descubrimientos, pasaron cerca de cuarenta años hasta que Karl Ludwig Hencke encontró el quinto tras cinco lustros de intensa búsqueda. Este largo lapso de tiempo se puede explicar por tres causas principales. En primer lugar, la mayoría de astrónomos, influidos por la teoría de Olbers, hicieron sus búsquedas en la misma región del espacio en las que se descubrieron los primeros cuerpos. En segundo, la búsqueda sistemática de nuevos planetas no fue considerada una prioridad astronómica, puesto que los primeros cuerpos se encontraron por accidente. Por último, la ausencia de buenas cartas celestes, donde se mostrase de forma inequívoca la posición de las estrellas, desalentó a los astrónomos porque no se tenía certeza de hallarse ante un nuevo planeta o una estrella.
+Con el acceso a un número cada vez mayor de cartas celestes, los astrónomos dispusieron de medios para emprender la tarea con suficientes garantías. Así, en 1857 ya se habían descubierto cincuenta y el número cien se catalogó en 1868. El 22 de diciembre de 1891, Maximilian Franz Wolf descubrió Brucia mediante la astrofotografía, técnica que aceleró el aumento de la nómina de asteroides.
+Mientras aumentaba el número de asteroides, los astrónomos se cuestionaban su origen. François Arago observó que las órbitas no se intersecaban en la misma región del espacio, lo que ponía en duda la teoría de Olbers, aunque admitió que el entrelazamiento de las órbitas sugería algún tipo de relación. Más adelante, en 1867, Daniel Kirkwood postuló que los asteroides se habían originado a partir de un anillo de materia que no llegó a formar un planeta debido a la influencia gravitatoria de Júpiter. Esta teoría terminó por convertirse en la dominante en los círculos astronómicos. El mismo Kirkwood encontró que no existían asteroides cuyos periodos de traslación tuviesen una relación de números enteros sencillos con Júpiter por lo que se producían huecos en la distribución de los asteroides. En 1918 Kiyotsugu Hirayama encontró similitudes en los parámetros orbitales de varios asteroides, concluyó que tenían un origen común, probablemente tras colisiones catastróficas, y llamó a estas agrupaciones familias de asteroides.
+
+
+=== Métodos manuales del siglo XX e informes modernos ===
+Hasta 1998 los asteroides se descubrían mediante un proceso de cuatro pasos. Primero, se fotografiaba una región del cielo con un telescopio de campo amplio o astrógrafo. Se tomaban pares de fotografías, generalmente con una hora de diferencia. Se pueden tomar varios pares durante una serie de días. En segundo lugar, las dos películas o placas de la misma región se observaban bajo un estereoscopio. Cualquier cuerpo en órbita alrededor del Sol se movería ligeramente entre el par de películas. Bajo el estereoscopio, la imagen del cuerpo parecía flotar ligeramente sobre el fondo de estrellas. En tercer lugar, una vez que se identificaba un cuerpo en movimiento, su ubicación se medía con precisión utilizando un microscopio digitalizador. La ubicación se medía en relación con las ubicaciones de estrellas conocidas.[29]​
+Estos tres primeros pasos no constituían el descubrimiento de un asteroide: el observador solo había encontrado una aparición, que recibía una designación provisional, compuesta por el año del descubrimiento, una letra que representa la quincena  del descubrimiento y, finalmente, una letra y un número que indicaba el número secuencial del descubrimiento (ejemplo: 1998 FJ74).
+El último paso del descubrimiento era, desde 1947, enviar las ubicaciones y la hora de las observaciones al Centro de Planetas Menores, donde programas informáticos determinaban si una aparición se unía a apariciones anteriores en una sola órbita. Si era así, el objeto recibía un número de catálogo y el observador de la primera aparición con una órbita calculada era declarado descubridor y se le otorgaba el honor de nombrar al objeto sujeto a la aprobación de la Unión Astronómica Internacional.
+
+
+=== Métodos informatizados ===
+
+Hay un interés creciente en identificar asteroides cuyas órbitas se cruzan con la de la Tierra y que, con el tiempo suficiente, podrían colisionar con ella  (ver asteroides que cruzan la Tierra). Los tres grupos más importantes de asteroide próximo a la Tierra son los  Apolos, Amors y Atons. Se han propuesto varias estrategias de mitigación de asteroides, ya en la década de 1960.
+El asteroide próximo a la Tierra 433 Eros ya se había descubierto en 1898, y la década de 1930 trajo una ráfaga de objetos similares. En orden de descubrimiento, estos fueron: 1221 Amor, 1862 Apolo, 2101 Adonis y, finalmente, 69230 Hermes, que se acercó a 0,005 ua de la Tierra en 1937. Los astrónomos comenzaron a darse cuenta de las posibilidades de un impacto con la Tierra.
+Dos sucesos de décadas posteriores aumentaron la alarma: la creciente aceptación de la hipótesis de Álvarez de que un impacto astronómico produjo la Extinción masiva del Cretácico-Paleógeno, y la observación en 1994 del cometa Shoemaker-Levy 9 chocando contra Júpiter. El ejército de EE. UU. también desclasificó la información de que sus satélites militares, construidos para detectar explosiones nucleares, habían detectado cientos de impactos en la atmósfera superior de objetos de entre uno y diez metros de diámetro.
+Todas estas consideraciones ayudaron a impulsar el lanzamiento de campañas de reconocimiento  altamente eficientes que consisten en cámaras con dispositivo de carga acoplada (CCD) y computadoras conectadas directamente a los telescopios. En 2011, se estimó que se habían descubierto entre el 89 % y el 96 % de los asteroides cercanos a la Tierra de un kilómetro o más de diámetro.[30]​  Una lista de equipos que usan tales sistemas son:[31]​[32]​
+
+Lincoln Near-Earth Asteroid Research (LINEAR)
+Near Earth Asteroid Tracking (NEAT)
+Spacewatch
+Lowell Observatory Near-Earth-Object Search (LONEOS)
+Catalina Sky Survey (CSS)
+Pan-STARRS
+NEOWISE
+Asteroid Terrestrial-impact Last Alert System (ATLAS)
+Campo Imperatore Near-Earth Object Survey (CINEOS)
+Japanese Spaceguard Association
+Asiago-DLR Asteroid Survey (ADAS)
+A fecha de 29 de octubre de 2018, solo el sistema LINEAR había descubierto 147 132 asteroides.[33]​ Entre todos las campañas, se han descubierto 19 266 asteroides cercanos a la Tierra,[34]​ incluidos casi 900 de más de 1 kilómetro  de diámetro.[35]​
+
+
+== Características ==
+Los asteroides son cuerpos menores, rocosos y que orbitan alrededor del Sol a distancias inferiores a la de Neptuno. La mayoría está situada entre las órbitas de Marte y Júpiter. Tienen tamaños reducidos y formas irregulares, salvo algunos de mayor tamaño como Palas, Vesta o Higía que tienen formas ligeramente redondeadas.
+Se originaron a partir de la colisión de cuerpos mayores que no llegaron a conformar un planeta por la influencia gravitatoria de Júpiter.[39]​
+
+
+=== Formas, tamaños y distribución de masas ===
+
+El tamaño de los asteroides varía entre los 1000 km del más grande hasta rocas de apenas una decena de metros. Los tres más grandes son similares a planetas en miniatura: Son más o menos esféricos, su interior está parcialmente diferenciado y se cree que son protoplanetas. Sin embargo, la gran mayoría son mucho más pequeños, de forma irregular y, o bien son restos supervivientes de los primitivos planetésimos, o bien fragmentos de cuerpos más grandes producidos tras colisiones catastróficas.
+Ceres antes considerado el más grande asteroide, ha ingresado en la categoría de planeta enano. Por tanto, ahora los de mayor tamaño son Palas y Vesta, ambos con diámetros poco mayores de 500 km. Vesta, además, es el único asteroide del cinturón principal que, en ocasiones, puede verse a simple vista. En contadas ocasiones, asteroides cercanos a la Tierra como Apofis pueden verse con el ojo desnudo.
+La masa de todos los asteroides del cinturón principal está estimada entre 2,8 y 3,2×1021 kg; o, lo que es igual, un 4 % de la masa de la Luna. Ceres, con 9,5×1020 kg, representa la tercera parte del total. Junto a Vesta (9 %), Palas (7 %) e Higía (3 %) alcanza a más de la mitad de la masa. Los siguientes tres asteroides Davida (1,2 %), Interamnia (1 %) y Europa (0,9 %) solo añaden otro 3 % a la masa total. A partir de aquí, el número de asteroides aumenta rápidamente al tiempo que sus masas individuales disminuyen.
+El número de asteroides disminuye notablemente conforme aumenta el tamaño. Aunque esto sigue una distribución de potencias, hay saltos para los 5 y 100 km donde se encuentran más asteroides de lo esperado según una distribución logarítmica.
+En la figura de la derecha se comparan los tamaños relativos entre un plantea, un planetesimal, cometas, asteroides, meteoroides y granos de polvo. En esta diagrama se compara con el asteroide Chicxulub, que según las simulaciones más recientes han acotado su tamaño entre 10 y 15 km.[40]​
+
+
+== Distribución en el sistema solar ==
+
+
+=== Asteroides próximos a la Tierra ===
+
+
+==== Asteroides Atón ====
+
+
+==== Asteroides Apolo ====
+
+
+==== Asteroides Amor ====
+
+
+==== Asteroides potencialmente peligrosos ====
+
+
+=== Asteroides del cinturón principal ===
+
+
+==== Hungarias ====
+
+Los hungarias o asteroides del grupo de Hungaria son cuerpos menores situados entre 1,78 y 2,06 ua, con inclinaciones orbitales elevadas y excentricidad menor de 0,18. Son el resultado de una colisión catastrófica producida hace menos de quinientos millones de años y cuyo fragmento mayor es Hungaria, que da nombre al grupo, la región y la familia. La mayoría de los cuerpos de este conjunto pertenecen al grupo asteroidal de Hungaria. Son objetos muy brillantes, con magnitudes absolutas inferiores a 18 y pertenecen a los tipos espectrales E y X.[64]​
+
+
+==== Hildas ====
+Los hildas o asteroides del grupo de Hilda son cuerpos menores que tienen resonancia orbital 3:2 con Júpiter[nota 2]​ y un semieje mayor comprendido entre 3,8 y 4,1 ua aproximadamente. Los miembros centrales del grupo tienen una alta estabilidad orbital y pertenecen a los tipos espectrales D y P. La mayoría está agrupado en las familias de Hilda y de Schubart.[65]​
+
+
+=== Asteroides troyanos ===
+
+
+=== Centauros ===
+
+
+== Clasificación de los asteroides según tipos espectrales ==
+
+El estudio de la luz reflejada por los asteroides proporciona indicios de sus composiciones superficiales. El análisis de los espectros de absorción de cientos de asteroides ha permitido clasificarlos en diferentes tipos atendiendo a diversos criterios, siendo los principales tipos “S”, “C”, “M”, “V” y “D”. Sin embargo, distintos materiales pueden tener similares espectros de absorción que, a su vez, pueden estar afectados por el estado de la superficie: si es porosa o compacta; si las rocas están más o menos fragmentadas; si está cubierta de polvo; o si ha sufrido una larga exposición a las radiaciones solar y cósmica.[76]​ Los principales modelos de clasificación espectral son Tholen y SMASS.
+
+
+=== Tipo espectral S ===
+
+Los asteroides del tipo S representan alrededor del 17 % de los asteroides conocidos y tienen un albedo promedio de 0,14. Contienen metales en su composición y están formados fundamentalmente por silicio. Abundan en la parte interna del Cinturón.
+
+
+=== Tipo espectral C ===
+
+Los asteroides del tipo C tienen un albedo menor que 0,04 y constituyen más de la mitad de los asteroides conocidos. Son extremadamente oscuros y semejantes a meteoritos. Contienen rocas con un elevado porcentaje de carbono.
+
+
+=== Tipo espectral M ===
+Los asteroides del tipo M son brillantes (albedos entre 0,10 y 0,18), ricos en metales (principalmente níquel y hierro) y parecen proceder del núcleo de asteroides diferenciados.
+
+
+=== Tipo espectral V ===
+Estos asteroides, también llamados vestoides, son objetos astronómicos cuyo espectro es muy similar al de Vesta, el más grande con diferencia. La mayoría tiene valores de excentricidad e inclinación de la órbita parecidos a los de Vesta y un rango del semieje mayor entre 2,18 y 2,5 unidades astronómicas (hueco de Kirkwood 3:1). Esto permite suponer un origen común tras un gran impacto sobre Vesta. Son relativamente brillantes y en composición están equiparados a los asteroides del tipo S, pero contienen más piroxeno. Están relacionados con los meteoritos HED.
+
+
+=== Tipo espectral D ===
+Los asteroides del tipo D tienen un albedo muy bajo (comprendido entre 0,02 y 0,05). Son muy rojos en longitudes de onda largas, debido quizás a la presencia de materiales con gran cantidad de carbono. Son muy raros en el cinturón principal y se les encuentra con mayor frecuencia en distancias superiores a 3,3 unidades astronómicas del Sol, donde su período orbital es del orden de la mitad del de Júpiter; es decir, están en las proximidades de la resonancia 2:1.
+
+
+== Familias de asteroides ==
+
+Las familias de asteroides son agrupaciones de asteroides que comparten similares valores de semieje mayor, excentricidad e inclinación orbital. Generalmente, se nombran a partir del asteroide con menor número que forma parte de la familia. Fueron definidas por primera vez en 1918 por Kiyotsugu Hirayama[77]​ quien identificó las cinco familias que aún se llaman familias de Hirayama: la familia de Coronis, la familia de Eos, la familia de Temis, la familia de Flora y la familia de María.[78]​
+Se originan por las colisiones entre los asteroides. La edad media de las familias de asteroides es del orden de mil millones de años.
+
+
+== Satélites asteroidales ==
+
+Algunos asteroides tienen satélites a su alrededor como Ida y su satélite Dactyl; o Silvia y sus dos satélites, Rómulo y Remo. Rómulo, descubierto el 18 de febrero de 2001 en el telescopio W. M. Keck II de 10 m en Mauna Kea, tiene 18 km de diámetro y su órbita, a una distancia de 1370 km de Silvia, tarda en completarse 87,6 horas. Remo, la segunda luna, tiene 7 km de diámetro y gira a una distancia de 710 km, tardando 33 horas en completar una órbita alrededor de Silvia.
+
+
+== Riesgo de impacto con la Tierra ==
+Los Asteroides Cercanos a la Tierra (Near Earth Asteroids o NEA) se dividen en tres categorías: Atones, Apolos y Amores, siguiendo el nombre de cada prototipo (Atón, Apolo y Amor). Bajo ciertas condiciones sería posible un impacto con nuestro planeta. Si además consideramos a los cometas, generalmente menos masivos pero igualmente con gran poder destructor, el grupo que los incluye a todos se llama Objetos Cercanos a la Tierra, en inglés Near Earth Objects (NEO).
+Actualmente existen unos 4000 objetos catalogados como NEO, según «NeoDys» (Near Earth Objects - Dynamic Site), un proyecto de la Universidad de Pisa que proporciona información actualizada de este tipo de astros. Finalmente, si un NEA se aproxima a menos de 0,05 unidades astronómicas (7 millones y medio de kilómetros) de la Tierra, se le denomina PHA (asteroide potencialmente peligroso, por sus siglas en inglés). De ellos hay clasificados unos 800 en la actualidad y son los que representan un peligro para la civilización si en verdad alguno llegara a chocar contra nuestro planeta, ya que afectaría de manera global al mismo. Sin embargo, los cálculos de las trayectorias y de cada aproximación a la Tierra tienen grandes incertidumbres, debido a que los elementos orbitales (semiejes mayor y menor, distancia mínima al Sol, excentricidad, entre otros) no se conocen con total precisión, de manera que cualquier predicción está sujeta a un margen de error considerable.
+De hecho, el PHA que durante los pasados años ha representado el mayor peligro, denominado 1950 DA, ya no se clasifica como tal y dejó recientemente de ser un PHA. Hasta hace poco se pensaba que existía cierta posibilidad de que impactara contra nuestro planeta el año 2880; sin embargo, el refinamiento de los elementos orbitales ha permitido que nos demos cuenta de que tal suceso no ocurrirá. Otros PHA conocidos poseen probabilidades muy bajas de llegar a chocar con la Tierra. De hecho ninguno está por encima del umbral de ruido (esto es, la posibilidad no es significativa). Lo que no quiere decir que en cualquier momento un cálculo más preciso de la trayectoria de uno de ellos, lo cual requiere observaciones precisas y continuadas, o el descubrimiento de un nuevo PHA, indique que el impacto llegue a ocurrir. De ahí la importancia de los grandes proyectos que coordinen observaciones sistemáticas del cielo y el mantenimiento de bases de datos actualizadas.
+En España existe un centro dedicado casi exclusivamente a este tema que está ubicado en el Observatorio Astronómico de La Sagra, situado en plena montaña (a una altitud de 1580 m) cerca de Puebla de Don Fadrique, en la provincia de Granada, miembro de la asociación internacional Spaceguard Foundation.
+Por otro lado, dependiendo de la distancia relativa entre la superficie de la Tierra  y la roca espacial (asteroide o comenta o meteoroide) tienen diferentes nombres. En la Figura se muestra que a los restos de la roca que quedaron después de quemarse en la atmósfera y chocar con la superficie se llama meteorito. Si la roca está en la atmósfera se llama Meteoro o lluvia de estrellas  o Bólido cuando es muy brillante.
+
+
+== Exploración ==
+
+Hasta la llegada de los viajes espaciales, los objetos del cinturón de asteroides no eran más que simples puntos de luz, incluso para los más grandes telescopios, y sus formas y composición eran meramente especulativas. Los mejores telescopios terrestres y el telescopio espacial Hubble, en órbita terrestre, son capaces de resolver unos pocos detalles de las superficies de los asteroides más grandes, pero aun en este caso la mayoría de esos detalles solo son manchas borrosas. Algo más de información sobre la composición y la forma se consigue deducir de la curva de luz y de las características espectrales. El tamaño del asteroide se puede saber midiendo el tiempo que duran las ocultaciones estelares —cuando un asteroide pasa delante de una estrella— y calculando la distancia del asteroide a la Tierra. Las imágenes de radar proporcionan excelentes datos de las formas y los parámetros orbitales y rotacionales, especialmente de los asteroides cercanos a la Tierra. En cuanto a los requisitos de delta-v y propulsión, los NEO son cuerpos más accesibles que la Luna.[79]​
+
+
+=== Asteroides visitados por sondas espaciales ===
+
+Las primeras imágenes en primer plano de objetos similares a los asteroides se tomaron en 1971 cuando la sonda espacial Mariner 9 sacó fotografías de Fobos y Deimos, los dos pequeños satélites de Marte, que son probablemente asteroides capturados.[80]​ Estas imágenes, al igual que las obtenidas por las Voyager de los pequeños satélites de los gigantes gaseosos, revelaron la forma irregular de estos cuerpos.
+
+La sonda Galileo en ruta hacia Júpiter tomó las primeras fotografías cercanas a un asteroide el 29 de octubre de 1991 durante el sobrevuelo del asteroide Gaspra. Posteriormente, el 28 de marzo de 1993, hizo lo propio con Ida donde además descubrió Dáctilo, el primer satélite asteroidal confirmado. La primera sonda espacial dedicada exclusivamente a la exploración asteroidal fue la NEAR Shoemaker. Sobrevoló el 27 de junio de 1997 Matilde y entró en órbita de Eros el 14 de febrero de 2000 para aterrizar en su superficie un año más tarde, el 12 de febrero de 2001. Otros asteroides visitados por sondas de camino a sus objetivos han sido Braille por la Deep Space 1 el 28 de julio de 1999, Annefrank por la Stardust el 2 de noviembre de 2002, Šteins y Lutecia por la Rosetta el 5 de septiembre de 2008 y el 10 de julio de 2010 respectivamente y Tutatis el 13 de diciembre de 2012 por la Chang'e 2.
+El 13 de junio de 2010 la sonda Hayabusa trajo a la Tierra material del asteroide Itokawa, lo que permitió establecer un vínculo entre los meteoritos condríticos y los asteroides de tipo S.[81]​ Esta fue la primera vez que una misión espacial traía a la Tierra materiales de un asteroide. Anteriormente, los meteoritos habían sido la única fuente de muestras procedentes de los asteroides.
+La sonda Dawn fue lanzada el 27 de septiembre de 2007 con destino Vesta y Ceres. Estuvo en órbita alrededor de Vesta entre el 16 de julio de 2011 y el 5 de septiembre de 2012. En este periodo descubrió un enorme cráter en el hemisferio sur cuyo pico central es una de las montañas conocidas más altas del sistema solar. Tras abandonar Vesta, emprendió viaje a Ceres. El 6 de marzo de 2015 entró en órbita alrededor del planeta enano. Está previsto que la misión primaria concluya en julio del mismo año.[82]​
+
+
+=== Misiones en curso y previstas ===
+
+La Agencia Japonesa de Exploración Aeroespacial (JAXA) lanzó el 3 de diciembre de 2014 la sonda Hayabusa 2[83]​ con el objetivo de traer a la Tierra una muestra de material del asteroide Ryugu,[nota 3]​ un objeto perteneciente a la clase de los asteroides de tipo C y considerado por el Centro de Planetas Menores como un asteroide potencialmente peligroso.[84]​ Está previsto que alcance el asteroide en 2018, que abandone la órbita asteroidal un año más tarde y que retorne a la Tierra en 2020.[85]​ Esta será la segunda vez que una sonda espacial retorna con muestras materiales de un asteroide.
+A finales de 2016 está previsto el lanzamiento de la sonda OSIRIS-REx de la NASA con destino al asteroide Bennu,[nota 4]​ perteneciente al grupo de los asteroides Apolo. El objetivo de la misión es ampliar los conocimientos científicos en formación planetaria y origen de la vida, así como traer material superficial para mejorar la comprensión de los asteroides que podrían impactar contra la Tierra. La llegada de la sonda al asteroide y su inserción en órbita están previstas para finales de 2018 y el regreso a la Tierra para 2023.[87]​ Esta será la tercera vez que una sonda espacial retorna con muestras materiales de un asteroide.
+
+
+== Proceso de denominación de los asteroides ==
+En principio, cuando un asteroide es descubierto recibe del «Centro de Planetas Menores» (Centro de Planetas Menores (MPC) un nombre provisional compuesto de una clave que indica el año, el mes y orden del descubrimiento. Esta denominación consta de un número, que es el año, y de dos letras: la primera indicando la quincena en que aconteció el avistamiento y la segunda reflejando la secuencia dentro de la quincena. De este modo, 1989 AC indica que fue descubierto en la primera quincena de enero (A) de 1989, y que fue el tercero (C) descubierto en ese período.
+Una vez que la órbita se ha establecido con la suficiente precisión como para poder predecir su futura trayectoria, se le asigna un número (no necesariamente el del orden en que fue descubierto) y, más tarde, un nombre permanente elegido por el descubridor y aprobado por un comité de la Unión Astronómica Internacional (International Astronomical Union (IAU). Inicialmente, todos los nombres con los que se bautizaba a los asteroides eran de personajes femeninos de la mitología griega y romana pero pronto se optó por formas más modernas. El primer asteroide que recibió un nombre no mitológico fue el número 125 de la serie, Liberatrix (liberadora en latín) que le fue otorgado en honor a Juana de Arco, aunque también se especula con que tal nombre es un homenaje al primer presidente de la República Francesa, Adolphe Thiers. Por su parte, el primer nombre masculino, lo recibió el número 433, Eros. Hoy en día, las denominaciones son mucho menos restringidas y van desde nombres de ciudades y países como Barcelona (945), Hiroshima (2247), Austria (132), China (1125) y Uganda (1279) hasta nombres de personas famosas como Zamenhof (1462) o Piazzia (1000) en honor a Piazzi, personajes de ficción como Mr. Spock (2309) y otros conceptos como razas, género géneros de animales y plantas, etc. Sin embargo se ha acordado que hay ciertos nombres y temas que están prohibidos: por ejemplo el de militares, personajes o lugares de la II Guerra Mundial ya que la referencia a los mismos puede ser molesta o incluso insultante para los demás. Actualmente con la propuesta del nombre se acompaña una corta nota que informa a la comunidad internacional del porqué de dicha denominación: p. ej. «Snoopy: nombre de un personaje de ficción, concretamente un perro blanco de orejas colgantes, que acompaña a Charlie Brown y suele reflexionar sobre el tejado de la caseta en la que vive».
+Las efemérides de los asteroides se recogen anualmente en un volumen titulado Ephemerides of Minor Planets, que publica el Institute of Theoretical Astronomy, Russian Academy of Sciences, Naberezhnaya Kutuzova 10, 191187 San Petersburgo, Rusia.
+En ocasiones una serie de asteroides numerados consecutivamente se nombran siguiendo un patrón o en recuerdo de un acontecimiento. Así, las iniciales de los numerados del (1227) al (1234) forman el apellido de Gustav Stracke y las del (8585) al (8600) la frase latina «per aspera ad astra». Los asteroides numerados del (3350) al (3356) y los del (51823) al (51829) se nombraron en recuerdo de los astronautas fallecidos en los accidentes del Challenger y el Columbia respectivamente.
+
+
+== Véase también ==
+Lista de asteroides
+Portal:Asteroides
+Cuerpo menor del sistema solar
+Estrategias de mitigación de asteroides
+Minería de asteroides
+Objeto próximo a la Tierra
+Panspermia
+Planeta menor
+Anexo:Designaciones provisionales de los objetos astronómicos del sistema solar
+
+
+== Referencias ==
+
+
+=== Notas ===
+
+
+=== Citas ===
+
+
+=== Bibliografía ===
+Foderà Serio, G.; Manara, A.; Sicoli, P. (2002). «Giuseppe Piazzi and the Discovery of Ceres».  En Bottke, William; Cellino, Alberto; Paolicchi, Paolo et al., eds. Asteroids III (en inglés) (1.ª edición). The University of Arizona Press. pp. 17-24. ISBN 978-0-8165-2281-1. Consultado el 22 de mayo de 2015.  
+Hoskin, Michael. «Bode's Law and the Discovery of Ceres». Physics of Solar and Stellar Coronae: G.S. Vaiana Memorial Symposium, Palermo, Italy, 22-26 June 1992 (en inglés). Consultado el 30 de mayo de 2015. 
+http://d-nb.info/gnd/100234488.  Europeana, ed. «Corrispondenza astronomica fra Giuseppe Piazzi e Barnaba Oriani» (en italiano). Consultado el 26 de mayo de 2015. 
+Zach, Franz Xaver von. Monatliche Correspondenz zur Beförderung der Erd- und Himmelskunde (en alemán). Consultado el 26 de mayo de 2015.  (enlace roto disponible en Internet Archive; véase el historial, la primera versión y la última).
+
+
+== Enlaces externos ==
+
+ Wikimedia Commons alberga una categoría multimedia sobre Asteroide.
+
+ Wikcionario  tiene definiciones y otra información sobre asteroide.
+«Minor Planet Names: Alphabetical List» (en inglés). Minor Planet Center. Consultado el 30 de junio de 2015. 
+«Mission to Bennu» (en inglés). NASA. Consultado el 30 de junio de 2015.

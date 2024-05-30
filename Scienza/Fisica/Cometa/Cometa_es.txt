@@ -1,0 +1,291 @@
+Un cometa es un cuerpo celeste constituido por polvo, rocas y partículas de hielo que orbita alrededor del Sol siguiendo diferentes trayectorias elípticas. Los cometas forman parte del Sistema solar, junto con el Sol, los cuatro planetas interiores, los cuatro planetas exteriores, sus respectivos satélites, los plutoides y los cuerpos menores del sistema solar.
+La mayoría de los cometas describen órbitas elípticas de gran excentricidad, lo que produce su acercamiento al Sol con un período considerable. A diferencia de los asteroides, los cometas son cuerpos sólidos compuestos de materiales que se subliman en las cercanías del Sol. A gran distancia (a partir de 5-10 UA) desarrollan una atmósfera que envuelve al núcleo, llamada coma o cabellera, que está formada por gas y polvo. A medida que el cometa se acerca al Sol, el viento solar azota la coma y se genera la cola característica, la cual está formada por polvo y el gas de la coma ionizado.
+Fue después del invento del telescopio cuando los astrónomos comenzaron a estudiar a los cometas con más detalle, advirtiendo entonces que la mayoría tienen apariciones periódicas. Edmund Halley fue el primero en darse cuenta de ello y pronosticó en 1705 la aparición del cometa Halley en 1758, para el cual calculó que tenía un periodo de 76 años, aunque murió antes de comprobar su predicción. Debido a su pequeño tamaño y órbita muy alargada, solo es posible verlos cuando están cerca del Sol y por un corto periodo de tiempo.
+Los cometas son generalmente descubiertos de manera visual o usando telescopios de  campo ancho u otros medios de magnificación espacial óptica, tales como los binoculares. Sin embargo, aun sin acceso a un equipo óptico, es posible descubrir un cometa rasante solar en línea si se dispone de una computadora y conexión a Internet. En los años recientes, el Observatorio Rasante Virtual de David (David J. Evans) (DVSO) ha permitido a muchos astrónomos aficionados de todo el mundo descubrir nuevos cometas en línea (frecuentemente en tiempo real) usando las últimas imágenes del Telescopio Espacial SOHO. Un caso reciente (28 de noviembre de 2013) de un cometa rasante del Sol que resultó volatilizado al aproximarse al Sol ha sido ISON[1]​ que procedía probablemente de la nube de Oort. Las órbitas periódicas tienen forma de elipses muy excéntricas.[2]​[3]​[4]​[5]​
+
+Los cometas se distinguen de los asteroides por la presencia de una atmósfera extendida, no ligada a la gravedad, que rodea su núcleo central. Esta atmósfera tiene partes denominadas coma (la parte central que rodea inmediatamente al núcleo) y cola (una sección típicamente lineal que consiste en polvo o gas expulsado de la coma por la ligera presión del Sol o por el plasma del viento solar). Sin embargo, los  cometas extintos que han pasado cerca del Sol muchas veces han perdido casi todo su polvo y pueden llegar a parecerse a pequeños asteroides.[6]​ Se cree que los asteroides tienen un origen diferente al de los cometas, al haberse formado dentro de la órbita de Júpiter en lugar de en el Sistema Solar exterior.[7]​[8]​ El descubrimiento de cometas del cinturón principal y de planetas menores activos centauro ha difuminado la distinción entre asteroides y cometas. A principios del siglo XXI, el descubrimiento de algunos cuerpos menores con órbitas de cometa de período largo, pero con características de asteroides del sistema solar interior, fueron llamados cometa Manx. Todavía se clasifican como cometas, como el C/2014 S3 (PANSTARRS).[9]​ Entre 2013 y 2017 se encontraron 27 cometas Manx.[10]​
+A partir de abril de 2021 hay 4.595 cometas conocidos,[11]​ un número que aumenta constantemente a medida que se descubren más. Sin embargo, esto representa solo una pequeña fracción de la población total potencial de cometas, ya que se estima que la reserva de cuerpos similares a cometas en el Sistema Solar exterior (en la nube de Oort) es de un billón.[3]​[4]​ Aproximadamente un cometa al año es visible a ojo desnudo, aunque muchos de ellos son débiles y poco espectaculares.[12]​ Los ejemplos particularmente brillantes se llaman "gran cometa". Los cometas han sido visitados por sondas no tripuladas como la Rosetta de la Agencia Espacial Europea, que se convirtió en la primera en aterrizar una nave espacial robótica en un cometa,[13]​ y el Deep Impact de la NASA, que voló un cráter en el cometa Tempel 1 para estudiar su interior. Los cometas son cuerpos que giran alrededor del sol de manera similar que los planetas .Los cometas tienen una pequeña parte congelada llamada núcleo. Hay cuatro  tipos de cometas :  El cometa mediano puede medir entre: 3 y 6 kilómetros de diámetro, el cometa grande  puede medir entre: 6 y 10 kilómetros de diámetro ,cometa gigante puede medir entre: 10 y 50 kilómetros de diámetro y el cometa Goliat puede medir: más de 50 kilómetros de diámetro.
+
+
+== Etimología ==
+
+La palabra cometa deriva del latín comēta o comētēs. Eso, a su vez, es una latinización del griego κομήτης ("que lleva pelo largo"), y el Oxford English Dictionary señala que el término (ἀστὴρ) κομήτης ya significaba en griego "estrella de pelo largo, cometa". Κομήτης derivaba de κομᾶν ("llevar el pelo largo"), que a su vez derivaba de κόμη ("el pelo de la cabeza") y se utilizaba para significar "la cola de un cometa".[14]​[15]​
+El  símbolo astronómico para los cometas es  (en Unicode ☄ U+2604), que consiste en un pequeño disco con tres extensiones en forma de pelo.[16]​[17]​ Sin embargo, algunos cometas pueden tener un mayor contenido de polvo, lo que hace que se llamen "bolas de tierra heladas" .[18]​
+
+
+== Origen ==
+Los cometas provienen principalmente de dos lugares, la nube de Oort, situada entre 50 000 y 100 000 UA del Sol, y el cinturón de Kuiper, localizado más allá de la órbita de Neptuno.
+Se cree que los cometas de largo periodo tienen su origen en la nube de Oort, que lleva el nombre del astrónomo Jan Hendrik Oort. Esta nube consiste de restos de la condensación de la nébula solar. Esto significa que muchos de los cometas que se acercan al Sol siguen órbitas elípticas tan alargadas que solo regresan al cabo de miles de años. Cuando alguna estrella pasa muy cerca del Sistema solar, las órbitas de los cometas de la nube de Oort se ven perturbadas: algunos salen despedidos fuera del Sistema solar, pero otros acortan sus órbitas. Para explicar el origen de los cometas de corto periodo, como el Halley, Gerard Kuiper propuso la existencia de un cinturón de cometas situados más allá de Neptuno, el cinturón de Kuiper.
+Las órbitas de los cometas están cambiando constantemente: sus orígenes están en el Sistema solar exterior y tienen la propensión a ser altamente afectados (o perturbados) por acercamientos relativos a los planetas mayores. Algunos son movidos a órbitas muy cercanas al Sol y se destruyen cuando se aproximan, mientras que otros son enviados fuera del Sistema solar para siempre.
+Si su órbita es elíptica y de período largo o muy largo, provienen de la hipotética nube de Oort, pero si su órbita es de período corto o medio-corto, provienen del cinturón de Edgeworth-Kuiper, a pesar de que hay excepciones como la del Halley, con un período de 76 años (corto), que proviene de la nube de Oort.
+Conforme los cometas van sublimando, acercándose al Sol y cumpliendo órbitas, van sublimando su material, y perdiéndolo por consecuencia, disminuyendo de magnitud. Tras un cierto número de órbitas, el cometa se habrá "apagado", y cuando se acaben los últimos materiales volátiles, se convertirá en un asteroide normal y corriente, ya que no podrá volver a recuperar masa. Ejemplos de cometas sin materiales volátiles son: 7968-Elst-Pizarro y 3553-Don Quixote.
+
+
+== Características físicas ==
+
+
+=== Núcleo ===
+ 
+
+La estructura sólida y central de un cometa se conoce como núcleo. Los núcleos cometarios están compuestos por una amalgama de roca, polvo, hielo de agua, y dióxido de carbono, monóxido de carbono, metano y amoníaco congelados.[19]​ Como tal, se describen popularmente como "bolas de nieve sucias" según el modelo de Fred Whipple.[20]​ Los cometas con un mayor contenido de polvo han sido denominados "bolas sucias de hielo".[21]​ El término "bolas de polvo heladas" surgió tras la observación de la colisión de Comet 9P/Tempel 1 con una sonda "impactora" enviada por la misión Deep Impact de la NASA en julio de 2005. Las investigaciones realizadas en 2014 sugieren que los cometas son como "Helado frito", en el sentido de que sus superficies están formadas por hielo cristalino denso mezclado con compuesto orgánico, mientras que el hielo interior es más frío y menos denso.
+La superficie del núcleo es generalmente seca, polvorienta o rocosa, lo que sugiere que los hielos están ocultos bajo una corteza superficial de varios metros de espesor. Además de los gases ya mencionados, los núcleos contienen una variedad de compuestos orgánicos, que pueden incluir metanol, cianuro de hidrógeno, formaldehído, etanol, etano, y quizás moléculas más complejas como hidrocarburos de cadena larga y aminoácidos.[22]​[23]​ En 2009, se confirmó que se había encontrado el aminoácido glicina en el polvo de cometa recuperado por la  misión Stardust de la NASA.[24]​ En agosto de 2011, se publicó un informe, basado en estudios de la NASA sobre meteoritos encontrados en la Tierra, que sugería que los componentes del ADN y del ARN (adenina, guanina y moléculas orgánicas relacionadas) podrían haberse formado en asteroides y cometas.[25]​
+
+Las superficies exteriores de los núcleos cometarios tienen un albedo muy bajo, lo que los convierte en uno de los objetos menos reflectantes del Sistema Solar. La sonda espacial Giotto  descubrió que el núcleo del cometa Halley refleja alrededor del cuatro por ciento de la luz que incide sobre él,[26]​ y Deep Space 1 descubrieron que la superficie de Comet Borrelly refleja menos del 3,0%;[26]​ en comparación, el asfalto refleja el siete por ciento. El material oscuro de la superficie del núcleo puede estar formado por compuestos orgánicos complejos. El calentamiento solar expulsa los volátiles más ligeros (compuestos  químicos), dejando atrás compuestos orgánicos más grandes que tienden a ser muy oscuros, como la brea o el crudo. La baja reflectividad de las superficies cometarias hace que absorban el calor que impulsa sus procesos de desgasificación.[27]​
+Se han observado núcleos de cometas con radios de hasta 30 kilómetros (19 mi),[28]​ pero determinar su tamaño exacto es difícil.[29]​ El núcleo de 322P/SOHO tiene probablemente solo 100–200 metros (330–660 ft) de diámetro.[30]​ La falta de detección de cometas más pequeños a pesar de la mayor sensibilidad de los instrumentos ha llevado a algunos a sugerir que existe una carencia real de cometas de tamaño inferior a 100–200 metros (330–6603ft).[31]​ Se ha estimado que los cometas conocidos tienen una densidad media de 0.6 g/cm3 (0.35 oz/in3).[32]​ Debido a su baja masa, los núcleos de los cometas no se vuelven esféricos bajo su propia gravedad y, por lo tanto, tienen formas irregulares.[33]​
+
+Se cree que aproximadamente el seis por ciento de los asteroides cercanos a la Tierra son núcleos extintos de cometas que ya no experimentan desgasificación,[34]​ incluyendo 14827 Hypnos y (3552) Don Quixote.
+Los resultados de las sondas Rosetta y Philae muestran que el núcleo de 67P/Churyumov-Gerasimenko no tiene campo magnético, lo que sugiere que el magnetismo puede no haber jugado un papel en la formación temprana de planetesimales.[35]​[36]​ Además, el Espectrógrafo ALICE que va montado en Rosetta determinó que los  electrones (dentro de 1 km (0,6 mi) por encima del núcleo del cometa) producidos a partir de la fotoionización de las moléculas de agua por la radiación solar, y no los fotones del Sol como se pensaba antes, son los responsables de la degradación del agua y de las moléculas de dióxido de carbono liberadas del núcleo del cometa en su coma.[37]​[38]​ Los instrumentos del módulo de aterrizaje Philae encontraron al menos dieciséis compuestos orgánicos en la superficie del cometa, cuatro de los cuales (acetamida, acetona, isocianato de metilo y propionaldehído) han sido detectados por primera vez en un cometa.[39]​[40]​[41]​
+
+
+=== Coma ===
+
+Las corrientes de polvo y gas así liberadas forman una enorme y extremadamente delgada atmósfera alrededor del cometa llamada "coma". La fuerza ejercida sobre la coma por la presión de radiación del Sol y el viento solar hace que se forme una enorme "cola" que apunta hacia el exterior del Sol.[50]​
+La coma suele estar formada por agua y polvo, y el agua constituye hasta el 90% de los  volátiles que salen del núcleo cuando el cometa se encuentra a menos de 3 o 4 unidades astronómicas (450.000.000 a 600.000.000 km; 280.000.000 a 370.000 mi) del Sol.[51]​ La molécula madre H2O se destruye principalmente por fotodisociación y en mucha menor medida por fotoionización, jugando el viento solar un papel menor en la destrucción del agua en comparación con la fotoquímica.[51]​ Las partículas de polvo más grandes se quedan a lo largo de la trayectoria orbital del cometa, mientras que las más pequeñas son empujadas lejos del Sol hacia la cola del cometa por la presión de la luz.[52]​
+Aunque el núcleo sólido de los cometas suele tener menos de 60 kilómetros (37,3 mi) de diámetro, la coma puede tener miles o millones de kilómetros, llegando a ser a veces más grande que el Sol.[53]​ Por ejemplo, aproximadamente un mes después de un estallido en octubre de 2007, el cometa 17P/Holmes tuvo brevemente una tenue atmósfera de polvo más grande que el Sol.[54]​ El Gran Cometa de 1811 también tenía una coma de aproximadamente el diámetro del Sol.[55]​ Aunque la coma puede llegar a ser bastante grande, su tamaño puede disminuir sobre el momento en que cruza la órbita de  Marte alrededor de 1,5 unidades astronómicas (224 396 806,1 km) del Sol.[55]​ A esta distancia, el viento solar se vuelve lo suficientemente fuerte como para soplar el gas y el polvo fuera de la coma y, al hacerlo, agrandar la cola.[55]​ Se ha observado que las colas de iones se extienden una unidad astronómica (150 millones de km) o más.[54]​
+
+Tanto la coma como la cola son iluminadas por el Sol y pueden hacerse visibles cuando un cometa pasa por el Sistema Solar interior, el polvo refleja la luz solar directamente mientras que los gases brillan por ionisación.[56]​ La mayoría de los cometas son demasiado débiles para ser visibles sin la ayuda de un telescopio, pero unos pocos cada década se vuelven lo suficientemente brillantes para ser visibles a simple vista.[57]​ En ocasiones, un cometa puede experimentar un enorme y repentino estallido de gas y polvo, durante el cual el tamaño de la coma aumenta enormemente durante un periodo de tiempo. Esto ocurrió en 2007 con Comet Holmes.[58]​
+En 1996 se descubrió que los cometas emiten rayos Xs.[59]​ Esto sorprendió mucho a los astrónomos porque la emisión de rayos X suele estar asociada a cuerpos de muy  alta temperatura. Los rayos X se generan por la interacción entre los cometas y el viento solar: cuando los iones altamente cargados del viento solar vuelan a través de una atmósfera cometaria, chocan con los átomos y moléculas del cometa, "robando" uno o más electrones del átomo en un proceso llamado "intercambio de carga". Este intercambio o transferencia de un electrón al ion del viento solar va seguido de su desexcitación al estado de tierra del ion mediante la emisión de rayos X y fotones  ultravioleta lejano.[60]​
+
+
+=== Arco de choque ===
+Los  arcos de choque se forman como resultado de la interacción entre el viento solar y la ionosfera del cometa, que se crea por la ionización de los gases de la coma. A medida que el cometa se acerca al Sol, el aumento de las tasas de desgasificación hace que la coma se expanda, y la luz solar ioniza los gases de la coma. Cuando el viento solar atraviesa esta coma iónica, aparece el choque de proa.
+Las primeras observaciones se realizaron en los años 80 y 90 cuando varias naves espaciales pasaron por los cometas 21P/Giacobini-Zinner,[61]​ 1P/Halley,[62]​ y 26P/Grigg-Skjellerup.[63]​ Se descubrió entonces que los choques de arco en los cometas son más amplios y graduales que los choques de arco planetarios agudos que se observan, por ejemplo, en la Tierra. Todas estas observaciones se realizaron cerca del perihelio, cuando los choques de proa ya estaban completamente desarrollados.
+La nave espacial Rosetta observó la proa de choque del cometa 67P/Churyumov-Gerasimenko en una etapa temprana del desarrollo de la proa de choque, cuando la desgasificación aumentó durante el viaje del cometa hacia el Sol. Este joven choque de proa se denominó "choque de proa infantil". El choque de proa infantil es asimétrico y, en relación con la distancia al núcleo, más ancho que los choques de proa plenamente desarrollados.[64]​
+
+
+=== Cola (astronomía) ===
+
+En el Sistema Solar exterior, los cometas permanecen congelados e inactivos y son extremadamente difíciles o imposibles de detectar desde la Tierra debido a su pequeño tamaño. Se ha informado de detecciones estadísticas de núcleos de cometas inactivos en el cinturón de Kuiper a partir de observaciones del telescopio espacial Hubble[65]​[66]​ pero estas detecciones han sido cuestionadas.[67]​[68]​ Cuando un cometa se aproxima al Sistema Solar interior, la radiación solar hace que los materiales volátiles del cometa se vaporicen y salgan del núcleo, arrastrando polvo con ellos.
+Las corrientes de polvo y gas forman cada una su propia cola, que apunta en direcciones ligeramente diferentes. La cola de polvo queda en la órbita del cometa de tal manera que a menudo forma una cola curvada llamada cola de tipo II o de polvo.[56]​ Al mismo tiempo, la cola de iones o de tipo I, formada por gases, siempre apunta directamente lejos del Sol porque este gas se ve más fuertemente afectado por el viento solar que el polvo, siguiendo las líneas del campo magnético en lugar de una trayectoria orbital.[69]​ En ocasiones -como cuando la Tierra pasa por el plano orbital de un cometa- puede verse la anticola, que apunta en dirección opuesta a las colas de iones y polvo.[70]​
+
+La observación de las anticolas contribuyó de forma significativa al descubrimiento del viento solar.[71]​ La cola de iones se forma como resultado de la ionización por la radiación ultravioleta solar de las partículas de la coma. Una vez que las partículas han sido ionizadas, alcanzan una carga eléctrica neta positiva, que a su vez da lugar a una "magnetosfera inducida" alrededor del cometa. El cometa y su campo magnético inducido forman un obstáculo para las partículas del viento solar que fluyen hacia el exterior. Como la velocidad orbital relativa del cometa y del viento solar es supersónica, se forma un arco de choque aguas arriba del cometa en la dirección del flujo del viento solar. En este choque de proa, grandes concentraciones de iones cometarios (llamados "iones de recogida") se congregan y actúan para "cargar" el campo magnético solar con plasma, de tal manera que las líneas de campo "se enrollan" alrededor del cometa formando la cola de iones.[72]​
+Si la carga de la cola de iones es suficiente, las líneas de campo magnético se aprietan hasta el punto de que, a cierta distancia a lo largo de la cola de iones, se produce la reconexión magnética. Esto conduce a un "evento de desconexión de la cola".[72]​ Esto se ha observado en varias ocasiones, siendo un evento notable el registrado el 20 de abril de 2007, cuando la cola de iones del cometa Encke se cortó completamente mientras el cometa pasaba por una eyección de masa coronal. Este evento fue observado por la sonda espacial STEREO.[73]​
+En 2013, los científicos de la ESA informaron de que la ionosfera del planeta  Venus fluye hacia el exterior de forma similar a la cola de iones que se ve fluir desde un cometa en condiciones similares."[74]​[75]​
+
+
+=== Chorros ===
+
+El calentamiento desigual puede hacer que los gases recién generados salgan de un punto débil en la superficie del núcleo del cometa, como un géiser.[76]​ Estas corrientes de gas y polvo pueden hacer que el núcleo gire, e incluso que se separe.[76]​ En 2010 se reveló que el hielo seco (dióxido de carbono congelado) puede impulsar chorros de material que brotan del núcleo de un cometa.[77]​ Las imágenes infrarrojas de Hartley 2 muestran dichos chorros saliendo y llevando consigo granos de polvo hacia la coma.[78]​
+
+
+== Composición ==
+
+Los cometas llegan a tener diámetros de algunas decenas de kilómetros y están compuestos de agua, hielo seco, amoníaco, metano, hierro, magnesio, sodio y silicatos. Debido a las bajas temperaturas de los lugares donde se hallan, estas sustancias se encuentran congeladas. Algunas investigaciones apuntan a que los materiales que componen los cometas son materia orgánica y resultan determinantes para la vida, lo que daría lugar a que en la temprana formación de los planetas impactaran contra la Tierra y aportaran las sustancias que permitieron dar origen a los seres vivos.
+Cuando se descubre un cometa se lo ve aparecer como un punto luminoso, con un movimiento perceptible sobre el fondo de estrellas llamadas fijas. Lo primero que se ve es el núcleo o coma; luego, cuando el astro se acerca más al Sol, comienza a desarrollar lo que conocemos como la cola del cometa, que le confiere un aspecto fantástico.
+Al acercarse al Sol, el núcleo se calienta y el hielo sublima, pasando directamente al estado gaseoso. Los gases del cometa se proyectan hacia atrás, lo que motiva la formación de la cola apuntando en dirección opuesta al Sol y extendiéndose millones de kilómetros.
+Los cometas presentan diferentes tipos de colas. Las más comunes son la de polvo y la de gas. La cola de gas se dirige siempre en el sentido perfectamente contrario al de la luz del Sol, mientras que la cola de polvo retiene parte de la inercia orbital, alineándose entre la cola principal y la trayectoria del cometa. El choque de los fotones que recibe el cometa como una lluvia, aparte de calor, aportan luz, que es visible al ejercer el cometa de pantalla, reflejando así cada partícula de polvo la luz solar. En el cometa Hale-Bopp se descubrió un tercer tipo de cola compuesta por iones de sodio.
+
+Las colas de los cometas llegan a extenderse de forma considerable, alcanzando millones de kilómetros. En el caso del cometa 1P/Halley, en su aparición de 1910, la cola llegó a medir cerca de 30 millones de kilómetros, un quinto de la distancia de la Tierra al Sol. Cada vez que un cometa pasa cerca del Sol se desgasta, debido a que el material que va perdiendo nunca es repuesto. Se espera que, en promedio, un cometa pase unas dos mil veces cerca del Sol antes de sublimarse completamente. A lo largo de la trayectoria de un cometa, este va dejando grandes cantidades de pequeños fragmentos de material; cuando casi todo el hielo volátil ha sido expulsado y ya no le queda suficiente para tener coma, se dice que es un cometa extinto.
+Cuando la Tierra atraviesa la órbita de un cometa, estos fragmentos penetran en la atmósfera en forma de estrellas fugaces o también llamadas lluvia de meteoros. En mayo y octubre se pueden observar las lluvias de meteoros producidas por el material del cometa Halley: las Eta Acuáridas y las Oriónidas.
+Los astrónomos sugieren que los cometas retienen, en forma de hielo y polvo, la composición de la nebulosa primitiva con que se formó el Sistema solar y de la cual se condensaron luego los planetas y sus lunas. Por esta razón el estudio de los cometas puede dar indicios de las características de aquella nube primordial.
+
+
+== Historia del estudio de los cometas ==
+
+
+=== Estudio de órbitas ===
+
+Hasta el siglo XVI, periodo en que Tycho Brahe realizó estudios que revelaron que los cometas debían provenir de fuera de la atmósfera terrestre, no se estableció definidamente si eran fenómenos atmosféricos u objetos interplanetarios. Luego, en el siglo XVII, Edmund Halley utilizó la teoría de la gravitación, desarrollada por Isaac Newton, para intentar calcular el número de órbitas de los cometas, descubriendo que uno de ellos volvía a las cercanías del Sol cada 76 o 77 años aproximadamente. Este cometa fue denominado cometa Halley y de fuentes antiguas se sabe que ha sido observado por humanos desde el año 66 a. C.
+El segundo cometa al que se le descubrió una órbita periódica fue el cometa Encke, en 1821. Como el cometa de Halley, tuvo el nombre de su calculador, el matemático y físico alemán Johann Encke, que descubrió que era un cometa periódico. El cometa de Encke tiene el más corto periodo de un cometa, solamente 3,3 años, y en consecuencia tiene el mayor número de apariciones registradas. Fue también el primer cometa cuya órbita era influida por fuerzas que no eran del tipo gravitacional. Ahora es un cometa muy tenue para ser observado a simple vista, aunque pudo haber sido un cometa brillante hace algunos miles de años, antes que su superficie de hielo fuera evaporada. Sin embargo, no se sabe si ha sido observado antes de 1786, pero análisis mejorados de su órbita temprana sugieren que se corresponde con observaciones mencionadas en fuentes antiguas.
+
+
+=== Estudio de sus características físicas ===
+La composición de los cometas no fue probada hasta el periodo de la era espacial. A principios del siglo XIX, un matemático alemán, Friedrich Bessel originó la teoría de que había objetos sólidos en estado de vaporación: del estudio de su brillo, Bessel expuso que los movimientos no-gravitacionales del cometa Encke fueron causados por fuerzas de chorro creadas como material evaporado de la superficie del objeto. Esta idea fue olvidada por más de cien años, y luego, independientemente, Fred Lawrence Whipple propuso la misma idea en 1950. Para Whipple un cometa es un núcleo rocoso mezclado con hielo y gases, es decir, utilizando su terminología, una bola de nieve sucia. El modelo propuesto por ambos pronto comenzó a ser aceptado por la comunidad científica y fue confirmado cuando una flota de vehículos espaciales voló a través de la nube luminosa de partículas que rodeaban el núcleo congelado del cometa Halley en 1986 para fotografiar el núcleo y se observaron los chorros de material que se evaporaba. Luego, la sonda Deep Space 1 voló cerca del cometa Borrelly el 21 de septiembre de 2001, confirmando que las características del Halley son también comunes a otros cometas.[79]​[80]​
+
+
+== Clasificación ==
+
+
+=== Tradicional ===
+Históricamente los cometas se han clasificado en función de su periodo orbital, de periodo corto o de periodo largo en función de si su periodo es menor o mayor de 200 años respectivamente. La razón de este criterio es que antiguamente cuando la capacidad de cálculo era más limitada, ese era el periodo orbital máximo para el que era relativamente fiable averiguar si ya había sido avistado con anterioridad o no y, por tanto, establecer su periodicidad.[81]​
+
+
+==== Cometas de periodo corto ====
+Son los que su periodo orbital es menor o igual a 200 años.[82]​ Tradicionalmente los cometas de periodo corto se han agrupado en dos categorías: los Cometas Jovianos y los de Tipo Halley.[82]​
+
+
+===== Cometas Jovianos =====
+Los Cometas Jovianos, también llamados de la Familia de Júpiter o JFC (del inglés Jupiter Family Comets) son cometas que presentan órbitas con bajas inclinaciones, de media 10°, un afelio muy cercano a la órbita de Júpiter y en todos los casos con órbitas en sentido directo. Se clasifican en este grupo aquellos cometas con periodos orbitales menor o igual a 20 años.[82]​
+
+
+===== Tipo Halley =====
+Los cometas Tipo Halley o HTC (del inglés Halley Type Comets presentan una mayor variedad de inclinaciones, una media de 41°, y en muchos casos con órbitas retrógradas. Se clasifican en este grupo cometas con periodos orbitales entre 20 y 200 años.[82]​
+
+
+==== Cometas de periodo largo ====
+También llamados LPC (del inglés Long Period Comets). Son los que tienen un periodo orbital de más de 200 años.[82]​ Su inclinación orbital al plano de la elíptica es aproximadamente isotrópica.
+
+
+=== Moderna ===
+Actualmente, los cometas de periodo corto se clasifican con base en un parámetro físico llamado parámetro de Tisserand respecto Júpiter, (Tj),[83]​ que en el fondo es una medida de la influencia gravitatoria de dicho planeta sobre otro cuerpo. Este parámetro es bueno para clasificar ya que permanece prácticamente invariante durante la evolución dinámica de los cometas e indica asimismo una historia evolutiva diferente para cada grupo de cuerpos definido de este modo. Además se ha demostrado que al menos el 10% de los cometas que tradicionalmente son considerados Jovianos evolucionarán a periodos de entre 20 y 200 años dentro de los próximos 400 años, es decir, pasarán de estar clasificados como Jovianos a ser de Tipo Halley. En cambio, el 92% de los cometas de periodo corto se mantienen dentro de su clasificación cuando se les clasifica por el parámetro de Tisserand. 
+Este sistema propuesto por H. Levison divide los cometas en dos tipos basándose en si el valor de T es superior (cometas eclípticos) o inferior a 2 (cometas casi isótropicos).[82]​
+Con esta clasificación hay tres cometas, 126P/IRAS, P96/Machholz y 8P/Tuttle que pasarían de ser considerados de la Familia de Júpiter (eclípticos) a ser de Tipo Halley (casi isotrópicos) a pesar de sus reducidos periodos orbitales.[81]​
+
+
+==== Cometas casi isotrópicos ====
+Los cometas casi isotrópicos o NIC (del inglés Nearly Isotropics Comets) cumplen que  Tj<2. En este tipo se incluyen los cometas de periodo largo (LPC) y a los cometas tipo Halley (HTC). El plano de la órbita de los NIC puede presentar casi cualquier inclinación con respecto a la eclíptica -el plano de la órbita terrestre-, de ahí su nombre.[84]​
+
+
+==== Cometas eclípticos ====
+Los cometas eclípticos cumplen que Tj>2. Se llaman así porque su órbita se encuentra en el plano de la eclíptica o con una inclinación inferior a 35.º con respecto al mismo.[84]​ En este tipo incluye los cometas Jovianos  (JFC). Los cometas eclípticos son de periodo corto.
+Unos pocos de este tipo de cometas cumplen que Tj > 3 y que no pueden cruzar la órbita de Júpiter quedándose en órbitas o bien interiores, denominados entonces como Cometas de tipo Encke, o bien exteriores, denominados como Cometas de tipo Chiron.[82]​
+
+
+=== Limitaciones ===
+No hay que entender estas clasificaciones como una forma de clasificar unívocamente todos los cometas existentes. Hay mucha variedad y algún caso concreto puede estar clasificado en varias categorías o en ninguna. Ejemplos:[85]​
+
+Cometas con periodo orbital típico de cometas HTC pero con parámetro de Tisserand e inclinación típico de cometas JFC.
+Cometas con periodo orbital típico de cometas JFC pero con altas inclinaciones.
+Hay otras clasificaciones que se basan en características más representativas que el tipo general de cometa al que pertenecen:
+
+Cometas cercanos al sol o NSC (del inglés Near Sun Comets). Son aquellos cometas que se acercan al sol más cerca que el perihelio del planeta Mercurio (0.307 AU). Dentro de ellos se clasifican por la distancia al Sol que llegan a alcanzar. Ejemplos Cometa de 1680 (C/1680 V1) y Gran Cometa de 1882 (C/1882 R1).
+Cometas cercanos a la tierra o NEC (del inglés Near Earth Comets). Son aquellos cometas que en su trayectoria se acercan a la Tierra. El cometa más cercano a la tierra fue el Cometa de Lexell.
+Cometa de órbita parabólica. Ejemplo: Cometa Ikeya-Seki (C/1965 S1), Cometa West (C/1975 V1), Cometa Hyakutake (C/1995 B2).
+
+
+== Cometas del cinturón principal ==
+En 2006 los astrónomos David Jewitt y Henry Hsieh acuñaron el término de Cometa del cinturón principal o MBC (del inglés Main belt comets) para designar cuerpos pequeños del sistema solar que tienen órbitas similares a asteroides pero muestran características visuales similares a los cometas (poseen coma, cola u otras evidencias visuales de perdida de masa).[86]​[87]​ Sin embargo actualmente se usa el término asteroide activo debido a que este tipo de objetos no siempre tienen una composición helada, como en los cometas, y que a veces no están dentro del cinturón principal de asteroides.[86]​[88]​[89]​
+
+
+== Designación y denominación ==
+Los cometas han sido observados desde la antigüedad. Durante ese tiempo se han desarrollado distintos sistemas para asignar nombres a cada cometa, y como resultado muchos cometas tienen más de un nombre.
+El sistema de nombre más simple es usar el año en que fue observado, como por ejemplo el Gran cometa de 1680. Más tarde se empezó a usar el nombre de personas asociados al descubrimiento (ej. Cometa Hale-Bopp) o el primero que hizo un estudio detallado sobre él (ej. Cometa Halley). Durante el siglo XX, la mejoras en la tecnología y una búsqueda intensiva permitió un incremento masivo en el número de cometas descubierto, lo cual obligó a tener un formato de designación automática.
+La designación de los nombres de los cometas ha tenido varios cambios con el correr de los años.[90]​ Lo que ha permanecido inalterable es el prefijo que indica que tipo de cometa es:
+
+P/, cometas periódicos, entendidos estos como los que se ha observado su paso por el perihelio al menos dos veces o bien tienen un periodo orbital de menos de 200 años. Dentro de estos el Centro de Planetas Menores mantiene una lista de cometas periódicos numerados en el que están aquellos cometas que han sido observados al menos dos veces.[91]​[92]​
+C/, cometas no periódicos, entendidos como los que no cumplen las condiciones anteriores.
+D/, cometas que no han sido observados después de un número de pasadas por el perihelio, o presumiblemente destruidos. Por ejemplo el cometa D/1993 F2, que tras su impacto contra Júpiter en 1994. Otros ejemplos son 3D/Biela (desintegración del periódico numerado 3P/Biela) y 5D/Brorsen (desintegración del periódico numerado 5P/Brorsen).
+X/, cometas para los que las observaciones realizadas no son suficientes para determinar su órbita.
+A/, para designar cuerpos que aunque inicialmente clasificados como cometas, finalmente son considerados como asteroides.
+I/, clasificación añadida en 2017 para incluir objetos como 1I/ʻOumuamua, el cual en un principio fue denominado como cometa C/2017 U1, más tarde al comprobar que no tenía actividad fue renombrado como asteroide A/2017 U1, para finalmente, al comprobarse que su órbita era fuertemente hiperbólica, que no estaba ligado gravitacionalmente al sol y finalmente escaparía del Sistema solar y pudiendo ser por ello considerado como un objeto interestelar, crearse una nueva clasificación para ese tipo de objetos.[93]​
+Antes del año 1995, la designación del nombre de los cometas era de la siguiente manera:[90]​
+
+Designación provisional que estaba formada por año del descubrimiento , seguido de una letra minúscula, que indicaba el orden del descubrimiento. Por ejemplo: un cometa denominado 1973f quería decir que el cometa fue descubierto en el año 1973 y fue el sexto en ser descubierto ese año. Si se excedía las letras del alfabeto latino, se agregaba un número, Por ejemplo: 1991a1.
+Designación permanente que estaba formada por año del descubrimiento del cometa, seguido de un número romano, que señalaba el orden del paso por el Perihelio del cometa. Por ejemplo 1973f, pasó a ser 1973 XII, siendo el doceavo cometa en pasar por su Perihelio ese año.
+Este método de designaciones comenzó a tener problemas cuando, después de entregado un nombre permanente a un cometa, se descubría otro que pasaba antes por el perihelio, alterando la cuenta.
+En 1994 la IAU estableció una serie de criterios para la designación de los cometas para ser empleados a partir de 1995.[94]​[95]​[96]​
+En el nuevo formato, se adopta la estructura de: Año de descubrimiento, codificación de la quincena del año cuando se produce el descubrimiento, seguido de un número, que identifica el orden de descubrimiento. Ejemplo:  C/2002 W17 denomina al cometa número 17 descubierto la quincena del 16 al 30 de noviembre del año 2002.[90]​
+Adicionalmente los nombres de los descubridores se añaden a la designación sistemática entre paréntesis y en un número máximo de dos, excepcionalmente tres (Ej 57P/du Toit–Neujmin–Delporte, Cometa IRAS–Araki–Alcock). Si el observador ha descubierto varios cometas, se lleva la cuenta de los mismos. Por ejemplo: 9P/Tempel 1, Tempel 2.[90]​ Cuando se trata de cometas numerados es habitual usar únicamente la denominación en lugar de la designación sistemática puesto que en ese caso ya no puede haber ambigüedades, aunque no obstante se recomienda el uso de esa designación. Así por ejemplo, el cometa Halley puede designarse como 1P/ 1682 U1 (Halley) o 1P/Halley o incluso puede abreviarse como 1P.[97]​[98]​ Desde la puesta en funcionamiento de observatorios automatizados, es común observar los acrónimos de LINEAR (Lincoln Near-Earth Asteroid Research), NEAT (Near Earth Asteroid Tracking), LONEOS (Lowell Observatory Near-Earth-Object Search), Spacewatch, Catalina,...[90]​
+Si un cometa fue denominado inicialmente como asteroide, el mismo hereda su nombre. Ejemplos: C/2001 CV8 y C/2003 WT42.[90]​
+
+
+== Cometas famosos ==
+
+Algunos de los cometas más famosos:
+
+Cometa de César (44 a. C.): uno de los más brillantes de la antigüedad, visible a pleno día.
+Gran Cometa de 1577
+Gran Cometa de 1744: Chéseaux y varios otros observadores reportaron un fenómeno sumamente insólito 'un abanico' de seis colas separadas que sobrepasó el horizonte.
+Gran Cometa de 1811
+Gran Cometa de 1843
+Gran Cometa de 1882
+Cometa 3D/Biela: a finales del siglo XIX se partió en dos, y más tarde en fragmentos minúsculos, dando lugar a una lluvia de estrellas, con lo que desapareció para siempre.
+Cometa Borrelly
+Cometa Coggia: obtuvo mucha fama debido a su extraordinaria belleza.
+Cometa 67P/Churyumov-Gerasimenko. Destino de la sonda espacial europea Rosetta.
+Cometa 2P/Encke
+Cometa Hale-Bopp
+Cometa 1P/Halley: describe su órbita cada 76 años. En 1910 su aproximación a la Tierra, conllevó que su cola rozara con las capas superiores de la atmósfera.
+Cometa Humason
+Cometa Hyakutake
+Cometa Ikeya-Seki
+Cometa Kohoutek
+Cometa Luxell: al pasar cerca de Júpiter, perdió parte de su masa y padeció perturbaciones importantes en su órbita.
+Cometa Mrkos
+Cometa Shoemaker-Levy 9: en 1993 se fragmentó debido al intenso campo gravitatorio de Júpiter y acabó impactando contra él.
+Cometa 9P/Tempel 1: la sonda espacial Deep Impact lanzó un proyectil sobre este cometa para estudiar la composición de su núcleo.
+Cometa 55P/Tempel-Tuttle: progenitor de la lluvia de meteoros de las Leónidas.
+Cometa West
+Cometa 109P/Swift-Tuttle el progenitor de la lluvia de meteoros de las Perseidas.
+Cometa McNaught: visible a simple vista a pleno día.
+
+
+== Influencia cultural de los cometas ==
+
+Los cometas han llamado la atención de los hombres de todas las civilizaciones. Generalmente eran considerados un mal augurio. Se ha relacionado la súbita aparición de cometas con hechos históricos, como batallas, nacimientos (véase Jesucristo) o muertes. Estas creencias perduran hasta nuestros días, aunque tienen mucho menos predicamento que en la antigüedad.
+En la antigüedad, su aparición venía acompañada de malos presagios. Los astrólogos le atribuían el augurio de muerte inminente de algún rey o emperador. Pero lo cierto es que, si bien este tipo de creencias ha sido superado por la mayoría de las personas, existe todavía el temor de un posible impacto sobre la superficie de la Tierra de efectos apocalípticos.
+
+
+== Galería ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Videos
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Véase también ==
+Cola (astronomía)
+Coma (astronomía)
+Cometa interestelar
+Anexo:Cometas periódicos
+Asteroide
+Astrogeología
+Nube de Oort
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Sagan, Carl; Druyan, Ann (1997). Comet. London: Headline. ISBN 978-0-7472-7664-7. 
+Schechner, Sara J. (1997). Comets, Popular Culture, and the Birth of Modern Cosmology. Princeton University Press. ISBN 978-0-691-01150-9. 
+Brandt, John C.; Chapman, Robert D. (2004). Introduction to Comets (2nd edición). Cambridge University Press. ISBN 978-0-521-80863-7. 
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una galería multimedia sobre Cometa.
+ Wikcionario  tiene definiciones y otra información sobre cometa.
+Solar System Exploration:Comets (en el sitio web de la NASA, en inglés).
+Los cometas Archivado el 8 de abril de 2013 en Wayback Machine. (página en el portal de la NASA, en español).

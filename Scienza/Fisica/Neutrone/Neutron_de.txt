@@ -1,0 +1,462 @@
+Das Neutron [ˈnɔɪ̯trɔn] (Plural Neutronen [nɔɪ̯ˈtroːnən]) ist ein elektrisch neutrales subatomares Teilchen. Es ist neben dem Proton Bestandteil fast aller Atomkerne und somit der uns vertrauten Materie. Neutron und Proton, gemeinsam Nukleonen genannt, gehören als Baryonen zu den Fermionen und den Hadronen. Üblicherweise wird das Neutron mit dem Formelzeichen 
+  
+    
+      
+        
+          n
+        
+      
+    
+    {\displaystyle \mathrm {n} }
+  
+ bezeichnet. 
+Wenn ein Neutron nicht in einem Atomkern gebunden ist – man nennt es dann auch „frei“ – ist es instabil, allerdings mit vergleichsweise langer mittlerer Lebensdauer von 878 s (dies entspricht einer Halbwertszeit von ca. 610 Sekunden). Es wandelt sich durch Betazerfall um in ein Proton, ein Elektron und ein Elektron-Antineutrino. 
+
+
+== Physikalische Beschreibung ==
+
+
+=== Elementare Eigenschaften ===
+Das Neutron trägt keine elektrische Ladung (daher der Name), aber ein magnetisches Moment von −1,91 Kernmagnetonen. Seine Masse beträgt rund 1,675 · 10−27 kg (1,008 665 u). Es ist als Baryon aus drei Quarks zusammengesetzt – einem up-Quark und zwei down-Quarks (Formel udd). Das Neutron hat den Spin 1/2 und ist damit ein Fermion. Als zusammengesetztes Teilchen ist es räumlich ausgedehnt, mit einem Durchmesser von ca. 1,7 · 10−15 m. Der mittlere quadratische Ladungsradius beträgt ⟨r2⟩  = −0,1155(17) fm2. Diesen von Null verschiedenen, negativen Wert kann man so interpretieren, dass die negativ geladenen down-Quarks im Mittel etwas weiter vom Zentrum entfernt sind als das up-Quark.
+Das Antiteilchen des Neutrons ist das Antineutron, das erstmals 1956 von Bruce Cork am Bevatron bei Proton-Proton-Stößen nachgewiesen wurde.
+Ein kurzlebiges, beobachtbares, aber nicht gebundenes System aus zwei Neutronen ist das Dineutron.
+
+
+=== Elementare Wechselwirkungen ===
+Das Neutron unterliegt allen in der Physik bekannten vier Wechselwirkungen: der Gravitationskraft, der starken, der elektromagnetischen und der schwachen Wechselwirkung.
+Die starke Wechselwirkung – genauer die Kernkraft, eine Art Restwechselwirkung der zwischen den Quarks wirkenden starken Wechselwirkung – ist dafür verantwortlich, dass Neutronen in Kernen gebunden sind, und bestimmt auch das Verhalten von Neutronen bei Stößen mit Atomkernen.
+Das Neutron ist zwar elektrisch neutral und unterliegt damit nicht der elektrostatischen Anziehung oder Abstoßung, aber aufgrund seines magnetischen Moments trotzdem der elektromagnetischen Wechselwirkung. Diese Tatsache sowie die räumliche Ausdehnung sind klare Indizien dafür, dass das Neutron ein zusammengesetztes Teilchen ist.
+Die schwache Wechselwirkung ist verantwortlich für den Betazerfall des (freien, s. unten) Neutrons in ein Proton, ein Elektron und ein Elektron-Antineutrino.
+
+
+=== Zerfall und Lebensdauer ===
+Das Neutron hat mit 939,6 MeV eine um 1,3 MeV (0,14 %) größere Ruheenergie als das Proton. Es zerfällt, falls es nicht in einem Atomkern gebunden ist, als Beta-Minus-Strahler (β−-Strahler) in ein Proton, ein Elektron und ein Elektron-Antineutrino:
+
+  
+    
+      
+        
+          n
+        
+        →
+        
+          p
+        
+        +
+        
+          
+            e
+          
+          
+            −
+          
+        
+        +
+        
+          
+            
+              
+                ν
+                ¯
+              
+            
+          
+          
+            e
+          
+        
+        +
+        0
+        
+          ,
+        
+        78
+        
+        
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle \mathrm {n} \rightarrow \mathrm {p} +\mathrm {e} ^{-}+{\bar {\nu }}_{e}+0{,}78\,\mathrm {MeV} }
+  
+.
+Die mittlere Lebensdauer des Neutrons beträgt etwa 878 Sekunden (knapp 15 Minuten); dies entspricht einer Halbwertszeit von etwa 610 Sekunden. Das ist die mit Abstand größte Halbwertszeit aller instabilen Hadronen. Sie ist schwierig zu messen, denn ein in normaler materieller Umgebung (auch in Luft) freigesetztes Neutron wird meist in Sekundenbruchteilen wieder von einem Atomkern absorbiert, „erlebt“ seinen Zerfall also nicht. Dementsprechend ist der Zerfall bei praktischen Anwendungen bedeutungslos, und das Neutron kann dafür als stabiles Teilchen angesehen werden. Grundlagenphysikalisch ist der Zerfall jedoch interessant. In einer frühen Phase des Universums machten freie Neutronen einen bedeutenden Teil der Materie aus; man kann die Entstehung besonders der leichten Elemente (und deren Isotopenverteilung) besser nachvollziehen, wenn die Lebensdauer des Neutrons genau bekannt ist. Außerdem erhofft man sich ein besseres Verständnis der schwachen Wechselwirkung.
+Die Lebensdauer des Neutrons kann mit Hilfe zweier verschiedener Methoden bestimmt werden: mit der Strahl-Methode, die 888,0 ± 2,0 s ergibt, und der Flaschen-Methode, die 879,6 ± 0,6 s (nach neueren Messungen 877,7 ± 0,8 s (2018) bzw. 877,75 ± 0,38 s (2021)) ergibt. Mit Verbesserung der Messmethoden ist dieser Unterschied von ca. 1 %, den man anfangs für einen Messfehler hielt, immer signifikanter geworden und liegt mittlerweile bei etwas mehr als 4 σ. Die Ursache ist unbekannt.
+
+
+== Neutronen als Bestandteile von Atomkernen ==
+Mit Ausnahme des häufigsten Wasserstoffisotops (Protium, 1H), dessen Atomkern nur aus einem einzelnen Proton besteht, enthalten alle Atomkerne sowohl Protonen als auch Neutronen. Atome mit gleicher Protonenanzahl, aber unterschiedlicher Neutronenanzahl heißen Isotope. Die Teilchenarten Proton und Neutron werden zusammenfassend Nukleonen (von lateinisch nucleus, Kern) genannt.
+
+
+=== β−- und β+-Zerfall von Atomkernen ===
+
+Wie stark ein Atomkern gebunden ist, hängt von der Zahl der Protonen Z und Neutronen N, vor allem aber vom Verhältnis dieser Zahlen ab. Bei leichteren Kernen ist die Bindung bei etwa gleicher Anzahl (N/Z ≈ 1) am stärksten (z. B. ist bei der Massenzahl 40 der stabilste Kern 40Ca mit je 20 Protonen und Neutronen); bei großen Massenzahlen verschiebt sich das Verhältnis bis hin zu N/Z ≈ 1,5, z. B. in 208Pb, da mit wachsendem Z die elektrische Abstoßung der Protonen zunehmend destabilisierend wirkt. Dieser Unterschied in der Bindungsenergie wirkt sich stärker als der eher geringe Massenunterschied von Proton und Neutron aus, so dass von Kernen gleicher Massenzahl diese jeweils am stabilsten sind.
+Ein zu neutronenreicher Kern kann sich – wie das freie Neutron – durch β−-Zerfall unter Beibehaltung der Massenzahl in einen Kern umwandeln, der ein Neutron weniger und ein Proton mehr hat. Dabei hat sich ein Neutron in ein Proton umgewandelt. Dagegen kann sich  ein zu neutronenarmer Kern durch β+-Zerfall in einen Kern umwandeln, der ein Neutron mehr und ein Proton weniger hat. Dabei wandelt sich ein Proton in ein Neutron um, ein Vorgang, der bei freien Protonen nicht möglich ist.
+
+  
+    
+      
+        
+          p
+        
+        +
+        1
+        
+          ,
+        
+        80
+        
+        
+          M
+          e
+          V
+        
+        →
+        
+          n
+        
+        +
+        
+          
+            e
+          
+          
+            +
+          
+        
+        +
+        
+          ν
+          
+            e
+          
+        
+      
+    
+    {\displaystyle \mathrm {p} +1{,}80\,\mathrm {MeV} \rightarrow \mathrm {n} +\mathrm {e} ^{+}+\nu _{e}}
+  
+.
+Die Umkehrung des Neutronenzerfalls tritt auf, wenn ein protonenreicher Atomkern mit einem Elektron der Atomhülle reagiert (Elektroneneinfang) sowie unter den extremen Bedingungen bei der Entstehung eines Neutronensterns:
+
+  
+    
+      
+        
+          p
+        
+        +
+        
+          
+            e
+          
+          
+            −
+          
+        
+        +
+        0
+        
+          ,
+        
+        78
+        
+        
+          M
+          e
+          V
+        
+        →
+        
+          n
+        
+        +
+        
+          ν
+          
+            e
+          
+        
+      
+    
+    {\displaystyle \mathrm {p} +\mathrm {e} ^{-}+0{,}78\,\mathrm {MeV} \rightarrow \mathrm {n} +\nu _{e}}
+  
+.
+
+
+== Freie Neutronen ==
+
+
+=== Erzeugung ===
+Es gibt viele verschiedene Arten von Neutronenquellen, in denen Neutronen aus Atomkernen freigesetzt werden.
+Zur Untersuchung von kondensierter Materie durch elastische und inelastische Neutronenstreuung werden vor allem Neutronen aus Forschungsreaktoren genutzt. Dort werden die Neutronen bei der Kernspaltung frei. Diese schnellen Neutronen haben Energien im Bereich von einigen MeV und müssen für Materialuntersuchungen erst auf rund ein Millionstel ihrer Bewegungsenergie abgebremst werden. Eine neuere Alternative zu Forschungsreaktoren sind Spallationsquellen.
+
+
+=== Nachweis ===
+Da Neutronen keine elektrische Ladung tragen, können sie nicht direkt mit auf Ionisierung beruhenden Detektoren nachgewiesen werden. Der Nachweis von Neutronen geschieht mittels Neutronendetektoren. Bei niedrigen Neutronenenergien (unter etwa hundert keV) beruhen diese stets auf einer geeigneten Kernreaktion, z. B. Neutronenabsorption mit anschließendem Zerfall:
+
+  
+    
+      
+        
+          n
+        
+        +
+        
+          
+
+          
+          
+            3
+          
+        
+        
+          H
+          e
+        
+        →
+        
+          
+
+          
+          
+            3
+          
+        
+        
+          H
+        
+        +
+        
+          
+
+          
+          
+            1
+          
+        
+        
+          H
+        
+        +
+        0,764
+        
+        
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle \mathrm {n} +{}^{3}\mathrm {He} \rightarrow {}^{3}\mathrm {H} +{}^{1}\mathrm {H} +0{,}764\,\mathrm {MeV} }
+  
+ siehe Neutronendetektion mit Helium-3
+Bei höheren Energien kann auch der Rückstoß ausgenutzt werden, den ein geladenes Teilchen (meist Proton) bei der Streuung des Neutrons erfährt.
+
+
+=== Klassifizierung ===
+Die Wechselwirkung freier Neutronen mit Materie ist je nach ihrer kinetischen Energie sehr verschieden. Deswegen werden Neutronen nach ihrer Energie klassifiziert. Die Bezeichnungen werden nicht ganz einheitlich verwendet. Folgende Tabelle ist angelehnt an :
+
+Neutronenquellen, egal welcher Art, erzeugen schnelle Neutronen mit 2 bis 5 MeV. Durch Moderatoren können diese auf Temperaturen bis zu der des Moderators abgebremst werden. Je nach Stärke der Moderation sind so mittelschnelle bis hin zu thermischen Neutronen erzeugbar. Mit Hilfe tiefgekühlter Moderatoren sind kalte bis sehr kalte Neutronen (VCN) erzeugbar. Noch weiter können Neutronen mit Hilfe von Neutronenzentrifugen gekühlt werden.
+
+
+==== „Kalte“ und „heiße“ Neutronen ====
+Mit zusätzlichen Moderatoren hoher oder niedriger Temperatur kann das Energiespektrum der Neutronen verschoben werden. Diese zusätzlichen Moderatoren an Forschungsreaktoren bezeichnet man auch als sekundäre Neutronenquellen. Zur Gewinnung „kalter“ Neutronen dient häufig flüssiges Deuterium mit einer Temperatur von etwa 20 K. „Heiße“ Neutronen werden in der Regel mit Graphit-Moderatoren bei etwa 3000 K erzeugt. Kalte, thermische und heiße Neutronen weisen jeweils eine bestimmte, mehr oder weniger breite Energieverteilung und damit Wellenlängenverteilung auf.
+Die Neutronen aus einem Forschungsreaktor werden durch Strahlrohre (Neutronenleiter) aus dem Moderatortank oder den sekundären Neutronenquellen zu den Experimenten geleitet. Allerdings müssen noch genügend viele Neutronen im Reaktorkern verbleiben oder dorthin zurück reflektiert werden, um die Kettenreaktion aufrechtzuerhalten.
+Ultrakalte Neutronen (UCN) haben nur sehr geringe kinetische Energie und bewegen sich mit weniger als 5 m/s, so dass sie sich magnetisch, mechanisch oder gravitativ speichern lassen. Von Gefäßwänden aus Beryllium, Berylliumoxid, Magnesium, Aluminium oder Nickel werden sie unterhalb einer materialabhängigen Grenzenergie reflektiert. Speicherexperimente ermöglichen minutenlange Beobachtungsdauern, viel länger als bei Experimenten an Neutronenstrahlen.
+
+
+==== Monochromatische Neutronen ====
+Für viele Experimente werden monoenergetische Neutronen, also Neutronen einheitlicher Energie, benötigt. Diese erhält man an Reaktoren z. B. durch den Einsatz eines Monochromators. Dies ist ein Einkristall oder Mosaik-Kristall aus beispielsweise Silizium, Germanium, Kupfer oder Graphit; durch Nutzung bestimmter Bragg-Reflexe und Monochromatorwinkel können verschiedene Wellenlängen (Energien) aus der Wellenlängenverteilung ausgewählt werden (siehe auch Neutronensuperspiegel).
+Monochromatische Neutronen höherer Energien können an Beschleunigern aus geeigneten Kernreaktionen gewonnen werden.
+
+
+=== Wirkung von Neutronenstrahlen ===
+
+
+==== Typische von Neutronen ausgelöste Prozesse ====
+Neutronen können an Atomkernen gestreut werden oder sonstige Kernreaktionen mit ihnen eingehen.
+Die Streuung kann elastisch oder inelastisch sein. Bei inelastischer Streuung verbleibt der Atomkern in einem angeregten Zustand, der dann (meist) durch Emission von Gammastrahlung zum Grundzustand zurückkehrt. Die elastische Streuung schneller Neutronen an leichten Atomkernen (Moderatoren) bewirkt ihre Abbremsung, bis sie zu thermischen  Neutronen werden.
+Insbesondere thermische Neutronen werden von vielen Atomkernen absorbiert. Wird danach nur Gammastrahlung, aber kein Teilchen mit Masse emittiert, heißt diese Reaktion Neutroneneinfang. Der entstandene neue Atomkern ist das um eine Masseneinheit schwerere Isotop des ursprünglichen Kerns und kann radioaktiv sein (Neutronenaktivierung). Nuklide mit besonders großem Wirkungsquerschnitt für die Absorption thermischer Neutronen werden als Neutronenabsorber bezeichnet. Technisch verwendet werden meist 113Cd und 10B, etwa in Neutronenabschirmungen und zur Steuerung von Kernreaktoren.
+Einige sehr schwere Nuklide können durch Neutronenabsorption gespalten werden. Setzt die Spaltung eines Atomkerns mehrere neue Neutronen frei, kann sich eine Kettenreaktion mit Freisetzung großer Energiemengen ergeben. Dies wird sowohl kontrolliert in Kernreaktoren wie auch unkontrolliert in Kernwaffen genutzt.
+
+
+==== Wirkungen auf Materie ====
+
+Die Materialeigenschaften von Metallen und anderen Werkstoffen werden durch Neutronenbestrahlung verschlechtert. Dies begrenzt die Lebensdauer von Komponenten in z. B. Kernreaktoren. In eventuellen Kernfusionsreaktoren mit ihrer höheren Energie der Neutronen träte dieses Problem verstärkt auf.
+Die Wirkung auf lebendes Gewebe ist ebenfalls schädlich. Sie beruht bei schnellen Neutronen größtenteils auf von diesen angestoßenen Protonen, die einer stark ionisierenden Strahlung entsprechen. Diese Schadwirkung ist gelegentlich als Strahlentherapie zur Bekämpfung von Krebszellen erprobt worden. Thermische Neutronen erzeugen durch Neutroneneinfang in Wasserstoff Gammastrahlung, die ihrerseits ionisiert.
+
+
+=== Anwendungen ===
+In Kernreaktoren, Kernfusionsreaktoren und Kernwaffen spielen freie (thermische bis schnelle) Neutronen eine entscheidende Rolle. Die wichtigste physikalische Größe ist dabei der orts- und zeitabhängige Neutronenfluss. Er wird rechnerisch-numerisch mit der Theorie der Neutronendiffusion oder auf Grundlage der Boltzmann-Gleichung oder auch der Monte-Carlo-Simulation behandelt.
+
+
+== Entdeckung und Erforschung ==
+Ernest Rutherford sagte im Jahr 1920 einen neutralen Kernbaustein voraus, bei dem es sich möglicherweise um eine Proton-Elektron-Kombination handele, er sprach von einem „kollabierten Wasserstoffatom“. William Draper Harkins bezeichnete dieses Teilchen 1921 als Neutron.
+Die ersten Schritte zur Entdeckung des Neutrons wurden von Walther Bothe und seinem Studenten Herbert Becker getan. Sie beschrieben im Jahr 1930 einen ungewöhnlichen Typ von Strahlung, der entstand, wenn sie Beryllium mit Alphastrahlung aus dem radioaktiven Zerfall von Polonium beschossen. Ziel war es, Beobachtungen Ernest Rutherfords zu bestätigen, wonach bei diesem Vorgang eine sehr energiereiche Strahlung emittiert wurde. Dementsprechend hielten sie die durchdringende Strahlung, die sie bei diesen Versuchen mit Hilfe von elektrischen Zählmethoden feststellen konnten, anfänglich fälschlicherweise für Gammastrahlung. Die gleichen Versuche machten sie auch mit Lithium und Bor, und kamen schlussendlich zum Ergebnis, dass die beobachteten „Gammastrahlen“ mehr Energie besaßen als die Alphateilchen, mit denen sie die Atome beschossen hatten. Bei der Bestrahlung von Beryllium mit Alphateilchen entstand nicht – wie zuvor erwartet – Bor, sondern Kohlenstoff. In heutiger Schreibweise lautet die beobachtete Kernreaktion:
+
+  
+    
+      
+        
+          
+
+          
+          
+            4
+          
+          
+            9
+          
+        
+        
+          B
+          e
+        
+        +
+        
+          
+
+          
+          
+            2
+          
+          
+            4
+          
+        
+        α
+        →
+        
+          
+
+          
+          
+             
+            6
+          
+          
+            12
+          
+        
+        
+          C
+        
+        +
+        
+          
+
+          
+          
+            0
+          
+          
+            1
+          
+        
+        
+          n
+        
+      
+    
+    {\displaystyle {}_{4}^{9}\mathrm {Be} +{}_{2}^{4}\alpha \to {}_{\ 6}^{12}\mathrm {C} +{}_{0}^{1}\mathrm {n} }
+  
+
+oder in Kurzform
+
+  
+    
+      
+        
+          
+
+          
+          
+            9
+          
+        
+        
+          B
+          e
+        
+        (
+        α
+        ,
+        
+          n
+        
+        )
+        
+          
+
+          
+          
+            12
+          
+        
+        
+          C
+        
+      
+    
+    {\displaystyle {}^{9}\mathrm {Be} (\alpha ,{\text{n}}){}^{12}\mathrm {C} }
+  
+.
+Die beobachtete, sehr energiereiche Strahlung hatte ein großes Durchdringungsvermögen durch Materie, zeigte jedoch sonst ein für Gammastrahlung ungewöhnliches Verhalten. Sie vermochte zum Beispiel leichte Atome in schnelle Bewegung zu versetzen. Eine genauere Analyse zeigte, dass die Energie dieser „Gammastrahlung“ so groß hätte sein müssen, dass sie alles bis dahin Bekannte weit übertroffen hätte. So kamen mehr und mehr Zweifel auf, ob es sich wirklich um Gammastrahlen handelte. Entsprechend dem durchgeführten Versuch nannte man die Strahlung inzwischen „Beryllium-Strahlung“.
+1931 stellten Irène Joliot-Curie und ihr Ehemann Frédéric Joliot-Curie bei Experimenten mit der Beryllium-Strahlung folgende Tatsache fest: Lässt man die „Beryllium-Strahlung“ in eine Ionisationskammer treffen, so zeigt diese keinen nennenswerten Strom an. Bringt man jedoch vor die Ionisationskammer eine wasserstoffhaltige Materialschicht (zum Beispiel Paraffin), dann steigt der Strom in der Kammer stark an. Als Ursache vermutete das Ehepaar Joliot-Curie, dass die „Beryllium-Strahlung“ aus dem wasserstoffhaltigen Paraffin Protonen herauslöst, welche dann in der Ionisationskammer Ionisierung bewirken. Sie konnten ihre Vermutung durch den Nachweis solcher Rückstoß-Protonen in der Wilsonschen Nebelkammer belegen. Als Mechanismus vermuteten sie einen dem Compton-Effekt verwandten Vorgang. Die harte Gammastrahlung sollte den Protonen den notwendigen Impuls übertragen. Abschätzungen zeigten jedoch, dass zur Erzeugung eines Rückstoßprotons, dessen Spurlänge in der Nebelkammer etwa 26 cm betrug, eine unrealistisch hohe Gammaenergie von etwa 50 MeV notwendig wäre.
+
+James Chadwick – ein Schüler Rutherfords, der wie er zunächst die Hypothese eines stark gebundenen Elektron-Proton-Zustands vertrat – glaubte wie dieser nicht an einen „Compton-Effekt beim Proton“ und nahm an, dass die „Beryllium-Strahlung“ aus Teilchen bestehen müsse. Als Irène und Frédéric Joliot-Curie ihre Versuchsergebnisse veröffentlichten, in denen sie zeigten, dass Bothes „Beryllium-Strahlung“ in der Lage war, aus Paraffin Protonen mit hoher Energie herauszuschlagen, war für Chadwick klar, dass es sich nicht um Gammastrahlung, sondern nur um Teilchen mit einer dem Proton vergleichbaren Masse handeln konnte. In den zahlreichen Versuchen wiederholte er die Experimente von Joliot-Curie und bestätigte deren Beobachtung. 1932 konnte er experimentell erhärten, dass es sich bei der „Beryllium-Strahlung“ nicht um Gammastrahlen, sondern um schnell bewegte Teilchen handelte, die ungefähr die Masse des Protons besitzen, jedoch elektrisch neutral sind; die Eigenschaften dieser Strahlung waren eher mit denen eines bereits zwölf Jahre zuvor von Ernest Rutherford als Kernbaustein vermuteten neutralen Teilchens in Einklang zu bringen. Da die nunmehr entdeckten Teilchen keine elektrische Ladung trugen, nannte er sie Neutronen. Chadwick veröffentlichte seine Entdeckung im Jahr 1932. Die Publikation erschien unter Letters to the Editor, ist knapp eine Seite lang und trug ihm im Jahre 1935 den Nobelpreis für Physik ein.
+Dass gerade die Kombination von Beryllium als Target und Polonium als Alphateilchen-Quelle eine hohe Neutronenausbeute ergibt, erklärt sich nach heutigem Wissen daraus, dass der Energiegewinn (Q-Wert) der 
+  
+    
+      
+        (
+        α
+        ,
+        
+          n
+        
+        )
+      
+    
+    {\displaystyle (\alpha ,{\text{n}})}
+  
+-Reaktion an 9Be mit 5,7 MeV besonders hoch ist und dass 210Po mit 5,3 MeV eine der höchsten natürlichen Alpha-Energien liefert.
+Mit der Entdeckung des Neutrons konnte die Beschreibung des Atomaufbaus vorerst vollendet werden: Der Atomkern, bestehend aus Protonen und Neutronen, wird von einer Hülle aus Elektronen umgeben. Bei einem elektrisch neutralen Atom ist die Anzahl der negativ geladenen Elektronen gleich der der positiv geladenen Protonen im Atomkern, wohingegen die Anzahl der Neutronen im Kern variieren kann.
+Im gleichen Jahr 1932 stellte Werner Heisenberg seine Nukleonentheorie auf.
+Noch 1940 nahm man an, dass das Neutron eine Verbindung aus Proton und Elektron darstellt. So hätte man alle Atome auf diese zwei Bausteine zurückführen können. Erst mit der weiteren Entwicklung der Quantenmechanik und der Kernphysik wurde klar, dass es keine Elektronen als dauerhafte Bestandteile des Kerns geben kann.
+„Neutron“ war ursprünglich Wolfgang Paulis Bezeichnung für das 1930 von ihm postulierte Auftreten eines (Anti-)Neutrinos beim Betazerfall gewesen. Die Bezeichnung Neutrino, vorgeschlagen von Enrico Fermi, etablierte sich erst später.
+
+
+== Literatur ==
+
+
+=== Fachartikel ===
+Dirk  Dubbers, Reinhard  Scherm: Neutronen-Forschung am Institut Laue-Langevin: Neutronen-Quelle und Experimente. In: Physik in unserer Zeit. Band 34, Nr. 3, 2003, S. 108–111, doi:10.1002/piuz.200390052. 
+Arno Hiess, Helmut Schober: Mit Neutronen auf der Spur der Elektronen: Neutronen-Spektroskopie an Festkörpern. In: Physik in unserer Zeit. Band 34, Nr. 3, 2003, S. 112–118, doi:10.1002/piuz.200390053. 
+Torsten Soldner: Das Neutron, der Kosmos und die Kräfte: Neutronen in der Teilchenphysik. In: Physik in unserer Zeit. Band 34, Nr. 3, 2003, S. 127–132, doi:10.1002/piuz.200390056. 
+Matthias Honal, Wolfgang Scherer, Götz Eckold: Wozu brauchen Chemiker Neutronen? In: Nachrichten aus der Chemie. Band 51, Nr. 11, 2003, S. 1133–1138, doi:10.1002/nadc.20030511106. 
+
+
+=== Sachartikel und Andere ===
+Characteristics of neutrons (Fünf Gründe, weshalb Neutronen zur Erforschung von Materie besonders geeignet sind, Englisch, publiziert vom Forschungsprogramm NMI3, mit Nachfolger-Forschungsprogramm SINE2020, mit Nachfolger Neutronsources.org, siehe Weblinks).
+Nachweis und Erzeugung von Neutronen (LEIFI)
+Neutron Imaging. Wie Neutronen Bilder machen. Paul Scherrer Institut, 2007 (psi.ch [PDF; abgerufen am 16. Mai 2023]). 
+Tetra-Neutron: Münchner Physiker entdecken neues Teilchen - WELT. Abgerufen am 16. Mai 2023. 
+
+
+=== Monographien ===
+G. E. Bacon: Neutron Physics (= Nevill Mott, G. R. Noakes [Hrsg.]: The Wykeham Science Series). Wykeham Publications, London 1969 (englisch, archive.org). 
+L. F. Curtiss: Introduction to Neutron Physics. Boston Technical Publishers (D. Van Nostrand Company), Cambridge, MA 1965 (englisch, archive.org). 
+Emilio Segrè: Neutrons. In: Nuclei and Particles (= Advanced Book Program). W. A. Benjamin, Reading, MA 1977, ISBN 0-8053-8601-7 (englisch). 
+K. Wirtz, K. H. Beckurts: Elementare Neutronenphysik. Springer Berlin Heidelberg, Berlin, Heidelberg 1958, ISBN 978-3-662-23764-9, doi:10.1007/978-3-662-25867-5 (archive.org – Englische Übersetzung). 
+N.A. Wlassow: Neutronen (= Franz Xaver Eder, Robert Rompe [Hrsg.]: Hochschulbücher für Physik. Band 12). Deutscher Verlag der Wissenschaften, Berlin 1959 (uni-leipzig.de). 
+
+
+== Weblinks ==
+
+Neutronsources.org – Neutronenforschung international (englisch)
+
+
+== Einzelnachweise ==

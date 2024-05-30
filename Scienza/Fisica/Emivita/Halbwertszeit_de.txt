@@ -1,0 +1,1151 @@
+Die Halbwertszeit oder Halbwertzeit (abgekürzt HWZ, Formelzeichen meist 
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle T_{1/2}}
+  
+, auch 
+  
+    
+      
+        
+          t
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle t_{1/2}}
+  
+) ist die Zeitspanne, nach der eine mit der Zeit abnehmende Größe die Hälfte des anfänglichen Werts (oder, in Medizin und Pharmakologie, die Hälfte des Höchstwertes) erreicht.
+Folgt die Abnahme einem Exponentialgesetz (siehe Abbildung), dann ist die Halbwertszeit immer die gleiche, auch wenn man eine beliebige Zeitspanne abwartet und die Restmenge, die dann noch übrig ist, als neue Anfangsmenge nimmt. Bei einem Exponentialgesetz charakterisiert daher die Halbwertszeit den zugrunde liegenden Prozess als solchen.
+Eine eng verwandte Größe ist die durchschnittliche Lebensdauer. Bei exponentieller Abnahme ist sie die Zeitspanne 
+  
+    
+      
+        τ
+        =
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        
+          /
+        
+        ln
+        ⁡
+        2
+      
+    
+    {\displaystyle \tau =T_{1/2}/\ln 2}
+  
+, nach der die Größe auf den Bruchteil 1/e ≈ 36,8 % des anfänglichen Wertes abgenommen hat.
+Nimmt eine Größe dagegen mit der Zeit zu, so wird die Zeitspanne, nach der das Doppelte des anfänglichen Werts erreicht ist, als Verdopplungszeit bezeichnet. In der Mikrobiologie nennt man die Verdopplungszeit einer Population von Einzellern auch Generationszeit.
+
+
+== Halbwertszeiten in verschiedenen Vorgängen ==
+
+
+=== Exponentielle Abnahme ===
+Bei exponentieller Abnahme einer Größe 
+  
+    
+      
+        X
+        (
+        t
+        )
+      
+    
+    {\displaystyle X(t)}
+  
+ hängt die Halbwertszeit weder von der Wahl des Anfangszeitpunkts 
+  
+    
+      
+        
+          t
+          
+            0
+          
+        
+      
+    
+    {\displaystyle t_{0}}
+  
+ noch von dem dann vorliegenden Startwert 
+  
+    
+      
+        
+          X
+          
+            0
+          
+        
+        =
+        X
+        (
+        
+          t
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle X_{0}=X(t_{0})}
+  
+ ab. In diesem Fall ist immer
+
+nach Verstreichen von 
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle T_{1/2}}
+  
+ der Wert auf 
+  
+    
+      
+        
+          X
+          
+            0
+          
+        
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle X_{0}/2}
+  
+,
+nach 
+  
+    
+      
+        2
+        ⋅
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle 2\cdot T_{1/2}}
+  
+ auf 
+  
+    
+      
+        
+          X
+          
+            0
+          
+        
+        
+          /
+        
+        4
+      
+    
+    {\displaystyle X_{0}/4}
+  
+,
+nach 
+  
+    
+      
+        3
+        ⋅
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle 3\cdot T_{1/2}}
+  
+ auf 
+  
+    
+      
+        
+          X
+          
+            0
+          
+        
+        
+          /
+        
+        8
+      
+    
+    {\displaystyle X_{0}/8}
+  
+,
+allgemein nach 
+  
+    
+      
+        n
+        ⋅
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle n\cdot T_{1/2}}
+  
+ auf 
+  
+    
+      
+        
+          X
+          
+            0
+          
+        
+        
+          /
+        
+        
+          2
+          
+            n
+          
+        
+      
+    
+    {\displaystyle X_{0}/2^{n}}
+  
+
+gefallen.
+
+
+=== Radioaktive Zerfälle ===
+
+Der radioaktive Zerfall eines gegebenen Radionuklids verläuft exponentiell. Die Halbwertszeit ist die Zeitspanne, in der die Menge und damit auch die Aktivität eines gegebenen Radionuklids durch den Zerfall auf die Hälfte gesunken ist. 50 % der Atomkerne haben sich – i. A. unter Aussendung ionisierender Strahlung – in ein anderes Nuklid umgewandelt; dieses kann seinerseits ebenfalls radioaktiv sein oder nicht. Für jedes Nuklid ist die Halbwertszeit eine feste Größe, die sich nicht (nur in Ausnahmen ganz geringfügig) beeinflussen lässt.
+Die Halbierung gilt allerdings nur als statistischer Mittelwert. Man findet sie umso genauer bestätigt, je mehr nicht zerfallene Atome die betrachtete Probe noch enthält. Der Zeitpunkt der Umwandlung eines einzelnen Atomkerns kann nicht vorhergesagt werden, nur die Wahrscheinlichkeit der Umwandlung pro Zeitintervall kann angegeben werden (Zerfallskonstante 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+, siehe unten). Die Wahrscheinlichkeit, dass ein betrachteter einzelner Kern sich innerhalb der ersten Halbwertszeit umwandelt, beträgt 50 %, dass er sich innerhalb von zwei Halbwertszeiten umwandelt, 50 % + 25 % = 75 %, bei drei Halbwertszeiten 50 % + 25 % + 12,5 % = 87,5 % usw.
+Es gibt radioaktive Halbwertszeiten im Bereich von weniger als einer Mikrosekunde bis zu einigen Quadrillionen Jahren. Polonium-212 beispielsweise hat 0,3 µs Halbwertszeit, Tellur-128 dagegen etwa 7·1024 (7 Quadrillionen) Jahre.
+Eng verknüpft mit der Halbwertszeit eines Radionuklids ist seine spezifische Aktivität, also die Aktivität pro Masse, ausgedrückt z. B. in Becquerel pro Milligramm, Bq/mg. Der Zusammenhang zwischen spezifischer Aktivität und der Halbwertszeit ist umgekehrt proportional: je kürzer die Halbwertszeit, desto größer ist bei gegebener Substanzmenge die Aktivität und umgekehrt.
+Die folgende Tabelle enthält einige Beispiele. In den Zahlenwerten ist hier nur die Masse des Radionuklids selbst berücksichtigt; in der Praxis werden spezifische Aktivitäten eher auf das jeweilige natürliche Isotopengemisch oder das Gesamtmaterial der Probe bezogen.
+
+Erst Ende des 20. Jahrhunderts sind einige früher als stabil geltende Nuklide als extrem langlebige Radionuklide „entlarvt“ worden, zum Beispiel 149Sm, 152Gd (beides Lanthanoide), 174Hf, 180W und 209Bi mit Halbwertszeiten von bis zu einigen Trillionen Jahren. Die Aktivität ist bei so langen Halbwertszeiten entsprechend gering und nur mit großem Aufwand nachweisbar.
+Für manche praktischen Zwecke, etwa bei der Betrachtung des gesamten Radioaktivitätsinventars eines Labors oder einer kerntechnischen Anlage, sieht man als Faustregel die Aktivität einer gegebenen Strahlenquelle nach 10 Halbwertszeiten als vernachlässigbar an, denn sie hat dann auf das 2−10-Fache (= 1/1024), also weniger als ein Tausendstel des Anfangswertes abgenommen.
+
+
+==== Messung radioaktiver Halbwertszeiten ====
+Zur Messung der Halbwertszeit sind wegen der verschiedenen Größenordnungen verschiedene Methoden nötig.
+
+In einem mittleren Bereich, für Halbwertszeiten etwa von Sekunden bis zu Tagen, kann man direkt die Abnahme bis auf die halbe Aktivität verfolgen.
+Sehr lange Halbwertszeiten misst man durch Zählen der Zerfälle pro Zeitintervall an einer bekannten Menge der Substanz; man bestimmt also nicht 
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle T_{1/2}}
+  
+, sondern die Zerfallskonstante 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ (siehe unten). Die genaue Menge des Radionuklids kann beispielsweise mittels Massenspektroskopie bestimmt werden. Mit einer solchen Methode ist die Halbwertszeit des Eisenisotops Fe-60 von 2,5·106 Jahren auf 2 % genau gemessen worden.
+Für sehr kurze Halbwertszeiten gibt es Techniken, die z. B. den Ort des Zerfalls feststellen, wenn das Atom oder Molekül mit bekannter Geschwindigkeit an einer Reihe von Detektoren vorbeifliegt, und andere Methoden.
+Extrem kurze Halbwertszeiten, z. B. von angeregten Kernzuständen im Bereich 10−22 … 10−16 Sekunden, kann man über die Zerfallsbreite der entstehenden Strahlung messen.
+
+
+==== Datensammlungen ====
+Die Halbwertszeiten aller Radionuklide sind in der Liste der Isotope zu finden. Allgemein werden sie neben weiteren Daten in Nuklidkarten angegeben. Eine sehr viel verwendete gedruckte Sammlung ist die Karlsruher Nuklidkarte. Als Online-Nuklidkarte ist beispielsweise eine Darstellung vom Korean Atomic Energy Research Institute verfügbar.
+
+
+==== Geschichte ====
+Die erste Beobachtung, dass die Aktivität eines Radionuklids in gleichen Zeiträumen um den gleichen Faktor abnimmt – also durch eine feststehende Halbwertszeit beschrieben werden kann – wurde 1900 von Rutherford veröffentlicht. Die von Rutherford untersuchte Substanz war in heutiger Bezeichnungsweise das Radon-Isotop 
+  
+    
+      
+        
+          
+
+          
+          
+             
+            86
+          
+          
+            220
+          
+        
+        
+          R
+          n
+        
+      
+    
+    {\displaystyle {}_{\ 86}^{220}\mathrm {Rn} }
+  
+.
+
+
+=== Biologische Halbwertszeit ===
+Die biologische Halbwertszeit oder Eliminationshalbwertszeit (siehe auch Plasmahalbwertszeit) ist die Zeitspanne, in der in einem Organismus (Mensch, Tier, Pflanze, Einzeller) die Menge einer inkorporierten Substanz durch die Wirkung aller beteiligten biologischen Prozesse (Stoffwechsel, Ausscheidung usw.) auf die Hälfte abgesunken ist.
+In der Pharmakokinetik ist Halbwertszeit die Zeit, in der die Hälfte des aufgenommenen Arzneimittels verstoffwechselt oder ausgeschieden ist. Pharmakokinetische Halbwertszeiten können sehr verschieden sein. Beim Erwachsenen werden beispielsweise für Penicillin-G 0,5 Stunden angegeben, für Phenobarbital 120 Stunden. Da an der Mengenabnahme verschiedene Prozesse mit teilweise verschiedenen Konzentrationsabhängigkeiten beteiligt sind, hängt die Eliminationshalbwertszeit mancher Stoffe von der Ausgangskonzentration ab; für Phenytoin beträgt sie z. B. bei geringer Konzentration sieben Stunden, bei höherer bis zu 40 Stunden.
+
+
+=== Effektive Halbwertszeit ===
+Die effektive Halbwertszeit eines Radionuklids ist die Zeitspanne, innerhalb derer die halbe Menge eines inkorporierten (in einen Organismus aufgenommenen) Radionuklids verschwindet. Hier sind zwei Prozesse beteiligt, der radioaktive Zerfall und unabhängig davon die Wiederausscheidung durch den Stoffwechsel. Beide verlaufen exponentiell mit meist unterschiedlichen Halbwertszeiten. Die resultierende Funktion kann durch eine einzige Exponentialfunktion und damit ebenfalls durch eine Halbwertszeit beschrieben werden.
+
+  
+    
+      
+        
+          effektive Halbwertszeit
+        
+        =
+        
+          
+            
+              
+                physikalische Halbwertszeit
+              
+              ⋅
+              
+                biologische Halbwertszeit
+              
+            
+            
+              
+                physikalische Halbwertszeit
+              
+              +
+              
+                biologische Halbwertszeit
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\text{effektive Halbwertszeit}}={\frac {{\text{physikalische Halbwertszeit}}\cdot {\text{biologische Halbwertszeit}}}{{\text{physikalische Halbwertszeit}}+{\text{biologische Halbwertszeit}}}}}
+  
+
+Die effektive Halbwertszeit ist immer kleiner als die kleinere der beiden einzelnen Halbwertszeiten. Sind die biologische und die physikalische Halbwertszeit sehr verschieden, so entspricht die effektive Halbwertszeit etwa der kürzeren. Bei gleich langen Halbwertszeiten ist die effektive Halbwertszeit die Hälfte jeder der ursprünglichen Halbwertszeiten.
+
+
+=== Bibliometrische Halbwertszeiten ===
+In der Bibliometrie ist für das Veralten naturwissenschaftlicher Publikationen – gemessen an der abnehmenden Häufigkeit der Zitate in anderen Publikationen – ein mehr oder weniger exponentielles Verhalten mit einer Halbwertszeit von rund fünf Jahren festgestellt worden. Aus der Benutzungsstatistik der Universitätsbibliothek Ulm wurde die gleiche Halbwertszeit auch für die Häufigkeit der Bestellungen von Kopien der Zeitschriftenartikel gefunden. Eine naturwissenschaftliche Veröffentlichung wird also durchschnittlich jedes Jahr um etwa 13 % weniger oft gelesen oder zitiert als im vorangegangenen (abgesehen von Klassikern und den neuesten Werken).
+
+
+== Mathematische Definition ==
+Vorbemerkung:
+Das Zerfallsgesetz setzt als „Menge“ eine kontinuierliche, als reelle Zahl darstellbare Größe voraus. Es ist aber auch auf ganzzahlige Größen wie z. B. die Anzahl der Atome in der radioaktiven Substanzprobe anwendbar, denn es beschreibt jeweils den messtechnischen Erwartungswert, also Mittelwert über viele (gedachte) Einzelmessungen.
+
+
+=== Exponentieller Zerfall ===
+Man nimmt an, dass ein Vorgang die Menge 
+  
+    
+      
+        N
+        (
+        t
+        )
+      
+    
+    {\displaystyle N(t)}
+  
+ einer Substanz mit einer festen Zerfallskonstante 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ verringert. Dies bedeutet, dass während einer kurzen Zeitspanne 
+  
+    
+      
+        Δ
+        t
+      
+    
+    {\displaystyle \Delta t}
+  
+ sich die Menge um 
+  
+    
+      
+        Δ
+        N
+        (
+        t
+        )
+        =
+        −
+        λ
+        ⋅
+        N
+        (
+        t
+        )
+        ⋅
+        Δ
+        t
+      
+    
+    {\displaystyle \Delta N(t)=-\lambda \cdot N(t)\cdot \Delta t}
+  
+ ändert, also der 
+  
+    
+      
+        λ
+        ⋅
+        Δ
+        t
+      
+    
+    {\displaystyle \lambda \cdot \Delta t}
+  
+-te Teil der aktuellen Substanzmenge 
+  
+    
+      
+        N
+        (
+        t
+        )
+      
+    
+    {\displaystyle N(t)}
+  
+ zerfällt. Daraus ergibt sich eine einfache Differentialgleichung, die diesen Vorgang beschreibt:
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              N
+              (
+              t
+              )
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        −
+        λ
+        ⋅
+        N
+        (
+        t
+        )
+        .
+      
+    
+    {\displaystyle {\frac {\mathrm {d} N(t)}{\mathrm {d} t}}=-\lambda \cdot N(t).}
+  
+
+Diese Gleichung hat als Lösung eine Exponentialfunktion
+
+  
+    
+      
+        N
+        (
+        t
+        )
+        =
+        
+          N
+          
+            0
+          
+        
+        ⋅
+        exp
+        ⁡
+        
+          (
+          
+            −
+            λ
+            ⋅
+            t
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle N(t)=N_{0}\cdot \exp \left(-\lambda \cdot t\right),}
+  
+
+wobei 
+  
+    
+      
+        N
+        (
+        0
+        )
+        =
+        
+          N
+          
+            0
+          
+        
+      
+    
+    {\displaystyle N(0)=N_{0}}
+  
+ die Anfangsmenge der Substanz ist. Die Halbwertszeit ist nun die Zeit 
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle T_{1/2}}
+  
+, nach der nur noch die Hälfte der Substanz vorhanden ist, es gilt also 
+  
+    
+      
+        N
+        (
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        )
+        =
+        
+          
+            
+              N
+              
+                0
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle N(T_{1/2})={\frac {N_{0}}{2}}}
+  
+. Daraus ergibt sich durch Einsetzen
+
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        =
+        
+          
+            
+              ln
+              ⁡
+              (
+              2
+              )
+            
+            λ
+          
+        
+        ≈
+        
+          
+            0,693
+            λ
+          
+        
+      
+    
+    {\displaystyle T_{1/2}={\frac {\ln(2)}{\lambda }}\approx {\frac {0{,}693}{\lambda }}}
+  
+
+und allgemeiner für die Zeit 
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            n
+          
+        
+      
+    
+    {\displaystyle T_{1/n}}
+  
+, nach der nur noch der 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+-te Teil der Substanz vorhanden ist, für die also 
+  
+    
+      
+        N
+        (
+        
+          T
+          
+            1
+            
+              /
+            
+            n
+          
+        
+        )
+        =
+        
+          
+            
+              N
+              
+                0
+              
+            
+            n
+          
+        
+      
+    
+    {\displaystyle N(T_{1/n})={\frac {N_{0}}{n}}}
+  
+ gilt,
+
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            n
+          
+        
+        =
+        
+          
+            
+              ln
+              ⁡
+              (
+              n
+              )
+            
+            λ
+          
+        
+        .
+      
+    
+    {\displaystyle T_{1/n}={\frac {\ln(n)}{\lambda }}.}
+  
+
+
+=== Allgemeiner Zerfall ===
+Für allgemeinere Zerfälle ist die Definition für die Halbwertszeit 
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle T_{1/2}}
+  
+ weiterhin
+
+  
+    
+      
+        N
+        (
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        )
+        =
+        
+          
+            
+              N
+              
+                0
+              
+            
+            2
+          
+        
+        ;
+      
+    
+    {\displaystyle N(T_{1/2})={\frac {N_{0}}{2}};}
+  
+
+allerdings folgt dann die Größe 
+  
+    
+      
+        N
+        (
+        t
+        )
+      
+    
+    {\displaystyle N(t)}
+  
+ keiner einfachen Exponentialfunktion mehr.
+Ein Beispiel hierfür sind chemische Reaktionen zweiter Ordnung, wie etwa Dimerisierungen der Form
+
+  
+    
+      
+        
+          N
+        
+        +
+        
+          N
+        
+        ⟶
+        
+          P
+        
+        ,
+      
+    
+    {\displaystyle \mathrm {N} +\mathrm {N} \longrightarrow \mathrm {P} ,}
+  
+
+bei denen sich immer zwei Moleküle N zu einem Molekül P verbinden. Die Ratengleichung hierfür ist eine gewöhnliche Differentialgleichung, die den Zerfall beschreibt:
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              N
+              (
+              t
+              )
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        −
+        2
+        ⋅
+        λ
+        ⋅
+        
+          N
+          
+            2
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\frac {\mathrm {d} N(t)}{\mathrm {d} t}}=-2\cdot \lambda \cdot N^{2}(t)}
+  
+
+Hierbei ist 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ die Reaktionsgeschwindigkeitskonstante und 
+  
+    
+      
+        λ
+        ⋅
+        
+          N
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \lambda \cdot N^{2}}
+  
+ die Reaktionsgeschwindigkeit. Die Lösung dieser Gleichung ist dann
+
+  
+    
+      
+        N
+        (
+        t
+        )
+        =
+        
+          
+            
+              N
+              
+                0
+              
+            
+            
+              1
+              +
+              
+                N
+                
+                  0
+                
+              
+              ⋅
+              2
+              ⋅
+              λ
+              ⋅
+              t
+            
+          
+        
+      
+    
+    {\displaystyle N(t)={\frac {N_{0}}{1+N_{0}\cdot 2\cdot \lambda \cdot t}}}
+  
+
+und die Halbwertszeit ergibt sich zu
+
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        =
+        
+          
+            1
+            
+              2
+              ⋅
+              λ
+              ⋅
+              
+                N
+                
+                  0
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle T_{1/2}={\frac {1}{2\cdot \lambda \cdot N_{0}}}.}
+  
+
+Im Gegensatz zum exponentiellen Fall hängt hier 
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle T_{1/2}}
+  
+ nicht nur von der Reaktionsgeschwindigkeitskonstante 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ ab, sondern explizit auch von der Ausgangsmenge 
+  
+    
+      
+        
+          N
+          
+            0
+          
+        
+      
+    
+    {\displaystyle N_{0}}
+  
+; „Halbwertszeit“ bezeichnet hier also immer die Zeit, nach der die Ausgangsmenge sich halbiert hat. Die Zeit 
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            n
+          
+        
+      
+    
+    {\displaystyle T_{1/n}}
+  
+, nach der der 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+-te Teil der Substanz zerfallen ist, ergibt sich zu
+
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            n
+          
+        
+        =
+        
+          
+            
+              n
+              −
+              1
+            
+            
+              2
+              ⋅
+              λ
+              ⋅
+              
+                N
+                
+                  0
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle T_{1/n}={\frac {n-1}{2\cdot \lambda \cdot N_{0}}}.}
+  
+
+
+== Siehe auch ==
+Halbwertsdicke
+Zehntelwertszeit
+Zehntelwertsdicke
+Zeitkonstante
+
+
+== Weblinks ==
+
+Rechenhilfe zur Aktivität nach wählbarer Abklingzeit mit fast 4500 frei wählbaren Nukliden.
+
+
+== Einzelnachweise ==

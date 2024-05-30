@@ -1,0 +1,66 @@
+Der Begriff Strahlung bezeichnet die Ausbreitung von Teilchen oder Wellen. Im ersten Fall spricht man von Teilchen- oder Korpuskularstrahlung, im zweiten von Wellenstrahlung.
+Die Unterscheidung zwischen Teilchen und Wellen ist historisch und hat als anschauliche Aussage nach wie vor Bedeutung. Jedoch hat nach heutiger Kenntnis jede Strahlung sowohl Teilchen- als auch Welleneigenschaften (siehe auch Welle-Teilchen-Dualismus).
+
+
+== Verwendung des Wortes ==
+Strahlen, die Mehrzahl zu Strahl, wird manchmal gleichbedeutend mit dem Begriff Strahlung verwendet, auch in Zusammensetzungen wie etwa Alpha- oder Röntgenstrahlen. Eine Einzahl wie etwa Röntgenstrahl bezeichnet dagegen fast immer ein Strahlenbündel, das gerichtet ist und dabei Energie und Impuls transportiert. Wenn der Strahl aus Teilchen mit Masse, Ladung oder anderen Eigenschaften besteht, werden auch diese transportiert. Lichtstrahl kann allerdings beides, den idealisierten linienförmigen Strahl (siehe geometrische Optik) oder ein Strahlenbündel, bedeuten. Die Mehrdeutigkeit des deutschen Wortes Strahl zeigt sich auch darin, dass in anderen Sprachen jeweils mehrere verschiedene Ausdrücke dafür existieren. Im Englischen bezeichnet zum Beispiel ray einen gedachten, idealisierten Strahl, beam ein Strahlenbündel und jet einen Strahl aus makroskopischer Materie.
+Die Ausbreitung von Schall und anderen mechanischen Wellen folgt ähnlichen Gesetzen wie die Ausbreitung von elektromagnetischer Strahlung. Sie werden dennoch kaum als Strahlung bezeichnet.
+
+
+== Grundlagen ==
+Trifft die Strahlung auf ein Hindernis, wird sie entweder absorbiert (aufgenommen und umgewandelt), transmittiert (hindurchgelassen), gebeugt, gebrochen, gestreut oder reflektiert (zurückgeworfen). 
+Die historische Debatte, ob Lichtstrahlen aus Teilchen oder Wellen bestehen, wurde durch die Quantenphysik beendet. Danach besteht ein Lichtstrahl aus Photonen, deren Aufenthaltsort im Rahmen der Quantenmechanik durch eine Wahrscheinlichkeitswelle beschrieben wird. Diese Wahrscheinlichkeitswellen können miteinander interferieren (siehe Doppelspaltversuch). Louis de Broglie hat in seiner Theorie der Materiewellen gezeigt, dass jedem Teilchen eine Wellenlänge zugeordnet werden kann. Dies erklärt, warum zum Beispiel ein Elektronenstrahl auch Interferenzphänomene zeigt (siehe auch Welle-Teilchen-Dualismus).
+
+
+== Charakterisierung ==
+Man unterscheidet Strahlung nach ihren Bestandteilen, nach ihrer Quelle oder nach ihrer Wirkung.
+
+
+=== Bestandteile ===
+
+
+==== Elektromagnetische Wellen ====
+Elektromagnetische Wellen bestehen aus Photonen. Elektromagnetische Wellen mit kurzer Wellenlänge, also hoher Photonenenergie, werden im Sprachgebrauch häufig als elektromagnetische Strahlung bezeichnet: so z. B. Gammastrahlung, Röntgenstrahlung, Bremsstrahlung, UV-Strahlung, Wärmestrahlung oder Infrarotstrahlung. In einem anderen Bereich, in welchem die Photonenenergie nicht so hoch ist, spricht man eher von Wellen, etwa Radiowellen.
+
+
+==== Teilchenstrahlung ====
+Die Ausdrücke Teilchenstrahlung und Korpuskularstrahlung werden manchmal als Oberbegriffe für Strahlung verwendet, deren Bestandteile eine von Null verschiedene Masse haben.
+Teilchenstrahlung unterscheidet man nach der Sorte der Teilchen, aus denen sie besteht, beispielsweise Alphastrahlung (α-Teilchen), Betastrahlung (Elektronen oder Positronen) oder Neutronenstrahlung. Handelt es sich um Ionen, ist auch (gelegentlich) von Ionenstrahlung die Rede.
+
+
+=== Herkunft ===
+Strahlung lässt sich nach Entstehungsmechanismus und nach -ort unterscheiden. Im Folgenden einige Beispiele:
+Bei Strahlung aus dem Weltraum unterscheidet man beispielsweise Sonnenstrahlung, kosmische Strahlung, Hintergrundstrahlung und Hawking-Strahlung.
+Strahlung, die von radioaktiven Stoffen ausgeht, wird häufig fälschlicherweise als radioaktive Strahlung bezeichnet, obwohl nicht die Strahlung radioaktiv ist, sondern der emittierende Stoff. Die Strahlung aufgrund der natürlichen Radioaktivität der Erde heißt terrestrische Strahlung.
+Technisch erzeugte Strahlung kann auch eigenständige Bezeichnungen erhalten, etwa Kathodenstrahlung oder Synchrotronstrahlung.
+
+
+=== Wirkung ===
+
+
+==== Ionisierende Strahlung ====
+Ist die Energie der Strahlungsteilchen so hoch, dass sie aus Atomen oder Molekülen Elektronen entfernen kann, wird die Strahlung als ionisierende Strahlung bezeichnet. Elektromagnetische Wellen in diesem Energiebereich geben oft beim ersten Stoß einen Großteil ihrer Energie ab. Für die Energie- und Materialabhängigkeit siehe Massenschwächungskoeffizient. Geladene Teilchen mit hoher Energie geben diese beim Durchgang durch Materie in vielen kleinen Portionen ab. Für die Energie- und Materialabhängigkeit siehe Bremsvermögen.
+
+
+==== „Harte“ und „weiche“ Strahlung ====
+Bei verschiedenen Strahlenarten, zum Beispiel Röntgen-, Gamma- und auch Betastrahlung, wird manchmal von „harter“ (hier gleichbedeutend mit energiereicher, kurzwelliger) oder „weicher“ (energieärmerer, langwelligerer) Strahlung gesprochen. Genaue Abgrenzungen dieser Begriffe gibt es aber nicht. Von Harter Röntgenstrahlung wird beispielsweise in der Röntgenoptik gesprochen, wenn in etwa die Wellenlänge kürzer ist als der Abstand der Atome im Festkörper, also im Bereich 0,01 bis ca. 0,5 nm.
+
+
+== Siehe auch ==
+Strahlendosis / Dosimeter
+Strahlenschutz / Geschichte des Strahlenschutzes / Strahlenschaden / Strahlenexposition (Strahlenbelastung)
+Strahlenresistenz / Strahlentherapie / Strahlenkrankheit
+
+
+== Literatur ==
+Richard P. Feynman, Robert B. Leighton, Matthew Sands: Feynman – Vorlesungen über Physik 2. Strahlung und Wärme, Walter de Gruyter GmbH, Berlin 2015, ISBN 978-3-11-036770-6.
+Stephan Kabelac: Thermodynamik der Strahlung. Springer Fachmedien, Wiesbaden 1994, ISBN 978-3-663-12475-7.
+Christian Streffer: Strahlen-Biochemie. Springer Verlag, Berlin/Heidelberg 1969.
+
+
+== Weblinks ==
+
+Literatur von und über Strahlung im Katalog der Deutschen Nationalbibliothek
+Grundlageninfos zur Strahlung (abgerufen am 16. September 2016)
+Was ist Strahlung (abgerufen am 16. September 2016)
+Eigenschaften-ionisierender-Strahlung (Memento vom 9. November 2016 im Internet Archive) (abgerufen am 16. September 2016)

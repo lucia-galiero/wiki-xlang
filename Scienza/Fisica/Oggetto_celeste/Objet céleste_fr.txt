@@ -1,0 +1,207 @@
+Un objet céleste, ou corps céleste, est un objet quelconque de l'Univers.
+Le terme « astre » est proche, mais est rarement utilisé en astronomie pour les galaxies, les amas d’étoiles ou les nébuleuses. En astrophysique, un objet est génériquement une structure aussi bien compacte (par exemple étoile, trou noir), que diffuse (nuage moléculaire) ou composée (étoile binaire, galaxie, amas ouvert).
+
+
+== Liste d'objets célestes ==
+Des précisions sur les objets listés ci-dessous sont données dans les articles concernés.
+
+
+== Type d'objets selon la nature physique ==
+
+
+=== Objets du Système solaire ===
+La classification primaire des objets du Système solaire fait intervenir des critères qui se ramènent, en première approche, à considérer leur taille et le type de corps qu'ils orbitent. Ces classes d'objets sont ensuite subdivisées en fonction de critères de composition, de localisation ou de propriétés observationnelles.
+Ces classes d'objets peuvent se rencontrer hors du Système solaire ; toutefois, l'état actuel des techniques d'observation n'ont permis jusqu'à présent que de détecter avec certitude des exoplanètes de taille supérieure à celle de la Terre.
+
+
+==== Objets orbitant autour du Soleil ====
+
+
+===== Planètes =====
+
+Une planète est un corps qui n'est pas un satellite, possède une masse suffisante pour que sa gravité l'emporte sur les forces de cohésion du corps solide et le maintienne en équilibre hydrostatique et/ou sous forme quasi sphérique, et a éliminé tout corps se déplaçant sur une orbite proche. La taille d'une planète est de l'ordre de 3 000 km et plus. On distingue deux types de planètes :
+
+les planètes telluriques structurées en une croûte, un manteau et un noyau : Mercure, Vénus, la Terre et Mars. La croûte et le manteau sont constituées de roches silicatées (mais de compositions très différentes), et le noyau d'un métal (essentiellement composé de fer) ;
+les planètes géantes essentiellement composées d'éléments et de molécules légers (dihydrogène, hélium, eau, méthane, ammoniac) : Jupiter, Saturne, Uranus et Neptune.
+Par ailleurs, on peut parler de planète double concernant une planète et son satellite (lune) lorsque le centre de gravité du système binaire n'est pas situé à l'intérieur d'un des deux corps, comme c'est le cas pour le couple Pluton/Charon, ou pour des couples d'objets de masses similaires, comme dans le cas du Système Terre/Lune.
+
+
+===== Planètes naines =====
+
+Une planète naine est un corps qui n'est pas un satellite, possède une masse suffisante pour que sa gravité l'emporte sur les forces de cohésion du corps solide et le maintienne en équilibre hydrostatique et/ou sous forme sphérique, mais n'a pas, au contraire d'une planète, éliminé les corps se déplaçant sur une orbite proche. Les planètes naines confirmées sont, par ordre décroissant de taille : Éris, Pluton, Cérès. Une douzaine d'autres corps connus, dont Charon, ont un diamètre estimé entre 800 km et 3 000 km, ils vérifient probablement le critère de sphéricité nécessaire à cette classification.
+Cette catégorie d'objets a été définie en 2006 afin de pallier des incohérences de classification : Pluton était traditionnellement considérée comme une planète tandis que des objets transneptuniens de taille similaire ou plus gros (Éris) étaient catégorisés comme astéroïdes.
+
+
+===== Petits corps du Système solaire =====
+
+
+====== Astéroïdes ======
+
+Un astéroïde est un corps orbitant autour du soleil plus petit qu'une planète naine (typiquement moins de 800 km), c'est-à-dire qu'il ne possède une masse suffisante pour que sa gravité l'emporte sur les forces de cohésion du corps solide et le maintienne en équilibre hydrostatique et/ou sous forme sphérique, mais il est plus grand qu'un météoroïde (de l'ordre de 10 m au moins). Il ne doit pas s'agir d'une comète.
+Les principaux groupements d'astéroïdes sont les suivants :
+
+les astéroïdes de la ceinture principale entre Mars et Jupiter ;
+les astéroïdes troyens situés aux points de Lagrange L4 et L5 d'une planète, pour la plupart de Jupiter ;
+les astéroïdes transneptuniens dans la ceinture de Kuiper ;
+les centaures entre les planètes géantes ;
+les astéroïdes géocroiseurs qui intersectent l'orbite terrestre ;
+les damocloïdes aux orbites excentriques typiques des comètes.
+On classifie aussi les astéroïdes selon leurs propriétés spectrales. Les trois principaux types sont, par ordre d'occurrence décroissant :
+
+les astéroïdes de type C, de composition solaire, d'albédo très faible (0,03) et de spectre bleu ;
+les astéroïdes de type S, riches en fer, nickel et magnésium, d'albédo élevé (0,10–0,22) et de spectre rouge ;
+les astéroïdes de type M, composé d'alliage de fer et nickel, brillants (albédo 0,10–0,18).
+Un système astéroïdal consiste en plusieurs astéroïdes orbitant autour d'un centre de gravité commun. Un exemple est le système triple composé de (87) Sylvia et ses deux satellites naturels Romulus et Rémus.
+
+
+====== Comètes ======
+
+Une comète est un corps orbitant autour du soleil de même catégorie de taille qu'un astéroïde, mais qui présente en plus une chevelure (halo) et/ou une traînée lumineuse (queue) au voisinage de son périhélie. Les comètes ont généralement des orbites excentriques, elliptique pour les comètes périodiques. Parmi celles-ci, on distingue :
+
+les comètes à courte période (moins de 200 ans) que l'on pense issues de la ceinture de Kuiper ;
+les comètes à longue période (plus de 200 ans) supposées venir du nuage d'Oort.
+Les comètes les plus connues sont la comète de Halley (visible à l'œil nu tous les 75 à 76 ans), Hale-Bopp (visible à l'œil nu en 1996-1997), Hyakutake (la grande comète de 1996, elle aussi visible à l'œil nu), Comète Shoemaker-Levy (qui s'est écrasée sur Jupiter).
+
+
+====== Météoroïde ======
+
+Un météoroïde est un corps céleste d'au plus quelques dizaines de mètres de diamètre. Les météoroïdes se transforment en météores lorsqu'ils pénètrent dans l'atmosphère terrestre et, parfois, donner une météorite. On distingue :
+
+les chondrites, constituées d'un mélange de silicates et de métal et formées de sphères millimétriques ;
+les météorites différentiées parmi lesquels :
+les sidérites, principalement composées d'un alliage de fer et de nickel,
+les achondrites, pierreuses comprenant moins de 35 % de métal, lequel se concentre dans le centre du météoroïde ;
+les météorites non groupées qui n'entrent pas dans la classification ci-dessus.
+
+
+==== Satellites naturels ====
+
+
+===== Lunes =====
+
+Une lune est un satellite naturel d'une planète. La plupart des lunes orbitent autour des quatre planètes géantes qui en possèdent 157 confirmées ; Mars et la Terre en ont respectivement 2 et 1 ; Mercure et Vénus n'en sont pas dotées. Les lunes d'un diamètre supérieur à 2000 km sont :
+
+la Lune, autour de la Terre ;
+Ganymède, Callisto, Io et Europe, satellites naturels de Jupiter ;
+Titan, satellite naturel de Saturne ;
+Triton, satellite naturel de Neptune.
+
+
+===== Lunes astéroïdales =====
+Une lune astéroïdale est un objet de type astéroïdal orbitant autour d'un astéroïde (ou d'une planète naine ?). On connaît environ 80 lunes astéroïdales, dont les plus grandes sont des objets transneptuniens :
+
+Hiʻiaka (S/2005 (136108) 1) et Namaka (S/2005 (136108) 2) : 310 km et 170 km, autour de (136108) Hauméa ;
+S/2005 (79360) 1 : 292 km, autour de (79360) Sila-Nunam (1997 CS29) ;
+S/2004 (139775) 1 : 265 × 160 × 150 km, autour de (139775) 2001 QG298 ;
+S/2005 (82075) 1 : 237 km, autour de (82075) 2000 YW134.
+
+
+=== Objets hors du Système solaire ===
+
+
+==== Objets de type stellaire ====
+
+
+===== Objets de masse stellaire =====
+Une étoile est un astre compact suffisamment massif (0,08–120 masses solaires) pour entretenir une réaction de fusion nucléaire en son sein. Les étoiles les plus proches sont : le Soleil, et Proxima Centauri. On distingue les étoiles selon leur stade évolutif :
+
+une étoile jeune est une étoile en formation, généralement entourée d'une quantité importante de matière circumstellaire ;
+une étoile de la séquence principale est une étoile qui brûle l'hydrogène en hélium dans son cœur. Les étoiles passent la majorité de leur vie sur la séquence principale ;
+une étoile évoluée est une étoile ayant épuisé l'hydrogène dans son cœur et brûle des éléments plus lourds.
+On les distingue aussi par leur type spectral qui donne une idée de leur température de surface, par exemple sur la séquence principale :
+
+naines rouges (types K et M) ;
+naines jaunes (types F et G) ;
+et la classe de luminosité qui donne une indication sur leur gravité de surface et, indirectement, leur luminosité et leur taille :
+
+étoiles sous-naines (classe VI) ;
+étoiles naines (classe V) ;
+étoiles sous-géantes (classe IV) ;
+étoiles géantes (classe III) ;
+étoiles géantes lumineuses (classe II) ;
+étoiles supergéantes (classe Ia et Ib).
+Une naine blanche.
+Une étoile à neutrons.
+Un trou noir stellaire.
+
+
+===== Objets de masse substellaire =====
+Une naine brune est un astre trop peu massif pour entretenir des réactions de fusion de l'hydrogène (moins de 0,08 masse solaire) mais suffisamment pour brûler du deutérium (plus de 13 masses joviennes). On distingue les naines brunes selon quatre types spectraux donnant une indication sur leur température de surface : naines M, L et T (observées) et Y (prévues par les modèles).
+Un objet libre de masse planétaire ou planémo est un astre de masse insuffisante pour initier une réaction de fusion de l'hydrogène et du deutérium (moins de 13 masses joviennes) mais suffisamment massif pour avoir une forme quasi sphérique imposée par la gravité (800 km de diamètre). Le concept de planémo comprend dans le Système solaire les planètes, planètes naines et certains satellites d'icelles et en dehors de celui-ci les exoplanètes. Il s'agit dans ce cas d'objets qui sont formés selon le scénario de formation planétaire dans un disque d'accrétion, à proximité d'un objet central plus massif. Il peut aussi s'agir d'objets ne gravitant pas autour d'un compagnon plus massif, probablement formés de même manière que les étoiles dans un processus de contraction et fragmentation d'un nuage moléculaire, ils sont alors appelés objets libres de masse planétaire : un exemple est le système binaire Oph 162225-240515.
+
+
+==== Systèmes d'étoiles ====
+étoile multiple
+association stellaire
+amas ouvert
+amas globulaire
+
+
+==== Exoplanètes et exolunes ====
+exoplanètes
+planète tellurique
+planète de silicates
+planète de carbone
+planète métallique
+planète océan (et ses variantes planète glacée et planète sauna suivant la température)
+planète sans noyau
+super-Terre
+planète géante gazeuse
+planète jovienne
+Jupiter chaud
+Jupiter froid
+planète géante de glaces
+mini-Neptune
+Neptune chaud
+Neptune froid
+planète chthonienne
+exolunes (satellites d'exoplanètes)
+
+
+==== Milieu interstellaire ====
+nuage moléculaire
+région HII
+nébuleuse planétaire
+
+
+==== Galaxies ====
+galaxie naine
+galaxie naine irrégulière
+galaxie naine elliptique
+galaxie naine spirale
+galaxie
+galaxie spirale
+galaxie elliptique
+galaxie irrégulière
+noyau actif de galaxie
+quasar
+galaxie de Seyfert
+blazar
+trou noir supermassif
+
+
+==== Système de galaxies ====
+amas de galaxies
+superamas de galaxies
+
+
+== Type d'objet selon la propriété observationnelle ==
+
+
+=== Source radio ===
+
+Pulsar
+Quasar
+
+
+=== Source gamma ===
+Sursaut gamma
+
+
+=== Source gravitationnelle ===
+Trou noir binaire
+
+
+== Références ==
+
+ Portail de l’astronomie

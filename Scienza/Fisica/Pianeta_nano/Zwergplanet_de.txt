@@ -1,0 +1,116 @@
+Zwergplaneten sind eine von der Internationalen Astronomischen Union (IAU) am 24. August 2006 in Prag definierte Klasse von Himmelskörpern im Sonnensystem. Seit 2008 wurden fünf Himmelskörper offiziell als Zwergplaneten klassifiziert, es gibt jedoch einige hundert weitere Objekte im Sonnensystem, die noch für eine solche Einstufung infrage kommen.
+
+
+== Definition ==
+
+
+=== Begriffsgeschichte ===
+Bis in die 1980er Jahre teilte man die größeren Objekte, die die Sonne umkreisen, in zwei Klassen ein: zum einen neun Planeten, zum anderen die Asteroiden (Planetoiden), die sich vor allem im Asteroidengürtel zwischen Mars und Jupiter befinden und von denen Ceres mit Abstand der größte ist.
+Unter Planeten galt Pluto als Außenseiter. Nach seiner Entdeckung 1930 war er jahrzehntelang das einzige bekannte Objekt jenseits des Neptun, abgesehen von Kometen. Wegen seiner stark elliptischen und sehr geneigten Umlaufbahn und seiner geringen Größe kam die Frage auf, ob er überhaupt die Bezeichnung „Planet“ verdiente. Die Frage wurde akut, als man ab 1992 weitere Objekte im Kuipergürtel entdeckte, vor allem  Quaoar im Jahr 2002 mit über 1000 km Durchmesser und 2005 Eris, die zunächst sogar größer als Pluto zu sein schien und von den Medien häufig als „zehnter Planet“ bezeichnet wurde. Eine wissenschaftliche Begriffsbestimmung eines Planeten musste gefunden werden.
+Es gab Vorschläge, solche großen Objekte (und auch Ceres) zu Planeten zu erklären. Damit wäre deren Zahl stark angestiegen. Sogar Plutos Trabant Charon wurde für den Planetenstatus vorgeschlagen, weil deren gemeinsamer Schwerpunkt außerhalb von Pluto liegt.
+
+
+=== Definition ===
+Schließlich befasste sich die IAU mit dieser Frage und beschloss auf ihrer Konferenz am 24. August 2006 in Prag die heutige Definition von „Planet“.
+Zugleich wurde die neue Kategorie „Zwergplanet“ geschaffen. Insgesamt wurden für die Objekte des Sonnensystems, die keine Satelliten (Monde) sind, drei Kategorien festgelegt:
+
+Ein Planet ist ein astronomisches Objekt, das
+(a) sich auf einer Bahn um die Sonne befindet,
+(b) über eine ausreichende Masse verfügt, um durch seine Eigengravitation eine annähernd runde Form (hydrostatisches Gleichgewicht) zu bilden und
+(c) die Umgebung seiner Bahn bereinigt hat (es befinden sich keine anderen Objekte in seiner Bahn)
+Ein Zwergplanet hat dieselben Eigenschaften wie ein Planet, außer dass er seine Bahn nicht bereinigt hat.
+Kleinkörper sind alle anderen Objekte (die meisten Asteroiden, transneptunischen Objekte (TNOs), Kometen und andere Kleinkörper des Sonnensystems), die sich auf einer Bahn um die Sonne befinden.
+Einige natürliche Satelliten (Monde) sind so groß, dass sie rund sind. Sie fallen aber nicht in die o. g. Kategorien, weil sie nicht die Sonne direkt umkreisen, sondern einen anderen Bezugskörper.
+Plutoiden sind eine Unterklasse der Zwergplaneten, die auf Umlaufbahnen außerhalb der Neptunbahn um die Sonne kreisen und somit zu den transneptunischen Objekten (TNO) zählen. Die ursprüngliche Bezeichnung Plutone stieß vor allem in der Gemeinde der Geoforscher, die den Begriff bereits anderweitig verwenden (siehe Pluton (Geologie)), auf Widerspruch und wurde verworfen. Die Form „Plutoid“ (mit griechischer Nachsilbe) wurde im Juni 2008 vom Exekutivkomitee beschlossen.
+
+
+=== Kritik an der Definition ===
+Die Abgrenzung zwischen Planeten und Zwergplaneten allgemein und zur Definition von Zwergplaneten ist nicht unumstritten.
+
+
+==== Art der Beschlussfassung ====
+Gegen die in Prag beschlossene Planetendefinition regte sich sofort Kritik von Astronomen. Eine Expertenkommission hatte im Vorfeld der Konferenz eine Definition erarbeitet, die eine Erhöhung der Planetenanzahl auf 12 vorsah. Dies wurde nach hitzigen Diskussionen zugunsten der schließlich verabschiedeten Definition verworfen. Hauptkritikpunkte an der verabschiedeten Definition waren:
+
+Die Abstimmung sei erst am letzten Tag der Konferenz erfolgt, als von 2500 angereisten Astronomen der IAU nur noch 424 Delegierte anwesend gewesen seien.
+Die Definition sei „schlampig“ erarbeitet, da nach ihr auch Erde, Mars, Jupiter und Neptun ihren Planetenstatus verlieren müssten, denn diese Körper erfüllten nicht den Punkt 3 der Definition, der Pluto den Planetenstatus gekostet habe. Im Sonnenorbit der Erde befänden sich rund 10.000 Asteroiden, in dem des Jupiters sogar um die 100.000.
+Eine Gruppe von Astronomen verfasste deswegen eine Petition, in der sie die Aufhebung dieser Definition und eine neue Abstimmung forderten. Bis zu ihrer Schließung am 31. August 2006 fand dieser Antrag 305 Unterschriften.
+
+
+==== Abgrenzung zu Planeten ====
+Die Abgrenzung zwischen Planeten und Zwergplaneten gemäß dem Kriterium der bereinigten Umgebung wird als unscharf kritisiert. So hat beispielsweise die Erde, klassifiziert als Planet, immer noch etwa zehntausend Objekte in ihrer Bahn. Auch in Jupiters Orbit befinden sich noch viele Objekte (Trojaner).
+Zu Gunsten der beschlossenen Definition kann die von Steven Soter eingeführte planetarische Diskriminante genannt werden. Sie gibt das Verhältnis der Masse eines Körpers zu der Masse der sonstigen Objekte in seiner Umlaufbahn an, sofern es sich dabei um keine Monde oder resonant umlaufende Himmelskörper handelt. Aufgrund einer planetarischen Diskriminante von 1.700.000 beherrscht die Erde ihre Umlaufbahn mehr als jeder andere Planet des Sonnensystems. Ebenfalls sehr dominant sind Jupiter (625.000) und Venus. Von den acht Planeten besitzt Mars die kleinste planetarische Diskriminante. Mit 5.100 ist sie aber immer noch deutlich größer als die größte Diskriminante eines Zwergplaneten. Bei Ceres beträgt deren Wert 0,33 und bei Pluto gar nur 0,077.
+
+
+==== Abgrenzung zu Kleinkörpern ====
+Laut Definition hat ein Zwergplanet „so viel Masse, dass seine Eigengravitation die Festkörperkräfte überwindet und seine Form dem hydrostatischen Gleichgewicht (näherungsweise rund) entspricht.“ Idealerweise hätte er also die Form einer Kugel (wenn er nicht rotiert) bzw. eines Ellipsoids (durch die Zentrifugalkraft der Rotation). Dieses Kriterium legt aber nicht fest, wie stark die Form eines Objekts von dieser Idealform abweichen kann, um dennoch rund genug – im Sinne der Definition – zu sein. Es gibt auch keine Aussage über Objekte, die nach heutigem Wissen bei ihrer Entstehung in einem hydrostatischen Gleichgewicht waren, später erkalteten und seitdem durch Einschläge von anderen Objekten ihre runde Gestalt wieder verloren haben.
+
+
+==== Anwendbarkeit ====
+Die Beurteilung der Rundheit nach der äußeren Form verursacht in der Praxis ein Problem, das sich aus der Ferne nur schwer lösen lässt. Die Masse von Objekten lässt sich zwar in vielen Fällen durch Beobachtungen der Bahnstörungen näherungsweise bestimmen, durch Radarmessungen oder Beobachtung von Okkultationen lässt sich auch der Durchmesser zumindest näherungsweise bestimmen. Die Rundheit lässt sich jedoch nicht direkt aus Masse und Durchmesser herleiten. Es gibt zwar einen Zusammenhang zwischen viel Masse, großem Durchmesser und Rundheit, es gibt jedoch auch Objekte, die verhältnismäßig massereich sind, aber nicht rund wie Asteroid Vesta oder der Mond Proteus (mittlerer Durchmesser 428 km). Andererseits gibt es Objekte, die einen vergleichsweise kleinen Durchmesser und wenig Masse haben und trotzdem rund oder annähernd rund sind wie die Monde Mimas (mittlerer Durchmesser 397 km) und der Grenzfall Miranda. Ob sich ein Körper im hydrostatischen Gleichgewicht befindet (oder zur Zeit der Entstehung befand), hängt vom Material ab, aus dem der Körper besteht, und von der Temperatur, die im Inneren des Objekts bei der Entstehung herrschte. Objekte, die hauptsächlich aus Eisen oder Gestein bestehen, kommen schwerer in ein hydrostatisches Gleichgewicht als Objekte, die Flüssigkeiten oder plastische Materialien enthalten wie Wassereis, Methaneis, Kohlenmonoxideis, Stickstoffeis oder andere tiefschmelzende Materialien. Die Überprüfung der Rundheit benötigt eine Beobachtung aus verhältnismäßig kurzer Entfernung, sie wird durch eine sehr dunkle oder kontrastreiche Oberfläche des Objekts weiter erschwert.
+
+
+==== Beschränkung auf das Sonnensystem ====
+Die IAU-Definition bezieht sich bislang ausschließlich auf das Sonnensystem und nicht generell auf Planetensysteme.
+
+
+==== Alternativvorschläge ====
+Eine umfassende Kritik an obiger (Zwerg-)Planeten-Definition modifiziert das Kriterium (a), hält aber das Kriterium (c) für schlecht begründbar. Es stehe nicht im Einklang mit der Tradition und sei in jedem Fall bereits auf die Planeten 1–8 zugeschnitten. Es wird die Empfehlung ausgesprochen, zu einer geophysikalischen Planetendefinition zurückzukehren. Der zufolge „sind Planeten substellare Objekte, in denen nie eine Kernfusion gezündet hat und die über ein hydrostatisches Gleichgewicht verfügen“. Entscheidend sei, dass keine Bahnparameter oder Bahneigenschaften in diese Definition eingehen.
+Hierdurch würde jedoch nicht nur Pluto wieder in die Reihe der Planeten aufgenommen, sondern auch über hundert weitere Objekte des Sonnensystems (größere Monde und Zwergplaneten). Außerdem erhöbe sich die Frage, ob auch Braune Zwerge den Planeten zuzurechnen wären.
+
+
+== Klassifizierte Zwergplaneten ==
+Üblicherweise werden astronomische Objekte von den Wissenschaftlern klassifiziert, die sie entdeckt oder weitergehend untersucht haben. Für die Zwergplaneten hingegen hat sich die IAU das alleinige Recht vorbehalten, zu bestimmen, welche Objekte zu dieser Klasse gehören.
+Seit der Definition der Klasse der Zwergplaneten wurden fünf Himmelskörper von der IAU als Zwergplaneten eingestuft. Die Daten der Objekte sind in der Liste der Zwergplaneten des Sonnensystems aufgeführt.
+
+
+=== Zwergplanet im Asteroidengürtel ===
+
+Ceres
+Mit seiner Kugelform und einem Äquatordurchmesser von 963 km ist Ceres der einzige Zwergplanet im Asteroidengürtel.
+Ceres wurde nach der Entdeckung durch Giuseppe Piazzi im Jahre 1801 zunächst als Planet klassifiziert. Bis zur Entdeckung von Neptun im Jahre 1846 wurden Pallas, Juno, Vesta und Astraea entdeckt, die damals als vollwertige Planeten zählten. Damit gab es im Jahre 1846 insgesamt 13 Planeten. Weil ab 1847 laufend neue Objekte zwischen Mars und Jupiter entdeckt wurden, führten Astronomen 1851 die neue Kategorie der Asteroiden (Planetoiden) ein. Ceres, Pallas, Juno, Vesta und Astraea wurden seitdem als Asteroiden geführt, die Zahl der großen Planeten belief sich danach wieder auf acht.
+
+
+=== Transneptunische Zwergplaneten (Plutoiden) ===
+
+Pluto
+Er wurde 1930 entdeckt und galt 76 Jahre lang als neunter Planet des Sonnensystems. Er hat einen Äquatordurchmesser von 2374 km und verfügt über fünf Monde, wovon der größte, Charon, den halben Plutodurchmesser hat. 2006 wurde der Status eines Planeten aberkannt, weil er nicht das dominierende Objekt in seiner Umlaufbahn ist.
+
+Eris
+Das am 29. Juli 2005 bekannt gemachte Objekt Eris ist mit einem Äquatordurchmesser von 2326 km minimal kleiner, aber etwas schwerer als Pluto. Die Entdeckung von Eris war der Anlass für die Definition von „Planet“ und die Schaffung der neuen Kategorie der Zwergplaneten im Jahr 2006.
+
+Makemake
+Am 14. Juli 2008 wurde dem Kuipergürtel-Objekt 2005 FY9  mit einem Äquatordurchmesser von 1502 km der Name Makemake und der Status eines Zwergplaneten zugewiesen.
+
+Haumea
+Am 17. September 2008 wurde dem Kuiperobjekt 2003 EL61 der Name Haumea und der Status eines Zwergplaneten zugewiesen. Wegen seiner schnellen Rotation hat er mit einem Äquatordurchmesser von etwa 2200 km bei einem Abstand der Pole von nur etwa 1100 km eine stark ellipsoide Form.
+
+
+== Kandidaten ==
+Die Abhängigkeit von der Beantwortung der Frage nach der Rundheit beziehungsweise dem hydrostatischen Gleichgewicht führt in der Praxis dazu, dass sich eine weitere Gruppe von Objekten bildet, bei denen die Rundheit nur mit einer gewissen Wahrscheinlichkeit angenommen oder zumindest nicht ausgeschlossen werden kann, die jedoch auch mit den neuesten vorhandenen Mitteln bisher nicht bewiesen werden konnte. Diese Gruppe bildet nun die Gruppe der Zwergplanetenkandidaten, im Englischen possible dwarf planets genannt. Es gibt insbesondere im Kuipergürtel und darüber hinaus eine wachsende Zahl von Objekten, die mit den bisherigen Mitteln nicht eindeutig klassifiziert werden können. Viele dieser Objekte sind offiziell noch nicht benannt.
+Die Hauptgürtel-Asteroiden sind, von Ceres abgesehen, nur unregelmäßig geformte Felsbrocken. Eine Ausnahme bildet das mit 434 km Durchmesser viertgrößte Objekt im Asteroidengürtel Hygiea. Sie ist nach Beobachtungen der Europäischen Südsternwarte annähernd kugelförmig und würde damit ebenfalls die Kriterien zur Einstufung als Zwergplanet erfüllen.
+Der Astronom Mike Brown war an der Entdeckung zahlreicher Zwergplaneten und Zwergplanetenkandidaten beteiligt. Er treibt die Debatte der Kandidaten unter der Überschrift Free the dwarf planets weiter als die IAU. Er unterscheidet die Zwergplanetenkandidaten anhand ihres Durchmessers in fünf verschiedene Gruppen mit unterschiedlich großer Wahrscheinlichkeit. Am 5. Mai 2023 zählten dazu im äußeren Sonnensystem (also ohne Ceres und die übrigen Objekte im Asteroidengürtel, aber einschließlich der 4 anerkannten Zwergplaneten) insgesamt 741 Objekte, wie im Folgenden aufgelistet:
+
+10 Objekte mit Durchmesser über 800 km, die mit an Sicherheit grenzender Wahrscheinlichkeit Zwergplaneten sind (nearly certainly dwarf planets). Neben den vier anerkannten Zwergplaneten Pluto, Eris, Makemake und Haumea sind dies Gonggong, Quaoar, Sedna, Orcus, 2002 MS4 und Salacia.
+17 weitere (kumuliert 27) Objekte mit Durchmesser über 600 km, die höchstwahrscheinlich Zwergplaneten sind (highly likely to be dwarf planets). In dieser Gruppe befinden sich Varuna, 2002 AW197, 2003 AZ84, 2013 FY27, 2002 UX25, 2004 GV9, 2005 RN43, 2014 UZ224, Varda, Ixion, 2005 UQ513, 2018 VG18, 2014 EZ51, 2015 RR245, Gǃkúnǁʼhòmdímà, Chaos, 2010 RF43.
+41 weitere (kumuliert 68) Objekte mit Durchmesser über 500 km, die wahrscheinlich Zwergplaneten sind (likely to be dwarf planets).
+62 weitere (kumuliert 130) Objekte mit Durchmesser über 400 km, die mit einer gewissen Wahrscheinlichkeit Zwergplaneten sind (probably dwarf planets).
+611 weitere (kumuliert 741) Objekte mit Durchmesser über 200 km, die möglicherweise Zwergplaneten sind (possibly dwarf planets).
+
+
+== Siehe auch ==
+Liste der Zwergplaneten des Sonnensystems
+Liste von transneptunischen Objekten
+
+
+== Literatur ==
+Silvia Protopapa: Surface characterization of Pluto, Charon and (47171) 1999 TC36. Dissertation, Technische Universität Braunschweig 2009, 143 Seiten (englisch). Copernicus Publishing, Katlenburg-Lindau 2009, ISBN 978-3-936586-96-1.
+
+
+== Weblinks ==
+
+Pressemitteilung der IAU über die Planetendefinition (englisch)
+Zwangsabstieg für Pluto – Artikel bei faz.net
+How many dwarf planets are there in the outer solar system? – Liste der Zwergplaneten und ‑kandidaten von Michael E. Brown, wird regelmäßig aktualisiert
+
+
+== Einzelnachweise ==

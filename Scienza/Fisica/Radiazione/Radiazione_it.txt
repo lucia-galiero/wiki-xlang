@@ -1,0 +1,51 @@
+Con radiazione, in fisica, si indica generalmente il trasporto di energia nello spazio senza movimento di corpi macroscopici e senza il supporto di mezzi materiali. Le radiazioni, in base al loro comportamento prevalente, possono essere corpuscolari (particelle sub-atomiche dotate di massa che si muovono a velocità prossime a quella della luce) o elettromagnetiche (fotoni).
+
+
+== Descrizione ==
+Caratteristica comune a quasi tutti i tipi di radiazione (luminosa, termica, etc.) è la cessione di energia alla materia. Questa "cessione" di energia può essere spiegata, nel caso di radiazioni corpuscolari, considerando l'energia cinetica posseduta dalle particelle che compongono la relativa radiazione; la particella, a contatto con la materia, può cederle la propria energia cinetica, generalmente sotto forma di energia termica e luminosa.
+Un particolare tipo di radiazione è costituito dalle onde elettromagnetiche, caratterizzate da una velocità finita e costante nel vuoto, pari a circa 299792 km/s (valore arrotondato spesso in 3×108 m/s), indicata con c, da una particolare frequenza e dalla sua lunghezza d'onda, indicata con il simbolo λ (lambda); la frequenza f è definita come il numero di lunghezze d'onda che passano in un secondo per un determinato punto dello spazio, ed è possibile ricavarlo numericamente considerando la relazione:
+
+  
+    
+      
+        f
+        =
+        
+          
+            c
+            λ
+          
+        
+      
+    
+    {\displaystyle f={\frac {c}{\lambda }}}
+  
+
+Questa relazione è sempre valida in quanto c è una costante.
+Tanto più alto è il valore della frequenza dell'onda, tanto minore è la sua lunghezza d'onda, quindi la velocità della luce risulta costante per ogni radiazione elettromagnetica nel vuoto. La luce visibile (o meglio, la luce visibile per l'occhio umano) è la radiazione elettromagnetica con lunghezza d'onda che va dai circa 380 nm del violetto ai circa 760 nm del rosso.
+
+L'assorbimento di energia da parte della materia può causare un aumento locale di temperatura, cosa che viene sfruttata nel caso del riscaldamento dei pannelli solari da parte della luce del Sole. Se l'energia della radiazione incidente sulla materia è sufficiente a ionizzarne gli atomi, la radiazione si chiama ionizzante.
+Se la radiazione ionizzante investe un tessuto biologico può creare danni biologici, agendo sul DNA e impedendogli di riprodursi in modo corretto.
+La cessione di energia all'uomo da parte delle radiazioni ionizzanti avviene attraverso irradiazione esterna o interna. Si parla di esposizione o irradiazione esterna quando la fonte di radiazioni è all'esterno del corpo umano. Si ha esposizione interna quando la sorgente di radiazione è introdotta nel corpo umano, ciò che successe ad Alexander Litvinenko il quale, pur ucciso da avvelenamento chimico con polonio, ne subì il notevole irraggiamento.
+Una fonte di radiazioni ionizzanti deriva dall'instabilità atomica e/o nucleare di alcuni elementi. Gli elementi presenti in natura che hanno questa instabilità sono rintracciabili facilmente sulla tavola periodica degli elementi, ed in particolare sono tutti gli elementi che hanno numero atomico (Z) uguale o superiore a 84, ovvero a partire dal polonio. Vi sono poi isotopi di altri elementi anche con numero atomico inferiore che sono radioattivi e sono prodotti dall'uomo, il caso più comune è il 60Co prodotto dal 59Co nei reattori nucleari per aggiunta di un neutrone. Il 60Co, con un decadimento beta si trasforma in 60Ni ed emette due fotoni di energia 1,17 e 1,33 MeV che vengono utilizzati in svariati campi quali ad esempio quello militare (bomba al cobalto) o industriale (trattamenti di alimenti, di materiali, sterilizzazioni...).
+In genere, la trasformazione di tali elementi in altri elementi più stabili avviene attraverso l'emissione di raggi α o β accompagnati inoltre dall'emissione di raggi γ. Gli elementi che presentano tali caratteristiche sono detti elementi radioattivi ed il processo di emissione di radiazioni è detto decadimento radioattivo.
+
+
+== Voci correlate ==
+Radioattività
+Radiazione di sincrotrone
+Radiazione elettromagnetica
+Radiazioni ionizzanti
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «radiazione»
+ Wikimedia Commons contiene immagini o altri file su radiazione
+
+
+== Collegamenti esterni ==
+
+ radiazione, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+(EN) Myron Luntz, Asokendu Mozumder, Arthur Canfield Upton, Joseph Silverman, Milton Burton e Cornelius A. Tobias, radiation, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) Radiazione, su The Encyclopedia of Science Fiction.

@@ -1,0 +1,257 @@
+Il neutrone è una particella subatomica composita (non elementare) con carica elettrica netta pari a zero, costituita da un quark up e due quark down. In quanto formato da quark appartiene alla famiglia degli adroni, in particolare al gruppo dei barioni, con numero barionico +1. Avendo spin semi-intero (½ 
+  
+    
+      
+        ℏ
+      
+    
+    {\displaystyle \hbar }
+  
+) è un fermione. Il suo simbolo è n, mentre il numero di neutroni presenti in un dato nucleo atomico ha simbolo N e corrisponde alla differenza tra il numero di massa A e il numero atomico Z.
+I neutroni, insieme ai protoni, entrano a far parte di tutti i nuclei degli elementi chimici, facendo sì che esistano gli isotopi di un elemento, che differiscano solo per il numero di neutroni nel loro nucleo; fa eccezione il nucleo più semplice, il prozio, primo isotopo dell'idrogeno, che contiene solo un protone ed è stabile. Eccetto questo caso, la presenza dei neutroni è essenziale per la loro stabilità. Il numero di neutroni negli isotopi stabili di un elemento tende a crescere maggiormente rispetto al numero di protoni dell'elemento: il rapporto N/Z, che per elementi leggeri è intorno a 1, può arrivare a circa 1,5 per quelli più pesanti.
+Il neutrone ha una massa a riposo di 939,565 MeV/c², leggermente superiore a quella del protone, e questo comporta che,  contrariamente al protone, al di fuori del nucleo è instabile con una vita media di circa 15 minuti, decadendo in un protone, un elettrone e un antineutrino elettronico secondo la reazione 
+  
+    
+      
+        n
+        →
+        p
+        +
+        
+          e
+          
+            −
+          
+        
+        +
+        
+          
+            
+              
+                ν
+                ¯
+              
+            
+          
+          
+            e
+          
+        
+      
+    
+    {\displaystyle n\to p+e^{-}+{\bar {\nu }}_{e}}
+  
+(decadimento beta); l'energia rilasciata è 0,782±0,013 MeV e si manifesta come energia cinetica delle particelle prodotte. Questa energia risulta dalla differenza, moltiplicata per c², tra la massa a riposo del neutrone e la somma di quella del protone (938,272 MeV/c²), dell'elettrone (0,511 MeV/c²) e dell'antineutrino (trascurabile).
+La sua antiparticella è l'antineutrone, che ha la stessa massa, carica (nulla) e spin ed è composto  dagli antiquark corrispondenti del neutrone. L'antineutrone è ugualmente soggetto al decadimento beta con la stessa vita media, dando luogo a un antiprotone, un positrone e un neutrino elettronico, con la stessa energia di decadimento. Il suo numero barionico è -1, l'opposto di quello del neutrone.
+
+
+== Storia ed etimologia ==
+
+Nel 1930, in Germania, Walther Bothe e Herbert Becker osservarono che, se le particelle alfa del polonio, dotate di grande energia, incidevano su nuclei di elementi leggeri, specificatamente berillio, boro e litio, veniva prodotta una radiazione particolarmente penetrante. In un primo momento, si ritenne che potesse trattarsi di radiazione gamma, sebbene si mostrasse più penetrante dei raggi gamma allora conosciuti e i dettagli dei risultati sperimentali fossero difficili da interpretare in tali termini.
+Il successivo contributo fu apportato negli anni tra il 1931 e il 1932 da Irène Curie e suo marito Frédéric Joliot-Curie a Parigi: essi mostrarono che questa radiazione misteriosa, se colpiva paraffina o altri composti contenenti idrogeno, ne provocava l'espulsione di protoni di alta energia. Ciò non era del tutto in contrasto con l'ipotesi di radiazione gamma; tuttavia, un'analisi quantitativa dettagliata rendeva difficile accettare questa ipotesi. All'inizio del 1932, il fisico James Chadwick, in Inghilterra, eseguì una serie di misurazioni che mostrarono come l'ipotesi dei raggi gamma non fosse in grado di spiegare completamente i dati sperimentali. Egli ipotizzò che la radiazione penetrante del berillio consistesse in particelle neutre dotate di massa approssimativamente uguale a quella dei protoni, la cui esistenza era stata proposta più di un decennio prima, senza che fossero stati realizzati esperimenti efficaci per rivelarla; pubblicò la sua scoperta nel 1932.
+A questa particella neutra scoperta da Chadwick venne dato il nome di neutrone, ma fu il chimico W. D. Harkins a coniare per esso tale denominazione diversi anni prima (1921), quando il neutrone era ancora solo ipotizzato, sebbene attivamente cercato. A differenza che nel caso del protone, il cui nome Rutherford fece derivare integralmente dal greco (radice e suffisso), il nome neutrone deriva dalla radice dell'aggettivo latino neutralis, o anche da neuter, (neutro), cioè neutr-, cui venne aggiunto il suffisso -on (-one, in italiano), suffisso che si suole dare alle particelle materiali e non materiali del mondo microscopico (mesone, muone, fotone, fonone, eccitone, etc.), o anche a intere classi di particelle (fermioni, bosoni).
+L'antineutrone venne scoperto oltre trent'anni dopo, nel 1956, da un gruppo di fisici al Bevatron, Bruce Cork, Glen Lambertson, Oreste Piccioni, e William Wenzel.
+
+
+== Proprietà ==
+
+
+=== Neutralità ===
+La proprietà distintiva dei neutroni, già ipotizzata in precedenza e poi trovata sperimentalmente all'atto della scoperta, e che li differenzia dalle altre particelle, è l'assenza di carica elettrica (q = 0), e ciò è in accordo con il fatto che risulta composto da due quark down e un quark up:
+
+  
+    
+      
+        
+          q
+          
+            n
+          
+        
+        =
+        2
+        
+          q
+          
+            d
+          
+        
+        +
+        
+          q
+          
+            u
+          
+        
+        =
+        2
+        ⋅
+        
+          (
+          
+            −
+            
+              
+                1
+                3
+              
+            
+          
+          )
+        
+        e
+        +
+        
+          (
+          
+            
+              2
+              3
+            
+          
+          )
+        
+        e
+        =
+        0
+      
+    
+    {\displaystyle q_{n}=2q_{d}+q_{u}=2\cdot \left(-{\frac {1}{3}}\right)e+\left({\frac {2}{3}}\right)e=0}
+  
+
+La carica elettrica nulla è alla base della loro alta capacità di penetrazione e della difficoltà di manipolazione. Inoltre sono assenti delle sorgenti naturali importanti, ulteriore motivo del ritardo della scoperta del neutrone rispetto alle altre due particelle che compongono l'atomo.
+
+
+=== Penetrazione ===
+
+Le particelle cariche (come i protoni, gli elettroni e le particelle alfa) perdono energia nell'attraversare la materia, principalmente a causa delle forze elettromagnetiche che ionizzano gli atomi con cui tali particelle interagiscono. Il neutrone risente debolmente di queste forze in quanto ha carica elettrica nulla. Tuttavia il neutrone è soggetto all'azione della forza nucleare forte, caratterizzata da un corto raggio d'azione, efficace soltanto nelle vicinanze di un nucleo. Per cui il neutrone si comporta in modo simile ad una sfera solida (probabilmente quanto di più lontano esista dal neutrone sotto moltissimi altri aspetti) che impatta altri corpi solidi (i nuclei del mezzo). Un neutrone libero prosegue il suo tragitto indisturbato fino a quando non urta "frontalmente" con un nucleo.
+A causa della ridotta sezione trasversale dei nuclei rispetto allo spazio che li separa gli uni dagli altri, queste collisioni avvengono molto raramente e i neutroni percorrono grandi distanze prima di collidere. Distanze ancora maggiori vengono percorse prima di essere assorbiti da un nucleo, tanto maggiori quanto maggiore è la velocità del neutrone: la dose assorbita da un materiale irraggiato con neutroni è tanto maggiore e tanto più concentrata in superficie quanto più bassa è la loro velocità:
+
+i neutroni veloci da fissione (10 keV-10 MeV) depositano energia principalmente attraverso l'urto elastico con più nuclei leggeri in successione, con cammini liberi medi di trasporto che vanno dal centimetro alla decina di centimetri in acqua e tessuti biologici. La dose assorbita è dovuta alle ionizzazioni causate dal rinculo di nuclei leggeri secondari.
+i neutroni di risonanza (1 keV-1 MeV) depositano energia principalmente per assorbimento quando la loro energia corrisponde ad una frequenza di risonanza di un nucleo vicino.
+i neutroni lenti (energia < 0,5 eV) hanno bassa lunghezza di trasporto, da qualche frazione di millimetro al centimetro, e grande sezione d'urto di assorbimento: anche in questo caso l'assorbimento è il principale tipo di interazione.
+
+
+=== Pericolosità ===
+La loro massa a riposo maggiore di quella di altri tipi di radiazione li rende più pericolosi per i tessuti biologici una volta che abbiano interagito e può dare esito nei tessuti biologici e nei materiali ordinari a rilascio secondario di raggi gamma per cattura neutronica (ad esempio con l'idrogeno risulta in un deutone e in un fotone da 2,2 MeV), a trasmutazione e talora a spallazione (per esempio l'attivazione dell'azoto-14 in carbonio-14 con rilascio di un protone o la spallazione del piombo sfruttata nei sistemi guidati da acceleratore), causando trasmutazione e per i transuranici fertilizzazione. Il loro fattore di pericolosità una volta assorbiti rispetto alle radiazioni gamma vale:
+
+  
+    
+      
+        
+          w
+          
+            n
+          
+        
+        =
+        5
+        +
+        17
+        
+        exp
+        ⁡
+        
+          (
+          
+            −
+            
+              
+                
+                  (
+                  ln
+                  ⁡
+                  
+                    
+                      
+                        2
+                        E
+                      
+                      
+                        M
+                        e
+                        V
+                      
+                    
+                  
+                  
+                    )
+                    
+                      2
+                    
+                  
+                
+                6
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle w_{n}=5+17\,\exp \left(-{\frac {(\ln {\frac {2E}{\mathrm {MeV} }})^{2}}{6}}\right)}
+  
+
+e cioè a seconda della loro energia passano da una pericolosità rispettivamente 5 volte maggiore dei fotoni se sono termici (E < 10 keV) o 25 volte maggiore se sono veloci (100 keV < E < 2 MeV). Si noti però che questo fattore non tiene conto della precedente proprietà di penetranza, quindi la pericolosità relativa di un fascio veloce rispetto ad uno termico è in realtà sovrastimata da questo fattore.
+
+
+=== Evanescenza ===
+La rivelazione indiretta dei neutroni si basa sulla trasmissione del moto ad atomi leggeri del mezzo che avviene nelle collisioni elastiche: un nucleo molto pesante acquisisce per urto elastico una piccola frazione della quantità di moto; invece un protone (che ha una massa approssimativamente pari a quella del neutrone) viene proiettato in avanti con una frazione significativa della velocità originaria del neutrone, che a sua volta rallenta. Dato che i nuclei messi in moto mediante queste collisioni sono carichi, producono ionizzazione e possono essere facilmente rilevati sperimentalmente.
+
+
+=== Immanovrabilità ===
+Le particelle cariche possono essere accelerate, decelerate e deflesse dal campo elettrostatico, che però non ha praticamente effetto sui neutroni, rendendoli manovrabili solo con campo magnetico dato il loro momento di dipolo magnetico piuttosto alto rispetto al momento di quantità di moto intrinseco. Il segno negativo di tale momento magnetico simula la rotazione di cariche negative in senso antiorario intorno alla direzione dello spin. L'unico mezzo per controllare i neutroni liberi è quello di porre dei nuclei sulla loro traiettoria, in modo che i neutroni vengano rallentati, deflessi o assorbiti nella collisione. Questi sono i principali effetti regolatori nei reattori e nelle armi nucleari.
+
+
+=== Instabilità ===
+Un fascio pulsato e collimato di neutroni liberi decade passando fra due spettrometri a lente magnetica sistemati in modo da raccogliere l'uno i protoni l'altro gli elettroni con vita media di 880±1 s.
+Per quanto riguarda il neutrone legato agli altri nucleoni nel nucleo, la teoria della grande unificazione prevede una vita media dell'ordine di 1031 anni (più di mille di miliardi di miliardi di volte l'età attuale dell'universo di circa 1010 anni), simile a quella del protone.
+
+
+== Sviluppi ==
+L'esistenza di pacchetti stabili di quattro neutroni, o tetraneutroni, è stata ipotizzata da un gruppo guidato da Francisco-Miguel Marqués del CNRS Laboratory for Nuclear Physics, basandosi sulla disintegrazione di nuclei di berillio-14. La teoria corrente suppone che questi pacchetti non dovrebbero essere stabili e quindi non dovrebbero esistere.
+
+
+== Note ==
+
+
+== Bibliografia ==
+(FR) Albert Messiah, Mécanique quantique, tome 1, Dunod, 1966.
+ Paul Dirac, I principi della meccanica quantistica, Bollati Boringhieri, 1971.
+(EN) John von Neumann, Mathematical foundations of Quantum Mechanics, Princeton University Press, 1955.
+(EN) Stephen Gustafson e Israel M. Sigal, Mathematical concepts of quantum mechanics, Springer, 2006.
+(EN) Franz Schwabl, Quantum mechanics, Springer, 2002.
+(EN) Franco Strocchi, An introduction to the mathematical structure of quantum mechanics, a short course for mathematicians, World Scientific Publishing, 2005.
+(EN) L. Pauling e E. B. Wilson, Introduction to Quantum Mechanics with Applications to Chemistry, New York, McGrawHill, 1935.
+(EN) S. Dushman, The Elements of Quantum Mechanics, New York, John Wiley & Sons, 1938.
+(EN) M. Planck, L. Silberstein e H. T. Clarke, The origin and development of the quantum theory, Oxford, Clarendon Press, 1922.
+(EN) F. Reiche, H. Hatfield e L. Henry, The Quantum Theory, New York, E.P. Dutton & co., 1922.)
+(EN) J. F. Frenkel, Wave Mechanics: Advanced General Theory, Oxford, Clarendon Press, 1934.
+(EN) N. F. Mott, Elements of Wave Mechanics, Cambridge University Press, 1958.
+ Giancarlo Ghirardi, Un'occhiata alle carte di Dio, Net, 1997.
+
+
+== Voci correlate ==
+Neutrone termico
+Scattering di neutroni
+Attivazione neutronica
+Cattura neutronica
+Magnetone nucleare
+Fissione nucleare
+Protone
+Elettrone
+Neutrino
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «neutrone»
+ Wikimedia Commons contiene immagini o altri file su neutrone
+
+
+== Collegamenti esterni ==
+
+(EN) neutron, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ NMI3: Iniziativa Europea di neutroni e muoni, su nmi3.eu.
+ neutronsources.org.
+(EN) IUPAC Gold Book, "neutron", su goldbook.iupac.org.

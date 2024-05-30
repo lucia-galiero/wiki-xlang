@@ -1,0 +1,47 @@
+Le rayonnement est le processus d'émission ou de propagation d'énergie et de quantité de mouvement impliquant une onde ou une particule.
+
+
+== Types de rayonnements ==
+On peut distinguer les rayonnements corpusculaires (ou particulaires) par le type de particule auquel ils sont associés. Il peut par exemple s'agir de neutrons, de protons, d'électrons (ou de positrons), de particules alpha, de photons, de neutrinos ou de muons.
+Il existe également des rayonnements ondulatoires, exemples :
+
+rayonnement électromagnétique (rayons X, lumière visible, etc.) ;
+rayonnement acoustique (ou sonore), correspondent à la propagation d'énergie sous la forme d'une onde, ici une onde mécanique ;
+rayonnement gravitationnel (ondes gravitationnelles).
+La dualité onde-particule enseigne que décrire un objet quantique nécessite de le considérer à la fois comme une particule et une onde. Ainsi, un rayonnement électromagnétique, peut être considéré comme un flux de photons ou comme la propagation d'une onde électromagnétique.
+
+
+== Exemples de rayonnements ==
+Les rayonnements électromagnétiques et les rayonnements corpusculaires peuvent être classés selon leur effet sur la matière en ionisants et non ionisants :
+
+Autres :
+
+Rayon cosmique
+Fond diffus cosmologique
+Rayonnement continu de freinage (Bremẞtrahlung ou Bremsstrahlung)
+Rayonnement thermique, mode de transfert thermique. Voir aussi Corps noir
+Rayonnement synchrotron
+Rayonnement cyclotron
+Transition matière-rayonnement
+Transfert radiatif
+Rayonnement solaire
+Pression de radiation
+Rayonnement photosynthétiquement actif
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+
+
+=== Bibliographie ===
+ARC, Mosgraphie Volume 80 (2002) Non-Ionizing Radiation, Part 1: Static and Extremely Low-Frequency (ELF) Electric and Magnetic Fields
+
+
+=== Liens externes ===
+
+
+=== Notes et références ===
+
+ Portail de la physique   Portail de l’énergie   Portail du nucléaire

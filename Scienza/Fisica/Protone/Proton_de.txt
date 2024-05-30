@@ -1,0 +1,697 @@
+Elementarteilchen sind unteilbare subatomare Teilchen und die kleinsten bekannten Bausteine der Materie. Aus der Sicht der theoretischen Physik sind sie die geringsten Anregungsstufen bestimmter Felder. Nach dem heutigen durch Experimente gesicherten Wissen, das im Standardmodell der Elementarteilchenphysik zusammengefasst ist, gibt es
+
+6 Arten Quarks mit je drei verschiedenen Farbladungen,
+6 Arten Leptonen, und zwar drei elektrisch geladene Leptonen und drei Neutrinos,
+12 Arten Eichbosonen, nämlich
+das Photon für die elektromagnetische Wechselwirkung,
+8 Gluonen für die starke Wechselwirkung,
+3 Bosonen (Z0, W+, W−) für die schwache Wechselwirkung
+und das Higgs-Boson.
+Dies ergibt zunächst 37 Elementarteilchen. Hinzu kommen Antiteilchen: 18 Anti-Quarks und 6 Anti-Leptonen. Bei den 8 Gluonen sind deren Antiteilchen bereits eingeschlossen. Die Teilchen Photon, Z0 und Higgs-Boson sind jeweils ihr eigenes Antiteilchen und W+ / W− sind ihre gegenseitigen Antiteilchen. In dieser Zählung ergeben sich also insgesamt 61 Arten von Elementarteilchen.
+Die Materie und die Kraft- und Strahlungsfelder der starken, der schwachen und der elektromagnetischen Wechselwirkung bestehen aus diesen Teilchen in verschiedenen Zusammensetzungen und Zuständen. Beim Gravitationsfeld und den Gravitationswellen sind etwaige zugrundeliegende Teilchen – die Gravitonen (G) – bislang hypothetisch, bei der Dunklen Materie sind sie noch völlig unbekannt.
+Die genannten Teilchen sind klein in dem Sinne,
+
+dass man aus Experimenten noch keinerlei Anhaltspunkte für einen von Null verschiedenen Durchmesser gewinnen konnte. Theoretisch werden sie daher als punktförmig angenommen.
+dass sie nach heutigem Wissensstand nicht aus noch kleineren Untereinheiten zusammengesetzt sind.
+dass selbst ein kleines Objekt des Alltagslebens bereits Trilliarden (1021) dieser Teilchen enthält. Zum Beispiel besteht bereits ein Stecknadelkopf aus größenordnungsmäßig 1022 Elektronen und 1023 Quarks.
+Alle Elementarteilchen zeigen die Eigenschaft, dass sie (unter Einhaltung bestimmter Erhaltungssätze) erzeugt und vernichtet werden können.
+
+
+== Präzisierung des Begriffs ==
+Als Elementarteilchen galten bis zur Entdeckung der Quarks auch alle Arten von Hadronen, z. B. die Kernbausteine Proton, Neutron, das Pion und viele weitere. Wegen der großen Zahl verschiedener Arten sprach man vom „Teilchenzoo“. Die Hadronen werden auch heute noch häufig als Elementarteilchen bezeichnet, obwohl sie nach dem Standardmodell alle aus Quarks zusammengesetzt sind und z. B. auch einen messbaren Durchmesser von der Größenordnung 10−15 m haben.
+
+Zur Vermeidung von Verwechslungen werden die oben nach dem Standardmodell aufgeführten Elementarteilchen gelegentlich als fundamentale Elementarteilchen oder Fundamentalteilchen bezeichnet.
+
+
+== Geschichte und Überblick ==
+
+
+=== Materie ===
+
+Bis ins 20. Jahrhundert hinein war es unter Philosophen wie auch unter Naturwissenschaftlern umstritten, ob die Materie ein Kontinuum sei, das unendlich fein unterteilt werden könne, oder aus elementaren Teilchen aufgebaut ist, die nicht weiter in kleinere Stücke zerteilt werden können. Solche Teilchen wurden von alters her „Atom“ genannt (von griechisch ἄτομος átomos, „das Unteilbare“), der Name Elementarteilchen (bzw. englisch elementary particle) taucht nicht vor den 1930er Jahren auf. Früheste bekannte philosophische Überlegungen zu Atomen stammen aus dem griechischen Altertum (Demokrit, Platon). Aus naturwissenschaftlicher Erkenntnis heraus ist dieser Begriff erstmals gegen 1800 mit dem heutigen Inhalt gefüllt worden, als sich nach John Daltons Werk in der Chemie die Einsicht durchzusetzen begann, dass jedes chemische Element aus untereinander gleichen Teilchen besteht. Sie wurden als Atome bezeichnet; dieser Name hat sich gehalten. Die vielfältigen Erscheinungsformen der bekannten Stoffe und ihre Verwandlungsmöglichkeiten konnten dadurch erklärt werden, dass sich die Atome nach einfachen Regeln in verschiedener Weise zu Molekülen verbinden. Die Atome selbst galten als unveränderlich, insbesondere als unzerstörbar. Dieses Bild führte ab 1860 in der kinetischen Gastheorie zu einer mechanischen Erklärung der Gasgesetze durch die ungeordnete Wärmebewegung vieler unsichtbar kleiner Teilchen. Daraus konnte u. a. die tatsächliche Größe der Moleküle bestimmt werden: Sie sind um viele Größenordnungen zu klein, um im Lichtmikroskop sichtbar zu sein.
+Dennoch wurde dieses Bild im 19. Jahrhundert als bloße „Atom-Hypothese“ bezeichnet und aus prinzipiellen Gründen kritisiert (siehe Artikel Atom). Es fand erst Anfang des 20. Jahrhunderts im Rahmen der Modernen Physik allgemeine Zustimmung. Einen Durchbruch bewirkte Albert Einstein 1905. Er leitete theoretisch ab, dass die unsichtbar kleinen Atome oder Moleküle aufgrund ihrer Wärmebewegung unregelmäßig mit größeren, schon unter dem Mikroskop sichtbaren Teilchen zusammenstoßen, so dass auch diese in ständiger Bewegung sind. Er konnte die Art der Bewegung dieser größeren Teilchen quantitativ vorhersagen, was ab 1907 durch Jean-Baptiste Perrin durch mikroskopische Beobachtungen an der Brownschen Bewegung und am Sedimentationsgleichgewicht bestätigt wurde. Dies gilt als erster physikalischer Nachweis der Existenz der Moleküle und Atome.
+Zur gleichen Zeit ergab sich aber aus den Beobachtungen zur Radioaktivität, dass die Atome, wie sie in der Chemie definiert worden waren, in der Physik weder als unveränderlich noch als unteilbar betrachtet werden können. Vielmehr kann man die Atome in eine Atomhülle aus Elektronen und einen Atomkern unterteilen, der seinerseits aus Protonen und Neutronen zusammengesetzt ist. Daraufhin galten Elektron, Proton und Neutron als Elementarteilchen, alsbald zusammen mit zahlreichen weiteren Teilchenarten, die ab den 1930er Jahren in der kosmischen Strahlung (beispielsweise Myon, Pion, Kaon sowie Positron und weitere Arten Antiteilchen) und ab 1950 in Experimenten an Teilchenbeschleunigern entdeckt wurden.
+Aufgrund ihrer großen Zahl und unübersichtlichen Eigenschaften und Beziehungen zueinander wurden alle diese Teilchenarten unter dem Namen „Teilchenzoo“ zusammengefasst, und es gab verbreitet Zweifel, ob sie alle wirklich elementar im Sinne von nicht zusammengesetzt sein könnten. Als erstes Merkmal für eine Einteilung entstand in den 1950er Jahren die Unterscheidung in Hadronen und Leptonen. Die Hadronen wie Proton und Neutron reagieren auf die Starke Wechselwirkung, die Leptonen wie das Elektron nur auf die elektromagnetische und/oder Schwache Wechselwirkung. Während die Leptonen bis heute als elementar gelten, konnten ab den 1970er Jahren in den Hadronen „kleinere“ Teilchen identifiziert werden, die Quarks. Die sechs Arten Quarks sind die nach dem Standardmodell wirklich elementaren Teilchen, aus denen zusammen mit Gluonen die zahlreichen Hadronen des Teilchenzoos aufgebaut sind.
+
+
+=== Felder ===
+
+Physikalische Felder wie das Gravitationsfeld, das Magnetfeld und das elektrische Feld wurden und werden als Kontinuum angesehen. Das heißt, sie haben an jedem Punkt des Raums eine gewisse Feldstärke, die räumlich und zeitlich in kontinuierlicher Weise (d. h. ohne Sprünge) variieren kann. Die Entdeckung, dass beim elektromagnetischen Feld auch elementare Teilchen eine Rolle spielen, wurde 1900 von Max Planck vorbereitet und 1905 von Albert Einstein in Gestalt der Lichtquantenhypothese ausgearbeitet. Demnach können freie elektromagnetische Felder, die sich als Welle fortpflanzen, nur in Sprüngen von der Größe eines Elementarquantums angeregt oder abgeschwächt werden. Dass diese elektromagnetischen Quanten alle Eigenschaften eines Elementarteilchens haben, wurde ab 1923 in Folge der Experimente von Arthur Compton anerkannt. Er zeigte, dass ein einzelnes Elektron sich in einem elektromagnetischen Strahlungsfeld genau so verhält, als würde es dort jeweils mit einem einzelnen Teilchen zusammenstoßen. 1926 erhielt dieses elektromagnetische Quant den Namen Photon.
+Um 1930 wurde auf der Grundlage der Quantenmechanik die Quantenelektrodynamik entwickelt, die das Entstehen eines Photons im Emissionsprozess und seine Vernichtung im Absorptionsprozess beschreibt. Im Rahmen dieser Theorie ergibt sich, dass auch die bekannten statischen elektrischen und magnetischen Felder auf die Wirkung von Photonen zurückgehen, die allerdings als sogenannte virtuelle Teilchen erzeugt und vernichtet werden. Damit ist das Photon das Feldquant des elektromagnetischen Feldes und das erste bekannte Austauschteilchen, das das Zustandekommen einer der Grundkräfte der Physik bewirkt.
+Daraus ergaben sich zwei weitere Entwicklungen: Die in der Betaradioaktivität beobachtete Entstehung und Vernichtung von Teilchen wie Elektron und Neutrino wurde als Anregung bzw. Abschwächung eines „Elektronfeldes“ oder eines „Neutrinofeldes“ interpretiert, so dass diese Teilchen nun auch als Feldquanten ihres jeweiligen Feldes angesehen werden (siehe Quantenfeldtheorie). Zum anderen wurden für andere Grundkräfte Austauschteilchen gesucht und gefunden: das Gluon für die Starke Wechselwirkung (nachgewiesen 1979), das W-Boson und Z-Boson für die Schwache Wechselwirkung (nachgewiesen 1983). Für die Gravitation, die vierte und bei weitem schwächste der fundamentalen Wechselwirkungen, existiert noch keine anerkannte Quantenfeldtheorie. Zwar unterliegen alle Teilchen der Gravitation, jedoch gelten die Effekte, die bei Reaktionen der Elementarteilchen dadurch theoretisch zu erwarten sind, als unbeobachtbar klein. Gravitation wird im Rahmen des Standardmodells daher nicht behandelt, zumal auch ein zugehöriges Feldquant, das Graviton, bisher rein hypothetisch ist.
+Das Higgs-Boson ist das Feldquant eines weiteren Feldes, das in die Quantenfeldtheorie der vereinheitlichten elektromagnetischen und Schwachen Wechselwirkung (Elektroschwache Wechselwirkung) eingefügt wurde, um die Tatsache, dass es Teilchen mit Masse gibt, theoretisch konsistent formulieren zu können. Eine diesen Erwartungen entsprechende neue Teilchenart ist im Jahr 2012 in Experimenten am Teilchenbeschleuniger Large Hadron Collider bei Genf gefunden worden.
+
+
+== Auflistung der Elementarteilchen ==
+
+
+=== Einteilung in Fermionen und Bosonen ===
+
+Zunächst unterscheidet man bei Elementarteilchen (ebenso wie bei zusammengesetzten Teilchen) die beiden Klassen der Fermionen und der Bosonen. Fermionen haben einen halbzahligen Spin und befolgen einen Erhaltungssatz der Teilchenzahl, so dass sie nur zusammen mit ihren Antiteilchen entstehen oder vergehen können. Bosonen haben einen ganzzahligen Spin und können einzeln erzeugt und vernichtet werden. Mit Blick auf die Erhaltung von Materie im Alltag und in der klassischen Physik werden die Fermionen unter den Elementarteilchen daher häufig als die kleinsten Teilchen der Materie gesehen und auch als Materieteilchen bezeichnet. Die Bosonen unter den Elementarteilchen hingegen werden mit Feldern assoziiert, weil eine Feldstärke in der klassischen Physik kontinuierlich variieren kann. Bosonen werden daher häufig als Quanten von Kraft- oder Strahlungsfeldern, oder kurz als Feldquanten bezeichnet. Allerdings sind in der Quantenfeldtheorie auch die Fermionen Feldquanten ihrer jeweiligen Felder. Von den Elementarteilchen im Standardmodell gehören die Leptonen und Quarks zu den Fermionen und die Austauschteilchen sowie das Higgs-Boson (und – falls es existiert – das Graviton) zu den Bosonen.
+
+
+=== Leptonen ===
+
+Leptonen sind die elementaren Materieteilchen mit Spin 
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {1}{2}}}
+  
+, die nicht der starken Wechselwirkung unterliegen. Sie sind Fermionen und nehmen an der schwachen Wechselwirkung teil sowie, falls elektrisch geladen, an der elektromagnetischen.
+
+Es gibt drei elektrisch geladene Leptonen (Ladung = −1e): das Elektron (e), das Myon (μ) und das Tauon (oder τ-Lepton) (τ) und drei elektrisch neutrale Leptonen: das Elektron-Neutrino (νe), das Myon-Neutrino (νμ) und das Tauon-Neutrino (ντ). Die Leptonen werden in drei Generationen oder Familien angeordnet: (νe,e), (νμ,μ) und (ντ,τ). Zu jeder Familie gehört eine eigene Leptonenzahl, die außer bei Neutrinooszillationen immer erhalten ist.
+Zu jeder dieser Leptonenarten gibt es eine entsprechende Art Antiteilchen, die generell durch die vorangestellte Silbe Anti- gekennzeichnet wird. Nur das Antiteilchen des Elektrons, das das erste entdeckte Antiteilchen war, trägt die Bezeichnung Positron. Es kommt in Beobachtungen niemals vor, dass bei der Erzeugung eines Antileptons nicht auch ein Lepton erzeugt oder ein anderes Antilepton vernichtet wird. Man beschreibt diesen Sachverhalt als Erhaltung der Leptonenzahl 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  
+ (auch Leptonenladung genannt): setzt man für jedes Lepton 
+  
+    
+      
+        L
+        =
+        +
+        1
+      
+    
+    {\displaystyle L=+1}
+  
+ und für jedes Antilepton 
+  
+    
+      
+        L
+        =
+        −
+        1
+      
+    
+    {\displaystyle L=-1}
+  
+, so bleibt der Gesamtwert von 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  
+  konstant. Die Erhaltung der Leptonenzahl gilt bei sämtlichen Erzeugungs- und Vernichtungsprozessen von Leptonen und Antileptonen. Über mögliche Verletzungen dieses Gesetzes wird in Theorien jenseits des Standardmodells zwar spekuliert, sie entsprechen jedoch bisher keiner Beobachtung und sind daher hypothetisch.
+Die einzigen stabilen Leptonen sind das Elektron und das Positron. Myonen und Tauonen zerfallen spontan, indem sie sich über die schwache Wechselwirkung in ein leichteres Lepton mit der gleichen elektrischen Ladung, ein Neutrino und ein Antineutrino umwandeln. Tauonen können alternativ auch in ein Neutrino und Hadronen zerfallen.
+
+
+=== Quarks ===
+
+Quarks sind die elementaren Materieteilchen mit Spin 
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {1}{2}}}
+  
+, die zusätzlich zur schwachen und elektromagnetischen Wechselwirkung auch der starken Wechselwirkung unterliegen. Sie sind Fermionen und tragen neben schwachem Isospin (abhängig von ihrer Chiralität) und elektrischer Ladung auch eine Farbladung.
+
+Es gibt drei Arten Quarks mit der elektrischen Ladung 
+  
+    
+      
+        −
+        
+          
+            
+              1
+              3
+            
+          
+        
+      
+    
+    {\displaystyle -{\tfrac {1}{3}}}
+  
+e: down (d), strange (s) und bottom (b), und drei Arten Quarks mit der elektrischen Ladung 
+  
+    
+      
+        +
+        
+          
+            
+              2
+              3
+            
+          
+        
+      
+    
+    {\displaystyle +{\tfrac {2}{3}}}
+  
+e: up (u), charm (c) und top (t). Somit kennt man auch für Quarks drei Generationen oder Familien: (d,u), (s,c) und (b,t). Wie bei den Leptonen unterscheiden sich die Familien stark in ihren Massen. Umwandlungen von Quarks finden durch die schwache Wechselwirkung statt, vorzugsweise innerhalb einer Familie (z. B. c ⇒ s). Diese Umwandlungen werden durch die Quark-Mischungsmatrix beschrieben.
+Bei der Erzeugung oder Vernichtung von Quarks oder Antiquarks gilt in gleicher Strenge wie bei den Leptonen (s. o.) die Erhaltung der Baryonenzahl 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ (auch Baryonenladung genannt): man setzt für jedes Quark 
+  
+    
+      
+        B
+        =
+        
+          
+            
+              1
+              3
+            
+          
+        
+      
+    
+    {\displaystyle B={\tfrac {1}{3}}}
+  
+ und für jedes Antiquark 
+  
+    
+      
+        B
+        =
+        −
+        
+          
+            
+              1
+              3
+            
+          
+        
+      
+    
+    {\displaystyle B=-{\tfrac {1}{3}}}
+  
+, so bleibt der Gesamtwert der Baryonenzahl 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ bei allen bekannten physikalischen Vorgängen konstant. Die Wahl des Wertes 
+  
+    
+      
+        
+          
+            
+              1
+              3
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {1}{3}}}
+  
+ erklärt sich daraus, dass den Kernbausteinen Proton und Neutron jeweils die Baryonenzahl 1 zugeschrieben worden war, lange bevor entdeckt wurde, dass sie aus drei Quarks aufgebaut sind. Auch hier wird in Theorien jenseits des Standardmodells über mögliche Verletzungen der Baryonenzahlerhaltung spekuliert, sie entsprechen jedoch bisher keiner Beobachtung und sind daher hypothetisch.
+Quarks werden niemals frei beobachtet, sondern nur als gebundene Bestandteile der Hadronen (siehe Abschnitt „Zusammengesetzte Teilchen“ weiter unten).
+
+
+=== Austauschteilchen (Eichbosonen) ===
+
+Die Austauschteilchen sind die Bosonen, die die Wechselwirkungen zwischen den vorstehend genannten Elementarteilchen vom Typ Fermion vermitteln. Der Name Eichboson erklärt sich daraus, dass das Standardmodell als Eichtheorie formuliert ist, wo die Forderung nach lokaler Eichinvarianz zur Folge hat, dass Wechselwirkungen mit Austauschteilchen vorhergesagt werden, die Spin 1 haben, also Bosonen sind.
+Das Graviton ist bisher nicht im Experiment nachgewiesen und deshalb hypothetisch. Es wird aber häufig im Zusammenhang mit den anderen Austauschteilchen aufgelistet, was die Hoffnung widerspiegelt, dass in zukünftigen teilchenphysikalischen Modellen auch die gravitative Wechselwirkung quantenfeldtheoretisch behandelt werden kann. Die in nebenstehender Tabelle angegebenen Eigenschaften des Gravitons entsprechen dem, was nach der Allgemeinen Relativitätstheorie zu erwarten ist.
+
+
+==== Photon ====
+Das Photon ist als Feldquant des elektromagnetischen Feldes das am längsten bekannte Eichboson. Es kann von jedem Teilchen mit elektrischer Ladung erzeugt oder vernichtet werden und vermittelt die gesamte elektromagnetische Wechselwirkung. Es hat weder Masse noch elektrische Ladung. Aufgrund dieser Eigenschaften hat die elektromagnetische Wechselwirkung unendliche Reichweite und kann makroskopisch wirken.
+
+
+==== W- und Z-Bosonen ====
+Es gibt zwei W-Bosonen mit entgegengesetzter elektrischer Ladung und das neutrale Z-Boson. Sie können von jedem Teilchen mit schwachem Isospin oder schwacher Hyperladung erzeugt und vernichtet werden und vermitteln die schwache Wechselwirkung. Damit sind sie verantwortlich für sämtliche Umwandlungsprozesse, in denen ein Quark sich in eine andere Art von Quark umwandelt, oder ein Lepton in eine andere Art von Lepton. Sie haben eine große Masse, was ihre Reichweite als Austauschteilchen auf größenordnungsmäßig 10−18 m einschränkt. Diese extrem kurze Reichweite ist der Grund, warum die schwache Wechselwirkung schwach erscheint. Die W-Bosonen tragen, anders als das Photon, auch selber schwachen Isospin. Somit können sie über die schwache Wechselwirkung auch untereinander wechselwirken.
+
+
+==== Gluon ====
+Gluonen können von den Teilchen mit Farbladung erzeugt und vernichtet werden und vermitteln zwischen diesen die starke Wechselwirkung. Neben den Quarks tragen auch die Gluonen selbst Farbladung, jeweils in Kombination mit einer Anti-Farbladung. Die möglichen Mischungen füllen einen achtdimensionalen Zustandsraum, weshalb man üblicherweise von acht verschiedenen Gluonen spricht. Zwei der acht Dimensionen gehören zu Zuständen, in denen das Gluon zur Farbladung die genau passende Antifarbladung trägt; diese Gluonen sind ihre eigenen Antiteilchen. Die Gluonen haben keine Masse und weder elektrische Ladung noch schwachen Isospin. Als Träger von Farbladungen wechselwirken sie auch untereinander. Diese Eigenschaft ist Ursache des Confinement, das die Reichweite der starken Wechselwirkung effektiv auf etwa 10−15 m begrenzt. Das ist ungefähr der Durchmesser der aus Quarks aufgebauten Hadronen (wie Proton und Neutron) und auch die Reichweite der Kernkraft, die die Protonen und Neutronen im Atomkern zusammenhält.
+
+
+=== Das Higgs-Boson ===
+
+Das Higgs-Boson ist ein im Rahmen des Standardmodells vorhergesagtes Elementarteilchen, das am europäischen Kernforschungszentrum CERN entdeckt wurde. Es kann von allen Teilchen mit Masse erzeugt und vernichtet werden und ist das Feldquant des allgegenwärtigen Higgs-Felds, das diesen Teilchen überhaupt ihre Masse verleiht. Das Higgs-Boson hat den Spin 0 und ist kein Eichboson.
+
+
+== Aus Elementarteilchen zusammengesetzte Teilchen ==
+
+Aus Quarks (und Gluonen) zusammengesetzte Teilchen nennt man Hadronen. Bis zur Ent­deckung der Quarks und der Entwicklung des Standardmodells ab etwa 1970 galten sie als Elementarteilchen und werden auch heute oft noch so bezeichnet. Hadronen werden in zwei Kategorien eingeteilt: Mesonen (Baryonenzahl = 0) und Baryonen (Baryonenzahl ≠ 0).
+Atomkerne sind ebenfalls aus Quarks auf­ge­baut und durch die starke Wechselwirkung gebunden, werden aber nicht als Hadronen bezeichnet.
+Die exotischen Teilchen werden manchmal in ihrer Gesamtheit auch als „Teilchenzoo 2.0“ bezeichnet.
+Von vielen Tetra- und Penta­quarks und dem (bisher einzigen) Hexa­quark ist derzeit (Stand Juli 2022) nicht bekannt, ob sie in ihrem inneren Aufbau dicht gepackt dem der klassischen Hyperonen entsprechen, oder mit einer inneren Struktur versehen (ver­gleich­bar mit Deuteriumkernen, Alphateilchen und dem hypothetischen Tetraneutron) aus solchen klassischen Mesonen und Baryonen zu­sam­men­ge­setzte (Hyperonen-)„Moleküle“ sind.
+
+
+=== Mesonen ===
+
+Mesonen haben ganzzahligen Spin, sind also Bosonen. Sie sind Bindungszustände aus einem Quark und einem Antiquark. Alle Mesonen sind instabil. Das leichteste Meson ist das Pion, das sich je nach elektrischer Ladung in Leptonen oder Photonen umwandelt („zerfällt“). Pionen werden in der Yukawa-Theorie als Austauschteilchen der Kernkräfte betrachtet, mit denen Protonen und Neutronen in den Atomkernen gebunden sind.
+
+
+=== Baryonen ===
+
+Baryonen haben halbzahligen Spin, sind also Fermionen. Sie sind Bindungszustände aus drei Quarks (analog Antibaryonen aus drei Antiquarks). Die einzigen stabilen Baryonen sind das Proton und das Antiproton. Alle anderen sind für sich genommen instabil und wandeln sich, unter Umständen über Zwischenschritte, schließlich in ein Proton oder Antiproton um. Die wichtigsten Baryonen sind das Proton und das Neutron. Da sie die Bestandteile der Atomkerne sind, werden sie zusammengefasst als Nukleonen bezeichnet.
+
+
+=== Atomkerne ===
+
+Atomkerne sind durch die starke Wechselwirkung gebundene Systeme von Baryonen. Im Normalfall bestehen sie aus Protonen und Neutronen – nur solche Atomkerne können stabil sein. Das kleinste stabile System dieser Art ist der Atomkern des schweren Wasserstoffs, der Deuteron genannt wird und aus einem Proton und einem Neutron besteht, also aus sechs Quarks. Üblicherweise zählt man auch das Proton zu den Atomkernen, da es den Kern des Wasserstoffatoms darstellt. Wenn ein oder mehrere Nukleonen durch andere Baryonen ersetzt werden, spricht man von Hyperkernen. Aufgrund der geringen Reichweite der starken Wechselwirkung ist der mittlere Abstand der Baryonen im Atomkern nicht viel größer als deren Durchmesser.
+
+
+=== Atome ===
+
+Atome sind durch die elektromagnetische Wechselwirkung gebundene Systeme, die in der Regel aus einem (schweren) Atomkern und (leichten) Elektronen bestehen. Wird im Atomkern ein Nukleon und/oder in der Hülle ein Elektron durch Teilchen anderer Art ersetzt, entsteht ein instabiles Exotisches Atom. Im 19. Jahrhundert, bevor der innere Aufbau der Atome entdeckt war, wurden die Atome selber gelegentlich als die elementaren Teilchen der chemischen Elemente bezeichnet.
+
+
+== Stabilität und Lebensdauer ==
+
+Von den Elementarteilchen des Standardmodells sind in freiem, isoliertem Zustand nur das Elektron, das Positron, das Photon sowie Neutrinos stabil.
+Bei Quarks und Gluonen kann man schlecht von Stabilität sprechen, denn sie lassen sich nicht isolieren. Sie treten nur zu mehreren zusammen in Hadronen auf. Darin werden sie durch die starke Wechselwirkung, die sie zusammenhält, ständig von einer Art in eine andere umgewandelt. Die Stabilität des Protons oder vieler anderer Atomkerne gilt also nur insgesamt, aber nicht für das einzelne darin enthaltene Quark oder Gluon. Ein Neutrino einer der drei Neutrinoarten zeigt zwar mit der Neutrinooszillation eine periodisch wechselnde Mischung der drei Arten, allerdings sind bestimmte Mischungen der verschiedenen Neutrinoarten, die drei Massen-Eigenzustände, stabil. (Gleiches gilt für die jeweiligen Antiteilchen.)
+Die anderen Elementarteilchen und ihre Antiteilchen sind instabil im gewöhnlichen Sinn des Wortes: sie wandeln sich spontan in andere Teilchen mit geringerer Masse um. Es gilt das radioaktive Zerfallsgesetz, und in Anlehnung an den radioaktiven Zerfall spricht man auch hier vom Zerfall der Teilchen, zumal aus einem Teilchen dabei immer zwei oder drei andere hervorgehen. Die Zerfallsprodukte sind jedoch im ursprünglichen Teilchen in keiner Weise bereits vorhanden gewesen. Vielmehr wird dieses im Zerfallsprozess vernichtet, während die Zerfallsprodukte neu erzeugt werden. Die durchschnittliche Lebensdauer der instabilen Elementarteilchen liegt zwischen 2·10−6 s (Myon) und 4·10−25 s (Z-Boson).
+Die Stabilität von Elementarteilchen wie dem Elektron, oder von gebundenen Systemen wie dem Proton, Atomkern oder Atom, wird im Standardmodell ganz allgemein damit erklärt, dass es hier keinen Zerfallsweg gibt, der nicht durch einen der allgemeinen Erhaltungssätze verboten wäre. So folgt aus dem Energieerhaltungssatz, dass die Summe der Massen der Zerfallsprodukte nicht größer sein kann als die Masse des zerfallenden Teilchens oder Systems. Mit dem Erhaltungssatz der elektrischen Ladung folgt dann, dass Elektron und Positron stabil sind, weil es keine leichteren Teilchen gleicher Ladung gibt. Für die Stabilität des Protons (und anderer Kerne, aber auch des Antiprotons etc.) muss zusätzlich einer der beiden Erhaltungssätze für die Baryonenzahl oder die Leptonenzahl herangezogen werden. Sonst wäre für alle positiv geladenen Elementarteilchen das Positron (bei negativer elektrischer Ladung das Elektron) ein mögliches Zerfallsprodukt. Allerdings sind die getrennten Erhaltungssätze für Quarks und Leptonen in manchen theoretischen Modellen jenseits des Standardmodells aufgehoben. Daher wird die Stabilität des Protons in Experimenten überprüft. Zerfälle von Protonen sind noch nicht beobachtet worden; die durchschnittliche Lebensdauer des Protons, wenn sie überhaupt endlich ist, beträgt nach jetzigem Stand (2017) mindestens 1035 Jahre.
+
+
+== Eigenschaften aller Elementarteilchen ==
+Im Standardmodell gilt:
+
+Alle Elementarteilchen können erzeugt und vernichtet werden. Abgesehen von ihrer kräftefreien Bewegung durch den Raum sind Erzeugung und Vernichtung überhaupt die einzigen Prozesse, an denen sie teilnehmen. Diese sind daher auch Grundlage jeder Wechselwirkung. Ansonsten sind die Teilchen jedoch völlig unveränderlich in ihren inneren Eigenschaften. Insbesondere sind sie nicht teilbar und haben keine angeregten Zustände.
+Alle Elementarteilchen derselben Art sind identisch, d. h. ununterscheidbar. Unterscheiden lassen sich bestenfalls die Zustände, die solche Teilchen gerade einnehmen. Hingegen ist es prinzipiell unmöglich festzustellen, welches von mehreren identischen Teilchen zu einem früheren oder späteren Zeitpunkt einen bestimmten Zustand eingenommen hatte oder einnehmen wird (siehe Identische Teilchen).
+Alle geladenen Elementarteilchen haben Antiteilchen, die ihnen in allen Eigenschaften völlig gleichen, außer dass sie entgegengesetzte Ladungen tragen. Die ungeladenen Eichbosonen (Photon, Gluon, Z0-Boson) und das Higgs-Boson sind ihre eigenen Antiteilchen. Je ein Teilchen und ein Antiteilchen derselben Art können sich miteinander vernichten. Dabei bleiben nichts als ihre gesamte Energie, Impuls und Drehimpuls erhalten. Diese werden auf neu erzeugte Teilchen übertragen (siehe Paarvernichtung, Paarerzeugung).
+Alle Elementarteilchen erscheinen punktförmig. Sie nehmen zwar nur Zustände ein, in denen sie eine räumlich ausgedehnte Aufenthaltswahrscheinlichkeit aufweisen (s. Wellenfunktion). Mit immer größerem Energieaufwand lässt sich diese Art der räumlichen Ausdehnung aber unter jede bisher feststellbare Grenze drücken, ohne dass sich an den inneren Eigenschaften des Teilchens etwas ändert. Beim Elektron sind die entsprechenden Experimente am weitesten fortgeschritten und haben den Bereich 10−19 m erreicht.
+Alle Elementarteilchen bleiben bis zur nächsten Wechselwirkung Mitglied derselben Teilchenart. Eine gewisse Ausnahme bilden die Neutrinos: Ein Neutrino entsteht in Form einer der drei oben genannten beobachtbaren Arten, hat sich aber bis zum nächsten Eingriff einer Wechselwirkung teilweise in eine andere dieser Arten umgewandelt (Neutrinooszillation). Diese periodisch wechselnde Mischung der drei beobachteten Arten wird dadurch erklärt, dass es theoretisch drei unveränderliche Neutrinoarten mit unterschiedlichen, genau definierten Massen gibt, während die drei beobachteten Neutrinoarten drei bestimmte zueinander orthogonale Linearkombinationen davon sind. Die drei beobachteten Arten besitzen also genau genommen auch keine jeweils scharf definierte Masse, sondern eine Massenverteilung.
+Die unveränderlichen inneren Eigenschaften jedes Elementarteilchens sind
+seine Ruheenergie (Masse),
+sein Spin (Eigendrehimpuls, der immer, gegebenenfalls auch im Ruhesystem des Teilchens, die gleiche Größe besitzt. Der Wert Null gilt nur für das Higgs-Boson.)
+seine innere Parität (definiert als positiv bei Teilchen und negativ bei Antiteilchen)
+seine Leptonenzahl (Wert +1 bei jedem Lepton, −1 bei jedem Antilepton, Null bei allen anderen Teilchen)
+seine Baryonenzahl (Wert 
+  
+    
+      
+        +
+        
+          
+            
+              1
+              3
+            
+          
+        
+      
+    
+    {\displaystyle +{\tfrac {1}{3}}}
+  
+ (aus historischen Gründen) bei jedem Quark, 
+  
+    
+      
+        −
+        
+          
+            
+              1
+              3
+            
+          
+        
+      
+    
+    {\displaystyle -{\tfrac {1}{3}}}
+  
+ bei jedem Antiquark, Null bei allen anderen Teilchen)
+seine elektrische Ladung (Wenn sie den Wert Null hat, ist das Teilchen nicht an der elektromagnetischen Wechselwirkung beteiligt.)
+sein schwacher Isospin (Wenn er den Wert Null hat und das Teilchen auch keine elektrische Ladung trägt, ist das Teilchen nicht an der Schwachen Wechselwirkung beteiligt.)
+seine Farbladung (Wenn sie den Wert Null hat, ist das Teilchen nicht an der Starken Wechselwirkung beteiligt.)
+
+
+== Erzeugung und Vernichtung als Grundlage aller Vorgänge ==
+Das Standardmodell sieht als mögliche Prozesse für Elementarteilchen lediglich deren Erzeugung und Vernichtung vor. Zunächst drei Beispiele zur Erläuterung dieser weitreichenden Aussage:
+
+Ablenkung eines Elektrons: Eine simple Änderung der Flugrichtung eines Elektrons wird in einen Vernichtungs- und einen Erzeugungsprozess aufgelöst: Das Elektron in seinem anfänglichen Zustand wird vernichtet und ein Elektron mit dem Impuls in der neuen Richtung wird erzeugt. Da Elektronen ununterscheidbare Teilchen sind, ist die Frage, ob „es noch dasselbe Elektron ist“,  sinnlos. Nichtsdestoweniger wird in aller Regel dieser Vorgang sprachlich so umschrieben, dass „das“ Elektron nur seine Flugrichtung geändert habe. Das Standardmodell erlaubt diesen aus Vernichtung und Erzeugung kombinierten Vorgang nur, wenn zusätzlich ein Austauschteilchen mitwirkt. Dieses wird dabei entweder absorbiert (vernichtet) oder emittiert (erzeugt) und besitzt in jedem Fall gerade solche Werte von Energie und Impuls, dass beide Größen insgesamt erhalten bleiben. Die infrage kommenden Austauschteilchen in diesem Beispiel sind das Photon, das Z-Boson und das Higgs-Boson. Alle anderen scheiden aus: Gluonen kommen nicht infrage, weil das Elektron ein Lepton ist und deshalb keine Farbladung trägt; W-Bosonen scheiden wegen der strikten Erhaltung der elektrischen Ladung aus, denn sie sind geladen, bei ihrem Entstehen oder Verschwinden müsste ihre Ladung bei einem der beiden anderen beteiligten Teilchen entsprechend auftauchen. Das Elektron hat aber vor und nach der Ablenkung dieselbe Ladung.
+Zerfall eines Z-Bosons in ein Elektron-Positron-Paar: Ein Z-Boson wird vernichtet, ein Elektron und ein Antielektron (Positron) werden erzeugt. Die elektrische Gesamtladung bleibt erhalten, denn das Elektron-Positron-Paar ist zusammen neutral, wie das ursprüngliche Z-Boson.
+Umwandlung eines Down-Quark in ein Up-Quark: Das Down-Quark wird vernichtet, das Up-Quark erzeugt, ein Austauschteilchen muss erzeugt oder vernichtet werden. In diesem Fall muss es nicht nur die (eventuelle) Änderung von Impuls und Energie der Quarks ausgleichen, sondern auch die Umwandlung der elektrischen Ladung von 
+  
+    
+      
+        −
+        
+          
+            
+              1
+              3
+            
+          
+        
+      
+    
+    {\displaystyle -{\tfrac {1}{3}}}
+  
+ zu 
+  
+    
+      
+        +
+        
+          
+            
+              2
+              3
+            
+          
+        
+      
+    
+    {\displaystyle +{\tfrac {2}{3}}}
+  
+. Damit kommt nur das W-Boson mit dem richtigen Ladungsvorzeichen infrage: Wird es erzeugt, hat es die Ladung 
+  
+    
+      
+        −
+        1
+      
+    
+    {\displaystyle -1}
+  
+, anderenfalls 
+  
+    
+      
+        +
+        1
+      
+    
+    {\displaystyle +1}
+  
+. Hier gilt wieder, dass diese Kombination aus Vernichtung und Erzeugung von Quarks sprachlich als Umwandlung eines Quark in ein Quark einer anderen Art bezeichnet wird. (Dieser Prozess ist der erste Schritt der Betaradioaktivität. Das ausgesandte W−-Boson ist nicht stabil, sondern wird in einem zweiten Prozessschritt vernichtet, wobei ein geeignetes Paar aus Fermionen erzeugt wird. Bei der Betaradioaktivität ist es ein Elektron, eben die Betastrahlung, und ein Elektron-Antineutrino.)
+All dies sind Beispiele für einen „Dreier-Vertex“, denn an diesen elementaren Prozessschritten sind stets drei Teilchen beteiligt, jeweils zwei Fermionen und ein Boson. Das Wort Vertex steht in diesem Zusammenhang für eine bestimmte Kombination von Erzeugungs- und Vernichtungsprozessen. Es entstammt der grafischen Symbolsprache der Feynman-Diagramme, in denen jedes Teilchen durch eine kurze Linie dargestellt wird. Die Linien der an einem Prozess beteiligten Teilchen treffen sich in einem gemeinsamen Punkt, dem Vertex, in dem sie enden (für Vernichtung) bzw. beginnen (für Erzeugung). Linien für Fermionen (einschl. Antifermionen) müssen immer paarweise vorkommen, beide entweder für Leptonen oder für Quarks, aber nicht gemischt. Die dritte Linie muss immer ein Boson beschreiben. Teilchen und Antiteilchen müssen dabei so beteiligt sein, dass die gesamte Leptonenzahl bzw. Baryonenzahl erhalten bleibt. Es gibt auch 3er-Vertices und 4er-Vertices nur mit Bosonen. Für weitere Größen, die bei jedem Vertex erhalten bleiben müssen, siehe Erhaltungssatz.
+Die Einwirkung eines Fermions auf ein anderes, z. B. die gegenseitige Abstoßung zweier Elektronen, wird als zweistufiger Prozess beschrieben, also mit zwei 3er-Vertices: In einem Vertex erzeugt ein Elektron ein Photon, das im anderen Vertex vom anderen Elektron absorbiert wird. Man sagt, die Elektronen tauschen ein Photon aus, wovon sich der Begriff Austauschteilchen herleitet. Allgemein besteht jede Wechselwirkung zwischen zwei Fermionen darin, dass Austauschteilchen ausgetauscht werden. Nach den Regeln der Quantenfeldtheorie entzieht sich das Austauschteilchen dabei einer direkten Beobachtung; es bleibt ein virtuelles Teilchen. Dessen ungeachtet überträgt es Impuls und Energie von einem Teilchen zum anderen und bewirkt damit z. B. die Änderung der Flugrichtungen der Teilchen. Das ist eine beobachtbare Wirkung, wie sie in der klassischen Physik durch eine Kraft verursacht wird.
+
+
+== Wechselwirkungen und Ladungen ==
+Das Standardmodell behandelt drei fundamentale Wechselwirkungen:
+
+Die starke Wechselwirkung geht von der Farbladung aus. Nur Quarks und Gluonen tragen Farbladung.
+Die elektromagnetische Wechselwirkung geht von der elektrischen Ladung aus. Alle elektrisch geladenen Teilchen, also alle Quarks, die Hälfte der Leptonen, beide W-Bosonen nehmen an ihr teil, und zusätzlich das Photon, obwohl es ungeladen ist.
+Die schwache Wechselwirkung besitzt keine Ladung in Analogie zur elektrischen Ladung oder der Farbladung. An ihr nehmen alle Teilchen teil, deren schwacher Isospin oder deren elektrische Ladung von null verschieden ist, also alle Teilchen bis auf Gluon, Photon und das rechtshändige Neutrino.
+Die vierte Grundkraft, die Gravitation, wirkt zwar auf alle Elementarteilchen, da alle Teilchen eine Energie haben. Sie wird aber in der Teilchenphysik wegen ihrer geringen Stärke meist außer Betracht gelassen, zumal es noch keine Quantentheorie der Gravitation gibt. So ist z. B. das Graviton, das zugehörige Feldquant, bisher rein hypothetisch.
+
+
+== Masse (Ruheenergie) ==
+Aufgrund der Einsteinschen Gleichung E=m c2 entspricht der Masse eines Teilchens ein Energiewert, die Ruheenergie. Da in der Teilchenphysik eine Energie üblicherweise in Elektronenvolt (eV) angegeben wird, ergibt sich für die Masse die Einheit eV/c2. In der Regel wird mit natürlichen Einheiten gearbeitet, dann kann der Quotient „c2“ bei der Angabe weggelassen werden und man kann die Masse in eV angeben.
+Die Massen der Elementarteilchen reichen von 0 eV/c2 (Photon, Gluon) bis 173 GeV/c2 (Top-Quark).
+Beispielsweise ist die Masse des Protons 938 MeV/c2, die des Elektrons 0,511 MeV/c2. Mit Werten um höchstens 1 eV/c2 haben die Neutrinos die geringsten von Null verschiedenen Massen. Im Standardmodell wurden sie zunächst als masselos betrachtet, bis 1998 Neutrinooszillationen beobachtet wurden. Aus der Oszillation kann man schließen, dass die drei Neutrinoarten verschiedene Massen haben. Sie sind aber so gering, dass genaue Werte noch nicht bestimmt werden konnten.
+
+
+== Spin ==
+
+Alle Elementarteilchen außer dem Higgs-Boson besitzen einen von Null verschiedenen Eigendrehimpuls, auch Spin genannt. Dieser kann nur in ganz- oder halbzahligen Vielfachen des Wirkungsquantums 
+  
+    
+      
+        ℏ
+      
+    
+    {\displaystyle \hbar }
+  
+ auftreten und wird als die Spinquantenzahl 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+  
+ des Teilchens bezeichnet. Der Spin ist eine intrinsische Eigenschaft der Teilchen, sein Betrag ist unveränderlich, nur seine Ausrichtung im Raum lässt sich ändern. Leptonen und Quarks haben 
+  
+    
+      
+        J
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+      
+    
+    {\displaystyle J={\tfrac {1}{2}}}
+  
+, die Austauschteilchen 
+  
+    
+      
+        J
+        =
+        1
+      
+    
+    {\displaystyle J=1}
+  
+, das Higgs-Boson 
+  
+    
+      
+        J
+        =
+        0
+      
+    
+    {\displaystyle J=0}
+  
+. Allgemein bilden die Teilchen mit ganzzahligem Spin 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+  
+ die Teilchenklasse der Bosonen, solche mit halbzahligem Spin die Teilchenklasse der Fermionen. Bosonen können einzeln erzeugt und vernichtet werden, wie z. B. einzelne Lichtquanten; Fermionen hingegen nur paarweise als Teilchen und Antiteilchen. Zu weiteren Folgen dieser grundlegend wichtigen Unterscheidung siehe Boson bzw. Fermion.
+
+
+== Weitere Quantenzahlen ==
+
+Weitere Quantenzahlen von Quarks und Leptonen charakterisieren ihre Zugehörigkeit zu einer der jeweils sechs Arten und weitere Erhaltungsgrößen, z. B. Isospin 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+, Strangeness 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+, Baryonenzahl 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+, Leptonenzahl 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  
+. Zusammengesetzte Hadronen werden mit dem Symbol 
+  
+    
+      
+        
+          I
+          
+            G
+          
+        
+        (
+        
+          J
+          
+            P
+            C
+          
+        
+        )
+      
+    
+    {\displaystyle I^{G}(J^{PC})}
+  
+ oder vereinfacht 
+  
+    
+      
+        
+          J
+          
+            P
+            C
+          
+        
+      
+    
+    {\displaystyle J^{PC}}
+  
+ o. ä. gekennzeichnet, worin 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+  
+ die Quantenzahl des Spins ist, 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  
+ die für die Parität, 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+ die für die G-Parität und 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+ die für die Ladungskonjugation.
+
+
+== Antiteilchen ==
+
+Zu jeder Art Teilchen gibt es Antiteilchen. In einigen Eigenschaften stimmen Teilchen und zugehöriges Antiteilchen exakt überein, z. B. in der Masse, im Betrag des Spins, in der Lebensdauer. Sie unterscheiden sich im Vorzeichen aller Ladungen, für die ein Erhaltungssatz gilt. Das betrifft z. B. die elektrische Ladung, die Baryonen- und Leptonenladung. So ist beispielsweise das Proton elektrisch positiv geladen und das Antiproton negativ.
+Teilchen ohne solche erhaltenen Ladungen, nämlich Photon und Z-Boson, sind ihr eigenes Antiteilchen. Die Neutrinos zählen nicht dazu, denn sie sind nur elektrisch neutral, tragen aber als Teilchen die positive, als Antiteilchen die negative Leptonenladung. Neutrinos sind daher nicht identisch mit Antineutrinos und verhalten sich im Experiment auch unterschiedlich. Die beiden W-Bosonen sind ein Teilchen-Antiteilchen-Paar. Ein Gluon ist mit jeweils einer Farbladung und einer Antifarbladung geladen, so dass das zugehörige Antigluon in der Schar der Gluonen schon mit erfasst ist.
+Da ein Paar aus Teilchen und Antiteilchen zusammen genommen hinsichtlich jeder der erhaltenen Ladungen neutral ist, können solche Paare „aus dem Nichts“ entstehen, sofern lediglich die nötige Energie bereitsteht, um ihre Massen zu erzeugen (Paarbildung). So können beispielsweise aus einem Photon (Leptonenzahl 0, elektrische Ladung 0) ein Lepton (Leptonenzahl 1, elektrische Ladung −1) und ein Antilepton (Leptonenzahl −1, elektrische Ladung +1) entstehen. Ab einer Mindestenergie von 1,02 MeV ist es ein Elektron-Positron-Paar, ab 212 MeV kommt auch ein Myon-Antimyon-Paar infrage. Die umgekehrte Reaktion findet ebenfalls statt: Während Elektron und Positron für sich genommen jeweils aufgrund der Leptonenzahlerhaltung oder der elektrischen Ladungserhaltung stabil sind, vernichten sie sich miteinander beim Zusammenkommen innerhalb von Nanosekunden (Annihilation) und hinterlassen – in Gestalt geeigneter anderer Elementarteilchen – nichts als ihren gesamten Energieinhalt, also mindestens 1,02 MeV, sowie – falls ungleich Null – ihren Gesamtimpuls und Gesamtdrehimpuls.
+
+
+== Hypothetische Elementarteilchen ==
+In theoretischen Modellen, die zum Teil plausibel, zum Teil aber sehr spekulativ sind, wurden weitere Teilchen postuliert. Hierzu gehören:
+
+Eine vierte Generation von Quarks und Leptonen.
+Das Axion und seine Superpartner Axino und Saxion kommen in Erweiterungen der Quantenchromodynamik vor.
+Das Leptoquark oder X-Boson vermittelt zwischen Quarks und Leptonen und könnte für den Überschuss von Materie gegenüber der Antimaterie verantwortlich sein.
+Das sterile Neutrino.
+Das Graviton wird als Mechanismus der gravitativen Wechselwirkung für eine Theorie der Quantengravitation erwartet.
+Supersymmetrische Theorien postulieren die Existenz einer ganzen Klasse von bosonischen „Superpartnern“ für die bisher bekannten fermionischen Teilchen und umgekehrt.
+
+
+== Anmerkungen ==
+
+
+== Zitate ==
+
+
+== Literatur ==
+
+
+=== Einsteiger ===
+Henning Genz: Elementarteilchen: das Standardmodell, Symmetrien und Erhaltungssätze, Quantenchromodynamik, lokale Eichinvarianz, Quarks und Gluonen, Supersymmetrie, Renormierung, Feynman-Graphen, zusätzliche Dimensionen, Neutrinos, Antiteilchen (= Fischer-Taschenbücher Fischer kompakt. Band 15354). Orig.-Ausg Auflage. Fischer-Taschenbuch-Verl, Frankfurt am Main 2003, ISBN 978-3-596-15354-1. 
+Klaus Bethge, Ulrich E. Schröder: Elementarteilchen und ihre Wechselwirkungen (= Lehrbuch Physik). 3., überarb. und erw.  Auflage. Wiley-VCH, Weinheim 2006, ISBN 978-3-527-40587-9. 
+Jörn Bleck-Neuhaus: Elementare Teilchen: von den Atomen über das Standard-Modell bis zum Higgs-Boson (= Springer-Lehrbuch). 2.  Auflage. Springer Spektrum, Berlin Heidelberg 2013, ISBN 978-3-642-32578-6. 
+Christoph Berger: Elementarteilchenphysik: Von den Grundlagen zu den modernen Experimenten (= Springer-Lehrbuch). Springer Berlin Heidelberg, Berlin, Heidelberg 2014, ISBN 978-3-642-41752-8, doi:10.1007/978-3-642-41753-5. 
+Gerhard Ecker: Teilchen, Felder, Quanten. Springer Berlin Heidelberg, Berlin, Heidelberg 2017, ISBN 978-3-662-54549-2, doi:10.1007/978-3-662-54550-8. 
+
+
+=== Fachliteratur ===
+Bogdan Povh et al.: Teilchen und Kerne (= Springer-Lehrbuch). 9. Auflage. Springer Berlin Heidelberg, Berlin, Heidelberg 2014, ISBN 978-3-642-37821-8, doi:10.1007/978-3-642-37822-5. 
+Particle Data Group u. a.: Review of Particle Physics. In: Progress of Theoretical and Experimental Physics. Band 2022, Nr. 8, 8. August 2022, S. 083C01, doi:10.1093/ptep/ptac097 (englisch). 
+
+
+=== Referenzwerke ===
+Die Nachfolgeserie des Landolt-Börnstein Volumen 21A, B1, B2 und C:
+
+Herwig Schopper (Hrsg.): Particle Physics Reference Library: Volume 1: Theory and Experiments. Springer International Publishing, Cham 2020, ISBN 978-3-03038206-3, doi:10.1007/978-3-030-38207-0 (englisch). 
+Stephen Myers, Herwig Schopper (Hrsg.): Particle Physics Reference Library: Volume 3: Accelerators and Colliders. Springer International Publishing, Cham 2020, ISBN 978-3-03034244-9, doi:10.1007/978-3-030-34245-6 (englisch). 
+Christian W. Fabjan, Herwig Schopper (Hrsg.): Particle Physics Reference Library: Volume 2: Detectors for Particles and Radiation. Springer International Publishing, Cham 2020, ISBN 978-3-03035317-9, doi:10.1007/978-3-030-35318-6 (englisch). 
+
+
+=== Sachliteratur ===
+Siehe die Bücher von Harald Fritzsch
+
+
+=== Historisch / Klassiker ===
+Wolfgang Pauli: Meson Theory of Nuclear Forces. 2. Auflage. Interscience Publishers, New York 1948 (englisch, archive.org). 
+Julian Schwinger: Particles and Sources. In: Physical Review. Band 152, Nr. 4, 23. Dezember 1966, S. 1219–1226, doi:10.1103/PhysRev.152.1219. 
+Robert Oppenheimer: Thirty years of mesons. In: Physics Today. Band 19, Nr. 11, 1. November 1966, S. 51–58, doi:10.1063/1.3047815 (englisch). 
+Emilio Segrè: Nuclei and Particles (= Advanced Book Program). 2. Auflage. Benjamin/Cummings Pub. Co., 1977 (archive.org). 
+Gerhard Musiol, Johannes Ranft, Roland Reif, Dieter Seelinger (Hrsg.): Kern- und Elementarteilchenphysik. 2., korrigierte  Auflage. Deutsch, Frankfurt am Main Thun 1995, ISBN 978-3-8171-1404-7. 
+
+
+== Weblinks ==
+
+Teilchenphysik.de (bis Jahr 2011) und Folgenprojekt Netzwerk Teilchenwelt
+Angebot der Welt der Physik - Teilchen
+Teilchen.at - Österreichische Teilchenphysik Outreach Seiten (der Österreichischen physikalischen Gesellschaft)
+The Particle Data Group (PDG)
+Die Angebot von CERN, z. B. das Magazin CERN Courier
+
+
+== Einzelnachweise ==

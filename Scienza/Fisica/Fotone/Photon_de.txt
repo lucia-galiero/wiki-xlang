@@ -1,0 +1,359 @@
+Das Proton [ˈproːtɔn] (Plural Protonen [proˈtoːnən]; von altgriechisch τὸ πρῶτον to prōton „das erste“) ist ein stabiles, elektrisch positiv geladenes subatomares Teilchen. Das Proton gehört neben dem Neutron und dem Elektron zu den Bausteinen der Atome, aus denen alle alltägliche Materie zusammengesetzt ist. Proton und Neutron, gemeinsam Nukleonen genannt, gehören als Baryonen zu den Fermionen und den Hadronen. Üblicherweise wird das Proton mit dem Formelzeichen 
+  
+    
+      
+        
+          p
+        
+      
+    
+    {\displaystyle \mathrm {p} }
+  
+ bezeichnet. 
+Der Atomkern des gewöhnlichen Wasserstoffs ist ein einzelnes Proton, daher wird das Proton auch als Wasserstoffkern oder Wasserstoffion bezeichnet. Diese Bezeichnungen sind jedoch nicht eindeutig, weil es Isotope des Wasserstoffs gibt, die zusätzlich ein oder zwei Neutronen im Kern enthalten.
+
+
+== Aufbau ==
+Das Proton besteht aus zwei Up-Quarks und einem Down-Quark (Formel uud). Diese drei Valenzquarks werden von einem „See“ aus Gluonen und Quark-Antiquark-Paaren umgeben. Nur etwa 1 Prozent der Masse des Protons kommt von den Massen der Valenzquarks. Der Rest stammt von der Bewegungsenergie zwischen Quarks und Gluonen sowie von den Seequarks; die Gluonen vermitteln als Kraft-Austauschteilchen die starke Kraft zwischen den Quarks.
+Der Durchmesser eines freien Protons beträgt etwa 1.7e-15 m.
+Das Proton ist wie das Neutron ein Baryon.
+
+
+== Eigenschaften ==
+
+
+=== Lebensdauer ===
+Das Proton ist das einzige stabile Hadron und das leichteste Baryon. Da ein Zerfall immer nur zu leichteren Teilchen führen kann, muss das Proton wegen der Baryonenzahlerhaltung nach dem Standardmodell stabil sein. Nach Experimenten am Kamiokande könnte eine eventuelle Halbwertzeit nicht unter 1032 Jahren liegen. Die Suche nach dem Protonenzerfall ist für die Physik von besonderer Bedeutung, da er die Möglichkeit bieten würde, Theorien jenseits des Standardmodells zu testen.
+
+
+=== Spin ===
+Das Proton hat den Spin ½. Erstaunlicherweise haben Experimente der European Muon Collaboration (EMC) in den späten 1980er Jahren am CERN und das nachfolgende HERMES-Experiment am DESY (1995–2007) gezeigt, dass der Spin des Protons weniger als zur Hälfte von den Valenzquarks herrührt; den größeren Teil tragen offenbar Gluonen bei.
+
+
+=== Parität ===
+Da Protonen nur als Proton-Antiproton-Paare entstehen können oder durch Umwandlung anderer Baryonen, hat nur die relative Parität zu anderen Baryonen eine physikalische Bedeutung. Per Konvention hat man dem Proton positive (und damit dem Antiproton negative) Parität zugeordnet.
+
+
+=== Räumliche Ausdehnung ===
+Die räumliche Ausdehnung (genauer: die Ladungsverteilung) des Protons lässt sich durch elastische Streuung von Elektronen ermitteln. Aus der Analyse des Formfaktors ergibt sich eine ungefähr exponentiell abfallende Ladungsdichte:
+
+  
+    
+      
+        ϱ
+        (
+        r
+        )
+        =
+        ϱ
+        (
+        0
+        )
+        
+        
+          
+            e
+          
+          
+            −
+            a
+            r
+          
+        
+        
+      
+    
+    {\displaystyle \varrho (r)=\varrho (0)\,\mathrm {e} ^{-ar}\qquad }
+  
+ mit a = 4,27 fm−1.
+Das Proton ist also ein eher diffuses Gebilde.
+Messungen der Lamb-Verschiebung am myonischen Wasserstoff, also am gebundenen System aus Myon und Proton, ergaben 2010 für den Ladungsradius des Protons einen um 4 % geringeren als den bisher angenommenen Wert, der u. a. aus Streuversuchen an Elektronenbeschleunigern ermittelt worden war. Der Unterschied im Protonenradius lag im Bereich von vier Standardabweichungen. Das fand große Aufmerksamkeit, da es Fragen in Bezug zur Quantenelektrodynamik aufwirft, die eigentlich als die besterforschte physikalische Theorie gilt, die zum Beispiel die Energieniveaus im Wasserstoffatom bis auf 12 Dezimalstellen genau vorhersagt. 2016 wurde die Abweichung auch an myonischen Deuterium-Atomen bestätigt. 2017 wurde eine Abweichung zu den Wasserstoff-Standarddaten auch bei Messungen an gewöhnlichem Wasserstoff entdeckt (in Höhe 3,3 Standardabweichungen sowohl beim Protonenradius als auch bei der Rydbergkonstanten). Bei weiteren Präzisionsmessungen ergab sich aber keine signifikante Diskrepanz mehr. Die Particle Data Group stellte in ihrem Review von 2022 fest: „[...] the puzzle appears to be resolved.“
+
+
+=== Magnetisches Moment ===
+Wenn das Proton ein elementares Spin-½-Teilchen wäre, müsste sein magnetisches Moment gemäß der Dirac-Gleichung den Wert 
+  
+    
+      
+        
+        
+          μ
+          
+            
+              N
+            
+          
+        
+        =
+        
+          
+            
+              e
+              ℏ
+            
+            
+              2
+              
+                m
+                
+                  
+                    p
+                  
+                
+              
+            
+          
+        
+        
+      
+    
+    {\textstyle \,\mu _{\mathrm {N} }={\frac {e\hbar }{2m_{\mathrm {p} }}}\,}
+  
+ haben. (Die so definierte Konstante 
+  
+    
+      
+        
+          μ
+          
+            
+              N
+            
+          
+        
+      
+    
+    {\displaystyle \mu _{\mathrm {N} }}
+  
+ bezeichnet man dabei als Kernmagneton.) Bereits 1933 wurde jedoch entdeckt, dass das magnetische Moment um einen Faktor 2,79 (damals gemessener Wert: „2 bis 3“) größer ist, was erst Jahrzehnte später mit der Entdeckung der Quarks eine Erklärung fand.
+Nach dem vereinfachten Quarkmodell auf der Ebene der Konstituentenquarks ergibt sich das magnetische Moment des Protons aus den magnetischen Momenten der Quarks gemäß 
+  
+    
+      
+        
+          μ
+          
+            
+              p
+            
+          
+        
+        =
+        
+          
+            
+              4
+              3
+            
+          
+        
+        
+          μ
+          
+            
+              u
+            
+          
+        
+        −
+        
+          
+            
+              1
+              3
+            
+          
+        
+        
+          μ
+          
+            
+              d
+            
+          
+        
+      
+    
+    {\displaystyle \mu _{\rm {p}}={\tfrac {4}{3}}\mu _{\rm {u}}-{\tfrac {1}{3}}\mu _{\rm {d}}}
+  
+. Hierbei sind 
+  
+    
+      
+        
+          μ
+          
+            
+              u
+            
+          
+        
+        ,
+        
+          μ
+          
+            
+              d
+            
+          
+        
+      
+    
+    {\displaystyle \mu _{\rm {u}},\mu _{\rm {d}}}
+  
+ die Momente zu den Massen des jeweiligen Konstituentenquarks. Das Ergebnis stimmt mit gemessenen Werten annähernd überein.
+
+
+== Beziehung zum Neutron ==
+Protonen und Neutronen verhalten sich bezüglich der starken Wechselwirkung gleich; Unterschiede ergeben sich aus der elektrischen Ladung und den unterschiedlichen Massen der Valenzquarks. Daher kann man Proton und Neutron als zwei Zustände eines Teilchens (Isospinduplett) betrachten.
+Protonen können aus dem Zerfall von Neutronen entstehen:
+
+  
+    
+      
+        
+          n
+        
+        →
+        
+          p
+        
+        +
+        
+          
+            e
+          
+          
+            −
+          
+        
+        +
+        
+          
+            
+              
+                ν
+                ¯
+              
+            
+          
+          
+            
+              e
+            
+          
+        
+        +
+        0
+        
+          ,
+        
+        78
+        
+        
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle \mathrm {n} \rightarrow \mathrm {p} +\mathrm {e} ^{-}+{\bar {\nu }}_{\mathrm {e} }+0{,}78\,\mathrm {MeV} }
+  
+
+Unter den extremen Bedingungen bei der Entstehung eines Neutronensterns kann auch die endotherme Reaktion 
+
+  
+    
+      
+        
+          p
+        
+        +
+        
+          
+            e
+          
+          
+            −
+          
+        
+        →
+        
+          n
+        
+        +
+        
+          ν
+          
+            
+              e
+            
+          
+        
+        −
+        0
+        
+          ,
+        
+        78
+        
+        
+          M
+          e
+          V
+        
+      
+    
+    {\displaystyle \mathrm {p} +\mathrm {e} ^{-}\rightarrow \mathrm {n} +\nu _{\mathrm {e} }-0{,}78\,\mathrm {MeV} }
+  
+
+stattfinden. Unter den Namen β−-Zerfall  bzw. Elektroneneinfang können beide Prozesse auch in Atomkernen vorkommen, aber wegen der Anwesenheit weiterer Nukleonen und Elektronen mit abgeänderter Energiebilanz.
+
+
+== Antiproton ==
+Das Antimaterie-Teilchen (Antiteilchen) zum Proton ist das Antiproton, das 1955 erstmals von Emilio Segrè und Owen Chamberlain künstlich erzeugt wurde, was den Entdeckern den Nobelpreis für Physik des Jahres 1959 einbrachte. Es hat dieselbe Masse wie das Proton, aber elektrisch negative Ladung.
+
+
+== Protonen als Bestandteile von Atomkernen ==
+Der Atomkern fast aller Nuklide besteht aus Protonen und Neutronen, den Nukleonen; die einzige Ausnahme ist das häufigste Wasserstoff-Atom 1H, dessen Atomkern nur aus einem einzelnen Proton besteht (siehe auch Proton (Chemie)). Die Anzahl der Protonen im Atomkern wird Ordnungszahl genannt, sie bestimmt die Zahl der Elektronen in der Atomhülle und damit die chemischen Eigenschaften des Elements. Atome mit gleicher Protonenzahl, aber unterschiedlicher Neutronenzahl werden Isotope genannt und haben nahezu identische chemische Eigenschaften.
+Die Protonen im Atomkern tragen zur atomaren Gesamtmasse bei. Die starke Wechselwirkung zwischen Protonen und Neutronen ist für den Erhalt und die Stabilität des Atomkerns verantwortlich. Während die positiv geladenen Protonen untereinander sowohl anziehende (starke Wechselwirkung) als auch abstoßende Kräfte (elektromagnetische Wechselwirkung) erfahren, tritt zwischen Neutronen untereinander und zwischen Neutronen und Protonen keine elektrostatische Kraft auf.
+Das Diproton, das fiktive Helium-Isotop 2He, dessen Kern lediglich aus zwei Protonen bestünde, ist nicht „teilchenstabil“, denn zwei Protonen können sich wegen des Pauli-Prinzips – im Gegensatz zum Proton und Neutron beim Deuteron – nur in einem Singulett-Zustand mit antiparallelen Spins befinden. Auf Grund der starken Spinabhängigkeit der Nukleon-Nukleon-Wechselwirkung ist dieser aber energetisch angehoben und daher nicht gebunden. Erst mit einem weiteren Neutron im Kern erhält man das stabile 3He.
+Über den Kernphotoeffekt können Protonen durch hochenergetische Photonen aus dem Kern gelöst werden, ebenso in anderen Kernreaktionen durch Stoß schneller Protonen, Neutronen oder Alphateilchen. Bei Kernen mit besonders hoher oder besonders geringer Neutronenzahl kann es zu spontaner Nukleonenemission, also Protonen- oder Neutronenemission, kommen. Man spricht hier von Protonen- bzw. Neutronenstrahlung. Die Halbwertszeiten sind hierbei stets sehr kurz. Bei extremem Protonenüberschuss (wie zum Beispiel beim Eisenisotop 45Fe) kann der Zwei-Protonen-Zerfall auftreten, bei dem sogar zwei Protonen gleichzeitig abgestrahlt werden (siehe hierzu den Hauptartikel Radioaktivität).
+
+
+== Streuprozesse von oder an Protonen ==
+Streuexperimente mit Protonen an anderen Nukleonen werden durchgeführt, um die Eigenschaften der Nukleon-Nukleon-Wechselwirkungen zu erforschen. Bei der Streuung an Neutronen ist die starke Wechselwirkung die dominierende Kraft; die elektromagnetische und erst recht die schwache Wechselwirkung sind hier vernachlässigbar. Streut man Protonen an Protonen, so muss zusätzlich die Coulomb-Kraft berücksichtigt werden. Die Kernkräfte hängen zudem noch vom Spin ab. Ein Ergebnis des Vergleichs der p-p-Streuung mit der n-n-Streuung ist, dass die Kernkräfte unabhängig vom Ladungszustand der Nukleonen sind (der Anteil der Coulombkraft am Wirkungsquerschnitt der p-p-Streuung wird hierbei abgezogen, um nur die Wirkung der Kernkräfte zu vergleichen).
+Mit elastischen oder quasielastischen Streuungen von Elektronen an Protonen lässt sich der Formfaktor des Protons bestimmen.
+Durch Streuung eines polarisierten 1,16-GeV-Elektronenstrahls an Protonen ist deren schwache Ladung genau gemessen worden. Dabei wurde ausgenutzt, dass nur bei der schwachen Wechselwirkung die Nichterhaltung der Parität gilt.
+
+
+== Weitere Reaktionen des Protons in der Astrophysik ==
+Proton-Proton-Reaktionen sind eine von zwei Fusionsreaktionen beim Wasserstoffbrennen in Sternen.
+Bei einer Protonenanlagerung im p-Prozess überwindet ein schnelles Proton die Abstoßung durch die Coulombkraft und wird Bestandteil des getroffenen Atomkerns.
+In terrestrischen Gammablitzen könnten neben anderen Masseteilchen auch Protonen mit Energien bis zu 30 MeV auftreten. Jedoch ist die Zeitskala, auf der terrestrische Protonenstrahlen gemessen werden können, deutlich länger als für terrestrische Gammablitze.
+
+
+== Technische Anwendungen ==
+Beschleunigte Protonen werden in der Medizin im Rahmen der Protonentherapie zur Behandlung von Tumorgewebe eingesetzt. Dies ist eine im Vergleich zur konventionellen Röntgenbestrahlung schonendere Therapie, da die Protonen ihre Energie im Wesentlichen erst in einem eng begrenzten Tiefenbereich im Gewebe abgeben (Bragg-Peak). Das Gewebe, das sich auf dem Weg dorthin befindet, wird deutlich weniger belastet (Faktor 3 bis 4), das Gewebe dahinter wird im Vergleich zur Röntgen-Radiotherapie relativ wenig belastet.
+Protonen mit kinetischen Energien etwa im Bereich 10 bis 50 MeV aus Zyklotronen dienen z. B. auch zur Herstellung protonenreicher Radionuklide für medizinische Zwecke oder zur oberflächlichen Aktivierung von Maschinenteilen zwecks späterer Verschleißmessungen.
+
+
+== Forschungsgeschichte ==
+William Prout hatte 1815 vermutet, dass alle Atome aus Wasserstoffatomen aufgebaut seien.
+Protonen tauchten in der Forschung zuerst 1898 auf, als Wilhelm Wien feststellte, dass man die Geißlerröhre mit Wasserstoff füllen muss, um Kanalstrahlen mit dem größten Verhältnis von Ladung zu Masse zu erhalten. Diese Strahlung besteht aus Protonen.
+1913 entwickelte Niels Bohr das nach ihm benannte Modell für das Wasserstoffatom, in dem ein Elektron einen positiv geladenen Atomkern umkreist. Dieser Kern ist ein Proton.
+1919 führte Ernest Rutherford die erste künstliche Kernumwandlung durch: 14N + α → 17O + p. Er beobachtete, dass beim Beschuss von Stickstoffkernen mit Alphateilchen Wasserstoffkerne emittiert wurden. Er nahm daraufhin an, dass alle Atomkerne aus Wasserstoffkernen aufgebaut sind und schlug für diese den Namen Proton vor. Dabei nahm er Bezug auf das Wort Protyle, das eine hypothetische Grundsubstanz aller Materie bezeichnet.
+Dass Protonen den Spin ½ besitzen, wurde 1927 durch David Dennison anhand der Form der Temperaturabhängigkeit der spezifischen Wärme von Wasserstoff gezeigt. Diese ist bei tiefen Temperaturen verschieden, je nachdem, ob die beiden Protonen ihre Spins parallel oder antiparallel ausrichten, weil jeweils bestimmte Rotationsniveaus des Moleküls aus Gründen der Vertauschungssymmetrie dann nicht vorkommen. Es zeigte sich, dass bei Raumtemperatur ¾ der Moleküle die Parallelstellung hatten (Orthowasserstoff) und ¼ die Antiparallelstellung (Parawasserstoff). Dies Mengenverhältnis passt nur zum Protonenspin ½.
+
+
+== Quellen ==
+Wolfgang Demtröder: Experimentalphysik (Band 4). 2. Auflage. Springer, Berlin 2005, ISBN 3-540-21451-8.
+Donald H. Perkins: Introduction to high energy physics. 4th edition. Cambridge University Press, 2000, ISBN 0-521-62196-8.
+
+
+== Weblinks ==
+
+Datenblatt des Protons aus: Review of Particle Properties (2022) der Particle Data Group
+
+
+== Einzelnachweise ==
